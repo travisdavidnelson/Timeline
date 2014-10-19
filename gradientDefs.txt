@@ -1,0 +1,16 @@
+<defs>
+<linearGradient id="startGradient-roman" 
+	x1="0%" y1="0%"
+	x2="15%" y2="0%">
+	<stop offset="0%" stop-color="blue" stop-opacity="0.0"/>
+	<stop offset="100%" stop-color="blue" stop-opacity="1.0"/>
+</linearGradient>
+
+<linearGradient id="startGradient-deified" 
+	x1="0%" y1="0%"
+	x2="15%" y2="0%">
+	<stop offset="0%" stop-color="gold" stop-opacity="0.0"/>
+	<stop offset="100%" stop-color="gold" stop-opacity="1.0"/>
+</linearGradient>
+
+</defs>

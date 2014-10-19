@@ -1,0 +1,67 @@
+package model;
+
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+@XmlRootElement(name = "DateRange")
+@XmlType(propOrder = { "startYear", "endYear" })
+public class DateRange {
+
+	int startYear;
+	int endYear;
+	
+	public DateRange() {
+		
+	}
+	public DateRange(int startYear, int endYear) {
+		this.startYear = startYear;
+		this.endYear = endYear;
+	}
+
+	public int getStartYear() {
+		return startYear;
+	}
+	public void setStartYear(int startYear) {
+		this.startYear = startYear;
+	}
+
+	public int getEndYear() {
+		return endYear;
+	}
+	public void setEndYear(int endYear) {
+		this.endYear = endYear;
+	}
+	
+	public int getDuration() {
+		int result = endYear - startYear;
+		// Year Zero doesn't exist
+		if (startYear < 0 && endYear > 0)
+			result = result - 1;
+		// Duration at least a year
+		if (result == 0) {
+			result = 1;
+		}
+		return result;
+	}
+	
+	@Override
+	public String toString() {
+		StringBuilder result = new StringBuilder();
+		result.append(getYearString(startYear));
+		if (endYear > startYear) {
+			result.append(" - ");
+			result.append(getYearString(endYear));
+		}
+		return result.toString();
+	}
+	
+	public static String getYearString(int year) {
+		StringBuilder result = new StringBuilder();
+		result.append(Math.abs(year));
+		if (year < 0) {
+			result.append(" BC");
+		}
+		return result.toString();
+	}
+		
+}

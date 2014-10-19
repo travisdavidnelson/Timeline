@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Timeline xmlns:ns2="model">
+    <name>Ancient Rome</name>
+    <range>
+        <startYear>-500</startYear>
+        <endYear>500</endYear>
+    </range>
+    <addCenturyTickLines>true</addCenturyTickLines>
+    <addDecadeTickLines>true</addDecadeTickLines>
+    <dynastyGroups>
+        <name>groupName1</name>
+        <yStart>100</yStart>
+        <dynasties>
+            <name>dynastyName1</name>
+            <yStart>150</yStart>
+            <people>
+                <Person>
+                    <name>Person Name</name>
+                    <lifespan>
+                        <startYear>100</startYear>
+                        <endYear>200</endYear>
+                    </lifespan>
+                    <titles>
+                        <name>title1 name</name>
+                        <reign>
+                            <startYear>1</startYear>
+                            <endYear>2</endYear>
+                        </reign>
+                    </titles>
+                </Person>
+            </people>
+        </dynasties>
+        <dynasties>
+            <name>dynastyName2</name>
+            <yStart>150</yStart>
+            <people/>
+        </dynasties>
+    </dynastyGroups>
+    <dynastyGroups>
+        <name>groupName2</name>
+        <yStart>100</yStart>
+    </dynastyGroups>
+</ns2:Timeline>
