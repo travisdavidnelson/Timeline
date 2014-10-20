@@ -456,6 +456,14 @@
     	<style>backgroundNationalCalamity</style>
 	</backgroundEvents>
 	<backgroundEvents>
+		<name>Persian War</name>
+		<dateRange>
+			<startYear>295</startYear>
+			<endYear>299</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
 		<name>Julian's Persian expedition</name>
 		<dateRange>
 			<startYear>363</startYear>
