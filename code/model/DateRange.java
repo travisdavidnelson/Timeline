@@ -6,6 +6,10 @@ import javax.xml.bind.annotation.XmlType;
 @XmlRootElement(name = "DateRange")
 @XmlType(propOrder = { "startYearApproximate", "startYear", "endYearApproximate", "endYear" })
 public class DateRange {
+	
+	public static final String FADE_IN_MASK = "fadeInMask";
+	public static final String FADE_OUT_MASK = "fadeOutMask";
+	public static final String FADE_IN_OUT_MASK = "fadeInOutMask";
 
 	boolean startYearApproximate = false;
 	int startYear;
@@ -69,6 +73,20 @@ public class DateRange {
 		return result.toString();
 	}
 	
+	public String getMaskName() {
+		String result = null;
+		if (isStartYearApproximate() && !isEndYearApproximate()) {
+			result = FADE_IN_MASK;
+		}
+		else if (isEndYearApproximate() && !isStartYearApproximate()) {
+			result = FADE_OUT_MASK;
+		}
+		else if (isStartYearApproximate() && isEndYearApproximate()) {
+			result = FADE_IN_OUT_MASK;
+		}
+		return result;
+	}
+	
 	public static String getYearString(int year, boolean approximate) {
 		StringBuilder result = new StringBuilder();
 		if (approximate) {
@@ -81,4 +99,5 @@ public class DateRange {
 		return result.toString();
 	}
 		
+	
 }

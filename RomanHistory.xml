@@ -10,14 +10,17 @@
     <backgroundEvents>
     	<name>Roman Kingdom</name>
 	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
     	    <startYear>-753</startYear>
-        	<endYear>-509</endYear>
+            <endYearApproximate>true</endYearApproximate>
+        	<endYear>-499</endYear>
     	</dateRange>
     	<style>romanKingdom</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Roman Republic</name>
 	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
     	    <startYear>-509</startYear>
         	<endYear>-27</endYear>
     	</dateRange>
@@ -27,29 +30,35 @@
     	<name>Roman Principate</name>
 	    <dateRange>
     	    <startYear>-27</startYear>
-        	<endYear>235</endYear>
+            <endYearApproximate>true</endYearApproximate>
+        	<endYear>245</endYear>
     	</dateRange>
     	<style>romanPrincipate</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Crisis of the Third Century</name>
 	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
     	    <startYear>235</startYear>
-        	<endYear>284</endYear>
+            <endYearApproximate>true</endYearApproximate>
+        	<endYear>294</endYear>
     	</dateRange>
     	<style>romanCrisis</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Roman Dominate</name>
 	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
     	    <startYear>284</startYear>
-        	<endYear>476</endYear>
+            <endYearApproximate>true</endYearApproximate>
+        	<endYear>486</endYear>
     	</dateRange>
     	<style>romanDominate</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Byzantium</name>
 	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
     	    <startYear>476</startYear>
         	<endYear>1453</endYear>
     	</dateRange>
@@ -593,6 +602,7 @@
                 	<name>king</name>
 		            <reign>
 		                <startYear>-753</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-717</endYear>
 		            </reign>
                 </titles>
@@ -615,6 +625,7 @@
             <people>
                 <name>Tullus Hostilius</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-693</startYear>
                     <endYear>-642</endYear>
                 </lifespan>
@@ -630,6 +641,7 @@
             <people>
                 <name>Ancus Marcius</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-660</startYear>
                     <endYear>-616</endYear>
                 </lifespan>
@@ -648,6 +660,7 @@
             <people>
                 <name>Lucius Tarquinius Priscus</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-636</startYear>
                     <endYear>-579</endYear>
                 </lifespan>
@@ -663,6 +676,7 @@
             <people>
                 <name>Servius Tullius</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-598</startYear>
                     <endYear>-535</endYear>
                 </lifespan>
@@ -670,6 +684,7 @@
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-578</startYear>
 		                <endYear>-535</endYear>
 		            </reign>
@@ -678,6 +693,7 @@
             <people>
                 <name>Lucius Tarquinius Superbus</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-555</startYear>
                     <endYear>-496</endYear>
                 </lifespan>
@@ -700,6 +716,7 @@
             <people>
                 <name>Lucius Junius Brutus</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-549</startYear>
                     <endYear>-509</endYear>
                 </lifespan>
@@ -744,6 +761,7 @@
             <people>
                 <name>Marcus Furius Camillus</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-446</startYear>
                     <endYear>-365</endYear>
                 </lifespan>
@@ -815,6 +833,7 @@
             <people>
                 <name>Publius Decius Mus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-380</startYear>
                     <endYear>-340</endYear>
                 </lifespan>
@@ -830,7 +849,9 @@
             <people>
                 <name>Marcus Valerius Corvus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-370</startYear>
+            		<endYearApproximate>true</endYearApproximate>
                     <endYear>-270</endYear>
                 </lifespan>
                 <importance>major</importance>
@@ -959,6 +980,7 @@
             <people>
                 <name>Tiberius Gracchus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-163</startYear>
                     <endYear>-133</endYear>
                 </lifespan>
@@ -1026,6 +1048,7 @@
             <people>
                 <name>Gnaeus Papirius Carbo</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-135</startYear>
                     <endYear>-82</endYear>
                 </lifespan>
@@ -1041,6 +1064,7 @@
             <people>
                 <name>Lucius Cornelius Cinna</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-127</startYear>
                     <endYear>-84</endYear>
                 </lifespan>
@@ -1056,6 +1080,7 @@
             <people>
                 <name>Crassus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                    <startYear>-115</startYear>
                    <endYear>-53</endYear>
                 </lifespan>
@@ -1146,6 +1171,7 @@
             <people>
                 <name>Publius Clodius Pulcher</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-93</startYear>
                     <endYear>-52</endYear>
                 </lifespan>
@@ -1175,7 +1201,9 @@
             <people>
                 <name>Lepidus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-89</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>-12</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -1190,6 +1218,7 @@
             <people>
                 <name>Publius Licinius Crassus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-86</startYear>
                     <endYear>-53</endYear>
                 </lifespan>
@@ -1231,6 +1260,7 @@
             <people>
                 <name>Lucius Aemilius Paullus Macedonicus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-229</startYear>
                     <endYear>-160</endYear>
                 </lifespan>
@@ -1288,6 +1318,7 @@
             <people>
                 <name>Sulla</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-138</startYear>
                     <endYear>-78</endYear>
                 </lifespan>
@@ -1341,6 +1372,7 @@
                 <name>Lucullus</name>
                 <lifespan>
                     <startYear>-118</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>-56</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -1465,6 +1497,7 @@
             <people>
                 <name>Titus Annius Milo</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-93</startYear>
                     <endYear>-48</endYear>
                 </lifespan>
@@ -1485,8 +1518,9 @@
 				</titles>
             </people>
             <people>
-                <name>Gaius Cassius Longius</name>
+                <name>Gaius Cassius Longinus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-86</startYear>
                     <endYear>-42</endYear>
                 </lifespan>
@@ -1600,6 +1634,7 @@
         	<people>
                 <name>Marcus Vipsanius Agrippa</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-64</startYear>
                     <endYear>-12</endYear>
                 </lifespan>
@@ -1836,6 +1871,7 @@
             <people>
                 <name>Seneca the Younger</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>-4</startYear>
                     <endYear>65</endYear>
                 </lifespan>
@@ -2114,6 +2150,7 @@
             <people>
                 <name>Didus Julianus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>133</startYear>
                     <endYear>193</endYear>
                 </lifespan>
@@ -2196,6 +2233,7 @@
             <people>
                 <name>Macrinus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>165</startYear>
                     <endYear>218</endYear>
                 </lifespan>
@@ -2211,6 +2249,7 @@
             <people>
                 <name>Elagabalus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>203</startYear>
                     <endYear>222</endYear>
                 </lifespan>
@@ -2261,6 +2300,7 @@
             <people>
                 <name>Gordian I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>159</startYear>
                     <endYear>238</endYear>
                 </lifespan>
@@ -2276,6 +2316,7 @@
             <people>
                 <name>Gordian II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>192</startYear>
                     <endYear>238</endYear>
                 </lifespan>
@@ -2291,6 +2332,7 @@
             <people>
                 <name>Pupienus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>178</startYear>
                     <endYear>238</endYear>
                 </lifespan>
@@ -2306,6 +2348,7 @@
             <people>
                 <name>Balbinus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>165</startYear>
                     <endYear>238</endYear>
                 </lifespan>
@@ -2336,6 +2379,7 @@
             <people>
                 <name>Phillip the Arab</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>204</startYear>
                     <endYear>249</endYear>
                 </lifespan>
@@ -2351,6 +2395,7 @@
             <people>
                 <name>Decius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>201</startYear>
                     <endYear>251</endYear>
                 </lifespan>
@@ -2379,8 +2424,9 @@
 				</titles>
             </people>
             <people>
-                <name>Amelianus</name>
+                <name>Aemilianus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>207</startYear>
                     <endYear>253</endYear>
                 </lifespan>
@@ -2396,7 +2442,9 @@
             <people>
                 <name>Valerian</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>195</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>264</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -2413,6 +2461,7 @@
             <people>
                 <name>Gallienus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>218</startYear>
                     <endYear>268</endYear>
                 </lifespan>
@@ -2435,6 +2484,7 @@
             <people>
                 <name>Macrianus Major</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>210</startYear>
                     <endYear>261</endYear>
                 </lifespan>
@@ -2452,6 +2502,7 @@
             <people>
                 <name>Macrianus Minor</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>235</startYear>
                     <endYear>261</endYear>
                 </lifespan>
@@ -2469,6 +2520,7 @@
             <people>
                 <name>Quietus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>237</startYear>
                     <endYear>261</endYear>
                 </lifespan>
@@ -2486,6 +2538,7 @@
             <people>
                 <name>Postumus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>215</startYear>
                     <endYear>269</endYear>
                 </lifespan>
@@ -2518,6 +2571,7 @@
             <people>
                 <name>Quintillus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>220</startYear>
                     <endYear>270</endYear>
                 </lifespan>
@@ -2552,6 +2606,7 @@
             <people>
                 <name>Marcus Claudius Tacitus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>200</startYear>
                     <endYear>276</endYear>
                 </lifespan>
@@ -2567,6 +2622,7 @@
             <people>
                 <name>Marcus Aurelius Probus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>232</startYear>
                     <endYear>282</endYear>
                 </lifespan>
@@ -2582,6 +2638,7 @@
             <people>
                 <name>Carus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>224</startYear>
                     <endYear>283</endYear>
                 </lifespan>
@@ -2597,6 +2654,7 @@
             <people>
                 <name>Carinus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>250</startYear>
                     <endYear>285</endYear>
                 </lifespan>
@@ -2619,6 +2677,7 @@
             <people>
                 <name>Numerian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>255</startYear>
                     <endYear>284</endYear>
                 </lifespan>
@@ -2662,6 +2721,7 @@
             <people>
                 <name>Maximian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>250</startYear>
                     <endYear>310</endYear>
                 </lifespan>
@@ -2677,6 +2737,7 @@
             <people>
                 <name>Constantius I Chlorus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>250</startYear>
                     <endYear>306</endYear>
                 </lifespan>
@@ -2699,6 +2760,7 @@
             <people>
                 <name>Galerius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>260</startYear>
                     <endYear>311</endYear>
                 </lifespan>
@@ -2721,6 +2783,7 @@
             <people>
                 <name>Severus II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>260</startYear>
                     <endYear>307</endYear>
                 </lifespan>
@@ -2743,6 +2806,7 @@
             <people>
                 <name>Maxentius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>278</startYear>
                     <endYear>312</endYear>
                 </lifespan>
@@ -2758,6 +2822,7 @@
             <people>
                 <name>Maximinus II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>270</startYear>
                     <endYear>313</endYear>
                 </lifespan>
@@ -2773,6 +2838,7 @@
             <people>
                 <name>Licinius I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>263</startYear>
                     <endYear>325</endYear>
                 </lifespan>
@@ -2795,6 +2861,7 @@
             <people>
                 <name>Constantine I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>272</startYear>
                     <endYear>337</endYear>
                 </lifespan>
@@ -2811,6 +2878,7 @@
             <people>
                 <name>Crispus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>299</startYear>
                     <endYear>326</endYear>
                 </lifespan>
@@ -2870,6 +2938,7 @@
             <people>
                 <name>Constans</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>320</startYear>
                     <endYear>350</endYear>
                 </lifespan>
@@ -2885,6 +2954,7 @@
             <people>
                 <name>Constantius Gallus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>325</startYear>
                     <endYear>354</endYear>
                 </lifespan>
@@ -2900,6 +2970,7 @@
             <people>
                 <name>Julian The Apostate</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>331</startYear>
                     <endYear>363</endYear>
                 </lifespan>
@@ -3025,6 +3096,7 @@
             <people>
                 <name>Stilicho</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>359</startYear>
                     <endYear>408</endYear>
                 </lifespan>
@@ -3040,6 +3112,7 @@
             <people>
                 <name>Arcadius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>377</startYear>
                     <endYear>408</endYear>
                 </lifespan>
@@ -3062,6 +3135,7 @@
             <people>
                 <name>Pulcheria</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>398</startYear>
                     <endYear>453</endYear>
                 </lifespan>
@@ -3143,6 +3217,7 @@
             <people>
                 <name>Constantius III</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>370</startYear>
                     <endYear>421</endYear>
                 </lifespan>
@@ -3186,6 +3261,7 @@
             <people>
                 <name>Joannes</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>370</startYear>
                     <endYear>425</endYear>
                 </lifespan>
@@ -3201,6 +3277,7 @@
             <people>
                 <name>Bonifacius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>380</startYear>
                     <endYear>432</endYear>
                 </lifespan>
@@ -3223,6 +3300,7 @@
             <people>
                 <name>Flavius Aetius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>396</startYear>
                     <endYear>454</endYear>
                 </lifespan>
@@ -3263,6 +3341,7 @@
             <people>
                 <name>Ricimer</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>405</startYear>
                     <endYear>472</endYear>
                 </lifespan>
@@ -3278,6 +3357,7 @@
             <people>
                 <name>Petronius Maximus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>396</startYear>
                     <endYear>455</endYear>
                 </lifespan>
@@ -3293,7 +3373,9 @@
             <people>
                 <name>Avitus</name>
                 <lifespan>
-                    <startYear>385</startYear>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>380</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>456</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -3308,6 +3390,7 @@
             <people>
                 <name>Majorian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>420</startYear>
                     <endYear>461</endYear>
                 </lifespan>
@@ -3323,6 +3406,7 @@
             <people>
                 <name>Libius Severus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>420</startYear>
                     <endYear>465</endYear>
                 </lifespan>
@@ -3338,6 +3422,7 @@
             <people>
                 <name>Anthemius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>420</startYear>
                     <endYear>472</endYear>
                 </lifespan>
@@ -3353,6 +3438,7 @@
             <people>
                 <name>Olybrius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>420</startYear>
                     <endYear>472</endYear>
                 </lifespan>
@@ -3368,7 +3454,9 @@
             <people>
                 <name>Glycerius</name>
                 <lifespan>
-                    <startYear>425</startYear>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>420</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>480</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -3383,6 +3471,7 @@
             <people>
                 <name>Julius Nepos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>430</startYear>
                     <endYear>480</endYear>
                 </lifespan>
@@ -3398,7 +3487,9 @@
             <people>
                 <name>Romulus Augustulus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>460</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>500</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -3467,6 +3558,7 @@
             <people>
                 <name>Zeno</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>425</startYear>
                     <endYear>491</endYear>
                 </lifespan>
@@ -3482,6 +3574,7 @@
             <people>
                 <name>Basiliscus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>435</startYear>
                     <endYear>477</endYear>
                 </lifespan>
@@ -3504,6 +3597,7 @@
             <people>
                 <name>Anastasius I Dicorus</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>430</startYear>
                     <endYear>518</endYear>
                 </lifespan>
@@ -3537,6 +3631,7 @@
             <people>
                 <name>Justinian I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>482</startYear>
                     <endYear>565</endYear>
                 </lifespan>
@@ -3567,6 +3662,7 @@
             <people>
                 <name>Theodora I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>500</startYear>
                     <endYear>548</endYear>
                 </lifespan>
@@ -3597,6 +3693,7 @@
             <people>
                 <name>Belisarius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>500</startYear>
                     <endYear>565</endYear>
                 </lifespan>
@@ -3619,6 +3716,7 @@
             <people>
                 <name>Justin II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>520</startYear>
                     <endYear>578</endYear>
                 </lifespan>
@@ -3667,6 +3765,7 @@
             <people>
                 <name>Phocas</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>550</startYear>
                     <endYear>610</endYear>
                 </lifespan>
@@ -3685,6 +3784,7 @@
             <people>
                 <name>Heraclius</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>575</startYear>
                     <endYear>641</endYear>
                 </lifespan>
@@ -3700,6 +3800,7 @@
             <people>
                 <name>Constantine III</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>612</startYear>
                     <endYear>641</endYear>
                 </lifespan>
@@ -3715,6 +3816,7 @@
             <people>
                 <name>Heraklonas</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>626</startYear>
                     <endYear>641</endYear>
                 </lifespan>
@@ -3745,6 +3847,7 @@
             <people>
                 <name>Constantine IV</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>652</startYear>
                     <endYear>685</endYear>
                 </lifespan>
@@ -3760,6 +3863,7 @@
             <people>
                 <name>Justinian II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>669</startYear>
                     <endYear>711</endYear>
                 </lifespan>
@@ -3785,6 +3889,7 @@
             <people>
                 <name>Leontios</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>655</startYear>
                     <endYear>706</endYear>
                 </lifespan>
@@ -3800,6 +3905,7 @@
             <people>
                 <name>Tiberios III</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>660</startYear>
                     <endYear>706</endYear>
                 </lifespan>
@@ -3815,6 +3921,7 @@
             <people>
                 <name>Philippikos Bardanes</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>665</startYear>
                     <endYear>713</endYear>
                 </lifespan>
@@ -3830,6 +3937,7 @@
             <people>
                 <name>Anastasios II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>670</startYear>
                     <endYear>719</endYear>
                 </lifespan>
@@ -3843,8 +3951,9 @@
 				</titles>
             </people>
             <people>
-                <name>Theodosious III</name>
+                <name>Theodosios III</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>680</startYear>
                     <endYear>754</endYear>
                 </lifespan>
@@ -3867,6 +3976,7 @@
             <people>
                 <name>Leo III the Isaurian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>685</startYear>
                     <endYear>741</endYear>
                 </lifespan>
@@ -3882,6 +3992,7 @@
             <people>
                 <name>Artabasdos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>690</startYear>
                     <endYear>743</endYear>
                 </lifespan>
@@ -3889,6 +4000,7 @@
                	<titles>
                		<name>usurper</name>
 	                <reign>
+			            <startYearApproximate>true</startYearApproximate>
 	                    <startYear>741</startYear>
 	                    <endYear>743</endYear>
 	                </reign>
@@ -3927,6 +4039,7 @@
             <people>
                 <name>Irene of Athens</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>753</startYear>
                     <endYear>803</endYear>
                 </lifespan>
@@ -3943,6 +4056,7 @@
                 <name>Constantine VI</name>
                 <lifespan>
                     <startYear>771</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>805</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -3960,6 +4074,7 @@
             <people>
                 <name>Nikephoros I</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>750</startYear>
                     <endYear>811</endYear>
                 </lifespan>
@@ -3975,6 +4090,7 @@
             <people>
                 <name>Staurakios</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>775</startYear>
                     <endYear>812</endYear>
                 </lifespan>
@@ -3990,6 +4106,7 @@
             <people>
                 <name>Michael I Rangabe</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>770</startYear>
                     <endYear>844</endYear>
                 </lifespan>
@@ -4072,8 +4189,9 @@
     	<dynasties>
     		<name>Macedonians</name>
             <people>
-                <name>Basil I the Maceedonian</name>
+                <name>Basil I the Macedonian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>811</startYear>
                     <endYear>886</endYear>
                 </lifespan>
@@ -4155,6 +4273,7 @@
             <people>
                 <name>Romanos I Lekapenos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>870</startYear>
                     <endYear>958</endYear>
                 </lifespan>
@@ -4170,6 +4289,7 @@
             <people>
                 <name>Romanos II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>938</startYear>
                     <endYear>963</endYear>
                 </lifespan>
@@ -4185,6 +4305,7 @@
             <people>
                 <name>Nikephoros II Phokas</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>912</startYear>
                     <endYear>969</endYear>
                 </lifespan>
@@ -4200,6 +4321,7 @@
             <people>
                 <name>John I Tzimiskes</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>925</startYear>
                     <endYear>976</endYear>
                 </lifespan>
@@ -4245,6 +4367,7 @@
             <people>
                 <name>Zoe Porphyrogenita</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>978</startYear>
                     <endYear>1050</endYear>
                 </lifespan>
@@ -4275,6 +4398,7 @@
             <people>
                 <name>Michael IV the Paphlagonian</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1010</startYear>
                     <endYear>1041</endYear>
                 </lifespan>
@@ -4290,6 +4414,7 @@
             <people>
                 <name>Michael V Kalaphates</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1015</startYear>
                     <endYear>1042</endYear>
                 </lifespan>
@@ -4305,6 +4430,7 @@
             <people>
                 <name>Theodora</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>980</startYear>
                     <endYear>1056</endYear>
                 </lifespan>
@@ -4318,8 +4444,9 @@
 				</titles>
             </people>
             <people>
-                <name>Constantine IX Manomachos</name>
+                <name>Constantine IX Monomachos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1000</startYear>
                     <endYear>1055</endYear>
                 </lifespan>
@@ -4338,6 +4465,7 @@
             <people>
                 <name>Michael VI Bringas</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>990</startYear>
                     <endYear>1059</endYear>
                 </lifespan>
@@ -4360,7 +4488,9 @@
             <people>
                 <name>Isaac I Komnenos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1007</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>1061</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -4390,6 +4520,7 @@
             <people>
                 <name>Michael VII Doukas</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1050</startYear>
                     <endYear>1090</endYear>
                 </lifespan>
@@ -4410,8 +4541,9 @@
 				</titles>
             </people>
             <people>
-                <name>Romanos VI Diogenes</name>
+                <name>Romanos IV Diogenes</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1030</startYear>
                     <endYear>1072</endYear>
                 </lifespan>
@@ -4427,6 +4559,7 @@
             <people>
                 <name>Nikephoros III Botaneiates</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1002</startYear>
                     <endYear>1081</endYear>
                 </lifespan>
@@ -4442,7 +4575,8 @@
             <people>
                 <name>Alexios I Komnenos</name>
                 <lifespan>
-                    <startYear>1056</startYear>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>1048</startYear>
                     <endYear>1118</endYear>
                 </lifespan>
                 <importance>semimajor</importance>
@@ -4502,6 +4636,7 @@
             <people>
                 <name>Andronikos I Komnenos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1118</startYear>
                     <endYear>1185</endYear>
                 </lifespan>
@@ -4542,6 +4677,7 @@
             <people>
                 <name>Alexios III Angelos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1153</startYear>
                     <endYear>1211</endYear>
                 </lifespan>
@@ -4564,6 +4700,7 @@
             <people>
                 <name>Alexios IV Angelos</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1182</startYear>
                     <endYear>1204</endYear>
                 </lifespan>
@@ -4579,7 +4716,8 @@
             <people>
                 <name>Alexios V Doukas</name>
                 <lifespan>
-                    <startYear>1160</startYear>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>1140</startYear>
                     <endYear>1205</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -4598,6 +4736,7 @@
                 <name>Baldwin I</name>
                 <lifespan>
                     <startYear>1172</startYear>
+		            <endYearApproximate>true</endYearApproximate>
                     <endYear>1205</endYear>
                 </lifespan>
                 <importance>minor</importance>
@@ -4605,6 +4744,7 @@
                		<name>augustus</name>
 	                <reign>
 	                    <startYear>1204</startYear>
+		            	<endYearApproximate>true</endYearApproximate>
 	                    <endYear>1205</endYear>
 	                </reign>
 				</titles>
@@ -4612,6 +4752,7 @@
             <people>
                 <name>Henry of Flanders</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1174</startYear>
                     <endYear>1216</endYear>
                 </lifespan>
@@ -4627,6 +4768,7 @@
             <people>
                 <name>Peter II of Courtenay</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1155</startYear>
                     <endYear>1219</endYear>
                 </lifespan>
@@ -4657,6 +4799,7 @@
             <people>
                 <name>Robert of Courtenay</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1180</startYear>
                     <endYear>1228</endYear>
                 </lifespan>
@@ -4672,6 +4815,7 @@
             <people>
                 <name>John of Brienne</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1155</startYear>
                     <endYear>1237</endYear>
                 </lifespan>
@@ -4687,6 +4831,7 @@
             <people>
                 <name>Baldwin II</name>
                 <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
                     <startYear>1217</startYear>
                     <endYear>1273</endYear>
                 </lifespan>
@@ -4869,6 +5014,7 @@
     		<people>
     			<name>Terence</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>-195</startYear>
     				<endYear>-159</endYear>
     			</lifespan>
@@ -4877,7 +5023,9 @@
     		<people>
     			<name>Sallust</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>-86</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>-35</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -4893,7 +5041,9 @@
     		<people>
     			<name>Livy</name>
     			<lifespan>
-    				<startYear>-59</startYear>
+		            <startYearApproximate>true</startYearApproximate>
+    				<startYear>-64</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>17</endYear>
     			</lifespan>
    				<importance>semimajor</importance>
@@ -4901,7 +5051,9 @@
     		<people>
     			<name>Jesus</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>-7</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>33</endYear>
     			</lifespan>
    				<importance>transformational</importance>
@@ -4910,7 +5062,9 @@
     		<people>
     			<name>Plutarch</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>46</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>120</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -4918,7 +5072,9 @@
     		<people>
     			<name>Tacitus</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>56</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>117</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -4926,7 +5082,9 @@
     		<people>
     			<name>Seutonius</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>69</startYear>
+ 		            <endYearApproximate>true</endYearApproximate>
     				<endYear>122</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -4934,7 +5092,9 @@
     		<people>
     			<name>Antinous</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>111</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>130</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -4942,14 +5102,16 @@
     		<people>
     			<name>Cassius Dio</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>150</startYear>
-    				<endYear>234</endYear>
+    				<endYear>235</endYear>
     			</lifespan>
    				<importance>minor</importance>
     		</people>
     		<people>
     			<name>Jerome</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>347</startYear>
     				<endYear>420</endYear>
     			</lifespan>
@@ -4968,7 +5130,9 @@
     		<people>
     			<name>Procopius</name>
     			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
     				<startYear>500</startYear>
+		            <endYearApproximate>true</endYearApproximate>
     				<endYear>565</endYear>
     			</lifespan>
    				<importance>minor</importance>
@@ -5066,8 +5230,9 @@
    			<endYear>-146</endYear>
    		</timespan>
    		<people>
-   			<name>Hamicar Barca</name>
+   			<name>Hamilcar Barca</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-275</startYear>
    				<endYear>-228</endYear>
    			</lifespan>
@@ -5077,6 +5242,7 @@
    			<name>Hannibal</name>
    			<lifespan>
    				<startYear>-247</startYear>
+		        <endYearApproximate>true</endYearApproximate>
    				<endYear>-182</endYear>
    			</lifespan>
 			<importance>transformational</importance>
@@ -5120,6 +5286,7 @@
    		<people>
    			<name>Vercingetorix</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-82</startYear>
    				<endYear>-46</endYear>
    			</lifespan>
@@ -5184,7 +5351,7 @@
 			<importance>major</importance>
    		</people>
    		<people>
-   			<name>Phillip V of Macedon</name>
+   			<name>Philip V of Macedon</name>
    			<lifespan>
    				<startYear>-238</startYear>
    				<endYear>-179</endYear>
@@ -5194,6 +5361,7 @@
    		<people>
    			<name>Perseus of Macedon</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-212</startYear>
    				<endYear>-166</endYear>
    			</lifespan>
@@ -5237,6 +5405,7 @@
    		<people>
    			<name>Pyrrhus of Epirus</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-319</startYear>
    				<endYear>-272</endYear>
    			</lifespan>
@@ -5257,8 +5426,9 @@
    			<endYear>-63</endYear>
    		</timespan>
    		<people>
-   			<name>Seleucis I Nicator</name>
+   			<name>Seleucus I Nicator</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-358</startYear>
    				<endYear>-281</endYear>
    			</lifespan>
@@ -5267,6 +5437,7 @@
    		<people>
    			<name>Antiochus III the Great</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-241</startYear>
    				<endYear>-187</endYear>
    			</lifespan>
@@ -5326,7 +5497,9 @@
    		<people>
    			<name>Mithridates II of Parthia</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>-143</startYear>
+	            <endYearApproximate>true</endYearApproximate>
    				<endYear>-88</endYear>
    			</lifespan>
 			<importance>minor</importance>
@@ -5403,8 +5576,9 @@
 			<importance>minor</importance>
    		</people>
    		<people>
-   			<name>Sharpur I</name>
+   			<name>Shapur I</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>215</startYear>
    				<endYear>272</endYear>
    			</lifespan>
@@ -5498,6 +5672,7 @@
    		<people>
    			<name>Genseric</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>389</startYear>
    				<endYear>477</endYear>
    			</lifespan>
@@ -5513,6 +5688,7 @@
    		<people>
    			<name>Charlemagne</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>742</startYear>
    				<endYear>814</endYear>
    			</lifespan>
@@ -5535,6 +5711,7 @@
    		<people>
    			<name>Alaric</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>370</startYear>
    				<endYear>410</endYear>
    			</lifespan>
@@ -5572,8 +5749,9 @@
    		<people>
    			<name>Attila The Hun</name>
    			<lifespan>
+	            <startYearApproximate>true</startYearApproximate>
    				<startYear>400</startYear>
-   				<endYear>450</endYear>
+   				<endYear>453</endYear>
    			</lifespan>
 			<importance>transformational</importance>
    		</people>
