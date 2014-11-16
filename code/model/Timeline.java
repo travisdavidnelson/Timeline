@@ -39,6 +39,8 @@ public class Timeline extends NamedEvent {
 	public static int minDisplayYear = -800;
 	public static int maxDisplayYear = 1500;
 	public static int fateWidth = 5;
+	public static int approximateYearPersonAdjustment = 2;
+	public static int approximateYearTitleAdjustment = 2;
 
 	boolean addCenturyTickLines = true;
 	boolean addDecadeTickLines = true;
@@ -374,8 +376,19 @@ public class Timeline extends NamedEvent {
 		}
 		String id = person.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
-		int x = yearMapping(person.getLifespan().getStartYear());
-		int width = (int) (slope() * person.getLifespan().getDuration());
+		int startYear = person.getLifespan().getStartYear();
+		if (person.getLifespan().isStartYearApproximate()) {
+			startYear -= approximateYearPersonAdjustment;
+		}
+		int x = yearMapping(startYear);
+		int duration = person.getLifespan().getDuration();
+		if (person.getLifespan().isStartYearApproximate()) {
+			duration += approximateYearPersonAdjustment;
+		}
+		if (person.getLifespan().isEndYearApproximate()) {
+			duration += approximateYearPersonAdjustment;
+		}
+		int width = (int) (slope() * duration);
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, person.getHeight(), "footprint", null, person.getLifespan().getMaskName()));
 		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, person.getHeight(), styleClass, styleOverride, person.getLifespan().getMaskName()));
@@ -392,7 +405,11 @@ public class Timeline extends NamedEvent {
 		if (Person.SEMI_MAJOR.equals(person.getImportance())) {
 			yOffset = 8;
 		}
-		addTextSVG(person.getName().toUpperCase(), x+2, nextPersonYStart+yOffset, person.getImportance(), stringBuilder);
+		int textX = x + 2;
+		if (person.getLifespan().isStartYearApproximate()) {
+			textX += 2;
+		}
+		addTextSVG(person.getName().toUpperCase(), textX, nextPersonYStart+yOffset, person.getImportance(), stringBuilder);
 		stringBuilder.append("<title>");
 		stringBuilder.append(person.getAnnotation());
 		stringBuilder.append("</title>");
@@ -413,9 +430,20 @@ public class Timeline extends NamedEvent {
 		lastPersonInGroup = person;
 	}
 	private void getTitleSVG(Person person, Title title, StringBuilder stringBuilder) {
-		int x = yearMapping(title.getDateRange().getStartYear());
+		int startYear = title.getDateRange().getStartYear();
+		if (title.getDateRange().isStartYearApproximate()) {
+			startYear -= approximateYearTitleAdjustment;
+		}
+		int x = yearMapping(startYear);
 		int y = nextPersonYStart;
-		int width = (int) (slope() * title.getDateRange().getDuration());
+		int duration = title.getDateRange().getDuration();
+		if (title.getDateRange().isStartYearApproximate()) {
+			duration += approximateYearTitleAdjustment;
+		}
+		if (title.getDateRange().isEndYearApproximate()) {
+			duration += approximateYearTitleAdjustment;
+		}
+		int width = (int) (slope() * duration);
 		int height = person.getHeight();
 		stringBuilder.append(rectangle(null, x, y, width, height, title.getName(), null, title.getDateRange().getMaskName()));
 	}

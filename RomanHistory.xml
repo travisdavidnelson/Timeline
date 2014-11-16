@@ -40,25 +40,21 @@
 	    <dateRange>
             <startYearApproximate>true</startYearApproximate>
     	    <startYear>235</startYear>
-            <endYearApproximate>true</endYearApproximate>
-        	<endYear>294</endYear>
+        	<endYear>284</endYear>
     	</dateRange>
     	<style>romanCrisis</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Roman Dominate</name>
 	    <dateRange>
-            <startYearApproximate>true</startYearApproximate>
     	    <startYear>284</startYear>
-            <endYearApproximate>true</endYearApproximate>
-        	<endYear>486</endYear>
+        	<endYear>476</endYear>
     	</dateRange>
     	<style>romanDominate</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Byzantium</name>
 	    <dateRange>
-            <startYearApproximate>true</startYearApproximate>
     	    <startYear>476</startYear>
         	<endYear>1453</endYear>
     	</dateRange>
@@ -601,6 +597,7 @@
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-753</startYear>
 	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-717</endYear>
@@ -610,14 +607,18 @@
             <people>
                 <name>Numa Pompilius</name>
                 <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
                     <startYear>-753</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-673</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-715</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-673</endYear>
 		            </reign>
                 </titles>
@@ -627,13 +628,16 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-693</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-642</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-673</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-642</endYear>
 		            </reign>
                 </titles>
@@ -643,13 +647,16 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-660</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-616</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-640</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-616</endYear>
 		            </reign>
                 </titles>
@@ -662,13 +669,16 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-636</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-579</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-616</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-579</endYear>
 		            </reign>
                 </titles>
@@ -678,6 +688,7 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-598</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-535</endYear>
                 </lifespan>
                 <importance>major</importance>
@@ -686,6 +697,7 @@
 		            <reign>
 	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-578</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-535</endYear>
 		            </reign>
                 </titles>
@@ -695,13 +707,16 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-555</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-496</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-535</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
@@ -2449,7 +2464,7 @@
                 </lifespan>
                 <importance>minor</importance>
                 <annotation>Cisis Emperor, captured by Persians.</annotation>
-                <fate>In AD 260, decisively defeated and captured alive by Sassanid King Sharpur I, for use as his footstool..</fate>
+                <fate>In AD 260, decisively defeated and captured alive by Sassanid King Sharpur I, for use as his footstool.</fate>
                	<titles>
                		<name>augustus</name>
 	                <reign>
