@@ -817,15 +817,6 @@
                 </titles>
             </people>
             <people>
-                <name>Lucretia</name>
-                <lifespan>
-                    <startYearApproximate>true</startYearApproximate>
-                    <startYear>-540</startYear>
-                    <endYear>-510</endYear>
-                </lifespan>
-                <importance>minor</importance>
-            </people>
-            <people>
                 <name>Lucius Junius Brutus</name>
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
@@ -958,16 +949,6 @@
 		                <endYear>-449</endYear>
 		            </reign>
                 </titles>
-            </people>
-            <people>
-                <name>Verginia</name>
-                <lifespan>
-                    <startYearApproximate>true</startYearApproximate>
-                    <startYear>-465</startYear>
-                    <endYearApproximate>true</endYearApproximate>
-                    <endYear>-449</endYear>
-                </lifespan>
-                <importance>minor</importance>
             </people>
             <people>
                 <name>Spurius Maelius</name>
@@ -5238,6 +5219,25 @@
     	<yStart>0</yStart>
     	<dynasties>
     		<name>Cultural Figures</name>
+            <people>
+                <name>Lucretia</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-540</startYear>
+                    <endYear>-510</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Verginia</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-465</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-449</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
     		<people>
     			<name>Terence</name>
     			<lifespan>
