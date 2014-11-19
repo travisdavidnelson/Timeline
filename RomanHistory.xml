@@ -12,15 +12,13 @@
 	    <dateRange>
             <startYearApproximate>true</startYearApproximate>
     	    <startYear>-753</startYear>
-            <endYearApproximate>true</endYearApproximate>
-        	<endYear>-499</endYear>
+        	<endYear>-509</endYear>
     	</dateRange>
     	<style>romanKingdom</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>Roman Republic</name>
 	    <dateRange>
-            <startYearApproximate>true</startYearApproximate>
     	    <startYear>-509</startYear>
         	<endYear>-27</endYear>
     	</dateRange>
@@ -65,6 +63,70 @@
 		<dateRange>
 			<startYear>-343</startYear>
 			<endYear>-341</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Overthrow of the Roman monarchy</name>
+		<dateRange>
+			<startYear>-510</startYear>
+			<endYear>-509</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Etruscan War</name>
+		<dateRange>
+			<startYear>-509</startYear>
+			<endYear>-508</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Sabine War</name>
+		<dateRange>
+			<startYear>-505</startYear>
+			<endYear>-503</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Latin War</name>
+		<dateRange>
+			<startYear>-498</startYear>
+			<endYear>-493</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Decemviri</name>
+		<dateRange>
+			<startYear>-451</startYear>
+			<endYear>-449</endYear>
+		</dateRange>
+    	<style>backgroundConstitutionalConvention</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Veii War</name>
+		<dateRange>
+			<startYear>-406</startYear>
+			<endYear>-396</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Etruscan War</name>
+		<dateRange>
+			<startYear>-389</startYear>
+			<endYear>-386</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Etruscan War</name>
+		<dateRange>
+			<startYear>-359</startYear>
+			<endYear>-351</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
@@ -716,10 +778,19 @@
 		            <reign>
 	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-535</startYear>
-	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
+            </people>
+            <people>
+                <name>Sextus Tarquinius</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-535</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-509</endYear>
+                </lifespan>
+                <importance>minor</importance>
             </people>
         </dynasties>
     </politicalDynastyGroups>
@@ -729,10 +800,36 @@
         <dynasties>
             <name>Early Republic</name>
             <people>
+                <name>Spurius Lucretius Tricipitinus</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-570</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-508</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-509</startYear>
+		                <endYear>-509</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Lucretia</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-540</startYear>
+                    <endYear>-510</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
                 <name>Lucius Junius Brutus</name>
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
-                    <startYear>-549</startYear>
+                    <startYear>-560</startYear>
                     <endYear>-509</endYear>
                 </lifespan>
                 <importance>major</importance>
@@ -743,6 +840,78 @@
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
+            </people>
+            <people>
+                <name>Lucius Tarquinius Collatinus</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-550</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-490</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-509</startYear>
+		                <endYear>-509</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Publius Valerius Publicola</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-550</startYear>
+                    <endYear>-503</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-509</startYear>
+		                <endYear>-508</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-508</startYear>
+		                <endYear>-507</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-507</startYear>
+		                <endYear>-506</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-504</startYear>
+		                <endYear>-503</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Publius Horatius Cocles</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-535</startYear>
+                    <endYear>-505</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Gaius Mucius Scaevola</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-530</startYear>
+                    <endYear>-500</endYear>
+                </lifespan>
+                <importance>minor</importance>
             </people>
             <people>
                 <name>Cincinnatus</name>
@@ -769,6 +938,49 @@
                 	<name>dictator</name>
 		            <reign>
 		                <startYear>-439</startYear>
+		                <endYear>-439</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Appius Claudius Crassus</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-485</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-440</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>decemvir</name>
+		            <reign>
+		                <startYear>-451</startYear>
+		                <endYear>-449</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Verginia</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-465</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-449</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Spurius Maelius</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-485</startYear>
+                    <endYear>-439</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>usurper</name>
+		            <reign>
+		                <startYear>-440</startYear>
 		                <endYear>-439</endYear>
 		            </reign>
                 </titles>

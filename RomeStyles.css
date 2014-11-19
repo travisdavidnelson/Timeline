@@ -9,6 +9,7 @@
 .byzantium {fill:purple;fill-opacity:0.3}
 
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.6}
+.backgroundConstitutionalConvention {fill:blue; fill-opacity:0.5}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.8}
 .backgroundForeignWar {fill:red; fill-opacity:0.5}
 .backgroundRebellion {fill:red; fill-opacity:0.6}
@@ -41,6 +42,7 @@
 .augustus 			{fill:#9A32CD;	fill-opacity:1.0}
 .caesar 			{fill:#9A32CD;	fill-opacity:0.6}
 .consul 			{fill:blue;		fill-opacity:0.8}
+.decemvir 			{fill:blue;		fill-opacity:0.6}
 .dictator 			{fill:blue;		fill-opacity:1.0}
 .exile 				{fill:black;	fill-opacity:1.0}
 .general 			{fill:#C00000;	fill-opacity:1.0}
