@@ -99,12 +99,36 @@
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
+		<name>Secessio_plebis</name>
+		<dateRange>
+			<startYear>-494</startYear>
+			<endYear>-494</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
 		<name>Decemviri</name>
 		<dateRange>
 			<startYear>-451</startYear>
 			<endYear>-449</endYear>
 		</dateRange>
     	<style>backgroundConstitutionalConvention</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Secessio_plebis</name>
+		<dateRange>
+			<startYear>-449</startYear>
+			<endYear>-449</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Secessio_plebis</name>
+		<dateRange>
+			<startYear>-445</startYear>
+			<endYear>-445</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Veii War</name>
@@ -131,6 +155,14 @@
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
+		<name>Secessio_plebis</name>
+		<dateRange>
+			<startYear>-342</startYear>
+			<endYear>-342</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
 		<name>Latin War</name>
 		<dateRange>
 			<startYear>-340</startYear>
@@ -153,6 +185,14 @@
 			<endYear>-290</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Secessio_plebis</name>
+		<dateRange>
+			<startYear>-287</startYear>
+			<endYear>-287</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>First Punic War</name>
@@ -217,6 +257,14 @@
 			<endYear>-106</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Social War</name>
+		<dateRange>
+			<startYear>-91</startYear>
+			<endYear>-88</endYear>
+		</dateRange>
+    	<style>backgroundCivilWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Third Servile War</name>
@@ -793,12 +841,8 @@
                 <importance>minor</importance>
             </people>
         </dynasties>
-    </politicalDynastyGroups>
-    <politicalDynastyGroups>
-        <name>Early Republic</name>
-        <yStart>0</yStart>
         <dynasties>
-            <name>Early Republic</name>
+            <name>Republican Founders</name>
             <people>
                 <name>Spurius Lucretius Tricipitinus</name>
                 <lifespan>
@@ -887,6 +931,23 @@
                 </titles>
             </people>
             <people>
+                <name>Titus Herminius Aquilinus</name>
+                <lifespan>
+                    <startYearApproximate>true</startYearApproximate>
+                    <startYear>-545</startYear>
+                    <endYearApproximate>true</endYearApproximate>
+                    <endYear>-495</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-506</startYear>
+		                <endYear>-505</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
                 <name>Publius Horatius Cocles</name>
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
@@ -904,6 +965,13 @@
                 </lifespan>
                 <importance>minor</importance>
             </people>
+        </dynasties>
+    </politicalDynastyGroups>
+    <politicalDynastyGroups>
+        <name>Early Republic</name>
+        <yStart>0</yStart>
+        <dynasties>
+            <name>Early Republic</name>
             <people>
                 <name>Cincinnatus</name>
                 <lifespan>
@@ -1134,6 +1202,66 @@
 		            </reign>
                 </titles>
             </people>
+            <people>
+                <name>Marcus Atilius Regulus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-307</startYear>
+                    <endYear>-250</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-267</startYear>
+		                <endYear>-267</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-256</startYear>
+		                <endYear>-256</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>general</name>
+		            <reign>
+		                <startYear>-255</startYear>
+		                <endYear>-255</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Lucius Caecilius Metellus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-290</startYear>
+                    <endYear>-221</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-251</startYear>
+		                <endYear>-251</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-247</startYear>
+		                <endYear>-247</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>dictator</name>
+		            <reign>
+		                <startYear>-224</startYear>
+		                <endYear>-224</endYear>
+		            </reign>
+                </titles>
+            </people>
         </dynasties>
     </politicalDynastyGroups>
     <politicalDynastyGroups>
@@ -1174,6 +1302,50 @@
 	                <reign>
 	                    <startYear>-205</startYear>
 	                    <endYear>-202</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Tiberius Gracchus the Elder</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-217</startYear>
+                    <endYear>-154</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+               		<name>tribune</name>
+	                <reign>
+	                    <startYear>-187</startYear>
+	                    <endYear>-187</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>praetor</name>
+	                <reign>
+	                    <startYear>-179</startYear>
+	                    <endYear>-179</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-177</startYear>
+	                    <endYear>-177</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>censor</name>
+	                <reign>
+	                    <startYear>-169</startYear>
+	                    <endYear>-169</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-163</startYear>
+	                    <endYear>-163</endYear>
 	                </reign>
 	            </titles>
             </people>
@@ -1524,6 +1696,65 @@
 	            </titles>
             </people>
             <people>
+                <name>Scipio Aemilianus</name>
+                <lifespan>
+                    <startYear>-185</startYear>
+                    <endYear>-129</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-147</startYear>
+	                    <endYear>-147</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>censor</name>
+	                <reign>
+	                    <startYear>-142</startYear>
+	                    <endYear>-142</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-134</startYear>
+	                    <endYear>-134</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Quintus Caecilius Metellus Numidicus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-160</startYear>
+                    <endYear>-91</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-109</startYear>
+	                    <endYear>-109</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>censor</name>
+	                <reign>
+	                    <startYear>-102</startYear>
+	                    <endYear>-102</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>exile</name>
+	                <reign>
+	                    <startYear>-101</startYear>
+	                    <endYear>-99</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
                 <name>Sulla</name>
                 <lifespan>
 		            <startYearApproximate>true</startYearApproximate>
@@ -1686,7 +1917,23 @@
 	                    <endYear>-48</endYear>
 	                </reign>
 				</titles>
-            </people>
+             </people>
+            <people>
+                <name>Marcus Calpurnius Bibulus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-102</startYear>
+                    <endYear>-48</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-59</startYear>
+	                    <endYear>-59</endYear>
+	                </reign>
+	            </titles>
+             </people>
              <people>
                 <name>Cato the Younger</name>
                 <lifespan>
@@ -2395,6 +2642,15 @@
 				</titles>
             </people>
             <people>
+                <name>Julia Domna</name>
+                <lifespan>
+                    <startYear>170</startYear>
+                    <endYear>217</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <backgroundStyle>deified</backgroundStyle>
+            </people>
+            <people>
                 <name>Caracalla</name>
                 <lifespan>
                     <startYear>188</startYear>
@@ -2453,6 +2709,15 @@
 	                    <endYear>218</endYear>
 	                </reign>
 				</titles>
+            </people>
+            <people>
+                <name>Julia Maesa</name>
+                <lifespan>
+                    <startYear>165</startYear>
+                    <endYear>226</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <backgroundStyle>deified</backgroundStyle>
             </people>
             <people>
                 <name>Elagabalus</name>
@@ -2943,29 +3208,6 @@
 				</titles>
             </people>
             <people>
-                <name>Constantius I Chlorus</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>250</startYear>
-                    <endYear>306</endYear>
-                </lifespan>
-                <importance>semimajor</importance>
-               	<titles>
-               		<name>caesar</name>
-	                <reign>
-	                    <startYear>293</startYear>
-	                    <endYear>305</endYear>
-	                </reign>
-				</titles>
-               	<titles>
-               		<name>augustus</name>
-	                <reign>
-	                    <startYear>305</startYear>
-	                    <endYear>306</endYear>
-	                </reign>
-				</titles>
-            </people>
-            <people>
                 <name>Galerius</name>
                 <lifespan>
 		            <startYearApproximate>true</startYearApproximate>
@@ -3067,6 +3309,40 @@
     	<dynasties>
     		<name>Constantinians</name>
             <people>
+                <name>Constantius I Chlorus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>250</startYear>
+                    <endYear>306</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+               	<titles>
+               		<name>caesar</name>
+	                <reign>
+	                    <startYear>293</startYear>
+	                    <endYear>305</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>augustus</name>
+	                <reign>
+	                    <startYear>305</startYear>
+	                    <endYear>306</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Helena</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>250</startYear>
+		            <endYearApproximate>true</endYearApproximate>
+                    <endYear>330</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <backgroundStyle>sanctified</backgroundStyle>
+            </people>
+            <people>
                 <name>Constantine I</name>
                 <lifespan>
 		            <startYearApproximate>true</startYearApproximate>
@@ -3156,6 +3432,63 @@
 	                <reign>
 	                    <startYear>337</startYear>
 	                    <endYear>350</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Flavius Dalmatius</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>276</startYear>
+                    <endYear>337</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>334</startYear>
+	                    <endYear>335</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Dalmatius</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>300</startYear>
+                    <endYear>337</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>caesar</name>
+	                <reign>
+	                    <startYear>335</startYear>
+	                    <endYear>337</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Hannibalianus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>305</startYear>
+                    <endYear>337</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Julius Constantius</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>289</startYear>
+                    <endYear>337</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>335</startYear>
+	                    <endYear>336</endYear>
 	                </reign>
 				</titles>
             </people>
@@ -5226,7 +5559,7 @@
                     <startYear>-540</startYear>
                     <endYear>-510</endYear>
                 </lifespan>
-                <importance>minor</importance>
+                <importance>semimajor</importance>
             </people>
             <people>
                 <name>Verginia</name>
@@ -5274,6 +5607,16 @@
     				<endYear>17</endYear>
     			</lifespan>
    				<importance>semimajor</importance>
+    		</people>
+    		<people>
+    			<name>Strabo</name>
+    			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+    				<startYear>-64</startYear>
+		            <endYearApproximate>true</endYearApproximate>
+    				<endYear>24</endYear>
+    			</lifespan>
+   				<importance>minor</importance>
     		</people>
     		<people>
     			<name>Jesus</name>
