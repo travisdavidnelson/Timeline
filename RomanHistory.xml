@@ -64,7 +64,7 @@
 			<startYear>-343</startYear>
 			<endYear>-341</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Overthrow of the Roman monarchy</name>
@@ -99,7 +99,7 @@
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Secessio_plebis</name>
+		<name>Secessio plebis</name>
 		<dateRange>
 			<startYear>-494</startYear>
 			<endYear>-494</endYear>
@@ -115,7 +115,7 @@
     	<style>backgroundConstitutionalConvention</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Secessio_plebis</name>
+		<name>Secessio plebis</name>
 		<dateRange>
 			<startYear>-449</startYear>
 			<endYear>-449</endYear>
@@ -123,7 +123,7 @@
     	<style>backgroundCivilWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Secessio_plebis</name>
+		<name>Secessio plebis</name>
 		<dateRange>
 			<startYear>-445</startYear>
 			<endYear>-445</endYear>
@@ -147,6 +147,46 @@
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
+		<name>Latin War</name>
+		<dateRange>
+			<startYear>-389</startYear>
+			<endYear>-385</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Praeneste War</name>
+		<dateRange>
+			<startYear>-383</startYear>
+			<endYear>-379</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Satricum War</name>
+		<dateRange>
+			<startYear>-377</startYear>
+			<endYear>-377</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Hernician War</name>
+		<dateRange>
+			<startYear>-362</startYear>
+			<endYear>-358</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Tibur War</name>
+		<dateRange>
+			<startYear>-361</startYear>
+			<endYear>-354</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
 		<name>Etruscan War</name>
 		<dateRange>
 			<startYear>-359</startYear>
@@ -155,7 +195,7 @@
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Secessio_plebis</name>
+		<name>Secessio plebis</name>
 		<dateRange>
 			<startYear>-342</startYear>
 			<endYear>-342</endYear>
@@ -176,6 +216,14 @@
 			<startYear>-326</startYear>
 			<endYear>-304</endYear>
 		</dateRange>
+    	<style>backgroundForeignWarVictory</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Hernici War</name>
+		<dateRange>
+			<startYear>-307</startYear>
+			<endYear>-306</endYear>
+		</dateRange>
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
@@ -184,10 +232,10 @@
 			<startYear>-298</startYear>
 			<endYear>-290</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Secessio_plebis</name>
+		<name>Secessio plebis</name>
 		<dateRange>
 			<startYear>-287</startYear>
 			<endYear>-287</endYear>
@@ -195,10 +243,42 @@
     	<style>backgroundCivilWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
+		<name>Pyrrhic War</name>
+  		<dateRange>
+  			<startYear>-280</startYear>
+   			<endYear>-275</endYear>
+   		</dateRange>
+    	<style>backgroundForeignWarVictory</style>
+   	</backgroundEvents>
+	<backgroundEvents>
 		<name>First Punic War</name>
   		<dateRange>
   			<startYear>-264</startYear>
    			<endYear>-241</endYear>
+   		</dateRange>
+    	<style>backgroundForeignWarVictory</style>
+   	</backgroundEvents>
+	<backgroundEvents>
+		<name>First Illyrian War</name>
+  		<dateRange>
+  			<startYear>-229</startYear>
+   			<endYear>-228</endYear>
+   		</dateRange>
+    	<style>backgroundForeignWar</style>
+   	</backgroundEvents>
+	<backgroundEvents>
+		<name>Second Illyrian War</name>
+  		<dateRange>
+  			<startYear>-220</startYear>
+   			<endYear>-219</endYear>
+   		</dateRange>
+    	<style>backgroundForeignWar</style>
+   	</backgroundEvents>
+	<backgroundEvents>
+		<name>Third Illyrian War</name>
+  		<dateRange>
+  			<startYear>-168</startYear>
+   			<endYear>-167</endYear>
    		</dateRange>
     	<style>backgroundForeignWar</style>
    	</backgroundEvents>
@@ -208,7 +288,7 @@
   			<startYear>-218</startYear>
    			<endYear>-201</endYear>
    		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
    	</backgroundEvents>
 	<backgroundEvents>
 		<name>Third Punic War</name>
@@ -216,7 +296,7 @@
 			<startYear>-149</startYear>
 			<endYear>-146</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>First Macedonian War</name>
@@ -232,7 +312,7 @@
 			<startYear>-200</startYear>
 			<endYear>-196</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Third Macedonian War</name>
@@ -240,7 +320,7 @@
 			<startYear>-172</startYear>
 			<endYear>-168</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Fourth Macedonian War</name>
@@ -248,7 +328,7 @@
 			<startYear>-150</startYear>
 			<endYear>-148</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Jugurthine War</name>
@@ -256,7 +336,7 @@
 			<startYear>-112</startYear>
 			<endYear>-106</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Social War</name>
@@ -280,7 +360,7 @@
 			<startYear>-58</startYear>
 			<endYear>-50</endYear>
 		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Sulla's first civil war</name>
@@ -1262,6 +1342,87 @@
 		            </reign>
                 </titles>
             </people>
+            <people>
+                <name>Fabius Maximus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-280</startYear>
+                    <endYear>-203</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-233</startYear>
+		                <endYear>-233</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-228</startYear>
+		                <endYear>-228</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>dictator</name>
+		            <reign>
+		                <startYear>-221</startYear>
+		                <endYear>-221</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>dictator</name>
+		            <reign>
+		                <startYear>-217</startYear>
+		                <endYear>-217</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-215</startYear>
+		                <endYear>-215</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-214</startYear>
+		                <endYear>-214</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-209</startYear>
+		                <endYear>-209</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Publius Cornelius Scipio</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-270</startYear>
+                    <endYear>-211</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-218</startYear>
+		                <endYear>-218</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>general</name>
+		            <reign>
+		                <startYear>-217</startYear>
+		                <endYear>-211</endYear>
+		            </reign>
+                </titles>
+            </people>
         </dynasties>
     </politicalDynastyGroups>
     <politicalDynastyGroups>
@@ -1312,7 +1473,7 @@
                     <startYear>-217</startYear>
                     <endYear>-154</endYear>
                 </lifespan>
-                <importance>semimajor</importance>
+                <importance>minor</importance>
                 <titles>
                		<name>tribune</name>
 	                <reign>
@@ -1355,7 +1516,7 @@
                     <startYear>-190</startYear>
                     <endYear>-100</endYear>
                 </lifespan>
-                <importance>semimajor</importance>
+                <importance>minor</importance>
             </people>
             <people>
                 <name>Tiberius Gracchus</name>
@@ -1625,6 +1786,13 @@
 	                    <endYear>-33</endYear>
 	                </reign>
 				</titles>
+               	<titles>
+               		<name>exile</name>
+	                <reign>
+	                    <startYear>-33</startYear>
+	                    <endYear>-30</endYear>
+	                </reign>
+				</titles>
             </people>
         </dynasties>
         <dynasties>
@@ -1644,7 +1812,7 @@
                     <startYear>-229</startYear>
                     <endYear>-160</endYear>
                 </lifespan>
-                <importance>semimajor</importance>
+                <importance>minor</importance>
                 <titles>
                		<name>aedile</name>
 	                <reign>
@@ -2938,7 +3106,7 @@
                     <startYear>218</startYear>
                     <endYear>268</endYear>
                 </lifespan>
-                <importance>minor</importance>
+                <importance>semimajor</importance>
                	<titles>
                		<name>caesar</name>
 	                <reign>
