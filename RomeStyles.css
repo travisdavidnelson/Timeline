@@ -1,29 +1,29 @@
 .year {font-family: serif; font-size: 18px; kerning: 0; stroke:none; fill:#000000;}
 .timeline {stroke-width: 2.0; stroke: black}
 
-.romanKingdom {fill:yellow;fill-opacity:0.3}
+.romanKingdom {fill:yellow;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.1}
 .romanPrincipate {fill:purple;fill-opacity:0.2}
-.romanCrisis {fill:grey;fill-opacity:0.5}
-.romanDominate {fill:purple;fill-opacity:0.25}
-.byzantium {fill:purple;fill-opacity:0.3}
+.romanCrisis {fill:grey;fill-opacity:0.3}
+.romanDominate {fill:purple;fill-opacity:0.2}
+.byzantium {fill:purple;fill-opacity:0.2}
 
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.6}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.5}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.8}
-.backgroundForeignWar {fill:red; fill-opacity:0.5}
-.backgroundForeignWarVictory {fill:blue; fill-opacity:0.5}
-.backgroundForeignWarDefeat {fill:red; fill-opacity:0.7}
+.backgroundForeignWar {fill:brown; fill-opacity:0.2}
+.backgroundForeignWarVictory {fill:blue; fill-opacity:0.2}
+.backgroundForeignWarDefeat {fill:red; fill-opacity:0.2}
 .backgroundRebellion {fill:red; fill-opacity:0.6}
 .backgroundNationalCalamity {stroke:#C00000; stroke-width:1.5; fill:#C00000; fill-opacity:1.0}
 .backgroundPlague {fill:black; fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
-.roman {fill:grey; stroke:black; stroke-width:0.5; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+.roman {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:3.0; fill-opacity:1.0; box-shadow: -5px -5px 5px #888;}
 .sanctified {fill:gold; stroke:gold; stroke-width:3.0; fill-opacity:1.0; box-shadow: -5px -5px 5px #888;}
 .barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
 .fate {fill-opacity:0.0}
-.footprint {fill:white; fill-opacity:1.0}
+.footprint {fill:white; fill-opacity:0.0}
 
 .dynasty {font-family: serif; font-size: 14px; kerning: 1; stroke:none; fill:#000000;}
 
@@ -42,7 +42,7 @@
 .dictator 			{fill:blue;		fill-opacity:1.0}
 .exile 				{fill:black;	fill-opacity:0.5}
 .general 			{fill:#C00000;	fill-opacity:0.6}
-.governor 			{fill:blue;		fill-opacity:1.0}
+.governor 			{fill:blue;		fill-opacity:0.5}
 .king 				{fill:purple;	fill-opacity:1.0}
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}

@@ -264,7 +264,7 @@
   			<startYear>-229</startYear>
    			<endYear>-228</endYear>
    		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
    	</backgroundEvents>
 	<backgroundEvents>
 		<name>Second Illyrian War</name>
@@ -272,7 +272,7 @@
   			<startYear>-220</startYear>
    			<endYear>-219</endYear>
    		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
    	</backgroundEvents>
 	<backgroundEvents>
 		<name>Third Illyrian War</name>
@@ -280,7 +280,7 @@
   			<startYear>-168</startYear>
    			<endYear>-167</endYear>
    		</dateRange>
-    	<style>backgroundForeignWar</style>
+    	<style>backgroundForeignWarVictory</style>
    	</backgroundEvents>
 	<backgroundEvents>
 		<name>Second Punic War</name>
@@ -435,18 +435,26 @@
     	<style>backgroundRebellion</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Battle of Cannae</name>
+		<name>Sack of Rome (387 BC)</name>
 		<dateRange>
-			<startYear>-216</startYear>
+			<startYear>-387</startYear>
+			<endYear>-387</endYear>
+		</dateRange>
+    	<style>backgroundNationalCalamity</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>Battle of Lake Trasimene</name>
+		<dateRange>
+			<startYear>-217</startYear>
 			<endYear>-216</endYear>
 		</dateRange>
     	<style>backgroundNationalCalamity</style>
 	</backgroundEvents>
 	<backgroundEvents>
-		<name>Sack of Rome (387 BC)</name>
+		<name>Battle of Cannae</name>
 		<dateRange>
-			<startYear>-387</startYear>
-			<endYear>-387</endYear>
+			<startYear>-216</startYear>
+			<endYear>-216</endYear>
 		</dateRange>
     	<style>backgroundNationalCalamity</style>
 	</backgroundEvents>
@@ -1423,376 +1431,49 @@
 		            </reign>
                 </titles>
             </people>
-        </dynasties>
-    </politicalDynastyGroups>
-    <politicalDynastyGroups>
-        <name>Late Republic</name>
-        <yStart>0</yStart>
-        <dynasties>
-            <name>Populares</name>
             <people>
-                <name>Scipio Africanus</name>
+                <name>Marcus Claudius Marcellus</name>
                 <lifespan>
-                    <startYear>-236</startYear>
-                    <endYear>-183</endYear>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-268</startYear>
+                    <endYear>-208</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
-               		<name>quaestor</name>
-	                <reign>
-	                    <startYear>-213</startYear>
-	                    <endYear>-210</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>general</name>
-	                <reign>
-	                    <startYear>-210</startYear>
-	                    <endYear>-206</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-205</startYear>
-	                    <endYear>-205</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>general</name>
-	                <reign>
-	                    <startYear>-205</startYear>
-	                    <endYear>-202</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Tiberius Gracchus the Elder</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-217</startYear>
-                    <endYear>-154</endYear>
-                </lifespan>
-                <importance>minor</importance>
-                <titles>
-               		<name>tribune</name>
-	                <reign>
-	                    <startYear>-187</startYear>
-	                    <endYear>-187</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>praetor</name>
-	                <reign>
-	                    <startYear>-179</startYear>
-	                    <endYear>-179</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-177</startYear>
-	                    <endYear>-177</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>censor</name>
-	                <reign>
-	                    <startYear>-169</startYear>
-	                    <endYear>-169</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-163</startYear>
-	                    <endYear>-163</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Cornelia Africana</name>
-                <lifespan>
-                    <startYear>-190</startYear>
-                    <endYear>-100</endYear>
-                </lifespan>
-                <importance>minor</importance>
-            </people>
-            <people>
-                <name>Tiberius Gracchus</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-163</startYear>
-                    <endYear>-133</endYear>
-                </lifespan>
-                <importance>semimajor</importance>
-                <titles>
-                	<name>tribune</name>
+                	<name>consul</name>
 		            <reign>
-		                <startYear>-133</startYear>
-		                <endYear>-133</endYear>
+		                <startYear>-222</startYear>
+		                <endYear>-222</endYear>
 		            </reign>
                 </titles>
-            </people>
-            <people>
-                <name>Gaius Gracchus</name>
-                <lifespan>
-                    <startYear>-154</startYear>
-                    <endYear>-121</endYear>
-                </lifespan>
-                <importance>semimajor</importance>
                 <titles>
-              		<name>tribune</name>
-	                <reign>
-	                    <startYear>-123</startYear>
-	                    <endYear>-121</endYear>
-	                </reign>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-215</startYear>
+		                <endYear>-215</endYear>
+		            </reign>
                 </titles>
-            </people>
-            <people>
-                <name>Gaius Marius</name>
-                <lifespan>
-                    <startYear>-157</startYear>
-                    <endYear>-86</endYear>
-                </lifespan>
-                <importance>major</importance>
-                <annotation>Novus homo - Seven times elected consul - First Man in Rome - Bloody tyrant</annotation>
                 <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-106</startYear>
-	                    <endYear>-106</endYear>
-	                </reign>
-	            </titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-214</startYear>
+		                <endYear>-214</endYear>
+		            </reign>
+                </titles>
                 <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-105</startYear>
-	                    <endYear>-100</endYear>
-	                </reign>
-	            </titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-210</startYear>
+		                <endYear>-210</endYear>
+		            </reign>
+                </titles>
                 <titles>
-               		<name>exile</name>
-	                <reign>
-	                    <startYear>-88</startYear>
-	                    <endYear>-87</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-86</startYear>
-	                    <endYear>-86</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Gnaeus Papirius Carbo</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-135</startYear>
-                    <endYear>-82</endYear>
-                </lifespan>
-                <importance>minor</importance>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-85</startYear>
-	                    <endYear>-82</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Lucius Cornelius Cinna</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-127</startYear>
-                    <endYear>-84</endYear>
-                </lifespan>
-                <importance>minor</importance>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-87</startYear>
-	                    <endYear>-84</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Crassus</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                   <startYear>-115</startYear>
-                   <endYear>-53</endYear>
-                </lifespan>
-                <importance>semimajor</importance>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-69</startYear>
-	                    <endYear>-69</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-55</startYear>
-	                    <endYear>-54</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>governor</name>
-	                <reign>
-	                    <startYear>-54</startYear>
-	                    <endYear>-53</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>triumvir</name>
-	                <reign>
-	                    <startYear>-60</startYear>
-	                    <endYear>-53</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Catiline</name>
-                <lifespan>
-                    <startYear>-108</startYear>
-                    <endYear>-62</endYear>
-                </lifespan>
-                <importance>minor</importance>
-                <titles>
-               		<name>usurper</name>
-	                <reign>
-	                    <startYear>-64</startYear>
-	                    <endYear>-62</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Julius Caesar</name>
-                <lifespan>
-                    <startYear>-100</startYear>
-                    <endYear>-44</endYear>
-                </lifespan>
-                <importance>transformational</importance>
-                <annotation>Veni, Vidi, Vici!</annotation>
-                <fate>Sic Semper Tyrannis, Ides of March 44 BC. Afterwards deified.</fate>
-                <backgroundStyle>deified</backgroundStyle>
-                <titles>
-               		<name>consul</name>
-	                <reign>
-	                    <startYear>-59</startYear>
-	                    <endYear>-59</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>governor</name>
-	                <reign>
-	                    <startYear>-58</startYear>
-	                    <endYear>-48</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>triumvir</name>
-	                <reign>
-	                    <startYear>-60</startYear>
-	                    <endYear>-53</endYear>
-	                </reign>
-	            </titles>
-                <titles>
-               		<name>dictator</name>
-	                <reign>
-	                    <startYear>-48</startYear>
-	                    <endYear>-44</endYear>
-	                </reign>
-	            </titles>
-            </people>
-            <people>
-                <name>Publius Clodius Pulcher</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-93</startYear>
-                    <endYear>-52</endYear>
-                </lifespan>
-                <importance>minor</importance>
-               	<titles>
-               		<name>quaestor</name>
-	                <reign>
-	                    <startYear>-60</startYear>
-	                    <endYear>-60</endYear>
-	                </reign>
-				</titles>
-               	<titles>
-               		<name>tribune</name>
-	                <reign>
-	                    <startYear>-58</startYear>
-	                    <endYear>-58</endYear>
-	                </reign>
-				</titles>
-               	<titles>
-               		<name>aedile</name>
-	                <reign>
-	                    <startYear>-56</startYear>
-	                    <endYear>-56</endYear>
-	                </reign>
-				</titles>
-            </people>
-            <people>
-                <name>Lepidus</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-89</startYear>
-		            <endYearApproximate>true</endYearApproximate>
-                    <endYear>-12</endYear>
-                </lifespan>
-                <importance>minor</importance>
-               	<titles>
-               		<name>triumvir</name>
-	                <reign>
-	                    <startYear>-43</startYear>
-	                    <endYear>-36</endYear>
-	                </reign>
-				</titles>
-            </people>
-            <people>
-                <name>Publius Licinius Crassus</name>
-                <lifespan>
-		            <startYearApproximate>true</startYearApproximate>
-                    <startYear>-86</startYear>
-                    <endYear>-53</endYear>
-                </lifespan>
-                <importance>minor</importance>
-            </people>
-            <people>
-                <name>Mark Antony</name>
-                <lifespan>
-                    <startYear>-83</startYear>
-                    <endYear>-30</endYear>
-                </lifespan>
-                <importance>major</importance>
-                <titles>
-               		<name>masterOfHorse</name>
-	                <reign>
-	                    <startYear>-48</startYear>
-	                    <endYear>-44</endYear>
-	                </reign>
-				</titles>
-               	<titles>
-               		<name>triumvir</name>
-	                <reign>
-	                    <startYear>-43</startYear>
-	                    <endYear>-33</endYear>
-	                </reign>
-				</titles>
-               	<titles>
-               		<name>exile</name>
-	                <reign>
-	                    <startYear>-33</startYear>
-	                    <endYear>-30</endYear>
-	                </reign>
-				</titles>
+                	<name>consul</name>
+		            <reign>
+		                <startYear>-208</startYear>
+		                <endYear>-208</endYear>
+		            </reign>
+                </titles>
             </people>
         </dynasties>
         <dynasties>
@@ -2210,6 +1891,421 @@
         </dynasties>
     </politicalDynastyGroups>
     <politicalDynastyGroups>
+        <name>Late Republic</name>
+        <yStart>0</yStart>
+        <dynasties>
+            <name>Populares</name>
+            <people>
+                <name>Gaius Flaminius Nepos</name>
+                <lifespan>
+                	<startYearApproximate>true</startYearApproximate>
+                    <startYear>-260</startYear>
+                    <endYear>-217</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+               		<name>tribune</name>
+	                <reign>
+	                    <startYear>-232</startYear>
+	                    <endYear>-232</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>-227</startYear>
+	                    <endYear>-227</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-223</startYear>
+	                    <endYear>-223</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>censor</name>
+	                <reign>
+	                    <startYear>-220</startYear>
+	                    <endYear>-220</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-217</startYear>
+	                    <endYear>-217</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Scipio Africanus</name>
+                <lifespan>
+                    <startYear>-236</startYear>
+                    <endYear>-183</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+               		<name>quaestor</name>
+	                <reign>
+	                    <startYear>-213</startYear>
+	                    <endYear>-210</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>general</name>
+	                <reign>
+	                    <startYear>-210</startYear>
+	                    <endYear>-206</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-205</startYear>
+	                    <endYear>-205</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>general</name>
+	                <reign>
+	                    <startYear>-205</startYear>
+	                    <endYear>-202</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Tiberius Gracchus the Elder</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-217</startYear>
+                    <endYear>-154</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>tribune</name>
+	                <reign>
+	                    <startYear>-187</startYear>
+	                    <endYear>-187</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>praetor</name>
+	                <reign>
+	                    <startYear>-179</startYear>
+	                    <endYear>-179</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-177</startYear>
+	                    <endYear>-177</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>censor</name>
+	                <reign>
+	                    <startYear>-169</startYear>
+	                    <endYear>-169</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-163</startYear>
+	                    <endYear>-163</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Cornelia Africana</name>
+                <lifespan>
+                    <startYear>-190</startYear>
+                    <endYear>-100</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Tiberius Gracchus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-163</startYear>
+                    <endYear>-133</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>tribune</name>
+		            <reign>
+		                <startYear>-133</startYear>
+		                <endYear>-133</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Gaius Gracchus</name>
+                <lifespan>
+                    <startYear>-154</startYear>
+                    <endYear>-121</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+              		<name>tribune</name>
+	                <reign>
+	                    <startYear>-123</startYear>
+	                    <endYear>-121</endYear>
+	                </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Gaius Marius</name>
+                <lifespan>
+                    <startYear>-157</startYear>
+                    <endYear>-86</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <annotation>Novus homo - Seven times elected consul - First Man in Rome - Bloody tyrant</annotation>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-106</startYear>
+	                    <endYear>-106</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-105</startYear>
+	                    <endYear>-100</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>exile</name>
+	                <reign>
+	                    <startYear>-88</startYear>
+	                    <endYear>-87</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-86</startYear>
+	                    <endYear>-86</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Gnaeus Papirius Carbo</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-135</startYear>
+                    <endYear>-82</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-85</startYear>
+	                    <endYear>-82</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Lucius Cornelius Cinna</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-127</startYear>
+                    <endYear>-84</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-87</startYear>
+	                    <endYear>-84</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Crassus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                   <startYear>-115</startYear>
+                   <endYear>-53</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-69</startYear>
+	                    <endYear>-69</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-55</startYear>
+	                    <endYear>-54</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>-54</startYear>
+	                    <endYear>-53</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>triumvir</name>
+	                <reign>
+	                    <startYear>-60</startYear>
+	                    <endYear>-53</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Catiline</name>
+                <lifespan>
+                    <startYear>-108</startYear>
+                    <endYear>-62</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+               		<name>usurper</name>
+	                <reign>
+	                    <startYear>-64</startYear>
+	                    <endYear>-62</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Julius Caesar</name>
+                <lifespan>
+                    <startYear>-100</startYear>
+                    <endYear>-44</endYear>
+                </lifespan>
+                <importance>transformational</importance>
+                <annotation>Veni, Vidi, Vici!</annotation>
+                <fate>Sic Semper Tyrannis, Ides of March 44 BC. Afterwards deified.</fate>
+                <backgroundStyle>deified</backgroundStyle>
+                <titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>-59</startYear>
+	                    <endYear>-59</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>-58</startYear>
+	                    <endYear>-48</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>triumvir</name>
+	                <reign>
+	                    <startYear>-60</startYear>
+	                    <endYear>-53</endYear>
+	                </reign>
+	            </titles>
+                <titles>
+               		<name>dictator</name>
+	                <reign>
+	                    <startYear>-48</startYear>
+	                    <endYear>-44</endYear>
+	                </reign>
+	            </titles>
+            </people>
+            <people>
+                <name>Publius Clodius Pulcher</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-93</startYear>
+                    <endYear>-52</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>quaestor</name>
+	                <reign>
+	                    <startYear>-60</startYear>
+	                    <endYear>-60</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>tribune</name>
+	                <reign>
+	                    <startYear>-58</startYear>
+	                    <endYear>-58</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>aedile</name>
+	                <reign>
+	                    <startYear>-56</startYear>
+	                    <endYear>-56</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Lepidus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-89</startYear>
+		            <endYearApproximate>true</endYearApproximate>
+                    <endYear>-12</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>triumvir</name>
+	                <reign>
+	                    <startYear>-43</startYear>
+	                    <endYear>-36</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Publius Licinius Crassus</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>-86</startYear>
+                    <endYear>-53</endYear>
+                </lifespan>
+                <importance>minor</importance>
+            </people>
+            <people>
+                <name>Mark Antony</name>
+                <lifespan>
+                    <startYear>-83</startYear>
+                    <endYear>-30</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+               		<name>masterOfHorse</name>
+	                <reign>
+	                    <startYear>-48</startYear>
+	                    <endYear>-44</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>triumvir</name>
+	                <reign>
+	                    <startYear>-43</startYear>
+	                    <endYear>-33</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>exile</name>
+	                <reign>
+	                    <startYear>-33</startYear>
+	                    <endYear>-30</endYear>
+	                </reign>
+				</titles>
+            </people>
+        </dynasties>
+    </politicalDynastyGroups>
+    <politicalDynastyGroups>
         <name>Principate</name>
         <yStart>0</yStart>
         <dynasties>
@@ -2492,6 +2588,43 @@
 				</titles>
             </people>
             <people>
+                <name>Gnaeus Domitius Corbulo</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>7</startYear>
+                    <endYear>67</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>consul</name>
+	                <reign>
+	                    <startYear>39</startYear>
+	                    <endYear>39</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>general</name>
+	                <reign>
+	                    <startYear>47</startYear>
+	                    <endYear>50</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>52</startYear>
+	                    <endYear>54</endYear>
+	                </reign>
+				</titles>
+               	<titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>54</startYear>
+	                    <endYear>67</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
                 <name>Seneca the Younger</name>
                 <lifespan>
 		            <startYearApproximate>true</startYearApproximate>
@@ -2596,6 +2729,21 @@
 	                <reign>
 	                    <startYear>69</startYear>
 	                    <endYear>79</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Gnaeus Julius Agricola</name>
+                <lifespan>
+                    <startYear>40</startYear>
+                    <endYear>93</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+               	<titles>
+               		<name>governor</name>
+	                <reign>
+	                    <startYear>77</startYear>
+	                    <endYear>85</endYear>
 	                </reign>
 				</titles>
             </people>
@@ -3711,6 +3859,22 @@
 	                <reign>
 	                    <startYear>363</startYear>
 	                    <endYear>364</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
+                <name>Procopius</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>325</startYear>
+                    <endYear>366</endYear>
+                </lifespan>
+                <importance>minor</importance>
+               	<titles>
+               		<name>usurper</name>
+	                <reign>
+	                    <startYear>365</startYear>
+	                    <endYear>366</endYear>
 	                </reign>
 				</titles>
             </people>
