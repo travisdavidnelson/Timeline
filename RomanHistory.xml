@@ -3952,6 +3952,22 @@
     	<dynasties>
     		<name>Theodosians</name>
             <people>
+                <name>Count Theodosius</name>
+                <lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+                    <startYear>320</startYear>
+                    <endYear>376</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+               	<titles>
+               		<name>general</name>
+	                <reign>
+	                    <startYear>368</startYear>
+	                    <endYear>375</endYear>
+	                </reign>
+				</titles>
+            </people>
+            <people>
                 <name>Theodosius I</name>
                 <lifespan>
                     <startYear>347</startYear>
@@ -6007,6 +6023,16 @@
 		            <startYearApproximate>true</startYearApproximate>
     				<startYear>150</startYear>
     				<endYear>235</endYear>
+    			</lifespan>
+   				<importance>minor</importance>
+    		</people>
+    		<people>
+    			<name>Ammianus Marcellinus</name>
+    			<lifespan>
+		            <startYearApproximate>true</startYearApproximate>
+    				<startYear>325</startYear>
+		            <endYearApproximate>true</endYearApproximate>
+    				<endYear>391</endYear>
     			</lifespan>
    				<importance>minor</importance>
     		</people>
