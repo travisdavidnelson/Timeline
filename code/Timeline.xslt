@@ -109,11 +109,16 @@
        <xsl:with-param name="importance" select="$importance"/>
      </xsl:call-template>
    </xsl:variable>
+   <xsl:variable name="textYOffset">
+     <xsl:call-template name="getTextYOffsetFromImportance">
+       <xsl:with-param name="importance" select="$importance"/>
+     </xsl:call-template>
+   </xsl:variable>
    <xsl:variable name="startY" select= "(count(preceding-sibling::people) + 1) * 25 + 40"/>
 
    <g><rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="footprint"/>
       <rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="roman"/>
-      <text x="{$startX}" y="{$startY + 10}" class="major"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
+      <text x="{$startX}" y="{$startY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
    <xsl:text>&#10;</xsl:text> <!-- newline character -->
  
 </xsl:template>
@@ -136,6 +141,26 @@
     </xsl:when>
     <xsl:otherwise>
      <xsl:value-of select="6" />
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+<xsl:template name="getTextYOffsetFromImportance">
+  <xsl:param name="importance"/>
+  <xsl:choose>
+    <xsl:when test="$importance = 'minor'">
+     <xsl:value-of select="5" />
+    </xsl:when>
+    <xsl:when test="$importance = 'semimajor'">
+     <xsl:value-of select="8" />
+    </xsl:when>
+    <xsl:when test="$importance = 'major'">
+     <xsl:value-of select="10" />
+    </xsl:when>
+    <xsl:when test="$importance = 'transformational'">
+     <xsl:value-of select="12" />
+    </xsl:when>
+    <xsl:otherwise>
+     <xsl:value-of select="5" />
     </xsl:otherwise>
   </xsl:choose>
 </xsl:template>
