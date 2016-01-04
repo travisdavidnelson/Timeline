@@ -13,7 +13,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
   <title>Timeline</title>
-  <xsl:value-of  select="datetime:dateTime()"/>
   <link type="text/css" rel="stylesheet" href="./RomeStyles.css"/>
 </head>
 <body>
@@ -24,7 +23,9 @@
 </xsl:template>
 
 <xsl:template match="timeline">
-	<?xml-stylesheet type="text/css" href="./RomeStyles.css" ?>	
+    <xsl:text>&#10;</xsl:text> <!-- newline character -->
+	<xml-stylesheet type="text/css" href="./RomeStyles.css" />	
+    <xsl:text>&#10;</xsl:text> <!-- newline character -->
     <svg x="0px" y="0px" width="15000px" height="1500px" viewBox="0 0 15000 1500" xml:space="preserve">
 
 	   <xsl:variable name="startYear">
@@ -53,9 +54,6 @@
       <xsl:value-of select="yStart"/>
    </xsl:variable>
 
-   <g><a href="http://en.wikipedia.org/wiki/Roman_Kingdom" target="_blank"><rect id="{$name}" x="194" y="20" width="488" height="1298" class="romanKingdom"  mask="url(#fadeInMask)"/><title>{$name} (c. 753 BC - 509 BC)</title></a></g>
-   <xsl:text>&#10;</xsl:text> <!-- newline character -->
- 
    <xsl:apply-templates select="dynasties"/>
 
 </xsl:template>
@@ -65,9 +63,81 @@
       <xsl:value-of select="name"/>
    </xsl:variable>
 
-   <text x="158" y="45" class="dynasty"><xsl:value-of select="$name"/></text>
+   <xsl:variable name="startYear">
+      <xsl:value-of select="people/lifespan/startYear"/>
+   </xsl:variable>
+   <xsl:variable name="startX">
+     <xsl:call-template name="yearToX">
+       <xsl:with-param name="year" select="$startYear"/>
+     </xsl:call-template>
+   </xsl:variable>
+
+   <text x="{$startX}" y="45" class="dynasty"><xsl:value-of select="$name"/></text>
+   <xsl:text>&#10;</xsl:text> <!-- newline character -->
+
+   <xsl:apply-templates select="people"/>
+
+</xsl:template>
+
+<xsl:template match="people">
+   <xsl:variable name="name">
+      <xsl:value-of select="name"/>
+   </xsl:variable>
+
+   <xsl:variable name="startYear">
+      <xsl:value-of select="lifespan/startYear"/>
+   </xsl:variable>
+   <xsl:variable name="endYear">
+      <xsl:value-of select="lifespan/endYear"/>
+   </xsl:variable>
+   <xsl:variable name="startX">
+     <xsl:call-template name="yearToX">
+       <xsl:with-param name="year" select="$startYear"/>
+     </xsl:call-template>
+   </xsl:variable>
+   <xsl:variable name="endX">
+     <xsl:call-template name="yearToX">
+       <xsl:with-param name="year" select="$endYear"/>
+     </xsl:call-template>
+   </xsl:variable>
+   <xsl:variable name="width" select= "$endX - $startX"/>
+   <xsl:variable name="importance">
+      <xsl:value-of select="importance"/>
+   </xsl:variable>
+   <xsl:variable name="height">
+     <xsl:call-template name="getImportanceHeight">
+       <xsl:with-param name="importance" select="$importance"/>
+     </xsl:call-template>
+   </xsl:variable>
+   <xsl:variable name="startY" select= "(count(preceding-sibling::people) + 1) * 25 + 40"/>
+
+   <g><rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="footprint"/>
+      <rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="roman"/>
+      <text x="{$startX}" y="{$startY + 10}" class="major"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
    <xsl:text>&#10;</xsl:text> <!-- newline character -->
  
+</xsl:template>
+
+
+<xsl:template name="getImportanceHeight">
+  <xsl:param name="importance"/>
+  <xsl:choose>
+    <xsl:when test="$importance = 'minor'">
+     <xsl:value-of select="6" />
+    </xsl:when>
+    <xsl:when test="$importance = 'semimajor'">
+     <xsl:value-of select="10" />
+    </xsl:when>
+    <xsl:when test="$importance = 'major'">
+     <xsl:value-of select="15" />
+    </xsl:when>
+    <xsl:when test="$importance = 'transformational'">
+     <xsl:value-of select="20" />
+    </xsl:when>
+    <xsl:otherwise>
+     <xsl:value-of select="6" />
+    </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 
