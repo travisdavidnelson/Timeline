@@ -83,7 +83,6 @@
    <xsl:variable name="name">
       <xsl:value-of select="name"/>
    </xsl:variable>
-
    <xsl:variable name="startYear">
       <xsl:value-of select="lifespan/startYear"/>
    </xsl:variable>
@@ -119,6 +118,42 @@
    <g><rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="footprint"/>
       <rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="roman"/>
       <text x="{$startX}" y="{$startY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
+   <xsl:text>&#10;</xsl:text> <!-- newline character -->
+ 
+
+   <xsl:apply-templates select="titles">
+          <xsl:with-param name="height" select="$height"/>
+          <xsl:with-param name="startY" select="$startY"/>
+   </xsl:apply-templates>
+
+</xsl:template>
+
+<xsl:template match="titles">
+  <xsl:param name="height"/>
+  <xsl:param name="startY"/>
+
+   <xsl:variable name="name">
+      <xsl:value-of select="name"/>
+   </xsl:variable>
+   <xsl:variable name="startYear">
+      <xsl:value-of select="reign/startYear"/>
+   </xsl:variable>
+   <xsl:variable name="endYear">
+      <xsl:value-of select="reign/endYear"/>
+   </xsl:variable>
+   <xsl:variable name="startX">
+     <xsl:call-template name="yearToX">
+       <xsl:with-param name="year" select="$startYear"/>
+     </xsl:call-template>
+   </xsl:variable>
+   <xsl:variable name="endX">
+     <xsl:call-template name="yearToX">
+       <xsl:with-param name="year" select="$endYear"/>
+     </xsl:call-template>
+   </xsl:variable>
+   <xsl:variable name="width" select= "$endX - $startX"/>
+
+   <rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}"/>
    <xsl:text>&#10;</xsl:text> <!-- newline character -->
  
 </xsl:template>
