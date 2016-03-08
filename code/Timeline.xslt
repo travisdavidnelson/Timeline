@@ -2,6 +2,16 @@
 	xmlns:xs="http://www.w3.org/2005/xpath-functions" 
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 > 
+	<xsl:variable name="widthInPixels">
+	    <xsl:value-of select="10000"/>
+	</xsl:variable>
+	<xsl:variable name="heightInPixels">
+	    <xsl:value-of select="1000"/>
+	</xsl:variable>
+	<xsl:variable name="pixelsPerYear">
+	    <xsl:value-of select="2"/>
+	</xsl:variable>
+
 <xsl:template match="/">
 
 <xsl:text>&#10;</xsl:text> <!-- newline character -->
@@ -40,10 +50,11 @@
 </xsl:template>
 
 <xsl:template match="timeline">
+
     <xsl:text>&#10;</xsl:text> <!-- newline character -->
 	<xml-stylesheet type="text/css" href="./RomeStyles.css" />	
     <xsl:text>&#10;</xsl:text> <!-- newline character -->
-    <svg x="0px" y="0px" width="15000px" height="1500px" viewBox="0 0 15000 1500" xml:space="preserve">
+    <svg x="0px" y="0px" width="{$widthInPixels}px" height="{$heightInPixels}px" viewBox="0 0 {$widthInPixels} {$heightInPixels}" xml:space="preserve">
 	   <defs>
 	    <linearGradient id="fadeIn" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0" stop-color="white" stop-opacity="0"/>
@@ -70,14 +81,14 @@
 	    </mask>
 	  </defs>
 
-	   <xsl:variable name="startYear">
+	  <xsl:variable name="startYear">
 	      <xsl:value-of select="range/startYear"/>
-	   </xsl:variable>
-	   <xsl:variable name="endYear">
+	  </xsl:variable>
+	  <xsl:variable name="endYear">
 	      <xsl:value-of select="range/endYear"/>
-	   </xsl:variable>
+	  </xsl:variable>
 
-       <xsl:call-template name="displayGrid">
+      <xsl:call-template name="displayGrid">
         <xsl:with-param name="timelineStartYear" select="$startYear"/>
         <xsl:with-param name="timelineEndYear" select="$endYear"/>
       </xsl:call-template>
@@ -451,11 +462,6 @@
   <xsl:param name="year"/>
   <xsl:param name="timelineStartYear" select="-800"/>
   <xsl:param name="timelineEndYear" select="1500"/>
-  <xsl:variable name="pixelsPerYear">
-    <xsl:call-template name="numberOfPixels">
-	  <xsl:with-param name="years" select="1"/>
-    </xsl:call-template>
-  </xsl:variable>
   <xsl:choose>
     <xsl:when test="$year > 0">
      <xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
@@ -468,7 +474,6 @@
 
 <xsl:template name="numberOfPixels">
   <xsl:param name="years"/>
-  <xsl:param name="pixelsPerYear" select="5"/>
   <xsl:value-of select="$pixelsPerYear * $years" />
 </xsl:template>
 
