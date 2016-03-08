@@ -1,5 +1,5 @@
 <xsl:stylesheet version="2.0" 
-	xmlns:xs="http://www.w3.org/2005/xpath-functions" 
+	xmlns:fn="http://www.w3.org/2005/xpath-functions" 
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 > 
 	<xsl:variable name="widthInPixels">
@@ -28,7 +28,7 @@
 	PO Box 1884
 	Idaho Springs, CO USA, 80452
 
-	<xsl:value-of select="xs:current-dateTime()"/> AD
+	<xsl:value-of select="fn:current-dateTime()"/> AD
 
 
 </xsl:comment>
@@ -113,11 +113,11 @@
 
 <xsl:template match="dynasties">
    <xsl:variable name="name">
-      <xsl:value-of select="name"/>
+      <xsl:value-of select="fn:upper-case(name)"/>
    </xsl:variable>
 
    <xsl:variable name="startYear">
-      <xsl:value-of select="xs:subsequence(people/lifespan/startYear, 1, 1)"/>
+      <xsl:value-of select="fn:subsequence(people/lifespan/startYear, 1, 1)"/>
    </xsl:variable>
    <xsl:variable name="startX">
      <xsl:call-template name="yearToX">
@@ -134,7 +134,7 @@
 
 <xsl:template match="people">
    <xsl:variable name="name">
-      <xsl:value-of select="name"/>
+      <xsl:value-of select="fn:upper-case(name)"/>
    </xsl:variable>
    <xsl:variable name="startYear">
       <xsl:value-of select="lifespan/startYear"/>
@@ -488,7 +488,7 @@
 	    <text x="{$xValue}" y="13" class="year"><xsl:value-of select="$year" /></text>
     </xsl:when>
     <xsl:when test="$year &lt; 0">
-	    <text x="{$xValue}" y="13" class="year"><xsl:value-of select="xs:abs($year)" /> BC</text>
+	    <text x="{$xValue}" y="13" class="year"><xsl:value-of select="fn:abs($year)" /> BC</text>
     </xsl:when>
   </xsl:choose>
 </xsl:template>
