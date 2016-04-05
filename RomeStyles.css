@@ -1,5 +1,5 @@
 .year {font-family: serif; font-size: 18px; kerning: 0; stroke:none; fill:#000000;}
-.timeline {stroke-width: 2.0; stroke: black}
+.timeline {stroke-width: 1.0; stroke: black}
 
 .romanKingdom {fill:yellow;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.1}

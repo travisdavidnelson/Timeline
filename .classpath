@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="code"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/opt/SaxonPE9-7-0-3J/saxon9pe.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
