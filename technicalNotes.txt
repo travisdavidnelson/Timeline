@@ -1,0 +1,7 @@
+20160313
+	to run on command line
+		cd ~/dev/Timeline
+		java -jar /opt/SaxonPE9-7-0-3J/saxon9pe.jar -s:RomanHistory2.xml -xsl:./code/Timeline.xslt -o:RomanHistoryTimeline2a.html -t -versionmsg:on -xsltversion:3.0
+	
+	
+	
