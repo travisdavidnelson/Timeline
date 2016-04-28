@@ -780,7 +780,6 @@
 	</backgroundEvents>
     <politicalDynastyGroups>
     	<name>Roman Kingdom</name>
-        <yStart>0</yStart>
         <dynasties>
             <name>Kings of Rome</name>
             <people>
@@ -1057,7 +1056,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
         <name>Early Republic</name>
-        <yStart>0</yStart>
         <dynasties>
             <name>Early Republic</name>
             <people>
@@ -1892,7 +1890,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
         <name>Late Republic</name>
-        <yStart>0</yStart>
         <dynasties>
             <name>Populares</name>
             <people>
@@ -2307,7 +2304,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
         <name>Principate</name>
-        <yStart>0</yStart>
         <dynasties>
         	<name>Julio-Claudians</name>
         	<people>
@@ -2781,7 +2777,6 @@
 	    </dynasties>
 	    <dynasties>
 	        <name>Antonines</name>
-	        <yStart>230</yStart>
 	        <people>
     	        <name>Nerva</name>
         	    <lifespan>
@@ -2938,7 +2933,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
         <name>Crisis</name>
-        <yStart>0</yStart>
         <dynasties>
         	<name>Severans</name>
             <people>
@@ -3621,7 +3615,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
     	<name>Late Empire</name>
-        <yStart>0</yStart>
     	<dynasties>
     		<name>Constantinians</name>
             <people>
@@ -4394,7 +4387,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
     	<name>Last Western Emperors</name>
-        <yStart>0</yStart>
     	<dynasties>
     		<name>Early Byzantine Emperors</name>
             <people>
@@ -4859,7 +4851,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
     	<name>Middle Byzantine Emperors</name>
-        <yStart>0</yStart>
     	<dynasties>
     		<name>Isaurians</name>
             <people>
@@ -5371,7 +5362,6 @@
     </politicalDynastyGroups>
     <politicalDynastyGroups>
     	<name>Late Byzantine Emperors</name>
-        <yStart>0</yStart>
     	<dynasties>
     		<name>Komnenid-Doukids</name>
             <people>
@@ -5897,7 +5887,6 @@
     </politicalDynastyGroups>
     <culturalDynastyGroups>
     	<name>Cultural Group 1</name>
-    	<yStart>0</yStart>
     	<dynasties>
     		<name>Cultural Figures</name>
             <people>

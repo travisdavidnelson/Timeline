@@ -3,6 +3,7 @@
 	xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	extension-element-prefixes="saxon"
 > 
 	<xsl:variable name="widthInPixels">
 	    <xsl:value-of select="10000"/>
@@ -20,6 +21,9 @@
 	<xsl:variable name="yIncrement">
 	    <xsl:value-of select="5"/>
 	</xsl:variable>
+
+    <xsl:variable name="peopleLastY" select="$defaultStartY" saxon:assignable="yes"/>
+	
 
 <xsl:template match="/">
 
@@ -110,18 +114,15 @@
 </xsl:template>
 
 <xsl:template match="politicalDynastyGroups">
+
    <xsl:variable name="name">
       <xsl:value-of select="name"/>
    </xsl:variable>
-   <xsl:variable name="yStart">
-      <xsl:value-of select="yStart"/>
-   </xsl:variable>
 
    <xsl:iterate select="dynasties">
-      <xsl:param name="startY" select="$defaultStartY"/>
+      <xsl:param name="dynastyStartY" select="$defaultStartY"/>
     
-      <xsl:variable name="nextY" 
-         select="$startY + $yIncrement"/>
+      <xsl:variable name="nextY" select="$dynastyStartY + $yIncrement"/>
       <heresMyNextY value="{$nextY}"/>
 	   
 	   <xsl:variable name="name">
@@ -139,9 +140,9 @@
 	
 	   <text x="{$startX}" y="{$nextY}" class="dynasty"><xsl:value-of select="$name"/></text>
 	   <xsl:text>&#10;</xsl:text> <!-- newline character -->
-	
+
        <xsl:iterate select="people">
-          <xsl:param name="peopleStartY" select="$nextY"/>
+          <xsl:param name="peopleStartY" select="$nextY + $yIncrement"/>
 
 			   <xsl:variable name="name">
 			      <xsl:value-of select="fn:upper-case(name)"/>
@@ -206,6 +207,8 @@
           
              <heresMyPeopleNextY value="{$peopleNextY}"/>
           
+          <saxon:assign name="peopleLastY" select="$peopleNextY"/>
+
           <xsl:next-iteration>
             <xsl:with-param name="peopleStartY" select="$peopleNextY"/>
           </xsl:next-iteration>
@@ -214,95 +217,10 @@
 
     
       <xsl:next-iteration>
-         <xsl:with-param name="startY" select="$nextY"/>
+         <xsl:with-param name="dynastyStartY" select="$peopleLastY + (3 * $yIncrement)"/>
       </xsl:next-iteration>
    
    </xsl:iterate>
-
-</xsl:template>
-
-<xsl:template match="dynasties">
-   <xsl:variable name="name">
-      <xsl:value-of select="fn:upper-case(name)"/>
-   </xsl:variable>
-
-   <xsl:variable name="startYear">
-      <xsl:value-of select="fn:subsequence(people/lifespan/startYear, 1, 1)"/>
-   </xsl:variable>
-   <xsl:variable name="startX">
-     <xsl:call-template name="yearToX">
-       <xsl:with-param name="year" select="$startYear"/>
-     </xsl:call-template>
-   </xsl:variable>
-
-   <text x="{$startX}" y="45" class="dynasty"><xsl:value-of select="$name"/></text>
-   <xsl:text>&#10;</xsl:text> <!-- newline character -->
-
-   <xsl:apply-templates select="people"/>
-
-</xsl:template>
-
-<xsl:template match="people">
-  <xsl:param name="startY"/>
-
-   <xsl:variable name="name">
-      <xsl:value-of select="fn:upper-case(name)"/>
-   </xsl:variable>
-   <xsl:variable name="startYear">
-      <xsl:value-of select="lifespan/startYear"/>
-   </xsl:variable>
-   <xsl:variable name="endYear">
-      <xsl:value-of select="lifespan/endYear"/>
-   </xsl:variable>
-   <xsl:variable name="startX">
-     <xsl:call-template name="yearToX">
-       <xsl:with-param name="year" select="$startYear"/>
-     </xsl:call-template>
-   </xsl:variable>
-   <xsl:variable name="endX">
-     <xsl:call-template name="yearToX">
-       <xsl:with-param name="year" select="$endYear"/>
-     </xsl:call-template>
-   </xsl:variable>
-   <xsl:variable name="width" select= "$endX - $startX"/>
-   
-   <xsl:variable name="importance">
-      <xsl:value-of select="importance"/>
-   </xsl:variable>
-   <xsl:variable name="height">
-     <xsl:call-template name="getImportanceHeight">
-       <xsl:with-param name="importance" select="$importance"/>
-     </xsl:call-template>
-   </xsl:variable>
-   <xsl:variable name="textYOffset">
-     <xsl:call-template name="getTextYOffsetFromImportance">
-       <xsl:with-param name="importance" select="$importance"/>
-     </xsl:call-template>
-   </xsl:variable>
-
-   <xsl:variable name="startYearApproximate">
-      <xsl:value-of select="lifespan/startYearApproximate"/>
-   </xsl:variable>
-   <xsl:variable name="endYearApproximate">
-      <xsl:value-of select="lifespan/endYearApproximate"/>
-   </xsl:variable>
-   <xsl:variable name="fadeMask">
-     <xsl:call-template name="getFadeMask">
-         <xsl:with-param name="startYearApproximate" select="$startYearApproximate"/>
-         <xsl:with-param name="endYearApproximate" select="$endYearApproximate"/>
-     </xsl:call-template>
-   </xsl:variable>
-
-   <g><rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="footprint" mask="url(#{$fadeMask})"/>
-      <rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="roman" mask="url(#{$fadeMask})"/>
-      <text x="{$startX}" y="{$startY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
-   <xsl:text>&#10;</xsl:text> <!-- newline character -->
- 
-
-   <xsl:apply-templates select="titles">
-          <xsl:with-param name="height" select="$height"/>
-          <xsl:with-param name="startY" select="$startY"/>
-   </xsl:apply-templates>
 
 </xsl:template>
 
