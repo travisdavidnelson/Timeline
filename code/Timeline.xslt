@@ -95,6 +95,10 @@
 	    </mask>
 	  </defs>
 
+	  <xsl:variable name="defaultPersonBackgroundStyle">
+	      <xsl:value-of select="defaultPersonBackgroundStyle"/>
+	  </xsl:variable>
+
 	  <xsl:variable name="startYear">
 	      <xsl:value-of select="range/startYear"/>
 	  </xsl:variable>
@@ -108,12 +112,16 @@
       </xsl:call-template>
 
 	  <xsl:apply-templates select="backgroundEvents"/>
-	  <xsl:apply-templates select="politicalDynastyGroups"/>
+	  <xsl:apply-templates select="politicalDynastyGroups">
+	      <xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle"/>
+	  </xsl:apply-templates>
+	  
 
     </svg>
 </xsl:template>
 
 <xsl:template match="politicalDynastyGroups">
+   <xsl:param name="defaultPersonBackgroundStyle"/>
 
    <xsl:variable name="name">
       <xsl:value-of select="name"/>
@@ -191,9 +199,16 @@
 			         <xsl:with-param name="endYearApproximate" select="$endYearApproximate"/>
 			     </xsl:call-template>
 			   </xsl:variable>
+
+			   <xsl:variable name="backgroundStyle">
+			      <xsl:value-of select="backgroundStyle"/>
+			   </xsl:variable>
+			   <xsl:variable name="classStyle">
+			      <xsl:value-of select="if ($backgroundStyle = '') then $defaultPersonBackgroundStyle else $backgroundStyle"/>
+			   </xsl:variable>
 			
 			   <g><rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}" height="{$height}" class="footprint" mask="url(#{$fadeMask})"/>
-			      <rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}" height="{$height}" class="roman" mask="url(#{$fadeMask})"/>
+			      <rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}" height="{$height}" class="{$classStyle}" mask="url(#{$fadeMask})"/>
 			      <text x="{$startX}" y="{$peopleStartY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
 			   <xsl:text>&#10;</xsl:text> <!-- newline character -->
 			 
