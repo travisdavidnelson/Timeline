@@ -518,7 +518,7 @@
 
 <xsl:template name="numberOfPixels">
   <xsl:param name="years"/>
-  <xsl:value-of select="$pixelsPerYear * $years" />
+  <xsl:value-of select="fn:max(($pixelsPerYear * $years, 1))" />
 </xsl:template>
 
 <xsl:template name="yearHeader">
