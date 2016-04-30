@@ -257,12 +257,11 @@
        <xsl:with-param name="year" select="$startYear"/>
      </xsl:call-template>
    </xsl:variable>
-   <xsl:variable name="endX">
-     <xsl:call-template name="yearToX">
-       <xsl:with-param name="year" select="$endYear"/>
-     </xsl:call-template>
+   <xsl:variable name="width">
+      <xsl:call-template name="numberOfPixels">
+	    <xsl:with-param name="years" select="($endYear - $startYear)"/>
+	  </xsl:call-template>
    </xsl:variable>
-   <xsl:variable name="width" select= "$endX - $startX"/>
 
    <xsl:variable name="startYearApproximate">
       <xsl:value-of select="reign/startYearApproximate"/>
@@ -277,7 +276,7 @@
      </xsl:call-template>
    </xsl:variable>
 
-   <rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" mask="url(#{$fadeMask})"/>
+   <rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}"/>
    <xsl:text>&#10;</xsl:text> <!-- newline character -->
  
 </xsl:template>
@@ -518,7 +517,7 @@
 
 <xsl:template name="numberOfPixels">
   <xsl:param name="years"/>
-  <xsl:value-of select="fn:max(($pixelsPerYear * $years, 1))" />
+  <xsl:value-of select="fn:max(($pixelsPerYear * $years, $pixelsPerYear))" />
 </xsl:template>
 
 <xsl:template name="yearHeader">
