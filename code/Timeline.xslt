@@ -209,15 +209,16 @@
 			
 			   <g><rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}" height="{$height}" class="footprint" mask="url(#{$fadeMask})"/>
 			      <rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}" height="{$height}" class="{$classStyle}" mask="url(#{$fadeMask})"/>
-			      <text x="{$startX}" y="{$peopleStartY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
-			   <xsl:text>&#10;</xsl:text> <!-- newline character -->
-			 
-			
+
 			   <xsl:apply-templates select="titles">
 			          <xsl:with-param name="height" select="$height"/>
 			          <xsl:with-param name="startY" select="$peopleStartY"/>
 			   </xsl:apply-templates>
 
+			      <text x="{$startX}" y="{$peopleStartY + $textYOffset}" class="{$importance}"><xsl:value-of select="$name"/></text><title><xsl:value-of select="$name"/> (<xsl:value-of select="$startYear"/> - <xsl:value-of select="$endYear"/>)</title></g>
+			   <xsl:text>&#10;</xsl:text> <!-- newline character -->
+			 
+			
           <xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement"/>
           
              <heresMyPeopleNextY value="{$peopleNextY}"/>
