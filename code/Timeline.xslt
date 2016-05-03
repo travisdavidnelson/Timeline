@@ -19,16 +19,15 @@
 		<xsl:value-of select="5" />
 	</xsl:variable>
 
-	<xsl:variable name="peopleLastY" select="$defaultStartY"
-		saxon:assignable="yes" />
+	<xsl:variable name="peopleLastY" select="$defaultStartY" saxon:assignable="yes" />
 
 
 	<xsl:template match="/">
 
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
 <xsl:comment>
 
 
@@ -44,11 +43,11 @@
 
 
 </xsl:comment>
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
+<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 		<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 			<head>
@@ -70,24 +69,21 @@
 		<svg x="0px" y="0px" width="{$widthInPixels}px" height="{$heightInPixels}px"
 			viewBox="0 0 {$widthInPixels} {$heightInPixels}" xml:space="preserve">
 	   <defs>
-	    <linearGradient id="fadeIn" x1="0" y1="0" x2="1"
-			y2="0">
+	    <linearGradient id="fadeIn" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0" stop-color="white" stop-opacity="0" />
 	      <stop offset="0.10" stop-color="white" stop-opacity="1.0" />
 	    </linearGradient>
 	    <mask id="fadeInMask" maskContentUnits="objectBoundingBox">
 	      <rect width="1" height="1" fill="url(#fadeIn)" />
 	    </mask>
-	    <linearGradient id="fadeOut" x1="0" y1="0" x2="1"
-			y2="0">
+	    <linearGradient id="fadeOut" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0.90" stop-color="white" stop-opacity="1.0" />
 	      <stop offset="1.0" stop-color="white" stop-opacity="0" />
 	    </linearGradient>
 	    <mask id="fadeOutMask" maskContentUnits="objectBoundingBox">
 	      <rect width="1" height="1" fill="url(#fadeOut)" />
 	    </mask>
-	    <linearGradient id="fadeInOut" x1="0" y1="0" x2="1"
-			y2="0">
+	    <linearGradient id="fadeInOut" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0" stop-color="white" stop-opacity="0" />
 	      <stop offset="0.10" stop-color="white" stop-opacity="1.0" />
 	      <stop offset="0.90" stop-color="white" stop-opacity="1.0" />
@@ -116,8 +112,7 @@
 
 	  <xsl:apply-templates select="backgroundEvents" />
 	  <xsl:apply-templates select="politicalDynastyGroups">
-	      <xsl:with-param name="defaultPersonBackgroundStyle"
-			select="$defaultPersonBackgroundStyle" />
+	      <xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
 	  </xsl:apply-templates>
 	  
 
@@ -210,8 +205,7 @@
 					<xsl:value-of select="backgroundStyle" />
 				</xsl:variable>
 				<xsl:variable name="classStyle">
-					<xsl:value-of
-						select="if ($backgroundStyle = '') then $defaultPersonBackgroundStyle else $backgroundStyle" />
+					<xsl:value-of select="if ($backgroundStyle = '') then $defaultPersonBackgroundStyle else $backgroundStyle" />
 				</xsl:variable>
 
 				<g>
@@ -229,19 +223,13 @@
 						<xsl:value-of select="$name" />
 					</text>
 					<title>
-						<xsl:value-of select="$name" />
-						(
-						<xsl:value-of select="$startYear" />
-						-
-						<xsl:value-of select="$endYear" />
-						)
+						<xsl:value-of select="$name" />(<xsl:value-of select="$startYear" />-<xsl:value-of select="$endYear" />)
 					</title>
 				</g>
 				<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 
-				<xsl:variable name="peopleNextY"
-					select="$peopleStartY + $height + $yIncrement" />
+				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
 
 				<heresMyPeopleNextY value="{$peopleNextY}" />
 
@@ -255,8 +243,7 @@
 
 
 			<xsl:next-iteration>
-				<xsl:with-param name="dynastyStartY"
-					select="$peopleLastY + (3 * $yIncrement)" />
+				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (3 * $yIncrement)" />
 			</xsl:next-iteration>
 
 		</xsl:iterate>
@@ -300,8 +287,7 @@
 			</xsl:call-template>
 		</xsl:variable>
 
-		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}"
-			class="{$name}" />
+		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" />
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 	</xsl:template>
@@ -311,8 +297,7 @@
 		<xsl:param name="startYearApproximate" />
 		<xsl:param name="endYearApproximate" />
 		<xsl:choose>
-			<xsl:when
-				test="$startYearApproximate = 'true' and $endYearApproximate = 'true'">
+			<xsl:when test="$startYearApproximate = 'true' and $endYearApproximate = 'true'">
 				fadeInOutMask
 			</xsl:when>
 			<xsl:when test="$startYearApproximate = 'true'">
@@ -395,8 +380,7 @@
 		</xsl:variable>
 
 		<g>
-			<rect id="{$name}" x="{$startX}" y="20" width="{$width}" height="{$height}"
-				class="{$style}" />
+			<rect id="{$name}" x="{$startX}" y="20" width="{$width}" height="{$height}" class="{$style}" />
 		</g>
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
@@ -447,8 +431,7 @@
 					</xsl:call-template>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:variable name="vMid"
-						select="floor(($timelineStartYear + $timelineEndYear) div 2)" />
+					<xsl:variable name="vMid" select="floor(($timelineStartYear + $timelineEndYear) div 2)" />
 					<xsl:call-template name="displayGrid">
 						<xsl:with-param name="timelineStartYear" select="$timelineStartYear" />
 						<xsl:with-param name="timelineEndYear" select="$vMid" />
@@ -475,8 +458,6 @@
 				<xsl:with-param name="year" select="$year" />
 				<xsl:with-param name="xValue" select="$xValue" />
 			</xsl:call-template>
-			<!-- <xsl:comment>year is <xsl:value-of select='$year'/></xsl:comment> 
-				<xsl:comment>xValue is <xsl:value-of select='$xValue'/></xsl:comment> -->
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
 				<xsl:with-param name="y1" select="20" />
@@ -544,12 +525,10 @@
 		<xsl:param name="timelineEndYear" select="1500" />
 		<xsl:choose>
 			<xsl:when test="$year > 0">
-				<xsl:value-of
-					select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
+				<xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of
-					select="(($pixelsPerYear)*($year)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
+				<xsl:value-of select="(($pixelsPerYear)*($year)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
@@ -565,8 +544,7 @@
 		<xsl:choose>
 			<xsl:when test="$year = 1">
 				<text x="{$xValue}" y="13" class="year">
-					AD
-					<xsl:value-of select="$year" />
+					AD <xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
 			<xsl:when test="$year > 0">
@@ -576,8 +554,7 @@
 			</xsl:when>
 			<xsl:when test="$year &lt; 0">
 				<text x="{$xValue}" y="13" class="year">
-					<xsl:value-of select="fn:abs($year)" />
-					BC
+					<xsl:value-of select="fn:abs($year)" /> BC
 				</text>
 			</xsl:when>
 		</xsl:choose>
