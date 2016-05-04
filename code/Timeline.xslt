@@ -208,6 +208,17 @@
 					<xsl:value-of select="if ($backgroundStyle = '') then $defaultPersonBackgroundStyle else $backgroundStyle" />
 				</xsl:variable>
 
+				<xsl:variable name="displayStartYear">
+					<xsl:call-template name="displayYear">
+						<xsl:with-param name="year" select="$startYear" />
+					</xsl:call-template>
+				</xsl:variable>
+				<xsl:variable name="displayEndYear">
+					<xsl:call-template name="displayYear">
+						<xsl:with-param name="year" select="$endYear" />
+					</xsl:call-template>
+				</xsl:variable>
+
 				<g>
 					<rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}"
 						height="{$height}" class="footprint" mask="url(#{$fadeMask})" />
@@ -222,9 +233,7 @@
 					<text x="{$startX}" y="{$peopleStartY + $textYOffset}" class="{$importance}">
 						<xsl:value-of select="$name" />
 					</text>
-					<title>
-						<xsl:value-of select="$name" />(<xsl:value-of select="$startYear" />-<xsl:value-of select="$endYear" />)
-					</title>
+					<title><xsl:value-of select="$name" /> (<xsl:value-of select="$displayStartYear" /> - <xsl:value-of select="$displayEndYear" />)</title>
 				</g>
 				<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
@@ -557,6 +566,14 @@
 					<xsl:value-of select="fn:abs($year)" /> BC
 				</text>
 			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template name="displayYear">
+		<xsl:param name="year" />
+		<xsl:choose>
+			<xsl:when test="$year &lt; 1"><xsl:value-of select="fn:abs($year)" /> BC</xsl:when>
+			<xsl:otherwise><xsl:value-of select="$year" /></xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
 
