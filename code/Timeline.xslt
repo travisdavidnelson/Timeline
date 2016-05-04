@@ -211,11 +211,13 @@
 				<xsl:variable name="displayStartYear">
 					<xsl:call-template name="displayYear">
 						<xsl:with-param name="year" select="$startYear" />
+						<xsl:with-param name="approxFlag" select="$startYearApproximate" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="displayEndYear">
 					<xsl:call-template name="displayYear">
 						<xsl:with-param name="year" select="$endYear" />
+						<xsl:with-param name="approxFlag" select="$endYearApproximate" />
 					</xsl:call-template>
 				</xsl:variable>
 
@@ -240,6 +242,8 @@
 
 				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
 
+		        <heresMyStartApproxFlag value="{$startYearApproximate}"/>
+		        <heresMyEndApproxFlag value="{$endYearApproximate}"/>
 				<heresMyPeopleNextY value="{$peopleNextY}" />
 
 				<saxon:assign name="peopleLastY" select="$peopleNextY" />
@@ -571,8 +575,9 @@
 
 	<xsl:template name="displayYear">
 		<xsl:param name="year" />
+		<xsl:param name="approxFlag" />
 		<xsl:choose>
-			<xsl:when test="$year &lt; 1"><xsl:value-of select="fn:abs($year)" /> BC</xsl:when>
+			<xsl:when test="$year &lt; 1"><xsl:if test="$approxFlag = 'true'">c. </xsl:if><xsl:value-of select="fn:abs($year)" /> BC</xsl:when>
 			<xsl:otherwise><xsl:value-of select="$year" /></xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
