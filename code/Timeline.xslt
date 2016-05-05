@@ -300,7 +300,7 @@
 			</xsl:call-template>
 		</xsl:variable>
 
-		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" />
+		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" mask="url(#{$fadeMask})" />
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 	</xsl:template>
@@ -310,18 +310,10 @@
 		<xsl:param name="startYearApproximate" />
 		<xsl:param name="endYearApproximate" />
 		<xsl:choose>
-			<xsl:when test="$startYearApproximate = 'true' and $endYearApproximate = 'true'">
-				fadeInOutMask
-			</xsl:when>
-			<xsl:when test="$startYearApproximate = 'true'">
-				fadeInMask
-			</xsl:when>
-			<xsl:when test="$endYearApproximate = 'true'">
-				fadeOutMask
-			</xsl:when>
-			<xsl:otherwise>
-				none
-			</xsl:otherwise>
+			<xsl:when test="$startYearApproximate = 'true' and $endYearApproximate = 'true'">fadeInOutMask</xsl:when>
+			<xsl:when test="$startYearApproximate = 'true'">fadeInMask</xsl:when>
+			<xsl:when test="$endYearApproximate = 'true'">fadeOutMask</xsl:when>
+			<xsl:otherwise>none</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
 
