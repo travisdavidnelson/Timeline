@@ -21,6 +21,9 @@
 
 	<xsl:variable name="peopleLastY" select="$defaultStartY" saxon:assignable="yes" />
 
+	<xsl:variable name="approximateYearAdjustment">
+		<xsl:value-of select="2" />
+	</xsl:variable>
 
 	<xsl:template match="/">
 
@@ -162,14 +165,30 @@
 				<xsl:variable name="endYear">
 					<xsl:value-of select="lifespan/endYear" />
 				</xsl:variable>
+				<xsl:variable name="startYearApproximate">
+					<xsl:value-of select="lifespan/startYearApproximate" />
+				</xsl:variable>
+				<xsl:variable name="endYearApproximate">
+					<xsl:value-of select="lifespan/endYearApproximate" />
+				</xsl:variable>
+				<xsl:variable name="startYearApproxAdj">
+					<xsl:call-template name="getApproximateYearAdjustment">
+						<xsl:with-param name="approxFlag" select="$startYearApproximate" />
+					</xsl:call-template>
+				</xsl:variable>
+				<xsl:variable name="endYearApproxAdj">
+					<xsl:call-template name="getApproximateYearAdjustment">
+						<xsl:with-param name="approxFlag" select="$endYearApproximate" />
+					</xsl:call-template>
+				</xsl:variable>
 				<xsl:variable name="startX">
 					<xsl:call-template name="yearToX">
-						<xsl:with-param name="year" select="$startYear" />
+						<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="endX">
 					<xsl:call-template name="yearToX">
-						<xsl:with-param name="year" select="$endYear" />
+						<xsl:with-param name="year" select="$endYear + $startYearApproxAdj" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="width" select="$endX - $startX" />
@@ -188,12 +207,6 @@
 					</xsl:call-template>
 				</xsl:variable>
 
-				<xsl:variable name="startYearApproximate">
-					<xsl:value-of select="lifespan/startYearApproximate" />
-				</xsl:variable>
-				<xsl:variable name="endYearApproximate">
-					<xsl:value-of select="lifespan/endYearApproximate" />
-				</xsl:variable>
 				<xsl:variable name="fadeMask">
 					<xsl:call-template name="getFadeMask">
 						<xsl:with-param name="startYearApproximate" select="$startYearApproximate" />
@@ -232,7 +245,7 @@
 						<xsl:with-param name="startY" select="$peopleStartY" />
 					</xsl:apply-templates>
 
-					<text x="{$startX}" y="{$peopleStartY + $textYOffset}" class="{$importance}">
+					<text x="{$startX + $startYearApproxAdj}" y="{$peopleStartY + $textYOffset}" class="{$importance}">
 						<xsl:value-of select="$name" />
 					</text>
 					<title><xsl:value-of select="$name" /> (<xsl:value-of select="$displayStartYear" /> - <xsl:value-of select="$displayEndYear" />)</title>
@@ -276,23 +289,33 @@
 		<xsl:variable name="endYear">
 			<xsl:value-of select="reign/endYear" />
 		</xsl:variable>
-		<xsl:variable name="startX">
-			<xsl:call-template name="yearToX">
-				<xsl:with-param name="year" select="$startYear" />
-			</xsl:call-template>
-		</xsl:variable>
-		<xsl:variable name="width">
-			<xsl:call-template name="numberOfPixels">
-				<xsl:with-param name="years" select="($endYear - $startYear)" />
-			</xsl:call-template>
-		</xsl:variable>
-
 		<xsl:variable name="startYearApproximate">
 			<xsl:value-of select="reign/startYearApproximate" />
 		</xsl:variable>
 		<xsl:variable name="endYearApproximate">
 			<xsl:value-of select="reign/endYearApproximate" />
 		</xsl:variable>
+		<xsl:variable name="startYearApproxAdj">
+			<xsl:call-template name="getApproximateYearAdjustment">
+				<xsl:with-param name="approxFlag" select="$startYearApproximate" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:variable name="endYearApproxAdj">
+			<xsl:call-template name="getApproximateYearAdjustment">
+				<xsl:with-param name="approxFlag" select="$endYearApproximate" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:variable name="startX">
+			<xsl:call-template name="yearToX">
+				<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:variable name="width">
+			<xsl:call-template name="numberOfPixels">
+				<xsl:with-param name="years" select="($endYear + $endYearApproxAdj - $startYear)" />
+			</xsl:call-template>
+		</xsl:variable>
+
 		<xsl:variable name="fadeMask">
 			<xsl:call-template name="getFadeMask">
 				<xsl:with-param name="startYearApproximate" select="$startYearApproximate" />
@@ -300,6 +323,8 @@
 			</xsl:call-template>
 		</xsl:variable>
 
+		<myStartYearApproxAdj value="{$startYearApproxAdj}" />
+		<myEndYearApproxAdj value="{$endYearApproxAdj}" />
 		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" mask="url(#{$fadeMask})" />
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
@@ -571,6 +596,14 @@
 		<xsl:choose>
 			<xsl:when test="$year &lt; 1"><xsl:if test="$approxFlag = 'true'">c. </xsl:if><xsl:value-of select="fn:abs($year)" /> BC</xsl:when>
 			<xsl:otherwise><xsl:value-of select="$year" /></xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template name="getApproximateYearAdjustment">
+		<xsl:param name="approxFlag" />
+		<xsl:choose>
+			<xsl:when test="$approxFlag = 'true'"><xsl:value-of select="$approximateYearAdjustment" /></xsl:when>
+			<xsl:otherwise>0</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
 
