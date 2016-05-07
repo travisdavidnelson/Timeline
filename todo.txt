@@ -1,5 +1,6 @@
-- Annotation tooltip
-- Fate tooltip
+- Person-related tooltips
+	- Annotation tooltip	<----- DONE 20160507
+	- Fate tooltip
 - Add fade mask to background events
 - Background ticks too big crowding Julio-Claudians and Severans etc
 - Nudge forward names of people.

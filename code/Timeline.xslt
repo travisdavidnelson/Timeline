@@ -233,6 +233,17 @@
 						<xsl:with-param name="approxFlag" select="$endYearApproximate" />
 					</xsl:call-template>
 				</xsl:variable>
+				<xsl:variable name="annotation">
+					<xsl:value-of select="annotation" />
+				</xsl:variable>
+				<xsl:variable name="personTooltip">
+					<xsl:call-template name="getPersonTooltip">
+						<xsl:with-param name="name" select="$name" />
+						<xsl:with-param name="born" select="$displayStartYear" />
+						<xsl:with-param name="died" select="$displayEndYear" />
+						<xsl:with-param name="annotation" select="$annotation" />
+					</xsl:call-template>
+				</xsl:variable>
 
 				<g>
 					<rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}"
@@ -248,7 +259,7 @@
 					<text x="{$startX + $startYearApproxAdj}" y="{$peopleStartY + $textYOffset}" class="{$importance}">
 						<xsl:value-of select="$name" />
 					</text>
-					<title><xsl:value-of select="$name" /> (<xsl:value-of select="$displayStartYear" /> - <xsl:value-of select="$displayEndYear" />)</title>
+					<title><xsl:value-of select="$personTooltip" /></title>
 				</g>
 				<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
@@ -606,6 +617,16 @@
 			<xsl:when test="$approxFlag = 'true'"><xsl:value-of select="$approximateYearAdjustment" /></xsl:when>
 			<xsl:otherwise>0</xsl:otherwise>
 		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template name="getPersonTooltip">
+		<xsl:param name="name" />
+		<xsl:param name="born" />
+		<xsl:param name="died" />
+		<xsl:param name="annotation" select="''" />
+		<xsl:value-of select="$name" /> (<xsl:value-of select="$born" /> - <xsl:value-of select="$died" />)
+		<xsl:text>&#10;</xsl:text> <!-- newline character -->
+		<xsl:value-of select="$annotation" />
 	</xsl:template>
 
 </xsl:stylesheet>
