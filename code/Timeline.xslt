@@ -188,7 +188,7 @@
 				</xsl:variable>
 				<xsl:variable name="endX">
 					<xsl:call-template name="yearToX">
-						<xsl:with-param name="year" select="$endYear + $startYearApproxAdj" />
+						<xsl:with-param name="year" select="$endYear + $endYearApproxAdj" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="width" select="$endX - $startX" />
@@ -310,11 +310,12 @@
 				<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
 			</xsl:call-template>
 		</xsl:variable>
-		<xsl:variable name="width">
-			<xsl:call-template name="numberOfPixels">
-				<xsl:with-param name="years" select="($endYear + $endYearApproxAdj - $startYear)" />
+		<xsl:variable name="endX">
+			<xsl:call-template name="yearToX">
+				<xsl:with-param name="year" select="$endYear + $endYearApproxAdj" />
 			</xsl:call-template>
 		</xsl:variable>
+		<xsl:variable name="width" select="$endX - $startX" />
 
 		<xsl:variable name="fadeMask">
 			<xsl:call-template name="getFadeMask">
