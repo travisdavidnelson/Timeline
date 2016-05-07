@@ -1,7 +1,8 @@
+- Annotation tooltip
 - Fate tooltip
 - Add fade mask to background events
 - Background ticks too big crowding Julio-Claudians and Severans etc
-- Push names of people whose birthdate is approx a nudge to the right. See Aurelian.
+- Nudge forward names of people.
 - Early Republic header chopped off
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
 - Tooltips for background events
