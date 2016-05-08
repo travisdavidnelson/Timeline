@@ -6,14 +6,14 @@
 		<xsl:value-of select="10000" />
 	</xsl:variable>
 	<xsl:variable name="heightInPixels">
-		<xsl:value-of select="1000" />
+		<xsl:value-of select="1050" />
 	</xsl:variable>
 	<xsl:variable name="pixelsPerYear">
 		<xsl:value-of select="2" />
 	</xsl:variable>
 
 	<xsl:variable name="defaultStartY">
-		<xsl:value-of select="40" />
+		<xsl:value-of select="50" />
 	</xsl:variable>
 	<xsl:variable name="yIncrement">
 		<xsl:value-of select="5" />
@@ -542,6 +542,10 @@
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
+			<xsl:call-template name="yearFooter">
+				<xsl:with-param name="year" select="$year" />
+				<xsl:with-param name="xValue" select="$xValue" />
+			</xsl:call-template>
 		</xsl:if>
 		<xsl:if test="($year mod 10) = 0">
 			<xsl:variable name="xValue">
@@ -572,11 +576,11 @@
 				<xsl:with-param name="x1" select="$xValue" />
 				<xsl:with-param name="y1" select="20" />
 				<xsl:with-param name="x2" select="$xValue" />
-				<xsl:with-param name="y2" select="40" />
+				<xsl:with-param name="y2" select="35" />
 			</xsl:call-template>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="980" />
+				<xsl:with-param name="y1" select="985" />
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
@@ -621,17 +625,49 @@
 		<xsl:param name="xValue" />
 		<xsl:choose>
 			<xsl:when test="$year = 1">
-				<text x="{$xValue}" y="13" class="year">
+				<text x="{$xValue - 20}" y="13" class="year">
 					AD <xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
-			<xsl:when test="$year > 0">
-				<text x="{$xValue}" y="13" class="year">
+			<xsl:when test="$year > 0 and $year &lt; 1000">
+				<text x="{$xValue - 15}" y="13" class="year">
+					<xsl:value-of select="$year" />
+				</text>
+			</xsl:when>
+			<xsl:when test="$year >= 1000">
+				<text x="{$xValue - 20}" y="13" class="year">
 					<xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
 			<xsl:when test="$year &lt; 0">
-				<text x="{$xValue}" y="13" class="year">
+				<text x="{$xValue - 20}" y="13" class="year">
+					<xsl:value-of select="fn:abs($year)" /> BC
+				</text>
+			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template name="yearFooter">
+		<xsl:param name="year" />
+		<xsl:param name="xValue" />
+		<xsl:choose>
+			<xsl:when test="$year = 1">
+				<text x="{$xValue - 20}" y="1020" class="year">
+					AD <xsl:value-of select="$year" />
+				</text>
+			</xsl:when>
+			<xsl:when test="$year > 0 and $year &lt; 1000">
+				<text x="{$xValue - 15}" y="1020" class="year">
+					<xsl:value-of select="$year" />
+				</text>
+			</xsl:when>
+			<xsl:when test="$year >= 1000">
+				<text x="{$xValue - 20}" y="1020" class="year">
+					<xsl:value-of select="$year" />
+				</text>
+			</xsl:when>
+			<xsl:when test="$year &lt; 0">
+				<text x="{$xValue - 20}" y="1020" class="year">
 					<xsl:value-of select="fn:abs($year)" /> BC
 				</text>
 			</xsl:when>

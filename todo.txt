@@ -6,7 +6,7 @@
 - Refactor people into template			<----- DONE 20160508
 - Add culturalDynastyGroups
 - Add fade mask to background events
-- Background ticks too big crowding Julio-Claudians and Severans etc
+- Background ticks too big crowding Julio-Claudians and Severans etc		<----- DONE 20160508
 - Nudge forward names of people.		<----- DONE 20160508
 - Early Republic header chopped off
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
