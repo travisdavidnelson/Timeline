@@ -236,14 +236,19 @@
 				<xsl:variable name="annotation">
 					<xsl:value-of select="annotation" />
 				</xsl:variable>
+				<xsl:variable name="fate">
+					<xsl:value-of select="fate" />
+				</xsl:variable>
 				<xsl:variable name="personTooltip">
 					<xsl:call-template name="getPersonTooltip">
 						<xsl:with-param name="name" select="$name" />
 						<xsl:with-param name="born" select="$displayStartYear" />
 						<xsl:with-param name="died" select="$displayEndYear" />
 						<xsl:with-param name="annotation" select="$annotation" />
+						<xsl:with-param name="fate" select="$fate" />
 					</xsl:call-template>
 				</xsl:variable>
+
 
 				<g>
 					<rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}"
@@ -624,9 +629,12 @@
 		<xsl:param name="born" />
 		<xsl:param name="died" />
 		<xsl:param name="annotation" select="''" />
+		<xsl:param name="fate" select="''" />
 		<xsl:value-of select="$name" /> (<xsl:value-of select="$born" /> - <xsl:value-of select="$died" />)
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<xsl:value-of select="$annotation" />
+		<xsl:text>&#10;</xsl:text> <!-- newline character -->
+		<xsl:value-of select="$fate" />
 	</xsl:template>
 
 </xsl:stylesheet>
