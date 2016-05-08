@@ -3,7 +3,7 @@
 	- Fate tooltip			<----- DONE 20160507
 - Wikipedia links
 	- people
-- Refactor people into template
+- Refactor people into template			<----- DONE 20160508
 - Add culturalDynastyGroups
 - Add fade mask to background events
 - Background ticks too big crowding Julio-Claudians and Severans etc
