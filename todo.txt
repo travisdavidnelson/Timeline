@@ -7,7 +7,7 @@
 - Add culturalDynastyGroups
 - Add fade mask to background events
 - Background ticks too big crowding Julio-Claudians and Severans etc
-- Nudge forward names of people.
+- Nudge forward names of people.		<----- DONE 20160508
 - Early Republic header chopped off
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
 - Tooltips for background events

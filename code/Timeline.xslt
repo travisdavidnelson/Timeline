@@ -25,6 +25,10 @@
 		<xsl:value-of select="2" />
 	</xsl:variable>
 
+	<xsl:variable name="textXOffset">
+		<xsl:value-of select="2" />
+	</xsl:variable>
+
 	<xsl:template match="/">
 
 <xsl:text>&#10;</xsl:text> <!-- newline character -->
@@ -308,7 +312,7 @@
 				<xsl:with-param name="startY" select="$startY" />
 			</xsl:apply-templates>
 
-			<text x="{$startX + $startYearApproxAdj}" y="{$startY + $textYOffset}" class="{$importance}">
+			<text x="{$startX + $textXOffset + $startYearApproxAdj}" y="{$startY + $textYOffset}" class="{$importance}">
 				<xsl:value-of select="$name" />
 			</text>
 			<title><xsl:value-of select="$personTooltip" /></title>
