@@ -249,31 +249,22 @@
 					</xsl:call-template>
 				</xsl:variable>
 
-
-				<g>
-					<rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}"
-						height="{$height}" class="footprint" mask="url(#{$fadeMask})" />
-					<rect id="{$name}" x="{$startX}" y="{$peopleStartY}" width="{$width}"
-						height="{$height}" class="{$classStyle}" mask="url(#{$fadeMask})" />
-
-					<xsl:apply-templates select="titles">
-						<xsl:with-param name="height" select="$height" />
-						<xsl:with-param name="startY" select="$peopleStartY" />
-					</xsl:apply-templates>
-
-					<text x="{$startX + $startYearApproxAdj}" y="{$peopleStartY + $textYOffset}" class="{$importance}">
-						<xsl:value-of select="$name" />
-					</text>
-					<title><xsl:value-of select="$personTooltip" /></title>
-				</g>
-				<xsl:text>&#10;</xsl:text> <!-- newline character -->
+				<xsl:call-template name="getPersonSVG">
+					<xsl:with-param name="name" select="$name" />
+					<xsl:with-param name="startX" select="$startX" />
+					<xsl:with-param name="startY" select="$peopleStartY" />
+					<xsl:with-param name="textYOffset" select="$textYOffset" />
+					<xsl:with-param name="width" select="$width" />
+					<xsl:with-param name="height" select="$height" />
+					<xsl:with-param name="fadeMask" select="$fadeMask" />
+					<xsl:with-param name="classStyle" select="$classStyle" />
+					<xsl:with-param name="importance" select="$importance" />
+					<xsl:with-param name="startYearApproxAdj" select="$startYearApproxAdj" />
+					<xsl:with-param name="personTooltip" select="$personTooltip" />
+				</xsl:call-template>
 
 
 				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
-
-		        <heresMyStartApproxFlag value="{$startYearApproximate}"/>
-		        <heresMyEndApproxFlag value="{$endYearApproximate}"/>
-				<heresMyPeopleNextY value="{$peopleNextY}" />
 
 				<saxon:assign name="peopleLastY" select="$peopleNextY" />
 
@@ -291,6 +282,41 @@
 		</xsl:iterate>
 
 	</xsl:template>
+
+
+	<xsl:template name="getPersonSVG">
+		<xsl:param name="name" />
+		<xsl:param name="startX" />
+		<xsl:param name="startY" />
+		<xsl:param name="textYOffset" />
+		<xsl:param name="width" />
+		<xsl:param name="height" />
+		<xsl:param name="fadeMask" />
+		<xsl:param name="classStyle" />
+		<xsl:param name="importance" />
+		<xsl:param name="startYearApproxAdj" />
+		<xsl:param name="personTooltip" />
+		
+		<g>
+			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
+				height="{$height}" class="footprint" mask="url(#{$fadeMask})" />
+			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
+				height="{$height}" class="{$classStyle}" mask="url(#{$fadeMask})" />
+
+			<xsl:apply-templates select="titles">
+				<xsl:with-param name="height" select="$height" />
+				<xsl:with-param name="startY" select="$startY" />
+			</xsl:apply-templates>
+
+			<text x="{$startX + $startYearApproxAdj}" y="{$startY + $textYOffset}" class="{$importance}">
+				<xsl:value-of select="$name" />
+			</text>
+			<title><xsl:value-of select="$personTooltip" /></title>
+		</g>
+		<xsl:text>&#10;</xsl:text> <!-- newline character -->
+	</xsl:template>
+
+
 
 	<xsl:template match="titles">
 		<xsl:param name="height" />
@@ -346,6 +372,7 @@
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 	</xsl:template>
+
 
 
 	<xsl:template name="getFadeMask">
