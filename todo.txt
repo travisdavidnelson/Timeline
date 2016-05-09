@@ -1,15 +1,21 @@
-- Person-related tooltips
-	- Annotation tooltip	<----- DONE 20160507
-	- Fate tooltip			<----- DONE 20160507
 - Wikipedia links
 	- people
-- Refactor people into template			<----- DONE 20160508
 - Add culturalDynastyGroups
 - Add fade mask to background events
-- Background ticks too big crowding Julio-Claudians and Severans etc		<----- DONE 20160508
-- Nudge forward names of people.		<----- DONE 20160508
-- Early Republic header chopped off
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
 - Tooltips for background events
 
 - Other civs, how to handle that?
+
+* No longer a problem?
+- Early Republic header chopped off
+
+
+*** DONE
+- Refactor people into template			<----- DONE 20160508
+- Background ticks too big crowding Julio-Claudians and Severans etc		<----- DONE 20160508
+- Nudge forward names of people.		<----- DONE 20160508
+
+- Person-related tooltips
+	- Annotation tooltip	<----- DONE 20160507
+	- Fate tooltip			<----- DONE 20160507
