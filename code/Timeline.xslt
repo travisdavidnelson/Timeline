@@ -222,7 +222,10 @@
 					<xsl:value-of select="backgroundStyle" />
 				</xsl:variable>
 				<xsl:variable name="classStyle">
-					<xsl:value-of select="if ($backgroundStyle = '') then $defaultPersonBackgroundStyle else $backgroundStyle" />
+					<xsl:call-template name="getClassStyle">
+						<xsl:with-param name="backgroundStyle" select="$backgroundStyle" />
+						<xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
+					</xsl:call-template>
 				</xsl:variable>
 
 				<xsl:variable name="displayStartYear">
@@ -370,10 +373,7 @@
 			</xsl:call-template>
 		</xsl:variable>
 
-		<myStartYearApproxAdj value="{$startYearApproxAdj}" />
-		<myEndYearApproxAdj value="{$endYearApproxAdj}" />
 		<rect x="{$startX}" y="{$startY}" width="{$width}" height="{$height}" class="{$name}" mask="url(#{$fadeMask})" />
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 	</xsl:template>
 
@@ -702,6 +702,15 @@
 		<xsl:value-of select="$annotation" />
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<xsl:value-of select="$fate" />
+	</xsl:template>
+
+	<xsl:template name="getClassStyle">
+		<xsl:param name="backgroundStyle" />
+		<xsl:param name="defaultPersonBackgroundStyle" />
+		<xsl:choose>
+			<xsl:when test="$backgroundStyle = ''"><xsl:value-of select="$defaultPersonBackgroundStyle" /></xsl:when>
+			<xsl:otherwise><xsl:value-of select="$backgroundStyle" /></xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 
 </xsl:stylesheet>
