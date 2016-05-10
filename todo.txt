@@ -1,6 +1,7 @@
 - People
 	- Wikipedia links
 	- increase opacity
+	- fix annotation and fate spacing in person tooltip
 - Add culturalDynastyGroups
 - Add fade mask to background events
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
