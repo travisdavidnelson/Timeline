@@ -101,9 +101,14 @@
 	    </mask>
 	  </defs>
 
+	  <xsl:variable name="addCenturyTickLines">
+	      <xsl:value-of select="addCenturyTickLines" />
+	  </xsl:variable>
+	  <addCenturyTickLines value="{$addCenturyTickLines}"/>
 	  <xsl:variable name="defaultPersonBackgroundStyle">
 	      <xsl:value-of select="defaultPersonBackgroundStyle" />
 	  </xsl:variable>
+	  <defaultPersonBackgroundStyle value="{$defaultPersonBackgroundStyle}"/>
 
 	  <xsl:variable name="startYear">
 	      <xsl:value-of select="range/startYear" />

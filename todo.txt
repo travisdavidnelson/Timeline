@@ -4,10 +4,15 @@
 	- fix annotation and fate spacing in person tooltip
 - Add culturalDynastyGroups
 - Add fade mask to background events
-- Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
 - Tooltips for background events
 
 - Other civs, how to handle that?
+
+
+* Mysteries
+- Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
+	see defaultPersonBackgroundStyle and addCenturyTickLines
+
 
 * No longer a problem?
 - Early Republic header chopped off
