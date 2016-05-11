@@ -1,5 +1,4 @@
 - People
-	- Wikipedia links
 	- increase opacity
 	- fix annotation and fate spacing in person tooltip
 - Add culturalDynastyGroups
@@ -19,6 +18,7 @@
 
 
 *** DONE
+- People Wikipedia links				<----- DONE 20160510
 - Refactor people into template			<----- DONE 20160508
 - Background ticks too big crowding Julio-Claudians and Severans etc		<----- DONE 20160508
 - Nudge forward names of people.		<----- DONE 20160508

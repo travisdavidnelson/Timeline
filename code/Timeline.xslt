@@ -166,7 +166,7 @@
 				<xsl:param name="peopleStartY" select="$nextY + $yIncrement" />
 
 				<xsl:variable name="name">
-					<xsl:value-of select="fn:upper-case(name)" />
+					<xsl:value-of select="name" />
 				</xsl:variable>
 				<xsl:variable name="startYear">
 					<xsl:value-of select="lifespan/startYear" />
@@ -309,7 +309,9 @@
 		<xsl:param name="startYearApproxAdj" />
 		<xsl:param name="personTooltip" />
 		
+		<xsl:variable name="nameForLink" select="fn:replace($name, ' ', '_')" />
 		<g>
+			<a href="http://en.wikipedia.org/wiki/{$nameForLink}" target="_blank">
 			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
 				height="{$height}" class="footprint" mask="url(#{$fadeMask})" />
 			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
@@ -321,9 +323,10 @@
 			</xsl:apply-templates>
 
 			<text x="{$startX + $textXOffset + $startYearApproxAdj}" y="{$startY + $textYOffset}" class="{$importance}">
-				<xsl:value-of select="$name" />
+				<xsl:value-of select="fn:upper-case($name)" />
 			</text>
 			<title><xsl:value-of select="$personTooltip" /></title>
+			</a>
 		</g>
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 	</xsl:template>
