@@ -1,11 +1,17 @@
 - People
-	- increase opacity
 	- fix annotation and fate spacing in person tooltip
+	- increase opacity
 - Add culturalDynastyGroups
 - Add fade mask to background events
 - Tooltips for background events
+- Fit canvas to size
 
 - Other civs, how to handle that?
+
+- Audio player for THOR episodes?
+	http://www.coreymwamba.co.uk/testbed/svgplayer.html
+	http://xn--dahlstrm-t4a.net/svg/audio/html5-audio-in-svg.svg
+	
 
 
 * Mysteries
@@ -18,6 +24,7 @@
 
 
 *** DONE
+- People: do i really need 2 rects, one for footprint and one for roman? NO		<----- DONE 20160511
 - People Wikipedia links				<----- DONE 20160510
 - Refactor people into template			<----- DONE 20160508
 - Background ticks too big crowding Julio-Claudians and Severans etc		<----- DONE 20160508

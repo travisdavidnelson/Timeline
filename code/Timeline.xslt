@@ -313,8 +313,6 @@
 		<g>
 			<a href="http://en.wikipedia.org/wiki/{$nameForLink}" target="_blank">
 			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
-				height="{$height}" class="footprint" mask="url(#{$fadeMask})" />
-			<rect id="{$name}" x="{$startX}" y="{$startY}" width="{$width}"
 				height="{$height}" class="{$classStyle}" mask="url(#{$fadeMask})" />
 
 			<xsl:apply-templates select="titles">
