@@ -2,9 +2,6 @@
 	xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	extension-element-prefixes="saxon">
-	<xsl:variable name="widthInPixels">
-		<xsl:value-of select="10000" />
-	</xsl:variable>
 	<xsl:variable name="heightInPixels">
 		<xsl:value-of select="1050" />
 	</xsl:variable>
@@ -13,13 +10,20 @@
 	</xsl:variable>
 
 	<xsl:variable name="defaultStartY">
-		<xsl:value-of select="50" />
+		<xsl:value-of select="30" />
 	</xsl:variable>
 	<xsl:variable name="yIncrement">
 		<xsl:value-of select="5" />
 	</xsl:variable>
 
-	<xsl:variable name="peopleLastY" select="$defaultStartY" saxon:assignable="yes" />
+	<xsl:variable name="xBorder">
+		<xsl:value-of select="30" />
+	</xsl:variable>
+	<xsl:variable name="yBorder">
+		<xsl:value-of select="30" />
+	</xsl:variable>
+
+	<xsl:variable name="peopleLastY" select="$yBorder + $defaultStartY" saxon:assignable="yes" />
 
 	<xsl:variable name="approximateYearAdjustment">
 		<xsl:value-of select="2" />
@@ -69,6 +73,20 @@
 	</xsl:template>
 
 	<xsl:template match="timeline">
+	
+		<xsl:variable name="startYear">
+	        <xsl:value-of select="range/startYear" />
+		</xsl:variable>
+		<xsl:variable name="endYear">
+	        <xsl:value-of select="range/endYear" />
+	    </xsl:variable>
+		<xsl:variable name="widthInPixels">
+			<xsl:call-template name="numberOfPixels">
+				<xsl:with-param name="years" select="$endYear - $startYear + $xBorder" />
+			</xsl:call-template>
+		</xsl:variable>
+
+	
 
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<xml-stylesheet type="text/css" href="./RomeStyles.css" />
@@ -110,13 +128,6 @@
 	  </xsl:variable>
 	  <defaultPersonBackgroundStyle value="{$defaultPersonBackgroundStyle}"/>
 
-	  <xsl:variable name="startYear">
-	      <xsl:value-of select="range/startYear" />
-	  </xsl:variable>
-	  <xsl:variable name="endYear">
-	      <xsl:value-of select="range/endYear" />
-	  </xsl:variable>
-
       <xsl:call-template name="displayGrid">
         <xsl:with-param name="timelineStartYear" select="$startYear" />
         <xsl:with-param name="timelineEndYear" select="$endYear" />
@@ -139,7 +150,7 @@
 		</xsl:variable>
 
 		<xsl:iterate select="dynasties">
-			<xsl:param name="dynastyStartY" select="$defaultStartY" />
+			<xsl:param name="dynastyStartY" select="$yBorder + $defaultStartY" />
 
 			<xsl:variable name="nextY" select="$dynastyStartY + $yIncrement" />
 			<heresMyNextY value="{$nextY}" />
@@ -455,7 +466,7 @@
 				<xsl:with-param name="years" select="($endYear - $startYear)" />
 			</xsl:call-template>
 		</xsl:variable>
-		<xsl:variable name="height" select="1000 - 20" />
+		<xsl:variable name="height" select="1000 - $yBorder" />
 		<xsl:variable name="name">
 			<xsl:value-of select="name" />
 		</xsl:variable>
@@ -464,7 +475,7 @@
 		</xsl:variable>
 
 		<g>
-			<rect id="{$name}" x="{$startX}" y="20" width="{$width}" height="{$height}" class="{$style}" />
+			<rect id="{$name}" x="{$startX}" y="{$yBorder}" width="{$width}" height="{$height}" class="{$style}" />
 		</g>
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
@@ -487,9 +498,9 @@
 		</xsl:variable>
 		<xsl:call-template name="line">
 			<xsl:with-param name="x1" select="$timelineStartX" />
-			<xsl:with-param name="y1" select="20" />
+			<xsl:with-param name="y1" select="$yBorder" />
 			<xsl:with-param name="x2" select="$timelineEndX" />
-			<xsl:with-param name="y2" select="20" />
+			<xsl:with-param name="y2" select="$yBorder" />
 		</xsl:call-template>
 		<xsl:call-template name="line">
 			<xsl:with-param name="x1" select="$timelineStartX" />
@@ -544,7 +555,7 @@
 			</xsl:call-template>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="20" />
+				<xsl:with-param name="y1" select="$yBorder" />
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
@@ -561,13 +572,13 @@
 			</xsl:variable>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="20" />
+				<xsl:with-param name="y1" select="$yBorder" />
 				<xsl:with-param name="x2" select="$xValue" />
-				<xsl:with-param name="y2" select="30" />
+				<xsl:with-param name="y2" select="$yBorder + 10" />
 			</xsl:call-template>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="990" />
+				<xsl:with-param name="y1" select="1000 - 10" />
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
@@ -580,13 +591,13 @@
 			</xsl:variable>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="20" />
+				<xsl:with-param name="y1" select="$yBorder" />
 				<xsl:with-param name="x2" select="$xValue" />
-				<xsl:with-param name="y2" select="35" />
+				<xsl:with-param name="y2" select="$yBorder + 15" />
 			</xsl:call-template>
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="985" />
+				<xsl:with-param name="y1" select="1000 - 15" />
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
@@ -613,10 +624,10 @@
 		<xsl:param name="timelineEndYear" select="1500" />
 		<xsl:choose>
 			<xsl:when test="$year > 0">
-				<xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
+				<xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + $xBorder" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="(($pixelsPerYear)*($year)-(($pixelsPerYear)*($timelineStartYear))) + 20" />
+				<xsl:value-of select="(($pixelsPerYear)*($year)-(($pixelsPerYear)*($timelineStartYear))) + $xBorder" />
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
@@ -631,22 +642,22 @@
 		<xsl:param name="xValue" />
 		<xsl:choose>
 			<xsl:when test="$year = 1">
-				<text x="{$xValue - 20}" y="13" class="year">
+				<text x="{$xValue - 20}" y="{$yBorder - 7}" class="year">
 					AD <xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
 			<xsl:when test="$year > 0 and $year &lt; 1000">
-				<text x="{$xValue - 15}" y="13" class="year">
+				<text x="{$xValue - 15}" y="{$yBorder - 7}" class="year">
 					<xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
 			<xsl:when test="$year >= 1000">
-				<text x="{$xValue - 20}" y="13" class="year">
+				<text x="{$xValue - 20}" y="{$yBorder - 7}" class="year">
 					<xsl:value-of select="$year" />
 				</text>
 			</xsl:when>
 			<xsl:when test="$year &lt; 0">
-				<text x="{$xValue - 20}" y="13" class="year">
+				<text x="{$xValue - 20}" y="{$yBorder - 7}" class="year">
 					<xsl:value-of select="fn:abs($year)" /> BC
 				</text>
 			</xsl:when>
