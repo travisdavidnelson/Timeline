@@ -35,6 +35,9 @@
 
 *** DONE
 
+20160512
+- maxPeopleLastY in preparation for adding culturalDynastyGroups
+
 20160511
 - Fit canvas to size
 - People: do i really need 2 rects, one for footprint and one for roman? NO

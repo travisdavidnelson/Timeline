@@ -24,6 +24,7 @@
 	</xsl:variable>
 
 	<xsl:variable name="peopleLastY" select="$yBorder + $defaultStartY" saxon:assignable="yes" />
+	<xsl:variable name="maxPeopleLastY" select="$peopleLastY" saxon:assignable="yes" />
 
 	<xsl:variable name="approximateYearAdjustment">
 		<xsl:value-of select="2" />
@@ -138,7 +139,7 @@
 	      <xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
 	  </xsl:apply-templates>
 	  
-
+<maxPeopleLastY value="{$maxPeopleLastY}"/>
     </svg>
 	</xsl:template>
 
@@ -290,6 +291,10 @@
 				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
 
 				<saxon:assign name="peopleLastY" select="$peopleNextY" />
+				<xsl:choose>
+					<xsl:when test="$peopleNextY &gt; $maxPeopleLastY"><saxon:assign name="maxPeopleLastY" select="$peopleNextY" /></xsl:when>
+				</xsl:choose>
+				
 
 				<xsl:next-iteration>
 					<xsl:with-param name="peopleStartY" select="$peopleNextY" />
