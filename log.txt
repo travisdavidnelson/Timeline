@@ -27,6 +27,13 @@ TODO
 	
 - *Y variables don't allign with year but with vertical. This is confusing.
 
+- Set Dynasty header startX to the startX of the first person's first title?
+
+- Start adding more content
+
+
+
+
 
 *** Mysteries
 
