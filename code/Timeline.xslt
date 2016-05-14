@@ -635,9 +635,26 @@
 		<xsl:variable name="style">
 			<xsl:value-of select="style" />
 		</xsl:variable>
+		
+		<xsl:variable name="startYearApproximate">
+			<xsl:value-of select="dateRange/startYearApproximate" />
+		</xsl:variable>
+		<xsl:variable name="endYearApproximate">
+			<xsl:value-of select="dateRange/endYearApproximate" />
+		</xsl:variable>
+	
+		
+		<xsl:variable name="fadeMask">
+			<xsl:call-template name="getFadeMask">
+				<xsl:with-param name="startYearApproximate" select="$startYearApproximate" />
+				<xsl:with-param name="endYearApproximate" select="$endYearApproximate" />
+			</xsl:call-template>
+		</xsl:variable>
+
+		
 
 		<g>
-			<rect id="{$name}" x="{$startX}" y="{$yBorder}" width="{$width}" height="{$height}" class="{$style}" />
+			<rect id="{$name}" x="{$startX}" y="{$yBorder}" width="{$width}" height="{$height}" class="{$style}"  mask="url(#{$fadeMask})" />
 		</g>
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 

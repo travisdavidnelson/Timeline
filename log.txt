@@ -15,8 +15,6 @@ TODO
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
 
-- Add fade mask to background events
-
 - Tooltips for background events
 
 - Other civs, how to handle that?
@@ -30,7 +28,9 @@ TODO
 - Set Dynasty header startX to the startX of the first person's first title?
 
 - Start adding more content
-
+	- more people
+	- annotations
+	- fates
 
 
 
@@ -48,6 +48,9 @@ TODO
 
 
 *** LOG
+
+20160514
+- Add fade mask to background events
 
 20160513
 - Added culturalDynastyGroups
