@@ -427,15 +427,16 @@
 			
 			<xsl:variable name="thisPersonStartY">
 				<xsl:call-template name="getPersonStartY">
+					<xsl:with-param name="resetResult" select="$maxPeopleLastY + (5 * $yIncrement)" />
 					<xsl:with-param name="iterateResult" select="$peopleStartY" />
 					<xsl:with-param name="lastEndX" select="$lastEndX" />
 					<xsl:with-param name="thisStartX" select="$startX" />
 				</xsl:call-template>
 			</xsl:variable>
-<peopleStartY value="{$peopleStartY}"/>			
+<resetResult value="{$maxPeopleLastY + (5 * $yIncrement)}"/>			
+<iterateResult value="{$peopleStartY}"/>			
 <lastEndX value="{$lastEndX}"/>			
-<startX value="{$startX}"/>			
-<thisPersonStartY value="{$thisPersonStartY}"/>			
+<thisStartX value="{$startX}"/>			
 
 			<xsl:call-template name="getPersonSVG">
 				<xsl:with-param name="name" select="$name" />
@@ -452,7 +453,7 @@
 			</xsl:call-template>
 
 
-			<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
+			<xsl:variable name="peopleNextY" select="$thisPersonStartY + $height + $yIncrement" />
 
 			<saxon:assign name="peopleLastY" select="$peopleNextY" />
 
@@ -892,7 +893,7 @@
 	</xsl:template>
 
 	<xsl:template name="getPersonStartY">
-		<xsl:param name="resetResult" select="$maxPeopleLastY + (5 * $yIncrement)" />
+		<xsl:param name="resetResult" />
 		<xsl:param name="iterateResult" />
 		<xsl:param name="lastEndX" />
 		<xsl:param name="thisStartX" />
