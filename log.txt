@@ -1,0 +1,66 @@
+TODO
+
+- Replace remaining hard-coded values
+	- getImportanceHeight
+		- source from stylesheet?
+	- getTextYOffsetFromImportance
+		- source from stylesheet?
+	- 1000
+	- size of tick lines in gridline
+	- yearToX default values
+	- yearHeader, yearFooter offsets
+	
+- People
+	- fix annotation and fate spacing in person tooltip
+	- increase opacity
+	- links not working in safari and work-machine chrome (!)
+
+- Add fade mask to background events
+
+- Tooltips for background events
+
+- Other civs, how to handle that?
+
+- Audio player for THOR episodes?
+	http://www.coreymwamba.co.uk/testbed/svgplayer.html
+	http://xn--dahlstrm-t4a.net/svg/audio/html5-audio-in-svg.svg
+	
+- *Y variables don't allign with year but with vertical. This is confusing.
+
+
+*** Mysteries
+
+- Terrence y value is the terate value not the reset value. 1236 < 736 ?!
+
+- Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
+	see defaultPersonBackgroundStyle and addCenturyTickLines
+
+
+
+
+
+
+*** LOG
+
+20160513
+- Added culturalDynastyGroups
+
+20160512
+- maxPeopleLastY in preparation for adding culturalDynastyGroups
+
+20160511
+- Fit canvas to size
+- People: do i really need 2 rects, one for footprint and one for roman? NO
+
+20160510
+- People Wikipedia links
+
+20160508
+- Refactor people into template
+- Background ticks too big crowding Julio-Claudians and Severans etc
+- Nudge forward names of people.
+
+20160507
+- Person-related tooltips
+	- Annotation tooltip
+	- Fate tooltip

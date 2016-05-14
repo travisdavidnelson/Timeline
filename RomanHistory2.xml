@@ -5914,6 +5914,7 @@
     			<lifespan>
 		            <startYearApproximate>true</startYearApproximate>
     				<startYear>-195</startYear>
+                    <endYearApproximate>true</endYearApproximate>
     				<endYear>-159</endYear>
     			</lifespan>
    				<importance>minor</importance>
