@@ -138,6 +138,11 @@
 	  <xsl:apply-templates select="politicalDynastyGroups">
 	      <xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
 	  </xsl:apply-templates>
+
+	  <xsl:apply-templates select="culturalDynastyGroups">
+	      <xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
+	      <xsl:with-param name="timelineStartYear" select="$startYear" />
+	  </xsl:apply-templates>
 	  
 <maxPeopleLastY value="{$maxPeopleLastY}"/>
     </svg>
@@ -306,6 +311,157 @@
 			<xsl:next-iteration>
 				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (3 * $yIncrement)" />
 			</xsl:next-iteration>
+
+		</xsl:iterate>
+
+	</xsl:template>
+
+
+	<xsl:template match="culturalDynastyGroups">
+		<xsl:param name="defaultPersonBackgroundStyle" />
+		<xsl:param name="timelineStartYear" />
+
+		<xsl:variable name="name">
+			<xsl:value-of select="name" />
+		</xsl:variable>
+
+		<xsl:iterate select="dynasties/people">
+			<xsl:param name="peopleStartY" select="$maxPeopleLastY + (5 * $yIncrement)" />
+			<xsl:param name="lastEndX" select="0" />
+
+			<xsl:variable name="name">
+				<xsl:value-of select="name" />
+			</xsl:variable>
+			<xsl:variable name="startYear">
+				<xsl:value-of select="lifespan/startYear" />
+			</xsl:variable>
+			<xsl:variable name="endYear">
+				<xsl:value-of select="lifespan/endYear" />
+			</xsl:variable>
+			<xsl:variable name="startYearApproximate">
+				<xsl:value-of select="lifespan/startYearApproximate" />
+			</xsl:variable>
+			<xsl:variable name="endYearApproximate">
+				<xsl:value-of select="lifespan/endYearApproximate" />
+			</xsl:variable>
+			<xsl:variable name="startYearApproxAdj">
+				<xsl:call-template name="getApproximateYearAdjustment">
+					<xsl:with-param name="approxFlag" select="$startYearApproximate" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="endYearApproxAdj">
+				<xsl:call-template name="getApproximateYearAdjustment">
+					<xsl:with-param name="approxFlag" select="$endYearApproximate" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="startX">
+				<xsl:call-template name="yearToX">
+					<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="endX">
+				<xsl:call-template name="yearToX">
+					<xsl:with-param name="year" select="$endYear + $endYearApproxAdj" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="width" select="$endX - $startX" />
+
+			<xsl:variable name="importance">
+				<xsl:value-of select="importance" />
+			</xsl:variable>
+			<xsl:variable name="height">
+				<xsl:call-template name="getImportanceHeight">
+					<xsl:with-param name="importance" select="$importance" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="textYOffset">
+				<xsl:call-template name="getTextYOffsetFromImportance">
+					<xsl:with-param name="importance" select="$importance" />
+				</xsl:call-template>
+			</xsl:variable>
+
+			<xsl:variable name="fadeMask">
+				<xsl:call-template name="getFadeMask">
+					<xsl:with-param name="startYearApproximate" select="$startYearApproximate" />
+					<xsl:with-param name="endYearApproximate" select="$endYearApproximate" />
+				</xsl:call-template>
+			</xsl:variable>
+
+			<xsl:variable name="backgroundStyle">
+				<xsl:value-of select="backgroundStyle" />
+			</xsl:variable>
+			<xsl:variable name="classStyle">
+				<xsl:call-template name="getClassStyle">
+					<xsl:with-param name="backgroundStyle" select="$backgroundStyle" />
+					<xsl:with-param name="defaultPersonBackgroundStyle" select="$defaultPersonBackgroundStyle" />
+				</xsl:call-template>
+			</xsl:variable>
+
+			<xsl:variable name="displayStartYear">
+				<xsl:call-template name="displayYear">
+					<xsl:with-param name="year" select="$startYear" />
+					<xsl:with-param name="approxFlag" select="$startYearApproximate" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="displayEndYear">
+				<xsl:call-template name="displayYear">
+					<xsl:with-param name="year" select="$endYear" />
+					<xsl:with-param name="approxFlag" select="$endYearApproximate" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="annotation">
+				<xsl:value-of select="annotation" />
+			</xsl:variable>
+			<xsl:variable name="fate">
+				<xsl:value-of select="fate" />
+			</xsl:variable>
+			<xsl:variable name="personTooltip">
+				<xsl:call-template name="getPersonTooltip">
+					<xsl:with-param name="name" select="$name" />
+					<xsl:with-param name="born" select="$displayStartYear" />
+					<xsl:with-param name="died" select="$displayEndYear" />
+					<xsl:with-param name="annotation" select="$annotation" />
+					<xsl:with-param name="fate" select="$fate" />
+				</xsl:call-template>
+			</xsl:variable>
+			
+			<xsl:variable name="thisPersonStartY">
+				<xsl:call-template name="getPersonStartY">
+					<xsl:with-param name="iterateResult" select="$peopleStartY" />
+					<xsl:with-param name="lastEndX" select="$lastEndX" />
+					<xsl:with-param name="thisStartX" select="$startX" />
+				</xsl:call-template>
+			</xsl:variable>
+<peopleStartY value="{$peopleStartY}"/>			
+<lastEndX value="{$lastEndX}"/>			
+<startX value="{$startX}"/>			
+<thisPersonStartY value="{$thisPersonStartY}"/>			
+
+			<xsl:call-template name="getPersonSVG">
+				<xsl:with-param name="name" select="$name" />
+				<xsl:with-param name="startX" select="$startX" />
+				<xsl:with-param name="startY" select="$thisPersonStartY" />
+				<xsl:with-param name="textYOffset" select="$textYOffset" />
+				<xsl:with-param name="width" select="$width" />
+				<xsl:with-param name="height" select="$height" />
+				<xsl:with-param name="fadeMask" select="$fadeMask" />
+				<xsl:with-param name="classStyle" select="$classStyle" />
+				<xsl:with-param name="importance" select="$importance" />
+				<xsl:with-param name="startYearApproxAdj" select="$startYearApproxAdj" />
+				<xsl:with-param name="personTooltip" select="$personTooltip" />
+			</xsl:call-template>
+
+
+			<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
+
+			<saxon:assign name="peopleLastY" select="$peopleNextY" />
+
+
+			<xsl:next-iteration>
+				<xsl:with-param name="peopleStartY" select="$peopleNextY" />
+				<xsl:with-param name="lastEndX" select="$endX" />
+			</xsl:next-iteration>
+
 
 		</xsl:iterate>
 
@@ -732,6 +888,17 @@
 		<xsl:choose>
 			<xsl:when test="$backgroundStyle = ''"><xsl:value-of select="$defaultPersonBackgroundStyle" /></xsl:when>
 			<xsl:otherwise><xsl:value-of select="$backgroundStyle" /></xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template name="getPersonStartY">
+		<xsl:param name="resetResult" select="$maxPeopleLastY + (5 * $yIncrement)" />
+		<xsl:param name="iterateResult" />
+		<xsl:param name="lastEndX" />
+		<xsl:param name="thisStartX" />
+		<xsl:choose>
+			<xsl:when test="$thisStartX &lt; $lastEndX"><xsl:value-of select="$iterateResult" /></xsl:when>
+			<xsl:otherwise><xsl:value-of select="$resetResult" /></xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
 
