@@ -90,8 +90,6 @@
 	
 
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
-		<xml-stylesheet type="text/css" href="./RomeStyles.css" />
-		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<svg x="0px" y="0px" width="{$widthInPixels}px" height="{$heightInPixels}px"
 			viewBox="0 0 {$widthInPixels} {$heightInPixels}" xml:space="preserve">
 	   <defs>
