@@ -1,10 +1,6 @@
 TODO
 
 - Replace remaining hard-coded values
-	- getImportanceHeight
-		- source from stylesheet?
-	- getTextYOffsetFromImportance
-		- source from stylesheet?
 	- 1000
 	- size of tick lines in gridline
 	- yearToX default values
@@ -25,8 +21,6 @@ TODO
 	http://xn--dahlstrm-t4a.net/svg/audio/html5-audio-in-svg.svg
 	
 - *Y variables don't allign with year but with vertical. This is confusing.
-
-- Set Dynasty header startX to the startX of the first person's first title?
 
 - Start adding more content
 	- more people
@@ -49,6 +43,9 @@ TODO
 
 
 *** LOG
+
+20160515
+- Set Dynasty header startX to the startX of the first person's first title
 
 20160514
 - Add fade mask to background events

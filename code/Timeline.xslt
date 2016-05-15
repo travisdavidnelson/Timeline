@@ -164,7 +164,7 @@
 			</xsl:variable>
 
 			<xsl:variable name="startYear">
-				<xsl:value-of select="fn:subsequence(people/lifespan/startYear, 1, 1)" />
+				<xsl:value-of select="fn:subsequence(people/titles/reign/startYear, 1, 1)" />
 			</xsl:variable>
 			<xsl:variable name="startX">
 				<xsl:call-template name="yearToX">
