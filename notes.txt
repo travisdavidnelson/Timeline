@@ -14,6 +14,7 @@ TODO
 	- fix annotation and fate spacing in person tooltip
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
+	- why does Marcian and Leo the Thracian look different from Septimus Severus and Augustus?
 
 - Tooltips for background events
 
