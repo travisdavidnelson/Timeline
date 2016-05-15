@@ -11,7 +11,6 @@ TODO
 	- yearHeader, yearFooter offsets
 	
 - People
-	- Camillus' blue titles ain't showing up
 	- fix annotation and fate spacing in person tooltip
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
@@ -53,6 +52,7 @@ TODO
 20160514
 - Add fade mask to background events
 - Toyed with people color and opacity but decided on no change for now
+- Fixed bug: Camillus' blue titles ain't showing up
 
 20160513
 - Added culturalDynastyGroups
