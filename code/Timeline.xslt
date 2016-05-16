@@ -307,7 +307,7 @@
 
 
 			<xsl:next-iteration>
-				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (3 * $yIncrement)" />
+				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (5 * $yIncrement)" />
 			</xsl:next-iteration>
 
 		</xsl:iterate>
