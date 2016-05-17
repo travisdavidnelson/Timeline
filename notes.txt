@@ -10,7 +10,6 @@ TODO
 	- fix annotation and fate spacing in person tooltip
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
-	- why does Marcian and Leo the Thracian look different from Septimus Severus and Augustus?
 
 - Tooltips for background events
 
@@ -43,6 +42,9 @@ TODO
 
 
 *** LOG
+
+20160516
+- Fixed: why does Marcian and Leo the Thracian look different from Septimus Severus and Augustus?
 
 20160515
 - Set Dynasty header startX to the startX of the first person's first title
