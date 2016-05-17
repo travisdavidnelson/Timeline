@@ -13,6 +13,8 @@ TODO
 
 - Tooltips for background events
 
+- More precise dates!
+
 - Other civs, how to handle that?
 
 - Audio player for THOR episodes?
