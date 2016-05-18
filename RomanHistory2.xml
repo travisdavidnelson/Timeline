@@ -37,7 +37,6 @@
     <backgroundEvents>
     	<name>Crisis of the Third Century</name>
 	    <dateRange>
-            <startYearApproximate>true</startYearApproximate>
     	    <startYear>235</startYear>
         	<endYear>284</endYear>
     	</dateRange>
@@ -70,7 +69,9 @@
 	<backgroundEvents>
 		<name>Overthrow of the Roman monarchy</name>
 		<dateRange>
+            <startYearApproximate>true</startYearApproximate>
 			<startYear>-510</startYear>
+            <endYearApproximate>true</endYearApproximate>
 			<endYear>-509</endYear>
 		</dateRange>
     	<style>backgroundCivilWar</style>
@@ -79,6 +80,14 @@
 		<name>Etruscan War</name>
 		<dateRange>
 			<startYear>-509</startYear>
+			<endYear>-509</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>War with Clusium</name>
+		<dateRange>
+			<startYear>-508</startYear>
 			<endYear>-508</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
@@ -87,7 +96,7 @@
 		<name>Sabine War</name>
 		<dateRange>
 			<startYear>-505</startYear>
-			<endYear>-503</endYear>
+			<endYear>-504</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
@@ -106,6 +115,14 @@
 			<endYear>-494</endYear>
 		</dateRange>
     	<style>backgroundCivilWar</style>
+	</backgroundEvents>
+	<backgroundEvents>
+		<name>The Fabian war with Veii</name>
+		<dateRange>
+			<startYear>-483</startYear>
+			<endYear>-476</endYear>
+		</dateRange>
+    	<style>backgroundForeignWar</style>
 	</backgroundEvents>
 	<backgroundEvents>
 		<name>Decemviri</name>
@@ -151,7 +168,7 @@
 		<name>Latin War</name>
 		<dateRange>
 			<startYear>-389</startYear>
-			<endYear>-385</endYear>
+			<endYear>-386</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
 	</backgroundEvents>
@@ -174,7 +191,7 @@
 	<backgroundEvents>
 		<name>Hernician War</name>
 		<dateRange>
-			<startYear>-362</startYear>
+			<startYear>-366</startYear>
 			<endYear>-358</endYear>
 		</dateRange>
     	<style>backgroundForeignWar</style>
