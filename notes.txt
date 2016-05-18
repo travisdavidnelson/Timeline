@@ -1,7 +1,10 @@
 TODO
 
+- Content that appears at Zoom Level X
+
 - Replace remaining hard-coded values
 	- 1000
+		- calculate height ahead of time, or find a way to delay writing xslt nodes (using xsl:result-document?)
 	- size of tick lines in gridline
 	- yearToX default values
 	- yearHeader, yearFooter offsets
@@ -11,7 +14,9 @@ TODO
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
 
-- Tooltips for background events
+- Background events
+	- Tooltips
+	- Get approximate working for short events (Overthrow of Roman monarchy)
 
 - More precise dates!
 
