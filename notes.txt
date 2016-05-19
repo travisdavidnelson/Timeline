@@ -1,6 +1,8 @@
 TODO
 
-- Content that appears at Zoom Level X
+- Zoom Level X
+	- Content that appears at
+	- Thematic grouping by zoom level?
 
 - Replace remaining hard-coded values
 	- 1000
@@ -10,6 +12,7 @@ TODO
 	- yearHeader, yearFooter offsets
 	
 - People
+	- Foreground events
 	- fix annotation and fate spacing in person tooltip
 	- increase opacity
 	- links not working in safari and work-machine chrome (!)
@@ -19,6 +22,8 @@ TODO
 	- Get approximate working for short events (Overthrow of Roman monarchy)
 
 - More precise dates!
+
+- Clean up project.
 
 - Other civs, how to handle that?
 
