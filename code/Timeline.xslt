@@ -27,7 +27,7 @@
 	<xsl:variable name="maxPeopleLastY" select="$peopleLastY" saxon:assignable="yes" />
 
 	<xsl:variable name="approximateYearAdjustment">
-		<xsl:value-of select="2" />
+		<xsl:value-of select="1" />
 	</xsl:variable>
 
 	<xsl:variable name="textXOffset">
@@ -95,13 +95,13 @@
 	   <defs>
 	    <linearGradient id="fadeIn" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0" stop-color="white" stop-opacity="0" />
-	      <stop offset="0.10" stop-color="white" stop-opacity="1.0" />
+	      <stop offset="0.20" stop-color="white" stop-opacity="1.0" />
 	    </linearGradient>
 	    <mask id="fadeInMask" maskContentUnits="objectBoundingBox">
 	      <rect width="1" height="1" fill="url(#fadeIn)" />
 	    </mask>
 	    <linearGradient id="fadeOut" x1="0" y1="0" x2="1" y2="0">
-	      <stop offset="0.90" stop-color="white" stop-opacity="1.0" />
+	      <stop offset="0.80" stop-color="white" stop-opacity="1.0" />
 	      <stop offset="1.0" stop-color="white" stop-opacity="0" />
 	    </linearGradient>
 	    <mask id="fadeOutMask" maskContentUnits="objectBoundingBox">
@@ -109,8 +109,8 @@
 	    </mask>
 	    <linearGradient id="fadeInOut" x1="0" y1="0" x2="1" y2="0">
 	      <stop offset="0" stop-color="white" stop-opacity="0" />
-	      <stop offset="0.10" stop-color="white" stop-opacity="1.0" />
-	      <stop offset="0.90" stop-color="white" stop-opacity="1.0" />
+	      <stop offset="0.20" stop-color="white" stop-opacity="1.0" />
+	      <stop offset="0.80" stop-color="white" stop-opacity="1.0" />
 	      <stop offset="1.0" stop-color="white" stop-opacity="0" />
 	    </linearGradient>
 	    <mask id="fadeInOutMask" maskContentUnits="objectBoundingBox">
@@ -612,18 +612,8 @@
 		<xsl:variable name="startYear">
 			<xsl:value-of select="dateRange/startYear" />
 		</xsl:variable>
-		<xsl:variable name="startX">
-			<xsl:call-template name="yearToX">
-				<xsl:with-param name="year" select="$startYear" />
-			</xsl:call-template>
-		</xsl:variable>
 		<xsl:variable name="endYear">
 			<xsl:value-of select="dateRange/endYear" />
-		</xsl:variable>
-		<xsl:variable name="width">
-			<xsl:call-template name="numberOfPixels">
-				<xsl:with-param name="years" select="($endYear - $startYear)" />
-			</xsl:call-template>
 		</xsl:variable>
 		<xsl:variable name="height" select="1000 - $yBorder" />
 		<xsl:variable name="name">
@@ -639,7 +629,28 @@
 		<xsl:variable name="endYearApproximate">
 			<xsl:value-of select="dateRange/endYearApproximate" />
 		</xsl:variable>
+
+		<xsl:variable name="startYearApproxAdj">
+			<xsl:call-template name="getApproximateYearAdjustment">
+				<xsl:with-param name="approxFlag" select="$startYearApproximate" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:variable name="endYearApproxAdj">
+			<xsl:call-template name="getApproximateYearAdjustment">
+				<xsl:with-param name="approxFlag" select="$endYearApproximate" />
+			</xsl:call-template>
+		</xsl:variable>
 	
+		<xsl:variable name="startX">
+			<xsl:call-template name="yearToX">
+				<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:variable name="width">
+			<xsl:call-template name="numberOfPixels">
+				<xsl:with-param name="years" select="($endYear + $endYearApproxAdj - ($startYear - $startYearApproxAdj))" />
+			</xsl:call-template>
+		</xsl:variable>
 		
 		<xsl:variable name="fadeMask">
 			<xsl:call-template name="getFadeMask">

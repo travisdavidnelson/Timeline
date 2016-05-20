@@ -22,7 +22,6 @@ TODO
 - Background events
 	- Distinguish Wars of Conquest vs Wars of Conquered
 	- Tooltips
-	- Get approximate working for short events (Overthrow of Roman monarchy)
 	- Some background events are on top of gridlines
 
 - Clean up project.
@@ -60,6 +59,10 @@ TODO
 
 
 *** LOG
+
+20160519
+- Get approximate working for short events (Overthrow of Roman monarchy)
+
 
 20160516
 - Fixed: why does Marcian and Leo the Thracian look different from Septimus Severus and Augustus?

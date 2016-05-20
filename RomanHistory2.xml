@@ -931,6 +931,7 @@
 		            <reign>
 	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-535</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
@@ -960,7 +961,9 @@
                 <titles>
                 	<name>consul</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-509</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
@@ -976,7 +979,9 @@
                 <titles>
                 	<name>consul</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-509</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
@@ -993,7 +998,9 @@
                 <titles>
                 	<name>consul</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-509</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-509</endYear>
 		            </reign>
                 </titles>
@@ -1003,35 +1010,44 @@
                 <lifespan>
                     <startYearApproximate>true</startYearApproximate>
                     <startYear>-550</startYear>
+                    <endYearApproximate>true</endYearApproximate>
                     <endYear>-503</endYear>
                 </lifespan>
                 <importance>semimajor</importance>
                 <titles>
                 	<name>consul</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-509</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
+		                <endYear>-509</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>consul</name>
+		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
+		                <startYear>-508</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-508</endYear>
 		            </reign>
                 </titles>
                 <titles>
                 	<name>consul</name>
 		            <reign>
-		                <startYear>-508</startYear>
+	                    <startYearApproximate>true</startYearApproximate>
+		                <startYear>-507</startYear>
+	                    <endYearApproximate>true</endYearApproximate>
 		                <endYear>-507</endYear>
 		            </reign>
                 </titles>
                 <titles>
                 	<name>consul</name>
 		            <reign>
-		                <startYear>-507</startYear>
-		                <endYear>-506</endYear>
-		            </reign>
-                </titles>
-                <titles>
-                	<name>consul</name>
-		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-504</startYear>
-		                <endYear>-503</endYear>
+	                    <endYearApproximate>true</endYearApproximate>
+		                <endYear>-504</endYear>
 		            </reign>
                 </titles>
             </people>
@@ -1047,8 +1063,10 @@
                 <titles>
                 	<name>consul</name>
 		            <reign>
+	                    <startYearApproximate>true</startYearApproximate>
 		                <startYear>-506</startYear>
-		                <endYear>-505</endYear>
+	                    <endYearApproximate>true</endYearApproximate>
+		                <endYear>-506</endYear>
 		            </reign>
                 </titles>
             </people>
