@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timeline>
     <name>French Revolution</name>
+    <stylesheet>FrenchRevolution.css</stylesheet>
     <range>
         <startYear>1700</startYear>
         <endYear>1900</endYear>
@@ -46,7 +47,7 @@
         <dynasties>
             <name>Bourbon Dynasty</name>
             <people>
-                <name>Louis XVI of France</name>
+                <name>Louis XVI</name>
                 <lifespan>
                     <startYear>1754</startYear>
                     <endYear>1793</endYear>
