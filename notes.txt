@@ -1,7 +1,11 @@
 TODO
 
 - More precise dates!
-
+	- first: expand scale to >= 12 pixels/year so more precise dates can be represented
+	- xml data format
+		- rename startYear/endYear?
+		- or use new tags for startMonth, startDayOfMonth etc?
+		
 - Zoom Level X
 	- Content that appears at
 	- Thematic grouping by zoom level?
@@ -59,6 +63,9 @@ TODO
 
 
 *** LOG
+
+20260520
+- First shot at FrenchRevolution: blank so far
 
 20160519
 - Get approximate working for short events (Overthrow of Roman monarchy)
