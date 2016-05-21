@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline>
+    <name>French Revolution</name>
+    <range>
+        <startYear>1700</startYear>
+        <endYear>1900</endYear>
+    </range>
+    <addCenturyTickLines>true</addCenturyTickLines>
+    <addDecadeTickLines>true</addDecadeTickLines>
+    <defaultPersonBackgroundStyle>french</defaultPersonBackgroundStyle>
+    <backgroundEvents>
+    	<name>French Monarchy</name>
+	    <dateRange>
+            <startYearApproximate>true</startYearApproximate>
+    	    <startYear>1700</startYear>
+        	<endYear>1789</endYear>
+    	</dateRange>
+    	<style>frenchMonarchy</style>
+    </backgroundEvents>
+    <backgroundEvents>
+    	<name>French Republic</name>
+	    <dateRange>
+    	    <startYear>1789</startYear>
+        	<endYear>1795</endYear>
+    	</dateRange>
+    	<style>frenchRepublic</style>
+    </backgroundEvents>
+    <backgroundEvents>
+    	<name>French Directorate</name>
+	    <dateRange>
+    	    <startYear>1795</startYear>
+        	<endYear>1798</endYear>
+    	</dateRange>
+    	<style>frenchDirectorate</style>
+    </backgroundEvents>
+    <backgroundEvents>
+    	<name>French Napoleonic Empire</name>
+	    <dateRange>
+    	    <startYear>1798</startYear>
+        	<endYear>1813</endYear>
+    	</dateRange>
+    	<style>frenchNapoleonicEmpire</style>
+    </backgroundEvents>
+    <politicalDynastyGroups>
+    	<name>Monarchists</name>
+        <dynasties>
+            <name>Bourbon Dynasty</name>
+            <people>
+                <name>Louis XVI of France</name>
+                <lifespan>
+                    <startYear>1754</startYear>
+                    <endYear>1793</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+                	<name>king</name>
+		            <reign>
+		                <startYear>1774</startYear>
+		                <endYear>1791</endYear>
+		            </reign>
+                </titles>
+            </people>
+        </dynasties>
+    </politicalDynastyGroups>
+</timeline>
