@@ -6,6 +6,14 @@ TODO
 		- rename startYear/endYear?
 		- or use new tags for startMonth, startDayOfMonth etc?
 		
+_ XSLT things to parameterize, as exposed by French Revolution timeline
+	- xBorder
+	- resolution/pixelsPerYear
+	- Title
+	- css
+	- gridline timelineStartYear, timelineEndYear
+	- yearToX timelineStartYear, timelineEndYear
+		
 - Zoom Level X
 	- Content that appears at
 	- Thematic grouping by zoom level?
