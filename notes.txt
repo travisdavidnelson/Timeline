@@ -13,6 +13,7 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 	- css
 	- gridline timelineStartYear, timelineEndYear
 	- yearToX timelineStartYear, timelineEndYear
+	- majorTickline, minorTickline, gridline mod values should come from xml.
 		
 - Zoom Level X
 	- Content that appears at
@@ -43,6 +44,7 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 	- titles -> title
 
 - Other civs, how to handle that?
+	- First get other timelines working, then figure out how to combine them
 
 - Audio player for THOR episodes?
 	http://www.coreymwamba.co.uk/testbed/svgplayer.html
