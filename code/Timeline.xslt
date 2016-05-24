@@ -6,7 +6,7 @@
 		<xsl:value-of select="1050" />
 	</xsl:variable>
 	<xsl:variable name="pixelsPerYear">
-		<xsl:value-of select="2" />
+		<xsl:value-of select="24" /> <!-- TODO: parameterize this -->
 	</xsl:variable>
 
 	<xsl:variable name="defaultStartY">
@@ -17,7 +17,7 @@
 	</xsl:variable>
 
 	<xsl:variable name="xBorder">
-		<xsl:value-of select="30" />
+		<xsl:value-of select="50" /> <!-- TODO: parameterize this -->
 	</xsl:variable>
 	<xsl:variable name="yBorder">
 		<xsl:value-of select="30" />
@@ -63,8 +63,8 @@
 
 		<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 			<head>
-				<title>Timeline</title>
-				<link type="text/css" rel="stylesheet" href="./RomeStyles.css" />
+				<title>French Revolution</title>     <!-- TODO: parameterize this -->
+				<link type="text/css" rel="stylesheet" href="./FrenchStyles.css" />    <!-- TODO: parameterize this -->
 			</head>
 			<body>
 				<xsl:apply-templates select="timeline" />
@@ -74,6 +74,10 @@
 	</xsl:template>
 
 	<xsl:template match="timeline">
+
+		<xsl:variable name="name">
+	        <xsl:value-of select="name" />
+		</xsl:variable>
 	
 		<xsl:variable name="startYear">
 	        <xsl:value-of select="range/startYear" />
@@ -86,6 +90,9 @@
 				<xsl:with-param name="years" select="$endYear - $startYear + $xBorder" />
 			</xsl:call-template>
 		</xsl:variable>
+<startYear value="{$startYear}"/>
+<endYear value="{$endYear}"/>
+<widthInPixels value="{$widthInPixels}"/>
 
 	
 
@@ -125,7 +132,6 @@
 	  <xsl:variable name="defaultPersonBackgroundStyle">
 	      <xsl:value-of select="defaultPersonBackgroundStyle" />
 	  </xsl:variable>
-	  <defaultPersonBackgroundStyle value="{$defaultPersonBackgroundStyle}"/>
 
       <xsl:call-template name="displayGrid">
         <xsl:with-param name="timelineStartYear" select="$startYear" />
@@ -710,11 +716,13 @@
 				<xsl:when test="$timelineStartYear = $timelineEndYear">
 					<xsl:call-template name="gridline">
 						<xsl:with-param name="year" select="$timelineStartYear" />
+						<xsl:with-param name="timelineStartYear" select="$timelineStartYear" />
+						<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
 					</xsl:call-template>
 				</xsl:when>
 				<xsl:otherwise>
 					<xsl:variable name="vMid" select="floor(($timelineStartYear + $timelineEndYear) div 2)" />
-					<xsl:call-template name="displayGrid">
+					<xsl:call-template name="processYear">
 						<xsl:with-param name="timelineStartYear" select="$timelineStartYear" />
 						<xsl:with-param name="timelineEndYear" select="$vMid" />
 					</xsl:call-template>
@@ -729,8 +737,10 @@
 
 	<xsl:template name="gridline">
 		<xsl:param name="year" />
+		<xsl:param name="timelineStartYear" />
+		<xsl:param name="timelineEndYear" />
 
-		<xsl:if test="($year mod 100) = 0 or $year = 1">
+		<xsl:if test="($year mod 10) = 0 or $year = 1">    <!-- TODO: parameterize this -->
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -751,7 +761,7 @@
 				<xsl:with-param name="xValue" select="$xValue" />
 			</xsl:call-template>
 		</xsl:if>
-		<xsl:if test="($year mod 10) = 0">
+		<xsl:if test="($year mod 1) = 0">    <!-- TODO: parameterize this -->
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -770,7 +780,7 @@
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
 		</xsl:if>
-		<xsl:if test="($year mod 50) = 0">
+		<xsl:if test="($year mod 5) = 0">    <!-- TODO: parameterize this -->
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -785,6 +795,25 @@
 			<xsl:call-template name="line">
 				<xsl:with-param name="x1" select="$xValue" />
 				<xsl:with-param name="y1" select="1000 - 15" />
+				<xsl:with-param name="x2" select="$xValue" />
+				<xsl:with-param name="y2" select="1000" />
+			</xsl:call-template>
+		</xsl:if>
+		<xsl:if test="($year mod 50) = 0">    <!-- TODO: parameterize this -->
+			<xsl:variable name="xValue">
+				<xsl:call-template name="yearToX">
+					<xsl:with-param name="year" select="$year" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:call-template name="line">
+				<xsl:with-param name="x1" select="$xValue" />
+				<xsl:with-param name="y1" select="$yBorder" />
+				<xsl:with-param name="x2" select="$xValue" />
+				<xsl:with-param name="y2" select="$yBorder + 25" />
+			</xsl:call-template>
+			<xsl:call-template name="line">
+				<xsl:with-param name="x1" select="$xValue" />
+				<xsl:with-param name="y1" select="1000 - 25" />
 				<xsl:with-param name="x2" select="$xValue" />
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
@@ -807,8 +836,8 @@
 
 	<xsl:template name="yearToX">
 		<xsl:param name="year" />
-		<xsl:param name="timelineStartYear" select="-800" />
-		<xsl:param name="timelineEndYear" select="1500" />
+		<xsl:param name="timelineStartYear" select="1700" />    <!-- TODO: parameterize this -->
+		<xsl:param name="timelineEndYear" select="1900" />    <!-- TODO: parameterize this -->
 		<xsl:choose>
 			<xsl:when test="$year > 0">
 				<xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + $xBorder" />

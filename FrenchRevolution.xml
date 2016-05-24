@@ -47,6 +47,21 @@
         <dynasties>
             <name>Bourbon Dynasty</name>
             <people>
+                <name>Louis XV</name>
+                <lifespan>
+                    <startYear>1710</startYear>
+                    <endYear>1774</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+                	<name>king</name>
+		            <reign>
+		                <startYear>1715</startYear>
+		                <endYear>1774</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
                 <name>Louis XVI</name>
                 <lifespan>
                     <startYear>1754</startYear>
