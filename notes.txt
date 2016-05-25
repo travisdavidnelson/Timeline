@@ -14,6 +14,7 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 	- gridline timelineStartYear, timelineEndYear
 	- yearToX timelineStartYear, timelineEndYear
 	- majorTickline, minorTickline, gridline mod values should come from xml.
+	- Importance sizes from xml
 		
 - Zoom Level X
 	- Content that appears at
