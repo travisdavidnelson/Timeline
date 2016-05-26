@@ -61,15 +61,7 @@
 <xsl:text>&#10;</xsl:text> <!-- newline character -->
 <xsl:text>&#10;</xsl:text> <!-- newline character -->
 
-		<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-			<head>
-				<title>French Revolution</title>     <!-- TODO: parameterize this -->
-				<link type="text/css" rel="stylesheet" href="./FrenchStyles.css" />    <!-- TODO: parameterize this -->
-			</head>
-			<body>
-				<xsl:apply-templates select="timeline" />
-			</body>
-		</html>
+		<xsl:apply-templates select="timeline" />
 
 	</xsl:template>
 
@@ -95,6 +87,13 @@
 <widthInPixels value="{$widthInPixels}"/>
 
 	
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>French Revolution</title>     <!-- TODO: parameterize this -->
+		<link type="text/css" rel="stylesheet" href="./FrenchStyles.css" />    <!-- TODO: parameterize this -->
+	</head>
+	<body>
 
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<svg x="0px" y="0px" width="{$widthInPixels}px" height="{$heightInPixels}px"
@@ -150,6 +149,8 @@
 	  
 <maxPeopleLastY value="{$maxPeopleLastY}"/>
     </svg>
+	</body>
+</html>
 	</xsl:template>
 
 	<xsl:template match="politicalDynastyGroups">
