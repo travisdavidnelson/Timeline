@@ -70,6 +70,9 @@
 		<xsl:variable name="name">
 	        <xsl:value-of select="name" />
 		</xsl:variable>
+		<xsl:variable name="stylesheet">
+	        <xsl:value-of select="stylesheet" />
+		</xsl:variable>
 	
 		<xsl:variable name="startYear">
 	        <xsl:value-of select="range/startYear" />
@@ -82,18 +85,20 @@
 				<xsl:with-param name="years" select="$endYear - $startYear + $xBorder" />
 			</xsl:call-template>
 		</xsl:variable>
-<startYear value="{$startYear}"/>
-<endYear value="{$endYear}"/>
-<widthInPixels value="{$widthInPixels}"/>
 
 	
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<title>French Revolution</title>     <!-- TODO: parameterize this -->
-		<link type="text/css" rel="stylesheet" href="./FrenchStyles.css" />    <!-- TODO: parameterize this -->
+		<title><xsl:value-of select="name" /></title>
+		<link type="text/css" rel="stylesheet" href="./{$stylesheet}" />
 	</head>
 	<body>
+<name value="{$name}"/>
+<stylesheet value="{$stylesheet}"/>
+<startYear value="{$startYear}"/>
+<endYear value="{$endYear}"/>
+<widthInPixels value="{$widthInPixels}"/>
 
 		<xsl:text>&#10;</xsl:text> <!-- newline character -->
 		<svg x="0px" y="0px" width="{$widthInPixels}px" height="{$heightInPixels}px"
