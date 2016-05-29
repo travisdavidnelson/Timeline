@@ -2,6 +2,8 @@
 <timeline>
     <name>French Revolution</name>
     <stylesheet>FrenchRevolution.css</stylesheet>
+    <xBorder>50</xBorder>
+    <yBorder>30</yBorder>
     <range>
         <startYear>1700</startYear>
         <endYear>1900</endYear>
