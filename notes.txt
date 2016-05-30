@@ -6,9 +6,6 @@ TODO
 		- rename startYear/endYear?
 		- or use new tags for startMonth, startDayOfMonth etc?
 		
-_ XSLT things to parameterize, as exposed by French Revolution timeline
-	- Importance sizes from xml
-		
 - Zoom Level X
 	- Content that appears at
 	- Thematic grouping by zoom level?
@@ -72,6 +69,8 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 - Parameterized resolution/pixelsPerYear
 - Parameterized yearToX timelineStartYear, timelineEndYear
 - Parameterized majorTickline, minorTickline, gridline mod values should come from xml.
+_ XSLT things to parameterize, as exposed by French Revolution timeline
+	- Importance sizes from xml
 
 
 20160529

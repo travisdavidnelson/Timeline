@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timeline>
     <name>French Revolution</name>
+    
     <stylesheet>FrenchRevolution.css</stylesheet>
+    <defaultPersonBackgroundStyle>french</defaultPersonBackgroundStyle>
+
     <pixelsPerYear>24</pixelsPerYear>
     <xBorder>50</xBorder>
     <yBorder>30</yBorder>
+
     <gridlineMod>10</gridlineMod>
     <majorTickMod>5</majorTickMod>
     <minorTickMod>1</minorTickMod>
+    
+    <minorHeight>10</minorHeight>
+    <semimajorHeight>15</semimajorHeight>
+    <majorHeight>20</majorHeight>
+    <transformationalHeight>30</transformationalHeight>
+    
     <range>
         <startYear>1700</startYear>
         <endYear>1900</endYear>
     </range>
-    <addCenturyTickLines>true</addCenturyTickLines>
-    <addDecadeTickLines>true</addDecadeTickLines>
-    <defaultPersonBackgroundStyle>french</defaultPersonBackgroundStyle>
+    
     <backgroundEvents>
     	<name>French Monarchy</name>
 	    <dateRange>

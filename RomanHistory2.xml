@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timeline>
     <name>Ancient Rome</name>
+
     <stylesheet>RomanHistory.css</stylesheet>
+    <defaultPersonBackgroundStyle>roman</defaultPersonBackgroundStyle>
+
     <pixelsPerYear>2</pixelsPerYear>
     <xBorder>30</xBorder>
     <yBorder>30</yBorder>
+
     <gridlineMod>100</gridlineMod>
     <majorTickMod>50</majorTickMod>
     <minorTickMod>10</minorTickMod>
+    
+    <minorHeight>6</minorHeight>
+    <semimajorHeight>10</semimajorHeight>
+    <majorHeight>15</majorHeight>
+    <transformationalHeight>20</transformationalHeight>
+    
     <range>
         <startYear>-800</startYear>
         <endYear>1500</endYear>
     </range>
-    <addCenturyTickLines>true</addCenturyTickLines>
-    <addDecadeTickLines>true</addDecadeTickLines>
-    <defaultPersonBackgroundStyle>roman</defaultPersonBackgroundStyle>
+
     <backgroundEvents>
     	<name>Roman Kingdom</name>
 	    <dateRange>

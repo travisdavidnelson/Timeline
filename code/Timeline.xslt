@@ -149,6 +149,19 @@
 	      <xsl:value-of select="minorTickMod" />
 	  </xsl:variable>
 
+	  <xsl:variable name="minorHeight">
+	      <xsl:value-of select="minorHeight" />
+	  </xsl:variable>
+	  <xsl:variable name="semimajorHeight">
+	      <xsl:value-of select="semimajorHeight" />
+	  </xsl:variable>
+	  <xsl:variable name="majorHeight">
+	      <xsl:value-of select="majorHeight" />
+	  </xsl:variable>
+	  <xsl:variable name="transformationalHeight">
+	      <xsl:value-of select="transformationalHeight" />
+	  </xsl:variable>
+
       <xsl:call-template name="displayGrid">
         <xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
         <xsl:with-param name="timelineStartYear" select="$startYear" />
@@ -174,6 +187,10 @@
 		  <xsl:with-param name="timelineEndYear" select="$endYear" />
 	      <xsl:with-param name="xBorder" select="$xBorder" />
 	      <xsl:with-param name="yBorder" select="$yBorder" />
+		  <xsl:with-param name="minorHeight" select="$minorHeight" />
+		  <xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
+		  <xsl:with-param name="majorHeight" select="$majorHeight" />
+		  <xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
 	  </xsl:apply-templates>
 
 	  <xsl:apply-templates select="culturalDynastyGroups">
@@ -183,6 +200,10 @@
 		  <xsl:with-param name="timelineEndYear" select="$endYear" />
 	      <xsl:with-param name="xBorder" select="$xBorder" />
 	      <xsl:with-param name="yBorder" select="$yBorder" />
+		  <xsl:with-param name="minorHeight" select="$minorHeight" />
+		  <xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
+		  <xsl:with-param name="majorHeight" select="$majorHeight" />
+		  <xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
 	  </xsl:apply-templates>
 	  
 <maxPeopleLastY value="{$maxPeopleLastY}"/>
@@ -198,6 +219,10 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="minorHeight" />
+		<xsl:param name="semimajorHeight" />
+		<xsl:param name="majorHeight" />
+		<xsl:param name="transformationalHeight" />
 
 		<xsl:variable name="name">
 			<xsl:value-of select="name" />
@@ -285,6 +310,10 @@
 				<xsl:variable name="height">
 					<xsl:call-template name="getImportanceHeight">
 						<xsl:with-param name="importance" select="$importance" />
+						<xsl:with-param name="minorHeight" select="$minorHeight" />
+						<xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
+						<xsl:with-param name="majorHeight" select="$majorHeight" />
+						<xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="textYOffset">
@@ -388,6 +417,10 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="minorHeight" />
+		<xsl:param name="semimajorHeight" />
+		<xsl:param name="majorHeight" />
+		<xsl:param name="transformationalHeight" />
 
 		<xsl:variable name="name">
 			<xsl:value-of select="name" />
@@ -448,6 +481,10 @@
 			<xsl:variable name="height">
 				<xsl:call-template name="getImportanceHeight">
 					<xsl:with-param name="importance" select="$importance" />
+					<xsl:with-param name="minorHeight" select="$minorHeight" />
+					<xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
+					<xsl:with-param name="majorHeight" select="$majorHeight" />
+					<xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
 				</xsl:call-template>
 			</xsl:variable>
 			<xsl:variable name="textYOffset">
@@ -667,21 +704,25 @@
 
 	<xsl:template name="getImportanceHeight">
 		<xsl:param name="importance" />
+		<xsl:param name="minorHeight" />
+		<xsl:param name="semimajorHeight" />
+		<xsl:param name="majorHeight" />
+		<xsl:param name="transformationalHeight" />
 		<xsl:choose>
 			<xsl:when test="$importance = 'minor'">
-				<xsl:value-of select="6" />
+				<xsl:value-of select="$minorHeight" />
 			</xsl:when>
 			<xsl:when test="$importance = 'semimajor'">
-				<xsl:value-of select="10" />
+				<xsl:value-of select="$semimajorHeight" />
 			</xsl:when>
 			<xsl:when test="$importance = 'major'">
-				<xsl:value-of select="15" />
+				<xsl:value-of select="$majorHeight" />
 			</xsl:when>
 			<xsl:when test="$importance = 'transformational'">
-				<xsl:value-of select="20" />
+				<xsl:value-of select="$transformationalHeight" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="6" />
+				<xsl:value-of select="$minorHeight" />
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
