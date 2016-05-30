@@ -139,12 +139,25 @@
 	      <xsl:value-of select="defaultPersonBackgroundStyle" />
 	  </xsl:variable>
 
+	  <xsl:variable name="gridlineMod">
+	      <xsl:value-of select="gridlineMod" />
+	  </xsl:variable>
+	  <xsl:variable name="majorTickMod">
+	      <xsl:value-of select="majorTickMod" />
+	  </xsl:variable>
+	  <xsl:variable name="minorTickMod">
+	      <xsl:value-of select="minorTickMod" />
+	  </xsl:variable>
+
       <xsl:call-template name="displayGrid">
         <xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
         <xsl:with-param name="timelineStartYear" select="$startYear" />
         <xsl:with-param name="timelineEndYear" select="$endYear" />
         <xsl:with-param name="xBorder" select="$xBorder" />
         <xsl:with-param name="yBorder" select="$yBorder" />
+		<xsl:with-param name="gridlineMod" select="$gridlineMod" />
+		<xsl:with-param name="majorTickMod" select="$majorTickMod" />
+		<xsl:with-param name="minorTickMod" select="$minorTickMod" />
       </xsl:call-template>
 
 	  <xsl:apply-templates select="backgroundEvents">
@@ -772,6 +785,9 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="gridlineMod" />
+		<xsl:param name="majorTickMod" />
+		<xsl:param name="minorTickMod" />
 
 		<xsl:variable name="timelineStartX">
 			<xsl:call-template name="yearToX">
@@ -811,6 +827,9 @@
 			<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
 			<xsl:with-param name="xBorder" select="$xBorder" />
 			<xsl:with-param name="yBorder" select="$yBorder" />
+			<xsl:with-param name="gridlineMod" select="$gridlineMod" />
+			<xsl:with-param name="majorTickMod" select="$majorTickMod" />
+			<xsl:with-param name="minorTickMod" select="$minorTickMod" />
 		</xsl:call-template>
 	</xsl:template>
 
@@ -822,6 +841,9 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="gridlineMod" />
+		<xsl:param name="majorTickMod" />
+		<xsl:param name="minorTickMod" />
 
 		<xsl:if test="not($startYear > $endYear)">
 			<xsl:choose>
@@ -833,6 +855,9 @@
 						<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
 						<xsl:with-param name="xBorder" select="$xBorder" />
 						<xsl:with-param name="yBorder" select="$yBorder" />
+						<xsl:with-param name="gridlineMod" select="$gridlineMod" />
+						<xsl:with-param name="majorTickMod" select="$majorTickMod" />
+						<xsl:with-param name="minorTickMod" select="$minorTickMod" />
 					</xsl:call-template>
 				</xsl:when>
 				<xsl:otherwise>
@@ -845,6 +870,9 @@
 						<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
 						<xsl:with-param name="xBorder" select="$xBorder" />
 						<xsl:with-param name="yBorder" select="$yBorder" />
+						<xsl:with-param name="gridlineMod" select="$gridlineMod" />
+						<xsl:with-param name="majorTickMod" select="$majorTickMod" />
+						<xsl:with-param name="minorTickMod" select="$minorTickMod" />
 					</xsl:call-template>
 					<xsl:call-template name="processYear">
 						<xsl:with-param name="startYear" select="$vMid+1" />
@@ -854,6 +882,9 @@
 						<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
 						<xsl:with-param name="xBorder" select="$xBorder" />
 						<xsl:with-param name="yBorder" select="$yBorder" />
+						<xsl:with-param name="gridlineMod" select="$gridlineMod" />
+						<xsl:with-param name="majorTickMod" select="$majorTickMod" />
+						<xsl:with-param name="minorTickMod" select="$minorTickMod" />
 					</xsl:call-template>
 				</xsl:otherwise>
 			</xsl:choose>
@@ -867,11 +898,11 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="gridlineMod" />
+		<xsl:param name="majorTickMod" />
+		<xsl:param name="minorTickMod" />
 
-<gridline-pixelsPerYear value="{$pixelsPerYear}"/>
-<gridline-timelineStartYear value="{$timelineStartYear}"/>
-<gridline-timelineEndYear value="{$timelineStartYear}"/>
-		<xsl:if test="($year mod 10) = 0 or $year = 1">    <!-- TODO: parameterize this -->
+		<xsl:if test="($year mod $gridlineMod) = 0 or $year = 1">
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -897,7 +928,7 @@
 				<xsl:with-param name="xValue" select="$xValue" />
 			</xsl:call-template>
 		</xsl:if>
-		<xsl:if test="($year mod 1) = 0">    <!-- TODO: parameterize this -->
+		<xsl:if test="($year mod $minorTickMod) = 0">
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -920,7 +951,7 @@
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
 		</xsl:if>
-		<xsl:if test="($year mod 5) = 0">    <!-- TODO: parameterize this -->
+		<xsl:if test="($year mod $majorTickMod) = 0">
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />

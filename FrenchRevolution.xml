@@ -5,6 +5,9 @@
     <pixelsPerYear>24</pixelsPerYear>
     <xBorder>50</xBorder>
     <yBorder>30</yBorder>
+    <gridlineMod>10</gridlineMod>
+    <majorTickMod>5</majorTickMod>
+    <minorTickMod>1</minorTickMod>
     <range>
         <startYear>1700</startYear>
         <endYear>1900</endYear>

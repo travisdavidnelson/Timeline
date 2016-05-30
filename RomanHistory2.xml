@@ -2,6 +2,12 @@
 <timeline>
     <name>Ancient Rome</name>
     <stylesheet>RomanHistory.css</stylesheet>
+    <pixelsPerYear>2</pixelsPerYear>
+    <xBorder>30</xBorder>
+    <yBorder>30</yBorder>
+    <gridlineMod>100</gridlineMod>
+    <majorTickMod>50</majorTickMod>
+    <minorTickMod>10</minorTickMod>
     <range>
         <startYear>-800</startYear>
         <endYear>1500</endYear>

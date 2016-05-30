@@ -7,7 +7,6 @@ TODO
 		- or use new tags for startMonth, startDayOfMonth etc?
 		
 _ XSLT things to parameterize, as exposed by French Revolution timeline
-	- majorTickline, minorTickline, gridline mod values should come from xml.
 	- Importance sizes from xml
 		
 - Zoom Level X
@@ -72,6 +71,8 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 20160530
 - Parameterized resolution/pixelsPerYear
 - Parameterized yearToX timelineStartYear, timelineEndYear
+- Parameterized majorTickline, minorTickline, gridline mod values should come from xml.
+
 
 20160529
 - Parameterized xBorder, yBorder
