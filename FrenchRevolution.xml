@@ -18,7 +18,6 @@
     <backgroundEvents>
     	<name>French Monarchy</name>
 	    <dateRange>
-            <startYearApproximate>true</startYearApproximate>
     	    <startYear>1700</startYear>
         	<endYear>1789</endYear>
     	</dateRange>
