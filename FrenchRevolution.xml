@@ -2,6 +2,7 @@
 <timeline>
     <name>French Revolution</name>
     <stylesheet>FrenchRevolution.css</stylesheet>
+    <pixelsPerYear>24</pixelsPerYear>
     <xBorder>50</xBorder>
     <yBorder>30</yBorder>
     <range>

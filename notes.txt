@@ -7,10 +7,6 @@ TODO
 		- or use new tags for startMonth, startDayOfMonth etc?
 		
 _ XSLT things to parameterize, as exposed by French Revolution timeline
-	- xBorder, yBorder
-	- resolution/pixelsPerYear
-	- gridline timelineStartYear, timelineEndYear
-	- yearToX timelineStartYear, timelineEndYear
 	- majorTickline, minorTickline, gridline mod values should come from xml.
 	- Importance sizes from xml
 		
@@ -61,7 +57,7 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 
 *** Mysteries
 
-- Terrence y value is the terate value not the reset value. 1236 < 736 ?!
+- Terrence y value is the iterated value not the reset value. 1236 < 736 ?!
 
 - Class roman has extra characters see Lucious Junius Brutus: class="&#xA;&#x9;      roman&#xA;&#x9;  "
 	see defaultPersonBackgroundStyle and addCenturyTickLines
@@ -72,6 +68,14 @@ _ XSLT things to parameterize, as exposed by French Revolution timeline
 
 
 *** LOG
+
+20160530
+- Parameterized resolution/pixelsPerYear
+- Parameterized yearToX timelineStartYear, timelineEndYear
+
+20160529
+- Parameterized xBorder, yBorder
+- Parameterized gridline timelineStartYear, timelineEndYear
 
 20160526
 - Parameterized title and stylesheet name
