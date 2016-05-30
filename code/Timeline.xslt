@@ -974,29 +974,6 @@
 				<xsl:with-param name="y2" select="1000" />
 			</xsl:call-template>
 		</xsl:if>
-		<xsl:if test="($year mod 50) = 0">    <!-- TODO: parameterize this -->
-			<xsl:variable name="xValue">
-				<xsl:call-template name="yearToX">
-					<xsl:with-param name="year" select="$year" />
-					<xsl:with-param name="timelineStartYear" select="$timelineStartYear" />
-					<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
-					<xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
-					<xsl:with-param name="xBorder" select="$xBorder" />
-				</xsl:call-template>
-			</xsl:variable>
-			<xsl:call-template name="line">
-				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="$yBorder" />
-				<xsl:with-param name="x2" select="$xValue" />
-				<xsl:with-param name="y2" select="fn:number($yBorder) + 25" />
-			</xsl:call-template>
-			<xsl:call-template name="line">
-				<xsl:with-param name="x1" select="$xValue" />
-				<xsl:with-param name="y1" select="1000 - 25" />
-				<xsl:with-param name="x2" select="$xValue" />
-				<xsl:with-param name="y2" select="1000" />
-			</xsl:call-template>
-		</xsl:if>
 
 	</xsl:template>
 
