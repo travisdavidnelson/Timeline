@@ -8,6 +8,8 @@
     <pixelsPerYear>2</pixelsPerYear>
     <xBorder>30</xBorder>
     <yBorder>30</yBorder>
+    <ySpacing>5</ySpacing>
+    <textXOffset>2</textXOffset>
 
     <gridlineMod>100</gridlineMod>
     <majorTickMod>50</majorTickMod>
@@ -17,6 +19,11 @@
     <semimajorHeight>10</semimajorHeight>
     <majorHeight>15</majorHeight>
     <transformationalHeight>20</transformationalHeight>
+
+    <minorTextYOffset>5</minorTextYOffset>
+    <semimajorTextYOffset>7</semimajorTextYOffset>
+    <majorTextYOffset>10</majorTextYOffset>
+    <transformationalTextYOffset>13</transformationalTextYOffset>
     
     <range>
         <startYear>-800</startYear>

@@ -9,19 +9,12 @@
 	<xsl:variable name="defaultStartY">
 		<xsl:value-of select="30" />
 	</xsl:variable>
-	<xsl:variable name="yIncrement">
-		<xsl:value-of select="5" />
-	</xsl:variable>
 
 	<xsl:variable name="peopleLastY" select="0" saxon:assignable="yes" />
 	<xsl:variable name="maxPeopleLastY" select="0" saxon:assignable="yes" />
 
 	<xsl:variable name="approximateYearAdjustment">
 		<xsl:value-of select="1" />
-	</xsl:variable>
-
-	<xsl:variable name="textXOffset">
-		<xsl:value-of select="2" />
 	</xsl:variable>
 
 	<xsl:template match="/">
@@ -71,6 +64,12 @@
 		</xsl:variable>
 		<xsl:variable name="yBorder">
 			<xsl:value-of select="fn:number(yBorder)" />
+		</xsl:variable>
+		<xsl:variable name="ySpacing">
+			<xsl:value-of select="ySpacing" />
+		</xsl:variable>
+		<xsl:variable name="textXOffset">
+			<xsl:value-of select="textXOffset" />
 		</xsl:variable>
 	
 		<xsl:variable name="startYear">
@@ -161,6 +160,18 @@
 	  <xsl:variable name="transformationalHeight">
 	      <xsl:value-of select="transformationalHeight" />
 	  </xsl:variable>
+	  <xsl:variable name="minorTextYOffset">
+	      <xsl:value-of select="minorTextYOffset" />
+	  </xsl:variable>
+	  <xsl:variable name="semimajorTextYOffset">
+	      <xsl:value-of select="semimajorTextYOffset" />
+	  </xsl:variable>
+	  <xsl:variable name="majorTextYOffset">
+	      <xsl:value-of select="majorTextYOffset" />
+	  </xsl:variable>
+	  <xsl:variable name="transformationalTextYOffset">
+	      <xsl:value-of select="transformationalTextYOffset" />
+	  </xsl:variable>
 
       <xsl:call-template name="displayGrid">
         <xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
@@ -187,10 +198,16 @@
 		  <xsl:with-param name="timelineEndYear" select="$endYear" />
 	      <xsl:with-param name="xBorder" select="$xBorder" />
 	      <xsl:with-param name="yBorder" select="$yBorder" />
+	      <xsl:with-param name="ySpacing" select="$ySpacing" />
+	      <xsl:with-param name="textXOffset" select="$textXOffset" />
 		  <xsl:with-param name="minorHeight" select="$minorHeight" />
 		  <xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
 		  <xsl:with-param name="majorHeight" select="$majorHeight" />
 		  <xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
+		  <xsl:with-param name="minorTextYOffset" select="$minorTextYOffset" />
+		  <xsl:with-param name="semimajorTextYOffset" select="$semimajorTextYOffset" />
+		  <xsl:with-param name="majorTextYOffset" select="$majorTextYOffset" />
+		  <xsl:with-param name="transformationalTextYOffset" select="$transformationalTextYOffset" />
 	  </xsl:apply-templates>
 
 	  <xsl:apply-templates select="culturalDynastyGroups">
@@ -200,10 +217,16 @@
 		  <xsl:with-param name="timelineEndYear" select="$endYear" />
 	      <xsl:with-param name="xBorder" select="$xBorder" />
 	      <xsl:with-param name="yBorder" select="$yBorder" />
+	      <xsl:with-param name="ySpacing" select="$ySpacing" />
+	      <xsl:with-param name="textXOffset" select="$textXOffset" />
 		  <xsl:with-param name="minorHeight" select="$minorHeight" />
 		  <xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
 		  <xsl:with-param name="majorHeight" select="$majorHeight" />
 		  <xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
+		  <xsl:with-param name="minorTextYOffset" select="$minorTextYOffset" />
+		  <xsl:with-param name="semimajorTextYOffset" select="$semimajorTextYOffset" />
+		  <xsl:with-param name="majorTextYOffset" select="$majorTextYOffset" />
+		  <xsl:with-param name="transformationalTextYOffset" select="$transformationalTextYOffset" />
 	  </xsl:apply-templates>
 	  
 <maxPeopleLastY value="{$maxPeopleLastY}"/>
@@ -219,10 +242,16 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="ySpacing" />
+		<xsl:param name="textXOffset" />
 		<xsl:param name="minorHeight" />
 		<xsl:param name="semimajorHeight" />
 		<xsl:param name="majorHeight" />
 		<xsl:param name="transformationalHeight" />
+		<xsl:param name="minorTextYOffset" />
+		<xsl:param name="semimajorTextYOffset" />
+		<xsl:param name="majorTextYOffset" />
+		<xsl:param name="transformationalTextYOffset" />
 
 		<xsl:variable name="name">
 			<xsl:value-of select="name" />
@@ -231,7 +260,7 @@
 		<xsl:iterate select="dynasties">
 			<xsl:param name="dynastyStartY" select="$yBorder + $defaultStartY" />
 
-			<xsl:variable name="nextY" select="$dynastyStartY + $yIncrement" />
+			<xsl:variable name="nextY" select="$dynastyStartY + $ySpacing" />
 			<heresMyNextY value="{$nextY}" />
 
 			<xsl:variable name="name">
@@ -257,7 +286,7 @@
 			<xsl:text>&#10;</xsl:text> <!-- newline character -->
 
 			<xsl:iterate select="people">
-				<xsl:param name="peopleStartY" select="$nextY + $yIncrement" />
+				<xsl:param name="peopleStartY" select="$nextY + $ySpacing" />
 
 				<xsl:variable name="name">
 					<xsl:value-of select="name" />
@@ -308,17 +337,21 @@
 					<xsl:value-of select="importance" />
 				</xsl:variable>
 				<xsl:variable name="height">
-					<xsl:call-template name="getImportanceHeight">
+					<xsl:call-template name="getImportanceValue">
 						<xsl:with-param name="importance" select="$importance" />
-						<xsl:with-param name="minorHeight" select="$minorHeight" />
-						<xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
-						<xsl:with-param name="majorHeight" select="$majorHeight" />
-						<xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
+						<xsl:with-param name="minorValue" select="$minorHeight" />
+						<xsl:with-param name="semimajorValue" select="$semimajorHeight" />
+						<xsl:with-param name="majorValue" select="$majorHeight" />
+						<xsl:with-param name="transformationalValue" select="$transformationalHeight" />
 					</xsl:call-template>
 				</xsl:variable>
 				<xsl:variable name="textYOffset">
-					<xsl:call-template name="getTextYOffsetFromImportance">
+					<xsl:call-template name="getImportanceValue">
 						<xsl:with-param name="importance" select="$importance" />
+						<xsl:with-param name="minorValue" select="$minorTextYOffset" />
+						<xsl:with-param name="semimajorValue" select="$semimajorTextYOffset" />
+						<xsl:with-param name="majorValue" select="$majorTextYOffset" />
+						<xsl:with-param name="transformationalValue" select="$transformationalTextYOffset" />
 					</xsl:call-template>
 				</xsl:variable>
 
@@ -371,6 +404,7 @@
 					<xsl:with-param name="name" select="$name" />
 					<xsl:with-param name="startX" select="$startX" />
 					<xsl:with-param name="startY" select="$peopleStartY" />
+					<xsl:with-param name="textXOffset" select="$textXOffset" />
 					<xsl:with-param name="textYOffset" select="$textYOffset" />
 					<xsl:with-param name="width" select="$width" />
 					<xsl:with-param name="height" select="$height" />
@@ -386,7 +420,7 @@
 				</xsl:call-template>
 
 
-				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $yIncrement" />
+				<xsl:variable name="peopleNextY" select="$peopleStartY + $height + $ySpacing" />
 
 				<saxon:assign name="peopleLastY" select="$peopleNextY" />
 				<xsl:choose>
@@ -402,7 +436,7 @@
 
 
 			<xsl:next-iteration>
-				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (5 * $yIncrement)" />
+				<xsl:with-param name="dynastyStartY" select="$peopleLastY + (5 * $ySpacing)" />
 			</xsl:next-iteration>
 
 		</xsl:iterate>
@@ -417,17 +451,23 @@
 		<xsl:param name="timelineEndYear" />
 		<xsl:param name="xBorder" />
 		<xsl:param name="yBorder" />
+		<xsl:param name="ySpacing" />
+		<xsl:param name="textXOffset" />
 		<xsl:param name="minorHeight" />
 		<xsl:param name="semimajorHeight" />
 		<xsl:param name="majorHeight" />
 		<xsl:param name="transformationalHeight" />
+		<xsl:param name="minorTextYOffset" />
+		<xsl:param name="semimajorTextYOffset" />
+		<xsl:param name="majorTextYOffset" />
+		<xsl:param name="transformationalTextYOffset" />
 
 		<xsl:variable name="name">
 			<xsl:value-of select="name" />
 		</xsl:variable>
 
 		<xsl:iterate select="dynasties/people">
-			<xsl:param name="peopleStartY" select="$maxPeopleLastY + (5 * $yIncrement)" />
+			<xsl:param name="peopleStartY" select="$maxPeopleLastY + (5 * $ySpacing)" />
 			<xsl:param name="lastEndX" select="0" />
 
 			<xsl:variable name="name">
@@ -479,17 +519,21 @@
 				<xsl:value-of select="importance" />
 			</xsl:variable>
 			<xsl:variable name="height">
-				<xsl:call-template name="getImportanceHeight">
+				<xsl:call-template name="getImportanceValue">
 					<xsl:with-param name="importance" select="$importance" />
-					<xsl:with-param name="minorHeight" select="$minorHeight" />
-					<xsl:with-param name="semimajorHeight" select="$semimajorHeight" />
-					<xsl:with-param name="majorHeight" select="$majorHeight" />
-					<xsl:with-param name="transformationalHeight" select="$transformationalHeight" />
+					<xsl:with-param name="minorValue" select="$minorHeight" />
+					<xsl:with-param name="semimajorValue" select="$semimajorHeight" />
+					<xsl:with-param name="majorValue" select="$majorHeight" />
+					<xsl:with-param name="transformationalValue" select="$transformationalHeight" />
 				</xsl:call-template>
 			</xsl:variable>
 			<xsl:variable name="textYOffset">
-				<xsl:call-template name="getTextYOffsetFromImportance">
+				<xsl:call-template name="getImportanceValue">
 					<xsl:with-param name="importance" select="$importance" />
+					<xsl:with-param name="minorValue" select="$minorTextYOffset" />
+					<xsl:with-param name="semimajorValue" select="$semimajorTextYOffset" />
+					<xsl:with-param name="majorValue" select="$majorTextYOffset" />
+					<xsl:with-param name="transformationalValue" select="$transformationalTextYOffset" />
 				</xsl:call-template>
 			</xsl:variable>
 
@@ -540,13 +584,13 @@
 			
 			<xsl:variable name="thisPersonStartY">
 				<xsl:call-template name="getPersonStartY">
-					<xsl:with-param name="resetResult" select="$maxPeopleLastY + (5 * $yIncrement)" />
+					<xsl:with-param name="resetResult" select="$maxPeopleLastY + (5 * $ySpacing)" />
 					<xsl:with-param name="iterateResult" select="$peopleStartY" />
 					<xsl:with-param name="lastEndX" select="$lastEndX" />
 					<xsl:with-param name="thisStartX" select="$startX" />
 				</xsl:call-template>
 			</xsl:variable>
-<resetResult value="{$maxPeopleLastY + (5 * $yIncrement)}"/>			
+<resetResult value="{$maxPeopleLastY + (5 * $ySpacing)}"/>			
 <iterateResult value="{$peopleStartY}"/>			
 <lastEndX value="{$lastEndX}"/>			
 <thisStartX value="{$startX}"/>			
@@ -555,6 +599,7 @@
 				<xsl:with-param name="name" select="$name" />
 				<xsl:with-param name="startX" select="$startX" />
 				<xsl:with-param name="startY" select="$thisPersonStartY" />
+				<xsl:with-param name="textXOffset" select="$textXOffset" />
 				<xsl:with-param name="textYOffset" select="$textYOffset" />
 				<xsl:with-param name="width" select="$width" />
 				<xsl:with-param name="height" select="$height" />
@@ -570,7 +615,7 @@
 			</xsl:call-template>
 
 
-			<xsl:variable name="peopleNextY" select="$thisPersonStartY + $height + $yIncrement" />
+			<xsl:variable name="peopleNextY" select="$thisPersonStartY + $height + $ySpacing" />
 
 			<saxon:assign name="peopleLastY" select="$peopleNextY" />
 
@@ -590,6 +635,7 @@
 		<xsl:param name="name" />
 		<xsl:param name="startX" />
 		<xsl:param name="startY" />
+		<xsl:param name="textXOffset" />
 		<xsl:param name="textYOffset" />
 		<xsl:param name="width" />
 		<xsl:param name="height" />
@@ -702,51 +748,30 @@
 		</xsl:choose>
 	</xsl:template>
 
-	<xsl:template name="getImportanceHeight">
+	<xsl:template name="getImportanceValue">
 		<xsl:param name="importance" />
-		<xsl:param name="minorHeight" />
-		<xsl:param name="semimajorHeight" />
-		<xsl:param name="majorHeight" />
-		<xsl:param name="transformationalHeight" />
+		<xsl:param name="minorValue" />
+		<xsl:param name="semimajorValue" />
+		<xsl:param name="majorValue" />
+		<xsl:param name="transformationalValue" />
 		<xsl:choose>
 			<xsl:when test="$importance = 'minor'">
-				<xsl:value-of select="$minorHeight" />
+				<xsl:value-of select="$minorValue" />
 			</xsl:when>
 			<xsl:when test="$importance = 'semimajor'">
-				<xsl:value-of select="$semimajorHeight" />
+				<xsl:value-of select="$semimajorValue" />
 			</xsl:when>
 			<xsl:when test="$importance = 'major'">
-				<xsl:value-of select="$majorHeight" />
+				<xsl:value-of select="$majorValue" />
 			</xsl:when>
 			<xsl:when test="$importance = 'transformational'">
-				<xsl:value-of select="$transformationalHeight" />
+				<xsl:value-of select="$transformationalValue" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="$minorHeight" />
+				<xsl:value-of select="$minorValue" />
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
-	<xsl:template name="getTextYOffsetFromImportance">
-		<xsl:param name="importance" />
-		<xsl:choose>
-			<xsl:when test="$importance = 'minor'">
-				<xsl:value-of select="5" />
-			</xsl:when>
-			<xsl:when test="$importance = 'semimajor'">
-				<xsl:value-of select="8" />
-			</xsl:when>
-			<xsl:when test="$importance = 'major'">
-				<xsl:value-of select="10" />
-			</xsl:when>
-			<xsl:when test="$importance = 'transformational'">
-				<xsl:value-of select="12" />
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select="5" />
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-
 
 	<xsl:template match="backgroundEvents">
 		<xsl:param name="pixelsPerYear" />

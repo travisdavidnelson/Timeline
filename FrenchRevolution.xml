@@ -8,19 +8,26 @@
     <pixelsPerYear>24</pixelsPerYear>
     <xBorder>50</xBorder>
     <yBorder>30</yBorder>
+    <ySpacing>10</ySpacing>
+    <textXOffset>10</textXOffset>
 
     <gridlineMod>10</gridlineMod>
     <majorTickMod>5</majorTickMod>
     <minorTickMod>1</minorTickMod>
     
-    <minorHeight>10</minorHeight>
-    <semimajorHeight>15</semimajorHeight>
-    <majorHeight>20</majorHeight>
-    <transformationalHeight>30</transformationalHeight>
+    <minorHeight>15</minorHeight>
+    <semimajorHeight>20</semimajorHeight>
+    <majorHeight>30</majorHeight>
+    <transformationalHeight>40</transformationalHeight>
+
+    <minorTextYOffset>10</minorTextYOffset>
+    <semimajorTextYOffset>15</semimajorTextYOffset>
+    <majorTextYOffset>20</majorTextYOffset>
+    <transformationalTextYOffset>22</transformationalTextYOffset>
     
     <range>
         <startYear>1700</startYear>
-        <endYear>1900</endYear>
+        <endYear>1850</endYear>
     </range>
     
     <backgroundEvents>
@@ -86,6 +93,54 @@
 		            <reign>
 		                <startYear>1774</startYear>
 		                <endYear>1791</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Marie Antoinette</name>
+                <lifespan>
+                    <startYear>1755</startYear>
+                    <endYear>1793</endYear>
+                </lifespan>
+                <importance>semimajor</importance>
+                <titles>
+                	<name>queen</name>
+		            <reign>
+		                <startYear>1774</startYear>
+		                <endYear>1791</endYear>
+		            </reign>
+                </titles>
+            </people>
+        </dynasties>
+        <dynasties>
+            <name>Jacobins</name>
+            <people>
+                <name>Georges Danton</name>
+                <lifespan>
+                    <startYear>1759</startYear>
+                    <endYear>1794</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+                	<name>director</name>
+		            <reign>
+		                <startYear>1793</startYear>
+		                <endYear>1794</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Maximilien Robespierre</name>
+                <lifespan>
+                    <startYear>1758</startYear>
+                    <endYear>1794</endYear>
+                </lifespan>
+                <importance>major</importance>
+                <titles>
+                	<name>director</name>
+		            <reign>
+		                <startYear>1793</startYear>
+		                <endYear>1794</endYear>
 		            </reign>
                 </titles>
             </people>

@@ -22,12 +22,12 @@
 .barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
 .fate {fill-opacity:0.0}
 
-.dynasty {font-family: serif; font-size: 14px; kerning: 1; stroke:none; fill:#000000;}
+.dynasty {font-family: serif; font-size: 30px; kerning: 1; stroke:none; fill:#000000;}
 
-.transformational {font-family: serif; font-size: 12px; kerning: 2; stroke:none; fill:#000000;}
-.major {font-family: serif; font-size: 10px; kerning: 1; stroke:none; fill:#000000;}
-.semimajor {font-family: serif; font-size: 7px; kerning: 1; stroke:none; fill:#000000;}
-.minor {font-family: serif; font-size: 5px; kerning: 1; stroke:none; fill:#000000;}
+.transformational {font-family: serif; font-size: 25px; kerning: 2; stroke:none; fill:#000000;}
+.major {font-family: serif; font-size: 20px; kerning: 1; stroke:none; fill:#000000;}
+.semimajor {font-family: serif; font-size: 15px; kerning: 1; stroke:none; fill:#000000;}
+.minor {font-family: serif; font-size: 10px; kerning: 1; stroke:none; fill:#000000;}
 
 .aedile 			{fill:blue;		fill-opacity:0.5}
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}
@@ -37,6 +37,7 @@
 .consul 			{fill:blue;		fill-opacity:0.6}
 .decemvir 			{fill:blue;		fill-opacity:0.8}
 .dictator 			{fill:blue;		fill-opacity:1.0}
+.director 			{fill:blue;		fill-opacity:1.0}
 .exile 				{fill:black;	fill-opacity:0.5}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .governor 			{fill:blue;		fill-opacity:0.5}
@@ -47,6 +48,7 @@
 .praetorianPrefect 	{fill:#C00000;	fill-opacity:1.0}
 .princeps 			{fill:blue;		fill-opacity:1.0}
 .quaestor 			{fill:blue;		fill-opacity:0.4}
+.queen 				{fill:purple;	fill-opacity:1.0}
 .regent 			{fill:blue;		fill-opacity:0.8}
 .tribune 			{fill:blue;		fill-opacity:0.5}
 .triumvir 			{fill:#551A8B;	fill-opacity:1.0}
