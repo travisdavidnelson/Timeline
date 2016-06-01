@@ -65,7 +65,7 @@
     <politicalDynastyGroups>
     	<name>Monarchists</name>
         <dynasties>
-            <name>Bourbon Dynasty</name>
+            <name>Ancien Regime</name>
             <people>
                 <name>Louis XV</name>
                 <lifespan>
@@ -78,6 +78,42 @@
 		            <reign>
 		                <startYear>1715</startYear>
 		                <endYear>1774</endYear>
+		            </reign>
+                </titles>
+            </people>
+            <people>
+                <name>Jacques Necker</name>
+                <lifespan>
+                    <startYear>1732</startYear>
+                    <endYear>1804</endYear>
+                </lifespan>
+                <importance>minor</importance>
+                <titles>
+                	<name>financeMinister</name>
+		            <reign>
+		                <startYear>1777</startYear>
+		                <endYear>1781</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>financeMinister</name>
+		            <reign>
+		                <startYear>1788</startYear>
+		                <endYear>1789</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>chiefMinister</name>
+		            <reign>
+		                <startYear>1788</startYear>
+		                <endYear>1789</endYear>
+		            </reign>
+                </titles>
+                <titles>
+                	<name>chiefMinister</name>
+		            <reign>
+		                <startYear>1789</startYear>
+		                <endYear>1790</endYear>
 		            </reign>
                 </titles>
             </people>
@@ -141,6 +177,24 @@
 		            <reign>
 		                <startYear>1793</startYear>
 		                <endYear>1794</endYear>
+		            </reign>
+                </titles>
+            </people>
+        </dynasties>
+        <dynasties>
+            <name>Directory</name>
+            <people>
+                <name>Napoleon Bonaparte</name>
+                <lifespan>
+                    <startYear>1769</startYear>
+                    <endYear>1821</endYear>
+                </lifespan>
+                <importance>transformational</importance>
+                <titles>
+                	<name>emperor</name>
+		            <reign>
+		                <startYear>1804</startYear>
+		                <endYear>1814</endYear>
 		            </reign>
                 </titles>
             </people>

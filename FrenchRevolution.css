@@ -54,6 +54,10 @@
 .triumvir 			{fill:#551A8B;	fill-opacity:1.0}
 .usurper 			{fill:black;	fill-opacity:0.5}
 
+.emperor 			{fill:blue;		fill-opacity:1.0}
+.chiefMinister 	    {fill:green;	fill-opacity:0.7}
+.financeMinister 	{fill:green;	fill-opacity:0.5}
+
 
 .sabines 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
 .samnites 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
