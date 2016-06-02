@@ -1,5 +1,8 @@
 TODO
 
+- Bugs
+	- French Revolution horizontal canvas size wrong
+
 - More precise dates!
 	- first: expand scale to >= 12 pixels/year so more precise dates can be represented
 	- xml data format
@@ -33,6 +36,7 @@ TODO
 - XML element rename
 	- people -> person
 	- titles -> title
+- XML schema definition
 
 - Other civs, how to handle that?
 	- First get other timelines working, then figure out how to combine them
