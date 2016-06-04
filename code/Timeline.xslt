@@ -1064,10 +1064,10 @@
 		<xsl:param name="xBorder" />
 		<xsl:choose>
 			<xsl:when test="$year > 0">
-				<xsl:value-of select="(($pixelsPerYear)*($year)-($pixelsPerYear)-(($pixelsPerYear)*($timelineStartYear))) + fn:number($xBorder)" />
+				<xsl:value-of select="$pixelsPerYear * ($year - 1 - $timelineStartYear) + $xBorder" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="(($pixelsPerYear)*($year)-(($pixelsPerYear)*($timelineStartYear))) + $xBorder" />
+				<xsl:value-of select="$pixelsPerYear * ($year - $timelineStartYear) + $xBorder" />
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
