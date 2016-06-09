@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline>
+    <name>Year Zero</name>
+    
+    <stylesheet>FrenchRevolution.css</stylesheet>
+    <defaultPersonBackgroundStyle>french</defaultPersonBackgroundStyle>
+
+    <pixelsPerYear>100</pixelsPerYear>
+    <xBorder>10</xBorder>
+    <yBorder>10</yBorder>
+    <ySpacing>10</ySpacing>
+    <textXOffset>10</textXOffset>
+
+    <gridlineMod>5</gridlineMod>
+    <majorTickMod>1</majorTickMod>
+    <minorTickMod>0.5</minorTickMod>
+    
+    <minorHeight>15</minorHeight>
+    <semimajorHeight>20</semimajorHeight>
+    <majorHeight>30</majorHeight>
+    <transformationalHeight>40</transformationalHeight>
+
+    <minorTextYOffset>10</minorTextYOffset>
+    <semimajorTextYOffset>15</semimajorTextYOffset>
+    <majorTextYOffset>20</majorTextYOffset>
+    <transformationalTextYOffset>22</transformationalTextYOffset>
+    
+    <range>
+        <startYear>-10</startYear>
+        <endYear>10</endYear>
+    </range>
+    
+    <backgroundEvents>
+    	<name>French Monarchy</name>
+	    <dateRange>
+    	    <startYear>-10-01-01</startYear>
+        	<endYear>10-12-31</endYear>
+    	</dateRange>
+    	<style>frenchMonarchy</style>
+    </backgroundEvents>
+    <politicalDynastyGroups>
+    	<name>Monarchists</name>
+        <dynasties>
+            <name>Ancien Regime</name>
+            <people>
+                <name>Pre</name>
+                <lifespan>
+                    <startYear>-9-01-01</startYear>
+                    <endYear>-1-01-01</endYear>
+                </lifespan>
+                <importance>major</importance>
+            </people>
+            <people>
+                <name>Span</name>
+                <lifespan>
+                    <startYear>-5-01-01</startYear>
+                    <endYear>5-12-31</endYear>
+                </lifespan>
+                <importance>major</importance>
+            </people>
+            <people>
+                <name>Post</name>
+                <lifespan>
+                    <startYear>2-01-01</startYear>
+                    <endYear>9-12-31</endYear>
+                </lifespan>
+                <importance>major</importance>
+            </people>
+        </dynasties>
+    </politicalDynastyGroups>
+</timeline>
