@@ -33,32 +33,32 @@
     <backgroundEvents>
     	<name>French Monarchy</name>
 	    <dateRange>
-    	    <startYear>1700</startYear>
-        	<endYear>1789</endYear>
+    	    <startYear>1700-06-30</startYear>
+        	<endYear>1789-06-30</endYear>
     	</dateRange>
     	<style>frenchMonarchy</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>French Republic</name>
 	    <dateRange>
-    	    <startYear>1789</startYear>
-        	<endYear>1795</endYear>
+    	    <startYear>1789-06-30</startYear>
+        	<endYear>1795-06-30</endYear>
     	</dateRange>
     	<style>frenchRepublic</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>French Directorate</name>
 	    <dateRange>
-    	    <startYear>1795</startYear>
-        	<endYear>1798</endYear>
+    	    <startYear>1795-06-30</startYear>
+        	<endYear>1798-06-30</endYear>
     	</dateRange>
     	<style>frenchDirectorate</style>
     </backgroundEvents>
     <backgroundEvents>
     	<name>French Napoleonic Empire</name>
 	    <dateRange>
-    	    <startYear>1798</startYear>
-        	<endYear>1813</endYear>
+    	    <startYear>1798-06-30</startYear>
+        	<endYear>1813-06-30</endYear>
     	</dateRange>
     	<style>frenchNapoleonicEmpire</style>
     </backgroundEvents>
@@ -69,81 +69,81 @@
             <people>
                 <name>Louis XV</name>
                 <lifespan>
-                    <startYear>1710</startYear>
-                    <endYear>1774</endYear>
+                    <startYear>1710-06-30</startYear>
+                    <endYear>1774-06-30</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
-		                <startYear>1715</startYear>
-		                <endYear>1774</endYear>
+		                <startYear>1715-06-30</startYear>
+		                <endYear>1774-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
             <people>
                 <name>Jacques Necker</name>
                 <lifespan>
-                    <startYear>1732</startYear>
-                    <endYear>1804</endYear>
+                    <startYear>1732-06-30</startYear>
+                    <endYear>1804-06-30</endYear>
                 </lifespan>
                 <importance>minor</importance>
                 <titles>
                 	<name>financeMinister</name>
 		            <reign>
-		                <startYear>1777</startYear>
-		                <endYear>1781</endYear>
+		                <startYear>1777-06-30</startYear>
+		                <endYear>1781-06-30</endYear>
 		            </reign>
                 </titles>
                 <titles>
                 	<name>financeMinister</name>
 		            <reign>
-		                <startYear>1788</startYear>
-		                <endYear>1789</endYear>
+		                <startYear>1788-06-30</startYear>
+		                <endYear>1789-06-30</endYear>
 		            </reign>
                 </titles>
                 <titles>
                 	<name>chiefMinister</name>
 		            <reign>
-		                <startYear>1788</startYear>
-		                <endYear>1789</endYear>
+		                <startYear>1788-06-30</startYear>
+		                <endYear>1789-06-30</endYear>
 		            </reign>
                 </titles>
                 <titles>
                 	<name>chiefMinister</name>
 		            <reign>
-		                <startYear>1789</startYear>
-		                <endYear>1790</endYear>
+		                <startYear>1789-06-30</startYear>
+		                <endYear>1790-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
             <people>
                 <name>Louis XVI</name>
                 <lifespan>
-                    <startYear>1754</startYear>
-                    <endYear>1793</endYear>
+                    <startYear>1754-06-30</startYear>
+                    <endYear>1793-06-30</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>king</name>
 		            <reign>
-		                <startYear>1774</startYear>
-		                <endYear>1791</endYear>
+		                <startYear>1774-06-30</startYear>
+		                <endYear>1791-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
             <people>
                 <name>Marie Antoinette</name>
                 <lifespan>
-                    <startYear>1755</startYear>
-                    <endYear>1793</endYear>
+                    <startYear>1755-06-30</startYear>
+                    <endYear>1793-06-30</endYear>
                 </lifespan>
                 <importance>semimajor</importance>
                 <titles>
                 	<name>queen</name>
 		            <reign>
-		                <startYear>1774</startYear>
-		                <endYear>1791</endYear>
+		                <startYear>1774-06-30</startYear>
+		                <endYear>1791-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
@@ -153,30 +153,30 @@
             <people>
                 <name>Georges Danton</name>
                 <lifespan>
-                    <startYear>1759</startYear>
-                    <endYear>1794</endYear>
+                    <startYear>1759-06-30</startYear>
+                    <endYear>1794-06-30</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>director</name>
 		            <reign>
-		                <startYear>1793</startYear>
-		                <endYear>1794</endYear>
+		                <startYear>1793-06-30</startYear>
+		                <endYear>1794-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
             <people>
                 <name>Maximilien Robespierre</name>
                 <lifespan>
-                    <startYear>1758</startYear>
-                    <endYear>1794</endYear>
+                    <startYear>1758-06-30</startYear>
+                    <endYear>1794-06-30</endYear>
                 </lifespan>
                 <importance>major</importance>
                 <titles>
                 	<name>director</name>
 		            <reign>
-		                <startYear>1793</startYear>
-		                <endYear>1794</endYear>
+		                <startYear>1793-06-30</startYear>
+		                <endYear>1794-06-30</endYear>
 		            </reign>
                 </titles>
             </people>
@@ -186,15 +186,15 @@
             <people>
                 <name>Napoleon Bonaparte</name>
                 <lifespan>
-                    <startYear>1769</startYear>
-                    <endYear>1821</endYear>
+                    <startYear>1769-06-30</startYear>
+                    <endYear>1821-06-30</endYear>
                 </lifespan>
                 <importance>transformational</importance>
                 <titles>
                 	<name>emperor</name>
 		            <reign>
-		                <startYear>1804</startYear>
-		                <endYear>1814</endYear>
+		                <startYear>1804-06-30</startYear>
+		                <endYear>1814-06-30</endYear>
 		            </reign>
                 </titles>
             </people>

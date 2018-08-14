@@ -6,8 +6,8 @@
     <defaultPersonBackgroundStyle>french</defaultPersonBackgroundStyle>
 
     <pixelsPerYear>100</pixelsPerYear>
-    <xBorder>10</xBorder>
-    <yBorder>10</yBorder>
+    <xBorder>50</xBorder>
+    <yBorder>50</yBorder>
     <ySpacing>10</ySpacing>
     <textXOffset>10</textXOffset>
 
@@ -26,15 +26,15 @@
     <transformationalTextYOffset>22</transformationalTextYOffset>
     
     <range>
-        <startYear>-10</startYear>
-        <endYear>10</endYear>
+        <startYear>0010-01-01 BC</startYear>
+        <endYear>0010-12-31</endYear>
     </range>
     
     <backgroundEvents>
     	<name>French Monarchy</name>
 	    <dateRange>
-    	    <startYear>-10-01-01</startYear>
-        	<endYear>10-12-31</endYear>
+    	    <startYear>0010-01-01 BC</startYear>
+        	<endYear>0010-12-31</endYear>
     	</dateRange>
     	<style>frenchMonarchy</style>
     </backgroundEvents>
@@ -45,24 +45,24 @@
             <people>
                 <name>Pre</name>
                 <lifespan>
-                    <startYear>-9-01-01</startYear>
-                    <endYear>-1-01-01</endYear>
+                    <startYear>0009-01-01 BC</startYear>
+                    <endYear>0001-01-01 BC</endYear>
                 </lifespan>
                 <importance>major</importance>
             </people>
             <people>
                 <name>Span</name>
                 <lifespan>
-                    <startYear>-5-01-01</startYear>
-                    <endYear>5-12-31</endYear>
+                    <startYear>0005-01-01 BC</startYear>
+                    <endYear>0005-12-31</endYear>
                 </lifespan>
                 <importance>major</importance>
             </people>
             <people>
                 <name>Post</name>
                 <lifespan>
-                    <startYear>2-01-01</startYear>
-                    <endYear>9-12-31</endYear>
+                    <startYear>0002-01-01</startYear>
+                    <endYear>0009-12-31</endYear>
                 </lifespan>
                 <importance>major</importance>
             </people>
