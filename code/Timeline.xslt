@@ -80,7 +80,7 @@
 	    </xsl:variable>
 		<xsl:variable name="widthInPixels">
 			<xsl:call-template name="numberOfPixels">
-				<xsl:with-param name="years" select="$endYear - $startYear + $xBorder" />
+				<xsl:with-param name="years" select="xs:dateTime(xs:date($endYear)) - xs:dateTime(xs:date($startYear))" />
 				<xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
 			</xsl:call-template>
 		</xsl:variable>
@@ -813,17 +813,13 @@
 		</xsl:variable>
 	
 		<xsl:variable name="startX">
-			<xsl:call-template name="yearToX">
-				<xsl:with-param name="year" select="$startYear - $startYearApproxAdj" />
-				<xsl:with-param name="timelineStartYear" select="$timelineStartYear" />
-				<xsl:with-param name="timelineEndYear" select="$timelineEndYear" />
-				<xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
-				<xsl:with-param name="xBorder" select="$xBorder" />
-			</xsl:call-template>
+			<xsl:value-of select="xs:dateTime(xs:date($startYear)) - xs:dateTime(xs:date($timelineStartYear))" />
 		</xsl:variable>
+		<startX>$startX</startX>
+		
 		<xsl:variable name="width">
 			<xsl:call-template name="numberOfPixels">
-				<xsl:with-param name="years" select="($endYear + $endYearApproxAdj - ($startYear - $startYearApproxAdj))" />
+				<xsl:with-param name="years" select="xs:dateTime(xs:date($endYear)) - xs:dateTime(xs:date($startYear))" />
 				<xsl:with-param name="pixelsPerYear" select="$pixelsPerYear" />
 			</xsl:call-template>
 		</xsl:variable>
@@ -968,7 +964,7 @@
 		<xsl:param name="majorTickMod" />
 		<xsl:param name="minorTickMod" />
 
-		<xsl:if test="($year mod $gridlineMod) = 0 or $year = 1">
+		<xsl:if test="($year mod $gridlineMod) = 0 or $year = 1 or $year = -1">
 			<xsl:variable name="xValue">
 				<xsl:call-template name="yearToX">
 					<xsl:with-param name="year" select="$year" />
@@ -1056,6 +1052,22 @@
 
 	</xsl:template>
 
+	<xsl:template name="dateToX">
+		<xsl:param name="date" />
+		<xsl:param name="timelineStartYear" />
+		<xsl:param name="timelineEndYear" />
+		<xsl:param name="pixelsPerYear" />
+		<xsl:param name="xBorder" />
+
+		<xsl:variable name="xValue">
+			<xsl:value-of select="xs:dateTime($date) - xs:dateTime(xs:date($timelineStartYear))" />
+		</xsl:variable>
+
+	<date>$date</date>
+	<xValue>$xValue</xValue>
+
+	</xsl:template>
+
 	<xsl:template name="yearToX">
 		<xsl:param name="year" />
 		<xsl:param name="timelineStartYear" />
@@ -1075,10 +1087,9 @@
 	<xsl:template name="numberOfPixels">
 		<xsl:param name="years" />
 		<xsl:param name="pixelsPerYear" />
-		<xsl:choose>
-			<xsl:when test="$years > 0"><xsl:value-of select="$pixelsPerYear * $years" /></xsl:when>
-			<xsl:otherwise><xsl:value-of select="$pixelsPerYear" /></xsl:otherwise>
-		</xsl:choose>
+
+		<xsl:value-of select="$pixelsPerYear * $years" />
+
 	</xsl:template>
 
 	<xsl:template name="yearHeader">
