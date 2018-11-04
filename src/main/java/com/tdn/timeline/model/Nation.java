@@ -1,13 +1,10 @@
-package model;
+package com.tdn.timeline.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
+import com.tdn.timeline.Timeline;
 
-@XmlRootElement(name = "Nation")
-@XmlType(propOrder = { "timespan", "people", "conflicts" })
 public class Nation extends NamedEvent {
 	
 	List<Person> people = new ArrayList<Person>();

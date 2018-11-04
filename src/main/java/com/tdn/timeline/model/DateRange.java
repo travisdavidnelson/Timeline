@@ -1,10 +1,5 @@
-package model;
+package com.tdn.timeline.model;
 
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
-
-@XmlRootElement(name = "DateRange")
-@XmlType(propOrder = { "startYearApproximate", "startYear", "endYearApproximate", "endYear" })
 public class DateRange {
 	
 	public static final String FADE_IN_MASK = "fadeInMask";

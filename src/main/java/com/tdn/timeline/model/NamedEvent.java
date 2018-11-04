@@ -1,8 +1,5 @@
-package model;
+package com.tdn.timeline.model;
 
-import javax.xml.bind.annotation.XmlType;
-
-@XmlType(propOrder = { "name", "dateRange", "annotation", "style" })
 public class NamedEvent {
 
 	protected String name;

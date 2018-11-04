@@ -1,4 +1,4 @@
-package model;
+package com.tdn.timeline;
 
 import java.io.File;
 import java.io.FileReader;
@@ -10,20 +10,15 @@ import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
-import javax.xml.stream.events.StartDocument;
+import com.tdn.timeline.model.DateRange;
+import com.tdn.timeline.model.Dynasty;
+import com.tdn.timeline.model.DynastyGroup;
+import com.tdn.timeline.model.NamedEvent;
+import com.tdn.timeline.model.Nation;
+import com.tdn.timeline.model.Person;
+import com.tdn.timeline.model.Title;
+import com.tdn.util.FileUtilities;
 
-import util.FileUtilities;
-
-@XmlRootElement(namespace = "model", name = "Timeline")
-@XmlType(propOrder = { "range", "addCenturyTickLines", "addDecadeTickLines", "backgroundEvents", "politicalDynastyGroups", "culturalDynastyGroups", "foreignNations" })
 public class Timeline extends NamedEvent {
 	
 	public static int xStart = 100;
@@ -533,74 +528,34 @@ public class Timeline extends NamedEvent {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-//		int startYear = -500;
-//		int endYear = 500;
-//		Timeline timeline = new Timeline("Ancient Rome", new DateRange(startYear, endYear));
-//		DynastyGroup group1 = new DynastyGroup();
-//		group1.setName("groupName1");
-//		group1.setyStart(100);
-//		Dynasty dynasty1 = new Dynasty();
-//		dynasty1.setName("dynastyName1");
-//		dynasty1.setyStart(150);
-//		Person person1 = new Person();
-//		person1.setName("Person Name");
-//		person1.setLifespan(new DateRange(100, 200));
-//		Title title1 = new Title();
-//		title1.setName("title1 name");
-//		title1.setReign(new DateRange(1, 2));
-//		person1.addTitles(title1);
-//		dynasty1.addPerson(person1);
-//		group1.addDynasty(dynasty1);
-//		Dynasty dynasty2 = new Dynasty();
-//		dynasty2.setName("dynastyName2");
-//		dynasty2.setyStart(150);
-//		group1.addDynasty(dynasty2);
-//		timeline.addDynastyGroup(group1);
-//		DynastyGroup group2 = new DynastyGroup();
-//		group2.setName("groupName2");
-//		group2.setyStart(100);
-//		timeline.addDynastyGroup(group2);
-//		
-//		System.out.println(timeline);
 		
 	    // create JAXB context and instantiate marshaller
-	    JAXBContext context;
-		try {
-			context = JAXBContext.newInstance(Timeline.class);
-//		    Marshaller m = context.createMarshaller();
-//		    m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
-//	
-//		    // Write to System.out
-//		    m.marshal(timeline, System.out);
-//	
-//		    // Write to File
-//		    m.marshal(timeline, new File("./RomanHistoryGen.xml"));
-//	
-//		    // get variables from our xml file, created before
-//		    System.out.println();
-		    System.out.println("Output from our XML File: ");
-		    Unmarshaller um = context.createUnmarshaller();
-		    Timeline timeline2 = (Timeline) um.unmarshal(new FileReader(XML_SOURCE));
-
-			File htmlFile = new File(HTML_TARGET);
-			FileWriter fileWriter = new FileWriter(htmlFile);
-			fileWriter.append(timeline2.toHTML());
-			fileWriter.flush();
-			fileWriter.close();
-
-			File svgFile = new File(SVG_TARGET);
-			fileWriter = new FileWriter(svgFile);
-			fileWriter.append(timeline2.toSVG());
-			fileWriter.flush();
-			fileWriter.close();
-		} 
-		catch (IOException e) {
-			e.printStackTrace();
-		} 
-		catch (JAXBException e) {
-			e.printStackTrace();
-		}
-		
+//	    JAXBContext context;
+//		try {
+//			context = JAXBContext.newInstance(Timeline.class);
+//		    System.out.println("Output from our XML File: ");
+//		    Unmarshaller um = context.createUnmarshaller();
+//		    Timeline timeline2 = (Timeline) um.unmarshal(new FileReader(XML_SOURCE));
+//
+//			File htmlFile = new File(HTML_TARGET);
+//			FileWriter fileWriter = new FileWriter(htmlFile);
+//			fileWriter.append(timeline2.toHTML());
+//			fileWriter.flush();
+//			fileWriter.close();
+//
+//			File svgFile = new File(SVG_TARGET);
+//			fileWriter = new FileWriter(svgFile);
+//			fileWriter.append(timeline2.toSVG());
+//			fileWriter.flush();
+//			fileWriter.close();
+//		} 
+//		catch (IOException e) {
+//			e.printStackTrace();
+//		} 
+//		catch (JAXBException e) {
+//			e.printStackTrace();
+//		}
+//		
 	}
 
 	private String getGradientDefs() {

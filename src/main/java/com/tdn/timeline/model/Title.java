@@ -1,10 +1,5 @@
-package model;
+package com.tdn.timeline.model;
 
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
-
-@XmlRootElement(name = "Title")
-@XmlType(propOrder = { "reign" })
 public class Title extends NamedEvent {
 	
 	@Override

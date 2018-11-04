@@ -1,13 +1,10 @@
-package model;
+package com.tdn.timeline.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
+import com.tdn.timeline.Timeline;
 
-@XmlRootElement(name = "DynastyGroup")
-@XmlType(propOrder = { "name", "yStart", "dynasties" })
 public class DynastyGroup {
 	
 	int yStart = Timeline.dynastyStart;
