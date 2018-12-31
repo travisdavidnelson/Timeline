@@ -6,6 +6,7 @@
   },
   "addCenturyTickLines": true,
   "addDecadeTickLines": true,
+  "defaultPersonStyle": "roman",
   "backgroundEvents": [
     {
       "name": "Roman Kingdom",
@@ -2253,7 +2254,7 @@
             "importance": "transformational",
             "annotation": "Veni, Vidi, Vici!",
             "fate": "Sic Semper Tyrannis, Ides of March 44 BC. Afterwards deified.",
-            "backgroundStyle": "deified",
+            "style": "deified",
             "titles": [
               {
                 "name": "consul",
@@ -2393,7 +2394,7 @@
               "importance": "transformational",
               "annotation": "Caesar's nephew and heir, the first Emperor of Rome.",
               "fate": "Died 19 August AD 14, aged 75, perhaps poisoned by Livia. Afterwards Deified.",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [
                 {
                   "name": "triumvir",
@@ -2518,7 +2519,7 @@
                 "endYear": 29
               },
               "importance": "semimajor",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augusta",
                 "timespan": {
@@ -2662,7 +2663,7 @@
               "importance": "major",
               "annotation": "Uncle of Caligula, found hiding behind the curtains and declared emperor. Incorporated Britain.",
               "fate": "Murdered by wife and niece Agrippina to ensure the succession of her son Nero.",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2813,7 +2814,7 @@
                 "endYear": 79
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2844,7 +2845,7 @@
                 "endYear": 81
               },
               "importance": "semimajor",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2881,7 +2882,7 @@
                 "endYear": 98
               },
               "importance": "semimajor",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2897,7 +2898,7 @@
                 "endYear": 117
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2928,7 +2929,7 @@
                 "endYear": 138
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2944,7 +2945,7 @@
                 "endYear": 161
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -2960,7 +2961,7 @@
                 "endYear": 180
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3005,7 +3006,7 @@
                 "endYear": 193
               },
               "importance": "minor",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3048,7 +3049,7 @@
                 "endYear": 211
               },
               "importance": "major",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3064,7 +3065,7 @@
                 "endYear": 217
               },
               "importance": "minor",
-              "backgroundStyle": "deified"
+              "style": "deified"
             },
             {
               "name": "Caracalla",
@@ -3137,7 +3138,7 @@
                 "endYear": 226
               },
               "importance": "semimajor",
-              "backgroundStyle": "deified"
+              "style": "deified"
             },
             {
               "name": "Elagabalus",
@@ -3162,7 +3163,7 @@
                 "endYear": 235
               },
               "importance": "semimajor",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3491,7 +3492,7 @@
               "importance": "major",
               "annotation": "Restituto Orbis, the Restorer of the World.",
               "fate": "Mistakenly murdered by court officials, AD 275.",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3612,7 +3613,7 @@
               "importance": "transformational",
               "annotation": "Created the Tetrarchy.",
               "fate": "Abdicated AD 305, forcing Maximian to do the same, and turned to the growing of cabbages.",
-              "backgroundStyle": "deified",
+              "style": "deified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -3780,7 +3781,7 @@
                 "endYear": 330
               },
               "importance": "semimajor",
-              "backgroundStyle": "sanctified"
+              "style": "sanctified"
             },
             {
               "name": "Constantine I",
@@ -3790,7 +3791,7 @@
                 "endYear": 337
               },
               "importance": "transformational",
-              "backgroundStyle": "sanctified",
+              "style": "sanctified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -4560,7 +4561,7 @@
                 "endYear": 457
               },
               "importance": "semimajor",
-              "backgroundStyle": "sanctified",
+              "style": "sanctified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -4576,7 +4577,7 @@
                 "endYear": 474
               },
               "importance": "semimajor",
-              "backgroundStyle": "sanctified",
+              "style": "sanctified",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
@@ -4685,7 +4686,7 @@
                 "endYear": 565
               },
               "importance": "transformational",
-              "backgroundStyle": "sanctified",
+              "style": "sanctified",
               "titles": [
                 {
                   "name": "consul",
@@ -6179,7 +6180,7 @@
             "endYear": 33
           },
           "importance": "transformational",
-          "backgroundStyle": "sanctified"
+          "style": "sanctified"
         },
         {
           "name": "Plutarch",
@@ -6248,7 +6249,7 @@
             "endYear": 420
           },
           "importance": "semimajor",
-          "backgroundStyle": "sanctified"
+          "style": "sanctified"
         },
         {
           "name": "Augustine of Hippo",
@@ -6257,7 +6258,7 @@
             "endYear": 430
           },
           "importance": "major",
-          "backgroundStyle": "sanctified"
+          "style": "sanctified"
         },
         {
           "name": "Procopius",
