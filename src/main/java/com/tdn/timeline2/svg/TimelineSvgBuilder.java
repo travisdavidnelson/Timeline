@@ -26,7 +26,6 @@ public class TimelineSvgBuilder {
 	private int dynastyStart;
 	private int dynastyDiff;
 	private int lifetimeYDiff;
-	private int fontSize;
 	private int fateWidth;
 	private int approximateYearPersonAdjustment;
 	private int approximateYearTitleAdjustment;
@@ -57,7 +56,6 @@ public class TimelineSvgBuilder {
 		dynastyStart = timeline.getConfig().getDynastyStart();
 		dynastyDiff = timeline.getConfig().getDynastyDiff();
 		lifetimeYDiff = timeline.getConfig().getLifetimeYDiff();
-		fontSize = timeline.getConfig().getFontSize();
 		fateWidth = timeline.getConfig().getFateWidth();
 		approximateYearPersonAdjustment = timeline.getConfig().getApproximateYearPersonAdjustment();
 		approximateYearTitleAdjustment = timeline.getConfig().getApproximateYearTitleAdjustment();
