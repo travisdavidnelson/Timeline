@@ -13,25 +13,23 @@ import com.tdn.timeline2.Timeline;
 
 public class TimelineSvgBuilder {
 
-	public static int xStart = 100;
-	public static int yTimelineStart = 20;
-	public static int majorTickHalfLength = 7;
-	public static int minorTickHalfLength = 5;
-	public static int dynastyStart = 25;
-	public static int dynastyDiff = 25;
-	public static int lifetimeYDiff = 5;
-	public static int fontSize = 10;
-	public static int fateWidth = 5;
-	public static int approximateYearPersonAdjustment = 2;
-	public static int approximateYearTitleAdjustment = 2;
-
-	
 	private Timeline timeline;
 	private String svg;
 
 	private double slope = 0.0;
 	private int width;
 	private int yMax;
+	private int xStart;
+	private int yTimelineStart;
+	private int majorTickHalfLength;
+	private int minorTickHalfLength;
+	private int dynastyStart;
+	private int dynastyDiff;
+	private int lifetimeYDiff;
+	private int fontSize;
+	private int fateWidth;
+	private int approximateYearPersonAdjustment;
+	private int approximateYearTitleAdjustment;
 	
 	private int minDisplayYear;
 	private int maxDisplayYear;
@@ -47,10 +45,22 @@ public class TimelineSvgBuilder {
 		this.timeline = timeline;
 		this.minDisplayYear = timeline.getTimespan().getStartYear();
 		this.maxDisplayYear = timeline.getTimespan().getEndYear();
+
+		xStart = timeline.getConfig().getxStart();
 		this.width = xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
 		System.out.println("Width is " + width + " pixels");
 		this.yMax = timeline.getConfig().getHeightInPixels();
 		System.out.println("Timeline height is " + yMax + " pixels");
+		yTimelineStart = timeline.getConfig().getyTimelineStart();
+		majorTickHalfLength = timeline.getConfig().getMajorTickHalfLength();
+		minorTickHalfLength = timeline.getConfig().getMinorTickHalfLength();
+		dynastyStart = timeline.getConfig().getDynastyStart();
+		dynastyDiff = timeline.getConfig().getDynastyDiff();
+		lifetimeYDiff = timeline.getConfig().getLifetimeYDiff();
+		fontSize = timeline.getConfig().getFontSize();
+		fateWidth = timeline.getConfig().getFateWidth();
+		approximateYearPersonAdjustment = timeline.getConfig().getApproximateYearPersonAdjustment();
+		approximateYearTitleAdjustment = timeline.getConfig().getApproximateYearTitleAdjustment();
 	}
 	
 	public String toSVG() {
@@ -319,40 +329,40 @@ public class TimelineSvgBuilder {
 
 	
 	
-	public static int majorTickY1(int yStart) {
+	public int majorTickY1(int yStart) {
 		return yStart - majorTickHalfLength;
 	}
-	public static int majorTickY2(int yStart) {
+	public int majorTickY2(int yStart) {
 		return yStart + majorTickHalfLength;
 	}
-	public static int minorTickY1(int yStart) {
+	public int minorTickY1(int yStart) {
 		return yStart - minorTickHalfLength;
 	}
-	public static int minorTickY2(int yStart) {
+	public int minorTickY2(int yStart) {
 		return yStart + minorTickHalfLength;
 	}
 
-	public static String yearLine(int x, int yStart, int yEnd) {
+	public String yearLine(int x, int yStart, int yEnd) {
 		return verticalLine(x, yStart, yEnd, "timeline");
 	}
-	public static String majorTickLine(int x, int yStart, boolean isFirst, boolean isLast) {
+	public String majorTickLine(int x, int yStart, boolean isFirst, boolean isLast) {
 		int y1 = isFirst ? yStart : majorTickY1(yStart);
 		int y2 = isLast ? yStart : majorTickY2(yStart);
 		return verticalLine(x, y1, y2, "timeline");
 	}
-	public static String minorTickLine(int x, int yStart, boolean isFirst, boolean isLast) {
+	public String minorTickLine(int x, int yStart, boolean isFirst, boolean isLast) {
 		int y1 = isFirst ? yStart : minorTickY1(yStart);
 		int y2 = isLast ? yStart : minorTickY2(yStart);
 		return verticalLine(x, y1, y2, "timeline");
 	}
 	
-	public static String horizontalLine(int y, int x1, int x2, String styleClass) {
+	public String horizontalLine(int y, int x1, int x2, String styleClass) {
 		return line(x1, y, x2, y, styleClass);
 	}
-	public static String verticalLine(int x, int y1, int y2, String styleClass) {
+	public String verticalLine(int x, int y1, int y2, String styleClass) {
 		return line(x, y1, x, y2, styleClass);
 	}
-	public static String line(int x1, int y1, int x2, int y2, String styleClass) {
+	public String line(int x1, int y1, int x2, int y2, String styleClass) {
 		StringBuilder result = new StringBuilder();
 		result.append("		<line x1=\"");
 		result.append(x1);
@@ -368,7 +378,7 @@ public class TimelineSvgBuilder {
 		result.append("\" class=\""+styleClass+"\"/>\n");
 		return result.toString();
 	}
-	public static String rectangle(String id, int x, int y, int width, int height, String styleClass, String styleOverride, String maskName) {
+	public String rectangle(String id, int x, int y, int width, int height, String styleClass, String styleOverride, String maskName) {
 		StringBuilder result = new StringBuilder();
 		result.append("<rect ");
 		if (id != null) {

@@ -11,6 +11,17 @@ public class TimelineConfig extends TimelineEvent {
 	private String defaultPersonStyle = null;
 	private int pixelsPerYear = 0;
 	private int heightInPixels = 0;
+	private int xStart = 0;
+	private int yTimelineStart = 0;
+	private int majorTickHalfLength = 0;
+	private int minorTickHalfLength = 0;
+	private int dynastyStart = 0;
+	private int dynastyDiff = 0;
+	private int lifetimeYDiff = 0;
+	private int fontSize = 0;
+	private int fateWidth = 0;
+	private int approximateYearPersonAdjustment = 0;
+	private int approximateYearTitleAdjustment = 0;
 	private Map<String, Integer> importanceHeights = null;
 	private Map<String, Integer> importanceOffsets = null;
 	
@@ -52,6 +63,94 @@ public class TimelineConfig extends TimelineEvent {
 	}
 	public void setHeightInPixels(int heightInPixels) {
 		this.heightInPixels = heightInPixels;
+	}
+
+	public int getxStart() {
+		return xStart;
+	}
+
+	public void setxStart(int xStart) {
+		this.xStart = xStart;
+	}
+
+	public int getyTimelineStart() {
+		return yTimelineStart;
+	}
+
+	public void setyTimelineStart(int yTimelineStart) {
+		this.yTimelineStart = yTimelineStart;
+	}
+
+	public int getMajorTickHalfLength() {
+		return majorTickHalfLength;
+	}
+
+	public void setMajorTickHalfLength(int majorTickHalfLength) {
+		this.majorTickHalfLength = majorTickHalfLength;
+	}
+
+	public int getMinorTickHalfLength() {
+		return minorTickHalfLength;
+	}
+
+	public void setMinorTickHalfLength(int minorTickHalfLength) {
+		this.minorTickHalfLength = minorTickHalfLength;
+	}
+
+	public int getDynastyStart() {
+		return dynastyStart;
+	}
+
+	public void setDynastyStart(int dynastyStart) {
+		this.dynastyStart = dynastyStart;
+	}
+
+	public int getDynastyDiff() {
+		return dynastyDiff;
+	}
+
+	public void setDynastyDiff(int dynastyDiff) {
+		this.dynastyDiff = dynastyDiff;
+	}
+
+	public int getLifetimeYDiff() {
+		return lifetimeYDiff;
+	}
+
+	public void setLifetimeYDiff(int lifetimeYDiff) {
+		this.lifetimeYDiff = lifetimeYDiff;
+	}
+
+	public int getFontSize() {
+		return fontSize;
+	}
+
+	public void setFontSize(int fontSize) {
+		this.fontSize = fontSize;
+	}
+
+	public int getFateWidth() {
+		return fateWidth;
+	}
+
+	public void setFateWidth(int fateWidth) {
+		this.fateWidth = fateWidth;
+	}
+
+	public int getApproximateYearPersonAdjustment() {
+		return approximateYearPersonAdjustment;
+	}
+
+	public void setApproximateYearPersonAdjustment(int approximateYearPersonAdjustment) {
+		this.approximateYearPersonAdjustment = approximateYearPersonAdjustment;
+	}
+
+	public int getApproximateYearTitleAdjustment() {
+		return approximateYearTitleAdjustment;
+	}
+
+	public void setApproximateYearTitleAdjustment(int approximateYearTitleAdjustment) {
+		this.approximateYearTitleAdjustment = approximateYearTitleAdjustment;
 	}
 
 	public Map<String, Integer> getImportanceHeights() {
