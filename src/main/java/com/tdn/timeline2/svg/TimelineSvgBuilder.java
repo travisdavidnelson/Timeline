@@ -33,7 +33,7 @@ public class TimelineSvgBuilder {
 	private int minDisplayYear;
 	private int maxDisplayYear;
 
-	private int nextPersonYStart = 50;
+	private int nextPersonYStart = 0;
 	private int maxLifetimeYEnd = 0;
 	private Person lastPersonInGroup = null;
 	
