@@ -41,21 +41,5 @@ public class Person extends TimelineEvent {
 	public void addTitle(TimelineEvent title) {
 		this.titles.add(title);
 	}
-	
-	public int getHeight() {
-		if (MINOR.equals(importance)) {
-			return 6;
-		}
-		else if (SEMI_MAJOR.equals(importance)) {
-			return 10;
-		}
-		else if (MAJOR.equals(importance)) {
-			return 15;
-		}
-		else {
-			return 20;
-		}
-	}
-	
 
 }

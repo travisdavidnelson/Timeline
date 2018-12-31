@@ -4,11 +4,19 @@
     "startYear": -800,
     "endYear": 1500
   },
-  "addCenturyTickLines": true,
-  "addDecadeTickLines": true,
-  "defaultPersonStyle": "roman",
-  "pixelsPerYear": 2,
-  "heightInPixels": 1000,
+  "config": {
+    "addCenturyTickLines": true,
+    "addDecadeTickLines": true,
+    "defaultPersonStyle": "roman",
+    "pixelsPerYear": 2,
+    "heightInPixels": 1000,
+    "importanceHeights":{
+      "minor":6,
+      "semimajor":10,
+      "major":15,
+      "transformational":20
+    }
+  },
   "backgroundEvents": [
     {
       "name": "Roman Kingdom",

@@ -49,7 +49,7 @@ public class TimelineSvgBuilder {
 		this.maxDisplayYear = timeline.getTimespan().getEndYear();
 		this.width = xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
 		System.out.println("Width is " + width + " pixels");
-		this.yMax = timeline.getHeightInPixels();
+		this.yMax = timeline.getConfig().getHeightInPixels();
 		System.out.println("Timeline height is " + yMax + " pixels");
 	}
 	
@@ -125,7 +125,7 @@ public class TimelineSvgBuilder {
 			if (firstYearOfFirstPerson == 0 || firstYearOfFirstPerson > lifetime.getTimespan().getStartYear()) {
 				firstYearOfFirstPerson = lifetime.getTimespan().getStartYear();
 			}
-			String backgroundStyle = timeline.getDefaultPersonStyle();
+			String backgroundStyle = timeline.getConfig().getDefaultPersonStyle();
 			if (lifetime.getStyle() != null) {
 				backgroundStyle = lifetime.getStyle();
 			}
@@ -156,8 +156,9 @@ public class TimelineSvgBuilder {
 		}
 		int width = (int) (slope() * duration);
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
-		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, person.getHeight(), "footprint", null, person.getTimespan().getMaskName()));
-		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, person.getHeight(), styleClass, styleOverride, person.getTimespan().getMaskName()));
+		int height = timeline.getConfig().getHeight(person.getImportance());
+		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, "footprint", null, person.getTimespan().getMaskName()));
+		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, styleClass, styleOverride, person.getTimespan().getMaskName()));
 		for (TimelineEvent title : person.getTitles()) {
 			getTitleSVG(person, title, stringBuilder);
 		}
@@ -182,14 +183,14 @@ public class TimelineSvgBuilder {
 		stringBuilder.append("</a></g>\n");
 		if (person.getFate() != null) {
 			stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
-			stringBuilder.append(rectangle(id, (x + width - fateWidth), nextPersonYStart, fateWidth, person.getHeight(), "fate", null, null));
+			stringBuilder.append(rectangle(id, (x + width - fateWidth), nextPersonYStart, fateWidth, height, "fate", null, null));
 			stringBuilder.append("<title>");
 			stringBuilder.append(person.getFate());
 			stringBuilder.append("</title>");
 			stringBuilder.append("</a></g>\n");
 		}
 		System.out.println("  adding lifetime "+person);
-		nextPersonYStart += person.getHeight()+ lifetimeYDiff;
+		nextPersonYStart += height + lifetimeYDiff;
 		if (maxLifetimeYEnd < nextPersonYStart) {
 			maxLifetimeYEnd = nextPersonYStart;
 		}
@@ -210,7 +211,7 @@ public class TimelineSvgBuilder {
 			duration += approximateYearTitleAdjustment;
 		}
 		int width = (int) (slope() * duration);
-		int height = person.getHeight();
+		int height = timeline.getConfig().getHeight(person.getImportance());
 		stringBuilder.append(rectangle(null, x, y, width, height, title.getName(), null, title.getTimespan().getMaskName()));
 	}
 	private void getBackgroundSVG(TimelineEvent backgroundEvent, int nextTimelineY, StringBuilder stringBuilder) {
@@ -229,7 +230,7 @@ public class TimelineSvgBuilder {
 	public void addCenturyAndDecadeTickLinesSVG(StringBuilder stringBuilder) {
 		for (int year = minDisplayYear; year <= maxDisplayYear; year++) {
 			if (year != 0) {
-				if (timeline.isAddCenturyTickLines() && (year % 100 == 0 || year == 1)) {
+				if (timeline.getConfig().getAddCenturyTickLines() && (year % 100 == 0 || year == 1)) {
 					int minY = 1000;
 					int maxY = 0;
 					for (int i = 0; i < timelineYPositions.size(); i++) {
@@ -256,7 +257,7 @@ public class TimelineSvgBuilder {
 					addTextSVG(yearString, yearMapping(year)-textXDiff, minY - 7, "year", stringBuilder);
 					addTextSVG(yearString, yearMapping(year)-textXDiff, maxY + 20, "year", stringBuilder);
 				}
-				if (timeline.isAddDecadeTickLines() && year % 10 == 0) {
+				if (timeline.getConfig().getAddDecadeTickLines() && year % 10 == 0) {
 					for (int i = 0; i < timelineYPositions.size(); i++) {
 						Integer yPosition = timelineYPositions.get(i);
 						boolean isFirst = i == 0;
@@ -319,7 +320,7 @@ public class TimelineSvgBuilder {
 	
 	protected double slope() {
 		if (slope == 0.0) {
-			slope = timeline.getPixelsPerYear();
+			slope = timeline.getConfig().getPixelsPerYear();
 			System.out.println("Timeline has " + slope + " pixels/year");
 		}
 		return slope;
