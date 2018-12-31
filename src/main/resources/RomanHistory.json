@@ -1,0 +1,6933 @@
+{
+  "name": "Ancient Rome",
+  "timespan": {
+    "startYear": -800,
+    "endYear": 1500
+  },
+  "addCenturyTickLines": true,
+  "addDecadeTickLines": true,
+  "backgroundEvents": [
+    {
+      "name": "Roman Kingdom",
+      "timespan": {
+        "startYearApproximate": true,
+        "startYear": -753,
+        "endYear": -509
+      },
+      "style": "romanKingdom"
+    },
+    {
+      "name": "Roman Republic",
+      "timespan": {
+        "startYear": -509,
+        "endYear": -27
+      },
+      "style": "romanRepublic"
+    },
+    {
+      "name": "Roman Principate",
+      "timespan": {
+        "startYear": -27,
+        "endYearApproximate": true,
+        "endYear": 245
+      },
+      "style": "romanPrincipate"
+    },
+    {
+      "name": "Crisis of the Third Century",
+      "timespan": {
+        "startYearApproximate": true,
+        "startYear": 235,
+        "endYear": 284
+      },
+      "style": "romanCrisis"
+    },
+    {
+      "name": "Roman Dominate",
+      "timespan": {
+        "startYear": 284,
+        "endYear": 476
+      },
+      "style": "romanDominate"
+    },
+    {
+      "name": "Byzantium",
+      "timespan": {
+        "startYear": 476,
+        "endYear": 1453
+      },
+      "style": "byzantium"
+    },
+    {
+      "name": "First Samnite War",
+      "timespan": {
+        "startYear": -343,
+        "endYear": -341
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Overthrow of the Roman monarchy",
+      "timespan": {
+        "startYear": -510,
+        "endYear": -509
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "startYear": -509,
+        "endYear": -508
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Sabine War",
+      "timespan": {
+        "startYear": -505,
+        "endYear": -503
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "startYear": -498,
+        "endYear": -493
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "startYear": -494,
+        "endYear": -494
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Decemviri",
+      "timespan": {
+        "startYear": -451,
+        "endYear": -449
+      },
+      "style": "backgroundConstitutionalConvention"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "startYear": -449,
+        "endYear": -449
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "startYear": -445,
+        "endYear": -445
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Veii War",
+      "timespan": {
+        "startYear": -406,
+        "endYear": -396
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "startYear": -389,
+        "endYear": -386
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "startYear": -389,
+        "endYear": -385
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Praeneste War",
+      "timespan": {
+        "startYear": -383,
+        "endYear": -379
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Satricum War",
+      "timespan": {
+        "startYear": -377,
+        "endYear": -377
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Hernician War",
+      "timespan": {
+        "startYear": -362,
+        "endYear": -358
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Tibur War",
+      "timespan": {
+        "startYear": -361,
+        "endYear": -354
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "startYear": -359,
+        "endYear": -351
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "startYear": -342,
+        "endYear": -342
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "startYear": -340,
+        "endYear": -338
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Second Samnite War",
+      "timespan": {
+        "startYear": -326,
+        "endYear": -304
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Hernici War",
+      "timespan": {
+        "startYear": -307,
+        "endYear": -306
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Third Samnite War",
+      "timespan": {
+        "startYear": -298,
+        "endYear": -290
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "startYear": -287,
+        "endYear": -287
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Pyrrhic War",
+      "timespan": {
+        "startYear": -280,
+        "endYear": -275
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Punic War",
+      "timespan": {
+        "startYear": -264,
+        "endYear": -241
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Illyrian War",
+      "timespan": {
+        "startYear": -229,
+        "endYear": -228
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Second Illyrian War",
+      "timespan": {
+        "startYear": -220,
+        "endYear": -219
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Illyrian War",
+      "timespan": {
+        "startYear": -168,
+        "endYear": -167
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Second Punic War",
+      "timespan": {
+        "startYear": -218,
+        "endYear": -201
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Punic War",
+      "timespan": {
+        "startYear": -149,
+        "endYear": -146
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Macedonian War",
+      "timespan": {
+        "startYear": -214,
+        "endYear": -205
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Second Macedonian War",
+      "timespan": {
+        "startYear": -200,
+        "endYear": -196
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Macedonian War",
+      "timespan": {
+        "startYear": -172,
+        "endYear": -168
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Fourth Macedonian War",
+      "timespan": {
+        "startYear": -150,
+        "endYear": -148
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Jugurthine War",
+      "timespan": {
+        "startYear": -112,
+        "endYear": -106
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Social War",
+      "timespan": {
+        "startYear": -91,
+        "endYear": -88
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Third Servile War",
+      "timespan": {
+        "startYear": -73,
+        "endYear": -71
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Gallic Wars",
+      "timespan": {
+        "startYear": -58,
+        "endYear": -50
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Sulla's first civil war",
+      "timespan": {
+        "startYear": -88,
+        "endYear": -86
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Sulla's second civil war",
+      "timespan": {
+        "startYear": -83,
+        "endYear": -82
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Caesar's civil war",
+      "timespan": {
+        "startYear": -49,
+        "endYear": -45
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Liberators'' civil war",
+      "timespan": {
+        "startYear": -43,
+        "endYear": -42
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Final War of the Roman Republic",
+      "timespan": {
+        "startYear": -32,
+        "endYear": -30
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "First Jewish-Roman War",
+      "timespan": {
+        "startYear": 66,
+        "endYear": 73
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Year of the Four Emperors",
+      "timespan": {
+        "startYear": 69,
+        "endYear": 69
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Kitos War",
+      "timespan": {
+        "startYear": 115,
+        "endYear": 117
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Bar Kokhba Revolt",
+      "timespan": {
+        "startYear": 132,
+        "endYear": 135
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Sack of Rome (387 BC)",
+      "timespan": {
+        "startYear": -387,
+        "endYear": -387
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Lake Trasimene",
+      "timespan": {
+        "startYear": -217,
+        "endYear": -216
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Cannae",
+      "timespan": {
+        "startYear": -216,
+        "endYear": -216
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Arausio",
+      "timespan": {
+        "startYear": -105,
+        "endYear": -105
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Carrhae",
+      "timespan": {
+        "startYear": -53,
+        "endYear": -53
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Assassination of Julius Caesar",
+      "timespan": {
+        "startYear": -44,
+        "endYear": -44
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Teutoburg Forest",
+      "timespan": {
+        "startYear": 9,
+        "endYear": 9
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Eruption of Mt Vesuvius in AD 79",
+      "timespan": {
+        "startYear": 79,
+        "endYear": 79
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "startYear": 161,
+        "endYear": 166
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Marcomannic Wars",
+      "timespan": {
+        "startYear": 166,
+        "endYear": 180
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Antonine Plague",
+      "timespan": {
+        "startYear": 165,
+        "endYear": 169
+      },
+      "style": "backgroundPlague"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "startYear": 197,
+        "endYear": 198
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "African War",
+      "timespan": {
+        "startYear": 202,
+        "endYear": 203
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Caledonian War",
+      "timespan": {
+        "startYear": 208,
+        "endYear": 212
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "startYear": 216,
+        "endYear": 217
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Sassanid War",
+      "timespan": {
+        "startYear": 230,
+        "endYear": 232
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Germanic War",
+      "timespan": {
+        "startYear": 234,
+        "endYear": 236
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "startYear": 238,
+        "endYear": 239
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Carpi and Persian Wars",
+      "timespan": {
+        "startYear": 245,
+        "endYear": 247
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Plague of Cyprian",
+      "timespan": {
+        "startYear": 250,
+        "endYear": 270
+      },
+      "style": "backgroundPlague"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "startYear": 248,
+        "endYear": 251
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Abritus",
+      "timespan": {
+        "startYear": 251,
+        "endYear": 251
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "startYear": 255,
+        "endYear": 257
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
+        "startYear": 268,
+        "endYear": 269
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "startYear": 268,
+        "endYear": 271
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Palmyrene War",
+      "timespan": {
+        "startYear": 272,
+        "endYear": 273
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Gallic War",
+      "timespan": {
+        "startYear": 273,
+        "endYear": 274
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "startYear": 260,
+        "endYear": 260
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Persian War",
+      "timespan": {
+        "startYear": 295,
+        "endYear": 299
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Julian's Persian expedition",
+      "timespan": {
+        "startYear": 363,
+        "endYear": 363
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
+        "startYear": 366,
+        "endYear": 367
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "startYear": 376,
+        "endYear": 382
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Adrianople",
+      "timespan": {
+        "startYear": 378,
+        "endYear": 378
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Crossing of the Rhine",
+      "timespan": {
+        "startYear": 406,
+        "endYear": 406
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Sack of Rome (410)",
+      "timespan": {
+        "startYear": 410,
+        "endYear": 410
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "startYear": 440,
+        "endYear": 443
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "startYear": 447,
+        "endYear": 449
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "startYear": 451,
+        "endYear": 454
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Sack of Rome (455)",
+      "timespan": {
+        "startYear": 455,
+        "endYear": 455
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Nika Riots",
+      "timespan": {
+        "startYear": 532,
+        "endYear": 532
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Manzikert",
+      "timespan": {
+        "startYear": 1071,
+        "endYear": 1071
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Fourth Crusade",
+      "timespan": {
+        "startYear": 1204,
+        "endYear": 1204
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Fall of Constantinople",
+      "timespan": {
+        "startYear": 1453,
+        "endYear": 1453
+      },
+      "style": "backgroundNationalCalamity"
+    }
+  ],
+  "politicalDynastyGroups": [
+    {
+      "name": "Roman Kingdom",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Kings of Rome",
+          "people": [
+            {
+              "name": "Romulus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -771,
+                "endYearApproximate": true,
+                "endYear": -717
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -753,
+                  "endYearApproximate": true,
+                  "endYear": -717
+                }
+              }]
+            },
+            {
+              "name": "Numa Pompilius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -753,
+                "endYearApproximate": true,
+                "endYear": -673
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -715,
+                  "endYearApproximate": true,
+                  "endYear": -673
+                }
+              }]
+            },
+            {
+              "name": "Tullus Hostilius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -693,
+                "endYearApproximate": true,
+                "endYear": -642
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -673,
+                  "endYearApproximate": true,
+                  "endYear": -642
+                }
+              }]
+            },
+            {
+              "name": "Ancus Marcius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -660,
+                "endYearApproximate": true,
+                "endYear": -616
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -640,
+                  "endYearApproximate": true,
+                  "endYear": -616
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Etruscan dynasty",
+          "people": [
+            {
+              "name": "Lucius Tarquinius Priscus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -636,
+                "endYearApproximate": true,
+                "endYear": -579
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -616,
+                  "endYearApproximate": true,
+                  "endYear": -579
+                }
+              }]
+            },
+            {
+              "name": "Servius Tullius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -598,
+                "endYearApproximate": true,
+                "endYear": -535
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -578,
+                  "endYearApproximate": true,
+                  "endYear": -535
+                }
+              }]
+            },
+            {
+              "name": "Lucius Tarquinius Superbus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -555,
+                "endYearApproximate": true,
+                "endYear": -496
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": -535,
+                  "endYear": -509
+                }
+              }]
+            },
+            {
+              "name": "Sextus Tarquinius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -535,
+                "endYearApproximate": true,
+                "endYear": -509
+              },
+              "importance": "minor"
+            }
+          ]
+        },
+        {
+          "name": "Republican Founders",
+          "people": [
+            {
+              "name": "Spurius Lucretius Tricipitinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -570,
+                "endYearApproximate": true,
+                "endYear": -508
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -509,
+                  "endYear": -509
+                }
+              }]
+            },
+            {
+              "name": "Lucius Junius Brutus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -560,
+                "endYear": -509
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -509,
+                  "endYear": -509
+                }
+              }]
+            },
+            {
+              "name": "Lucius Tarquinius Collatinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -550,
+                "endYearApproximate": true,
+                "endYear": -490
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -509,
+                  "endYear": -509
+                }
+              }]
+            },
+            {
+              "name": "Publius Valerius Publicola",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -550,
+                "endYear": -503
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -509,
+                    "endYear": -508
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -508,
+                    "endYear": -507
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -507,
+                    "endYear": -506
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -504,
+                    "endYear": -503
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Titus Herminius Aquilinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -545,
+                "endYearApproximate": true,
+                "endYear": -495
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -506,
+                  "endYear": -505
+                }
+              }]
+            },
+            {
+              "name": "Publius Horatius Cocles",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -535,
+                "endYear": -505
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Gaius Mucius Scaevola",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -530,
+                "endYear": -500
+              },
+              "importance": "minor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Early Republic",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Early Republic",
+          "people": [
+            {
+              "name": "Cincinnatus",
+              "timespan": {
+                "startYear": -519,
+                "endYear": -430
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -460,
+                    "endYear": -460
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -458,
+                    "endYear": -458
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -439,
+                    "endYear": -439
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Appius Claudius Crassus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -485,
+                "endYearApproximate": true,
+                "endYear": -440
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "decemvir",
+                "timespan": {
+                  "startYear": -451,
+                  "endYear": -449
+                }
+              }]
+            },
+            {
+              "name": "Spurius Maelius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -485,
+                "endYear": -439
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYear": -440,
+                  "endYear": -439
+                }
+              }]
+            },
+            {
+              "name": "Marcus Furius Camillus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -446,
+                "endYear": -365
+              },
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "startYear": -402,
+                    "endYear": -402
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -398,
+                    "endYear": -398
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -396,
+                    "endYear": -396
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -394,
+                    "endYear": -387
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -386,
+                    "endYear": -386
+                  }
+                },
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "startYear": -381,
+                    "endYear": -381
+                  }
+                },
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "startYear": -378,
+                    "endYear": -378
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -368,
+                    "endYear": -368
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -367,
+                    "endYear": -367
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Publius Decius Mus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -380,
+                "endYear": -340
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -340,
+                  "endYear": -340
+                }
+              }]
+            },
+            {
+              "name": "Marcus Valerius Corvus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -370,
+                "endYearApproximate": true,
+                "endYear": -270
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -348,
+                    "endYear": -348
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "startYear": -347,
+                    "endYear": -347
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -346,
+                    "endYear": -346
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -347,
+                    "endYear": -342
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -342,
+                    "endYear": -342
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -335,
+                    "endYear": -335
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "startYear": -308,
+                    "endYear": -308
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -302,
+                    "endYear": -302
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -301,
+                    "endYear": -301
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -300,
+                    "endYear": -300
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marcus Atilius Regulus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -307,
+                "endYear": -250
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -267,
+                    "endYear": -267
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -256,
+                    "endYear": -256
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -255,
+                    "endYear": -255
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lucius Caecilius Metellus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -290,
+                "endYear": -221
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -251,
+                    "endYear": -251
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -247,
+                    "endYear": -247
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -224,
+                    "endYear": -224
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Fabius Maximus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -280,
+                "endYear": -203
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -233,
+                    "endYear": -233
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -228,
+                    "endYear": -228
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -221,
+                    "endYear": -221
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -217,
+                    "endYear": -217
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -215,
+                    "endYear": -215
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -214,
+                    "endYear": -214
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -209,
+                    "endYear": -209
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Publius Cornelius Scipio",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -270,
+                "endYear": -211
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -218,
+                    "endYear": -218
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -217,
+                    "endYear": -211
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marcus Claudius Marcellus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -268,
+                "endYear": -208
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -222,
+                    "endYear": -222
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -215,
+                    "endYear": -215
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -214,
+                    "endYear": -214
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -210,
+                    "endYear": -210
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -208,
+                    "endYear": -208
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Optimates",
+          "people": [
+            {
+              "name": "Cato the Elder",
+              "timespan": {
+                "startYear": -234,
+                "endYear": -149
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Lucius Aemilius Paullus Macedonicus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -229,
+                "endYear": -160
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "aedile",
+                  "timespan": {
+                    "startYear": -193,
+                    "endYear": -193
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "startYear": -191,
+                    "endYear": -191
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -191,
+                    "endYear": -189
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -182,
+                    "endYear": -182
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -168,
+                    "endYear": -168
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -168,
+                    "endYear": -167
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "startYear": -164,
+                    "endYear": -160
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Scipio Aemilianus",
+              "timespan": {
+                "startYear": -185,
+                "endYear": -129
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -147,
+                    "endYear": -147
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "startYear": -142,
+                    "endYear": -142
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -134,
+                    "endYear": -134
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Quintus Caecilius Metellus Numidicus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -160,
+                "endYear": -91
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -109,
+                    "endYear": -109
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "startYear": -102,
+                    "endYear": -102
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -101,
+                    "endYear": -99
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sulla",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -138,
+                "endYear": -78
+              },
+              "importance": "major",
+              "annotation": "Conservative arch-enemy of Marius",
+              "fate": "Resigned from power in 81 BC, died peacefully shortly thereafter.",
+              "titles": [
+                {
+                  "name": "questor",
+                  "timespan": {
+                    "startYear": -107,
+                    "endYear": -107
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startYear": -98,
+                    "endYear": -96
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -88,
+                    "endYear": -88
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -87,
+                    "endYear": -81
+                  }
+                },
+                {
+                  "name": "dictator",
+                  "timespan": {
+                    "startYear": -81,
+                    "endYear": -81
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -80,
+                    "endYear": -80
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lucullus",
+              "timespan": {
+                "startYear": -118,
+                "endYearApproximate": true,
+                "endYear": -56
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "quaestor",
+                  "timespan": {
+                    "startYear": -88,
+                    "endYear": -80
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -74,
+                    "endYear": -74
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -73,
+                    "endYear": -66
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pompey Magnus",
+              "timespan": {
+                "startYear": -106,
+                "endYear": -48
+              },
+              "importance": "major",
+              "annotation": "Triumvir, ally and rival of Caesar.",
+              "fate": "Fled to Egypt after defeat by Caesar at Battle of Pharsalus and assassinated by Egyptian officials in 48 BC.",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -51,
+                    "endYear": -51
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -54,
+                    "endYear": -54
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startYear": -58,
+                    "endYear": -55
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -69,
+                    "endYear": -69
+                  }
+                },
+                {
+                  "name": "triumvir",
+                  "timespan": {
+                    "startYear": -60,
+                    "endYear": -53
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -49,
+                    "endYear": -48
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cicero",
+              "timespan": {
+                "startYear": -106,
+                "endYear": -43
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -63,
+                    "endYear": -63
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -57,
+                    "endYear": -57
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -49,
+                    "endYear": -48
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marcus Calpurnius Bibulus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -102,
+                "endYear": -48
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": -59,
+                  "endYear": -59
+                }
+              }]
+            },
+            {
+              "name": "Cato the Younger",
+              "timespan": {
+                "startYear": -95,
+                "endYear": -46
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "exile",
+                "timespan": {
+                  "startYear": -49,
+                  "endYear": -46
+                }
+              }]
+            },
+            {
+              "name": "Titus Annius Milo",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -93,
+                "endYear": -48
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "startYear": -57,
+                    "endYear": -57
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "startYear": -54,
+                    "endYear": -54
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gaius Cassius Longinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -86,
+                "endYear": -42
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "startYear": -49,
+                    "endYear": -49
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -48,
+                    "endYear": -47
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -44,
+                    "endYear": -42
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marcus Junius Brutus",
+              "timespan": {
+                "startYear": -85,
+                "endYear": -42
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -49,
+                    "endYear": -47
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -44,
+                    "endYear": -42
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sextus Pompey",
+              "timespan": {
+                "startYear": -67,
+                "endYear": -35
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "exile",
+                "timespan": {
+                  "startYear": -48,
+                  "endYear": -35
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Late Republic",
+      "yStart": 0,
+      "dynasties": [{
+        "name": "Populares",
+        "people": [
+          {
+            "name": "Gaius Flaminius Nepos",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -260,
+              "endYear": -217
+            },
+            "importance": "semimajor",
+            "titles": [
+              {
+                "name": "tribune",
+                "timespan": {
+                  "startYear": -232,
+                  "endYear": -232
+                }
+              },
+              {
+                "name": "governor",
+                "timespan": {
+                  "startYear": -227,
+                  "endYear": -227
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -223,
+                  "endYear": -223
+                }
+              },
+              {
+                "name": "censor",
+                "timespan": {
+                  "startYear": -220,
+                  "endYear": -220
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -217,
+                  "endYear": -217
+                }
+              }
+            ]
+          },
+          {
+            "name": "Scipio Africanus",
+            "timespan": {
+              "startYear": -236,
+              "endYear": -183
+            },
+            "importance": "major",
+            "titles": [
+              {
+                "name": "quaestor",
+                "timespan": {
+                  "startYear": -213,
+                  "endYear": -210
+                }
+              },
+              {
+                "name": "general",
+                "timespan": {
+                  "startYear": -210,
+                  "endYear": -206
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -205,
+                  "endYear": -205
+                }
+              },
+              {
+                "name": "general",
+                "timespan": {
+                  "startYear": -205,
+                  "endYear": -202
+                }
+              }
+            ]
+          },
+          {
+            "name": "Tiberius Gracchus the Elder",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -217,
+              "endYear": -154
+            },
+            "importance": "minor",
+            "titles": [
+              {
+                "name": "tribune",
+                "timespan": {
+                  "startYear": -187,
+                  "endYear": -187
+                }
+              },
+              {
+                "name": "praetor",
+                "timespan": {
+                  "startYear": -179,
+                  "endYear": -179
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -177,
+                  "endYear": -177
+                }
+              },
+              {
+                "name": "censor",
+                "timespan": {
+                  "startYear": -169,
+                  "endYear": -169
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -163,
+                  "endYear": -163
+                }
+              }
+            ]
+          },
+          {
+            "name": "Cornelia Africana",
+            "timespan": {
+              "startYear": -190,
+              "endYear": -100
+            },
+            "importance": "minor"
+          },
+          {
+            "name": "Tiberius Gracchus",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -163,
+              "endYear": -133
+            },
+            "importance": "semimajor",
+            "titles": [{
+              "name": "tribune",
+              "timespan": {
+                "startYear": -133,
+                "endYear": -133
+              }
+            }]
+          },
+          {
+            "name": "Gaius Gracchus",
+            "timespan": {
+              "startYear": -154,
+              "endYear": -121
+            },
+            "importance": "semimajor",
+            "titles": [{
+              "name": "tribune",
+              "timespan": {
+                "startYear": -123,
+                "endYear": -121
+              }
+            }]
+          },
+          {
+            "name": "Gaius Marius",
+            "timespan": {
+              "startYear": -157,
+              "endYear": -86
+            },
+            "importance": "major",
+            "annotation": "Novus homo - Seven times elected consul - First Man in Rome - Bloody tyrant",
+            "titles": [
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -106,
+                  "endYear": -106
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -105,
+                  "endYear": -100
+                }
+              },
+              {
+                "name": "exile",
+                "timespan": {
+                  "startYear": -88,
+                  "endYear": -87
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -86,
+                  "endYear": -86
+                }
+              }
+            ]
+          },
+          {
+            "name": "Gnaeus Papirius Carbo",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -135,
+              "endYear": -82
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "consul",
+              "timespan": {
+                "startYear": -85,
+                "endYear": -82
+              }
+            }]
+          },
+          {
+            "name": "Lucius Cornelius Cinna",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -127,
+              "endYear": -84
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "consul",
+              "timespan": {
+                "startYear": -87,
+                "endYear": -84
+              }
+            }]
+          },
+          {
+            "name": "Crassus",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -115,
+              "endYear": -53
+            },
+            "importance": "semimajor",
+            "titles": [
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -69,
+                  "endYear": -69
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -55,
+                  "endYear": -54
+                }
+              },
+              {
+                "name": "governor",
+                "timespan": {
+                  "startYear": -54,
+                  "endYear": -53
+                }
+              },
+              {
+                "name": "triumvir",
+                "timespan": {
+                  "startYear": -60,
+                  "endYear": -53
+                }
+              }
+            ]
+          },
+          {
+            "name": "Catiline",
+            "timespan": {
+              "startYear": -108,
+              "endYear": -62
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "usurper",
+              "timespan": {
+                "startYear": -64,
+                "endYear": -62
+              }
+            }]
+          },
+          {
+            "name": "Julius Caesar",
+            "timespan": {
+              "startYear": -100,
+              "endYear": -44
+            },
+            "importance": "transformational",
+            "annotation": "Veni, Vidi, Vici!",
+            "fate": "Sic Semper Tyrannis, Ides of March 44 BC. Afterwards deified.",
+            "backgroundStyle": "deified",
+            "titles": [
+              {
+                "name": "consul",
+                "timespan": {
+                  "startYear": -59,
+                  "endYear": -59
+                }
+              },
+              {
+                "name": "governor",
+                "timespan": {
+                  "startYear": -58,
+                  "endYear": -48
+                }
+              },
+              {
+                "name": "triumvir",
+                "timespan": {
+                  "startYear": -60,
+                  "endYear": -53
+                }
+              },
+              {
+                "name": "dictator",
+                "timespan": {
+                  "startYear": -48,
+                  "endYear": -44
+                }
+              }
+            ]
+          },
+          {
+            "name": "Publius Clodius Pulcher",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -93,
+              "endYear": -52
+            },
+            "importance": "minor",
+            "titles": [
+              {
+                "name": "quaestor",
+                "timespan": {
+                  "startYear": -60,
+                  "endYear": -60
+                }
+              },
+              {
+                "name": "tribune",
+                "timespan": {
+                  "startYear": -58,
+                  "endYear": -58
+                }
+              },
+              {
+                "name": "aedile",
+                "timespan": {
+                  "startYear": -56,
+                  "endYear": -56
+                }
+              }
+            ]
+          },
+          {
+            "name": "Lepidus",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -89,
+              "endYearApproximate": true,
+              "endYear": -12
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "triumvir",
+              "timespan": {
+                "startYear": -43,
+                "endYear": -36
+              }
+            }]
+          },
+          {
+            "name": "Publius Licinius Crassus",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -86,
+              "endYear": -53
+            },
+            "importance": "minor"
+          },
+          {
+            "name": "Mark Antony",
+            "timespan": {
+              "startYear": -83,
+              "endYear": -30
+            },
+            "importance": "major",
+            "titles": [
+              {
+                "name": "masterOfHorse",
+                "timespan": {
+                  "startYear": -48,
+                  "endYear": -44
+                }
+              },
+              {
+                "name": "triumvir",
+                "timespan": {
+                  "startYear": -43,
+                  "endYear": -33
+                }
+              },
+              {
+                "name": "exile",
+                "timespan": {
+                  "startYear": -33,
+                  "endYear": -30
+                }
+              }
+            ]
+          }
+        ]
+      }]
+    },
+    {
+      "name": "Principate",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Julio-Claudians",
+          "people": [
+            {
+              "name": "Augustus",
+              "timespan": {
+                "startYear": -63,
+                "endYear": 14
+              },
+              "importance": "transformational",
+              "annotation": "Caesar's nephew and heir, the first Emperor of Rome.",
+              "fate": "Died 19 August AD 14, aged 75, perhaps poisoned by Livia. Afterwards Deified.",
+              "backgroundStyle": "deified",
+              "titles": [
+                {
+                  "name": "triumvir",
+                  "timespan": {
+                    "startYear": -43,
+                    "endYear": -33
+                  }
+                },
+                {
+                  "name": "princeps",
+                  "timespan": {
+                    "startYear": -33,
+                    "endYear": -27
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": -27,
+                    "endYear": 14
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gaius Maecenas",
+              "timespan": {
+                "startYear": -70,
+                "endYear": -8
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Marcus Vipsanius Agrippa",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -64,
+                "endYear": -12
+              },
+              "importance": "semimajor",
+              "annotation": "Trusted and faithful friend, general and heir to Augustus, Agrippa was the grandfather and great-grandfather of emperors.",
+              "fate": "Died peacefully but prematurely at age 51.",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -41,
+                    "endYear": -37
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -37,
+                    "endYear": -37
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -37,
+                    "endYear": -34
+                  }
+                },
+                {
+                  "name": "aedile",
+                  "timespan": {
+                    "startYear": -32,
+                    "endYear": -32
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -32,
+                    "endYear": -31
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -19,
+                    "endYear": -17
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startYear": -17,
+                    "endYear": -13
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -13,
+                    "endYear": -12
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gaius Caesar",
+              "timespan": {
+                "startYear": -20,
+                "endYear": 4
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Lucius Caesar",
+              "timespan": {
+                "startYear": -17,
+                "endYear": 2
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Livia",
+              "timespan": {
+                "startYear": -58,
+                "endYear": 29
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": -27,
+                  "endYear": 29
+                }
+              }]
+            },
+            {
+              "name": "Tiberius",
+              "timespan": {
+                "startYear": -42,
+                "endYear": 37
+              },
+              "importance": "major",
+              "annotation": "Stepson of Augustus, second emperor of Rome.",
+              "fate": "Gradual withdrawal and decent into depravity until finally perishing AD 37.",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -19,
+                    "endYear": -15
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": -12,
+                    "endYear": -12
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": -12,
+                    "endYear": -7
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": -6,
+                    "endYear": 4
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 10,
+                    "endYear": 12
+                  }
+                },
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 13,
+                    "endYear": 14
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 14,
+                    "endYear": 37
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sejanus",
+              "timespan": {
+                "startYear": -20,
+                "endYear": 31
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "startYear": 14,
+                    "endYear": 31
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 31,
+                    "endYear": 31
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Germanicus",
+              "timespan": {
+                "startYear": -15,
+                "endYear": 19
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 13,
+                    "endYear": 13
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 14,
+                    "endYear": 19
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Caligula",
+              "timespan": {
+                "startYear": 12,
+                "endYear": 41
+              },
+              "importance": "semimajor",
+              "annotation": "\"... So much for Caligula as emperor; we must now tell of his career as a monster...\" - Suetonius",
+              "fate": "Assassinated, AD 41.",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 37,
+                  "endYear": 41
+                }
+              }]
+            },
+            {
+              "name": "Claudius",
+              "timespan": {
+                "startYear": -10,
+                "endYear": 54
+              },
+              "importance": "major",
+              "annotation": "Uncle of Caligula, found hiding behind the curtains and declared emperor. Incorporated Britain.",
+              "fate": "Murdered by wife and niece Agrippina to ensure the succession of her son Nero.",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 41,
+                  "endYear": 54
+                }
+              }]
+            },
+            {
+              "name": "Gnaeus Domitius Corbulo",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 7,
+                "endYear": 67
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 39,
+                    "endYear": 39
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 47,
+                    "endYear": 50
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startYear": 52,
+                    "endYear": 54
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startYear": 54,
+                    "endYear": 67
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Seneca the Younger",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": -4,
+                "endYear": 65
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Agrippina the Younger",
+              "timespan": {
+                "startYear": 15,
+                "endYear": 59
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 50,
+                  "endYear": 59
+                }
+              }]
+            },
+            {
+              "name": "Nero",
+              "timespan": {
+                "startYear": 37,
+                "endYear": 68
+              },
+              "importance": "semimajor",
+              "annotation": "Artist, and last of the Julio-Claudians.",
+              "fate": "Declared a public enemy by the Senate, fled Rome and ordered servant to kill him, precipitating the Year of the Four Emperors. \"What an artist the world is losing!\"",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 54,
+                  "endYear": 68
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Transitional",
+          "people": [
+            {
+              "name": "Galba",
+              "timespan": {
+                "startYear": -3,
+                "endYear": 69
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 69,
+                  "endYear": 69
+                }
+              }]
+            },
+            {
+              "name": "Otho",
+              "timespan": {
+                "startYear": 32,
+                "endYear": 69
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 69,
+                  "endYear": 69
+                }
+              }]
+            },
+            {
+              "name": "Vitellius",
+              "timespan": {
+                "startYear": 15,
+                "endYear": 69
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 69,
+                  "endYear": 69
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Flavians",
+          "people": [
+            {
+              "name": "Vespasian",
+              "timespan": {
+                "startYear": 9,
+                "endYear": 79
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 69,
+                  "endYear": 79
+                }
+              }]
+            },
+            {
+              "name": "Gnaeus Julius Agricola",
+              "timespan": {
+                "startYear": 40,
+                "endYear": 93
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "governor",
+                "timespan": {
+                  "startYear": 77,
+                  "endYear": 85
+                }
+              }]
+            },
+            {
+              "name": "Titus",
+              "timespan": {
+                "startYear": 39,
+                "endYear": 81
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 79,
+                  "endYear": 81
+                }
+              }]
+            },
+            {
+              "name": "Domitian",
+              "timespan": {
+                "startYear": 51,
+                "endYear": 96
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 81,
+                  "endYear": 96
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Antonines",
+          "yStart": 230,
+          "people": [
+            {
+              "name": "Nerva",
+              "timespan": {
+                "startYear": 27,
+                "endYear": 98
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 96,
+                  "endYear": 98
+                }
+              }]
+            },
+            {
+              "name": "Trajan",
+              "timespan": {
+                "startYear": 53,
+                "endYear": 117
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 98,
+                  "endYear": 117
+                }
+              }]
+            },
+            {
+              "name": "Pompeia Plotina",
+              "timespan": {
+                "startYear": 60,
+                "endYear": 122
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 100,
+                  "endYear": 122
+                }
+              }]
+            },
+            {
+              "name": "Hadrian",
+              "timespan": {
+                "startYear": 76,
+                "endYear": 138
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 117,
+                  "endYear": 138
+                }
+              }]
+            },
+            {
+              "name": "Antoninus Pius",
+              "timespan": {
+                "startYear": 86,
+                "endYear": 161
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 138,
+                  "endYear": 161
+                }
+              }]
+            },
+            {
+              "name": "Marcus Aurelius",
+              "timespan": {
+                "startYear": 121,
+                "endYear": 180
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 161,
+                  "endYear": 180
+                }
+              }]
+            },
+            {
+              "name": "Commodus",
+              "timespan": {
+                "startYear": 161,
+                "endYear": 192
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 177,
+                    "endYear": 180
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 180,
+                    "endYear": 192
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Transitional",
+          "people": [
+            {
+              "name": "Pertinax",
+              "timespan": {
+                "startYear": 126,
+                "endYear": 193
+              },
+              "importance": "minor",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 193,
+                  "endYear": 193
+                }
+              }]
+            },
+            {
+              "name": "Didus Julianus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 133,
+                "endYear": 193
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 193,
+                  "endYear": 193
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crisis",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Severans",
+          "people": [
+            {
+              "name": "Septimus Severus",
+              "timespan": {
+                "startYear": 145,
+                "endYear": 211
+              },
+              "importance": "major",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 193,
+                  "endYear": 211
+                }
+              }]
+            },
+            {
+              "name": "Julia Domna",
+              "timespan": {
+                "startYear": 170,
+                "endYear": 217
+              },
+              "importance": "minor",
+              "backgroundStyle": "deified"
+            },
+            {
+              "name": "Caracalla",
+              "timespan": {
+                "startYear": 188,
+                "endYear": 217
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 198,
+                    "endYear": 211
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 211,
+                    "endYear": 217
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Geta",
+              "timespan": {
+                "startYear": 189,
+                "endYear": 211
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 209,
+                    "endYear": 211
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 211,
+                    "endYear": 211
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Macrinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 165,
+                "endYear": 218
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 217,
+                  "endYear": 218
+                }
+              }]
+            },
+            {
+              "name": "Julia Maesa",
+              "timespan": {
+                "startYear": 165,
+                "endYear": 226
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "deified"
+            },
+            {
+              "name": "Elagabalus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 203,
+                "endYear": 222
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 218,
+                  "endYear": 222
+                }
+              }]
+            },
+            {
+              "name": "Alexander Severus",
+              "timespan": {
+                "startYear": 209,
+                "endYear": 235
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 222,
+                  "endYear": 235
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Crisis Emperors",
+          "people": [
+            {
+              "name": "Maximinus Thrax",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 173,
+                "endYear": 238
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 235,
+                  "endYear": 238
+                }
+              }]
+            },
+            {
+              "name": "Gordian I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 159,
+                "endYear": 238
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 238,
+                  "endYear": 238
+                }
+              }]
+            },
+            {
+              "name": "Gordian II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 192,
+                "endYear": 238
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 238,
+                  "endYear": 238
+                }
+              }]
+            },
+            {
+              "name": "Pupienus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 178,
+                "endYear": 238
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 238,
+                  "endYear": 238
+                }
+              }]
+            },
+            {
+              "name": "Balbinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 165,
+                "endYear": 238
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 238,
+                  "endYear": 238
+                }
+              }]
+            },
+            {
+              "name": "Gordian III",
+              "timespan": {
+                "startYear": 225,
+                "endYear": 244
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 238,
+                  "endYear": 244
+                }
+              }]
+            },
+            {
+              "name": "Phillip the Arab",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 204,
+                "endYear": 249
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 244,
+                  "endYear": 249
+                }
+              }]
+            },
+            {
+              "name": "Decius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 201,
+                "endYear": 251
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 249,
+                  "endYear": 251
+                }
+              }]
+            },
+            {
+              "name": "Trebonianus Gallus",
+              "timespan": {
+                "startYear": 206,
+                "endYear": 253
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 251,
+                  "endYear": 253
+                }
+              }]
+            },
+            {
+              "name": "Aemilianus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 207,
+                "endYear": 253
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 253,
+                  "endYear": 253
+                }
+              }]
+            },
+            {
+              "name": "Valerian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 195,
+                "endYearApproximate": true,
+                "endYear": 264
+              },
+              "importance": "minor",
+              "annotation": "Cisis Emperor, captured by Persians.",
+              "fate": "In AD 260, decisively defeated and captured alive by Sassanid King Sharpur I, for use as his footstool.",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 253,
+                  "endYear": 260
+                }
+              }]
+            },
+            {
+              "name": "Gallienus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 218,
+                "endYear": 268
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 253,
+                    "endYear": 260
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 260,
+                    "endYear": 268
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Macrianus Major",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 210,
+                "endYear": 261
+              },
+              "importance": "minor",
+              "annotation": "Usurper in the east with his sons.",
+              "fate": "Defeated by Gallienus' general Aureolus in Thrace AD 261.",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYear": 259,
+                  "endYear": 261
+                }
+              }]
+            },
+            {
+              "name": "Macrianus Minor",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 235,
+                "endYear": 261
+              },
+              "importance": "minor",
+              "annotation": "Usurper in the east with his father and brother.",
+              "fate": "Defeated by Gallienus' general Aureolus in Thrace AD 261.",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYear": 259,
+                  "endYear": 261
+                }
+              }]
+            },
+            {
+              "name": "Quietus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 237,
+                "endYear": 261
+              },
+              "importance": "minor",
+              "annotation": "Usurper in the east with his father and brother.",
+              "fate": "After his father Macrianus and brother were defeated by Gallienus, Odenathus beseiged Quietus at Emesa and killed by its inhabitants.",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYear": 259,
+                  "endYear": 261
+                }
+              }]
+            },
+            {
+              "name": "Postumus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 215,
+                "endYear": 269
+              },
+              "importance": "minor",
+              "annotation": "Emperor of breakaway Gallic Empire. Defended Rhine frontier from Germanic invasions.",
+              "fate": "Murdered by his troops, AD 269.",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 260,
+                  "endYear": 269
+                }
+              }]
+            },
+            {
+              "name": "Claudius Gothicus",
+              "timespan": {
+                "startYear": 213,
+                "endYear": 270
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 268,
+                  "endYear": 270
+                }
+              }]
+            },
+            {
+              "name": "Quintillus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 220,
+                "endYear": 270
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 270,
+                  "endYear": 270
+                }
+              }]
+            },
+            {
+              "name": "Aurelian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 214,
+                "endYear": 275
+              },
+              "importance": "major",
+              "annotation": "Restituto Orbis, the Restorer of the World.",
+              "fate": "Mistakenly murdered by court officials, AD 275.",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 270,
+                  "endYear": 275
+                }
+              }]
+            },
+            {
+              "name": "Marcus Claudius Tacitus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 200,
+                "endYear": 276
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 275,
+                  "endYear": 276
+                }
+              }]
+            },
+            {
+              "name": "Marcus Aurelius Probus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 232,
+                "endYear": 282
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 276,
+                  "endYear": 282
+                }
+              }]
+            },
+            {
+              "name": "Carus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 224,
+                "endYear": 283
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 282,
+                  "endYear": 283
+                }
+              }]
+            },
+            {
+              "name": "Carinus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 250,
+                "endYear": 285
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 282,
+                    "endYear": 283
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 283,
+                    "endYear": 285
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Numerian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 255,
+                "endYear": 284
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 282,
+                    "endYear": 283
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 283,
+                    "endYear": 284
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tetrarchy",
+          "people": [
+            {
+              "name": "Diocletian",
+              "timespan": {
+                "startYear": 244,
+                "endYear": 311
+              },
+              "importance": "transformational",
+              "annotation": "Created the Tetrarchy.",
+              "fate": "Abdicated AD 305, forcing Maximian to do the same, and turned to the growing of cabbages.",
+              "backgroundStyle": "deified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 285,
+                  "endYear": 305
+                }
+              }]
+            },
+            {
+              "name": "Maximian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 250,
+                "endYear": 310
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 285,
+                  "endYear": 305
+                }
+              }]
+            },
+            {
+              "name": "Galerius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 260,
+                "endYear": 311
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 293,
+                    "endYear": 305
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 305,
+                    "endYear": 311
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Severus II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 260,
+                "endYear": 307
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 305,
+                    "endYear": 306
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 306,
+                    "endYear": 307
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Maxentius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 278,
+                "endYear": 312
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "caesar",
+                "timespan": {
+                  "startYear": 306,
+                  "endYear": 312
+                }
+              }]
+            },
+            {
+              "name": "Maximinus II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 270,
+                "endYear": 313
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 311,
+                  "endYear": 313
+                }
+              }]
+            },
+            {
+              "name": "Licinius I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 263,
+                "endYear": 325
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 308,
+                  "endYear": 324
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Late Empire",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Constantinians",
+          "people": [
+            {
+              "name": "Constantius I Chlorus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 250,
+                "endYear": 306
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 293,
+                    "endYear": 305
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 305,
+                    "endYear": 306
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Helena",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 250,
+                "endYearApproximate": true,
+                "endYear": 330
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "sanctified"
+            },
+            {
+              "name": "Constantine I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 272,
+                "endYear": 337
+              },
+              "importance": "transformational",
+              "backgroundStyle": "sanctified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 306,
+                  "endYear": 337
+                }
+              }]
+            },
+            {
+              "name": "Crispus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 299,
+                "endYear": 326
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "caesar",
+                "timespan": {
+                  "startYear": 317,
+                  "endYear": 326
+                }
+              }]
+            },
+            {
+              "name": "Constantine II",
+              "timespan": {
+                "startYear": 316,
+                "endYear": 340
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 317,
+                    "endYear": 337
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 337,
+                    "endYear": 340
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Constantius II",
+              "timespan": {
+                "startYear": 317,
+                "endYear": 361
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 324,
+                    "endYear": 337
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 337,
+                    "endYear": 361
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Constans",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 320,
+                "endYear": 350
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 337,
+                  "endYear": 350
+                }
+              }]
+            },
+            {
+              "name": "Flavius Dalmatius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 276,
+                "endYear": 337
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": 334,
+                  "endYear": 335
+                }
+              }]
+            },
+            {
+              "name": "Dalmatius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 300,
+                "endYear": 337
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "caesar",
+                "timespan": {
+                  "startYear": 335,
+                  "endYear": 337
+                }
+              }]
+            },
+            {
+              "name": "Hannibalianus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 305,
+                "endYear": 337
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Julius Constantius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 289,
+                "endYear": 337
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "consul",
+                "timespan": {
+                  "startYear": 335,
+                  "endYear": 336
+                }
+              }]
+            },
+            {
+              "name": "Constantius Gallus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 325,
+                "endYear": 354
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "caesar",
+                "timespan": {
+                  "startYear": 351,
+                  "endYear": 354
+                }
+              }]
+            },
+            {
+              "name": "Julian The Apostate",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 331,
+                "endYear": 363
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 355,
+                    "endYear": 360
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 360,
+                    "endYear": 363
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jovian",
+              "timespan": {
+                "startYear": 331,
+                "endYear": 364
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 363,
+                  "endYear": 364
+                }
+              }]
+            },
+            {
+              "name": "Procopius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 325,
+                "endYear": 366
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYear": 365,
+                  "endYear": 366
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Valentinians",
+          "people": [
+            {
+              "name": "Valentinian I",
+              "timespan": {
+                "startYear": 321,
+                "endYear": 375
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 364,
+                  "endYear": 375
+                }
+              }]
+            },
+            {
+              "name": "Valens",
+              "timespan": {
+                "startYear": 328,
+                "endYear": 378
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 364,
+                  "endYear": 378
+                }
+              }]
+            },
+            {
+              "name": "Gratian",
+              "timespan": {
+                "startYear": 359,
+                "endYear": 383
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 367,
+                    "endYear": 375
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 375,
+                    "endYear": 383
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Valentinian II",
+              "timespan": {
+                "startYear": 371,
+                "endYear": 392
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 375,
+                  "endYear": 392
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Theodosians",
+          "people": [
+            {
+              "name": "Count Theodosius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 320,
+                "endYear": 376
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "general",
+                "timespan": {
+                  "startYear": 368,
+                  "endYear": 375
+                }
+              }]
+            },
+            {
+              "name": "Theodosius I",
+              "timespan": {
+                "startYear": 347,
+                "endYear": 395
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 379,
+                  "endYear": 395
+                }
+              }]
+            },
+            {
+              "name": "Stilicho",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 359,
+                "endYear": 408
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "magisterMilitum",
+                "timespan": {
+                  "startYear": 383,
+                  "endYear": 408
+                }
+              }]
+            },
+            {
+              "name": "Arcadius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 377,
+                "endYear": 408
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 383,
+                    "endYear": 395
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 395,
+                    "endYear": 408
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pulcheria",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 398,
+                "endYear": 453
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 414,
+                  "endYear": 453
+                }
+              }]
+            },
+            {
+              "name": "Theodosius II",
+              "timespan": {
+                "startYear": 401,
+                "endYear": 450
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 402,
+                    "endYear": 408
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 408,
+                    "endYear": 450
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Honorius",
+              "timespan": {
+                "startYear": 384,
+                "endYear": 423
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 393,
+                    "endYear": 395
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 395,
+                    "endYear": 423
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Galla Placidia",
+              "timespan": {
+                "startYear": 395,
+                "endYear": 450
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "startYear": 423,
+                    "endYear": 437
+                  }
+                },
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "startYear": 437,
+                    "endYear": 450
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Constantius III",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 370,
+                "endYear": 421
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 411,
+                    "endYear": 421
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 412,
+                    "endYear": 413
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 416,
+                    "endYear": 417
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 419,
+                    "endYear": 420
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 421,
+                    "endYear": 421
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Joannes",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 370,
+                "endYear": 425
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 423,
+                  "endYear": 425
+                }
+              }]
+            },
+            {
+              "name": "Bonifacius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 380,
+                "endYear": 432
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": 423,
+                    "endYear": 425
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 425,
+                    "endYear": 432
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Flavius Aetius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 396,
+                "endYear": 454
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "magisterMilitum",
+                "timespan": {
+                  "startYear": 425,
+                  "endYear": 454
+                }
+              }]
+            },
+            {
+              "name": "Valentinian III",
+              "timespan": {
+                "startYear": 419,
+                "endYear": 455
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 424,
+                    "endYear": 425
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 425,
+                    "endYear": 455
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Last Western Emperors",
+          "people": [
+            {
+              "name": "Ricimer",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 405,
+                "endYear": 472
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "magisterMilitum",
+                "timespan": {
+                  "startYear": 456,
+                  "endYear": 472
+                }
+              }]
+            },
+            {
+              "name": "Petronius Maximus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 396,
+                "endYear": 455
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 455,
+                  "endYear": 455
+                }
+              }]
+            },
+            {
+              "name": "Avitus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 380,
+                "endYearApproximate": true,
+                "endYear": 456
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 455,
+                  "endYear": 456
+                }
+              }]
+            },
+            {
+              "name": "Majorian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 420,
+                "endYear": 461
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 457,
+                  "endYear": 461
+                }
+              }]
+            },
+            {
+              "name": "Libius Severus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 420,
+                "endYear": 465
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 461,
+                  "endYear": 465
+                }
+              }]
+            },
+            {
+              "name": "Anthemius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 420,
+                "endYear": 472
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 467,
+                  "endYear": 472
+                }
+              }]
+            },
+            {
+              "name": "Olybrius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 420,
+                "endYear": 472
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 472,
+                  "endYear": 472
+                }
+              }]
+            },
+            {
+              "name": "Glycerius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 420,
+                "endYearApproximate": true,
+                "endYear": 480
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 473,
+                  "endYear": 474
+                }
+              }]
+            },
+            {
+              "name": "Julius Nepos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 430,
+                "endYear": 480
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 474,
+                  "endYear": 475
+                }
+              }]
+            },
+            {
+              "name": "Romulus Augustulus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 460,
+                "endYearApproximate": true,
+                "endYear": 500
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 475,
+                  "endYear": 476
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Last Western Emperors",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Early Byzantine Emperors",
+          "people": [
+            {
+              "name": "Marcian",
+              "timespan": {
+                "startYear": 396,
+                "endYear": 457
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "sanctified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 450,
+                  "endYear": 457
+                }
+              }]
+            },
+            {
+              "name": "Leo I the Thracian",
+              "timespan": {
+                "startYear": 401,
+                "endYear": 474
+              },
+              "importance": "semimajor",
+              "backgroundStyle": "sanctified",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 457,
+                  "endYear": 474
+                }
+              }]
+            },
+            {
+              "name": "Leo II the Little",
+              "timespan": {
+                "startYear": 467,
+                "endYear": 474
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 474,
+                  "endYear": 474
+                }
+              }]
+            },
+            {
+              "name": "Zeno",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 425,
+                "endYear": 491
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 474,
+                  "endYear": 491
+                }
+              }]
+            },
+            {
+              "name": "Basiliscus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 435,
+                "endYear": 477
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 463,
+                    "endYear": 468
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 475,
+                    "endYear": 476
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anastasius I Dicorus",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 430,
+                "endYear": 518
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 491,
+                  "endYear": 518
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Justinians",
+          "people": [
+            {
+              "name": "Justin I",
+              "timespan": {
+                "startYear": 450,
+                "endYear": 527
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 518,
+                  "endYear": 527
+                }
+              }]
+            },
+            {
+              "name": "Justinian I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 482,
+                "endYear": 565
+              },
+              "importance": "transformational",
+              "backgroundStyle": "sanctified",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "startYear": 521,
+                    "endYear": 527
+                  }
+                },
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 527,
+                    "endYear": 527
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 527,
+                    "endYear": 565
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theodora I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 500,
+                "endYear": 548
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 525,
+                  "endYear": 548
+                }
+              }]
+            },
+            {
+              "name": "Narses",
+              "timespan": {
+                "startYear": 478,
+                "endYear": 573
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "magisterMilitum",
+                "timespan": {
+                  "startYear": 532,
+                  "endYear": 566
+                }
+              }]
+            },
+            {
+              "name": "Belisarius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 500,
+                "endYear": 565
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 527,
+                    "endYear": 551
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startYear": 559,
+                    "endYear": 562
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Justin II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 520,
+                "endYear": 578
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 565,
+                  "endYear": 574
+                }
+              }]
+            },
+            {
+              "name": "Tiberius II Constantine",
+              "timespan": {
+                "startYear": 520,
+                "endYear": 582
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 574,
+                  "endYear": 582
+                }
+              }]
+            },
+            {
+              "name": "Maurice",
+              "timespan": {
+                "startYear": 539,
+                "endYear": 602
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 582,
+                  "endYear": 602
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Non-dynastic",
+          "people": [{
+            "name": "Phocas",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": 550,
+              "endYear": 610
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "augustus",
+              "timespan": {
+                "startYear": 602,
+                "endYear": 610
+              }
+            }]
+          }]
+        },
+        {
+          "name": "Heraclians",
+          "people": [
+            {
+              "name": "Heraclius",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 575,
+                "endYear": 641
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 610,
+                  "endYear": 641
+                }
+              }]
+            },
+            {
+              "name": "Constantine III",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 612,
+                "endYear": 641
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 641,
+                  "endYear": 641
+                }
+              }]
+            },
+            {
+              "name": "Heraklonas",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 626,
+                "endYear": 641
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 641,
+                  "endYear": 641
+                }
+              }]
+            },
+            {
+              "name": "Constans II",
+              "timespan": {
+                "startYear": 630,
+                "endYear": 668
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 641,
+                  "endYear": 668
+                }
+              }]
+            },
+            {
+              "name": "Constantine IV",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 652,
+                "endYear": 685
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 668,
+                  "endYear": 685
+                }
+              }]
+            },
+            {
+              "name": "Justinian II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 669,
+                "endYear": 711
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 685,
+                    "endYear": 695
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 705,
+                    "endYear": 711
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Twenty Years' Anarchy",
+          "people": [
+            {
+              "name": "Leontios",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 655,
+                "endYear": 706
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 695,
+                  "endYear": 698
+                }
+              }]
+            },
+            {
+              "name": "Tiberios III",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 660,
+                "endYear": 706
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 698,
+                  "endYear": 705
+                }
+              }]
+            },
+            {
+              "name": "Philippikos Bardanes",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 665,
+                "endYear": 713
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 711,
+                  "endYear": 713
+                }
+              }]
+            },
+            {
+              "name": "Anastasios II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 670,
+                "endYear": 719
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 713,
+                  "endYear": 715
+                }
+              }]
+            },
+            {
+              "name": "Theodosios III",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 680,
+                "endYear": 754
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 715,
+                  "endYear": 717
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middle Byzantine Emperors",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Isaurians",
+          "people": [
+            {
+              "name": "Leo III the Isaurian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 685,
+                "endYear": 741
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 717,
+                  "endYear": 741
+                }
+              }]
+            },
+            {
+              "name": "Artabasdos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 690,
+                "endYear": 743
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "usurper",
+                "timespan": {
+                  "startYearApproximate": true,
+                  "startYear": 741,
+                  "endYear": 743
+                }
+              }]
+            },
+            {
+              "name": "Constantine V",
+              "timespan": {
+                "startYear": 718,
+                "endYear": 775
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 741,
+                  "endYear": 775
+                }
+              }]
+            },
+            {
+              "name": "Leo IV the Khazar",
+              "timespan": {
+                "startYear": 750,
+                "endYear": 780
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 775,
+                  "endYear": 780
+                }
+              }]
+            },
+            {
+              "name": "Irene of Athens",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 753,
+                "endYear": 803
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 775,
+                  "endYear": 802
+                }
+              }]
+            },
+            {
+              "name": "Constantine VI",
+              "timespan": {
+                "startYear": 771,
+                "endYearApproximate": true,
+                "endYear": 805
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 780,
+                  "endYear": 797
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Nikephorians",
+          "people": [
+            {
+              "name": "Nikephoros I",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 750,
+                "endYear": 811
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 802,
+                  "endYear": 811
+                }
+              }]
+            },
+            {
+              "name": "Staurakios",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 775,
+                "endYear": 812
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 811,
+                  "endYear": 811
+                }
+              }]
+            },
+            {
+              "name": "Michael I Rangabe",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 770,
+                "endYear": 844
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 811,
+                  "endYear": 813
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Non-dynastic",
+          "people": [{
+            "name": "Leo V the Armenian",
+            "timespan": {
+              "startYear": 775,
+              "endYear": 820
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "augustus",
+              "timespan": {
+                "startYear": 813,
+                "endYear": 820
+              }
+            }]
+          }]
+        },
+        {
+          "name": "Amorians",
+          "people": [
+            {
+              "name": "Michael II the Amorian",
+              "timespan": {
+                "startYear": 770,
+                "endYear": 829
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 820,
+                  "endYear": 829
+                }
+              }]
+            },
+            {
+              "name": "Theophilos",
+              "timespan": {
+                "startYear": 813,
+                "endYear": 842
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 829,
+                  "endYear": 842
+                }
+              }]
+            },
+            {
+              "name": "Michael III",
+              "timespan": {
+                "startYear": 840,
+                "endYear": 867
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 842,
+                  "endYear": 867
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Macedonians",
+          "people": [
+            {
+              "name": "Basil I the Macedonian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 811,
+                "endYear": 886
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 867,
+                  "endYear": 886
+                }
+              }]
+            },
+            {
+              "name": "Leo VI the Wise",
+              "timespan": {
+                "startYear": 866,
+                "endYear": 912
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 886,
+                  "endYear": 912
+                }
+              }]
+            },
+            {
+              "name": "Alexander (Byzantine emperor)",
+              "timespan": {
+                "startYear": 866,
+                "endYear": 913
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 912,
+                  "endYear": 913
+                }
+              }]
+            },
+            {
+              "name": "Constantine VII",
+              "timespan": {
+                "startYear": 905,
+                "endYear": 959
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 908,
+                    "endYear": 913
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 913,
+                    "endYear": 920
+                  }
+                },
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 920,
+                    "endYear": 945
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 945,
+                    "endYear": 959
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Romanos I Lekapenos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 870,
+                "endYear": 958
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 920,
+                  "endYear": 944
+                }
+              }]
+            },
+            {
+              "name": "Romanos II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 938,
+                "endYear": 963
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 959,
+                  "endYear": 963
+                }
+              }]
+            },
+            {
+              "name": "Nikephoros II Phokas",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 912,
+                "endYear": 969
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 963,
+                  "endYear": 969
+                }
+              }]
+            },
+            {
+              "name": "John I Tzimiskes",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 925,
+                "endYear": 976
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 969,
+                  "endYear": 976
+                }
+              }]
+            },
+            {
+              "name": "Basil II",
+              "timespan": {
+                "startYear": 958,
+                "endYear": 1025
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 976,
+                  "endYear": 1025
+                }
+              }]
+            },
+            {
+              "name": "Constantine VIII",
+              "timespan": {
+                "startYear": 960,
+                "endYear": 1028
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1025,
+                  "endYear": 1028
+                }
+              }]
+            },
+            {
+              "name": "Zoe Porphyrogenita",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 978,
+                "endYear": 1050
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 1028,
+                  "endYear": 1050
+                }
+              }]
+            },
+            {
+              "name": "Romanos III Argyros",
+              "timespan": {
+                "startYear": 968,
+                "endYear": 1034
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1028,
+                  "endYear": 1034
+                }
+              }]
+            },
+            {
+              "name": "Michael IV the Paphlagonian",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1010,
+                "endYear": 1041
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1034,
+                  "endYear": 1041
+                }
+              }]
+            },
+            {
+              "name": "Michael V Kalaphates",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1015,
+                "endYear": 1042
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1041,
+                  "endYear": 1042
+                }
+              }]
+            },
+            {
+              "name": "Theodora",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 980,
+                "endYear": 1056
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 1042,
+                  "endYear": 1056
+                }
+              }]
+            },
+            {
+              "name": "Constantine IX Monomachos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1000,
+                "endYear": 1055
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1042,
+                  "endYear": 1055
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Non-dynastic",
+          "people": [{
+            "name": "Michael VI Bringas",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": 990,
+              "endYear": 1059
+            },
+            "importance": "minor",
+            "titles": [{
+              "name": "augustus",
+              "timespan": {
+                "startYear": 1056,
+                "endYear": 1057
+              }
+            }]
+          }]
+        }
+      ]
+    },
+    {
+      "name": "Late Byzantine Emperors",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Komnenid-Doukids",
+          "people": [
+            {
+              "name": "Isaac I Komnenos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1007,
+                "endYearApproximate": true,
+                "endYear": 1061
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1057,
+                  "endYear": 1059
+                }
+              }]
+            },
+            {
+              "name": "Constantine X Doukas",
+              "timespan": {
+                "startYear": 1006,
+                "endYear": 1067
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1059,
+                  "endYear": 1067
+                }
+              }]
+            },
+            {
+              "name": "Michael VII Doukas",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1050,
+                "endYear": 1090
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "startYear": 1068,
+                    "endYear": 1071
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1071,
+                    "endYear": 1078
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Romanos IV Diogenes",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1030,
+                "endYear": 1072
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1068,
+                  "endYear": 1071
+                }
+              }]
+            },
+            {
+              "name": "Nikephoros III Botaneiates",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1002,
+                "endYear": 1081
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1078,
+                  "endYear": 1081
+                }
+              }]
+            },
+            {
+              "name": "Alexios I Komnenos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1048,
+                "endYear": 1118
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1081,
+                  "endYear": 1118
+                }
+              }]
+            },
+            {
+              "name": "John II Komnenos",
+              "timespan": {
+                "startYear": 1087,
+                "endYear": 1143
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1118,
+                  "endYear": 1143
+                }
+              }]
+            },
+            {
+              "name": "Manuel I Komnenos",
+              "timespan": {
+                "startYear": 1118,
+                "endYear": 1180
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1143,
+                  "endYear": 1180
+                }
+              }]
+            },
+            {
+              "name": "Alexios II Komnenos",
+              "timespan": {
+                "startYear": 1169,
+                "endYear": 1183
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1180,
+                  "endYear": 1183
+                }
+              }]
+            },
+            {
+              "name": "Andronikos I Komnenos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1118,
+                "endYear": 1185
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1183,
+                  "endYear": 1185
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Angelids",
+          "people": [
+            {
+              "name": "Isaac II Angelos",
+              "timespan": {
+                "startYear": 1156,
+                "endYear": 1204
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1185,
+                    "endYear": 1195
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1203,
+                    "endYear": 1204
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexios III Angelos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1153,
+                "endYear": 1211
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1195,
+                    "endYear": 1203
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startYear": 1203,
+                    "endYear": 1211
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexios IV Angelos",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1182,
+                "endYear": 1204
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1203,
+                  "endYear": 1204
+                }
+              }]
+            },
+            {
+              "name": "Alexios V Doukas",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1140,
+                "endYear": 1205
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1204,
+                  "endYear": 1204
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Latin Empire",
+          "people": [
+            {
+              "name": "Baldwin I",
+              "timespan": {
+                "startYear": 1172,
+                "endYearApproximate": true,
+                "endYear": 1205
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1204,
+                  "endYearApproximate": true,
+                  "endYear": 1205
+                }
+              }]
+            },
+            {
+              "name": "Henry of Flanders",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1174,
+                "endYear": 1216
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1204,
+                  "endYear": 1205
+                }
+              }]
+            },
+            {
+              "name": "Peter II of Courtenay",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1155,
+                "endYear": 1219
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1216,
+                  "endYear": 1217
+                }
+              }]
+            },
+            {
+              "name": "Yolanda of Flanders",
+              "timespan": {
+                "startYear": 1175,
+                "endYear": 1219
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augusta",
+                "timespan": {
+                  "startYear": 1217,
+                  "endYear": 1219
+                }
+              }]
+            },
+            {
+              "name": "Robert of Courtenay",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1180,
+                "endYear": 1228
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1221,
+                  "endYear": 1228
+                }
+              }]
+            },
+            {
+              "name": "John of Brienne",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1155,
+                "endYear": 1237
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1229,
+                  "endYear": 1237
+                }
+              }]
+            },
+            {
+              "name": "Baldwin II",
+              "timespan": {
+                "startYearApproximate": true,
+                "startYear": 1217,
+                "endYear": 1273
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1228,
+                  "endYear": 1261
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Palaiologos",
+          "people": [
+            {
+              "name": "Michael VIII Palaiologos",
+              "timespan": {
+                "startYear": 1223,
+                "endYear": 1283
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1261,
+                  "endYear": 1282
+                }
+              }]
+            },
+            {
+              "name": "Andronikos II Palaiologos",
+              "timespan": {
+                "startYear": 1259,
+                "endYear": 1332
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1282,
+                  "endYear": 1328
+                }
+              }]
+            },
+            {
+              "name": "Andronikos III Palaiologos",
+              "timespan": {
+                "startYear": 1297,
+                "endYear": 1341
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1328,
+                  "endYear": 1341
+                }
+              }]
+            },
+            {
+              "name": "John V Palaiologos",
+              "timespan": {
+                "startYear": 1332,
+                "endYear": 1391
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1341,
+                    "endYear": 1376
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "startYear": 1379,
+                    "endYear": 1391
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John VI Kantakouzenos",
+              "timespan": {
+                "startYear": 1292,
+                "endYear": 1383
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1347,
+                  "endYear": 1354
+                }
+              }]
+            },
+            {
+              "name": "Andronikos IV Palaiologos",
+              "timespan": {
+                "startYear": 1348,
+                "endYear": 1385
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1376,
+                  "endYear": 1379
+                }
+              }]
+            },
+            {
+              "name": "John VII Palaiologos",
+              "timespan": {
+                "startYear": 1370,
+                "endYear": 1408
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1390,
+                  "endYear": 1390
+                }
+              }]
+            },
+            {
+              "name": "Manuel II Palaiologos",
+              "timespan": {
+                "startYear": 1350,
+                "endYear": 1425
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1391,
+                  "endYear": 1425
+                }
+              }]
+            },
+            {
+              "name": "John VIII Palaiologos",
+              "timespan": {
+                "startYear": 1392,
+                "endYear": 1448
+              },
+              "importance": "minor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1425,
+                  "endYear": 1448
+                }
+              }]
+            },
+            {
+              "name": "Constantine XI Palaiologos",
+              "timespan": {
+                "startYear": 1404,
+                "endYear": 1453
+              },
+              "importance": "semimajor",
+              "titles": [{
+                "name": "augustus",
+                "timespan": {
+                  "startYear": 1448,
+                  "endYear": 1453
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "culturalDynastyGroups": {
+    "name": "Cultural Group 1",
+    "yStart": 0,
+    "dynasties": {
+      "name": "Cultural Figures",
+      "people": [
+        {
+          "name": "Lucretia",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -540,
+            "endYear": -510
+          },
+          "importance": "semimajor"
+        },
+        {
+          "name": "Verginia",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -465,
+            "endYearApproximate": true,
+            "endYear": -449
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Terence",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -195,
+            "endYear": -159
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Sallust",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -86,
+            "endYearApproximate": true,
+            "endYear": -35
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Virgil",
+          "timespan": {
+            "startYear": -70,
+            "endYear": -19
+          },
+          "importance": "semimajor"
+        },
+        {
+          "name": "Livy",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -64,
+            "endYearApproximate": true,
+            "endYear": 17
+          },
+          "importance": "semimajor"
+        },
+        {
+          "name": "Strabo",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -64,
+            "endYearApproximate": true,
+            "endYear": 24
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Jesus",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -7,
+            "endYearApproximate": true,
+            "endYear": 33
+          },
+          "importance": "transformational",
+          "backgroundStyle": "sanctified"
+        },
+        {
+          "name": "Plutarch",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 46,
+            "endYearApproximate": true,
+            "endYear": 120
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Tacitus",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 56,
+            "endYearApproximate": true,
+            "endYear": 117
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Seutonius",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 69,
+            "endYearApproximate": true,
+            "endYear": 122
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Antinous",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 111,
+            "endYearApproximate": true,
+            "endYear": 130
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Cassius Dio",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 150,
+            "endYear": 235
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Ammianus Marcellinus",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 325,
+            "endYearApproximate": true,
+            "endYear": 391
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Jerome",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 347,
+            "endYear": 420
+          },
+          "importance": "semimajor",
+          "backgroundStyle": "sanctified"
+        },
+        {
+          "name": "Augustine of Hippo",
+          "timespan": {
+            "startYear": 354,
+            "endYear": 430
+          },
+          "importance": "major",
+          "backgroundStyle": "sanctified"
+        },
+        {
+          "name": "Procopius",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 500,
+            "endYearApproximate": true,
+            "endYear": 565
+          },
+          "importance": "minor"
+        }
+      ]
+    }
+  },
+  "foreignNations": [
+    {
+      "name": "Sabines",
+      "timespan": {
+        "startYear": -900,
+        "endYear": -504
+      },
+      "conflicts": [
+        {
+          "name": "War with Tullus Hostilius",
+          "timespan": {
+            "startYear": -650,
+            "endYear": -649
+          }
+        },
+        {
+          "name": "War with Tarquinius Priscus",
+          "timespan": {
+            "startYear": -586,
+            "endYear": -585
+          }
+        },
+        {
+          "name": "War with the early republic 505-4 BC",
+          "timespan": {
+            "startYear": -505,
+            "endYear": -504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samnites",
+      "timespan": {
+        "startYear": -354,
+        "endYear": -82
+      },
+      "conflicts": [
+        {
+          "name": "First Samnite War",
+          "timespan": {
+            "startYear": -343,
+            "endYear": -341
+          }
+        },
+        {
+          "name": "Second Samnite War",
+          "timespan": {
+            "startYear": -326,
+            "endYear": -304
+          }
+        },
+        {
+          "name": "Third Samnite War",
+          "timespan": {
+            "startYear": -298,
+            "endYear": -290
+          }
+        },
+        {
+          "name": "Second Punic War",
+          "timespan": {
+            "startYear": -218,
+            "endYear": -201
+          }
+        },
+        {
+          "name": "Social War",
+          "timespan": {
+            "startYear": -91,
+            "endYear": -88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Etruscans",
+      "timespan": {
+        "startYear": -768,
+        "endYear": -264
+      },
+      "conflicts": {
+        "name": "Third Samnite War",
+        "timespan": {
+          "startYear": -298,
+          "endYear": -290
+        }
+      }
+    },
+    {
+      "name": "Carthage",
+      "timespan": {
+        "startYear": -814,
+        "endYear": -146
+      },
+      "people": [
+        {
+          "name": "Hamilcar Barca",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -275,
+            "endYear": -228
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Hannibal",
+          "timespan": {
+            "startYear": -247,
+            "endYearApproximate": true,
+            "endYear": -182
+          },
+          "importance": "transformational"
+        },
+        {
+          "name": "Hasdrubal",
+          "timespan": {
+            "startYear": -245,
+            "endYear": -207
+          },
+          "importance": "minor"
+        }
+      ],
+      "conflicts": [
+        {
+          "name": "First Punic War",
+          "timespan": {
+            "startYear": -264,
+            "endYear": -241
+          }
+        },
+        {
+          "name": "Second Punic War",
+          "timespan": {
+            "startYear": -218,
+            "endYear": -201
+          }
+        },
+        {
+          "name": "Third Punic War",
+          "timespan": {
+            "startYear": -149,
+            "endYear": -146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gauls",
+      "timespan": {
+        "startYear": -450,
+        "endYear": -50
+      },
+      "people": {
+        "name": "Vercingetorix",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": -82,
+          "endYear": -46
+        },
+        "importance": "minor"
+      },
+      "conflicts": [
+        {
+          "name": "First Sack of Rome",
+          "timespan": {
+            "startYear": -391,
+            "endYear": -387
+          }
+        },
+        {
+          "name": "Third Samnite War",
+          "timespan": {
+            "startYear": -298,
+            "endYear": -290
+          }
+        },
+        {
+          "name": "Roman-Gallic Wars",
+          "timespan": {
+            "startYear": -284,
+            "endYear": -283
+          }
+        },
+        {
+          "name": "Roman-Gallic Wars",
+          "timespan": {
+            "startYear": -223,
+            "endYear": -193
+          }
+        },
+        {
+          "name": "Gallic Wars",
+          "timespan": {
+            "startYear": -58,
+            "endYear": -50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Macedonian Empire",
+      "timespan": {
+        "startYear": -359,
+        "endYear": -149
+      },
+      "people": [
+        {
+          "name": "Phillip II of Macedon",
+          "timespan": {
+            "startYear": -382,
+            "endYear": -336
+          },
+          "importance": "semimajor"
+        },
+        {
+          "name": "Alexander the Great",
+          "timespan": {
+            "startYear": -356,
+            "endYear": -323
+          },
+          "importance": "major"
+        },
+        {
+          "name": "Philip V of Macedon",
+          "timespan": {
+            "startYear": -238,
+            "endYear": -179
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Perseus of Macedon",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -212,
+            "endYear": -166
+          },
+          "importance": "minor"
+        }
+      ],
+      "conflicts": [
+        {
+          "name": "First Macedonian War",
+          "timespan": {
+            "startYear": -214,
+            "endYear": -205
+          }
+        },
+        {
+          "name": "Second Macedonian War",
+          "timespan": {
+            "startYear": -200,
+            "endYear": -196
+          }
+        },
+        {
+          "name": "Third Macedonian War",
+          "timespan": {
+            "startYear": -172,
+            "endYear": -168
+          }
+        },
+        {
+          "name": "Fourth Macedonian War",
+          "timespan": {
+            "startYear": -150,
+            "endYear": -148
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hellenistic Greece",
+      "timespan": {
+        "startYear": -323,
+        "endYear": -146
+      },
+      "people": {
+        "name": "Pyrrhus of Epirus",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": -319,
+          "endYear": -272
+        },
+        "importance": "semimajor"
+      },
+      "conflicts": {
+        "name": "Fourth Macedonian War",
+        "timespan": {
+          "startYear": -281,
+          "endYear": -275
+        }
+      }
+    },
+    {
+      "name": "Seleucid Empire",
+      "timespan": {
+        "startYear": -323,
+        "endYear": -63
+      },
+      "people": [
+        {
+          "name": "Seleucus I Nicator",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -358,
+            "endYear": -281
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Antiochus III the Great",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": -241,
+            "endYear": -187
+          },
+          "importance": "minor"
+        }
+      ],
+      "conflicts": [
+        {
+          "name": "Roman-Syrian War",
+          "timespan": {
+            "startYear": -192,
+            "endYear": -188
+          }
+        },
+        {
+          "name": "Fourth Macedonian War",
+          "timespan": {
+            "startYear": -281,
+            "endYear": -275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ptolemaic Kingdom",
+      "timespan": {
+        "startYear": -323,
+        "endYear": -30
+      },
+      "people": {
+        "name": "Cleopatra",
+        "timespan": {
+          "startYear": -69,
+          "endYear": -30
+        },
+        "importance": "major"
+      }
+    },
+    {
+      "name": "Armenia",
+      "timespan": {
+        "startYear": -331,
+        "endYear": 428
+      },
+      "people": {
+        "name": "Tigranes the Great",
+        "timespan": {
+          "startYear": -135,
+          "endYear": -55
+        },
+        "importance": "semimajor"
+      }
+    },
+    {
+      "name": "Parthian Empire",
+      "timespan": {
+        "startYear": -247,
+        "endYear": 224
+      },
+      "people": {
+        "name": "Mithridates II of Parthia",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": -143,
+          "endYearApproximate": true,
+          "endYear": -88
+        },
+        "importance": "minor"
+      },
+      "conflicts": [
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": -53,
+            "endYear": -51
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": -40,
+            "endYear": -33
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": 36,
+            "endYear": 37
+          }
+        },
+        {
+          "name": "Roman–Parthian War of 58–63",
+          "timespan": {
+            "startYear": 58,
+            "endYear": 63
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": 113,
+            "endYear": 117
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": 161,
+            "endYear": 165
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": 195,
+            "endYear": 197
+          }
+        },
+        {
+          "name": "Roman-Parthian Wars",
+          "timespan": {
+            "startYear": 215,
+            "endYear": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sassanid Empire",
+      "timespan": {
+        "startYear": 224,
+        "endYear": 641
+      },
+      "people": [
+        {
+          "name": "Ardashir I",
+          "timespan": {
+            "startYear": 180,
+            "endYear": 241
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Shapur I",
+          "timespan": {
+            "startYearApproximate": true,
+            "startYear": 215,
+            "endYear": 272
+          },
+          "importance": "minor"
+        },
+        {
+          "name": "Sharpur II",
+          "timespan": {
+            "startYear": 309,
+            "endYear": 379
+          },
+          "importance": "major"
+        }
+      ],
+      "conflicts": [
+        {
+          "name": "Ardashir I#War with Rome",
+          "timespan": {
+            "startYear": 230,
+            "endYear": 232
+          }
+        },
+        {
+          "name": "Shapur I#War against the Roman Empire",
+          "timespan": {
+            "startYear": 237,
+            "endYear": 244
+          }
+        },
+        {
+          "name": "Shapur I#War against the Roman Empire",
+          "timespan": {
+            "startYear": 251,
+            "endYear": 260
+          }
+        },
+        {
+          "name": "Roman-Persian Wars",
+          "timespan": {
+            "startYear": 282,
+            "endYear": 283
+          }
+        },
+        {
+          "name": "Roman-Persian Wars",
+          "timespan": {
+            "startYear": 296,
+            "endYear": 299
+          }
+        },
+        {
+          "name": "Roman-Persian Wars",
+          "timespan": {
+            "startYear": 335,
+            "endYear": 350
+          }
+        },
+        {
+          "name": "Roman-Persian Wars",
+          "timespan": {
+            "startYear": 359,
+            "endYear": 363
+          }
+        },
+        {
+          "name": "Roman-Sassanid war (421-422)",
+          "timespan": {
+            "startYear": 421,
+            "endYear": 422
+          }
+        },
+        {
+          "name": "Roman-Persian Wars",
+          "timespan": {
+            "startYear": 440,
+            "endYear": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alemanni",
+      "timespan": {
+        "startYear": 213,
+        "endYear": 496
+      }
+    },
+    {
+      "name": "Vandals",
+      "timespan": {
+        "startYear": 250,
+        "endYear": 534
+      },
+      "people": {
+        "name": "Genseric",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": 389,
+          "endYear": 477
+        },
+        "importance": "major"
+      }
+    },
+    {
+      "name": "Franks",
+      "timespan": {
+        "startYear": 328,
+        "endYear": 843
+      },
+      "people": {
+        "name": "Charlemagne",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": 742,
+          "endYear": 814
+        },
+        "importance": "major"
+      }
+    },
+    {
+      "name": "Kingdom of France",
+      "timespan": {
+        "startYear": 843,
+        "endYear": 1791
+      }
+    },
+    {
+      "name": "Visigoths",
+      "timespan": {
+        "startYear": 376,
+        "endYear": 712
+      },
+      "people": {
+        "name": "Alaric",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": 370,
+          "endYear": 410
+        },
+        "importance": "major"
+      },
+      "conflicts": {
+        "name": "Gothic War (376–382)",
+        "timespan": {
+          "startYear": 376,
+          "endYear": 382
+        }
+      }
+    },
+    {
+      "name": "Ostrogoths",
+      "timespan": {
+        "startYear": 376,
+        "endYear": 562
+      },
+      "people": {
+        "name": "Theoderic the Great",
+        "timespan": {
+          "startYear": 454,
+          "endYear": 526
+        },
+        "importance": "major"
+      }
+    },
+    {
+      "name": "Huns",
+      "timespan": {
+        "startYear": 380,
+        "endYear": 469
+      },
+      "people": {
+        "name": "Attila The Hun",
+        "timespan": {
+          "startYearApproximate": true,
+          "startYear": 400,
+          "endYear": 453
+        },
+        "importance": "transformational"
+      }
+    },
+    {
+      "name": "Islamic Caliphate",
+      "timespan": {
+        "startYear": 632,
+        "endYear": 1924
+      },
+      "people": {
+        "name": "Muhammad",
+        "timespan": {
+          "startYear": 570,
+          "endYear": 632
+        },
+        "importance": "transformational"
+      }
+    }
+  ]
+}

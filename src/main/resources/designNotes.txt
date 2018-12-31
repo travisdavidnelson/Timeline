@@ -1,0 +1,7 @@
+TemporalParser
+	Temporal parseDateString(String)
+		returns Instant where possible, otherwise LocalDate
+
+		
+		
+		
