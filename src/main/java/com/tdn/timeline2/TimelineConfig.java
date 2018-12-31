@@ -12,9 +12,11 @@ public class TimelineConfig extends TimelineEvent {
 	private int pixelsPerYear = 0;
 	private int heightInPixels = 0;
 	private Map<String, Integer> importanceHeights = null;
+	private Map<String, Integer> importanceOffsets = null;
 	
 	public TimelineConfig() {
 		importanceHeights = new TreeMap<String, Integer>();
+		importanceOffsets = new TreeMap<String, Integer>();
 	}
 
 	public boolean getAddCenturyTickLines() {
@@ -68,6 +70,23 @@ public class TimelineConfig extends TimelineEvent {
 		}
 		else {
 			System.err.println("No height for importance " + importance);
+		}
+		return result;
+	}
+
+	public Map<String, Integer> getImportanceOffsets() {
+		return importanceOffsets;
+	}
+	public void setImportanceOffsets(Map<String, Integer> importanceOffsets) {
+		this.importanceOffsets = importanceOffsets;
+	}
+	public Integer getOffset(String importance) {
+		Integer result = null;
+		if (importanceOffsets.containsKey(importance)) {
+			result = importanceOffsets.get(importance);
+		}
+		else {
+			System.err.println("No offset for importance " + importance);
 		}
 		return result;
 	}

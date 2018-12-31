@@ -162,16 +162,7 @@ public class TimelineSvgBuilder {
 		for (TimelineEvent title : person.getTitles()) {
 			getTitleSVG(person, title, stringBuilder);
 		}
-		int yOffset = 5;
-		if (Person.TRANSFORMATIONAL.equals(person.getImportance())) {
-			yOffset = 12;
-		}
-		else if (Person.MAJOR.equals(person.getImportance())) {
-			yOffset = 10;
-		}
-		if (Person.SEMI_MAJOR.equals(person.getImportance())) {
-			yOffset = 8;
-		}
+		int yOffset = timeline.getConfig().getOffset(person.getImportance());
 		int textX = x + 2;
 		if (person.getTimespan().getStartYearApproximate()) {
 			textX += 2;

@@ -15,6 +15,12 @@
       "semimajor":10,
       "major":15,
       "transformational":20
+    },
+    "importanceOffsets":{
+      "minor":5,
+      "semimajor":8,
+      "major":10,
+      "transformational":12
     }
   },
   "backgroundEvents": [
