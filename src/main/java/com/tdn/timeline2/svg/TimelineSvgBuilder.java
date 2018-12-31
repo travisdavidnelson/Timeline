@@ -8,24 +8,19 @@ import com.tdn.timeline2.Dynasty;
 import com.tdn.timeline2.DynastyGroup;
 import com.tdn.timeline2.TimelineEvent;
 import com.tdn.util.FileUtilities;
-//import com.tdn.timeline.model.Nation;
 import com.tdn.timeline2.Person;
 import com.tdn.timeline2.Timeline;
 
 public class TimelineSvgBuilder {
 
 	public static int xStart = 100;
-	public static int xEnd = 100 + (2 * 2300);
 	public static int yTimelineStart = 20;
-	public static int yMax = 1500;
 	public static int majorTickHalfLength = 7;
 	public static int minorTickHalfLength = 5;
 	public static int dynastyStart = 25;
 	public static int dynastyDiff = 25;
 	public static int lifetimeYDiff = 5;
 	public static int fontSize = 10;
-	public static int minDisplayYear = -800;
-	public static int maxDisplayYear = 1500;
 	public static int fateWidth = 5;
 	public static int approximateYearPersonAdjustment = 2;
 	public static int approximateYearTitleAdjustment = 2;
@@ -35,7 +30,12 @@ public class TimelineSvgBuilder {
 	private String svg;
 
 	private double slope = 0.0;
+	private int width;
+	private int yMax;
 	
+	private int minDisplayYear;
+	private int maxDisplayYear;
+
 	private int nextPersonYStart = 50;
 	private int maxLifetimeYEnd = 0;
 	private Person lastPersonInGroup = null;
@@ -45,6 +45,12 @@ public class TimelineSvgBuilder {
 	
 	public TimelineSvgBuilder(Timeline timeline) {
 		this.timeline = timeline;
+		this.minDisplayYear = timeline.getTimespan().getStartYear();
+		this.maxDisplayYear = timeline.getTimespan().getEndYear();
+		this.width = xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
+		System.out.println("Width is " + width + " pixels");
+		this.yMax = timeline.getHeightInPixels();
+		System.out.println("Timeline height is " + yMax + " pixels");
 	}
 	
 	public String toSVG() {
@@ -84,11 +90,11 @@ public class TimelineSvgBuilder {
 			StringBuilder result = new StringBuilder();
 			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./RomeStyles.css\" ?>");
 			result.append("	<svg x=\"0px\" y=\"0px\" width=\"");
-			result.append(xEnd + xStart);
+			result.append(width + xStart);
 			result.append("px\" height=\""+yMax+"px\" viewBox=\"0 0 ");
-			result.append(xEnd + xStart);
+			result.append(width + xStart);
 			result.append(" "+yMax+"\" enable-background=\"new 0 0 ");
-			result.append(xEnd + xStart);
+			result.append(width + xStart);
 			result.append(" "+yMax+"\" xml:space=\"preserve\">\n");
 			result.append(" " + getGradientDefs() + "\n");
 			result.append(backgroundStringBuilder);
@@ -309,8 +315,8 @@ public class TimelineSvgBuilder {
 	
 	protected double slope() {
 		if (slope == 0.0) {
-			slope = (double) (xEnd - xStart) / (timeline.getTimespan().getEndYear() - timeline.getTimespan().getStartYear());
-			System.out.println("Calculated slope as "+slope+" pixels/year");
+			slope = timeline.getPixelsPerYear();
+			System.out.println("Timeline has " + slope + " pixels/year");
 		}
 		return slope;
 	}	

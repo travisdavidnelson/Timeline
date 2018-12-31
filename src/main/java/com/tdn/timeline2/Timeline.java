@@ -15,6 +15,8 @@ public class Timeline extends TimelineEvent {
 	private boolean addCenturyTickLines = false;
 	private boolean addDecadeTickLines = false;
 	private String defaultPersonStyle = null;
+	private int pixelsPerYear = 0;
+	private int heightInPixels = 0;
 	private List<TimelineEvent> backgroundEvents;
 	private List<DynastyGroup> politicalDynastyGroups;
 	
@@ -40,9 +42,22 @@ public class Timeline extends TimelineEvent {
 	public String getDefaultPersonStyle() {
 		return defaultPersonStyle;
 	}
-
 	public void setDefaultPersonStyle(String defaultPersonStyle) {
 		this.defaultPersonStyle = defaultPersonStyle;
+	}
+
+	public int getPixelsPerYear() {
+		return pixelsPerYear;
+	}
+	public void setPixelsPerYear(int pixelsPerYear) {
+		this.pixelsPerYear = pixelsPerYear;
+	}
+
+	public int getHeightInPixels() {
+		return heightInPixels;
+	}
+	public void setHeightInPixels(int heightInPixels) {
+		this.heightInPixels = heightInPixels;
 	}
 
 	public List<TimelineEvent> getBackgroundEvents() {

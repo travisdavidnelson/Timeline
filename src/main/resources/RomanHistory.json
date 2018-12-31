@@ -7,6 +7,8 @@
   "addCenturyTickLines": true,
   "addDecadeTickLines": true,
   "defaultPersonStyle": "roman",
+  "pixelsPerYear": 2,
+  "heightInPixels": 1000,
   "backgroundEvents": [
     {
       "name": "Roman Kingdom",
