@@ -12,6 +12,7 @@ import com.tdn.timeline2.svg.TimelineSvgBuilder;
 import com.tdn.util.FileUtilities;
 
 public class Timeline extends TimelineEvent {
+	private String id = null;
 	private boolean addCenturyTickLines = false;
 	private boolean addDecadeTickLines = false;
 	private String defaultPersonStyle = null;
@@ -23,6 +24,13 @@ public class Timeline extends TimelineEvent {
 	public Timeline() {
 		backgroundEvents = new ArrayList<TimelineEvent>();
 		politicalDynastyGroups = new ArrayList<DynastyGroup>();
+	}
+
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
 	}
 
 	public boolean isAddCenturyTickLines() {
@@ -92,16 +100,32 @@ public class Timeline extends TimelineEvent {
 					.registerTypeAdapter(Timespan.class, new TimespanDeserializer())
 					.create();
 			Timeline timeline = gson.fromJson(json, Timeline.class);
+			timeline.setId(id);
 			System.out.println(timeline);
 			TimelineSvgBuilder svgBuilder = new TimelineSvgBuilder(timeline);
+
+			File outputFolder = new File("./output");
+			if (!outputFolder.exists()) {
+				outputFolder.mkdirs();
+			}
 		
-			File htmlFile = new File("./" + id + ".html");
-			FileWriter fileWriter = new FileWriter(htmlFile);
+			String cssContents = FileUtilities.getFileContents("src/main/resources/" + id + ".css");
+			File cssFile = new File(outputFolder, "" + id + ".css");
+			System.out.println("Writing CSS file " + cssFile);
+			FileWriter fileWriter = new FileWriter(cssFile);
+			fileWriter.append(cssContents);
+			fileWriter.flush();
+			fileWriter.close();
+
+			File htmlFile = new File(outputFolder, "" + id + ".html");
+			System.out.println("Writing HTML file " + htmlFile);
+			fileWriter = new FileWriter(htmlFile);
 			fileWriter.append(svgBuilder.toHTML());
 			fileWriter.flush();
 			fileWriter.close();
 		
-			File svgFile = new File("./" + id + ".svg");
+			File svgFile = new File(outputFolder, "" + id + ".svg");
+			System.out.println("Writing SVG file " + svgFile);
 			fileWriter = new FileWriter(svgFile);
 			fileWriter.append(svgBuilder.toSVG());
 			fileWriter.flush();
@@ -110,5 +134,6 @@ public class Timeline extends TimelineEvent {
 		catch (IOException e) {
 			e.printStackTrace();
 		} 
+		System.out.println("Done generating timeline " + id);
 	}
 }

@@ -26,6 +26,7 @@
 
 .dynasty {font-family: serif; font-size: 14px; kerning: 1; stroke:none; fill:#000000;}
 
+.footprint {fill-opacity:0.0; font-family: serif;}
 .transformational {font-family: serif; font-size: 12px; kerning: 2; stroke:none; fill:#000000;}
 .major {font-family: serif; font-size: 10px; kerning: 1; stroke:none; fill:#000000;}
 .semimajor {font-family: serif; font-size: 7px; kerning: 1; stroke:none; fill:#000000;}

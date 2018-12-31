@@ -88,7 +88,9 @@ public class TimelineSvgBuilder {
 			}
 
 			StringBuilder result = new StringBuilder();
-			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./RomeStyles.css\" ?>");
+			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./");
+			result.append(timeline.getId());
+			result.append(".css\" ?>");
 			result.append("	<svg x=\"0px\" y=\"0px\" width=\"");
 			result.append(width + xStart);
 			result.append("px\" height=\""+yMax+"px\" viewBox=\"0 0 ");
@@ -297,7 +299,9 @@ public class TimelineSvgBuilder {
 		result.append("<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\">\n");
 		result.append("<head>\n");
 		result.append("  <title>Timeline</title>\n");
-		result.append("  <link type=\"text/css\" rel=\"stylesheet\" href=\"./RomeStyles.css\"/>");
+		result.append("  <link type=\"text/css\" rel=\"stylesheet\" href=\"./");
+		result.append(timeline.getId());
+		result.append(".css\"/>");
 		result.append("</head>\n");
 		result.append("<body>\n");
 		result.append(toSVG());
