@@ -10,7 +10,7 @@
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 2,
     "heightInPixels": 1000,
-	"xStart": 100,
+	"xStart": 50,
 	"yTimelineStart": 20,
 	"majorTickHalfLength": 7,
 	"minorTickHalfLength": 5,
