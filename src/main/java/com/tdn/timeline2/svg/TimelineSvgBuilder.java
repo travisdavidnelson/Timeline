@@ -46,7 +46,7 @@ public class TimelineSvgBuilder {
 		this.maxDisplayYear = timeline.getTimespan().getEndYear();
 
 		xStart = timeline.getConfig().getxStart();
-		this.width = xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
+		this.width = 2 * xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
 		System.out.println("Width is " + width + " pixels");
 		this.yMax = timeline.getConfig().getHeightInPixels();
 		System.out.println("Timeline height is " + yMax + " pixels");
@@ -100,11 +100,11 @@ public class TimelineSvgBuilder {
 			result.append(timeline.getId());
 			result.append(".css\" ?>");
 			result.append("	<svg x=\"0px\" y=\"0px\" width=\"");
-			result.append(width + xStart);
+			result.append(width);
 			result.append("px\" height=\""+yMax+"px\" viewBox=\"0 0 ");
-			result.append(width + xStart);
+			result.append(width);
 			result.append(" "+yMax+"\" enable-background=\"new 0 0 ");
-			result.append(width + xStart);
+			result.append(width);
 			result.append(" "+yMax+"\" xml:space=\"preserve\">\n");
 			result.append(" " + getGradientDefs() + "\n");
 			result.append(backgroundStringBuilder);
