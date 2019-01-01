@@ -9,12 +9,14 @@ public class Timeline extends TimelineEvent {
 	
 	private List<TimelineEvent> backgroundEvents;
 	private List<DynastyGroup> politicalDynastyGroups;
+	private List<DynastyGroup> culturalDynastyGroups;
 	
 	public Timeline() {
 		config = new TimelineConfig();
 		
 		backgroundEvents = new ArrayList<TimelineEvent>();
 		politicalDynastyGroups = new ArrayList<DynastyGroup>();
+		culturalDynastyGroups = new ArrayList<DynastyGroup>();
 	}
 
 	public String getId() {
@@ -47,7 +49,17 @@ public class Timeline extends TimelineEvent {
 	public void setPoliticalDynastyGroups(List<DynastyGroup> politicalDynastyGroups) {
 		this.politicalDynastyGroups = politicalDynastyGroups;
 	}
-	public void addPoliticalDynastyGroups(DynastyGroup dynastyGroup) {
+	public void addPoliticalDynastyGroup(DynastyGroup dynastyGroup) {
 		this.politicalDynastyGroups.add(dynastyGroup);
+	}
+
+	public List<DynastyGroup> getCulturalDynastyGroups() {
+		return culturalDynastyGroups;
+	}
+	public void setCulturalDynastyGroups(List<DynastyGroup> culturalDynastyGroups) {
+		this.culturalDynastyGroups = culturalDynastyGroups;
+	}
+	public void addCulturalDynastyGroup(DynastyGroup dynastyGroup) {
+		this.culturalDynastyGroups.add(dynastyGroup);
 	}
 }

@@ -72,11 +72,11 @@ public class TimelineSvgBuilder {
 				dynastyStart = 25;
 				getDynastyGroupSVG(series, foregroundStringBuilder);
 			}
-//			dynastyStart = maxLifetimeYEnd + dynastyDiff;
-//			for (DynastyGroup series : culturalDynastyGroups) {
-//				getDynastyGroupSVG(series, foregroundStringBuilder);
-//			}
-//			dynastyStart = maxLifetimeYEnd + dynastyDiff;
+			dynastyStart = maxLifetimeYEnd + dynastyDiff;
+			for (DynastyGroup series : timeline.getCulturalDynastyGroups()) {
+				getDynastyGroupSVG(series, foregroundStringBuilder);
+			}
+			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, yearMapping(minDisplayYear), yearMapping(maxDisplayYear), "timeline"));
 			timelineYPositions.add(nextTimelineY);

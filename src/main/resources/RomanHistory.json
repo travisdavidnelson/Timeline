@@ -6126,10 +6126,10 @@
       ]
     }
   ],
-  "culturalDynastyGroups": {
+  "culturalDynastyGroups": [{
     "name": "Cultural Group 1",
     "yStart": 0,
-    "dynasties": {
+    "dynasties": [{
       "name": "Cultural Figures",
       "people": [
         {
@@ -6298,8 +6298,8 @@
           "importance": "minor"
         }
       ]
-    }
-  },
+    }]
+  }],
   "foreignNations": [
     {
       "name": "Sabines",
