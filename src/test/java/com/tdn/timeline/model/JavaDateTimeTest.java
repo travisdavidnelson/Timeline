@@ -70,8 +70,8 @@ public class JavaDateTimeTest {
 		LocalDate ld4 = LocalDate.parse("-0001-01-01");
 		System.out.println(ld4);
 
-		Instant i1 = Instant.from(ld1);
-		System.out.println(i1);
+//		Instant i1 = Instant.from(ld1);
+//		System.out.println(i1);
 		
 //		Duration d0 = Duration.between(ld1, ld2);
 //		System.out.println(d0.toDays());

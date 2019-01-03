@@ -2,6 +2,7 @@ package com.tdn.timeline.model;
 
 import static org.junit.Assert.*;
 
+import java.io.IOException;
 import java.lang.reflect.Type;
 
 import org.junit.Test;
@@ -19,7 +20,13 @@ public class DateRangeTest {
 
 	@Test
 	public void test_deserialization() {
-		String json = FileUtilities.getFileContents("src/main/resources/DateRange.json");
+		String json = null;
+		try {
+			json = FileUtilities.getFileContents("src/main/resources/DateRange.json");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		Gson gson = new GsonBuilder()
 				.registerTypeAdapter(DateRange.class, new DateRangeDeserializer())
 				.create();
@@ -32,11 +39,11 @@ public class DateRangeTest {
 class DateRangeDeserializer implements JsonDeserializer<DateRange> {
 
 	@Override
-	public DateRange deserialize(JsonElement jsonElement, Type type, JsonDeserializationContext context)
+	public DateRange deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context)
 			throws JsonParseException {
 		JsonObject jsonData = null;
-		if (JsonObject.class.isInstance(jsonElement)) {
-			jsonData = jsonElement.getAsJsonObject();
+		if (JsonObject.class.isInstance(json)) {
+			jsonData = json.getAsJsonObject();
 		}
 		assert jsonData != null;
 		int startYear = jsonData.get("startYear").getAsInt();

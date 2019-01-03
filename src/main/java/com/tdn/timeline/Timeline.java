@@ -559,7 +559,13 @@ public class Timeline extends NamedEvent {
 	}
 
 	private String getGradientDefs() {
-		String result = FileUtilities.getFileContents("./gradientDefs.txt");
+		String result = null;
+		try {
+			result = FileUtilities.getFileContents("./gradientDefs.txt");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return result;
 	}
 	

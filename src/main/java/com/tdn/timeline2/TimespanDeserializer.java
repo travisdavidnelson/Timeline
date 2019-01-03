@@ -11,11 +11,11 @@ import com.google.gson.JsonParseException;
 public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 
 	@Override
-	public Timespan deserialize(JsonElement jsonElement, Type type, JsonDeserializationContext context)
+	public Timespan deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context)
 			throws JsonParseException {
 		JsonObject jsonData = null;
-		if (JsonObject.class.isInstance(jsonElement)) {
-			jsonData = jsonElement.getAsJsonObject();
+		if (JsonObject.class.isInstance(json)) {
+			jsonData = json.getAsJsonObject();
 		}
 		assert jsonData != null;
 		int startYear = jsonData.get("startYear").getAsInt();

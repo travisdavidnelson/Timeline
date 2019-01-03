@@ -2219,6 +2219,15 @@
             }]
           },
           {
+            "name": "Quintus Sertorius",
+            "timespan": {
+              "startYearApproximate": true,
+              "startYear": -123,
+              "endYear": -72
+            },
+            "importance": "semimajor"
+          },
+          {
             "name": "Crassus",
             "timespan": {
               "startYearApproximate": true,

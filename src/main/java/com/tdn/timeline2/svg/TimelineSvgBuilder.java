@@ -1,5 +1,6 @@
 package com.tdn.timeline2.svg;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
@@ -402,7 +403,12 @@ public class TimelineSvgBuilder {
 	}
 	
 	private String getGradientDefs() {
-		String result = FileUtilities.getFileContents("src/main/resources/gradientDefs.txt");
+		String result = "gradientDefs.txt not found";
+		try {
+			result = FileUtilities.getFileContents("src/main/resources/gradientDefs.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		return result;
 	}
 
