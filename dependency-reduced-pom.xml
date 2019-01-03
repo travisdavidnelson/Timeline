@@ -27,7 +27,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.tdn.timeline2.TimelineBuilder</mainClass>
+                  <mainClass>com.tdn.timeline.TimelineBuilder</mainClass>
                 </transformer>
               </transformers>
             </configuration>

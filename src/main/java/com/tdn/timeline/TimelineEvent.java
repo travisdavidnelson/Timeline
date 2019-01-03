@@ -1,4 +1,4 @@
-package com.tdn.timeline2;
+package com.tdn.timeline;
 
 
 public class TimelineEvent {

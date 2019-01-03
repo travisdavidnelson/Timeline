@@ -1,7 +1,5 @@
 package com.tdn.timeline.model;
 
-import static org.junit.Assert.*;
-
 import java.io.IOException;
 import java.lang.reflect.Type;
 
@@ -14,9 +12,10 @@ import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
+import com.tdn.timeline.Timespan;
 import com.tdn.util.FileUtilities;
 
-public class DateRangeTest {
+public class TimespanTest {
 
 	@Test
 	public void test_deserialization() {
@@ -28,18 +27,18 @@ public class DateRangeTest {
 			e.printStackTrace();
 		}
 		Gson gson = new GsonBuilder()
-				.registerTypeAdapter(DateRange.class, new DateRangeDeserializer())
+				.registerTypeAdapter(Timespan.class, new DateRangeDeserializer())
 				.create();
-		DateRange dateRange = gson.fromJson(json, DateRange.class);
+		Timespan dateRange = gson.fromJson(json, Timespan.class);
 		System.out.println(dateRange);
 	}
 
 }
 
-class DateRangeDeserializer implements JsonDeserializer<DateRange> {
+class DateRangeDeserializer implements JsonDeserializer<Timespan> {
 
 	@Override
-	public DateRange deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context)
+	public Timespan deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context)
 			throws JsonParseException {
 		JsonObject jsonData = null;
 		if (JsonObject.class.isInstance(json)) {
@@ -49,7 +48,9 @@ class DateRangeDeserializer implements JsonDeserializer<DateRange> {
 		int startYear = jsonData.get("startYear").getAsInt();
 		int endYear = jsonData.get("endYear").getAsInt();
 		
-		DateRange result = new DateRange(startYear, endYear);
+		Timespan result = new Timespan();
+		result.setStartYear(startYear);
+		result.setEndYear(endYear);
 		result.setStartYearApproximate(jsonData.has("startYearApproximate"));
 		result.setEndYearApproximate(jsonData.has("endYearApproximate"));
 		return result;

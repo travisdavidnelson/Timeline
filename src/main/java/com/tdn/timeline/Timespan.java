@@ -1,4 +1,4 @@
-package com.tdn.timeline2;
+package com.tdn.timeline;
 
 public class Timespan {
 	public static final String FADE_IN_MASK = "fadeInMask";

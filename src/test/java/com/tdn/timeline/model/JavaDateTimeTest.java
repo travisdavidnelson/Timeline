@@ -1,7 +1,5 @@
 package com.tdn.timeline.model;
 
-import static org.junit.Assert.*;
-
 import java.time.Duration;
 import java.time.Instant;
 import java.time.LocalDate;

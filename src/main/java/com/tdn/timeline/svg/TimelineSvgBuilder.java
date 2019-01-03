@@ -1,16 +1,16 @@
-package com.tdn.timeline2.svg;
+package com.tdn.timeline.svg;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import com.tdn.timeline2.Dynasty;
-import com.tdn.timeline2.DynastyGroup;
-import com.tdn.timeline2.TimelineEvent;
+import com.tdn.timeline.Dynasty;
+import com.tdn.timeline.DynastyGroup;
+import com.tdn.timeline.Person;
+import com.tdn.timeline.Timeline;
+import com.tdn.timeline.TimelineEvent;
 import com.tdn.util.FileUtilities;
-import com.tdn.timeline2.Person;
-import com.tdn.timeline2.Timeline;
 
 public class TimelineSvgBuilder {
 

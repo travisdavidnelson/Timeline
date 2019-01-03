@@ -1,4 +1,4 @@
-package com.tdn.timeline2;
+package com.tdn.timeline;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.tdn.timeline2.svg.TimelineSvgBuilder;
+import com.tdn.timeline.svg.TimelineSvgBuilder;
 import com.tdn.util.FileUtilities;
 
 public class TimelineBuilder {
