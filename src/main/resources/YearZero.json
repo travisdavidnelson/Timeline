@@ -1,1 +1,107 @@
-{"name": "Year Zero", "stylesheet": "FrenchRevolution.css", "defaultPersonBackgroundStyle": "french", "pixelsPerYear": 100, "xBorder": 10, "yBorder": 10, "ySpacing": 10, "textXOffset": 10, "gridlineMod": 5, "majorTickMod": 1, "minorTickMod": 0.5, "minorHeight": 15, "semimajorHeight": 20, "majorHeight": 30, "transformationalHeight": 40, "minorTextYOffset": 10, "semimajorTextYOffset": 15, "majorTextYOffset": 20, "transformationalTextYOffset": 22, "range": {"startYear": -10, "endYear": 10}, "backgroundEvents": {"name": "French Monarchy", "dateRange": {"startYear": "-10-01-01", "endYear": "10-12-31"}, "style": "frenchMonarchy"}, "politicalDynastyGroups": {"name": "Monarchists", "dynasties": {"name": "Ancien Regime", "people": [{"name": "Pre", "lifespan": {"startYear": "-9-01-01", "endYear": "-1-01-01"}, "importance": "major"}, {"name": "Span", "lifespan": {"startYear": "-5-01-01", "endYear": "5-12-31"}, "importance": "major"}, {"name": "Post", "lifespan": {"startYear": "2-01-01", "endYear": "9-12-31"}, "importance": "major"}]}}}
+{
+  "name": "Year Zero",
+  "timespan": {
+    "startYear": -50,
+    "endYear": 50
+  },
+  "config": {
+    "addCenturyTickLines": true,
+    "addDecadeTickLines": true,
+    "defaultPersonStyle": "roman",
+    "pixelsPerYear": 10,
+    "heightInPixels": 1000,
+	"xStart": 50,
+	"yTimelineStart": 20,
+	"majorTickHalfLength": 7,
+	"minorTickHalfLength": 5,
+	"dynastyStart": 25,
+	"dynastyDiff": 25,
+	"lifetimeYDiff": 5,
+	"fontSize": 10,
+	"fateWidth": 5,
+	"approximateYearPersonAdjustment": 2,
+	"approximateYearTitleAdjustment": 2,
+    "importanceHeights":{
+      "minor":10,
+      "semimajor":20,
+      "major":30,
+      "transformational":40
+    },
+    "importanceOffsets":{
+      "minor":15,
+      "semimajor":20,
+      "major":25,
+      "transformational":30
+    }
+  },
+  "backgroundEvents": [
+    {
+      "name": "BC",
+      "timespan": {
+        "startYear": -50,
+        "endYear": -1
+      },
+      "style": "romanKingdom"
+    },
+    {
+      "name": "AD",
+      "timespan": {
+        "startYear": 1,
+        "endYear": 50
+      },
+      "style": "romanRepublic"
+    }],
+  "politicalDynastyGroups": [
+    {
+      "name": "Roman Kingdom",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Dynasty 1",
+          "people": [
+            {
+              "name": "Person 1",
+              "timespan": {
+                "startYear": -40,
+                "endYear": -5
+              },
+              "importance": "major"
+            },
+            {
+              "name": "Person 2",
+              "timespan": {
+                "startYear": -35,
+                "endYear": 5
+              },
+              "importance": "major"
+            },
+            {
+              "name": "Person 3",
+              "timespan": {
+                "startYear": -30,
+                "endYear": 30
+              },
+              "importance": "transformational"
+            },
+            {
+              "name": "Person 4",
+              "timespan": {
+                "startYear": -5,
+                "endYear": 35
+              },
+              "importance": "major"
+            },
+            {
+              "name": "Person 5",
+              "timespan": {
+                "startYear": 5,
+                "endYear": 40
+              },
+              "importance": "major"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
