@@ -4,8 +4,6 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class TimelineConfig extends TimelineEvent {
-	private boolean addCenturyTickLines = false;
-	private boolean addDecadeTickLines = false;
 	private String defaultPersonStyle = null;
 	private int pixelsPerYear = 0;
 	private int heightInPixels = 0;
@@ -22,24 +20,12 @@ public class TimelineConfig extends TimelineEvent {
 	private int approximateYearTitleAdjustment = 0;
 	private Map<String, Integer> importanceHeights = null;
 	private Map<String, Integer> importanceOffsets = null;
+	private int majorTickYears = 100;
+	private int minorTickYears = 10;
 	
 	public TimelineConfig() {
 		importanceHeights = new TreeMap<String, Integer>();
 		importanceOffsets = new TreeMap<String, Integer>();
-	}
-
-	public boolean getAddCenturyTickLines() {
-		return addCenturyTickLines;
-	}
-	public void setAddCenturyTickLines(boolean addCenturyTickLines) {
-		this.addCenturyTickLines = addCenturyTickLines;
-	}
-
-	public boolean getAddDecadeTickLines() {
-		return addDecadeTickLines;
-	}
-	public void setAddDecadeTickLines(boolean addDecadeTickLines) {
-		this.addDecadeTickLines = addDecadeTickLines;
 	}
 
 	public String getDefaultPersonStyle() {
@@ -186,5 +172,19 @@ public class TimelineConfig extends TimelineEvent {
 			System.err.println("No offset for importance " + importance);
 		}
 		return result;
+	}
+
+	public int getMajorTickYears() {
+		return majorTickYears;
+	}
+	public void setMajorTickYears(int majorTickYears) {
+		this.majorTickYears = majorTickYears;
+	}
+
+	public int getMinorTickYears() {
+		return minorTickYears;
+	}
+	public void setMinorTickYears(int minorTickYears) {
+		this.minorTickYears = minorTickYears;
 	}
 }

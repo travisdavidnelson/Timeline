@@ -89,7 +89,7 @@ public class TimelineSvgBuilder {
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, yearMapping(minDisplayYear), yearMapping(maxDisplayYear), "timeline"));
 			timelineYPositions.add(nextTimelineY);
-			addCenturyAndDecadeTickLinesSVG(timelineStringBuilder);
+			addGridlinesSVG(timelineStringBuilder);
 			
 			StringBuilder backgroundStringBuilder = new StringBuilder();
 			for (TimelineEvent backgroundEvent : timeline.getBackgroundEvents()) {
@@ -227,10 +227,12 @@ public class TimelineSvgBuilder {
 		stringBuilder.append("</a></g>\n");
 	}
 	
-	public void addCenturyAndDecadeTickLinesSVG(StringBuilder stringBuilder) {
+	public void addGridlinesSVG(StringBuilder stringBuilder) {
+		int majorTickineYears = timeline.getConfig().getMajorTickYears();
+		int minorTickineYears = timeline.getConfig().getMinorTickYears();
 		for (int year = minDisplayYear; year <= maxDisplayYear; year++) {
 			if (year != 0) {
-				if (timeline.getConfig().getAddCenturyTickLines() && (year % 100 == 0 || year == 1)) {
+				if (year % majorTickineYears == 0 || year == 1) {
 					int minY = 1000;
 					int maxY = 0;
 					for (int i = 0; i < timelineYPositions.size(); i++) {
@@ -257,7 +259,7 @@ public class TimelineSvgBuilder {
 					addTextSVG(yearString, yearMapping(year)-textXDiff, minY - 7, "year", stringBuilder);
 					addTextSVG(yearString, yearMapping(year)-textXDiff, maxY + 20, "year", stringBuilder);
 				}
-				if (timeline.getConfig().getAddDecadeTickLines() && year % 10 == 0) {
+				if (year % minorTickineYears == 0) {
 					for (int i = 0; i < timelineYPositions.size(); i++) {
 						Integer yPosition = timelineYPositions.get(i);
 						boolean isFirst = i == 0;

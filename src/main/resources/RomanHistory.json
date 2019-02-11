@@ -5,8 +5,8 @@
     "endYear": 1500
   },
   "config": {
-    "addCenturyTickLines": true,
-    "addDecadeTickLines": true,
+    "majorTickYears" : 100,
+    "minorTickYears" : 10,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 2,
     "heightInPixels": 1000,
