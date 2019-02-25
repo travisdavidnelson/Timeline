@@ -10,6 +10,8 @@ import com.tdn.timeline.DynastyGroup;
 import com.tdn.timeline.Person;
 import com.tdn.timeline.Timeline;
 import com.tdn.timeline.TimelineEvent;
+import com.tdn.timeline.util.TimeUtilities;
+import com.tdn.timeline.util.TimelineInstant;
 import com.tdn.util.FileUtilities;
 
 public class TimelineSvgBuilder {
@@ -31,8 +33,8 @@ public class TimelineSvgBuilder {
 	private int approximateYearPersonAdjustment;
 	private int approximateYearTitleAdjustment;
 	
-	private int minDisplayYear;
-	private int maxDisplayYear;
+	private TimelineInstant minDisplayInstant;
+	private TimelineInstant maxDisplayInstant;
 
 	private int nextPersonYStart = 0;
 	private int maxLifetimeYEnd = 0;
@@ -43,11 +45,11 @@ public class TimelineSvgBuilder {
 	
 	public TimelineSvgBuilder(Timeline timeline) {
 		this.timeline = timeline;
-		this.minDisplayYear = timeline.getTimespan().getStartYear();
-		this.maxDisplayYear = timeline.getTimespan().getEndYear();
+		this.minDisplayInstant = timeline.getTimespan().getStart();
+		this.maxDisplayInstant = timeline.getTimespan().getEnd();
 
 		xStart = timeline.getConfig().getxStart();
-		this.width = 2 * xStart + (int)(slope() * (maxDisplayYear - minDisplayYear));
+		this.width = 2 * xStart + (int)(slope() * (minDisplayInstant.getDifferenceInDays(maxDisplayInstant)));
 		System.out.println("Width is " + width + " pixels");
 		this.yMax = timeline.getConfig().getHeightInPixels();
 		System.out.println("Timeline height is " + yMax + " pixels");
@@ -67,7 +69,7 @@ public class TimelineSvgBuilder {
 			StringBuilder foregroundStringBuilder = new StringBuilder();
 			StringBuilder timelineStringBuilder = new StringBuilder();
 			int nextTimelineY = yTimelineStart;
-			timelineStringBuilder.append(horizontalLine(nextTimelineY, yearMapping(minDisplayYear), yearMapping(maxDisplayYear), "timeline"));
+			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
 			for (DynastyGroup series : timeline.getPoliticalDynastyGroups()) {
 				dynastyStart = 25;
@@ -79,7 +81,7 @@ public class TimelineSvgBuilder {
 			}
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
-			timelineStringBuilder.append(horizontalLine(nextTimelineY, yearMapping(minDisplayYear), yearMapping(maxDisplayYear), "timeline"));
+			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
 //			firstNationYStart = maxLifetimeYEnd + 2*dynastyDiff;
 //			nextNationYStart = firstNationYStart;
@@ -87,7 +89,7 @@ public class TimelineSvgBuilder {
 //				getNationSVG(nation, foregroundStringBuilder);
 //			}
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
-			timelineStringBuilder.append(horizontalLine(nextTimelineY, yearMapping(minDisplayYear), yearMapping(maxDisplayYear), "timeline"));
+			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
 			addGridlinesSVG(timelineStringBuilder);
 			
@@ -128,11 +130,11 @@ public class TimelineSvgBuilder {
 	public void getDynastySVG(Dynasty dynasty, StringBuilder stringBuilder) {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
-		int firstYearOfFirstPerson = 0;
+		TimelineInstant firstInstantOfFirstPerson = null;
 		int textYStart = nextPersonYStart-5;
 		for (Person lifetime : dynasty.getPeople()) {
-			if (firstYearOfFirstPerson == 0 || firstYearOfFirstPerson > lifetime.getTimespan().getStartYear()) {
-				firstYearOfFirstPerson = lifetime.getTimespan().getStartYear();
+			if (firstInstantOfFirstPerson == null || firstInstantOfFirstPerson.getInstant().isAfter(lifetime.getTimespan().getStart().getInstant())) {
+				firstInstantOfFirstPerson = lifetime.getTimespan().getStart();
 			}
 			String backgroundStyle = timeline.getConfig().getDefaultPersonStyle();
 			if (lifetime.getStyle() != null) {
@@ -140,7 +142,7 @@ public class TimelineSvgBuilder {
 			}
 			getPersonSVG(lifetime, backgroundStyle, null, stringBuilder);
 		}
-		int textXStart = yearMapping(firstYearOfFirstPerson);
+		int textXStart = instantToX(firstInstantOfFirstPerson);
 		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", stringBuilder);
 	}
 	public void getPersonSVG(Person person, String styleClass, String styleOverride, StringBuilder stringBuilder) {
@@ -151,18 +153,18 @@ public class TimelineSvgBuilder {
 		}
 		String id = person.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
-		int startYear = person.getTimespan().getStartYear();
-		if (person.getTimespan().getStartYearApproximate()) {
-			startYear -= approximateYearPersonAdjustment;
-		}
-		int x = yearMapping(startYear);
-		int duration = person.getTimespan().getDuration();
-		if (person.getTimespan().getStartYearApproximate()) {
-			duration += approximateYearPersonAdjustment;
-		}
-		if (person.getTimespan().getEndYearApproximate()) {
-			duration += approximateYearPersonAdjustment;
-		}
+		TimelineInstant startYear = person.getTimespan().getStart();
+//		if (person.getTimespan().getStartYearApproximate()) {
+//			startYear -= approximateYearPersonAdjustment;
+//		}
+		int x = instantToX(startYear);
+		long duration = person.getTimespan().getDuration();
+//		if (person.getTimespan().getStartYearApproximate()) {
+//			duration += approximateYearPersonAdjustment;
+//		}
+//		if (person.getTimespan().getEndYearApproximate()) {
+//			duration += approximateYearPersonAdjustment;
+//		}
 		int width = (int) (slope() * duration);
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		int height = timeline.getConfig().getHeight(person.getImportance());
@@ -197,13 +199,13 @@ public class TimelineSvgBuilder {
 		lastPersonInGroup = person;
 	}
 	private void getTitleSVG(Person person, TimelineEvent title, StringBuilder stringBuilder) {
-		int startYear = title.getTimespan().getStartYear();
-		if (title.getTimespan().getStartYearApproximate()) {
-			startYear -= approximateYearTitleAdjustment;
-		}
-		int x = yearMapping(startYear);
+		TimelineInstant startInstant = title.getTimespan().getStart();
+//		if (title.getTimespan().getStartYearApproximate()) {
+//			startYear -= approximateYearTitleAdjustment;
+//		}
+		int x = instantToX(startInstant);
 		int y = nextPersonYStart;
-		int duration = title.getTimespan().getDuration();
+		long duration = title.getTimespan().getDuration();
 		if (title.getTimespan().getStartYearApproximate()) {
 			duration += approximateYearTitleAdjustment;
 		}
@@ -217,7 +219,7 @@ public class TimelineSvgBuilder {
 	private void getBackgroundSVG(TimelineEvent backgroundEvent, int nextTimelineY, StringBuilder stringBuilder) {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
-		int x = yearMapping(backgroundEvent.getTimespan().getStartYear());
+		int x = instantToX(backgroundEvent.getTimespan().getStart());
 		int width = (int) (slope() * backgroundEvent.getTimespan().getDuration());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		stringBuilder.append(rectangle(id, x, yTimelineStart, width, (nextTimelineY - yTimelineStart), backgroundEvent.getStyle(), null, backgroundEvent.getTimespan().getMaskName()));
@@ -230,9 +232,13 @@ public class TimelineSvgBuilder {
 	public void addGridlinesSVG(StringBuilder stringBuilder) {
 		int majorTickineYears = timeline.getConfig().getMajorTickYears();
 		int minorTickineYears = timeline.getConfig().getMinorTickYears();
-		for (int year = minDisplayYear; year <= maxDisplayYear; year++) {
+		
+		int startYear = minDisplayInstant.getYear();
+		int endYear = maxDisplayInstant.getYear();
+		for (int year = startYear; year <= endYear; year++) {
 			if (year != 0) {
 				if (year % majorTickineYears == 0 || year == 1) {
+					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
 					int minY = 1000;
 					int maxY = 0;
 					for (int i = 0; i < timelineYPositions.size(); i++) {
@@ -245,9 +251,9 @@ public class TimelineSvgBuilder {
 						if (yPosition > maxY) {
 							maxY = yPosition;
 						}
-						addMajorTickLineForYear(year, yPosition.intValue(), isFirst, isLast, stringBuilder);
+						addMajorTickLineForYear(yearInstant, yPosition.intValue(), isFirst, isLast, stringBuilder);
 					}
-					addYearLine(year, minY, maxY, stringBuilder);
+					addYearLine(yearInstant, minY, maxY, stringBuilder);
 					String yearString = ""+Math.abs(year);
 					if (year < 0) {
 						yearString += " BC";
@@ -256,29 +262,36 @@ public class TimelineSvgBuilder {
 						yearString = "AD " + yearString;
 					}
 					int textXDiff = 4*yearString.length();
-					addTextSVG(yearString, yearMapping(year)-textXDiff, minY - 7, "year", stringBuilder);
-					addTextSVG(yearString, yearMapping(year)-textXDiff, maxY + 20, "year", stringBuilder);
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - 7, "year", stringBuilder);
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + 20, "year", stringBuilder);
 				}
 				if (year % minorTickineYears == 0) {
+					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
 					for (int i = 0; i < timelineYPositions.size(); i++) {
 						Integer yPosition = timelineYPositions.get(i);
 						boolean isFirst = i == 0;
 						boolean isLast = i == timelineYPositions.size() - 1;
-						addMinorTickLineForYear(year, yPosition.intValue(), isFirst, isLast, stringBuilder);
+						addMinorTickLineForYear(yearInstant, yPosition.intValue(), isFirst, isLast, stringBuilder);
 					}
 				}
 			}
 		}
 	}
 
-	public void addYearLine(int year, int yStart, int yEnd, StringBuilder stringBuilder) {
-		stringBuilder.append(yearLine(yearMapping(year), yStart, yEnd));
+	public void addYearLine(TimelineInstant year, int yStart, int yEnd, StringBuilder stringBuilder) {
+		int x = instantToX(year);
+//		System.out.println("Adding year line for year " + year + " at x = " + x);
+		stringBuilder.append(yearLine(x, yStart, yEnd));
 	}
-	public void addMajorTickLineForYear(int year, int yStart, boolean isFirst, boolean isLast, StringBuilder stringBuilder) {
-		stringBuilder.append(majorTickLine(yearMapping(year), yStart, isFirst, isLast));
+	public void addMajorTickLineForYear(TimelineInstant year, int yStart, boolean isFirst, boolean isLast, StringBuilder stringBuilder) {
+		int x = instantToX(year);
+//		System.out.println("Adding major tick line for year " + year + " at x = " + x);
+		stringBuilder.append(majorTickLine(x, yStart, isFirst, isLast));
 	}
-	public void addMinorTickLineForYear(int year, int yStart, boolean isFirst, boolean isLast, StringBuilder stringBuilder) {
-		stringBuilder.append(minorTickLine(yearMapping(year), yStart, isFirst, isLast));
+	public void addMinorTickLineForYear(TimelineInstant year, int yStart, boolean isFirst, boolean isLast, StringBuilder stringBuilder) {
+		int x = instantToX(year);
+//		System.out.println("Adding minor tick line for year " + year + " at x = " + x);
+		stringBuilder.append(minorTickLine(x, yStart, isFirst, isLast));
 	}
 	public void addTextSVG(String text, int x, int y, String className, StringBuilder stringBuilder) {
 		stringBuilder.append("\n<text x=\"");
@@ -313,17 +326,14 @@ public class TimelineSvgBuilder {
 		return result.toString();
 	}
 	
-	protected int yearMapping(int year) {
-		if (year > 0) {
-			year = year - 1;
-		}
-		return (int) slope() * (year - timeline.getTimespan().getStartYear()) + xStart;
+	protected int instantToX(TimelineInstant instant) {
+		return (int) (Math.round(slope() * minDisplayInstant.getDifferenceInDays(instant)) + xStart);
 	}
 	
 	protected double slope() {
 		if (slope == 0.0) {
-			slope = timeline.getConfig().getPixelsPerYear();
-			System.out.println("Timeline has " + slope + " pixels/year");
+			slope = timeline.getConfig().getPixelsPerYear() / 365.25;
+			System.out.println("Timeline has " + slope + " pixels/day");
 		}
 		return slope;
 	}	

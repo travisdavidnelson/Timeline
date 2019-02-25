@@ -1,8 +1,8 @@
 {
   "name": "Year Zero",
   "timespan": {
-    "startYear": -50,
-    "endYear": 50
+    "start": "50 BC",
+    "end": "50"
   },
   "config": {
     "majorTickYears" : 10,
@@ -38,16 +38,16 @@
     {
       "name": "BC",
       "timespan": {
-        "startYear": -50,
-        "endYear": -1
+        "start": "50 BC",
+        "end": "1"
       },
       "style": "romanKingdom"
     },
     {
       "name": "AD",
       "timespan": {
-        "startYear": 1,
-        "endYear": 50
+        "start": "1",
+        "end": "50"
       },
       "style": "romanRepublic"
     }],
@@ -62,40 +62,40 @@
             {
               "name": "Person 1",
               "timespan": {
-                "startYear": -40,
-                "endYear": -5
+                "start": "6/1/40 BC",
+                "end": "10/1/5 BC"
               },
               "importance": "major"
             },
             {
               "name": "Person 2",
               "timespan": {
-                "startYear": -35,
-                "endYear": 5
+                "start": "35 BC",
+                "end": "11/22/5"
               },
               "importance": "major"
             },
             {
               "name": "Person 3",
               "timespan": {
-                "startYear": -30,
-                "endYear": 30
+                "start": "7/26/31 BC",
+                "end": "30"
               },
               "importance": "transformational"
             },
             {
               "name": "Person 4",
               "timespan": {
-                "startYear": -5,
-                "endYear": 35
+                "start": "5 BC",
+                "end": "35"
               },
               "importance": "major"
             },
             {
               "name": "Person 5",
               "timespan": {
-                "startYear": 5,
-                "endYear": 40
+                "start": "5",
+                "end": "40"
               },
               "importance": "major"
             }

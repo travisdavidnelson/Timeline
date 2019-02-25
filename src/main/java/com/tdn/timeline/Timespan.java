@@ -1,31 +1,19 @@
 package com.tdn.timeline;
 
+import com.tdn.timeline.util.TimelineInstant;
+
 public class Timespan {
 	public static final String FADE_IN_MASK = "fadeInMask";
 	public static final String FADE_OUT_MASK = "fadeOutMask";
 	public static final String FADE_IN_OUT_MASK = "fadeInOutMask";
 
-	private int startYear;
-	private int endYear;
-	private boolean startYearApproximate = false;;
+	private TimelineInstant start;
+	private TimelineInstant end;
+	private boolean startYearApproximate = false;
 	private boolean endYearApproximate = false;
 
 	public Timespan() {
 		
-	}
-	
-	public int getStartYear() {
-		return startYear;
-	}
-	public void setStartYear(int startYear) {
-		this.startYear = startYear;
-	}
-	
-	public int getEndYear() {
-		return endYear;
-	}
-	public void setEndYear(int endYear) {
-		this.endYear = endYear;
 	}
 	
 	public boolean getStartYearApproximate() {
@@ -42,14 +30,24 @@ public class Timespan {
 		this.endYearApproximate = endYearApproximate;
 	}
 	
-	public int getDuration() {
-		int result = endYear - startYear;
-		// Year Zero doesn't exist
-		if (startYear < 0 && endYear > 0)
-			result = result - 1;
-		// Duration at least a year
-		if (result == 0) {
-			result = 1;
+	public TimelineInstant getStart() {
+		return start;
+	}
+	public void setStart(TimelineInstant start) {
+		this.start = start;
+	}
+
+	public TimelineInstant getEnd() {
+		return end;
+	}
+	public void setEnd(TimelineInstant end) {
+		this.end = end;
+	}
+
+	public long getDuration() {
+		long result = 0;
+		if (end != null) {
+			result = start.getDifferenceInDays(end);
 		}
 		return result;
 	}
@@ -57,21 +55,20 @@ public class Timespan {
 	@Override
 	public String toString() {
 		StringBuilder result = new StringBuilder();
-		result.append(getYearString(startYear, startYearApproximate));
-		result.append(" - ");
-		result.append(getYearString(endYear, endYearApproximate));
+		result.append(getYearString(start, startYearApproximate));
+		if (end != null) {
+			result.append(" - ");
+			result.append(getYearString(end, endYearApproximate));
+		}
 		return result.toString();
 	}
 
-	private String getYearString(int year, boolean approximate) {
+	private String getYearString(TimelineInstant instant, boolean approximate) {
 		StringBuilder result = new StringBuilder();
 		if (approximate) {
 			result.append("c. ");
 		}
-		result.append(Math.abs(year));
-		if (year < 0) {
-			result.append(" BC");
-		}
+		result.append(instant.getOriginalString());
 		return result.toString();
 	}
 

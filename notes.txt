@@ -69,6 +69,19 @@ TODO
 
 *** LOG
 
+20190217
+- Ready to change Years to Date time instants
+- Create TimelineInstant to track Instant and originalString (and ultimately precision/uncertainty)
+	private String originalString
+	private Instant instant
+- Timespan has
+	private int startYear;
+	private int endYear;
+  change to
+ 	private TimelineInstant start;
+	private TimelineInstant end;
+ 
+
 20160530
 - Parameterized resolution/pixelsPerYear
 - Parameterized yearToX timelineStartYear, timelineEndYear

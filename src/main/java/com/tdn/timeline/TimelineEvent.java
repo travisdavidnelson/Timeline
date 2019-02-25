@@ -49,9 +49,9 @@ public class TimelineEvent {
 	}
 
 	public boolean overlaps(TimelineEvent other) {
-		return (this.getTimespan().getStartYear() >= other.getTimespan().getStartYear() && this.getTimespan().getStartYear() <= other.getTimespan().getEndYear()) ||
-        (this.getTimespan().getEndYear() >= other.getTimespan().getStartYear() && this.getTimespan().getEndYear() <= other.getTimespan().getEndYear()) ||
-        (other.getTimespan().getStartYear() >= this.getTimespan().getStartYear() && other.getTimespan().getStartYear() <= this.getTimespan().getEndYear()) ||
-        (other.getTimespan().getEndYear() >= this.getTimespan().getStartYear() && other.getTimespan().getEndYear() <= this.getTimespan().getEndYear());		
+		return (this.getTimespan().getStart().isAfter(other.getTimespan().getStart()) && this.getTimespan().getStart().isBefore(other.getTimespan().getEnd())) ||
+        (this.getTimespan().getEnd().isAfter(other.getTimespan().getStart()) && this.getTimespan().getEnd().isBefore(other.getTimespan().getEnd())) ||
+        (other.getTimespan().getStart().isAfter(this.getTimespan().getStart()) && other.getTimespan().getStart().isBefore(this.getTimespan().getEnd())) ||
+        (other.getTimespan().getEnd().isAfter(this.getTimespan().getStart()) && other.getTimespan().getEnd().isBefore(this.getTimespan().getEnd()));		
 	}
 }

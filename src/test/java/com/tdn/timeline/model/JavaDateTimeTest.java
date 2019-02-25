@@ -55,6 +55,7 @@ public class JavaDateTimeTest {
 		
 		Duration duration3 = Duration.between(founding, ad1);
 		System.out.println(duration3.toDays());
+		System.out.println(duration3.toDays() / 365.25);
 
 		LocalDate ld1 = LocalDate.parse("0001-01-01");
 		System.out.println(ld1);
@@ -68,6 +69,8 @@ public class JavaDateTimeTest {
 		LocalDate ld4 = LocalDate.parse("-0001-01-01");
 		System.out.println(ld4);
 
+		long days = ld4.until(ld1, ChronoUnit.DAYS);
+		System.out.println(days);
 //		Instant i1 = Instant.from(ld1);
 //		System.out.println(i1);
 		

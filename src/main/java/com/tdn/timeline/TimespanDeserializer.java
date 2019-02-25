@@ -7,6 +7,8 @@ import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
+import com.tdn.timeline.util.TimeUtilities;
+import com.tdn.timeline.util.TimelineInstant;
 
 public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 
@@ -18,11 +20,13 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 			jsonData = json.getAsJsonObject();
 		}
 		assert jsonData != null;
-		int startYear = jsonData.get("startYear").getAsInt();
-		int endYear = jsonData.get("endYear").getAsInt();
+		String startString = jsonData.get("start").getAsString();
+		TimelineInstant start = TimeUtilities.getInstant(startString);
+		String endString = jsonData.get("end").getAsString();
+		TimelineInstant end = TimeUtilities.getInstant(endString);
 		Timespan result = new Timespan();
-		result.setStartYear(startYear);
-		result.setEndYear(endYear);
+		result.setStart(start);
+		result.setEnd(end);
 		result.setStartYearApproximate(jsonData.has("startYearApproximate"));
 		result.setEndYearApproximate(jsonData.has("endYearApproximate"));
 		return result;
