@@ -2295,7 +2295,7 @@
             "name": "Julius Caesar",
             "timespan": {
               "start": "100 BC",
-              "end": "44 BC"
+              "end": "3/15/44 BC"
             },
             "importance": "transformational",
             "annotation": "Veni, Vidi, Vici!",
@@ -2310,13 +2310,6 @@
                 }
               },
               {
-                "name": "governor",
-                "timespan": {
-                  "start": "58 BC",
-                  "end": "48 BC"
-                }
-              },
-              {
                 "name": "triumvir",
                 "timespan": {
                   "start": "60 BC",
@@ -2324,10 +2317,45 @@
                 }
               },
               {
-                "name": "dictator",
+                "name": "governor",
+                "timespan": {
+                  "start": "58 BC",
+                  "end": "48 BC"
+                }
+              },
+              {
+                "name": "consul",
                 "timespan": {
                   "start": "48 BC",
-                  "end": "44 BC"
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "start": "47 BC",
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "start": "46 BC",
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "consul",
+                "timespan": {
+                  "start": "44 BC",
+                  "end": "3/15/44 BC"
+                }
+              },
+              {
+                "name": "dictator",
+                "timespan": {
+                  "start": "49 BC",
+                  "end": "3/15/44 BC"
                 }
               }
             ]

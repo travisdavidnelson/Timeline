@@ -72,6 +72,8 @@ TODO
 201903
 	TODO
 		move fonts to config json
+		run all if no specifics given
+	done
 		add duration to timespan an option vs end
 
 20190217
