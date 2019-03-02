@@ -46,11 +46,15 @@ public class Timespan {
 	}
 
 	public long getDuration() {
-		long result = 0;
-		if (end != null) {
-			result = start.getDifferenceInDays(end);
+		if (duration == 0) {
+			if (end != null) {
+				duration = start.getDifferenceInDays(end);
+			}
 		}
-		return result;
+		return duration;
+	}
+	public void setDuration(long duration) {
+		this.duration = duration;
 	}
 	
 	@Override

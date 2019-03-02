@@ -980,7 +980,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "509 BC",
-                  "end": "509 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -996,7 +996,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "509 BC",
-                  "end": "509 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -1013,7 +1013,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "509 BC",
-                  "end": "509 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -1029,29 +1029,29 @@
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "1/1/509 BC",
-                    "end": "12/31/508 BC"
+                    "start": "509 BC",
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "508 BC",
-                    "end": "507 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "507 BC",
-                    "end": "506 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "504 BC",
-                    "end": "503 BC"
+                    "duration": "1y"
                   }
                 }
               ],
@@ -1079,7 +1079,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "506 BC",
-                  "end": "505 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -1124,21 +1124,21 @@
                   "name": "consul",
                   "timespan": {
                     "start": "460 BC",
-                    "end": "460 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "458 BC",
-                    "end": "458 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "439 BC",
-                    "end": "439 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1189,21 +1189,21 @@
                   "name": "censor",
                   "timespan": {
                     "start": "402 BC",
-                    "end": "402 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "398 BC",
-                    "end": "398 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "396 BC",
-                    "end": "396 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1217,35 +1217,35 @@
                   "name": "dictator",
                   "timespan": {
                     "start": "386 BC",
-                    "end": "386 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "tribune",
                   "timespan": {
                     "start": "381 BC",
-                    "end": "381 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "tribune",
                   "timespan": {
                     "start": "378 BC",
-                    "end": "378 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "368 BC",
-                    "end": "368 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "367 BC",
-                    "end": "367 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1262,7 +1262,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "340 BC",
-                  "end": "340 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -1280,21 +1280,21 @@
                   "name": "consul",
                   "timespan": {
                     "start": "348 BC",
-                    "end": "348 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "praetor",
                   "timespan": {
                     "start": "347 BC",
-                    "end": "347 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "346 BC",
-                    "end": "346 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1308,42 +1308,42 @@
                   "name": "dictator",
                   "timespan": {
                     "start": "342 BC",
-                    "end": "342 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "335 BC",
-                    "end": "335 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "praetor",
                   "timespan": {
                     "start": "308 BC",
-                    "end": "308 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "302 BC",
-                    "end": "302 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "301 BC",
-                    "end": "301 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "300 BC",
-                    "end": "300 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1361,14 +1361,14 @@
                   "name": "consul",
                   "timespan": {
                     "start": "267 BC",
-                    "end": "267 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "256 BC",
-                    "end": "256 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1393,21 +1393,21 @@
                   "name": "consul",
                   "timespan": {
                     "start": "251 BC",
-                    "end": "251 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "247 BC",
-                    "end": "247 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "224 BC",
-                    "end": "224 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1425,49 +1425,49 @@
                   "name": "consul",
                   "timespan": {
                     "start": "233 BC",
-                    "end": "233 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "228 BC",
-                    "end": "228 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "221 BC",
-                    "end": "221 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "dictator",
                   "timespan": {
                     "start": "217 BC",
-                    "end": "217 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "215 BC",
-                    "end": "215 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "214 BC",
-                    "end": "214 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "209 BC",
-                    "end": "209 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1485,7 +1485,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "218 BC",
-                    "end": "218 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1510,35 +1510,35 @@
                   "name": "consul",
                   "timespan": {
                     "start": "222 BC",
-                    "end": "222 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "215 BC",
-                    "end": "215 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "214 BC",
-                    "end": "214 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "210 BC",
-                    "end": "210 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "208 BC",
-                    "end": "208 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1569,14 +1569,14 @@
                   "name": "aedile",
                   "timespan": {
                     "start": "193 BC",
-                    "end": "193 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "praetor",
                   "timespan": {
                     "start": "191 BC",
-                    "end": "191 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1590,14 +1590,14 @@
                   "name": "consul",
                   "timespan": {
                     "start": "182 BC",
-                    "end": "182 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "168 BC",
-                    "end": "168 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1611,7 +1611,7 @@
                   "name": "censor",
                   "timespan": {
                     "start": "164 BC",
-                    "end": "160 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1628,21 +1628,21 @@
                   "name": "consul",
                   "timespan": {
                     "start": "147 BC",
-                    "end": "147 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "censor",
                   "timespan": {
                     "start": "142 BC",
-                    "end": "142 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "134 BC",
-                    "end": "134 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1660,14 +1660,14 @@
                   "name": "consul",
                   "timespan": {
                     "start": "109 BC",
-                    "end": "109 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "censor",
                   "timespan": {
                     "start": "102 BC",
-                    "end": "102 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1694,7 +1694,7 @@
                   "name": "questor",
                   "timespan": {
                     "start": "107 BC",
-                    "end": "107 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1708,7 +1708,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "88 BC",
-                    "end": "88 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1722,14 +1722,14 @@
                   "name": "dictator",
                   "timespan": {
                     "start": "81 BC",
-                    "end": "81 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "80 BC",
-                    "end": "80 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1747,14 +1747,14 @@
                   "name": "quaestor",
                   "timespan": {
                     "start": "88 BC",
-                    "end": "80 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "74 BC",
-                    "end": "74 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1780,14 +1780,14 @@
                   "name": "consul",
                   "timespan": {
                     "start": "51 BC",
-                    "end": "51 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "54 BC",
-                    "end": "54 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1801,7 +1801,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "69 BC",
-                    "end": "69 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1832,7 +1832,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "63 BC",
-                    "end": "63 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -1863,7 +1863,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "59 BC",
-                  "end": "59 BC"
+                  "duration": "1y"
                 }
               }]
             },
@@ -1895,14 +1895,14 @@
                   "name": "tribune",
                   "timespan": {
                     "start": "57 BC",
-                    "end": "57 BC"
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "praetor",
                   "timespan": {
                     "start": "54 BC",
-                    "end": "54 BC"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -1920,7 +1920,7 @@
                   "name": "tribune",
                   "timespan": {
                     "start": "49 BC",
-                    "end": "49 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -2001,7 +2001,7 @@
                 "name": "tribune",
                 "timespan": {
                   "start": "232 BC",
-                  "end": "232 BC"
+                  "duration": "1y"
                 }
               },
               {
@@ -2015,21 +2015,21 @@
                 "name": "consul",
                 "timespan": {
                   "start": "223 BC",
-                  "end": "223 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "censor",
                 "timespan": {
                   "start": "220 BC",
-                  "end": "220 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
                   "start": "217 BC",
-                  "end": "217 BC"
+                  "duration": "1y"
                 }
               }
             ]
@@ -2046,7 +2046,7 @@
                 "name": "quaestor",
                 "timespan": {
                   "start": "213 BC",
-                  "end": "210 BC"
+                  "duration": "1y"
                 }
               },
               {
@@ -2060,14 +2060,14 @@
                 "name": "consul",
                 "timespan": {
                   "start": "205 BC",
-                  "end": "205 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "general",
                 "timespan": {
                   "start": "205 BC",
-                  "end": "202 BC"
+                  "duration": "1y"
                 }
               }
             ]
@@ -2085,35 +2085,35 @@
                 "name": "tribune",
                 "timespan": {
                   "start": "187 BC",
-                  "end": "187 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "praetor",
                 "timespan": {
                   "start": "179 BC",
-                  "end": "179 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
                   "start": "177 BC",
-                  "end": "177 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "censor",
                 "timespan": {
                   "start": "169 BC",
-                  "end": "169 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
                   "start": "163 BC",
-                  "end": "163 BC"
+                  "duration": "1y"
                 }
               }
             ]
@@ -2138,7 +2138,7 @@
               "name": "tribune",
               "timespan": {
                 "start": "133 BC",
-                "end": "133 BC"
+                "duration": "1y"
               }
             }]
           },
@@ -2153,7 +2153,7 @@
               "name": "tribune",
               "timespan": {
                 "start": "123 BC",
-                "end": "121 BC"
+                "duration": "1y"
               }
             }]
           },
@@ -2170,14 +2170,14 @@
                 "name": "consul",
                 "timespan": {
                   "start": "106 BC",
-                  "end": "106 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
                   "start": "105 BC",
-                  "end": "100 BC"
+                  "duration": "1y"
                 }
               },
               {
@@ -2191,7 +2191,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "86 BC",
-                  "end": "86 BC"
+                  "duration": "1y"
                 }
               }
             ]
@@ -2208,7 +2208,7 @@
               "name": "consul",
               "timespan": {
                 "start": "85 BC",
-                "end": "82 BC"
+                "duration": "1y"
               }
             }]
           },
@@ -2224,7 +2224,7 @@
               "name": "consul",
               "timespan": {
                 "start": "87 BC",
-                "end": "84 BC"
+                "duration": "1y"
               }
             }]
           },
@@ -2250,14 +2250,14 @@
                 "name": "consul",
                 "timespan": {
                   "start": "69 BC",
-                  "end": "69 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
                   "start": "55 BC",
-                  "end": "54 BC"
+                  "duration": "1y"
                 }
               },
               {
@@ -2306,7 +2306,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "59 BC",
-                  "end": "59 BC"
+                  "duration": "1y"
                 }
               },
               {
@@ -2345,21 +2345,21 @@
                 "name": "quaestor",
                 "timespan": {
                   "start": "60 BC",
-                  "end": "60 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "tribune",
                 "timespan": {
                   "start": "58 BC",
-                  "end": "58 BC"
+                  "duration": "1y"
                 }
               },
               {
                 "name": "aedile",
                 "timespan": {
                   "start": "56 BC",
-                  "end": "56 BC"
+                  "duration": "1y"
                 }
               }
             ]
@@ -2495,7 +2495,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "37 BC",
-                    "end": "37 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -2509,7 +2509,7 @@
                   "name": "aedile",
                   "timespan": {
                     "start": "32 BC",
-                    "end": "32 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -2595,7 +2595,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "12 BC",
-                    "end": "12 BC"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -2654,7 +2654,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "31",
-                    "end": "31"
+                    "duration": "1y"
                   }
                 }
               ]
@@ -2671,7 +2671,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "13",
-                    "end": "13"
+                    "duration": "1y"
                   }
                 },
                 {
@@ -2731,7 +2731,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "39",
-                    "end": "39"
+                    "duration": "1y"
                   }
                 },
                 {

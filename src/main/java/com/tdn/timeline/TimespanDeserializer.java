@@ -20,13 +20,27 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 			jsonData = json.getAsJsonObject();
 		}
 		assert jsonData != null;
+		Timespan result = new Timespan();
 		String startString = jsonData.get("start").getAsString();
 		TimelineInstant start = TimeUtilities.getInstant(startString);
-		String endString = jsonData.get("end").getAsString();
-		TimelineInstant end = TimeUtilities.getInstant(endString);
-		Timespan result = new Timespan();
 		result.setStart(start);
-		result.setEnd(end);
+		if (jsonData.has("end")) {
+			String endString = jsonData.get("end").getAsString();
+			TimelineInstant end = TimeUtilities.getInstant(endString);
+			result.setEnd(end);
+		}
+		if (jsonData.has("duration")) {
+			String durationString = jsonData.get("duration").getAsString();
+			long durationInDays = 0;
+			if (durationString.endsWith("y")) {
+				String durationInDaysString = durationString.substring(0, durationString.length()-1);
+				durationInDays = Math.round(Long.parseLong(durationInDaysString) * 365.25);
+			} else if (durationString.endsWith("d")) {
+				String durationInDaysString = durationString.substring(0, durationString.length()-1);
+				durationInDays = Long.parseLong(durationInDaysString);
+			}
+			result.setDuration(durationInDays);
+		}
 		result.setStartYearApproximate(jsonData.has("startYearApproximate"));
 		result.setEndYearApproximate(jsonData.has("endYearApproximate"));
 		return result;
