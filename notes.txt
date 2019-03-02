@@ -69,6 +69,11 @@ TODO
 
 *** LOG
 
+201903
+	TODO
+		move fonts to config json
+		add duration to timespan an option vs end
+
 20190217
 - Ready to change Years to Date time instants
 - Create TimelineInstant to track Instant and originalString (and ultimately precision/uncertainty)

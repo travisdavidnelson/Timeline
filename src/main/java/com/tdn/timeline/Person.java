@@ -12,9 +12,11 @@ public class Person extends TimelineEvent {
 	private String importance = null;
 	private String fate = null;
 	private List<TimelineEvent> titles = null;
+	private List<TimelineEvent> foregroundEvents = null;
 	
 	public Person() {
 		this.titles = new ArrayList<TimelineEvent>();
+		this.foregroundEvents = new ArrayList<TimelineEvent>();
 		this.importance = MINOR;
 	}
 
@@ -40,6 +42,16 @@ public class Person extends TimelineEvent {
 	}
 	public void addTitle(TimelineEvent title) {
 		this.titles.add(title);
+	}
+
+	public List<TimelineEvent> getForegroundEvents() {
+		return foregroundEvents;
+	}
+	public void setForegroundEvents(List<TimelineEvent> foregroundEvents) {
+		this.foregroundEvents = foregroundEvents;
+	}
+	public void addForegroundEvent(TimelineEvent event) {
+		this.foregroundEvents.add(event);
 	}
 
 }

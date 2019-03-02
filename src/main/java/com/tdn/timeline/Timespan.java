@@ -9,6 +9,7 @@ public class Timespan {
 
 	private TimelineInstant start;
 	private TimelineInstant end;
+	private long duration;
 	private boolean startYearApproximate = false;
 	private boolean endYearApproximate = false;
 

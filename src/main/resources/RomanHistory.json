@@ -8,30 +8,30 @@
     "majorTickYears" : 100,
     "minorTickYears" : 10,
     "defaultPersonStyle": "roman",
-    "pixelsPerYear": 2,
-    "heightInPixels": 1000,
+    "pixelsPerYear": 12,
+    "heightInPixels": 10000,
 	"xStart": 50,
 	"yTimelineStart": 20,
 	"majorTickHalfLength": 7,
 	"minorTickHalfLength": 5,
 	"dynastyStart": 25,
 	"dynastyDiff": 25,
-	"lifetimeYDiff": 5,
+	"lifetimeYDiff": 10,
 	"fontSize": 10,
 	"fateWidth": 5,
 	"approximateYearPersonAdjustment": 2,
 	"approximateYearTitleAdjustment": 2,
     "importanceHeights":{
-      "minor":6,
-      "semimajor":10,
-      "major":15,
-      "transformational":20
+      "minor":10,
+      "semimajor":20,
+      "major":40,
+      "transformational":50
     },
     "importanceOffsets":{
-      "minor":5,
-      "semimajor":8,
-      "major":10,
-      "transformational":12
+      "minor":6,
+      "semimajor":13,
+      "major":23,
+      "transformational":35
     }
   },
   "backgroundEvents": [
@@ -1029,8 +1029,8 @@
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "509 BC",
-                    "end": "508 BC"
+                    "start": "1/1/509 BC",
+                    "end": "12/31/508 BC"
                   }
                 },
                 {
@@ -1052,6 +1052,16 @@
                   "timespan": {
                     "start": "504 BC",
                     "end": "503 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "3/1/509 BC",
+                    "end": "3/31/509 BC"
                   }
                 }
               ]

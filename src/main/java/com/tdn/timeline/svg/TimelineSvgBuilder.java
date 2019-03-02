@@ -49,7 +49,7 @@ public class TimelineSvgBuilder {
 		this.maxDisplayInstant = timeline.getTimespan().getEnd();
 
 		xStart = timeline.getConfig().getxStart();
-		this.width = 2 * xStart + (int)(slope() * (minDisplayInstant.getDifferenceInDays(maxDisplayInstant)));
+		this.width = 2 * xStart + getWidth( (minDisplayInstant.getDifferenceInDays(maxDisplayInstant)));
 		System.out.println("Width is " + width + " pixels");
 		this.yMax = timeline.getConfig().getHeightInPixels();
 		System.out.println("Timeline height is " + yMax + " pixels");
@@ -165,13 +165,16 @@ public class TimelineSvgBuilder {
 //		if (person.getTimespan().getEndYearApproximate()) {
 //			duration += approximateYearPersonAdjustment;
 //		}
-		int width = (int) (slope() * duration);
+		int width = getWidth(Long.valueOf(duration).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		int height = timeline.getConfig().getHeight(person.getImportance());
 		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, "footprint", null, person.getTimespan().getMaskName()));
 		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, styleClass, styleOverride, person.getTimespan().getMaskName()));
 		for (TimelineEvent title : person.getTitles()) {
 			getTitleSVG(person, title, stringBuilder);
+		}
+		for (TimelineEvent event : person.getForegroundEvents()) {
+			getTitleSVG(person, event, stringBuilder);
 		}
 		int yOffset = timeline.getConfig().getOffset(person.getImportance());
 		int textX = x + 2;
@@ -212,7 +215,7 @@ public class TimelineSvgBuilder {
 		if (title.getTimespan().getEndYearApproximate()) {
 			duration += approximateYearTitleAdjustment;
 		}
-		int width = (int) (slope() * duration);
+		int width = getWidth(Long.valueOf(duration).intValue());
 		int height = timeline.getConfig().getHeight(person.getImportance());
 		stringBuilder.append(rectangle(null, x, y, width, height, title.getName(), null, title.getTimespan().getMaskName()));
 	}
@@ -220,7 +223,7 @@ public class TimelineSvgBuilder {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = instantToX(backgroundEvent.getTimespan().getStart());
-		int width = (int) (slope() * backgroundEvent.getTimespan().getDuration());
+		int width = getWidth(Long.valueOf(backgroundEvent.getTimespan().getDuration()).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		stringBuilder.append(rectangle(id, x, yTimelineStart, width, (nextTimelineY - yTimelineStart), backgroundEvent.getStyle(), null, backgroundEvent.getTimespan().getMaskName()));
 		stringBuilder.append("<title>");
@@ -293,6 +296,11 @@ public class TimelineSvgBuilder {
 //		System.out.println("Adding minor tick line for year " + year + " at x = " + x);
 		stringBuilder.append(minorTickLine(x, yStart, isFirst, isLast));
 	}
+	
+	public int getWidth(int duration) {
+		return (int) Math.round(slope() * duration);
+	}
+	
 	public void addTextSVG(String text, int x, int y, String className, StringBuilder stringBuilder) {
 		stringBuilder.append("\n<text x=\"");
 		stringBuilder.append(x);
