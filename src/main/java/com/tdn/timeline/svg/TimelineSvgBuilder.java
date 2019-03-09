@@ -131,7 +131,7 @@ public class TimelineSvgBuilder {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
 		TimelineInstant firstInstantOfFirstPerson = null;
-		int textYStart = nextPersonYStart - 5;
+		int textYStart = nextPersonYStart - lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
 			if (firstInstantOfFirstPerson == null || firstInstantOfFirstPerson.getInstant().isAfter(lifetime.getTimespan().getStart().getInstant())) {
 				firstInstantOfFirstPerson = lifetime.getTimespan().getStart();
