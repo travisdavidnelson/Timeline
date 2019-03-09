@@ -32,10 +32,13 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 		if (jsonData.has("duration")) {
 			String durationString = jsonData.get("duration").getAsString();
 			long durationInDays = 0;
-			if (durationString.endsWith("y")) {
+			if (durationString.contains("y")) {
 				String durationInDaysString = durationString.substring(0, durationString.length()-1);
 				durationInDays = Math.round(Long.parseLong(durationInDaysString) * 365.25);
-			} else if (durationString.endsWith("d")) {
+			} else if (durationString.contains("m")) {
+				String durationInDaysString = durationString.substring(0, durationString.length()-1);
+				durationInDays = Long.parseLong(durationInDaysString) * 30;
+			} else if (durationString.contains("d")) {
 				String durationInDaysString = durationString.substring(0, durationString.length()-1);
 				durationInDays = Long.parseLong(durationInDaysString);
 			}

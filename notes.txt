@@ -73,6 +73,15 @@ TODO
 	TODO
 		move fonts to config json
 		run all if no specifics given
+		add to TimelineSvgBuilder: 
+			responsiblity for ensuring visibility of TimelineInstances whose durations < resolution of the timeline
+			ie make width at least one unit so it shows
+			also: remove cases in timeline json where artificial durations were created to ensure visibility
+				ex: Julius Caesar:foregroundEvents:triumphs
+				many others, how many?
+					review 1m durations
+			*** the json data should be as accurate as possible ***
+		
 	done
 		add duration to timespan an option vs end
 

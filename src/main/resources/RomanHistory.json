@@ -5,30 +5,30 @@
     "end": "1500"
   },
   "config": {
-    "majorTickYears" : 100,
+    "majorTickYears" : 50,
     "minorTickYears" : 10,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 12,
     "heightInPixels": 10000,
 	"xStart": 50,
-	"yTimelineStart": 20,
+	"yTimelineStart": 50,
 	"majorTickHalfLength": 7,
 	"minorTickHalfLength": 5,
-	"dynastyStart": 25,
-	"dynastyDiff": 25,
+	"dynastyStart": 40,
+	"dynastyDiff": 50,
 	"lifetimeYDiff": 10,
 	"fontSize": 10,
 	"fateWidth": 5,
-	"approximateYearPersonAdjustment": 2,
+	"approximateYearPersonAdjustment": 10,
 	"approximateYearTitleAdjustment": 2,
     "importanceHeights":{
-      "minor":10,
+      "minor":15,
       "semimajor":20,
       "major":40,
       "transformational":50
     },
     "importanceOffsets":{
-      "minor":6,
+      "minor":10,
       "semimajor":13,
       "major":23,
       "transformational":35
@@ -394,7 +394,7 @@
       "name": "Sulla's first civil war",
       "timespan": {
         "start": "88 BC",
-        "end": "86 BC"
+        "end": "87 BC"
       },
       "style": "backgroundCivilWar"
     },
@@ -409,8 +409,8 @@
     {
       "name": "Caesar's civil war",
       "timespan": {
-        "start": "49 BC",
-        "end": "45 BC"
+        "start": "1/10/49 BC",
+        "end": "3/1/45 BC"
       },
       "style": "backgroundCivilWar"
     },
@@ -442,7 +442,7 @@
       "name": "Year of the Four Emperors",
       "timespan": {
         "start": "69",
-        "end": "69"
+        "duration": "1y"
       },
       "style": "backgroundCivilWar"
     },
@@ -465,64 +465,72 @@
     {
       "name": "Sack of Rome (387 BC)",
       "timespan": {
-        "start": "387 BC",
-        "end": "387 BC"
+        "start": "7/18/387 BC",
+        "duration": "3m"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Battle of Lake Trasimene",
       "timespan": {
-        "start": "217 BC",
-        "end": "216 BC"
+        "start": "6/21/217 BC",
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Battle of Cannae",
       "timespan": {
-        "start": "216 BC",
-        "end": "216 BC"
+        "start": "8/2/216 BC",
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Battle of Arausio",
       "timespan": {
-        "start": "105 BC",
-        "end": "105 BC"
+        "start": "10/6/105 BC",
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Aquae Sextiae",
+      "timespan": {
+        "start": "102 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundForeignWarVictory"
     },
     {
       "name": "Battle of Carrhae",
       "timespan": {
         "start": "53 BC",
-        "end": "53 BC"
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Assassination of Julius Caesar",
       "timespan": {
-        "start": "44 BC",
-        "end": "44 BC"
+        "start": "3/15/44 BC",
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Battle of Teutoburg Forest",
       "timespan": {
-        "start": "9",
-        "end": "9"
+        "start": "9/1/9",
+        "duration": "1m"
       },
       "style": "backgroundNationalCalamity"
     },
     {
       "name": "Eruption of Mt Vesuvius in AD 79",
       "timespan": {
-        "start": "79",
-        "end": "79"
+        "start": "8/24/79",
+        "end": "11/79"
       },
       "style": "backgroundNationalCalamity"
     },
@@ -1769,8 +1777,8 @@
             {
               "name": "Pompey Magnus",
               "timespan": {
-                "start": "106 BC",
-                "end": "48 BC"
+                "start": "9/29/106 BC",
+                "end": "9/28/48 BC"
               },
               "importance": "major",
               "annotation": "Triumvir, ally and rival of Caesar.",
@@ -1779,14 +1787,14 @@
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "51 BC",
+                    "start": "52 BC",
                     "duration": "1y"
                   }
                 },
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "54 BC",
+                    "start": "55 BC",
                     "duration": "1y"
                   }
                 },
@@ -1800,7 +1808,7 @@
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "69 BC",
+                    "start": "70 BC",
                     "duration": "1y"
                   }
                 },
@@ -1814,20 +1822,42 @@
                 {
                   "name": "exile",
                   "timespan": {
-                    "start": "49 BC",
-                    "end": "48 BC"
+                    "start": "1/10/49 BC",
+                    "end": "9/28/48 BC"
                   }
                 }
               ]
             },
             {
               "name": "Cicero",
+              "style": "newMan",
               "timespan": {
-                "start": "106 BC",
-                "end": "43 BC"
+                "start": "1/3/106 BC",
+                "end": "12/7/43 BC"
               },
               "importance": "major",
               "titles": [
+                {
+                  "name": "quaestor",
+                  "timespan": {
+                    "start": "75 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "aedile",
+                  "timespan": {
+                    "start": "69 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "start": "66 BC",
+                    "duration": "1y"
+                  }
+                },
                 {
                   "name": "consul",
                   "timespan": {
@@ -1836,17 +1866,24 @@
                   }
                 },
                 {
-                  "name": "exile",
+                  "name": "governor",
                   "timespan": {
-                    "start": "57 BC",
-                    "end": "57 BC"
+                    "start": "51 BC",
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "exile",
                   "timespan": {
-                    "start": "49 BC",
-                    "end": "48 BC"
+                    "start": "5/1/58 BC",
+                    "end": "8/5/57 BC"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "1/30/49 BC",
+                    "end": "12/31/48 BC"
                   }
                 }
               ]
@@ -2159,25 +2196,40 @@
           },
           {
             "name": "Gaius Marius",
+            "style": "newMan",
             "timespan": {
               "start": "157 BC",
-              "end": "86 BC"
+              "end": "1/13/86 BC"
             },
             "importance": "major",
             "annotation": "Novus homo - Seven times elected consul - First Man in Rome - Bloody tyrant",
             "titles": [
               {
+                "name": "praetor",
+                "timespan": {
+                  "start": "115 BC",
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "governor",
+                "timespan": {
+                  "start": "114 BC",
+                  "duration": "2y"
+                }
+              },
+              {
                 "name": "consul",
                 "timespan": {
-                  "start": "106 BC",
+                  "start": "107 BC",
                   "duration": "1y"
                 }
               },
               {
                 "name": "consul",
                 "timespan": {
-                  "start": "105 BC",
-                  "duration": "1y"
+                  "start": "1/1/104 BC",
+                  "end": "12/31/100 BC"
                 }
               },
               {
@@ -2190,8 +2242,8 @@
               {
                 "name": "consul",
                 "timespan": {
-                  "start": "86 BC",
-                  "duration": "1y"
+                  "start": "1/1/86 BC",
+                  "duration": "1/13/86 BC"
                 }
               }
             ]
@@ -2294,7 +2346,7 @@
           {
             "name": "Julius Caesar",
             "timespan": {
-              "start": "100 BC",
+              "start": "7/12/100 BC",
               "end": "3/15/44 BC"
             },
             "importance": "transformational",
@@ -2302,6 +2354,34 @@
             "fate": "Sic Semper Tyrannis, Ides of March 44 BC. Afterwards deified.",
             "style": "deified",
             "titles": [
+              {
+                "name": "quaestor",
+                "timespan": {
+                  "start": "69 BC",
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "curuleAedile",
+                "timespan": {
+                  "start": "65 BC",
+                  "duration": "1y"
+                }
+              },
+              {
+                "name": "pontifexMaximus",
+                "timespan": {
+                  "start": "63 BC",
+                  "end": "3/15/44 BC"
+                }
+              },
+              {
+                "name": "praetor",
+                "timespan": {
+                  "start": "62 BC",
+                  "duration": "1y"
+                }
+              },
               {
                 "name": "consul",
                 "timespan": {
@@ -2358,7 +2438,41 @@
                   "end": "3/15/44 BC"
                 }
               }
-            ]
+            ],
+            "foregroundEvents": [
+                {
+                  "name": "Siege of Mytilene",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "81 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Procession up the Nile with Cleopatra",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "3/47 BC",
+                    "duration": "2m"
+                  }
+                },
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/47 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/45 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
           },
           {
             "name": "Publius Clodius Pulcher",
@@ -2462,8 +2576,8 @@
             {
               "name": "Augustus",
               "timespan": {
-                "start": "63 BC",
-                "end": "14"
+                "start": "9/23/63 BC",
+                "end": "8/19/14"
               },
               "importance": "transformational",
               "annotation": "Caesar's nephew and heir, the first Emperor of Rome.",
@@ -2473,14 +2587,21 @@
                 {
                   "name": "triumvir",
                   "timespan": {
-                    "start": "43 BC",
+                    "start": "10/43 BC",
                     "end": "33 BC"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "43 BC",
+                    "duration": "1y"
                   }
                 },
                 {
                   "name": "princeps",
                   "timespan": {
-                    "start": "33 BC",
+                    "start": "9/2/31 BC",
                     "end": "27 BC"
                   }
                 },
@@ -2488,7 +2609,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "27 BC",
-                    "end": "14"
+                    "end": "8/19/14"
                   }
                 }
               ]
@@ -3253,6 +3374,7 @@
           "people": [
             {
               "name": "Maximinus Thrax",
+              "style": "newMan",
               "timespan": {
                 "startYearApproximate": true,
                 "start": "173",
@@ -3348,6 +3470,7 @@
             },
             {
               "name": "Phillip the Arab",
+              "style": "newMan",
               "timespan": {
                 "startYearApproximate": true,
                 "start": "204",
@@ -3558,6 +3681,7 @@
             },
             {
               "name": "Aurelian",
+              "style": "newMan",
               "timespan": {
                 "startYearApproximate": true,
                 "start": "214",
@@ -3680,6 +3804,7 @@
           "people": [
             {
               "name": "Diocletian",
+              "style": "newMan",
               "timespan": {
                 "start": "244",
                 "end": "311"
@@ -3698,6 +3823,7 @@
             },
             {
               "name": "Maximian",
+              "style": "newMan",
               "timespan": {
                 "startYearApproximate": true,
                 "start": "250",
