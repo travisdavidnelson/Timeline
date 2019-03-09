@@ -76,8 +76,6 @@ public class TimelineBuilder {
 		}
 		else {
 			String inputFile = args[0];
-			String[] split = inputFile.split(File.separator);
-			String filename = split[split.length - 1];
 			TimelineBuilder timelineBuilder = new TimelineBuilder(inputFile);
 			Timeline timeline = timelineBuilder.generateTimeline();
 			System.out.println(timeline);

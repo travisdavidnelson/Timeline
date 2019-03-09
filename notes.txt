@@ -72,8 +72,9 @@ TODO
 201903
 	TODO
 		move fonts to config json
+			--> leave it in css for now
 		run all if no specifics given
-		add to TimelineSvgBuilder: 
+		DONE add to TimelineSvgBuilder: 
 			responsiblity for ensuring visibility of TimelineInstances whose durations < resolution of the timeline
 			ie make width at least one unit so it shows
 			also: remove cases in timeline json where artificial durations were created to ensure visibility
@@ -82,7 +83,7 @@ TODO
 					review 1m durations
 			*** the json data should be as accurate as possible ***
 		
-	done
+	DONE
 		add duration to timespan an option vs end
 
 20190217

@@ -1,8 +1,6 @@
 package com.tdn.timeline.svg;
 
 import java.io.IOException;
-import java.time.Instant;
-import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
@@ -84,7 +82,7 @@ public class TimelineSvgBuilder {
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
-			timelineYPositions.add(nextTimelineY);
+//			timelineYPositions.add(nextTimelineY);
 //			firstNationYStart = maxLifetimeYEnd + 2*dynastyDiff;
 //			nextNationYStart = firstNationYStart;
 //			for (Nation nation : foreignNations) {
@@ -133,7 +131,7 @@ public class TimelineSvgBuilder {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
 		TimelineInstant firstInstantOfFirstPerson = null;
-		int textYStart = nextPersonYStart-5;
+		int textYStart = nextPersonYStart - 5;
 		for (Person lifetime : dynasty.getPeople()) {
 			if (firstInstantOfFirstPerson == null || firstInstantOfFirstPerson.getInstant().isAfter(lifetime.getTimespan().getStart().getInstant())) {
 				firstInstantOfFirstPerson = lifetime.getTimespan().getStart();
@@ -266,9 +264,11 @@ public class TimelineSvgBuilder {
 					else if (year == 1) {
 						yearString = "AD " + yearString;
 					}
-					int textXDiff = 10*yearString.length();
-					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - 7, "year", stringBuilder);
-					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + 20, "year", stringBuilder);
+					int textXDiff = 10 * yearString.length();
+					int topYearOffset = timeline.getConfig().getTopYearOffset();
+					int bottomYearOffset = timeline.getConfig().getBottomYearOffset();
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - topYearOffset, "year", stringBuilder);
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + bottomYearOffset, "year", stringBuilder);
 				}
 				if (year % minorTickineYears == 0) {
 					TimelineInstant yearInstant = TimeUtilities.getInstant(year);

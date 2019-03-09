@@ -7,6 +7,8 @@
   "config": {
     "majorTickYears" : 10,
     "minorTickYears" : 1,
+    "topYearOffset" : 5,
+    "bottomYearOffset" : 15,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 10,
     "heightInPixels": 1000,

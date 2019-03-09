@@ -22,6 +22,8 @@ public class TimelineConfig extends TimelineEvent {
 	private Map<String, Integer> importanceOffsets = null;
 	private int majorTickYears = 100;
 	private int minorTickYears = 10;
+	private int topYearOffset = 10;
+	private int bottomYearOffset = 40;
 	
 	public TimelineConfig() {
 		importanceHeights = new TreeMap<String, Integer>();
@@ -186,5 +188,21 @@ public class TimelineConfig extends TimelineEvent {
 	}
 	public void setMinorTickYears(int minorTickYears) {
 		this.minorTickYears = minorTickYears;
+	}
+
+	public int getTopYearOffset() {
+		return topYearOffset;
+	}
+
+	public void setTopYearOffset(int topYearOffset) {
+		this.topYearOffset = topYearOffset;
+	}
+
+	public int getBottomYearOffset() {
+		return bottomYearOffset;
+	}
+
+	public void setBottomYearOffset(int bottomYearOffset) {
+		this.bottomYearOffset = bottomYearOffset;
 	}
 }
