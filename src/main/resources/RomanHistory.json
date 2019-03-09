@@ -38,7 +38,7 @@
     {
       "name": "Roman Kingdom",
       "timespan": {
-        "startYearApproximate": true,
+        "startApproximate": true,
         "start": "753 BC",
         "end": "509 BC"
       },
@@ -56,7 +56,7 @@
       "name": "Roman Principate",
       "timespan": {
         "start": "27 BC",
-        "endYearApproximate": true,
+        "endApproximate": true,
         "end": "245"
       },
       "style": "romanPrincipate"
@@ -64,7 +64,7 @@
     {
       "name": "Crisis of the Third Century",
       "timespan": {
-        "startYearApproximate": true,
+        "startApproximate": true,
         "start": "235",
         "end": "284"
       },
@@ -826,18 +826,18 @@
             {
               "name": "Romulus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "771 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "717 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "753 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "717 BC"
                 }
               }]
@@ -845,18 +845,18 @@
             {
               "name": "Numa Pompilius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "753 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "673 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "715 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "673 BC"
                 }
               }]
@@ -864,18 +864,18 @@
             {
               "name": "Tullus Hostilius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "693 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "642 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "673 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "642 BC"
                 }
               }]
@@ -883,18 +883,18 @@
             {
               "name": "Ancus Marcius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "660 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "616 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "640 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "616 BC"
                 }
               }]
@@ -907,18 +907,18 @@
             {
               "name": "Lucius Tarquinius Priscus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "636 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "579 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "616 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "579 BC"
                 }
               }]
@@ -926,18 +926,18 @@
             {
               "name": "Servius Tullius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "598 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "535 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "578 BC",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "535 BC"
                 }
               }]
@@ -945,16 +945,16 @@
             {
               "name": "Lucius Tarquinius Superbus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "555 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "496 BC"
               },
               "importance": "major",
               "titles": [{
                 "name": "king",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "535 BC",
                   "end": "509 BC"
                 }
@@ -963,9 +963,9 @@
             {
               "name": "Sextus Tarquinius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "535 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "509 BC"
               },
               "importance": "minor"
@@ -978,9 +978,9 @@
             {
               "name": "Spurius Lucretius Tricipitinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "570 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "508 BC"
               },
               "importance": "semimajor",
@@ -995,7 +995,7 @@
             {
               "name": "Lucius Junius Brutus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "560 BC",
                 "end": "509 BC"
               },
@@ -1011,9 +1011,9 @@
             {
               "name": "Lucius Tarquinius Collatinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "550 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "490 BC"
               },
               "importance": "minor",
@@ -1028,7 +1028,7 @@
             {
               "name": "Publius Valerius Publicola",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "550 BC",
                 "end": "503 BC"
               },
@@ -1077,9 +1077,9 @@
             {
               "name": "Titus Herminius Aquilinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "545 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "495 BC"
               },
               "importance": "minor",
@@ -1094,7 +1094,7 @@
             {
               "name": "Publius Horatius Cocles",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "535 BC",
                 "end": "505 BC"
               },
@@ -1103,7 +1103,7 @@
             {
               "name": "Gaius Mucius Scaevola",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "530 BC",
                 "end": "500 BC"
               },
@@ -1154,9 +1154,9 @@
             {
               "name": "Appius Claudius Crassus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "485 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "440 BC"
               },
               "importance": "minor",
@@ -1171,7 +1171,7 @@
             {
               "name": "Spurius Maelius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "485 BC",
                 "end": "439 BC"
               },
@@ -1187,7 +1187,7 @@
             {
               "name": "Marcus Furius Camillus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "446 BC",
                 "end": "365 BC"
               },
@@ -1261,7 +1261,7 @@
             {
               "name": "Publius Decius Mus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "380 BC",
                 "end": "340 BC"
               },
@@ -1277,9 +1277,9 @@
             {
               "name": "Marcus Valerius Corvus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "370 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "270 BC"
               },
               "importance": "major",
@@ -1359,7 +1359,7 @@
             {
               "name": "Marcus Atilius Regulus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "307 BC",
                 "end": "250 BC"
               },
@@ -1391,7 +1391,7 @@
             {
               "name": "Lucius Caecilius Metellus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "290 BC",
                 "end": "221 BC"
               },
@@ -1423,7 +1423,7 @@
             {
               "name": "Fabius Maximus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "280 BC",
                 "end": "203 BC"
               },
@@ -1483,7 +1483,7 @@
             {
               "name": "Publius Cornelius Scipio",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "270 BC",
                 "end": "211 BC"
               },
@@ -1508,7 +1508,7 @@
             {
               "name": "Marcus Claudius Marcellus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "268 BC",
                 "end": "208 BC"
               },
@@ -1567,7 +1567,7 @@
             {
               "name": "Lucius Aemilius Paullus Macedonicus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "229 BC",
                 "end": "160 BC"
               },
@@ -1658,7 +1658,7 @@
             {
               "name": "Quintus Caecilius Metellus Numidicus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "160 BC",
                 "end": "91 BC"
               },
@@ -1690,7 +1690,7 @@
             {
               "name": "Sulla",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "138 BC",
                 "end": "78 BC"
               },
@@ -1746,7 +1746,7 @@
               "name": "Lucullus",
               "timespan": {
                 "start": "118 BC",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "56 BC"
               },
               "importance": "minor",
@@ -1891,7 +1891,7 @@
             {
               "name": "Marcus Calpurnius Bibulus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "102 BC",
                 "end": "48 BC"
               },
@@ -1922,7 +1922,7 @@
             {
               "name": "Titus Annius Milo",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "93 BC",
                 "end": "48 BC"
               },
@@ -1947,7 +1947,7 @@
             {
               "name": "Gaius Cassius Longinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "86 BC",
                 "end": "42 BC"
               },
@@ -2028,7 +2028,7 @@
           {
             "name": "Gaius Flaminius Nepos",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "260 BC",
               "end": "217 BC"
             },
@@ -2112,7 +2112,7 @@
           {
             "name": "Tiberius Gracchus the Elder",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "217 BC",
               "end": "154 BC"
             },
@@ -2166,7 +2166,7 @@
           {
             "name": "Tiberius Gracchus",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "163 BC",
               "end": "133 BC"
             },
@@ -2251,7 +2251,7 @@
           {
             "name": "Gnaeus Papirius Carbo",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "135 BC",
               "end": "82 BC"
             },
@@ -2267,7 +2267,7 @@
           {
             "name": "Lucius Cornelius Cinna",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "127 BC",
               "end": "84 BC"
             },
@@ -2283,7 +2283,7 @@
           {
             "name": "Quintus Sertorius",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "123 BC",
               "end": "72 BC"
             },
@@ -2292,7 +2292,7 @@
           {
             "name": "Crassus",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "115 BC",
               "end": "53 BC"
             },
@@ -2477,7 +2477,7 @@
           {
             "name": "Publius Clodius Pulcher",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "93 BC",
               "end": "52 BC"
             },
@@ -2509,9 +2509,9 @@
           {
             "name": "Lepidus",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "89 BC",
-              "endYearApproximate": true,
+              "endApproximate": true,
               "end": "12 BC"
             },
             "importance": "minor",
@@ -2526,7 +2526,7 @@
           {
             "name": "Publius Licinius Crassus",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "86 BC",
               "end": "53 BC"
             },
@@ -2625,7 +2625,7 @@
             {
               "name": "Marcus Vipsanius Agrippa",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "64 BC",
                 "end": "12 BC"
               },
@@ -2870,7 +2870,7 @@
             {
               "name": "Gnaeus Domitius Corbulo",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "7",
                 "end": "67"
               },
@@ -2909,7 +2909,7 @@
             {
               "name": "Seneca the Younger",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "4 BC",
                 "end": "65"
               },
@@ -3213,7 +3213,7 @@
             {
               "name": "Didus Julianus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "133",
                 "end": "193"
               },
@@ -3313,7 +3313,7 @@
             {
               "name": "Macrinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "165",
                 "end": "218"
               },
@@ -3338,7 +3338,7 @@
             {
               "name": "Elagabalus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "203",
                 "end": "222"
               },
@@ -3376,7 +3376,7 @@
               "name": "Maximinus Thrax",
               "style": "newMan",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "173",
                 "end": "238"
               },
@@ -3392,7 +3392,7 @@
             {
               "name": "Gordian I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "159",
                 "end": "238"
               },
@@ -3408,7 +3408,7 @@
             {
               "name": "Gordian II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "192",
                 "end": "238"
               },
@@ -3424,7 +3424,7 @@
             {
               "name": "Pupienus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "178",
                 "end": "238"
               },
@@ -3440,7 +3440,7 @@
             {
               "name": "Balbinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "165",
                 "end": "238"
               },
@@ -3472,7 +3472,7 @@
               "name": "Phillip the Arab",
               "style": "newMan",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "204",
                 "end": "249"
               },
@@ -3488,7 +3488,7 @@
             {
               "name": "Decius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "201",
                 "end": "251"
               },
@@ -3519,7 +3519,7 @@
             {
               "name": "Aemilianus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "207",
                 "end": "253"
               },
@@ -3535,9 +3535,9 @@
             {
               "name": "Valerian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "195",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "264"
               },
               "importance": "minor",
@@ -3554,7 +3554,7 @@
             {
               "name": "Gallienus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "218",
                 "end": "268"
               },
@@ -3579,7 +3579,7 @@
             {
               "name": "Macrianus Major",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "210",
                 "end": "261"
               },
@@ -3597,7 +3597,7 @@
             {
               "name": "Macrianus Minor",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "235",
                 "end": "261"
               },
@@ -3615,7 +3615,7 @@
             {
               "name": "Quietus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "237",
                 "end": "261"
               },
@@ -3633,7 +3633,7 @@
             {
               "name": "Postumus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "215",
                 "end": "269"
               },
@@ -3666,7 +3666,7 @@
             {
               "name": "Quintillus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "220",
                 "end": "270"
               },
@@ -3683,7 +3683,7 @@
               "name": "Aurelian",
               "style": "newMan",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "214",
                 "end": "275"
               },
@@ -3702,7 +3702,7 @@
             {
               "name": "Marcus Claudius Tacitus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "200",
                 "end": "276"
               },
@@ -3718,7 +3718,7 @@
             {
               "name": "Marcus Aurelius Probus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "232",
                 "end": "282"
               },
@@ -3734,7 +3734,7 @@
             {
               "name": "Carus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "224",
                 "end": "283"
               },
@@ -3750,7 +3750,7 @@
             {
               "name": "Carinus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "250",
                 "end": "285"
               },
@@ -3775,7 +3775,7 @@
             {
               "name": "Numerian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "255",
                 "end": "284"
               },
@@ -3825,7 +3825,7 @@
               "name": "Maximian",
               "style": "newMan",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "250",
                 "end": "310"
               },
@@ -3841,7 +3841,7 @@
             {
               "name": "Galerius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "260",
                 "end": "311"
               },
@@ -3866,7 +3866,7 @@
             {
               "name": "Severus II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "260",
                 "end": "307"
               },
@@ -3891,7 +3891,7 @@
             {
               "name": "Maxentius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "278",
                 "end": "312"
               },
@@ -3907,7 +3907,7 @@
             {
               "name": "Maximinus II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "270",
                 "end": "313"
               },
@@ -3923,7 +3923,7 @@
             {
               "name": "Licinius I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "263",
                 "end": "325"
               },
@@ -3950,7 +3950,7 @@
             {
               "name": "Constantius I Chlorus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "250",
                 "end": "306"
               },
@@ -3975,9 +3975,9 @@
             {
               "name": "Helena",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "250",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "330"
               },
               "importance": "semimajor",
@@ -3986,7 +3986,7 @@
             {
               "name": "Constantine I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "272",
                 "end": "337"
               },
@@ -4003,7 +4003,7 @@
             {
               "name": "Crispus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "299",
                 "end": "326"
               },
@@ -4067,7 +4067,7 @@
             {
               "name": "Constans",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "320",
                 "end": "350"
               },
@@ -4083,7 +4083,7 @@
             {
               "name": "Flavius Dalmatius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "276",
                 "end": "337"
               },
@@ -4099,7 +4099,7 @@
             {
               "name": "Dalmatius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "300",
                 "end": "337"
               },
@@ -4115,7 +4115,7 @@
             {
               "name": "Hannibalianus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "305",
                 "end": "337"
               },
@@ -4124,7 +4124,7 @@
             {
               "name": "Julius Constantius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "289",
                 "end": "337"
               },
@@ -4140,7 +4140,7 @@
             {
               "name": "Constantius Gallus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "325",
                 "end": "354"
               },
@@ -4156,7 +4156,7 @@
             {
               "name": "Julian The Apostate",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "331",
                 "end": "363"
               },
@@ -4196,7 +4196,7 @@
             {
               "name": "Procopius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "325",
                 "end": "366"
               },
@@ -4291,7 +4291,7 @@
             {
               "name": "Count Theodosius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "320",
                 "end": "376"
               },
@@ -4322,7 +4322,7 @@
             {
               "name": "Stilicho",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "359",
                 "end": "408"
               },
@@ -4338,7 +4338,7 @@
             {
               "name": "Arcadius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "377",
                 "end": "408"
               },
@@ -4363,7 +4363,7 @@
             {
               "name": "Pulcheria",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "398",
                 "end": "453"
               },
@@ -4451,7 +4451,7 @@
             {
               "name": "Constantius III",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "370",
                 "end": "421"
               },
@@ -4497,7 +4497,7 @@
             {
               "name": "Joannes",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "370",
                 "end": "425"
               },
@@ -4513,7 +4513,7 @@
             {
               "name": "Bonifacius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "380",
                 "end": "432"
               },
@@ -4538,7 +4538,7 @@
             {
               "name": "Flavius Aetius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "396",
                 "end": "454"
               },
@@ -4583,7 +4583,7 @@
             {
               "name": "Ricimer",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "405",
                 "end": "472"
               },
@@ -4599,7 +4599,7 @@
             {
               "name": "Petronius Maximus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "396",
                 "end": "455"
               },
@@ -4615,9 +4615,9 @@
             {
               "name": "Avitus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "380",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "456"
               },
               "importance": "minor",
@@ -4632,7 +4632,7 @@
             {
               "name": "Majorian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "420",
                 "end": "461"
               },
@@ -4648,7 +4648,7 @@
             {
               "name": "Libius Severus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "420",
                 "end": "465"
               },
@@ -4664,7 +4664,7 @@
             {
               "name": "Anthemius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "420",
                 "end": "472"
               },
@@ -4680,7 +4680,7 @@
             {
               "name": "Olybrius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "420",
                 "end": "472"
               },
@@ -4696,9 +4696,9 @@
             {
               "name": "Glycerius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "420",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "480"
               },
               "importance": "minor",
@@ -4713,7 +4713,7 @@
             {
               "name": "Julius Nepos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "430",
                 "end": "480"
               },
@@ -4729,9 +4729,9 @@
             {
               "name": "Romulus Augustulus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "460",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "500"
               },
               "importance": "minor",
@@ -4804,7 +4804,7 @@
             {
               "name": "Zeno",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "425",
                 "end": "491"
               },
@@ -4820,7 +4820,7 @@
             {
               "name": "Basiliscus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "435",
                 "end": "477"
               },
@@ -4845,7 +4845,7 @@
             {
               "name": "Anastasius I Dicorus",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "430",
                 "end": "518"
               },
@@ -4881,7 +4881,7 @@
             {
               "name": "Justinian I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "482",
                 "end": "565"
               },
@@ -4914,7 +4914,7 @@
             {
               "name": "Theodora I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "500",
                 "end": "548"
               },
@@ -4945,7 +4945,7 @@
             {
               "name": "Belisarius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "500",
                 "end": "565"
               },
@@ -4970,7 +4970,7 @@
             {
               "name": "Justin II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "520",
                 "end": "578"
               },
@@ -5020,7 +5020,7 @@
           "people": [{
             "name": "Phocas",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "550",
               "end": "610"
             },
@@ -5040,7 +5040,7 @@
             {
               "name": "Heraclius",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "575",
                 "end": "641"
               },
@@ -5056,7 +5056,7 @@
             {
               "name": "Constantine III",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "612",
                 "end": "641"
               },
@@ -5072,7 +5072,7 @@
             {
               "name": "Heraklonas",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "626",
                 "end": "641"
               },
@@ -5103,7 +5103,7 @@
             {
               "name": "Constantine IV",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "652",
                 "end": "685"
               },
@@ -5119,7 +5119,7 @@
             {
               "name": "Justinian II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "669",
                 "end": "711"
               },
@@ -5149,7 +5149,7 @@
             {
               "name": "Leontios",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "655",
                 "end": "706"
               },
@@ -5165,7 +5165,7 @@
             {
               "name": "Tiberios III",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "660",
                 "end": "706"
               },
@@ -5181,7 +5181,7 @@
             {
               "name": "Philippikos Bardanes",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "665",
                 "end": "713"
               },
@@ -5197,7 +5197,7 @@
             {
               "name": "Anastasios II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "670",
                 "end": "719"
               },
@@ -5213,7 +5213,7 @@
             {
               "name": "Theodosios III",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "680",
                 "end": "754"
               },
@@ -5240,7 +5240,7 @@
             {
               "name": "Leo III the Isaurian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "685",
                 "end": "741"
               },
@@ -5256,7 +5256,7 @@
             {
               "name": "Artabasdos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "690",
                 "end": "743"
               },
@@ -5264,7 +5264,7 @@
               "titles": [{
                 "name": "usurper",
                 "timespan": {
-                  "startYearApproximate": true,
+                  "startApproximate": true,
                   "start": "741",
                   "end": "743"
                 }
@@ -5303,7 +5303,7 @@
             {
               "name": "Irene of Athens",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "753",
                 "end": "803"
               },
@@ -5320,7 +5320,7 @@
               "name": "Constantine VI",
               "timespan": {
                 "start": "771",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "805"
               },
               "importance": "minor",
@@ -5340,7 +5340,7 @@
             {
               "name": "Nikephoros I",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "750",
                 "end": "811"
               },
@@ -5356,7 +5356,7 @@
             {
               "name": "Staurakios",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "775",
                 "end": "812"
               },
@@ -5372,7 +5372,7 @@
             {
               "name": "Michael I Rangabe",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "770",
                 "end": "844"
               },
@@ -5461,7 +5461,7 @@
             {
               "name": "Basil I the Macedonian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "811",
                 "end": "886"
               },
@@ -5545,7 +5545,7 @@
             {
               "name": "Romanos I Lekapenos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "870",
                 "end": "958"
               },
@@ -5561,7 +5561,7 @@
             {
               "name": "Romanos II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "938",
                 "end": "963"
               },
@@ -5577,7 +5577,7 @@
             {
               "name": "Nikephoros II Phokas",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "912",
                 "end": "969"
               },
@@ -5593,7 +5593,7 @@
             {
               "name": "John I Tzimiskes",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "925",
                 "end": "976"
               },
@@ -5639,7 +5639,7 @@
             {
               "name": "Zoe Porphyrogenita",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "978",
                 "end": "1050"
               },
@@ -5670,7 +5670,7 @@
             {
               "name": "Michael IV the Paphlagonian",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1010",
                 "end": "1041"
               },
@@ -5686,7 +5686,7 @@
             {
               "name": "Michael V Kalaphates",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1015",
                 "end": "1042"
               },
@@ -5702,7 +5702,7 @@
             {
               "name": "Theodora",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "980",
                 "end": "1056"
               },
@@ -5718,7 +5718,7 @@
             {
               "name": "Constantine IX Monomachos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1000",
                 "end": "1055"
               },
@@ -5738,7 +5738,7 @@
           "people": [{
             "name": "Michael VI Bringas",
             "timespan": {
-              "startYearApproximate": true,
+              "startApproximate": true,
               "start": "990",
               "end": "1059"
             },
@@ -5764,9 +5764,9 @@
             {
               "name": "Isaac I Komnenos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1007",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "1061"
               },
               "importance": "minor",
@@ -5796,7 +5796,7 @@
             {
               "name": "Michael VII Doukas",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1050",
                 "end": "1090"
               },
@@ -5821,7 +5821,7 @@
             {
               "name": "Romanos IV Diogenes",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1030",
                 "end": "1072"
               },
@@ -5837,7 +5837,7 @@
             {
               "name": "Nikephoros III Botaneiates",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1002",
                 "end": "1081"
               },
@@ -5853,7 +5853,7 @@
             {
               "name": "Alexios I Komnenos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1048",
                 "end": "1118"
               },
@@ -5914,7 +5914,7 @@
             {
               "name": "Andronikos I Komnenos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1118",
                 "end": "1185"
               },
@@ -5959,7 +5959,7 @@
             {
               "name": "Alexios III Angelos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1153",
                 "end": "1211"
               },
@@ -5984,7 +5984,7 @@
             {
               "name": "Alexios IV Angelos",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1182",
                 "end": "1204"
               },
@@ -6000,7 +6000,7 @@
             {
               "name": "Alexios V Doukas",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1140",
                 "end": "1205"
               },
@@ -6022,7 +6022,7 @@
               "name": "Baldwin I",
               "timespan": {
                 "start": "1172",
-                "endYearApproximate": true,
+                "endApproximate": true,
                 "end": "1205"
               },
               "importance": "minor",
@@ -6030,7 +6030,7 @@
                 "name": "augustus",
                 "timespan": {
                   "start": "1204",
-                  "endYearApproximate": true,
+                  "endApproximate": true,
                   "end": "1205"
                 }
               }]
@@ -6038,7 +6038,7 @@
             {
               "name": "Henry of Flanders",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1174",
                 "end": "1216"
               },
@@ -6054,7 +6054,7 @@
             {
               "name": "Peter II of Courtenay",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1155",
                 "end": "1219"
               },
@@ -6085,7 +6085,7 @@
             {
               "name": "Robert of Courtenay",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1180",
                 "end": "1228"
               },
@@ -6101,7 +6101,7 @@
             {
               "name": "John of Brienne",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1155",
                 "end": "1237"
               },
@@ -6117,7 +6117,7 @@
             {
               "name": "Baldwin II",
               "timespan": {
-                "startYearApproximate": true,
+                "startApproximate": true,
                 "start": "1217",
                 "end": "1273"
               },
@@ -6308,7 +6308,7 @@
         {
           "name": "Lucretia",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "540 BC",
             "end": "510 BC"
           },
@@ -6317,9 +6317,9 @@
         {
           "name": "Verginia",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "465 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "449 BC"
           },
           "importance": "minor"
@@ -6327,7 +6327,7 @@
         {
           "name": "Terence",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "195 BC",
             "end": "159 BC"
           },
@@ -6336,9 +6336,9 @@
         {
           "name": "Sallust",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "86 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "35 BC"
           },
           "importance": "minor"
@@ -6354,9 +6354,9 @@
         {
           "name": "Livy",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "64 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "17"
           },
           "importance": "semimajor"
@@ -6364,9 +6364,9 @@
         {
           "name": "Strabo",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "64 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "24"
           },
           "importance": "minor"
@@ -6374,9 +6374,9 @@
         {
           "name": "Jesus",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "7 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "33"
           },
           "importance": "transformational",
@@ -6385,9 +6385,9 @@
         {
           "name": "Plutarch",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "46",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "120"
           },
           "importance": "minor"
@@ -6395,9 +6395,9 @@
         {
           "name": "Tacitus",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "56",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "117"
           },
           "importance": "minor"
@@ -6405,9 +6405,9 @@
         {
           "name": "Seutonius",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "69",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "122"
           },
           "importance": "minor"
@@ -6415,9 +6415,9 @@
         {
           "name": "Antinous",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "111",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "130"
           },
           "importance": "minor"
@@ -6425,7 +6425,7 @@
         {
           "name": "Cassius Dio",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "150",
             "end": "235"
           },
@@ -6434,9 +6434,9 @@
         {
           "name": "Ammianus Marcellinus",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "325",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "391"
           },
           "importance": "minor"
@@ -6444,7 +6444,7 @@
         {
           "name": "Jerome",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "347",
             "end": "420"
           },
@@ -6463,9 +6463,9 @@
         {
           "name": "Procopius",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "500",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "565"
           },
           "importance": "minor"
@@ -6572,7 +6572,7 @@
         {
           "name": "Hamilcar Barca",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "275 BC",
             "end": "228 BC"
           },
@@ -6582,7 +6582,7 @@
           "name": "Hannibal",
           "timespan": {
             "start": "247 BC",
-            "endYearApproximate": true,
+            "endApproximate": true,
             "end": "182 BC"
           },
           "importance": "transformational"
@@ -6629,7 +6629,7 @@
       "people": {
         "name": "Vercingetorix",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "82 BC",
           "end": "46 BC"
         },
@@ -6707,7 +6707,7 @@
         {
           "name": "Perseus of Macedon",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "212 BC",
             "end": "166 BC"
           },
@@ -6754,7 +6754,7 @@
       "people": {
         "name": "Pyrrhus of Epirus",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "319 BC",
           "end": "272 BC"
         },
@@ -6778,7 +6778,7 @@
         {
           "name": "Seleucus I Nicator",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "358 BC",
             "end": "281 BC"
           },
@@ -6787,7 +6787,7 @@
         {
           "name": "Antiochus III the Great",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "241 BC",
             "end": "187 BC"
           },
@@ -6850,9 +6850,9 @@
       "people": {
         "name": "Mithridates II of Parthia",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "143 BC",
-          "endYearApproximate": true,
+          "endApproximate": true,
           "end": "88 BC"
         },
         "importance": "minor"
@@ -6934,7 +6934,7 @@
         {
           "name": "Shapur I",
           "timespan": {
-            "startYearApproximate": true,
+            "startApproximate": true,
             "start": "215",
             "end": "272"
           },
@@ -7031,7 +7031,7 @@
       "people": {
         "name": "Genseric",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "389",
           "end": "477"
         },
@@ -7047,7 +7047,7 @@
       "people": {
         "name": "Charlemagne",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "742",
           "end": "814"
         },
@@ -7070,7 +7070,7 @@
       "people": {
         "name": "Alaric",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "370",
           "end": "410"
         },
@@ -7108,7 +7108,7 @@
       "people": {
         "name": "Attila The Hun",
         "timespan": {
-          "startYearApproximate": true,
+          "startApproximate": true,
           "start": "400",
           "end": "453"
         },

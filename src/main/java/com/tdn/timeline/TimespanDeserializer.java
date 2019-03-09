@@ -44,8 +44,8 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 			}
 			result.setDuration(durationInDays);
 		}
-		result.setStartYearApproximate(jsonData.has("startYearApproximate"));
-		result.setEndYearApproximate(jsonData.has("endYearApproximate"));
+		result.setStartApproximate(jsonData.has("startApproximate"));
+		result.setEndApproximate(jsonData.has("endApproximate"));
 		return result;
 	}
 

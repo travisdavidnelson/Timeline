@@ -157,14 +157,14 @@ public class TimelineSvgBuilder {
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		TimelineInstant start = person.getTimespan().getStart();
 		int x = instantToX(start);
-		if (person.getTimespan().getStartYearApproximate()) {
+		if (person.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearPersonAdjustment * 365);
 		}
 		long duration = person.getTimespan().getDuration();
-		if (person.getTimespan().getStartYearApproximate()) {
+		if (person.getTimespan().getStartApproximate()) {
 			duration += approximateYearPersonAdjustment * 365;
 		}
-		if (person.getTimespan().getEndYearApproximate()) {
+		if (person.getTimespan().getEndApproximate()) {
 			duration += approximateYearPersonAdjustment * 365;
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());
@@ -180,7 +180,7 @@ public class TimelineSvgBuilder {
 		}
 		int yOffset = timeline.getConfig().getOffset(person.getImportance());
 		int textX = x + 2;
-		if (person.getTimespan().getStartYearApproximate()) {
+		if (person.getTimespan().getStartApproximate()) {
 			textX += 2;
 		}
 		addTextSVG(person.getName().toUpperCase(), textX, nextPersonYStart+yOffset, person.getImportance(), stringBuilder);
@@ -206,15 +206,15 @@ public class TimelineSvgBuilder {
 	private void getTitleSVG(Person person, TimelineEvent title, String style, StringBuilder stringBuilder) {
 		TimelineInstant startInstant = title.getTimespan().getStart();
 		int x = instantToX(startInstant);
-		if (title.getTimespan().getStartYearApproximate()) {
+		if (title.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearTitleAdjustment * 365);
 		}
 		int y = nextPersonYStart;
 		long duration = title.getTimespan().getDuration();
-		if (title.getTimespan().getStartYearApproximate()) {
+		if (title.getTimespan().getStartApproximate()) {
 			duration += approximateYearTitleAdjustment * 365;
 		}
-		if (title.getTimespan().getEndYearApproximate()) {
+		if (title.getTimespan().getEndApproximate()) {
 			duration += approximateYearTitleAdjustment * 365;
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());

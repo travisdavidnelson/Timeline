@@ -54,8 +54,8 @@ class DateRangeDeserializer implements JsonDeserializer<Timespan> {
 		Timespan result = new Timespan();
 		result.setStart(start);
 		result.setEnd(end);
-		result.setStartYearApproximate(jsonData.has("startYearApproximate"));
-		result.setEndYearApproximate(jsonData.has("endYearApproximate"));
+		result.setStartApproximate(jsonData.has("startApproximate"));
+		result.setEndApproximate(jsonData.has("endApproximate"));
 		return result;
 	}
 	

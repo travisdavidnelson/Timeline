@@ -10,25 +10,25 @@ public class Timespan {
 	private TimelineInstant start;
 	private TimelineInstant end;
 	private long duration;
-	private boolean startYearApproximate = false;
-	private boolean endYearApproximate = false;
+	private boolean startApproximate = false;
+	private boolean endApproximate = false;
 
 	public Timespan() {
 		
 	}
 	
-	public boolean getStartYearApproximate() {
-		return startYearApproximate;
+	public boolean getStartApproximate() {
+		return startApproximate;
 	}
-	public void setStartYearApproximate(boolean startYearApproximate) {
-		this.startYearApproximate = startYearApproximate;
+	public void setStartApproximate(boolean startApproximate) {
+		this.startApproximate = startApproximate;
 	}
 
-	public boolean getEndYearApproximate() {
-		return endYearApproximate;
+	public boolean getEndApproximate() {
+		return endApproximate;
 	}
-	public void setEndYearApproximate(boolean endYearApproximate) {
-		this.endYearApproximate = endYearApproximate;
+	public void setEndApproximate(boolean endApproximate) {
+		this.endApproximate = endApproximate;
 	}
 	
 	public TimelineInstant getStart() {
@@ -60,10 +60,10 @@ public class Timespan {
 	@Override
 	public String toString() {
 		StringBuilder result = new StringBuilder();
-		result.append(getYearString(start, startYearApproximate));
+		result.append(getYearString(start, startApproximate));
 		if (end != null) {
 			result.append(" - ");
-			result.append(getYearString(end, endYearApproximate));
+			result.append(getYearString(end, endApproximate));
 		}
 		return result.toString();
 	}
@@ -79,13 +79,13 @@ public class Timespan {
 
 	public String getMaskName() {
 		String result = null;
-		if (getStartYearApproximate() && !getEndYearApproximate()) {
+		if (getStartApproximate() && !getEndApproximate()) {
 			result = FADE_IN_MASK;
 		}
-		else if (getEndYearApproximate() && !getStartYearApproximate()) {
+		else if (getEndApproximate() && !getStartApproximate()) {
 			result = FADE_OUT_MASK;
 		}
-		else if (getStartYearApproximate() && getEndYearApproximate()) {
+		else if (getStartApproximate() && getEndApproximate()) {
 			result = FADE_IN_OUT_MASK;
 		}
 		return result;
