@@ -50,6 +50,9 @@ public class Timespan {
 			if (end != null) {
 				duration = start.getDifferenceInDays(end);
 			}
+			else {
+				duration = start.getDifferenceInDays(TimelineInstant.NOW);
+			}
 		}
 		return duration;
 	}

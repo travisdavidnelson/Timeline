@@ -1,9 +1,21 @@
 package com.tdn.timeline.util;
 
 import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoField;
 import java.time.temporal.ChronoUnit;
 
 public class TimelineInstant {
+
+	public static TimelineInstant NOW = null;
+	static {
+		LocalDateTime now = LocalDateTime.now();
+		int year = now.get(ChronoField.YEAR);
+		int month = now.get(ChronoField.MONTH_OF_YEAR);
+		int day = now.get(ChronoField.DAY_OF_MONTH);
+		NOW = TimeUtilities.getInstant(year, month, day);
+	}
+
 	private String originalString;
 	private Instant instant;
 	private int year;
@@ -29,7 +41,11 @@ public class TimelineInstant {
 	}
 
 	public int getDifferenceInDays(TimelineInstant other) {
-		return (int) this.instant.until(other.getInstant(), ChronoUnit.DAYS);
+		return getDifferenceInDays(other.getInstant());
+	}
+
+	public int getDifferenceInDays(Instant other) {
+		return (int) this.instant.until(other, ChronoUnit.DAYS);
 	}
 	
 	public boolean isAfter(TimelineInstant other) {

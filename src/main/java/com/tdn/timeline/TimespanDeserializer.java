@@ -1,6 +1,7 @@
 package com.tdn.timeline;
 
 import java.lang.reflect.Type;
+import java.time.temporal.ChronoField;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
@@ -26,8 +27,13 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 		result.setStart(start);
 		if (jsonData.has("end")) {
 			String endString = jsonData.get("end").getAsString();
-			TimelineInstant end = TimeUtilities.getInstant(endString);
-			result.setEnd(end);
+			if (endString.length() > 0) {
+				TimelineInstant end = TimeUtilities.getInstant(endString);
+				result.setEnd(end);
+			}
+			else {
+				result.setEnd(TimelineInstant.NOW);
+			}
 		}
 		if (jsonData.has("duration")) {
 			String durationString = jsonData.get("duration").getAsString();
