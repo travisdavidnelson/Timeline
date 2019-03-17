@@ -1,0 +1,114 @@
+.year {font-family: serif; font-size: 60px; kerning: 0; stroke:none; fill:#000000;}
+.timeline {stroke-width: 1.0; stroke: black}
+
+.colonialAmerica {fill:red;fill-opacity:0.1}
+.articlesOfConfederation {fill:lightblue;fill-opacity:0.2}
+.americanRepublic {fill:blue;fill-opacity:0.1}
+.romanPrincipate {fill:purple;fill-opacity:0.2}
+.romanCrisis {fill:grey;fill-opacity:0.3}
+.romanDominate {fill:purple;fill-opacity:0.2}
+.byzantium {fill:purple;fill-opacity:0.2}
+
+.backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
+.backgroundUnionVictory {stroke:#C00000; stroke-width:1.5; fill:blue; fill-opacity:0.8}
+.backgroundConfederateVictory {stroke:#C00000; stroke-width:1.5; fill:red; fill-opacity:0.8}
+.backgroundConstitutionalConvention {fill:blue; fill-opacity:0.5}
+.backgroundInvasion {fill:#4C0000; fill-opacity:0.8}
+.backgroundForeignWar {fill:brown; fill-opacity:0.2}
+.backgroundForeignWarMinor {fill:brown; fill-opacity:0.2}
+.backgroundForeignWarMajor {fill:brown; fill-opacity:0.5}
+.backgroundForeignWarVictory {fill:blue; fill-opacity:0.2}
+.backgroundForeignWarMinorVictory {fill:blue; fill-opacity:0.2}
+.backgroundForeignWarMajorVictory {fill:blue; fill-opacity:0.4}
+.backgroundForeignWarDefeat {fill:red; fill-opacity:0.2}
+.backgroundForeignWarMinorDefeat {fill:red; fill-opacity:0.2}
+.backgroundForeignWarMajorDefeat {fill:red; fill-opacity:0.5}
+.backgroundRebellion {fill:red; fill-opacity:0.4}
+.backgroundMinorRebellion {fill:red; fill-opacity:0.4}
+.backgroundMajorRebellion {fill:red; fill-opacity:0.7}
+.backgroundNationalCalamity {stroke:#C00000; stroke-width:1.5; fill:#C00000; fill-opacity:1.0}
+.backgroundPlague {fill:black; fill-opacity:0.5}
+.backgroundWar {fill:#C00000; fill-opacity:0.3}
+.conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
+
+.american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+.federalist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.democrat {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.whig {fill:white; stroke:black; stroke-width:0.1; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
+.republican {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+
+.newMan {fill:#f8df6c; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
+.sanctified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
+.barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
+.fate {fill-opacity:0.0}
+
+.dynasty {font-family: serif; font-size: 40px; kerning: 1; stroke:none; fill:#000000;}
+
+.footprint {fill-opacity:0.0; font-family: serif;}
+.transformational {font-family: serif; font-size: 90px; kerning: 2; stroke:none; fill:#000000;}
+.major {font-family: serif; font-size: 70px; kerning: 1; stroke:none; fill:#000000;}
+.semimajor {font-family: serif; font-size: 50px; kerning: 1; stroke:none; fill:#000000;}
+.minor {font-family: serif; font-size: 30px; kerning: 1; stroke:none; fill:#000000;}
+
+.president 			{fill:blue;		fill-opacity:0.8}
+.vicePresident 		{fill:blue;		fill-opacity:0.6}
+.speakerOfHouse     {fill:blue;		fill-opacity:0.6}
+.secretaryOfState   {fill:blue;		fill-opacity:0.6}
+.secretaryOfWar     {fill:#C00000;	fill-opacity:0.8}
+.senator 			{fill:blue;		fill-opacity:0.3}
+.legislator     	{fill:blue;		fill-opacity:0.2}
+.governor 			{fill:blue;		fill-opacity:0.4}
+.militaryGovernor 	{fill:#C00000;	fill-opacity:0.5}
+.general 			{fill:#C00000;	fill-opacity:0.6}
+.diplomat           {fill:blue;		fill-opacity:0.4}
+
+.augustus 			{fill:#9A32CD;	fill-opacity:1.0}
+.battle 			{fill:red;		fill-opacity:0.7}
+.caesar 			{fill:#9A32CD;	fill-opacity:0.6}
+.censor 			{fill:blue;		fill-opacity:0.5}
+.consul 			{fill:blue;		fill-opacity:0.6}
+.curuleAedile 		{fill:blue;		fill-opacity:0.3}
+.decemvir 			{fill:blue;		fill-opacity:0.8}
+.dictator 			{fill:blue;		fill-opacity:1.0}
+.exile 				{fill:black;	fill-opacity:0.5}
+.king 				{fill:purple;	fill-opacity:1.0}
+.magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
+.masterOfHorse 		{fill:blue;		fill-opacity:0.8}
+.pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
+.praetor 			{fill:blue;		fill-opacity:0.4}
+.praetorianPrefect 	{fill:#C00000;	fill-opacity:1.0}
+.princeps 			{fill:blue;		fill-opacity:1.0}
+.quaestor 			{fill:blue;		fill-opacity:0.4}
+.regent 			{fill:blue;		fill-opacity:0.8}
+.tribune 			{fill:blue;		fill-opacity:0.5}
+.triumvir 			{fill:#551A8B;	fill-opacity:1.0}
+.usurper 			{fill:black;	fill-opacity:0.5}
+.triumph 			{fill:red;		fill-opacity:1.0}
+
+
+.sabines 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.samnites 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.etruscans 			{fill:grey;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.carthage 			{fill:orange;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.gauls 				{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.islamicCaliphate	{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.macedonianEmpire 	{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.seleucidEmpire 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.ptolemaicKingdom 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.armenia 			{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.parthianEmpire 	{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.sassanidEmpire 	{fill:brown;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.alamanni 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.vandals 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.franks 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
+.visigoths 			{fill:black;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.ostrogoths 		{fill:black;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.huns 				{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
+
+
+/*.romulus1 {fill:red;fill-opacity:0.5}*/
+/*.romulus2 {fill:purple;stroke:black;stroke-width:1;fill-opacity:0.2}*/
+/*#Romulus {fill-opacity:1.0}*/
