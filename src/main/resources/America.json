@@ -36,10 +36,10 @@
       "transformational":75
     },
     "importanceXOffsets":{
-      "minor":2,
-      "semimajor":2,
-      "major":2,
-      "transformational":2
+      "minor":8,
+      "semimajor":12,
+      "major":16,
+      "transformational":20
     }
   },
   "backgroundEvents": [
