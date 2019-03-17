@@ -29,11 +29,17 @@
       "major":40,
       "transformational":50
     },
-    "importanceOffsets":{
+    "importanceYOffsets":{
       "minor":10,
       "semimajor":13,
       "major":23,
       "transformational":35
+    },
+    "importanceXOffsets":{
+      "minor":2,
+      "semimajor":2,
+      "major":2,
+      "transformational":2
     }
   },
   "backgroundEvents": [
@@ -2245,7 +2251,7 @@
                 "name": "consul",
                 "timespan": {
                   "start": "1/1/86 BC",
-                  "duration": "1/13/86 BC"
+                  "end": "1/13/86 BC"
                 }
               }
             ]

@@ -19,7 +19,8 @@ public class TimelineConfig extends TimelineEvent {
 	private int approximateYearPersonAdjustment = 0;
 	private int approximateYearTitleAdjustment = 0;
 	private Map<String, Integer> importanceHeights = null;
-	private Map<String, Integer> importanceOffsets = null;
+	private Map<String, Integer> importanceYOffsets = null;
+	private Map<String, Integer> importanceXOffsets = null;
 	private int majorTickYears = 100;
 	private int minorTickYears = 10;
 	private int topYearOffset = 10;
@@ -27,7 +28,8 @@ public class TimelineConfig extends TimelineEvent {
 	
 	public TimelineConfig() {
 		importanceHeights = new TreeMap<String, Integer>();
-		importanceOffsets = new TreeMap<String, Integer>();
+		importanceYOffsets = new TreeMap<String, Integer>();
+		importanceXOffsets = new TreeMap<String, Integer>();
 	}
 
 	public String getDefaultPersonStyle() {
@@ -159,19 +161,36 @@ public class TimelineConfig extends TimelineEvent {
 		return result;
 	}
 
-	public Map<String, Integer> getImportanceOffsets() {
-		return importanceOffsets;
+	public Map<String, Integer> getImportanceYOffsets() {
+		return importanceYOffsets;
 	}
-	public void setImportanceOffsets(Map<String, Integer> importanceOffsets) {
-		this.importanceOffsets = importanceOffsets;
+	public void setImportanceYOffsets(Map<String, Integer> importanceOffsets) {
+		this.importanceYOffsets = importanceOffsets;
 	}
-	public Integer getOffset(String importance) {
+	public Integer getYOffset(String importance) {
 		Integer result = null;
-		if (importanceOffsets.containsKey(importance)) {
-			result = importanceOffsets.get(importance);
+		if (importanceYOffsets.containsKey(importance)) {
+			result = importanceYOffsets.get(importance);
 		}
 		else {
-			System.err.println("No offset for importance " + importance);
+			System.err.println("No y offset for importance " + importance);
+		}
+		return result;
+	}
+
+	public Map<String, Integer> getImportanceXOffsets() {
+		return importanceXOffsets;
+	}
+	public void setImportanceXOffsets(Map<String, Integer> importanceOffsets) {
+		this.importanceXOffsets = importanceOffsets;
+	}
+	public Integer getXOffset(String importance) {
+		Integer result = null;
+		if (importanceXOffsets.containsKey(importance)) {
+			result = importanceXOffsets.get(importance);
+		}
+		else {
+			System.err.println("No x offset for importance " + importance);
 		}
 		return result;
 	}

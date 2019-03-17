@@ -29,11 +29,17 @@
       "major":30,
       "transformational":40
     },
-    "importanceOffsets":{
+    "importanceYOffsets":{
       "minor":15,
       "semimajor":20,
       "major":25,
       "transformational":30
+    },
+    "importanceXOffsets":{
+      "minor":2,
+      "semimajor":2,
+      "major":2,
+      "transformational":2
     }
   },
   "backgroundEvents": [
