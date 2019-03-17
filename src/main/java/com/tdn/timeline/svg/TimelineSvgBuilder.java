@@ -325,7 +325,9 @@ public class TimelineSvgBuilder {
 		result.append(String.format("%1tc\n-->\n", c));
 		result.append("<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\">\n");
 		result.append("<head>\n");
-		result.append("  <title>Timeline</title>\n");
+		result.append("  <title>");
+		result.append(timeline.getName());
+		result.append("</title>\n");
 		result.append("  <link type=\"text/css\" rel=\"stylesheet\" href=\"./");
 		result.append(timeline.getId());
 		result.append(".css\"/>");
