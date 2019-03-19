@@ -56,12 +56,17 @@
 .speakerOfHouse     {fill:blue;		fill-opacity:0.6}
 .secretaryOfState   {fill:blue;		fill-opacity:0.6}
 .secretaryOfWar     {fill:#C00000;	fill-opacity:0.8}
+.secretaryOfTreasury     {fill:green;	fill-opacity:0.8}
+.secretaryOfCommerce     {fill:green;	fill-opacity:0.4}
 .senator 			{fill:blue;		fill-opacity:0.3}
 .legislator     	{fill:blue;		fill-opacity:0.2}
 .governor 			{fill:blue;		fill-opacity:0.4}
 .militaryGovernor 	{fill:#C00000;	fill-opacity:0.5}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .diplomat           {fill:blue;		fill-opacity:0.4}
+.chiefJustice   	{fill:purple;	fill-opacity:0.8}
+.justice   	 		{fill:purple;	fill-opacity:0.6}
+.judge   	 		{fill:purple;	fill-opacity:0.4}
 
 .augustus 			{fill:#9A32CD;	fill-opacity:1.0}
 .battle 			{fill:red;		fill-opacity:0.7}
