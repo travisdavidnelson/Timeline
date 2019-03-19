@@ -562,6 +562,27 @@
               "style": "democrat",
               "titles": [
                 {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/1/1781",
+                    "end": "11/1/1783"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "11/6/1786",
+                    "end": "10/30/1787"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1789",
+                    "end": "3/4/1797"
+                  }
+                },
+                {
                   "name": "secretaryOfState",
                   "timespan": {
                     "start": "5/2/1801",
@@ -585,13 +606,71 @@
               },
               "importance": "semimajor",
               "style": "democrat",
-              "titles": [{
-                "name": "president",
-                "timespan": {
-                  "start": "3/4/1817",
-                  "end": "3/4/1825"
+              "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "11/3/1783",
+                    "end": "11/7/1786"
+                  }
+                },
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "11/9/1790",
+                    "end": "5/27/1794"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "8/15/1794",
+                    "end": "12/9/1796"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "8/17/1803",
+                    "end": "10/7/1807"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "12/28/1799",
+                    "end": "12/1/1802"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1/16/1811",
+                    "end": "3/4/1811"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "4/6/1811",
+                    "end": "4/4/1817"
+                  }
+                },
+                {
+                  "name": "secretaryOfWar",
+                  "timespan": {
+                    "start": "9/27/1814",
+                    "end": "3/2/1815"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "3/4/1817",
+                    "end": "3/4/1825"
+                  }
                 }
-              }]
+              ]
             },
 			{
               "name": "John Quincy Adams",
