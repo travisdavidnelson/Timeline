@@ -338,8 +338,245 @@
       "yStart": 0,
       "dynasties": [
         {
+          "name": "Colonists",
+          "people": [
+            {
+              "name": "Edward Maria Wingfield",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1550",
+                "end": "1631"
+              },
+              "importance": "semimajor",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "5/13/1607",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Smith",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1/6/1580",
+                "end": "6/21/1631"
+              },
+              "importance": "semimajor",
+              "style": "colonist"
+            },
+            {
+              "name": "Virginia Dare",
+              "timespan": {
+                "start": "8/18/1587",
+                "endApproximate": true,
+                "end": "1600"
+              },
+              "importance": "minor",
+              "style": "colonist"
+            },
+            {
+              "name": "John Winthrop",
+              "timespan": {
+                "start": "1/12/1587",
+                "end": "3/26/1649"
+              },
+              "importance": "major",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1630",
+                    "end": "1634"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1637",
+                    "end": "1640"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1642",
+                    "end": "1644"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1646",
+                    "end": "1649"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Bradford",
+              "timespan": {
+                "start": "3/19/1590",
+                "end": "5/9/1657"
+              },
+              "importance": "semimajor",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1621",
+                    "end": "1657"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anne Hutchinson",
+              "timespan": {
+                "start": "7/1591",
+                "end": "8/1643"
+              },
+              "importance": "semimajor",
+              "style": "colonist"
+            },
+            {
+              "name": "John Winthrop",
+              "timespan": {
+                "start": "1600",
+                "end": "3/15/1664"
+              },
+              "importance": "major",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1629",
+                    "end": "1630"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1644",
+                    "end": "1645"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1649",
+                    "end": "1650"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1655",
+                    "end": "1664"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Roger Williams",
+              "timespan": {
+                "start": "12/21/1603",
+                "end": "3/15/1683"
+              },
+              "importance": "major",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1654",
+                    "end": "1657"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Group2",
+      "yStart": 0,
+      "dynasties": [
+       {
           "name": "Early",
           "people": [
+            {
+              "name": "Samuel Adams",
+              "timespan": {
+                "start": "9/27/1722",
+                "end": "10/2/1803"
+              },
+              "importance": "semimajor",
+              "style": "patriot",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "10/8/1794",
+                    "end": "6/2/1797"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "1774",
+                    "end": "1781"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Hancock",
+              "timespan": {
+                "start": "1/23/1737",
+                "end": "10/8/1793"
+              },
+              "importance": "semimajor",
+              "style": "patriot",
+              "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "5/24/1775",
+                    "end": "10/31/1777"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "11/23/1785",
+                    "end": "6/5/1786"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "10/25/1780",
+                    "end": "1/29/1785"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "5/30/1787",
+                    "end": "10/8/1793"
+                  }
+                }
+              ]
+            },
             {
               "name": "George Washington",
               "timespan": {
@@ -2136,6 +2373,14 @@
           "timespan": {
             "start": "1/17/1706",
             "end": "4/17/1790"
+          },
+          "importance": "major"
+        },
+        {
+          "name": "Thomas Edison",
+          "timespan": {
+            "start": "2/11/1847",
+            "end": "10/18/1931"
           },
           "importance": "major"
         }
