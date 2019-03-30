@@ -23,7 +23,7 @@ public class TimespanTest {
 	public void test_deserialization() {
 		String json = null;
 		try {
-			json = FileUtilities.getFileContents("src/main/resources/DateRange.json");
+			json = FileUtilities.getFileContents("src/test/resources/DateRange.json");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
