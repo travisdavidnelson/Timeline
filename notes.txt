@@ -3,7 +3,7 @@ TODO
 - Bugs
 	- French Revolution horizontal canvas size wrong
 
-- More precise dates!
+- DONE More precise dates!
 	- first: expand scale to >= 12 pixels/year so more precise dates can be represented
 	- xml data format
 		- rename startYear/endYear?
@@ -21,7 +21,7 @@ TODO
 	- yearHeader, yearFooter offsets
 	
 - People
-	- Foreground events
+	- DONE Foreground events
 	- fix annotation and fate spacing in person tooltip
 	- toy around with opacity
 	- links not working in safari and work-machine chrome (!)

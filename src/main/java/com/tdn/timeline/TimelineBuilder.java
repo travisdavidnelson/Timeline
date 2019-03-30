@@ -2,7 +2,12 @@ package com.tdn.timeline;
 
 import java.io.File;
 import java.io.FileWriter;
+import java.io.FilenameFilter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -11,12 +16,15 @@ import com.tdn.util.FileUtilities;
 
 public class TimelineBuilder {
 
-	private String inputFile = null;
+	private File projectRoot = null;
+	private File inputFile = null;
 	private String id = null;
 
-	public TimelineBuilder(String inputFile) {
+	public TimelineBuilder(File projectRoot, File inputFile) {
+		this.projectRoot = projectRoot;
 		this.inputFile = inputFile;
-		this.id = inputFile.split("\\.")[0];
+		String absolutePath = inputFile.getAbsolutePath();
+		this.id = absolutePath.split("\\.")[0];
 		if (id.contains(File.separator)) {
 			id = id.substring(id.lastIndexOf(File.separator) + 1);
 		}
@@ -31,54 +39,99 @@ public class TimelineBuilder {
 					.registerTypeAdapter(Timespan.class, new TimespanDeserializer())
 					.create();
 			timeline = gson.fromJson(json, Timeline.class);
-			timeline.setId(id);
-			System.out.println(timeline);
-			TimelineSvgBuilder svgBuilder = new TimelineSvgBuilder(timeline);
-
-			File outputFolder = new File("./output");
-			if (!outputFolder.exists()) {
-				outputFolder.mkdirs();
+			if (timeline != null) {
+				timeline.setId(id);
+				System.out.println(timeline);
+				TimelineSvgBuilder svgBuilder = new TimelineSvgBuilder(timeline);
+	
+				File outputFolder = new File(projectRoot, "output");
+				if (!outputFolder.exists()) {
+					outputFolder.mkdirs();
+				}
+	
+				File originalCssFile = new File(projectRoot, id + ".css");
+				String cssContents = FileUtilities.getFileContents(originalCssFile);
+				File cssFile = new File(outputFolder, "" + id + ".css");
+				System.out.println("Writing CSS file " + cssFile);
+				FileWriter fileWriter = new FileWriter(cssFile);
+				fileWriter.append(cssContents);
+				fileWriter.flush();
+				fileWriter.close();
+	
+				File htmlFile = new File(outputFolder, "" + id + ".html");
+				System.out.println("Writing HTML file " + htmlFile);
+				fileWriter = new FileWriter(htmlFile);
+				fileWriter.append(svgBuilder.toHTML());
+				fileWriter.flush();
+				fileWriter.close();
+	
+				File svgFile = new File(outputFolder, "" + id + ".svg");
+				System.out.println("Writing SVG file " + svgFile);
+				fileWriter = new FileWriter(svgFile);
+				fileWriter.append(svgBuilder.toSVG());
+				fileWriter.flush();
+				fileWriter.close();
 			}
-
-			String cssContents = FileUtilities.getFileContents("src/main/resources/" + id + ".css");
-			File cssFile = new File(outputFolder, "" + id + ".css");
-			System.out.println("Writing CSS file " + cssFile);
-			FileWriter fileWriter = new FileWriter(cssFile);
-			fileWriter.append(cssContents);
-			fileWriter.flush();
-			fileWriter.close();
-
-			File htmlFile = new File(outputFolder, "" + id + ".html");
-			System.out.println("Writing HTML file " + htmlFile);
-			fileWriter = new FileWriter(htmlFile);
-			fileWriter.append(svgBuilder.toHTML());
-			fileWriter.flush();
-			fileWriter.close();
-
-			File svgFile = new File(outputFolder, "" + id + ".svg");
-			System.out.println("Writing SVG file " + svgFile);
-			fileWriter = new FileWriter(svgFile);
-			fileWriter.append(svgBuilder.toSVG());
-			fileWriter.flush();
-			fileWriter.close();
+			else {
+				System.err.println("Parsed Timeline for input file " + inputFile.getAbsolutePath() + " is null.");
+			}
+			System.out.println("Done generating timeline " + id);
 		}
-		catch (IOException e) {
+		catch (Exception e) {
 			e.printStackTrace();
 		}
-		System.out.println("Done generating timeline " + id);
 		return timeline;
 	}
 
 	public static void main(String[] args) {
 
 		if (args.length < 1) {
-			System.err.println("Usgae: java -jar ./target/timeline-0.0.1-SNAPSHOT.jar /path/to/inputfile.json");
+			System.err.println("Usgae: java -jar ./target/timeline-0.0.1-SNAPSHOT.jar /path/to/root/ TimelineFolder*");
 		}
 		else {
-			String inputFile = args[0];
-			TimelineBuilder timelineBuilder = new TimelineBuilder(inputFile);
-			Timeline timeline = timelineBuilder.generateTimeline();
-			System.out.println(timeline);
+			String rootPath = args[0];
+			File root = new File(rootPath);
+			if (root.exists()) {
+				if (root.isDirectory()) {
+					String[] projects = args.length > 1 ? Arrays.copyOfRange(args, 1, args.length) : null;
+					if (projects == null) {
+						projects = root.list(new FilenameFilter() {
+							@Override
+							public boolean accept(File dir, String name) {
+								return new File (dir, name).isDirectory();
+							}
+						});
+					}
+					List<String> projectNames = Arrays.asList(projects);
+					System.out.println("Found projects " + projectNames);
+					for (String project : projectNames) {
+						System.out.println("Found project folder " + project);
+						File projectFile = new File (root, project);
+						File[] dataFiles = projectFile.listFiles(new FilenameFilter() {
+								@Override
+								public boolean accept(File dir, String name) {
+									return name.endsWith(".json");
+								}
+							});
+						List<String> dataFileNames = new ArrayList<>();
+						for (File dataFile : dataFiles) {
+							dataFileNames.add(dataFile.getAbsolutePath());
+						}
+						System.out.println("Found dataFiles " + dataFileNames);
+						for (File dataFile : dataFiles) {
+							TimelineBuilder timelineBuilder = new TimelineBuilder(projectFile, dataFile);
+							Timeline timeline = timelineBuilder.generateTimeline();
+							System.out.println(timeline);
+						}
+					}
+				}
+				else {
+					System.err.println("Root path is not a directory " + rootPath);
+				}
+			}
+			else {
+				System.err.println("Root path does not exist " + rootPath);
+			}
 		}
 	}
 

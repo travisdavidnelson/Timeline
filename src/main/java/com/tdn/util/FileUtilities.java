@@ -15,9 +15,11 @@ import java.util.regex.Pattern;
 public class FileUtilities {
 
 	public static String getFileContents(String filename) throws IOException {
+		return getFileContents(new File(filename));
+	}
+	public static String getFileContents(File file) throws IOException {
 		StringBuilder result = new StringBuilder();
 		
-		File file = new File(filename);
 		if (file.exists()) {
 			try (BufferedReader reader = new BufferedReader(new FileReader(file));)
 			{
@@ -34,7 +36,7 @@ public class FileUtilities {
 		}
 		else {
 			System.err.println("File " + file + " does not exist.");
-			throw new FileNotFoundException(filename);
+			throw new FileNotFoundException(file.getAbsolutePath());
 		}
 		
 		return result.toString();
