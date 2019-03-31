@@ -122,7 +122,7 @@ public class TimelineSvgBuilder {
 	}
 	public void getDynastyGroupSVG(DynastyGroup dynastyGroup, StringBuilder stringBuilder) {
 		lastPersonInGroup = null;
-		nextPersonYStart = dynastyStart + dynastyGroup.getyStart();
+		nextPersonYStart = dynastyStart;
 		for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 			getDynastySVG(dynasty, stringBuilder);
 		}
@@ -130,11 +130,17 @@ public class TimelineSvgBuilder {
 	public void getDynastySVG(Dynasty dynasty, StringBuilder stringBuilder) {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
-		TimelineInstant firstInstantOfFirstPerson = null;
+		TimelineInstant headerInstant = dynasty.getHeaderStart();
 		int textYStart = nextPersonYStart - lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
-			if (firstInstantOfFirstPerson == null || firstInstantOfFirstPerson.getInstant().isAfter(lifetime.getTimespan().getStart().getInstant())) {
-				firstInstantOfFirstPerson = lifetime.getTimespan().getStart();
+			if (headerInstant == null) {
+				TimelineInstant firstTitleInstant = lifetime.getFirstTitleStart();
+				if (firstTitleInstant != null) {
+					headerInstant = firstTitleInstant;
+				}
+				else {
+					headerInstant = lifetime.getTimespan().getStart();
+				}
 			}
 			String backgroundStyle = timeline.getConfig().getDefaultPersonStyle();
 			if (lifetime.getStyle() != null) {
@@ -142,7 +148,7 @@ public class TimelineSvgBuilder {
 			}
 			getPersonSVG(lifetime, backgroundStyle, null, stringBuilder);
 		}
-		int textXStart = instantToX(firstInstantOfFirstPerson);
+		int textXStart = instantToX(headerInstant);
 		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", stringBuilder);
 	}
 	public void getPersonSVG(Person person, String styleClass, String styleOverride, StringBuilder stringBuilder) {

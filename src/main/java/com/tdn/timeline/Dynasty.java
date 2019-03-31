@@ -3,9 +3,12 @@ package com.tdn.timeline;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.tdn.timeline.util.TimelineInstant;
+
 public class Dynasty extends TimelineEvent {
 
-	List<Person> people	= null;
+	private List<Person> people	= null;
+	private TimelineInstant headerStart = null;
 	
 	public Dynasty() {
 		this.people = new ArrayList<Person>();
@@ -20,4 +23,12 @@ public class Dynasty extends TimelineEvent {
 	public void addPerson(Person person) {
 		this.people.add(person);
 	}
+
+	public TimelineInstant getHeaderStart() {
+		return headerStart;
+	}
+	public void setHeaderStart(TimelineInstant headerStart) {
+		this.headerStart = headerStart;
+	}
+
 }

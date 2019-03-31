@@ -3,6 +3,8 @@ package com.tdn.timeline;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.tdn.timeline.util.TimelineInstant;
+
 public class Person extends TimelineEvent {
 	public static String TRANSFORMATIONAL = "transformational";
 	public static String MAJOR = "major";
@@ -54,4 +56,11 @@ public class Person extends TimelineEvent {
 		this.foregroundEvents.add(event);
 	}
 
+	public TimelineInstant getFirstTitleStart() {
+		TimelineInstant result = null;
+		if (this.titles != null && this.titles.size() > 0) {
+			result = this.titles.get(0).getTimespan().getStart();
+		}
+		return result;
+	}
 }

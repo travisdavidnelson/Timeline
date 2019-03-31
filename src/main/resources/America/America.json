@@ -522,18 +522,18 @@
               "importance": "semimajor",
               "style": "patriot",
               "titles": [
+				{
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "1774",
+                    "end": "1781"
+                  }
+                },
                 {
                   "name": "governor",
                   "timespan": {
                     "start": "10/8/1794",
                     "end": "6/2/1797"
-                  }
-                },
-                {
-                  "name": "legislator",
-                  "timespan": {
-                    "start": "1774",
-                    "end": "1781"
                   }
                 }
               ]
