@@ -1570,7 +1570,16 @@
                 "start": "234 BC",
                 "end": "149 BC"
               },
-              "importance": "semimajor"
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "195 BC",
+                    "duration": "1y"
+                  }
+                }
+              ]
             },
             {
               "name": "Lucius Aemilius Paullus Macedonicus",
