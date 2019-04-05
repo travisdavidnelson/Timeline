@@ -10,11 +10,16 @@ import com.tdn.timeline.DynastyGroup;
 import com.tdn.timeline.Person;
 import com.tdn.timeline.Timeline;
 import com.tdn.timeline.TimelineEvent;
+import com.tdn.timeline.Timespan;
 import com.tdn.timeline.util.TimeUtilities;
 import com.tdn.timeline.util.TimelineInstant;
 import com.tdn.util.FileUtilities;
 
 public class TimelineSvgBuilder {
+
+	public static final String FADE_IN_MASK = "fadeInMask";
+	public static final String FADE_OUT_MASK = "fadeOutMask";
+	public static final String FADE_IN_OUT_MASK = "fadeInOutMask";
 
 	private Timeline timeline;
 	private String svg;
@@ -174,8 +179,8 @@ public class TimelineSvgBuilder {
 		int width = getWidth(Long.valueOf(duration).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		int height = timeline.getConfig().getHeight(person.getImportance());
-		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, "footprint", null, person.getTimespan().getMaskName()));
-		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, styleClass, styleOverride, person.getTimespan().getMaskName()));
+		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, "footprint", null, getMaskName(person.getTimespan())));
+		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, styleClass, styleOverride, getMaskName(person.getTimespan())));
 		for (TimelineEvent title : person.getTitles()) {
 			getTitleSVG(person, title, title.getName(), stringBuilder);
 		}
@@ -224,7 +229,7 @@ public class TimelineSvgBuilder {
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());
 		int height = timeline.getConfig().getHeight(person.getImportance());
-		stringBuilder.append(rectangle(null, x, y, width, height, style, null, title.getTimespan().getMaskName()));
+		stringBuilder.append(rectangle(null, x, y, width, height, style, null, getMaskName(title.getTimespan())));
 	}
 	private void getBackgroundSVG(TimelineEvent backgroundEvent, int nextTimelineY, StringBuilder stringBuilder) {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
@@ -232,7 +237,7 @@ public class TimelineSvgBuilder {
 		int x = instantToX(backgroundEvent.getTimespan().getStart());
 		int width = getWidth(Long.valueOf(backgroundEvent.getTimespan().getDuration()).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
-		stringBuilder.append(rectangle(id, x, yTimelineStart, width, (nextTimelineY - yTimelineStart), backgroundEvent.getStyle(), null, backgroundEvent.getTimespan().getMaskName()));
+		stringBuilder.append(rectangle(id, x, yTimelineStart, width, (nextTimelineY - yTimelineStart), backgroundEvent.getStyle(), null, getMaskName(backgroundEvent.getTimespan())));
 		stringBuilder.append("<title>");
 		stringBuilder.append(backgroundEvent.getAnnotation());
 		stringBuilder.append("</title>");
@@ -439,6 +444,21 @@ public class TimelineSvgBuilder {
 			result = FileUtilities.getFileContents("src/main/resources/gradientDefs.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
+		}
+		return result;
+	}
+
+
+	private String getMaskName(Timespan timespan) {
+		String result = null;
+		if (timespan.getStartApproximate() && !timespan.getEndApproximate()) {
+			result = FADE_IN_MASK;
+		}
+		else if (timespan.getEndApproximate() && !timespan.getStartApproximate()) {
+			result = FADE_OUT_MASK;
+		}
+		else if (timespan.getStartApproximate() && timespan.getEndApproximate()) {
+			result = FADE_IN_OUT_MASK;
 		}
 		return result;
 	}

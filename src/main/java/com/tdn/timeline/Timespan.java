@@ -3,10 +3,6 @@ package com.tdn.timeline;
 import com.tdn.timeline.util.TimelineInstant;
 
 public class Timespan {
-	public static final String FADE_IN_MASK = "fadeInMask";
-	public static final String FADE_OUT_MASK = "fadeOutMask";
-	public static final String FADE_IN_OUT_MASK = "fadeInOutMask";
-
 	private TimelineInstant start;
 	private TimelineInstant end;
 	private long duration;
@@ -78,19 +74,5 @@ public class Timespan {
 		}
 		result.append(instant.getOriginalString());
 		return result.toString();
-	}
-
-	public String getMaskName() {
-		String result = null;
-		if (getStartApproximate() && !getEndApproximate()) {
-			result = FADE_IN_MASK;
-		}
-		else if (getEndApproximate() && !getStartApproximate()) {
-			result = FADE_OUT_MASK;
-		}
-		else if (getStartApproximate() && getEndApproximate()) {
-			result = FADE_IN_OUT_MASK;
-		}
-		return result;
 	}
 }
