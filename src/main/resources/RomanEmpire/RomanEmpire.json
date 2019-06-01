@@ -1,5 +1,6 @@
 {
   "name": "Roman Empire",
+  "author": "Travis David Nelson",
   "timespan": {
     "start": "800 BC",
     "end": "1500"
