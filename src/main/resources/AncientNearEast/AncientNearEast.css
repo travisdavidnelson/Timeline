@@ -1,7 +1,11 @@
 .year {font-family: serif; font-size: 40px; kerning: 0; stroke:none; fill:#000000;}
 .timeline {stroke-width: 1.0; stroke: black}
 
-.romanKingdom {fill:yellow;fill-opacity:0.2}
+.ur3 {fill:yellow;fill-opacity:0.2}
+.achaemenid {fill:purple;fill-opacity:0.3}
+.akkad {fill:yellow;fill-opacity:0.2}
+.assyria {fill:yellow;fill-opacity:0.8}
+.babylon {fill:green;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.1}
 .romanPrincipate {fill:purple;fill-opacity:0.2}
 .romanCrisis {fill:grey;fill-opacity:0.3}
@@ -19,6 +23,10 @@
 .backgroundPlague {fill:black; fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
 .roman {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+.achaemenid {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
+.assyrian {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
+.babylonian {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
+.hittite {fill:brown; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .newMan {fill:#f8df6c; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
 .sanctified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}

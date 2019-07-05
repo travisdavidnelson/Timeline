@@ -86,7 +86,7 @@ public class TimelineBuilder {
 	public static void main(String[] args) {
 
 		if (args.length < 1) {
-			System.err.println("Usgae: java -jar ./target/timeline-0.0.1-SNAPSHOT.jar /path/to/root/ TimelineFolder*");
+			System.err.println("Usage: java -jar ./target/timeline-0.0.1-SNAPSHOT.jar /path/to/root/ TimelineFolder*");
 		}
 		else {
 			String rootPath = args[0];

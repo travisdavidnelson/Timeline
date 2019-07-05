@@ -488,6 +488,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Hannibal Invades Italy",
+      "timespan": {
+        "start": "218 BC",
+        "end": "203 BC"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
       "name": "Battle of Cannae",
       "timespan": {
         "start": "8/2/216 BC",
@@ -3559,13 +3567,21 @@
                 "end": "264"
               },
               "importance": "minor",
-              "annotation": "Cisis Emperor, captured by Persians.",
+              "annotation": "Crisis Emperor, captured by Persians.",
               "fate": "In AD 260, decisively defeated and captured alive by Sassanid King Sharpur I, for use as his footstool.",
               "titles": [{
                 "name": "augustus",
                 "timespan": {
                   "start": "253",
                   "end": "260"
+                }
+              },
+              {
+                "name": "pow",
+                "timespan": {
+                  "start": "260",
+                  "endApproximate": true,
+                  "end": "264"
                 }
               }]
             },

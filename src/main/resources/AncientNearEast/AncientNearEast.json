@@ -1,0 +1,307 @@
+{
+  "name": "Ancient Near East",
+  "author": "Travis David Nelson",
+  "timespan": {
+    "start": "2500 BC",
+    "end": "1 BC"
+  },
+  "config": {
+    "majorTickYears" : 100,
+    "minorTickYears" : 10,
+    "topYearOffset" : 10,
+    "bottomYearOffset" : 40,
+    "defaultPersonStyle": "roman",
+    "pixelsPerYear": 3,
+    "heightInPixels": 2500,
+	"xStart": 100,
+	"yTimelineStart": 50,
+	"majorTickHalfLength": 7,
+	"minorTickHalfLength": 20,
+	"dynastyStart": 0,
+	"dynastyDiff": 90,
+	"lifetimeYDiff": 10,
+	"fontSize": 10,
+	"fateWidth": 5,
+	"approximateYearPersonAdjustment": 10,
+	"approximateYearTitleAdjustment": 2,
+    "importanceHeights":{
+      "minor":15,
+      "semimajor":20,
+      "major":40,
+      "transformational":50
+    },
+    "importanceYOffsets":{
+      "minor":10,
+      "semimajor":13,
+      "major":23,
+      "transformational":35
+    },
+    "importanceXOffsets":{
+      "minor":2,
+      "semimajor":2,
+      "major":2,
+      "transformational":2
+    }
+  },
+  "backgroundEvents": [
+    {
+      "name": "Akkadian Empire",
+      "timespan": {
+        "startApproximate": true,
+        "start": "2334 BC",
+        "end": "2154 BC"
+      },
+      "style": "akkad"
+    },
+    {
+      "name": "Ur III",
+      "timespan": {
+        "start": "2112 BC",
+        "end": "2004 BC"
+      },
+      "style": "ur3"
+    },
+    {
+      "name": "Amorite Babylonia",
+      "timespan": {
+        "start": "1894 BC",
+        "end": "1595 BC"
+      },
+      "style": "babylon"
+    },
+    {
+      "name": "Hittite Old Kingdom",
+      "timespan": {
+        "start": "1595 BC",
+        "end": "1500 BC"
+      },
+      "style": "hittite"
+    },
+    {
+      "name": "Hittite New Kingdom",
+      "timespan": {
+        "start": "1400 BC",
+        "end": "1180 BC"
+      },
+      "style": "hittite"
+    },
+    {
+      "name": "Neo-Assyrian",
+      "timespan": {
+        "start": "911 BC",
+        "end": "609 BC"
+      },
+      "style": "assyria"
+    },
+    {
+      "name": "Neo-Babylonia",
+      "timespan": {
+        "start": "620 BC",
+        "end": "539 BC"
+      },
+      "style": "babylon"
+    },
+    {
+      "name": "Achaemenid Empire",
+      "timespan": {
+        "start": "550 BC",
+        "end": "330 BC"
+      },
+      "style": "achaemenid"
+    }
+  ],
+  "politicalDynastyGroups": [
+    {
+      "name": "Really Really Old",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Akkad Dynasty",
+          "people": [
+            {
+              "name": "Sargon the Great",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2350 BC",
+                "endApproximate": true,
+                "end": "2284 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startApproximate": true,
+                  "start": "2334 BC",
+                  "endApproximate": true,
+                  "end": "2284 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Third Dynasty of Ur",
+          "people": [
+            {
+              "name": "Ur-Nammu",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2112 BC",
+                "endApproximate": true,
+                "end": "2095 BC"
+              },
+              "importance": "major",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startApproximate": true,
+                  "start": "2112 BC",
+                  "endApproximate": true,
+                  "end": "2095 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "First Dynasty of Babylon",
+          "people": [
+            {
+              "name": "Hammurabi",
+              "style": "babylonian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1810 BC",
+                "endApproximate": true,
+                "end": "1750 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startApproximate": true,
+                  "start": "1792 BC",
+                  "endApproximate": true,
+                  "end": "1750 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Hittite Old Kingdom",
+          "people": [
+            {
+              "name": "Hattusili I",
+              "style": "hittite",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1700 BC",
+                "endApproximate": true,
+                "end": "1620 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startApproximate": true,
+                  "start": "1650 BC",
+                  "endApproximate": true,
+                  "end": "1620 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Hittite New Kingdom",
+          "people": [
+            {
+              "name": "Suppiluliuma I",
+              "style": "hittite",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1380 BC",
+                "endApproximate": true,
+                "end": "1322 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "startApproximate": true,
+                  "start": "1344 BC",
+                  "endApproximate": true,
+                  "end": "1322 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Neo-Assyrian Empire",
+          "people": [
+            {
+              "name": "Tiglath-Pileser III",
+              "style": "assyrian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "780 BC",
+                "end": "727 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "start": "745 BC",
+                  "end": "727 BC"
+                }
+              }]
+            },
+            {
+              "name": "Ashurbanipal",
+              "style": "assyrian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "700 BC",
+                "endApproximate": true,
+                "end": "627 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "start": "668 BC",
+                  "endApproximate": true,
+                  "end": "627 BC"
+                }
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Empire",
+          "people": [
+            {
+              "name": "Cyrus the Great",
+              "style": "achaemenid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "600 BC",
+                "end": "530 BC"
+              },
+              "importance": "transformational",
+              "titles": [{
+                "name": "king",
+                "timespan": {
+                  "start": "559 BC",
+                  "end": "530 BC"
+                }
+              }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
