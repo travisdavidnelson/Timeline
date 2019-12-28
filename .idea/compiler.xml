@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="timeline (2)" />
         <module name="timeline (1)" />
+        <module name="Timeline" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Timeline" target="1.5" />
       <module name="timeline (1)" target="11" />
       <module name="timeline (2)" target="1.5" />
     </bytecodeTargetLevel>

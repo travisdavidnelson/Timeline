@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Timeline.iml" filepath="$PROJECT_DIR$/Timeline.iml" />
       <module fileurl="file://$PROJECT_DIR$/timeline (1).iml" filepath="$PROJECT_DIR$/timeline (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/timeline (2).iml" filepath="$PROJECT_DIR$/timeline (2).iml" />
     </modules>
   </component>
 </project>
