@@ -571,7 +571,7 @@
       "name": "Antonine Plague",
       "timespan": {
         "start": "165",
-        "end": "169"
+        "end": "180"
       },
       "style": "backgroundPlague"
     },
@@ -718,6 +718,30 @@
         "end": "299"
       },
       "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Massacre of the Constantinian Princes",
+      "timespan": {
+        "start": "5/337",
+        "duration": "2m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Roman civil war of 350–353",
+      "timespan": {
+        "start": "350",
+        "end": "353"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Mursa",
+      "timespan": {
+        "start": "9/28/351",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
     },
     {
       "name": "Julian's Persian expedition",
@@ -4022,17 +4046,25 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "272",
-                "end": "337"
+                "end": "5/22/337"
               },
               "importance": "transformational",
               "style": "sanctified",
               "titles": [{
+                "name": "caesar",
+                "timespan": {
+                  "start": "7/25/306",
+                  "end": "310"
+                }
+              },
+              {
                 "name": "augustus",
                 "timespan": {
-                  "start": "306",
-                  "end": "337"
+                  "start": "309",
+                  "end": "5/22/337"
                 }
-              }]
+              }
+              ]
             },
             {
               "name": "Crispus",
@@ -4062,13 +4094,13 @@
                   "name": "caesar",
                   "timespan": {
                     "start": "317",
-                    "end": "337"
+                    "end": "3/22/337"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "337",
+                    "start": "3/22/337",
                     "end": "340"
                   }
                 }
@@ -4086,13 +4118,13 @@
                   "name": "caesar",
                   "timespan": {
                     "start": "324",
-                    "end": "337"
+                    "end": "3/22/337"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "337",
+                    "start": "3/22/337",
                     "end": "361"
                   }
                 }
@@ -4109,7 +4141,7 @@
               "titles": [{
                 "name": "augustus",
                 "timespan": {
-                  "start": "337",
+                  "start": "3/22/337",
                   "end": "350"
                 }
               }]
@@ -4119,7 +4151,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "276",
-                "end": "337"
+                "end": "4/337"
               },
               "importance": "minor",
               "titles": [{
@@ -4135,14 +4167,14 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "300",
-                "end": "337"
+                "end": "4/337"
               },
               "importance": "minor",
               "titles": [{
                 "name": "caesar",
                 "timespan": {
                   "start": "335",
-                  "end": "337"
+                  "end": "4/337"
                 }
               }]
             },
@@ -4151,7 +4183,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "305",
-                "end": "337"
+                "end": "4/337"
               },
               "importance": "minor"
             },
@@ -4160,7 +4192,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "289",
-                "end": "337"
+                "end": "4/337"
               },
               "importance": "minor",
               "titles": [{
