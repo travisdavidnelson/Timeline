@@ -4,7 +4,7 @@
 .ur3 {fill:yellow;fill-opacity:0.2}
 .achaemenid {fill:purple;fill-opacity:0.3}
 .akkad {fill:yellow;fill-opacity:0.2}
-.assyria {fill:yellow;fill-opacity:0.8}
+.assyria {fill:yellow;fill-opacity:0.4}
 .babylon {fill:green;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.1}
 .romanPrincipate {fill:purple;fill-opacity:0.2}
@@ -14,6 +14,7 @@
 
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
+.backgroundDarkAge {fill:black; fill-opacity:0.5}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.6}
 .backgroundForeignWar {fill:brown; fill-opacity:0.3}
 .backgroundForeignWarVictory {fill:blue; fill-opacity:0.3}

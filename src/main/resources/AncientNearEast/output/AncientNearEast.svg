@@ -25,665 +25,710 @@
     </mask>
   </defs>
 
-<g><a xlink:href="http://en.wikipedia.org/wiki/Akkadian_Empire" target="_blank"><rect id="Akkadian_Empire" x="598" y="50" width="540" height="1130" class="akkad""  mask="url(#fadeInMask)"/><title>Akkadian Empire (c. 2334 BC - 2154 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ur_III" target="_blank"><rect id="Ur_III" x="1264" y="50" width="324" height="1130" class="ur3"/><title>Ur III (2112 BC - 2004 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Amorite_Babylonia" target="_blank"><rect id="Amorite_Babylonia" x="1918" y="50" width="897" height="1130" class="babylon"/><title>Amorite Babylonia (1894 BC - 1595 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_Old_Kingdom" target="_blank"><rect id="Hittite_Old_Kingdom" x="2815" y="50" width="285" height="1130" class="hittite"/><title>Hittite Old Kingdom (1595 BC - 1500 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_New_Kingdom" target="_blank"><rect id="Hittite_New_Kingdom" x="3400" y="50" width="660" height="1130" class="hittite"/><title>Hittite New Kingdom (1400 BC - 1180 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Assyrian" target="_blank"><rect id="Neo-Assyrian" x="4867" y="50" width="906" height="1130" class="assyria"/><title>Neo-Assyrian (911 BC - 609 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Babylonia" target="_blank"><rect id="Neo-Babylonia" x="5740" y="50" width="243" height="1130" class="babylon"/><title>Neo-Babylonia (620 BC - 539 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Achaemenid_Empire" target="_blank"><rect id="Achaemenid_Empire" x="5950" y="50" width="660" height="1130" class="achaemenid"/><title>Achaemenid Empire (550 BC - 330 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Akkadian_Empire" target="_blank"><rect id="Akkadian_Empire" x="598" y="50" width="540" height="1600" class="akkad""  mask="url(#fadeInMask)"/><title>Akkadian Empire (c. 2334 BC - 2154 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ur_III" target="_blank"><rect id="Ur_III" x="1264" y="50" width="324" height="1600" class="ur3"/><title>Ur III (2112 BC - 2004 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Old_Assyrian_Empire" target="_blank"><rect id="Old_Assyrian_Empire" x="1525" y="50" width="1941" height="1600" class="assyria"/><title>Old Assyrian Empire (2025 BC - 1378 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Amorite_Babylonia" target="_blank"><rect id="Amorite_Babylonia" x="1918" y="50" width="897" height="1600" class="babylon"/><title>Amorite Babylonia (1894 BC - 1595 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_Old_Kingdom" target="_blank"><rect id="Hittite_Old_Kingdom" x="2815" y="50" width="285" height="1600" class="hittite"/><title>Hittite Old Kingdom (1595 BC - 1500 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_New_Kingdom" target="_blank"><rect id="Hittite_New_Kingdom" x="3400" y="50" width="660" height="1600" class="hittite"/><title>Hittite New Kingdom (1400 BC - 1180 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Middle_Assyrian_Empire" target="_blank"><rect id="Middle_Assyrian_Empire" x="3505" y="50" width="1293" height="1600" class="assyria"/><title>Middle Assyrian Empire (1365 BC - 934 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age_collapse" target="_blank"><rect id="Bronze_Age_collapse" x="4000" y="50" width="900" height="1600" class="backgroundDarkAge""  mask="url(#fadeInOutMask)"/><title>Bronze Age collapse (c. 1200 BC - c. 900 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Assyrian" target="_blank"><rect id="Neo-Assyrian" x="4867" y="50" width="906" height="1600" class="assyria"/><title>Neo-Assyrian (911 BC - 609 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Babylonia" target="_blank"><rect id="Neo-Babylonia" x="5740" y="50" width="243" height="1600" class="babylon"/><title>Neo-Babylonia (620 BC - 539 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Achaemenid_Empire" target="_blank"><rect id="Achaemenid_Empire" x="5950" y="50" width="660" height="1600" class="achaemenid"/><title>Achaemenid Empire (550 BC - 330 BC)</title></a></g>
 
 		<line x1="100" y1="50" x2="7597" y2="50" class="timeline"/>
-		<line x1="100" y1="1180" x2="7597" y2="1180" class="timeline"/>
-		<line x1="100" y1="1180" x2="7597" y2="1180" class="timeline"/>
+		<line x1="100" y1="1650" x2="7597" y2="1650" class="timeline"/>
+		<line x1="100" y1="1650" x2="7597" y2="1650" class="timeline"/>
 		<line x1="100" y1="50" x2="100" y2="57" class="timeline"/>
-		<line x1="100" y1="1173" x2="100" y2="1180" class="timeline"/>
-		<line x1="100" y1="50" x2="100" y2="1180" class="timeline"/>
+		<line x1="100" y1="1643" x2="100" y2="1650" class="timeline"/>
+		<line x1="100" y1="50" x2="100" y2="1650" class="timeline"/>
 
 <text x="30" y="40" class="year">2500 BC</text>
-<text x="30" y="1220" class="year">2500 BC</text>		<line x1="100" y1="50" x2="100" y2="70" class="timeline"/>
-		<line x1="100" y1="1160" x2="100" y2="1180" class="timeline"/>
+<text x="30" y="1690" class="year">2500 BC</text>		<line x1="100" y1="50" x2="100" y2="70" class="timeline"/>
+		<line x1="100" y1="1630" x2="100" y2="1650" class="timeline"/>
 		<line x1="130" y1="50" x2="130" y2="70" class="timeline"/>
-		<line x1="130" y1="1160" x2="130" y2="1180" class="timeline"/>
+		<line x1="130" y1="1630" x2="130" y2="1650" class="timeline"/>
 		<line x1="160" y1="50" x2="160" y2="70" class="timeline"/>
-		<line x1="160" y1="1160" x2="160" y2="1180" class="timeline"/>
+		<line x1="160" y1="1630" x2="160" y2="1650" class="timeline"/>
 		<line x1="190" y1="50" x2="190" y2="70" class="timeline"/>
-		<line x1="190" y1="1160" x2="190" y2="1180" class="timeline"/>
+		<line x1="190" y1="1630" x2="190" y2="1650" class="timeline"/>
 		<line x1="220" y1="50" x2="220" y2="70" class="timeline"/>
-		<line x1="220" y1="1160" x2="220" y2="1180" class="timeline"/>
+		<line x1="220" y1="1630" x2="220" y2="1650" class="timeline"/>
 		<line x1="250" y1="50" x2="250" y2="70" class="timeline"/>
-		<line x1="250" y1="1160" x2="250" y2="1180" class="timeline"/>
+		<line x1="250" y1="1630" x2="250" y2="1650" class="timeline"/>
 		<line x1="280" y1="50" x2="280" y2="70" class="timeline"/>
-		<line x1="280" y1="1160" x2="280" y2="1180" class="timeline"/>
+		<line x1="280" y1="1630" x2="280" y2="1650" class="timeline"/>
 		<line x1="310" y1="50" x2="310" y2="70" class="timeline"/>
-		<line x1="310" y1="1160" x2="310" y2="1180" class="timeline"/>
+		<line x1="310" y1="1630" x2="310" y2="1650" class="timeline"/>
 		<line x1="340" y1="50" x2="340" y2="70" class="timeline"/>
-		<line x1="340" y1="1160" x2="340" y2="1180" class="timeline"/>
+		<line x1="340" y1="1630" x2="340" y2="1650" class="timeline"/>
 		<line x1="370" y1="50" x2="370" y2="70" class="timeline"/>
-		<line x1="370" y1="1160" x2="370" y2="1180" class="timeline"/>
+		<line x1="370" y1="1630" x2="370" y2="1650" class="timeline"/>
 		<line x1="400" y1="50" x2="400" y2="57" class="timeline"/>
-		<line x1="400" y1="1173" x2="400" y2="1180" class="timeline"/>
-		<line x1="400" y1="50" x2="400" y2="1180" class="timeline"/>
+		<line x1="400" y1="1643" x2="400" y2="1650" class="timeline"/>
+		<line x1="400" y1="50" x2="400" y2="1650" class="timeline"/>
 
 <text x="330" y="40" class="year">2400 BC</text>
-<text x="330" y="1220" class="year">2400 BC</text>		<line x1="400" y1="50" x2="400" y2="70" class="timeline"/>
-		<line x1="400" y1="1160" x2="400" y2="1180" class="timeline"/>
+<text x="330" y="1690" class="year">2400 BC</text>		<line x1="400" y1="50" x2="400" y2="70" class="timeline"/>
+		<line x1="400" y1="1630" x2="400" y2="1650" class="timeline"/>
 		<line x1="430" y1="50" x2="430" y2="70" class="timeline"/>
-		<line x1="430" y1="1160" x2="430" y2="1180" class="timeline"/>
+		<line x1="430" y1="1630" x2="430" y2="1650" class="timeline"/>
 		<line x1="460" y1="50" x2="460" y2="70" class="timeline"/>
-		<line x1="460" y1="1160" x2="460" y2="1180" class="timeline"/>
+		<line x1="460" y1="1630" x2="460" y2="1650" class="timeline"/>
 		<line x1="490" y1="50" x2="490" y2="70" class="timeline"/>
-		<line x1="490" y1="1160" x2="490" y2="1180" class="timeline"/>
+		<line x1="490" y1="1630" x2="490" y2="1650" class="timeline"/>
 		<line x1="520" y1="50" x2="520" y2="70" class="timeline"/>
-		<line x1="520" y1="1160" x2="520" y2="1180" class="timeline"/>
+		<line x1="520" y1="1630" x2="520" y2="1650" class="timeline"/>
 		<line x1="550" y1="50" x2="550" y2="70" class="timeline"/>
-		<line x1="550" y1="1160" x2="550" y2="1180" class="timeline"/>
+		<line x1="550" y1="1630" x2="550" y2="1650" class="timeline"/>
 		<line x1="580" y1="50" x2="580" y2="70" class="timeline"/>
-		<line x1="580" y1="1160" x2="580" y2="1180" class="timeline"/>
+		<line x1="580" y1="1630" x2="580" y2="1650" class="timeline"/>
 		<line x1="610" y1="50" x2="610" y2="70" class="timeline"/>
-		<line x1="610" y1="1160" x2="610" y2="1180" class="timeline"/>
+		<line x1="610" y1="1630" x2="610" y2="1650" class="timeline"/>
 		<line x1="640" y1="50" x2="640" y2="70" class="timeline"/>
-		<line x1="640" y1="1160" x2="640" y2="1180" class="timeline"/>
+		<line x1="640" y1="1630" x2="640" y2="1650" class="timeline"/>
 		<line x1="670" y1="50" x2="670" y2="70" class="timeline"/>
-		<line x1="670" y1="1160" x2="670" y2="1180" class="timeline"/>
+		<line x1="670" y1="1630" x2="670" y2="1650" class="timeline"/>
 		<line x1="700" y1="50" x2="700" y2="57" class="timeline"/>
-		<line x1="700" y1="1173" x2="700" y2="1180" class="timeline"/>
-		<line x1="700" y1="50" x2="700" y2="1180" class="timeline"/>
+		<line x1="700" y1="1643" x2="700" y2="1650" class="timeline"/>
+		<line x1="700" y1="50" x2="700" y2="1650" class="timeline"/>
 
 <text x="630" y="40" class="year">2300 BC</text>
-<text x="630" y="1220" class="year">2300 BC</text>		<line x1="700" y1="50" x2="700" y2="70" class="timeline"/>
-		<line x1="700" y1="1160" x2="700" y2="1180" class="timeline"/>
+<text x="630" y="1690" class="year">2300 BC</text>		<line x1="700" y1="50" x2="700" y2="70" class="timeline"/>
+		<line x1="700" y1="1630" x2="700" y2="1650" class="timeline"/>
 		<line x1="730" y1="50" x2="730" y2="70" class="timeline"/>
-		<line x1="730" y1="1160" x2="730" y2="1180" class="timeline"/>
+		<line x1="730" y1="1630" x2="730" y2="1650" class="timeline"/>
 		<line x1="760" y1="50" x2="760" y2="70" class="timeline"/>
-		<line x1="760" y1="1160" x2="760" y2="1180" class="timeline"/>
+		<line x1="760" y1="1630" x2="760" y2="1650" class="timeline"/>
 		<line x1="790" y1="50" x2="790" y2="70" class="timeline"/>
-		<line x1="790" y1="1160" x2="790" y2="1180" class="timeline"/>
+		<line x1="790" y1="1630" x2="790" y2="1650" class="timeline"/>
 		<line x1="820" y1="50" x2="820" y2="70" class="timeline"/>
-		<line x1="820" y1="1160" x2="820" y2="1180" class="timeline"/>
+		<line x1="820" y1="1630" x2="820" y2="1650" class="timeline"/>
 		<line x1="850" y1="50" x2="850" y2="70" class="timeline"/>
-		<line x1="850" y1="1160" x2="850" y2="1180" class="timeline"/>
+		<line x1="850" y1="1630" x2="850" y2="1650" class="timeline"/>
 		<line x1="880" y1="50" x2="880" y2="70" class="timeline"/>
-		<line x1="880" y1="1160" x2="880" y2="1180" class="timeline"/>
+		<line x1="880" y1="1630" x2="880" y2="1650" class="timeline"/>
 		<line x1="910" y1="50" x2="910" y2="70" class="timeline"/>
-		<line x1="910" y1="1160" x2="910" y2="1180" class="timeline"/>
+		<line x1="910" y1="1630" x2="910" y2="1650" class="timeline"/>
 		<line x1="940" y1="50" x2="940" y2="70" class="timeline"/>
-		<line x1="940" y1="1160" x2="940" y2="1180" class="timeline"/>
+		<line x1="940" y1="1630" x2="940" y2="1650" class="timeline"/>
 		<line x1="970" y1="50" x2="970" y2="70" class="timeline"/>
-		<line x1="970" y1="1160" x2="970" y2="1180" class="timeline"/>
+		<line x1="970" y1="1630" x2="970" y2="1650" class="timeline"/>
 		<line x1="1000" y1="50" x2="1000" y2="57" class="timeline"/>
-		<line x1="1000" y1="1173" x2="1000" y2="1180" class="timeline"/>
-		<line x1="1000" y1="50" x2="1000" y2="1180" class="timeline"/>
+		<line x1="1000" y1="1643" x2="1000" y2="1650" class="timeline"/>
+		<line x1="1000" y1="50" x2="1000" y2="1650" class="timeline"/>
 
 <text x="930" y="40" class="year">2200 BC</text>
-<text x="930" y="1220" class="year">2200 BC</text>		<line x1="1000" y1="50" x2="1000" y2="70" class="timeline"/>
-		<line x1="1000" y1="1160" x2="1000" y2="1180" class="timeline"/>
+<text x="930" y="1690" class="year">2200 BC</text>		<line x1="1000" y1="50" x2="1000" y2="70" class="timeline"/>
+		<line x1="1000" y1="1630" x2="1000" y2="1650" class="timeline"/>
 		<line x1="1030" y1="50" x2="1030" y2="70" class="timeline"/>
-		<line x1="1030" y1="1160" x2="1030" y2="1180" class="timeline"/>
+		<line x1="1030" y1="1630" x2="1030" y2="1650" class="timeline"/>
 		<line x1="1060" y1="50" x2="1060" y2="70" class="timeline"/>
-		<line x1="1060" y1="1160" x2="1060" y2="1180" class="timeline"/>
+		<line x1="1060" y1="1630" x2="1060" y2="1650" class="timeline"/>
 		<line x1="1090" y1="50" x2="1090" y2="70" class="timeline"/>
-		<line x1="1090" y1="1160" x2="1090" y2="1180" class="timeline"/>
+		<line x1="1090" y1="1630" x2="1090" y2="1650" class="timeline"/>
 		<line x1="1120" y1="50" x2="1120" y2="70" class="timeline"/>
-		<line x1="1120" y1="1160" x2="1120" y2="1180" class="timeline"/>
+		<line x1="1120" y1="1630" x2="1120" y2="1650" class="timeline"/>
 		<line x1="1150" y1="50" x2="1150" y2="70" class="timeline"/>
-		<line x1="1150" y1="1160" x2="1150" y2="1180" class="timeline"/>
+		<line x1="1150" y1="1630" x2="1150" y2="1650" class="timeline"/>
 		<line x1="1180" y1="50" x2="1180" y2="70" class="timeline"/>
-		<line x1="1180" y1="1160" x2="1180" y2="1180" class="timeline"/>
+		<line x1="1180" y1="1630" x2="1180" y2="1650" class="timeline"/>
 		<line x1="1210" y1="50" x2="1210" y2="70" class="timeline"/>
-		<line x1="1210" y1="1160" x2="1210" y2="1180" class="timeline"/>
+		<line x1="1210" y1="1630" x2="1210" y2="1650" class="timeline"/>
 		<line x1="1240" y1="50" x2="1240" y2="70" class="timeline"/>
-		<line x1="1240" y1="1160" x2="1240" y2="1180" class="timeline"/>
+		<line x1="1240" y1="1630" x2="1240" y2="1650" class="timeline"/>
 		<line x1="1270" y1="50" x2="1270" y2="70" class="timeline"/>
-		<line x1="1270" y1="1160" x2="1270" y2="1180" class="timeline"/>
+		<line x1="1270" y1="1630" x2="1270" y2="1650" class="timeline"/>
 		<line x1="1300" y1="50" x2="1300" y2="57" class="timeline"/>
-		<line x1="1300" y1="1173" x2="1300" y2="1180" class="timeline"/>
-		<line x1="1300" y1="50" x2="1300" y2="1180" class="timeline"/>
+		<line x1="1300" y1="1643" x2="1300" y2="1650" class="timeline"/>
+		<line x1="1300" y1="50" x2="1300" y2="1650" class="timeline"/>
 
 <text x="1230" y="40" class="year">2100 BC</text>
-<text x="1230" y="1220" class="year">2100 BC</text>		<line x1="1300" y1="50" x2="1300" y2="70" class="timeline"/>
-		<line x1="1300" y1="1160" x2="1300" y2="1180" class="timeline"/>
+<text x="1230" y="1690" class="year">2100 BC</text>		<line x1="1300" y1="50" x2="1300" y2="70" class="timeline"/>
+		<line x1="1300" y1="1630" x2="1300" y2="1650" class="timeline"/>
 		<line x1="1330" y1="50" x2="1330" y2="70" class="timeline"/>
-		<line x1="1330" y1="1160" x2="1330" y2="1180" class="timeline"/>
+		<line x1="1330" y1="1630" x2="1330" y2="1650" class="timeline"/>
 		<line x1="1360" y1="50" x2="1360" y2="70" class="timeline"/>
-		<line x1="1360" y1="1160" x2="1360" y2="1180" class="timeline"/>
+		<line x1="1360" y1="1630" x2="1360" y2="1650" class="timeline"/>
 		<line x1="1390" y1="50" x2="1390" y2="70" class="timeline"/>
-		<line x1="1390" y1="1160" x2="1390" y2="1180" class="timeline"/>
+		<line x1="1390" y1="1630" x2="1390" y2="1650" class="timeline"/>
 		<line x1="1420" y1="50" x2="1420" y2="70" class="timeline"/>
-		<line x1="1420" y1="1160" x2="1420" y2="1180" class="timeline"/>
+		<line x1="1420" y1="1630" x2="1420" y2="1650" class="timeline"/>
 		<line x1="1450" y1="50" x2="1450" y2="70" class="timeline"/>
-		<line x1="1450" y1="1160" x2="1450" y2="1180" class="timeline"/>
+		<line x1="1450" y1="1630" x2="1450" y2="1650" class="timeline"/>
 		<line x1="1480" y1="50" x2="1480" y2="70" class="timeline"/>
-		<line x1="1480" y1="1160" x2="1480" y2="1180" class="timeline"/>
+		<line x1="1480" y1="1630" x2="1480" y2="1650" class="timeline"/>
 		<line x1="1510" y1="50" x2="1510" y2="70" class="timeline"/>
-		<line x1="1510" y1="1160" x2="1510" y2="1180" class="timeline"/>
+		<line x1="1510" y1="1630" x2="1510" y2="1650" class="timeline"/>
 		<line x1="1540" y1="50" x2="1540" y2="70" class="timeline"/>
-		<line x1="1540" y1="1160" x2="1540" y2="1180" class="timeline"/>
+		<line x1="1540" y1="1630" x2="1540" y2="1650" class="timeline"/>
 		<line x1="1570" y1="50" x2="1570" y2="70" class="timeline"/>
-		<line x1="1570" y1="1160" x2="1570" y2="1180" class="timeline"/>
+		<line x1="1570" y1="1630" x2="1570" y2="1650" class="timeline"/>
 		<line x1="1600" y1="50" x2="1600" y2="57" class="timeline"/>
-		<line x1="1600" y1="1173" x2="1600" y2="1180" class="timeline"/>
-		<line x1="1600" y1="50" x2="1600" y2="1180" class="timeline"/>
+		<line x1="1600" y1="1643" x2="1600" y2="1650" class="timeline"/>
+		<line x1="1600" y1="50" x2="1600" y2="1650" class="timeline"/>
 
 <text x="1530" y="40" class="year">2000 BC</text>
-<text x="1530" y="1220" class="year">2000 BC</text>		<line x1="1600" y1="50" x2="1600" y2="70" class="timeline"/>
-		<line x1="1600" y1="1160" x2="1600" y2="1180" class="timeline"/>
+<text x="1530" y="1690" class="year">2000 BC</text>		<line x1="1600" y1="50" x2="1600" y2="70" class="timeline"/>
+		<line x1="1600" y1="1630" x2="1600" y2="1650" class="timeline"/>
 		<line x1="1630" y1="50" x2="1630" y2="70" class="timeline"/>
-		<line x1="1630" y1="1160" x2="1630" y2="1180" class="timeline"/>
+		<line x1="1630" y1="1630" x2="1630" y2="1650" class="timeline"/>
 		<line x1="1660" y1="50" x2="1660" y2="70" class="timeline"/>
-		<line x1="1660" y1="1160" x2="1660" y2="1180" class="timeline"/>
+		<line x1="1660" y1="1630" x2="1660" y2="1650" class="timeline"/>
 		<line x1="1690" y1="50" x2="1690" y2="70" class="timeline"/>
-		<line x1="1690" y1="1160" x2="1690" y2="1180" class="timeline"/>
+		<line x1="1690" y1="1630" x2="1690" y2="1650" class="timeline"/>
 		<line x1="1720" y1="50" x2="1720" y2="70" class="timeline"/>
-		<line x1="1720" y1="1160" x2="1720" y2="1180" class="timeline"/>
+		<line x1="1720" y1="1630" x2="1720" y2="1650" class="timeline"/>
 		<line x1="1750" y1="50" x2="1750" y2="70" class="timeline"/>
-		<line x1="1750" y1="1160" x2="1750" y2="1180" class="timeline"/>
+		<line x1="1750" y1="1630" x2="1750" y2="1650" class="timeline"/>
 		<line x1="1780" y1="50" x2="1780" y2="70" class="timeline"/>
-		<line x1="1780" y1="1160" x2="1780" y2="1180" class="timeline"/>
+		<line x1="1780" y1="1630" x2="1780" y2="1650" class="timeline"/>
 		<line x1="1810" y1="50" x2="1810" y2="70" class="timeline"/>
-		<line x1="1810" y1="1160" x2="1810" y2="1180" class="timeline"/>
+		<line x1="1810" y1="1630" x2="1810" y2="1650" class="timeline"/>
 		<line x1="1840" y1="50" x2="1840" y2="70" class="timeline"/>
-		<line x1="1840" y1="1160" x2="1840" y2="1180" class="timeline"/>
+		<line x1="1840" y1="1630" x2="1840" y2="1650" class="timeline"/>
 		<line x1="1870" y1="50" x2="1870" y2="70" class="timeline"/>
-		<line x1="1870" y1="1160" x2="1870" y2="1180" class="timeline"/>
+		<line x1="1870" y1="1630" x2="1870" y2="1650" class="timeline"/>
 		<line x1="1900" y1="50" x2="1900" y2="57" class="timeline"/>
-		<line x1="1900" y1="1173" x2="1900" y2="1180" class="timeline"/>
-		<line x1="1900" y1="50" x2="1900" y2="1180" class="timeline"/>
+		<line x1="1900" y1="1643" x2="1900" y2="1650" class="timeline"/>
+		<line x1="1900" y1="50" x2="1900" y2="1650" class="timeline"/>
 
 <text x="1830" y="40" class="year">1900 BC</text>
-<text x="1830" y="1220" class="year">1900 BC</text>		<line x1="1900" y1="50" x2="1900" y2="70" class="timeline"/>
-		<line x1="1900" y1="1160" x2="1900" y2="1180" class="timeline"/>
+<text x="1830" y="1690" class="year">1900 BC</text>		<line x1="1900" y1="50" x2="1900" y2="70" class="timeline"/>
+		<line x1="1900" y1="1630" x2="1900" y2="1650" class="timeline"/>
 		<line x1="1930" y1="50" x2="1930" y2="70" class="timeline"/>
-		<line x1="1930" y1="1160" x2="1930" y2="1180" class="timeline"/>
+		<line x1="1930" y1="1630" x2="1930" y2="1650" class="timeline"/>
 		<line x1="1960" y1="50" x2="1960" y2="70" class="timeline"/>
-		<line x1="1960" y1="1160" x2="1960" y2="1180" class="timeline"/>
+		<line x1="1960" y1="1630" x2="1960" y2="1650" class="timeline"/>
 		<line x1="1990" y1="50" x2="1990" y2="70" class="timeline"/>
-		<line x1="1990" y1="1160" x2="1990" y2="1180" class="timeline"/>
+		<line x1="1990" y1="1630" x2="1990" y2="1650" class="timeline"/>
 		<line x1="2020" y1="50" x2="2020" y2="70" class="timeline"/>
-		<line x1="2020" y1="1160" x2="2020" y2="1180" class="timeline"/>
+		<line x1="2020" y1="1630" x2="2020" y2="1650" class="timeline"/>
 		<line x1="2050" y1="50" x2="2050" y2="70" class="timeline"/>
-		<line x1="2050" y1="1160" x2="2050" y2="1180" class="timeline"/>
+		<line x1="2050" y1="1630" x2="2050" y2="1650" class="timeline"/>
 		<line x1="2080" y1="50" x2="2080" y2="70" class="timeline"/>
-		<line x1="2080" y1="1160" x2="2080" y2="1180" class="timeline"/>
+		<line x1="2080" y1="1630" x2="2080" y2="1650" class="timeline"/>
 		<line x1="2110" y1="50" x2="2110" y2="70" class="timeline"/>
-		<line x1="2110" y1="1160" x2="2110" y2="1180" class="timeline"/>
+		<line x1="2110" y1="1630" x2="2110" y2="1650" class="timeline"/>
 		<line x1="2140" y1="50" x2="2140" y2="70" class="timeline"/>
-		<line x1="2140" y1="1160" x2="2140" y2="1180" class="timeline"/>
+		<line x1="2140" y1="1630" x2="2140" y2="1650" class="timeline"/>
 		<line x1="2170" y1="50" x2="2170" y2="70" class="timeline"/>
-		<line x1="2170" y1="1160" x2="2170" y2="1180" class="timeline"/>
+		<line x1="2170" y1="1630" x2="2170" y2="1650" class="timeline"/>
 		<line x1="2200" y1="50" x2="2200" y2="57" class="timeline"/>
-		<line x1="2200" y1="1173" x2="2200" y2="1180" class="timeline"/>
-		<line x1="2200" y1="50" x2="2200" y2="1180" class="timeline"/>
+		<line x1="2200" y1="1643" x2="2200" y2="1650" class="timeline"/>
+		<line x1="2200" y1="50" x2="2200" y2="1650" class="timeline"/>
 
 <text x="2130" y="40" class="year">1800 BC</text>
-<text x="2130" y="1220" class="year">1800 BC</text>		<line x1="2200" y1="50" x2="2200" y2="70" class="timeline"/>
-		<line x1="2200" y1="1160" x2="2200" y2="1180" class="timeline"/>
+<text x="2130" y="1690" class="year">1800 BC</text>		<line x1="2200" y1="50" x2="2200" y2="70" class="timeline"/>
+		<line x1="2200" y1="1630" x2="2200" y2="1650" class="timeline"/>
 		<line x1="2230" y1="50" x2="2230" y2="70" class="timeline"/>
-		<line x1="2230" y1="1160" x2="2230" y2="1180" class="timeline"/>
+		<line x1="2230" y1="1630" x2="2230" y2="1650" class="timeline"/>
 		<line x1="2260" y1="50" x2="2260" y2="70" class="timeline"/>
-		<line x1="2260" y1="1160" x2="2260" y2="1180" class="timeline"/>
+		<line x1="2260" y1="1630" x2="2260" y2="1650" class="timeline"/>
 		<line x1="2290" y1="50" x2="2290" y2="70" class="timeline"/>
-		<line x1="2290" y1="1160" x2="2290" y2="1180" class="timeline"/>
+		<line x1="2290" y1="1630" x2="2290" y2="1650" class="timeline"/>
 		<line x1="2320" y1="50" x2="2320" y2="70" class="timeline"/>
-		<line x1="2320" y1="1160" x2="2320" y2="1180" class="timeline"/>
+		<line x1="2320" y1="1630" x2="2320" y2="1650" class="timeline"/>
 		<line x1="2350" y1="50" x2="2350" y2="70" class="timeline"/>
-		<line x1="2350" y1="1160" x2="2350" y2="1180" class="timeline"/>
+		<line x1="2350" y1="1630" x2="2350" y2="1650" class="timeline"/>
 		<line x1="2380" y1="50" x2="2380" y2="70" class="timeline"/>
-		<line x1="2380" y1="1160" x2="2380" y2="1180" class="timeline"/>
+		<line x1="2380" y1="1630" x2="2380" y2="1650" class="timeline"/>
 		<line x1="2410" y1="50" x2="2410" y2="70" class="timeline"/>
-		<line x1="2410" y1="1160" x2="2410" y2="1180" class="timeline"/>
+		<line x1="2410" y1="1630" x2="2410" y2="1650" class="timeline"/>
 		<line x1="2440" y1="50" x2="2440" y2="70" class="timeline"/>
-		<line x1="2440" y1="1160" x2="2440" y2="1180" class="timeline"/>
+		<line x1="2440" y1="1630" x2="2440" y2="1650" class="timeline"/>
 		<line x1="2470" y1="50" x2="2470" y2="70" class="timeline"/>
-		<line x1="2470" y1="1160" x2="2470" y2="1180" class="timeline"/>
+		<line x1="2470" y1="1630" x2="2470" y2="1650" class="timeline"/>
 		<line x1="2500" y1="50" x2="2500" y2="57" class="timeline"/>
-		<line x1="2500" y1="1173" x2="2500" y2="1180" class="timeline"/>
-		<line x1="2500" y1="50" x2="2500" y2="1180" class="timeline"/>
+		<line x1="2500" y1="1643" x2="2500" y2="1650" class="timeline"/>
+		<line x1="2500" y1="50" x2="2500" y2="1650" class="timeline"/>
 
 <text x="2430" y="40" class="year">1700 BC</text>
-<text x="2430" y="1220" class="year">1700 BC</text>		<line x1="2500" y1="50" x2="2500" y2="70" class="timeline"/>
-		<line x1="2500" y1="1160" x2="2500" y2="1180" class="timeline"/>
+<text x="2430" y="1690" class="year">1700 BC</text>		<line x1="2500" y1="50" x2="2500" y2="70" class="timeline"/>
+		<line x1="2500" y1="1630" x2="2500" y2="1650" class="timeline"/>
 		<line x1="2530" y1="50" x2="2530" y2="70" class="timeline"/>
-		<line x1="2530" y1="1160" x2="2530" y2="1180" class="timeline"/>
+		<line x1="2530" y1="1630" x2="2530" y2="1650" class="timeline"/>
 		<line x1="2560" y1="50" x2="2560" y2="70" class="timeline"/>
-		<line x1="2560" y1="1160" x2="2560" y2="1180" class="timeline"/>
+		<line x1="2560" y1="1630" x2="2560" y2="1650" class="timeline"/>
 		<line x1="2590" y1="50" x2="2590" y2="70" class="timeline"/>
-		<line x1="2590" y1="1160" x2="2590" y2="1180" class="timeline"/>
+		<line x1="2590" y1="1630" x2="2590" y2="1650" class="timeline"/>
 		<line x1="2620" y1="50" x2="2620" y2="70" class="timeline"/>
-		<line x1="2620" y1="1160" x2="2620" y2="1180" class="timeline"/>
+		<line x1="2620" y1="1630" x2="2620" y2="1650" class="timeline"/>
 		<line x1="2650" y1="50" x2="2650" y2="70" class="timeline"/>
-		<line x1="2650" y1="1160" x2="2650" y2="1180" class="timeline"/>
+		<line x1="2650" y1="1630" x2="2650" y2="1650" class="timeline"/>
 		<line x1="2680" y1="50" x2="2680" y2="70" class="timeline"/>
-		<line x1="2680" y1="1160" x2="2680" y2="1180" class="timeline"/>
+		<line x1="2680" y1="1630" x2="2680" y2="1650" class="timeline"/>
 		<line x1="2710" y1="50" x2="2710" y2="70" class="timeline"/>
-		<line x1="2710" y1="1160" x2="2710" y2="1180" class="timeline"/>
+		<line x1="2710" y1="1630" x2="2710" y2="1650" class="timeline"/>
 		<line x1="2740" y1="50" x2="2740" y2="70" class="timeline"/>
-		<line x1="2740" y1="1160" x2="2740" y2="1180" class="timeline"/>
+		<line x1="2740" y1="1630" x2="2740" y2="1650" class="timeline"/>
 		<line x1="2770" y1="50" x2="2770" y2="70" class="timeline"/>
-		<line x1="2770" y1="1160" x2="2770" y2="1180" class="timeline"/>
+		<line x1="2770" y1="1630" x2="2770" y2="1650" class="timeline"/>
 		<line x1="2800" y1="50" x2="2800" y2="57" class="timeline"/>
-		<line x1="2800" y1="1173" x2="2800" y2="1180" class="timeline"/>
-		<line x1="2800" y1="50" x2="2800" y2="1180" class="timeline"/>
+		<line x1="2800" y1="1643" x2="2800" y2="1650" class="timeline"/>
+		<line x1="2800" y1="50" x2="2800" y2="1650" class="timeline"/>
 
 <text x="2730" y="40" class="year">1600 BC</text>
-<text x="2730" y="1220" class="year">1600 BC</text>		<line x1="2800" y1="50" x2="2800" y2="70" class="timeline"/>
-		<line x1="2800" y1="1160" x2="2800" y2="1180" class="timeline"/>
+<text x="2730" y="1690" class="year">1600 BC</text>		<line x1="2800" y1="50" x2="2800" y2="70" class="timeline"/>
+		<line x1="2800" y1="1630" x2="2800" y2="1650" class="timeline"/>
 		<line x1="2830" y1="50" x2="2830" y2="70" class="timeline"/>
-		<line x1="2830" y1="1160" x2="2830" y2="1180" class="timeline"/>
+		<line x1="2830" y1="1630" x2="2830" y2="1650" class="timeline"/>
 		<line x1="2860" y1="50" x2="2860" y2="70" class="timeline"/>
-		<line x1="2860" y1="1160" x2="2860" y2="1180" class="timeline"/>
+		<line x1="2860" y1="1630" x2="2860" y2="1650" class="timeline"/>
 		<line x1="2890" y1="50" x2="2890" y2="70" class="timeline"/>
-		<line x1="2890" y1="1160" x2="2890" y2="1180" class="timeline"/>
+		<line x1="2890" y1="1630" x2="2890" y2="1650" class="timeline"/>
 		<line x1="2920" y1="50" x2="2920" y2="70" class="timeline"/>
-		<line x1="2920" y1="1160" x2="2920" y2="1180" class="timeline"/>
+		<line x1="2920" y1="1630" x2="2920" y2="1650" class="timeline"/>
 		<line x1="2950" y1="50" x2="2950" y2="70" class="timeline"/>
-		<line x1="2950" y1="1160" x2="2950" y2="1180" class="timeline"/>
+		<line x1="2950" y1="1630" x2="2950" y2="1650" class="timeline"/>
 		<line x1="2980" y1="50" x2="2980" y2="70" class="timeline"/>
-		<line x1="2980" y1="1160" x2="2980" y2="1180" class="timeline"/>
+		<line x1="2980" y1="1630" x2="2980" y2="1650" class="timeline"/>
 		<line x1="3010" y1="50" x2="3010" y2="70" class="timeline"/>
-		<line x1="3010" y1="1160" x2="3010" y2="1180" class="timeline"/>
+		<line x1="3010" y1="1630" x2="3010" y2="1650" class="timeline"/>
 		<line x1="3040" y1="50" x2="3040" y2="70" class="timeline"/>
-		<line x1="3040" y1="1160" x2="3040" y2="1180" class="timeline"/>
+		<line x1="3040" y1="1630" x2="3040" y2="1650" class="timeline"/>
 		<line x1="3070" y1="50" x2="3070" y2="70" class="timeline"/>
-		<line x1="3070" y1="1160" x2="3070" y2="1180" class="timeline"/>
+		<line x1="3070" y1="1630" x2="3070" y2="1650" class="timeline"/>
 		<line x1="3100" y1="50" x2="3100" y2="57" class="timeline"/>
-		<line x1="3100" y1="1173" x2="3100" y2="1180" class="timeline"/>
-		<line x1="3100" y1="50" x2="3100" y2="1180" class="timeline"/>
+		<line x1="3100" y1="1643" x2="3100" y2="1650" class="timeline"/>
+		<line x1="3100" y1="50" x2="3100" y2="1650" class="timeline"/>
 
 <text x="3030" y="40" class="year">1500 BC</text>
-<text x="3030" y="1220" class="year">1500 BC</text>		<line x1="3100" y1="50" x2="3100" y2="70" class="timeline"/>
-		<line x1="3100" y1="1160" x2="3100" y2="1180" class="timeline"/>
+<text x="3030" y="1690" class="year">1500 BC</text>		<line x1="3100" y1="50" x2="3100" y2="70" class="timeline"/>
+		<line x1="3100" y1="1630" x2="3100" y2="1650" class="timeline"/>
 		<line x1="3130" y1="50" x2="3130" y2="70" class="timeline"/>
-		<line x1="3130" y1="1160" x2="3130" y2="1180" class="timeline"/>
+		<line x1="3130" y1="1630" x2="3130" y2="1650" class="timeline"/>
 		<line x1="3160" y1="50" x2="3160" y2="70" class="timeline"/>
-		<line x1="3160" y1="1160" x2="3160" y2="1180" class="timeline"/>
+		<line x1="3160" y1="1630" x2="3160" y2="1650" class="timeline"/>
 		<line x1="3190" y1="50" x2="3190" y2="70" class="timeline"/>
-		<line x1="3190" y1="1160" x2="3190" y2="1180" class="timeline"/>
+		<line x1="3190" y1="1630" x2="3190" y2="1650" class="timeline"/>
 		<line x1="3220" y1="50" x2="3220" y2="70" class="timeline"/>
-		<line x1="3220" y1="1160" x2="3220" y2="1180" class="timeline"/>
+		<line x1="3220" y1="1630" x2="3220" y2="1650" class="timeline"/>
 		<line x1="3250" y1="50" x2="3250" y2="70" class="timeline"/>
-		<line x1="3250" y1="1160" x2="3250" y2="1180" class="timeline"/>
+		<line x1="3250" y1="1630" x2="3250" y2="1650" class="timeline"/>
 		<line x1="3280" y1="50" x2="3280" y2="70" class="timeline"/>
-		<line x1="3280" y1="1160" x2="3280" y2="1180" class="timeline"/>
+		<line x1="3280" y1="1630" x2="3280" y2="1650" class="timeline"/>
 		<line x1="3310" y1="50" x2="3310" y2="70" class="timeline"/>
-		<line x1="3310" y1="1160" x2="3310" y2="1180" class="timeline"/>
+		<line x1="3310" y1="1630" x2="3310" y2="1650" class="timeline"/>
 		<line x1="3340" y1="50" x2="3340" y2="70" class="timeline"/>
-		<line x1="3340" y1="1160" x2="3340" y2="1180" class="timeline"/>
+		<line x1="3340" y1="1630" x2="3340" y2="1650" class="timeline"/>
 		<line x1="3370" y1="50" x2="3370" y2="70" class="timeline"/>
-		<line x1="3370" y1="1160" x2="3370" y2="1180" class="timeline"/>
+		<line x1="3370" y1="1630" x2="3370" y2="1650" class="timeline"/>
 		<line x1="3400" y1="50" x2="3400" y2="57" class="timeline"/>
-		<line x1="3400" y1="1173" x2="3400" y2="1180" class="timeline"/>
-		<line x1="3400" y1="50" x2="3400" y2="1180" class="timeline"/>
+		<line x1="3400" y1="1643" x2="3400" y2="1650" class="timeline"/>
+		<line x1="3400" y1="50" x2="3400" y2="1650" class="timeline"/>
 
 <text x="3330" y="40" class="year">1400 BC</text>
-<text x="3330" y="1220" class="year">1400 BC</text>		<line x1="3400" y1="50" x2="3400" y2="70" class="timeline"/>
-		<line x1="3400" y1="1160" x2="3400" y2="1180" class="timeline"/>
+<text x="3330" y="1690" class="year">1400 BC</text>		<line x1="3400" y1="50" x2="3400" y2="70" class="timeline"/>
+		<line x1="3400" y1="1630" x2="3400" y2="1650" class="timeline"/>
 		<line x1="3430" y1="50" x2="3430" y2="70" class="timeline"/>
-		<line x1="3430" y1="1160" x2="3430" y2="1180" class="timeline"/>
+		<line x1="3430" y1="1630" x2="3430" y2="1650" class="timeline"/>
 		<line x1="3460" y1="50" x2="3460" y2="70" class="timeline"/>
-		<line x1="3460" y1="1160" x2="3460" y2="1180" class="timeline"/>
+		<line x1="3460" y1="1630" x2="3460" y2="1650" class="timeline"/>
 		<line x1="3490" y1="50" x2="3490" y2="70" class="timeline"/>
-		<line x1="3490" y1="1160" x2="3490" y2="1180" class="timeline"/>
+		<line x1="3490" y1="1630" x2="3490" y2="1650" class="timeline"/>
 		<line x1="3520" y1="50" x2="3520" y2="70" class="timeline"/>
-		<line x1="3520" y1="1160" x2="3520" y2="1180" class="timeline"/>
+		<line x1="3520" y1="1630" x2="3520" y2="1650" class="timeline"/>
 		<line x1="3550" y1="50" x2="3550" y2="70" class="timeline"/>
-		<line x1="3550" y1="1160" x2="3550" y2="1180" class="timeline"/>
+		<line x1="3550" y1="1630" x2="3550" y2="1650" class="timeline"/>
 		<line x1="3580" y1="50" x2="3580" y2="70" class="timeline"/>
-		<line x1="3580" y1="1160" x2="3580" y2="1180" class="timeline"/>
+		<line x1="3580" y1="1630" x2="3580" y2="1650" class="timeline"/>
 		<line x1="3610" y1="50" x2="3610" y2="70" class="timeline"/>
-		<line x1="3610" y1="1160" x2="3610" y2="1180" class="timeline"/>
+		<line x1="3610" y1="1630" x2="3610" y2="1650" class="timeline"/>
 		<line x1="3640" y1="50" x2="3640" y2="70" class="timeline"/>
-		<line x1="3640" y1="1160" x2="3640" y2="1180" class="timeline"/>
+		<line x1="3640" y1="1630" x2="3640" y2="1650" class="timeline"/>
 		<line x1="3670" y1="50" x2="3670" y2="70" class="timeline"/>
-		<line x1="3670" y1="1160" x2="3670" y2="1180" class="timeline"/>
+		<line x1="3670" y1="1630" x2="3670" y2="1650" class="timeline"/>
 		<line x1="3700" y1="50" x2="3700" y2="57" class="timeline"/>
-		<line x1="3700" y1="1173" x2="3700" y2="1180" class="timeline"/>
-		<line x1="3700" y1="50" x2="3700" y2="1180" class="timeline"/>
+		<line x1="3700" y1="1643" x2="3700" y2="1650" class="timeline"/>
+		<line x1="3700" y1="50" x2="3700" y2="1650" class="timeline"/>
 
 <text x="3630" y="40" class="year">1300 BC</text>
-<text x="3630" y="1220" class="year">1300 BC</text>		<line x1="3700" y1="50" x2="3700" y2="70" class="timeline"/>
-		<line x1="3700" y1="1160" x2="3700" y2="1180" class="timeline"/>
+<text x="3630" y="1690" class="year">1300 BC</text>		<line x1="3700" y1="50" x2="3700" y2="70" class="timeline"/>
+		<line x1="3700" y1="1630" x2="3700" y2="1650" class="timeline"/>
 		<line x1="3730" y1="50" x2="3730" y2="70" class="timeline"/>
-		<line x1="3730" y1="1160" x2="3730" y2="1180" class="timeline"/>
+		<line x1="3730" y1="1630" x2="3730" y2="1650" class="timeline"/>
 		<line x1="3760" y1="50" x2="3760" y2="70" class="timeline"/>
-		<line x1="3760" y1="1160" x2="3760" y2="1180" class="timeline"/>
+		<line x1="3760" y1="1630" x2="3760" y2="1650" class="timeline"/>
 		<line x1="3790" y1="50" x2="3790" y2="70" class="timeline"/>
-		<line x1="3790" y1="1160" x2="3790" y2="1180" class="timeline"/>
+		<line x1="3790" y1="1630" x2="3790" y2="1650" class="timeline"/>
 		<line x1="3820" y1="50" x2="3820" y2="70" class="timeline"/>
-		<line x1="3820" y1="1160" x2="3820" y2="1180" class="timeline"/>
+		<line x1="3820" y1="1630" x2="3820" y2="1650" class="timeline"/>
 		<line x1="3850" y1="50" x2="3850" y2="70" class="timeline"/>
-		<line x1="3850" y1="1160" x2="3850" y2="1180" class="timeline"/>
+		<line x1="3850" y1="1630" x2="3850" y2="1650" class="timeline"/>
 		<line x1="3880" y1="50" x2="3880" y2="70" class="timeline"/>
-		<line x1="3880" y1="1160" x2="3880" y2="1180" class="timeline"/>
+		<line x1="3880" y1="1630" x2="3880" y2="1650" class="timeline"/>
 		<line x1="3910" y1="50" x2="3910" y2="70" class="timeline"/>
-		<line x1="3910" y1="1160" x2="3910" y2="1180" class="timeline"/>
+		<line x1="3910" y1="1630" x2="3910" y2="1650" class="timeline"/>
 		<line x1="3940" y1="50" x2="3940" y2="70" class="timeline"/>
-		<line x1="3940" y1="1160" x2="3940" y2="1180" class="timeline"/>
+		<line x1="3940" y1="1630" x2="3940" y2="1650" class="timeline"/>
 		<line x1="3970" y1="50" x2="3970" y2="70" class="timeline"/>
-		<line x1="3970" y1="1160" x2="3970" y2="1180" class="timeline"/>
+		<line x1="3970" y1="1630" x2="3970" y2="1650" class="timeline"/>
 		<line x1="4000" y1="50" x2="4000" y2="57" class="timeline"/>
-		<line x1="4000" y1="1173" x2="4000" y2="1180" class="timeline"/>
-		<line x1="4000" y1="50" x2="4000" y2="1180" class="timeline"/>
+		<line x1="4000" y1="1643" x2="4000" y2="1650" class="timeline"/>
+		<line x1="4000" y1="50" x2="4000" y2="1650" class="timeline"/>
 
 <text x="3930" y="40" class="year">1200 BC</text>
-<text x="3930" y="1220" class="year">1200 BC</text>		<line x1="4000" y1="50" x2="4000" y2="70" class="timeline"/>
-		<line x1="4000" y1="1160" x2="4000" y2="1180" class="timeline"/>
+<text x="3930" y="1690" class="year">1200 BC</text>		<line x1="4000" y1="50" x2="4000" y2="70" class="timeline"/>
+		<line x1="4000" y1="1630" x2="4000" y2="1650" class="timeline"/>
 		<line x1="4030" y1="50" x2="4030" y2="70" class="timeline"/>
-		<line x1="4030" y1="1160" x2="4030" y2="1180" class="timeline"/>
+		<line x1="4030" y1="1630" x2="4030" y2="1650" class="timeline"/>
 		<line x1="4060" y1="50" x2="4060" y2="70" class="timeline"/>
-		<line x1="4060" y1="1160" x2="4060" y2="1180" class="timeline"/>
+		<line x1="4060" y1="1630" x2="4060" y2="1650" class="timeline"/>
 		<line x1="4090" y1="50" x2="4090" y2="70" class="timeline"/>
-		<line x1="4090" y1="1160" x2="4090" y2="1180" class="timeline"/>
+		<line x1="4090" y1="1630" x2="4090" y2="1650" class="timeline"/>
 		<line x1="4120" y1="50" x2="4120" y2="70" class="timeline"/>
-		<line x1="4120" y1="1160" x2="4120" y2="1180" class="timeline"/>
+		<line x1="4120" y1="1630" x2="4120" y2="1650" class="timeline"/>
 		<line x1="4150" y1="50" x2="4150" y2="70" class="timeline"/>
-		<line x1="4150" y1="1160" x2="4150" y2="1180" class="timeline"/>
+		<line x1="4150" y1="1630" x2="4150" y2="1650" class="timeline"/>
 		<line x1="4180" y1="50" x2="4180" y2="70" class="timeline"/>
-		<line x1="4180" y1="1160" x2="4180" y2="1180" class="timeline"/>
+		<line x1="4180" y1="1630" x2="4180" y2="1650" class="timeline"/>
 		<line x1="4210" y1="50" x2="4210" y2="70" class="timeline"/>
-		<line x1="4210" y1="1160" x2="4210" y2="1180" class="timeline"/>
+		<line x1="4210" y1="1630" x2="4210" y2="1650" class="timeline"/>
 		<line x1="4240" y1="50" x2="4240" y2="70" class="timeline"/>
-		<line x1="4240" y1="1160" x2="4240" y2="1180" class="timeline"/>
+		<line x1="4240" y1="1630" x2="4240" y2="1650" class="timeline"/>
 		<line x1="4270" y1="50" x2="4270" y2="70" class="timeline"/>
-		<line x1="4270" y1="1160" x2="4270" y2="1180" class="timeline"/>
+		<line x1="4270" y1="1630" x2="4270" y2="1650" class="timeline"/>
 		<line x1="4300" y1="50" x2="4300" y2="57" class="timeline"/>
-		<line x1="4300" y1="1173" x2="4300" y2="1180" class="timeline"/>
-		<line x1="4300" y1="50" x2="4300" y2="1180" class="timeline"/>
+		<line x1="4300" y1="1643" x2="4300" y2="1650" class="timeline"/>
+		<line x1="4300" y1="50" x2="4300" y2="1650" class="timeline"/>
 
 <text x="4230" y="40" class="year">1100 BC</text>
-<text x="4230" y="1220" class="year">1100 BC</text>		<line x1="4300" y1="50" x2="4300" y2="70" class="timeline"/>
-		<line x1="4300" y1="1160" x2="4300" y2="1180" class="timeline"/>
+<text x="4230" y="1690" class="year">1100 BC</text>		<line x1="4300" y1="50" x2="4300" y2="70" class="timeline"/>
+		<line x1="4300" y1="1630" x2="4300" y2="1650" class="timeline"/>
 		<line x1="4330" y1="50" x2="4330" y2="70" class="timeline"/>
-		<line x1="4330" y1="1160" x2="4330" y2="1180" class="timeline"/>
+		<line x1="4330" y1="1630" x2="4330" y2="1650" class="timeline"/>
 		<line x1="4360" y1="50" x2="4360" y2="70" class="timeline"/>
-		<line x1="4360" y1="1160" x2="4360" y2="1180" class="timeline"/>
+		<line x1="4360" y1="1630" x2="4360" y2="1650" class="timeline"/>
 		<line x1="4390" y1="50" x2="4390" y2="70" class="timeline"/>
-		<line x1="4390" y1="1160" x2="4390" y2="1180" class="timeline"/>
+		<line x1="4390" y1="1630" x2="4390" y2="1650" class="timeline"/>
 		<line x1="4420" y1="50" x2="4420" y2="70" class="timeline"/>
-		<line x1="4420" y1="1160" x2="4420" y2="1180" class="timeline"/>
+		<line x1="4420" y1="1630" x2="4420" y2="1650" class="timeline"/>
 		<line x1="4450" y1="50" x2="4450" y2="70" class="timeline"/>
-		<line x1="4450" y1="1160" x2="4450" y2="1180" class="timeline"/>
+		<line x1="4450" y1="1630" x2="4450" y2="1650" class="timeline"/>
 		<line x1="4480" y1="50" x2="4480" y2="70" class="timeline"/>
-		<line x1="4480" y1="1160" x2="4480" y2="1180" class="timeline"/>
+		<line x1="4480" y1="1630" x2="4480" y2="1650" class="timeline"/>
 		<line x1="4510" y1="50" x2="4510" y2="70" class="timeline"/>
-		<line x1="4510" y1="1160" x2="4510" y2="1180" class="timeline"/>
+		<line x1="4510" y1="1630" x2="4510" y2="1650" class="timeline"/>
 		<line x1="4540" y1="50" x2="4540" y2="70" class="timeline"/>
-		<line x1="4540" y1="1160" x2="4540" y2="1180" class="timeline"/>
+		<line x1="4540" y1="1630" x2="4540" y2="1650" class="timeline"/>
 		<line x1="4570" y1="50" x2="4570" y2="70" class="timeline"/>
-		<line x1="4570" y1="1160" x2="4570" y2="1180" class="timeline"/>
+		<line x1="4570" y1="1630" x2="4570" y2="1650" class="timeline"/>
 		<line x1="4600" y1="50" x2="4600" y2="57" class="timeline"/>
-		<line x1="4600" y1="1173" x2="4600" y2="1180" class="timeline"/>
-		<line x1="4600" y1="50" x2="4600" y2="1180" class="timeline"/>
+		<line x1="4600" y1="1643" x2="4600" y2="1650" class="timeline"/>
+		<line x1="4600" y1="50" x2="4600" y2="1650" class="timeline"/>
 
 <text x="4530" y="40" class="year">1000 BC</text>
-<text x="4530" y="1220" class="year">1000 BC</text>		<line x1="4600" y1="50" x2="4600" y2="70" class="timeline"/>
-		<line x1="4600" y1="1160" x2="4600" y2="1180" class="timeline"/>
+<text x="4530" y="1690" class="year">1000 BC</text>		<line x1="4600" y1="50" x2="4600" y2="70" class="timeline"/>
+		<line x1="4600" y1="1630" x2="4600" y2="1650" class="timeline"/>
 		<line x1="4630" y1="50" x2="4630" y2="70" class="timeline"/>
-		<line x1="4630" y1="1160" x2="4630" y2="1180" class="timeline"/>
+		<line x1="4630" y1="1630" x2="4630" y2="1650" class="timeline"/>
 		<line x1="4660" y1="50" x2="4660" y2="70" class="timeline"/>
-		<line x1="4660" y1="1160" x2="4660" y2="1180" class="timeline"/>
+		<line x1="4660" y1="1630" x2="4660" y2="1650" class="timeline"/>
 		<line x1="4690" y1="50" x2="4690" y2="70" class="timeline"/>
-		<line x1="4690" y1="1160" x2="4690" y2="1180" class="timeline"/>
+		<line x1="4690" y1="1630" x2="4690" y2="1650" class="timeline"/>
 		<line x1="4720" y1="50" x2="4720" y2="70" class="timeline"/>
-		<line x1="4720" y1="1160" x2="4720" y2="1180" class="timeline"/>
+		<line x1="4720" y1="1630" x2="4720" y2="1650" class="timeline"/>
 		<line x1="4750" y1="50" x2="4750" y2="70" class="timeline"/>
-		<line x1="4750" y1="1160" x2="4750" y2="1180" class="timeline"/>
+		<line x1="4750" y1="1630" x2="4750" y2="1650" class="timeline"/>
 		<line x1="4780" y1="50" x2="4780" y2="70" class="timeline"/>
-		<line x1="4780" y1="1160" x2="4780" y2="1180" class="timeline"/>
+		<line x1="4780" y1="1630" x2="4780" y2="1650" class="timeline"/>
 		<line x1="4810" y1="50" x2="4810" y2="70" class="timeline"/>
-		<line x1="4810" y1="1160" x2="4810" y2="1180" class="timeline"/>
+		<line x1="4810" y1="1630" x2="4810" y2="1650" class="timeline"/>
 		<line x1="4840" y1="50" x2="4840" y2="70" class="timeline"/>
-		<line x1="4840" y1="1160" x2="4840" y2="1180" class="timeline"/>
+		<line x1="4840" y1="1630" x2="4840" y2="1650" class="timeline"/>
 		<line x1="4870" y1="50" x2="4870" y2="70" class="timeline"/>
-		<line x1="4870" y1="1160" x2="4870" y2="1180" class="timeline"/>
+		<line x1="4870" y1="1630" x2="4870" y2="1650" class="timeline"/>
 		<line x1="4900" y1="50" x2="4900" y2="57" class="timeline"/>
-		<line x1="4900" y1="1173" x2="4900" y2="1180" class="timeline"/>
-		<line x1="4900" y1="50" x2="4900" y2="1180" class="timeline"/>
+		<line x1="4900" y1="1643" x2="4900" y2="1650" class="timeline"/>
+		<line x1="4900" y1="50" x2="4900" y2="1650" class="timeline"/>
 
 <text x="4840" y="40" class="year">900 BC</text>
-<text x="4840" y="1220" class="year">900 BC</text>		<line x1="4900" y1="50" x2="4900" y2="70" class="timeline"/>
-		<line x1="4900" y1="1160" x2="4900" y2="1180" class="timeline"/>
+<text x="4840" y="1690" class="year">900 BC</text>		<line x1="4900" y1="50" x2="4900" y2="70" class="timeline"/>
+		<line x1="4900" y1="1630" x2="4900" y2="1650" class="timeline"/>
 		<line x1="4930" y1="50" x2="4930" y2="70" class="timeline"/>
-		<line x1="4930" y1="1160" x2="4930" y2="1180" class="timeline"/>
+		<line x1="4930" y1="1630" x2="4930" y2="1650" class="timeline"/>
 		<line x1="4960" y1="50" x2="4960" y2="70" class="timeline"/>
-		<line x1="4960" y1="1160" x2="4960" y2="1180" class="timeline"/>
+		<line x1="4960" y1="1630" x2="4960" y2="1650" class="timeline"/>
 		<line x1="4990" y1="50" x2="4990" y2="70" class="timeline"/>
-		<line x1="4990" y1="1160" x2="4990" y2="1180" class="timeline"/>
+		<line x1="4990" y1="1630" x2="4990" y2="1650" class="timeline"/>
 		<line x1="5020" y1="50" x2="5020" y2="70" class="timeline"/>
-		<line x1="5020" y1="1160" x2="5020" y2="1180" class="timeline"/>
+		<line x1="5020" y1="1630" x2="5020" y2="1650" class="timeline"/>
 		<line x1="5050" y1="50" x2="5050" y2="70" class="timeline"/>
-		<line x1="5050" y1="1160" x2="5050" y2="1180" class="timeline"/>
+		<line x1="5050" y1="1630" x2="5050" y2="1650" class="timeline"/>
 		<line x1="5080" y1="50" x2="5080" y2="70" class="timeline"/>
-		<line x1="5080" y1="1160" x2="5080" y2="1180" class="timeline"/>
+		<line x1="5080" y1="1630" x2="5080" y2="1650" class="timeline"/>
 		<line x1="5110" y1="50" x2="5110" y2="70" class="timeline"/>
-		<line x1="5110" y1="1160" x2="5110" y2="1180" class="timeline"/>
+		<line x1="5110" y1="1630" x2="5110" y2="1650" class="timeline"/>
 		<line x1="5140" y1="50" x2="5140" y2="70" class="timeline"/>
-		<line x1="5140" y1="1160" x2="5140" y2="1180" class="timeline"/>
+		<line x1="5140" y1="1630" x2="5140" y2="1650" class="timeline"/>
 		<line x1="5170" y1="50" x2="5170" y2="70" class="timeline"/>
-		<line x1="5170" y1="1160" x2="5170" y2="1180" class="timeline"/>
+		<line x1="5170" y1="1630" x2="5170" y2="1650" class="timeline"/>
 		<line x1="5200" y1="50" x2="5200" y2="57" class="timeline"/>
-		<line x1="5200" y1="1173" x2="5200" y2="1180" class="timeline"/>
-		<line x1="5200" y1="50" x2="5200" y2="1180" class="timeline"/>
+		<line x1="5200" y1="1643" x2="5200" y2="1650" class="timeline"/>
+		<line x1="5200" y1="50" x2="5200" y2="1650" class="timeline"/>
 
 <text x="5140" y="40" class="year">800 BC</text>
-<text x="5140" y="1220" class="year">800 BC</text>		<line x1="5200" y1="50" x2="5200" y2="70" class="timeline"/>
-		<line x1="5200" y1="1160" x2="5200" y2="1180" class="timeline"/>
+<text x="5140" y="1690" class="year">800 BC</text>		<line x1="5200" y1="50" x2="5200" y2="70" class="timeline"/>
+		<line x1="5200" y1="1630" x2="5200" y2="1650" class="timeline"/>
 		<line x1="5230" y1="50" x2="5230" y2="70" class="timeline"/>
-		<line x1="5230" y1="1160" x2="5230" y2="1180" class="timeline"/>
+		<line x1="5230" y1="1630" x2="5230" y2="1650" class="timeline"/>
 		<line x1="5260" y1="50" x2="5260" y2="70" class="timeline"/>
-		<line x1="5260" y1="1160" x2="5260" y2="1180" class="timeline"/>
+		<line x1="5260" y1="1630" x2="5260" y2="1650" class="timeline"/>
 		<line x1="5290" y1="50" x2="5290" y2="70" class="timeline"/>
-		<line x1="5290" y1="1160" x2="5290" y2="1180" class="timeline"/>
+		<line x1="5290" y1="1630" x2="5290" y2="1650" class="timeline"/>
 		<line x1="5320" y1="50" x2="5320" y2="70" class="timeline"/>
-		<line x1="5320" y1="1160" x2="5320" y2="1180" class="timeline"/>
+		<line x1="5320" y1="1630" x2="5320" y2="1650" class="timeline"/>
 		<line x1="5350" y1="50" x2="5350" y2="70" class="timeline"/>
-		<line x1="5350" y1="1160" x2="5350" y2="1180" class="timeline"/>
+		<line x1="5350" y1="1630" x2="5350" y2="1650" class="timeline"/>
 		<line x1="5380" y1="50" x2="5380" y2="70" class="timeline"/>
-		<line x1="5380" y1="1160" x2="5380" y2="1180" class="timeline"/>
+		<line x1="5380" y1="1630" x2="5380" y2="1650" class="timeline"/>
 		<line x1="5410" y1="50" x2="5410" y2="70" class="timeline"/>
-		<line x1="5410" y1="1160" x2="5410" y2="1180" class="timeline"/>
+		<line x1="5410" y1="1630" x2="5410" y2="1650" class="timeline"/>
 		<line x1="5440" y1="50" x2="5440" y2="70" class="timeline"/>
-		<line x1="5440" y1="1160" x2="5440" y2="1180" class="timeline"/>
+		<line x1="5440" y1="1630" x2="5440" y2="1650" class="timeline"/>
 		<line x1="5470" y1="50" x2="5470" y2="70" class="timeline"/>
-		<line x1="5470" y1="1160" x2="5470" y2="1180" class="timeline"/>
+		<line x1="5470" y1="1630" x2="5470" y2="1650" class="timeline"/>
 		<line x1="5500" y1="50" x2="5500" y2="57" class="timeline"/>
-		<line x1="5500" y1="1173" x2="5500" y2="1180" class="timeline"/>
-		<line x1="5500" y1="50" x2="5500" y2="1180" class="timeline"/>
+		<line x1="5500" y1="1643" x2="5500" y2="1650" class="timeline"/>
+		<line x1="5500" y1="50" x2="5500" y2="1650" class="timeline"/>
 
 <text x="5440" y="40" class="year">700 BC</text>
-<text x="5440" y="1220" class="year">700 BC</text>		<line x1="5500" y1="50" x2="5500" y2="70" class="timeline"/>
-		<line x1="5500" y1="1160" x2="5500" y2="1180" class="timeline"/>
+<text x="5440" y="1690" class="year">700 BC</text>		<line x1="5500" y1="50" x2="5500" y2="70" class="timeline"/>
+		<line x1="5500" y1="1630" x2="5500" y2="1650" class="timeline"/>
 		<line x1="5530" y1="50" x2="5530" y2="70" class="timeline"/>
-		<line x1="5530" y1="1160" x2="5530" y2="1180" class="timeline"/>
+		<line x1="5530" y1="1630" x2="5530" y2="1650" class="timeline"/>
 		<line x1="5560" y1="50" x2="5560" y2="70" class="timeline"/>
-		<line x1="5560" y1="1160" x2="5560" y2="1180" class="timeline"/>
+		<line x1="5560" y1="1630" x2="5560" y2="1650" class="timeline"/>
 		<line x1="5590" y1="50" x2="5590" y2="70" class="timeline"/>
-		<line x1="5590" y1="1160" x2="5590" y2="1180" class="timeline"/>
+		<line x1="5590" y1="1630" x2="5590" y2="1650" class="timeline"/>
 		<line x1="5620" y1="50" x2="5620" y2="70" class="timeline"/>
-		<line x1="5620" y1="1160" x2="5620" y2="1180" class="timeline"/>
+		<line x1="5620" y1="1630" x2="5620" y2="1650" class="timeline"/>
 		<line x1="5650" y1="50" x2="5650" y2="70" class="timeline"/>
-		<line x1="5650" y1="1160" x2="5650" y2="1180" class="timeline"/>
+		<line x1="5650" y1="1630" x2="5650" y2="1650" class="timeline"/>
 		<line x1="5680" y1="50" x2="5680" y2="70" class="timeline"/>
-		<line x1="5680" y1="1160" x2="5680" y2="1180" class="timeline"/>
+		<line x1="5680" y1="1630" x2="5680" y2="1650" class="timeline"/>
 		<line x1="5710" y1="50" x2="5710" y2="70" class="timeline"/>
-		<line x1="5710" y1="1160" x2="5710" y2="1180" class="timeline"/>
+		<line x1="5710" y1="1630" x2="5710" y2="1650" class="timeline"/>
 		<line x1="5740" y1="50" x2="5740" y2="70" class="timeline"/>
-		<line x1="5740" y1="1160" x2="5740" y2="1180" class="timeline"/>
+		<line x1="5740" y1="1630" x2="5740" y2="1650" class="timeline"/>
 		<line x1="5770" y1="50" x2="5770" y2="70" class="timeline"/>
-		<line x1="5770" y1="1160" x2="5770" y2="1180" class="timeline"/>
+		<line x1="5770" y1="1630" x2="5770" y2="1650" class="timeline"/>
 		<line x1="5800" y1="50" x2="5800" y2="57" class="timeline"/>
-		<line x1="5800" y1="1173" x2="5800" y2="1180" class="timeline"/>
-		<line x1="5800" y1="50" x2="5800" y2="1180" class="timeline"/>
+		<line x1="5800" y1="1643" x2="5800" y2="1650" class="timeline"/>
+		<line x1="5800" y1="50" x2="5800" y2="1650" class="timeline"/>
 
 <text x="5740" y="40" class="year">600 BC</text>
-<text x="5740" y="1220" class="year">600 BC</text>		<line x1="5800" y1="50" x2="5800" y2="70" class="timeline"/>
-		<line x1="5800" y1="1160" x2="5800" y2="1180" class="timeline"/>
+<text x="5740" y="1690" class="year">600 BC</text>		<line x1="5800" y1="50" x2="5800" y2="70" class="timeline"/>
+		<line x1="5800" y1="1630" x2="5800" y2="1650" class="timeline"/>
 		<line x1="5830" y1="50" x2="5830" y2="70" class="timeline"/>
-		<line x1="5830" y1="1160" x2="5830" y2="1180" class="timeline"/>
+		<line x1="5830" y1="1630" x2="5830" y2="1650" class="timeline"/>
 		<line x1="5860" y1="50" x2="5860" y2="70" class="timeline"/>
-		<line x1="5860" y1="1160" x2="5860" y2="1180" class="timeline"/>
+		<line x1="5860" y1="1630" x2="5860" y2="1650" class="timeline"/>
 		<line x1="5890" y1="50" x2="5890" y2="70" class="timeline"/>
-		<line x1="5890" y1="1160" x2="5890" y2="1180" class="timeline"/>
+		<line x1="5890" y1="1630" x2="5890" y2="1650" class="timeline"/>
 		<line x1="5920" y1="50" x2="5920" y2="70" class="timeline"/>
-		<line x1="5920" y1="1160" x2="5920" y2="1180" class="timeline"/>
+		<line x1="5920" y1="1630" x2="5920" y2="1650" class="timeline"/>
 		<line x1="5950" y1="50" x2="5950" y2="70" class="timeline"/>
-		<line x1="5950" y1="1160" x2="5950" y2="1180" class="timeline"/>
+		<line x1="5950" y1="1630" x2="5950" y2="1650" class="timeline"/>
 		<line x1="5980" y1="50" x2="5980" y2="70" class="timeline"/>
-		<line x1="5980" y1="1160" x2="5980" y2="1180" class="timeline"/>
+		<line x1="5980" y1="1630" x2="5980" y2="1650" class="timeline"/>
 		<line x1="6010" y1="50" x2="6010" y2="70" class="timeline"/>
-		<line x1="6010" y1="1160" x2="6010" y2="1180" class="timeline"/>
+		<line x1="6010" y1="1630" x2="6010" y2="1650" class="timeline"/>
 		<line x1="6040" y1="50" x2="6040" y2="70" class="timeline"/>
-		<line x1="6040" y1="1160" x2="6040" y2="1180" class="timeline"/>
+		<line x1="6040" y1="1630" x2="6040" y2="1650" class="timeline"/>
 		<line x1="6070" y1="50" x2="6070" y2="70" class="timeline"/>
-		<line x1="6070" y1="1160" x2="6070" y2="1180" class="timeline"/>
+		<line x1="6070" y1="1630" x2="6070" y2="1650" class="timeline"/>
 		<line x1="6100" y1="50" x2="6100" y2="57" class="timeline"/>
-		<line x1="6100" y1="1173" x2="6100" y2="1180" class="timeline"/>
-		<line x1="6100" y1="50" x2="6100" y2="1180" class="timeline"/>
+		<line x1="6100" y1="1643" x2="6100" y2="1650" class="timeline"/>
+		<line x1="6100" y1="50" x2="6100" y2="1650" class="timeline"/>
 
 <text x="6040" y="40" class="year">500 BC</text>
-<text x="6040" y="1220" class="year">500 BC</text>		<line x1="6100" y1="50" x2="6100" y2="70" class="timeline"/>
-		<line x1="6100" y1="1160" x2="6100" y2="1180" class="timeline"/>
+<text x="6040" y="1690" class="year">500 BC</text>		<line x1="6100" y1="50" x2="6100" y2="70" class="timeline"/>
+		<line x1="6100" y1="1630" x2="6100" y2="1650" class="timeline"/>
 		<line x1="6130" y1="50" x2="6130" y2="70" class="timeline"/>
-		<line x1="6130" y1="1160" x2="6130" y2="1180" class="timeline"/>
+		<line x1="6130" y1="1630" x2="6130" y2="1650" class="timeline"/>
 		<line x1="6160" y1="50" x2="6160" y2="70" class="timeline"/>
-		<line x1="6160" y1="1160" x2="6160" y2="1180" class="timeline"/>
+		<line x1="6160" y1="1630" x2="6160" y2="1650" class="timeline"/>
 		<line x1="6190" y1="50" x2="6190" y2="70" class="timeline"/>
-		<line x1="6190" y1="1160" x2="6190" y2="1180" class="timeline"/>
+		<line x1="6190" y1="1630" x2="6190" y2="1650" class="timeline"/>
 		<line x1="6220" y1="50" x2="6220" y2="70" class="timeline"/>
-		<line x1="6220" y1="1160" x2="6220" y2="1180" class="timeline"/>
+		<line x1="6220" y1="1630" x2="6220" y2="1650" class="timeline"/>
 		<line x1="6250" y1="50" x2="6250" y2="70" class="timeline"/>
-		<line x1="6250" y1="1160" x2="6250" y2="1180" class="timeline"/>
+		<line x1="6250" y1="1630" x2="6250" y2="1650" class="timeline"/>
 		<line x1="6280" y1="50" x2="6280" y2="70" class="timeline"/>
-		<line x1="6280" y1="1160" x2="6280" y2="1180" class="timeline"/>
+		<line x1="6280" y1="1630" x2="6280" y2="1650" class="timeline"/>
 		<line x1="6310" y1="50" x2="6310" y2="70" class="timeline"/>
-		<line x1="6310" y1="1160" x2="6310" y2="1180" class="timeline"/>
+		<line x1="6310" y1="1630" x2="6310" y2="1650" class="timeline"/>
 		<line x1="6340" y1="50" x2="6340" y2="70" class="timeline"/>
-		<line x1="6340" y1="1160" x2="6340" y2="1180" class="timeline"/>
+		<line x1="6340" y1="1630" x2="6340" y2="1650" class="timeline"/>
 		<line x1="6370" y1="50" x2="6370" y2="70" class="timeline"/>
-		<line x1="6370" y1="1160" x2="6370" y2="1180" class="timeline"/>
+		<line x1="6370" y1="1630" x2="6370" y2="1650" class="timeline"/>
 		<line x1="6400" y1="50" x2="6400" y2="57" class="timeline"/>
-		<line x1="6400" y1="1173" x2="6400" y2="1180" class="timeline"/>
-		<line x1="6400" y1="50" x2="6400" y2="1180" class="timeline"/>
+		<line x1="6400" y1="1643" x2="6400" y2="1650" class="timeline"/>
+		<line x1="6400" y1="50" x2="6400" y2="1650" class="timeline"/>
 
 <text x="6340" y="40" class="year">400 BC</text>
-<text x="6340" y="1220" class="year">400 BC</text>		<line x1="6400" y1="50" x2="6400" y2="70" class="timeline"/>
-		<line x1="6400" y1="1160" x2="6400" y2="1180" class="timeline"/>
+<text x="6340" y="1690" class="year">400 BC</text>		<line x1="6400" y1="50" x2="6400" y2="70" class="timeline"/>
+		<line x1="6400" y1="1630" x2="6400" y2="1650" class="timeline"/>
 		<line x1="6430" y1="50" x2="6430" y2="70" class="timeline"/>
-		<line x1="6430" y1="1160" x2="6430" y2="1180" class="timeline"/>
+		<line x1="6430" y1="1630" x2="6430" y2="1650" class="timeline"/>
 		<line x1="6460" y1="50" x2="6460" y2="70" class="timeline"/>
-		<line x1="6460" y1="1160" x2="6460" y2="1180" class="timeline"/>
+		<line x1="6460" y1="1630" x2="6460" y2="1650" class="timeline"/>
 		<line x1="6490" y1="50" x2="6490" y2="70" class="timeline"/>
-		<line x1="6490" y1="1160" x2="6490" y2="1180" class="timeline"/>
+		<line x1="6490" y1="1630" x2="6490" y2="1650" class="timeline"/>
 		<line x1="6520" y1="50" x2="6520" y2="70" class="timeline"/>
-		<line x1="6520" y1="1160" x2="6520" y2="1180" class="timeline"/>
+		<line x1="6520" y1="1630" x2="6520" y2="1650" class="timeline"/>
 		<line x1="6550" y1="50" x2="6550" y2="70" class="timeline"/>
-		<line x1="6550" y1="1160" x2="6550" y2="1180" class="timeline"/>
+		<line x1="6550" y1="1630" x2="6550" y2="1650" class="timeline"/>
 		<line x1="6580" y1="50" x2="6580" y2="70" class="timeline"/>
-		<line x1="6580" y1="1160" x2="6580" y2="1180" class="timeline"/>
+		<line x1="6580" y1="1630" x2="6580" y2="1650" class="timeline"/>
 		<line x1="6610" y1="50" x2="6610" y2="70" class="timeline"/>
-		<line x1="6610" y1="1160" x2="6610" y2="1180" class="timeline"/>
+		<line x1="6610" y1="1630" x2="6610" y2="1650" class="timeline"/>
 		<line x1="6640" y1="50" x2="6640" y2="70" class="timeline"/>
-		<line x1="6640" y1="1160" x2="6640" y2="1180" class="timeline"/>
+		<line x1="6640" y1="1630" x2="6640" y2="1650" class="timeline"/>
 		<line x1="6670" y1="50" x2="6670" y2="70" class="timeline"/>
-		<line x1="6670" y1="1160" x2="6670" y2="1180" class="timeline"/>
+		<line x1="6670" y1="1630" x2="6670" y2="1650" class="timeline"/>
 		<line x1="6700" y1="50" x2="6700" y2="57" class="timeline"/>
-		<line x1="6700" y1="1173" x2="6700" y2="1180" class="timeline"/>
-		<line x1="6700" y1="50" x2="6700" y2="1180" class="timeline"/>
+		<line x1="6700" y1="1643" x2="6700" y2="1650" class="timeline"/>
+		<line x1="6700" y1="50" x2="6700" y2="1650" class="timeline"/>
 
 <text x="6640" y="40" class="year">300 BC</text>
-<text x="6640" y="1220" class="year">300 BC</text>		<line x1="6700" y1="50" x2="6700" y2="70" class="timeline"/>
-		<line x1="6700" y1="1160" x2="6700" y2="1180" class="timeline"/>
+<text x="6640" y="1690" class="year">300 BC</text>		<line x1="6700" y1="50" x2="6700" y2="70" class="timeline"/>
+		<line x1="6700" y1="1630" x2="6700" y2="1650" class="timeline"/>
 		<line x1="6730" y1="50" x2="6730" y2="70" class="timeline"/>
-		<line x1="6730" y1="1160" x2="6730" y2="1180" class="timeline"/>
+		<line x1="6730" y1="1630" x2="6730" y2="1650" class="timeline"/>
 		<line x1="6760" y1="50" x2="6760" y2="70" class="timeline"/>
-		<line x1="6760" y1="1160" x2="6760" y2="1180" class="timeline"/>
+		<line x1="6760" y1="1630" x2="6760" y2="1650" class="timeline"/>
 		<line x1="6790" y1="50" x2="6790" y2="70" class="timeline"/>
-		<line x1="6790" y1="1160" x2="6790" y2="1180" class="timeline"/>
+		<line x1="6790" y1="1630" x2="6790" y2="1650" class="timeline"/>
 		<line x1="6820" y1="50" x2="6820" y2="70" class="timeline"/>
-		<line x1="6820" y1="1160" x2="6820" y2="1180" class="timeline"/>
+		<line x1="6820" y1="1630" x2="6820" y2="1650" class="timeline"/>
 		<line x1="6850" y1="50" x2="6850" y2="70" class="timeline"/>
-		<line x1="6850" y1="1160" x2="6850" y2="1180" class="timeline"/>
+		<line x1="6850" y1="1630" x2="6850" y2="1650" class="timeline"/>
 		<line x1="6880" y1="50" x2="6880" y2="70" class="timeline"/>
-		<line x1="6880" y1="1160" x2="6880" y2="1180" class="timeline"/>
+		<line x1="6880" y1="1630" x2="6880" y2="1650" class="timeline"/>
 		<line x1="6910" y1="50" x2="6910" y2="70" class="timeline"/>
-		<line x1="6910" y1="1160" x2="6910" y2="1180" class="timeline"/>
+		<line x1="6910" y1="1630" x2="6910" y2="1650" class="timeline"/>
 		<line x1="6940" y1="50" x2="6940" y2="70" class="timeline"/>
-		<line x1="6940" y1="1160" x2="6940" y2="1180" class="timeline"/>
+		<line x1="6940" y1="1630" x2="6940" y2="1650" class="timeline"/>
 		<line x1="6970" y1="50" x2="6970" y2="70" class="timeline"/>
-		<line x1="6970" y1="1160" x2="6970" y2="1180" class="timeline"/>
+		<line x1="6970" y1="1630" x2="6970" y2="1650" class="timeline"/>
 		<line x1="7000" y1="50" x2="7000" y2="57" class="timeline"/>
-		<line x1="7000" y1="1173" x2="7000" y2="1180" class="timeline"/>
-		<line x1="7000" y1="50" x2="7000" y2="1180" class="timeline"/>
+		<line x1="7000" y1="1643" x2="7000" y2="1650" class="timeline"/>
+		<line x1="7000" y1="50" x2="7000" y2="1650" class="timeline"/>
 
 <text x="6940" y="40" class="year">200 BC</text>
-<text x="6940" y="1220" class="year">200 BC</text>		<line x1="7000" y1="50" x2="7000" y2="70" class="timeline"/>
-		<line x1="7000" y1="1160" x2="7000" y2="1180" class="timeline"/>
+<text x="6940" y="1690" class="year">200 BC</text>		<line x1="7000" y1="50" x2="7000" y2="70" class="timeline"/>
+		<line x1="7000" y1="1630" x2="7000" y2="1650" class="timeline"/>
 		<line x1="7030" y1="50" x2="7030" y2="70" class="timeline"/>
-		<line x1="7030" y1="1160" x2="7030" y2="1180" class="timeline"/>
+		<line x1="7030" y1="1630" x2="7030" y2="1650" class="timeline"/>
 		<line x1="7060" y1="50" x2="7060" y2="70" class="timeline"/>
-		<line x1="7060" y1="1160" x2="7060" y2="1180" class="timeline"/>
+		<line x1="7060" y1="1630" x2="7060" y2="1650" class="timeline"/>
 		<line x1="7090" y1="50" x2="7090" y2="70" class="timeline"/>
-		<line x1="7090" y1="1160" x2="7090" y2="1180" class="timeline"/>
+		<line x1="7090" y1="1630" x2="7090" y2="1650" class="timeline"/>
 		<line x1="7120" y1="50" x2="7120" y2="70" class="timeline"/>
-		<line x1="7120" y1="1160" x2="7120" y2="1180" class="timeline"/>
+		<line x1="7120" y1="1630" x2="7120" y2="1650" class="timeline"/>
 		<line x1="7150" y1="50" x2="7150" y2="70" class="timeline"/>
-		<line x1="7150" y1="1160" x2="7150" y2="1180" class="timeline"/>
+		<line x1="7150" y1="1630" x2="7150" y2="1650" class="timeline"/>
 		<line x1="7180" y1="50" x2="7180" y2="70" class="timeline"/>
-		<line x1="7180" y1="1160" x2="7180" y2="1180" class="timeline"/>
+		<line x1="7180" y1="1630" x2="7180" y2="1650" class="timeline"/>
 		<line x1="7210" y1="50" x2="7210" y2="70" class="timeline"/>
-		<line x1="7210" y1="1160" x2="7210" y2="1180" class="timeline"/>
+		<line x1="7210" y1="1630" x2="7210" y2="1650" class="timeline"/>
 		<line x1="7240" y1="50" x2="7240" y2="70" class="timeline"/>
-		<line x1="7240" y1="1160" x2="7240" y2="1180" class="timeline"/>
+		<line x1="7240" y1="1630" x2="7240" y2="1650" class="timeline"/>
 		<line x1="7270" y1="50" x2="7270" y2="70" class="timeline"/>
-		<line x1="7270" y1="1160" x2="7270" y2="1180" class="timeline"/>
+		<line x1="7270" y1="1630" x2="7270" y2="1650" class="timeline"/>
 		<line x1="7300" y1="50" x2="7300" y2="57" class="timeline"/>
-		<line x1="7300" y1="1173" x2="7300" y2="1180" class="timeline"/>
-		<line x1="7300" y1="50" x2="7300" y2="1180" class="timeline"/>
+		<line x1="7300" y1="1643" x2="7300" y2="1650" class="timeline"/>
+		<line x1="7300" y1="50" x2="7300" y2="1650" class="timeline"/>
 
 <text x="7240" y="40" class="year">100 BC</text>
-<text x="7240" y="1220" class="year">100 BC</text>		<line x1="7300" y1="50" x2="7300" y2="70" class="timeline"/>
-		<line x1="7300" y1="1160" x2="7300" y2="1180" class="timeline"/>
+<text x="7240" y="1690" class="year">100 BC</text>		<line x1="7300" y1="50" x2="7300" y2="70" class="timeline"/>
+		<line x1="7300" y1="1630" x2="7300" y2="1650" class="timeline"/>
 		<line x1="7330" y1="50" x2="7330" y2="70" class="timeline"/>
-		<line x1="7330" y1="1160" x2="7330" y2="1180" class="timeline"/>
+		<line x1="7330" y1="1630" x2="7330" y2="1650" class="timeline"/>
 		<line x1="7360" y1="50" x2="7360" y2="70" class="timeline"/>
-		<line x1="7360" y1="1160" x2="7360" y2="1180" class="timeline"/>
+		<line x1="7360" y1="1630" x2="7360" y2="1650" class="timeline"/>
 		<line x1="7390" y1="50" x2="7390" y2="70" class="timeline"/>
-		<line x1="7390" y1="1160" x2="7390" y2="1180" class="timeline"/>
+		<line x1="7390" y1="1630" x2="7390" y2="1650" class="timeline"/>
 		<line x1="7420" y1="50" x2="7420" y2="70" class="timeline"/>
-		<line x1="7420" y1="1160" x2="7420" y2="1180" class="timeline"/>
+		<line x1="7420" y1="1630" x2="7420" y2="1650" class="timeline"/>
 		<line x1="7450" y1="50" x2="7450" y2="70" class="timeline"/>
-		<line x1="7450" y1="1160" x2="7450" y2="1180" class="timeline"/>
+		<line x1="7450" y1="1630" x2="7450" y2="1650" class="timeline"/>
 		<line x1="7480" y1="50" x2="7480" y2="70" class="timeline"/>
-		<line x1="7480" y1="1160" x2="7480" y2="1180" class="timeline"/>
+		<line x1="7480" y1="1630" x2="7480" y2="1650" class="timeline"/>
 		<line x1="7510" y1="50" x2="7510" y2="70" class="timeline"/>
-		<line x1="7510" y1="1160" x2="7510" y2="1180" class="timeline"/>
+		<line x1="7510" y1="1630" x2="7510" y2="1650" class="timeline"/>
 		<line x1="7540" y1="50" x2="7540" y2="70" class="timeline"/>
-		<line x1="7540" y1="1160" x2="7540" y2="1180" class="timeline"/>
+		<line x1="7540" y1="1630" x2="7540" y2="1650" class="timeline"/>
 		<line x1="7570" y1="50" x2="7570" y2="70" class="timeline"/>
-		<line x1="7570" y1="1160" x2="7570" y2="1180" class="timeline"/>
+		<line x1="7570" y1="1630" x2="7570" y2="1650" class="timeline"/>
 
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sargon_the_Great" target="_blank"><rect id="Sargon_the_Great" x="520" y="140" width="258" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Sargon_the_Great" x="520" y="140" width="258" height="50" class="roman""  mask="url(#fadeInOutMask)"/><rect x="592" y="140" width="162" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="524" y="175" class="transformational">SARGON THE GREAT</text><title>Sargon the Great (c. 2350 BC - c. 2284 BC)</title></a></g>
 
 <text x="598" y="130" class="dynasty">AKKAD DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ur-Nammu" target="_blank"><rect id="Ur-Nammu" x="1234" y="290" width="111" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Ur-Nammu" x="1234" y="290" width="111" height="40" class="roman""  mask="url(#fadeInOutMask)"/><rect x="1258" y="290" width="63" height="40" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="1238" y="313" class="major">UR-NAMMU</text><title>Ur-Nammu (c. 2112 BC - c. 2095 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shulgi" target="_blank"><rect id="Shulgi" x="1228" y="340" width="261" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Shulgi" x="1228" y="340" width="261" height="50" class="roman""  mask="url(#fadeInOutMask)"/><rect x="1312" y="340" width="153" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="1232" y="375" class="transformational">SHULGI</text><title>Shulgi (c. 2114 BC - c. 2047 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Amar-Sin" target="_blank"><rect id="Amar-Sin" x="1330" y="400" width="186" height="20" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Amar-Sin" x="1330" y="400" width="186" height="20" class="roman""  mask="url(#fadeInOutMask)"/><rect x="1456" y="400" width="36" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="1334" y="413" class="semimajor">AMAR-SIN</text><title>Amar-Sin (c. 2080 BC - c. 2038 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shu-Sin" target="_blank"><rect id="Shu-Sin" x="1420" y="430" width="123" height="20" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Shu-Sin" x="1420" y="430" width="123" height="20" class="roman""  mask="url(#fadeInOutMask)"/><rect x="1483" y="430" width="36" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="1424" y="443" class="semimajor">SHU-SIN</text><title>Shu-Sin (c. 2050 BC - c. 2029 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ibbi-Sin" target="_blank"><rect id="Ibbi-Sin" x="1450" y="460" width="168" height="20" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Ibbi-Sin" x="1450" y="460" width="168" height="20" class="roman""  mask="url(#fadeInOutMask)"/><rect x="1510" y="460" width="84" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="1454" y="473" class="semimajor">IBBI-SIN</text><title>Ibbi-Sin (c. 2040 BC - c. 2004 BC)</title></a></g>
 
-<text x="1264" y="280" class="dynasty">THIRD DYNASTY OF UR</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hammurabi" target="_blank"><rect id="Hammurabi" x="2140" y="430" width="240" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Hammurabi" x="2140" y="430" width="240" height="50" class="babylonian""  mask="url(#fadeInOutMask)"/><rect x="2218" y="430" width="138" height="50" class="king""  mask="url(#fadeInOutMask)"/>
-<text x="2144" y="465" class="transformational">HAMMURABI</text><title>Hammurabi (c. 1810 BC - c. 1750 BC)</title></a></g>
+<text x="1264" y="280" class="dynasty">THIRD DYNASTY OF UR</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hammurabi" target="_blank"><rect id="Hammurabi" x="2140" y="580" width="240" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Hammurabi" x="2140" y="580" width="240" height="50" class="babylonian""  mask="url(#fadeInOutMask)"/><rect x="2218" y="580" width="138" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="2144" y="615" class="transformational">HAMMURABI</text><title>Hammurabi (c. 1810 BC - c. 1750 BC)</title></a></g>
 
-<text x="2224" y="420" class="dynasty">FIRST DYNASTY OF BABYLON</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="2470" y="580" width="300" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Hattusili_I" x="2470" y="580" width="300" height="50" class="hittite""  mask="url(#fadeInOutMask)"/><rect x="2644" y="580" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
-<text x="2474" y="615" class="transformational">HATTUSILI I</text><title>Hattusili I (c. 1700 BC - c. 1620 BC)</title></a></g>
+<text x="2224" y="570" class="dynasty">FIRST DYNASTY OF BABYLON</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="2470" y="730" width="300" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Hattusili_I" x="2470" y="730" width="300" height="50" class="hittite""  mask="url(#fadeInOutMask)"/><rect x="2644" y="730" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="2474" y="765" class="transformational">HATTUSILI I</text><title>Hattusili I (c. 1700 BC - c. 1620 BC)</title></a></g>
 
-<text x="2650" y="570" class="dynasty">HITTITE OLD KINGDOM</text><g><a xlink:href="http://en.wikipedia.org/wiki/Suppiluliuma_I" target="_blank"><rect id="Suppiluliuma_I" x="3430" y="730" width="234" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Suppiluliuma_I" x="3430" y="730" width="234" height="50" class="hittite""  mask="url(#fadeInOutMask)"/><rect x="3562" y="730" width="78" height="50" class="king""  mask="url(#fadeInOutMask)"/>
-<text x="3434" y="765" class="transformational">SUPPILULIUMA I</text><title>Suppiluliuma I (c. 1380 BC - c. 1322 BC)</title></a></g>
+<text x="2650" y="720" class="dynasty">HITTITE OLD KINGDOM</text><g><a xlink:href="http://en.wikipedia.org/wiki/Suppiluliuma_I" target="_blank"><rect id="Suppiluliuma_I" x="3430" y="880" width="234" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Suppiluliuma_I" x="3430" y="880" width="234" height="50" class="hittite""  mask="url(#fadeInOutMask)"/><rect x="3562" y="880" width="78" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="3434" y="915" class="transformational">SUPPILULIUMA I</text><title>Suppiluliuma I (c. 1380 BC - c. 1322 BC)</title></a></g>
 
-<text x="3568" y="720" class="dynasty">HITTITE NEW KINGDOM</text><g><a xlink:href="http://en.wikipedia.org/wiki/Tiglath-Pileser_III" target="_blank"><rect id="Tiglath-Pileser_III" x="5230" y="880" width="189" height="50" class="footprint""  mask="url(#fadeInMask)"/><rect id="Tiglath-Pileser_III" x="5230" y="880" width="189" height="50" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5365" y="880" width="54" height="50" class="king"/>
-<text x="5234" y="915" class="transformational">TIGLATH-PILESER III</text><title>Tiglath-Pileser III (c. 780 BC - 727 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ashurbanipal" target="_blank"><rect id="Ashurbanipal" x="5470" y="880" width="279" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Ashurbanipal" x="5470" y="880" width="279" height="50" class="assyrian""  mask="url(#fadeInOutMask)"/><rect x="5596" y="880" width="129" height="50" class="king""  mask="url(#fadeOutMask)"/>
-<text x="5474" y="915" class="transformational">ASHURBANIPAL</text><title>Ashurbanipal (c. 700 BC - c. 627 BC)</title></a></g>
+<text x="3568" y="870" class="dynasty">HITTITE NEW KINGDOM</text><g><a xlink:href="http://en.wikipedia.org/wiki/Adad-nirari_II" target="_blank"><rect id="Adad-nirari_II" x="4720" y="1030" width="207" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Adad-nirari_II" x="4720" y="1030" width="207" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="4867" y="1030" width="60" height="15" class="king"/>
+<text x="4724" y="1040" class="minor">ADAD-NIRARI II</text><title>Adad-nirari II (c. 950 BC - 891 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tukulti-Ninurta_II" target="_blank"><rect id="Tukulti-Ninurta_II" x="4795" y="1055" width="153" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Tukulti-Ninurta_II" x="4795" y="1055" width="153" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="4927" y="1055" width="21" height="15" class="king"/>
+<text x="4799" y="1065" class="minor">TUKULTI-NINURTA II</text><title>Tukulti-Ninurta II (c. 925 BC - 884 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Asurnasirpal_II" target="_blank"><rect id="Asurnasirpal_II" x="4870" y="1080" width="153" height="20" class="footprint""  mask="url(#fadeInMask)"/><rect id="Asurnasirpal_II" x="4870" y="1080" width="153" height="20" class="assyrian""  mask="url(#fadeInMask)"/><rect x="4951" y="1080" width="72" height="20" class="king"/>
+<text x="4874" y="1093" class="semimajor">ASURNASIRPAL II</text><title>Asurnasirpal II (c. 900 BC - 859 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shalmaneser_III" target="_blank"><rect id="Shalmaneser_III" x="4945" y="1110" width="183" height="20" class="footprint""  mask="url(#fadeInMask)"/><rect id="Shalmaneser_III" x="4945" y="1110" width="183" height="20" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5023" y="1110" width="105" height="20" class="king"/>
+<text x="4949" y="1123" class="semimajor">SHALMANESER III</text><title>Shalmaneser III (c. 875 BC - 824 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shamshi-Adad_V" target="_blank"><rect id="Shamshi-Adad_V" x="4960" y="1140" width="207" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Shamshi-Adad_V" x="4960" y="1140" width="207" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5128" y="1140" width="39" height="15" class="king"/>
+<text x="4964" y="1150" class="minor">SHAMSHI-ADAD V</text><title>Shamshi-Adad V (c. 870 BC - 811 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Adad-nirari_III" target="_blank"><rect id="Adad-nirari_III" x="5095" y="1165" width="156" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Adad-nirari_III" x="5095" y="1165" width="156" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5167" y="1165" width="84" height="15" class="king"/>
+<text x="5099" y="1175" class="minor">ADAD-NIRARI III</text><title>Adad-nirari III (c. 825 BC - 783 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shalmaneser_IV" target="_blank"><rect id="Shalmaneser_IV" x="5170" y="1190" width="111" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Shalmaneser_IV" x="5170" y="1190" width="111" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5251" y="1190" width="30" height="15" class="king"/>
+<text x="5174" y="1200" class="minor">SHALMANESER IV</text><title>Shalmaneser IV (c. 800 BC - 773 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Asur-dan_III" target="_blank"><rect id="Asur-dan_III" x="5185" y="1215" width="150" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Asur-dan_III" x="5185" y="1215" width="150" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5281" y="1215" width="54" height="15" class="king"/>
+<text x="5189" y="1225" class="minor">ASUR-DAN III</text><title>Asur-dan III (c. 795 BC - 755 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ashur-nirari_V" target="_blank"><rect id="Ashur-nirari_V" x="5200" y="1240" width="165" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Ashur-nirari_V" x="5200" y="1240" width="165" height="15" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5335" y="1240" width="30" height="15" class="king"/>
+<text x="5204" y="1250" class="minor">ASHUR-NIRARI V</text><title>Ashur-nirari V (c. 790 BC - 745 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tiglath-Pileser_III" target="_blank"><rect id="Tiglath-Pileser_III" x="5230" y="1265" width="189" height="50" class="footprint""  mask="url(#fadeInMask)"/><rect id="Tiglath-Pileser_III" x="5230" y="1265" width="189" height="50" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5365" y="1265" width="54" height="50" class="king"/>
+<text x="5234" y="1300" class="transformational">TIGLATH-PILESER III</text><title>Tiglath-Pileser III (c. 780 BC - 727 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shalmaneser_V" target="_blank"><rect id="Shalmaneser_V" x="5260" y="1325" width="204" height="15" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Shalmaneser_V" x="5260" y="1325" width="204" height="15" class="assyrian""  mask="url(#fadeInOutMask)"/><rect x="5419" y="1325" width="21" height="15" class="king""  mask="url(#fadeOutMask)"/>
+<text x="5264" y="1335" class="minor">SHALMANESER V</text><title>Shalmaneser V (c. 770 BC - c. 722 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sargon_II" target="_blank"><rect id="Sargon_II" x="5260" y="1350" width="255" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Sargon_II" x="5260" y="1350" width="255" height="40" class="assyrian""  mask="url(#fadeInOutMask)"/><rect x="5434" y="1350" width="57" height="40" class="king""  mask="url(#fadeOutMask)"/>
+<text x="5264" y="1373" class="major">SARGON II</text><title>Sargon II (c. 770 BC - c. 705 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sennacherib" target="_blank"><rect id="Sennacherib" x="5350" y="1400" width="207" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Sennacherib" x="5350" y="1400" width="207" height="40" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5485" y="1400" width="72" height="40" class="king"/>
+<text x="5354" y="1423" class="major">SENNACHERIB</text><title>Sennacherib (c. 740 BC - 681 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Esarhaddon" target="_blank"><rect id="Esarhaddon" x="5410" y="1450" width="183" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Esarhaddon" x="5410" y="1450" width="183" height="40" class="assyrian""  mask="url(#fadeInMask)"/><rect x="5557" y="1450" width="36" height="40" class="king"/>
+<text x="5414" y="1473" class="major">ESARHADDON</text><title>Esarhaddon (c. 720 BC - 669 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ashurbanipal" target="_blank"><rect id="Ashurbanipal" x="5470" y="1500" width="279" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Ashurbanipal" x="5470" y="1500" width="279" height="50" class="assyrian""  mask="url(#fadeInOutMask)"/><rect x="5596" y="1500" width="129" height="50" class="king""  mask="url(#fadeOutMask)"/>
+<text x="5474" y="1535" class="transformational">ASHURBANIPAL</text><title>Ashurbanipal (c. 700 BC - c. 627 BC)</title></a></g>
 
-<text x="5365" y="870" class="dynasty">NEO-ASSYRIAN EMPIRE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cyrus_the_Great" target="_blank"><rect id="Cyrus_the_Great" x="5770" y="1030" width="240" height="50" class="footprint""  mask="url(#fadeInMask)"/><rect id="Cyrus_the_Great" x="5770" y="1030" width="240" height="50" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="5923" y="1030" width="87" height="50" class="king"/>
-<text x="5774" y="1065" class="transformational">CYRUS THE GREAT</text><title>Cyrus the Great (c. 600 BC - 530 BC)</title></a></g>
+<text x="4867" y="1020" class="dynasty">NEO-ASSYRIAN EMPIRE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cyrus_the_Great" target="_blank"><rect id="Cyrus_the_Great" x="5770" y="140" width="240" height="50" class="footprint""  mask="url(#fadeInMask)"/><rect id="Cyrus_the_Great" x="5770" y="140" width="240" height="50" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="5923" y="140" width="87" height="50" class="king"/>
+<text x="5774" y="175" class="transformational">CYRUS THE GREAT</text><title>Cyrus the Great (c. 600 BC - 530 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Cambyses_II" target="_blank"><rect id="Cambyses_II" x="5830" y="200" width="204" height="20" class="footprint""  mask="url(#fadeInMask)"/><rect id="Cambyses_II" x="5830" y="200" width="204" height="20" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="6010" y="200" width="24" height="20" class="king"/>
+<text x="5834" y="213" class="semimajor">CAMBYSES II</text><title>Cambyses II (c. 580 BC - 522 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bardiya" target="_blank"><rect id="Bardiya" x="5845" y="230" width="189" height="15" class="footprint""  mask="url(#fadeInMask)"/><rect id="Bardiya" x="5845" y="230" width="189" height="15" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="6031" y="230" width="3" height="15" class="king"/>
+<text x="5849" y="240" class="minor">BARDIYA</text><title>Bardiya (c. 575 BC - 522 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Darius_the_Great" target="_blank"><rect id="Darius_the_Great" x="5920" y="255" width="222" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Darius_the_Great" x="5920" y="255" width="222" height="40" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="6034" y="255" width="108" height="40" class="king"/>
+<text x="5924" y="278" class="major">DARIUS THE GREAT</text><title>Darius the Great (c. 550 BC - 486 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Xerxes_I" target="_blank"><rect id="Xerxes_I" x="6013" y="305" width="192" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Xerxes_I" x="6013" y="305" width="192" height="40" class="achaemenid""  mask="url(#fadeInMask)"/><rect x="6142" y="305" width="63" height="40" class="king"/>
+<text x="6017" y="328" class="major">XERXES I</text><title>Xerxes I (c. 519 BC - 465 BC)</title></a></g>
 
-<text x="5923" y="1020" class="dynasty">ACHAEMENID EMPIRE</text>	</svg>
+<text x="5923" y="130" class="dynasty">ACHAEMENID EMPIRE</text>	</svg>
