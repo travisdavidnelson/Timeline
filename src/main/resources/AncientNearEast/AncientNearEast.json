@@ -2,8 +2,8 @@
   "name": "Ancient Near East",
   "author": "Travis David Nelson",
   "timespan": {
-    "start": "2500 BC",
-    "end": "1 BC"
+    "start": "3000 BC",
+    "end": "1"
   },
   "config": {
     "majorTickYears": 100,
@@ -45,63 +45,6 @@
   },
   "backgroundEvents": [
     {
-      "name": "Akkadian Empire",
-      "timespan": {
-        "startApproximate": true,
-        "start": "2334 BC",
-        "end": "2154 BC"
-      },
-      "style": "akkad"
-    },
-    {
-      "name": "Ur III",
-      "timespan": {
-        "start": "2112 BC",
-        "end": "2004 BC"
-      },
-      "style": "ur3"
-    },
-    {
-      "name": "Old Assyrian Empire",
-      "timespan": {
-        "start": "2025 BC",
-        "end": "1378 BC"
-      },
-      "style": "assyria"
-    },
-    {
-      "name": "Amorite Babylonia",
-      "timespan": {
-        "start": "1894 BC",
-        "end": "1595 BC"
-      },
-      "style": "babylon"
-    },
-    {
-      "name": "Hittite Old Kingdom",
-      "timespan": {
-        "start": "1595 BC",
-        "end": "1500 BC"
-      },
-      "style": "hittite"
-    },
-    {
-      "name": "Hittite New Kingdom",
-      "timespan": {
-        "start": "1400 BC",
-        "end": "1180 BC"
-      },
-      "style": "hittite"
-    },
-    {
-      "name": "Middle Assyrian Empire",
-      "timespan": {
-        "start": "1365 BC",
-        "end": "934 BC"
-      },
-      "style": "assyria"
-    },
-    {
       "name": "Bronze Age collapse",
       "timespan": {
         "start": "1200 BC",
@@ -110,35 +53,295 @@
         "endApproximate": true
       },
       "style": "backgroundDarkAge"
-    },
-    {
-      "name": "Neo-Assyrian",
-      "timespan": {
-        "start": "911 BC",
-        "end": "609 BC"
-      },
-      "style": "assyria"
-    },
-    {
-      "name": "Neo-Babylonia",
-      "timespan": {
-        "start": "620 BC",
-        "end": "539 BC"
-      },
-      "style": "babylon"
-    },
-    {
-      "name": "Achaemenid Empire",
-      "timespan": {
-        "start": "550 BC",
-        "end": "330 BC"
-      },
-      "style": "achaemenid"
     }
   ],
   "layers": [
     {
+      "name": "Egypt",
+      "backgroundEvents": [
+        {
+          "name": "Old Kingdom",
+          "timespan": {
+            "start": "2686 BC",
+            "end": "2181 BC",
+            "startApproximate": true,
+            "endApproximate": true
+          },
+          "style": "egyptOldKingdom"
+        },
+        {
+          "name": "Middle Kingdom",
+          "timespan": {
+            "start": "2134 BC",
+            "end": "1690 BC",
+            "startApproximate": true,
+            "endApproximate": true
+          },
+          "style": "egyptMiddleKingdom"
+        },
+        {
+          "name": "New Kingdom",
+          "timespan": {
+            "start": "1549 BC",
+            "end": "1069 BC",
+            "startApproximate": true,
+            "endApproximate": true
+          },
+          "style": "egyptNewKingdom"
+        }
+      ],
+      "dynastyGroups": [
+        {
+          "name": "Old Kingdom",
+          "dynasties": [
+            {
+              "name": "III Dynasty",
+              "people": [
+                {
+                  "name": "Djoser",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2700 BC",
+                    "endApproximate": true,
+                    "end": "2648 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2686 BC",
+                        "end": "2648 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Imhotep",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2690 BC",
+                    "endApproximate": true,
+                    "end": "2650 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "vizier",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2680 BC",
+                        "endApproximate": true,
+                        "end": "2650 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IV Dynasty",
+              "people": [
+                {
+                  "name": "Sneferu",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2630 BC",
+                    "endApproximate": true,
+                    "end": "2589 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2613 BC",
+                        "endApproximate": true,
+                        "end": "2589 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khufu",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2610 BC",
+                    "endApproximate": true,
+                    "end": "2566 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2589 BC",
+                        "endApproximate": true,
+                        "end": "2566 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Middle Kingdom",
+          "dynasties": [
+          ]
+        },
+        {
+          "name": "New Kingdom",
+          "dynasties": [
+            {
+              "name": "XVIII Dynasty",
+              "people": [
+                {
+                  "name": "Akhenaten",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1380 BC",
+                    "endApproximate": true,
+                    "end": "1336 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1353 BC",
+                        "endApproximate": true,
+                        "end": "1336 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nefertiti",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1370 BC",
+                    "endApproximate": true,
+                    "end": "1330 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1353 BC",
+                        "endApproximate": true,
+                        "end": "1330 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "XIX Dynasty",
+              "people": [
+                {
+                  "name": "Seti I",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1330 BC",
+                    "end": "1279 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1290 BC",
+                        "end": "1279 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ramesses II",
+                  "style": "egyptian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1303 BC",
+                    "end": "1213 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1279 BC",
+                        "end": "1213 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Sumer/Ur/Babylonian",
+      "backgroundEvents": [
+        {
+          "name": "Akkadian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2334 BC",
+            "endApproximate": true,
+            "end": "2154 BC"
+          },
+          "style": "akkad"
+        },
+        {
+          "name": "Ur III",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2112 BC",
+            "endApproximate": true,
+            "end": "2004 BC"
+          },
+          "style": "ur3"
+        },
+        {
+          "name": "Amorite Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1894 BC",
+            "endApproximate": true,
+            "end": "1595 BC"
+          },
+          "style": "babylon"
+        },
+        {
+          "name": "Neo-Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "620 BC",
+            "endApproximate": true,
+            "end": "539 BC"
+          },
+          "style": "babylon"
+        }
+      ],
       "dynastyGroups": [
         {
           "name": "Really Really Old",
@@ -324,60 +527,338 @@
       ]
     },
     {
-      "name": "Hittites",
+      "name": "Assyrians",
+      "backgroundEvents": [
+        {
+          "name": "Old Assyrian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2025 BC",
+            "endApproximate": true,
+            "end": "1378 BC"
+          },
+          "style": "assyria"
+        },
+        {
+          "name": "Middle Assyrian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1365 BC",
+            "endApproximate": true,
+            "end": "1050 BC"
+          },
+          "style": "assyria"
+        },
+        {
+          "name": "Neo-Assyrian",
+          "timespan": {
+            "startApproximate": true,
+            "start": "911 BC",
+            "endApproximate": true,
+            "end": "609 BC"
+          },
+          "style": "assyria"
+        }
+      ],
       "dynastyGroups": [
         {
-          "name": "Hittites",
-          "yStart": 0,
+          "name": "Old Assyrians",
           "dynasties": [
             {
-              "name": "Hittite Old Kingdom",
+              "name": "Old Assyrian Empire",
               "people": [
                 {
-                  "name": "Hattusili I",
-                  "style": "hittite",
+                  "name": "Shamshi-Adad I",
+                  "style": "assyrian",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1700 BC",
+                    "start": "1830 BC",
                     "endApproximate": true,
-                    "end": "1620 BC"
+                    "end": "1776 BC"
                   },
-                  "importance": "transformational",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1650 BC",
+                        "start": "1809 BC",
                         "endApproximate": true,
-                        "end": "1620 BC"
+                        "end": "1776 BC"
                       }
                     }
                   ]
-                }
+                }                
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Middle Assyrians",
+          "dynasties": [
             {
-              "name": "Hittite New Kingdom",
+              "name": "Middle Assyrian Empire",
               "people": [
                 {
-                  "name": "Suppiluliuma I",
-                  "style": "hittite",
+                  "name": "Eriba-Adad I",
+                  "style": "assyrian",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1380 BC",
+                    "start": "1392 BC",
                     "endApproximate": true,
-                    "end": "1322 BC"
+                    "end": "1366 BC"
                   },
-                  "importance": "transformational",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1344 BC",
+                        "start": "1392 BC",
                         "endApproximate": true,
-                        "end": "1322 BC"
+                        "end": "1366 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-uballit I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1365 BC",
+                    "endApproximate": true,
+                    "end": "1330 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1365 BC",
+                        "endApproximate": true,
+                        "end": "1330 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enlil-nirari",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1329 BC",
+                    "endApproximate": true,
+                    "end": "1308 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1329 BC",
+                        "endApproximate": true,
+                        "end": "1308 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Arik-den-ili",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1307 BC",
+                    "endApproximate": true,
+                    "end": "1296 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1307 BC",
+                        "endApproximate": true,
+                        "end": "1296 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Adad-nirari I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1295 BC",
+                    "endApproximate": true,
+                    "end": "1295 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1295 BC",
+                        "endApproximate": true,
+                        "end": "1275 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shalmaneser I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1274 BC",
+                    "endApproximate": true,
+                    "end": "1244 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1274 BC",
+                        "endApproximate": true,
+                        "end": "1244 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tukulti-Ninurta I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1244 BC",
+                    "endApproximate": true,
+                    "end": "1207 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1244 BC",
+                        "endApproximate": true,
+                        "end": "1207 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-Dan I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1179 BC",
+                    "endApproximate": true,
+                    "end": "1133 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1179 BC",
+                        "endApproximate": true,
+                        "end": "1133 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-resh-ishi I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1133 BC",
+                    "endApproximate": true,
+                    "end": "1116 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1133 BC",
+                        "endApproximate": true,
+                        "end": "1116 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tiglath-Pileser I",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1115 BC",
+                    "endApproximate": true,
+                    "end": "1077 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1115 BC",
+                        "endApproximate": true,
+                        "end": "1077 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Asharid-apal-Ekur",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1076 BC",
+                    "endApproximate": true,
+                    "end": "1074 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1076 BC",
+                        "endApproximate": true,
+                        "end": "1074 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-bel-kala",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1073 BC",
+                    "endApproximate": true,
+                    "end": "1056 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1073 BC",
+                        "endApproximate": true,
+                        "end": "1056 BC"
                       }
                     }
                   ]
@@ -385,14 +866,9 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Assyrians",
-      "dynastyGroups": [
+        },
         {
-          "name": "Assyrians",
+          "name": "Neo-Assyrians",
           "dynasties": [
             {
               "name": "Neo-Assyrian Empire",
@@ -695,7 +1171,111 @@
       ]
     },
     {
+      "name": "Hittites",
+      "backgroundEvents": [
+        {
+          "name": "Hittite Old Kingdom",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1595 BC",
+            "endApproximate": true,
+            "end": "1500 BC"
+          },
+          "style": "hittite"
+        },
+        {
+          "name": "Hittite New Kingdom",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1400 BC",
+            "endApproximate": true,
+            "end": "1180 BC"
+          },
+          "style": "hittite"
+        }
+      ],
+      "dynastyGroups": [
+        {
+          "name": "Hittites Old Kingdon",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name": "Hittite Old Kingdom",
+              "people": [
+                {
+                  "name": "Hattusili I",
+                  "style": "hittite",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1605 BC",
+                    "endApproximate": true,
+                    "end": "1556 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1586 BC",
+                        "endApproximate": true,
+                        "end": "1556 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hittite New Kingdom",
+          "dynasties": [
+            {
+              "name": "Hittite New Kingdom",
+              "people": [
+                {
+                  "name": "Suppiluliuma I",
+                  "style": "hittite",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1380 BC",
+                    "endApproximate": true,
+                    "end": "1322 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1344 BC",
+                        "endApproximate": true,
+                        "end": "1322 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Persians",
+      "backgroundEvents": [
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "570 BC",
+            "endApproximate": true,
+            "end": "330 BC"
+          },
+          "style": "achaemenid"
+        }
+      ],
       "dynastyGroups": [
         {
           "name": "Persians",
@@ -714,7 +1294,7 @@
                   "importance": "transformational",
                   "titles": [
                     {
-                      "name": "king",
+                      "name": "kingOfKings",
                       "timespan": {
                         "start": "559 BC",
                         "end": "530 BC"
@@ -733,7 +1313,7 @@
                   "importance": "semimajor",
                   "titles": [
                     {
-                      "name": "king",
+                      "name": "kingOfKings",
                       "timespan": {
                         "start": "530 BC",
                         "end": "522 BC"
@@ -752,7 +1332,7 @@
                   "importance": "minor",
                   "titles": [
                     {
-                      "name": "king",
+                      "name": "kingOfKings",
                       "timespan": {
                         "start": "523 BC",
                         "end": "522 BC"
@@ -771,7 +1351,7 @@
                   "importance": "major",
                   "titles": [
                     {
-                      "name": "king",
+                      "name": "kingOfKings",
                       "timespan": {
                         "start": "522 BC",
                         "end": "486 BC"
@@ -790,7 +1370,7 @@
                   "importance": "major",
                   "titles": [
                     {
-                      "name": "king",
+                      "name": "kingOfKings",
                       "timespan": {
                         "start": "486 BC",
                         "end": "465 BC"
