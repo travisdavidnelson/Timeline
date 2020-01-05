@@ -6,41 +6,41 @@
     "end": "1 BC"
   },
   "config": {
-    "majorTickYears" : 100,
-    "minorTickYears" : 10,
-    "topYearOffset" : 10,
-    "bottomYearOffset" : 40,
+    "majorTickYears": 100,
+    "minorTickYears": 10,
+    "topYearOffset": 10,
+    "bottomYearOffset": 40,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 3,
     "heightInPixels": 2500,
-	"xStart": 100,
-	"yTimelineStart": 50,
-	"majorTickHalfLength": 7,
-	"minorTickHalfLength": 20,
-	"dynastyStart": 0,
-	"dynastyDiff": 90,
-	"lifetimeYDiff": 10,
-	"fontSize": 10,
-	"fateWidth": 5,
-	"approximateYearPersonAdjustment": 10,
-	"approximateYearTitleAdjustment": 2,
-    "importanceHeights":{
-      "minor":15,
-      "semimajor":20,
-      "major":40,
-      "transformational":50
+    "xStart": 100,
+    "yTimelineStart": 50,
+    "majorTickHalfLength": 7,
+    "minorTickHalfLength": 20,
+    "dynastyStart": 0,
+    "dynastyDiff": 90,
+    "lifetimeYDiff": 10,
+    "fontSize": 10,
+    "fateWidth": 5,
+    "approximateYearPersonAdjustment": 10,
+    "approximateYearTitleAdjustment": 2,
+    "importanceHeights": {
+      "minor": 15,
+      "semimajor": 20,
+      "major": 40,
+      "transformational": 50
     },
-    "importanceYOffsets":{
-      "minor":10,
-      "semimajor":13,
-      "major":23,
-      "transformational":35
+    "importanceYOffsets": {
+      "minor": 10,
+      "semimajor": 13,
+      "major": 23,
+      "transformational": 35
     },
-    "importanceXOffsets":{
-      "minor":2,
-      "semimajor":2,
-      "major":2,
-      "transformational":2
+    "importanceXOffsets": {
+      "minor": 2,
+      "semimajor": 2,
+      "major": 2,
+      "transformational": 2
     }
   },
   "backgroundEvents": [
@@ -105,8 +105,8 @@
       "name": "Bronze Age collapse",
       "timespan": {
         "start": "1200 BC",
-        "startApproximate": true,
         "end": "900 BC",
+        "startApproximate": true,
         "endApproximate": true
       },
       "style": "backgroundDarkAge"
@@ -136,473 +136,559 @@
       "style": "achaemenid"
     }
   ],
-  "politicalDynastyGroups": [
+  "layers": [
     {
-      "name": "Really Really Old",
-      "yStart": 0,
-      "dynasties": [
+      "name": "Sumer/Ur/Babylonian",
+      "dynastyGroups": [
         {
-          "name": "Akkad Dynasty",
-          "people": [
+          "name": "Really Really Old",
+          "yStart": 0,
+          "dynasties": [
             {
-              "name": "Sargon the Great",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2350 BC",
-                "endApproximate": true,
-                "end": "2284 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2334 BC",
-                  "endApproximate": true,
-                  "end": "2284 BC"
+              "name": "Akkad Dynasty",
+              "people": [
+                {
+                  "name": "Sargon the Great",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2350 BC",
+                    "endApproximate": true,
+                    "end": "2284 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2334 BC",
+                        "endApproximate": true,
+                        "end": "2284 BC"
+                      }
+                    }
+                  ]
                 }
-              }]
+              ]
             }
           ]
         },
         {
-          "name": "Third Dynasty of Ur",
-          "people": [
+          "name": "Ur III",
+          "yStart": 0,
+          "dynasties": [
             {
-              "name": "Ur-Nammu",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2112 BC",
-                "endApproximate": true,
-                "end": "2095 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2112 BC",
-                  "endApproximate": true,
-                  "end": "2095 BC"
+              "name": "Third Dynasty of Ur",
+              "people": [
+                {
+                  "name": "Ur-Nammu",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2112 BC",
+                    "endApproximate": true,
+                    "end": "2095 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2112 BC",
+                        "endApproximate": true,
+                        "end": "2095 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shulgi",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2114 BC",
+                    "endApproximate": true,
+                    "end": "2047 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2094 BC",
+                        "endApproximate": true,
+                        "end": "2047 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amar-Sin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2080 BC",
+                    "endApproximate": true,
+                    "end": "2038 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2046 BC",
+                        "end": "2038 BC",
+                        "endApproximate": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shu-Sin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2050 BC",
+                    "endApproximate": true,
+                    "end": "2029 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2037 BC",
+                        "endApproximate": true,
+                        "end": "2029 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ibbi-Sin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2040 BC",
+                    "endApproximate": true,
+                    "end": "2004 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2028 BC",
+                        "endApproximate": true,
+                        "end": "2004 BC"
+                      }
+                    }
+                  ]
                 }
-              }]
-            },
-            {
-              "name": "Shulgi",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2114 BC",
-                "endApproximate": true,
-                "end": "2047 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2094 BC",
-                  "endApproximate": true,
-                  "end": "2047 BC"
-                }
-              }]
-            },
-            {
-              "name": "Amar-Sin",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2080 BC",
-                "endApproximate": true,
-                "end": "2038 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2046 BC",
-                  "endApproximate": true,
-                  "end": "2038 BC"
-                }
-              }]
-            },
-            {
-              "name": "Shu-Sin",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2050 BC",
-                "endApproximate": true,
-                "end": "2029 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2037 BC",
-                  "endApproximate": true,
-                  "end": "2029 BC"
-                }
-              }]
-            },
-            {
-              "name": "Ibbi-Sin",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2040 BC",
-                "endApproximate": true,
-                "end": "2004 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "2028 BC",
-                  "endApproximate": true,
-                  "end": "2004 BC"
-                }
-              }]
+              ]
             }
           ]
         },
         {
-          "name": "First Dynasty of Babylon",
-          "people": [
+          "name": "Bablyon",
+          "yStart": 0,
+          "dynasties": [
             {
-              "name": "Hammurabi",
-              "style": "babylonian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1810 BC",
-                "endApproximate": true,
-                "end": "1750 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "1792 BC",
-                  "endApproximate": true,
-                  "end": "1750 BC"
+              "name": "First Dynasty of Babylon",
+              "people": [
+                {
+                  "name": "Hammurabi",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1810 BC",
+                    "endApproximate": true,
+                    "end": "1750 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1792 BC",
+                        "startApproximate": true,
+                        "endApproximate": true,
+                        "end": "1750 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
                 }
-              }]
+              ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Hittites",
+      "dynastyGroups": [
         {
-          "name": "Hittite Old Kingdom",
-          "people": [
+          "name": "Hittites",
+          "yStart": 0,
+          "dynasties": [
             {
-              "name": "Hattusili I",
-              "style": "hittite",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1700 BC",
-                "endApproximate": true,
-                "end": "1620 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "1650 BC",
-                  "endApproximate": true,
-                  "end": "1620 BC"
+              "name": "Hittite Old Kingdom",
+              "people": [
+                {
+                  "name": "Hattusili I",
+                  "style": "hittite",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1700 BC",
+                    "endApproximate": true,
+                    "end": "1620 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1650 BC",
+                        "endApproximate": true,
+                        "end": "1620 BC"
+                      }
+                    }
+                  ]
                 }
-              }]
+              ]
+            },
+            {
+              "name": "Hittite New Kingdom",
+              "people": [
+                {
+                  "name": "Suppiluliuma I",
+                  "style": "hittite",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1380 BC",
+                    "endApproximate": true,
+                    "end": "1322 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1344 BC",
+                        "endApproximate": true,
+                        "end": "1322 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Assyrians",
+      "dynastyGroups": [
         {
-          "name": "Hittite New Kingdom",
-          "people": [
+          "name": "Assyrians",
+          "dynasties": [
             {
-              "name": "Suppiluliuma I",
-              "style": "hittite",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1380 BC",
-                "endApproximate": true,
-                "end": "1322 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "startApproximate": true,
-                  "start": "1344 BC",
-                  "endApproximate": true,
-                  "end": "1322 BC"
+              "name": "Neo-Assyrian Empire",
+              "people": [
+                {
+                  "name": "Adad-nirari II",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "950 BC",
+                    "end": "891 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "911 BC",
+                        "end": "891 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tukulti-Ninurta II",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "925 BC",
+                    "end": "884 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "891 BC",
+                        "end": "884 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Asurnasirpal II",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "900 BC",
+                    "end": "859 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "883 BC",
+                        "end": "859 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shalmaneser III",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "875 BC",
+                    "end": "824 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "859 BC",
+                        "end": "824 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shamshi-Adad V",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "870 BC",
+                    "end": "811 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "824 BC",
+                        "end": "811 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Adad-nirari III",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "825 BC",
+                    "end": "783 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "811 BC",
+                        "end": "783 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shalmaneser IV",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "800 BC",
+                    "end": "773 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "783 BC",
+                        "end": "773 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Asur-dan III",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "795 BC",
+                    "end": "755 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "773 BC",
+                        "end": "755 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-nirari V",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "790 BC",
+                    "end": "745 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "755 BC",
+                        "end": "745 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tiglath-Pileser III",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "780 BC",
+                    "end": "727 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "745 BC",
+                        "end": "727 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shalmaneser V",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "770 BC",
+                    "endApproximate": true,
+                    "end": "722 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "727 BC",
+                        "endApproximate": true,
+                        "end": "722 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sargon II",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "770 BC",
+                    "endApproximate": true,
+                    "end": "705 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "722 BC",
+                        "endApproximate": true,
+                        "end": "705 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sennacherib",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "740 BC",
+                    "end": "681 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "705 BC",
+                        "end": "681 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Esarhaddon",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "720 BC",
+                    "end": "669 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "681 BC",
+                        "end": "669 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashurbanipal",
+                  "style": "assyrian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "700 BC",
+                    "endApproximate": true,
+                    "end": "627 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "668 BC",
+                        "endApproximate": true,
+                        "end": "627 BC"
+                      }
+                    }
+                  ]
                 }
-              }]
-            }
-          ]
-        },
-        {
-          "name": "Neo-Assyrian Empire",
-          "people": [
-            {
-              "name": "Adad-nirari II",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "950 BC",
-                "end": "891 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "911 BC",
-                  "end": "891 BC"
-                }
-              }]
-            },
-			{
-              "name": "Tukulti-Ninurta II",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "925 BC",
-                "end": "884 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "891 BC",
-                  "end": "884 BC"
-                }
-              }]
-            },
-			{
-              "name": "Asurnasirpal II",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "900 BC",
-                "end": "859 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "883 BC",
-                  "end": "859 BC"
-                }
-              }]
-            },
-			{
-              "name": "Shalmaneser III",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "875 BC",
-                "end": "824 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "859 BC",
-                  "end": "824 BC"
-                }
-              }]
-            },
-			{
-              "name": "Shamshi-Adad V",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "870 BC",
-                "end": "811 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "824 BC",
-                  "end": "811 BC"
-                }
-              }]
-            },
-			{
-              "name": "Adad-nirari III",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "825 BC",
-                "end": "783 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "811 BC",
-                  "end": "783 BC"
-                }
-              }]
-            },
-			{
-              "name": "Shalmaneser IV",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "800 BC",
-                "end": "773 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "783 BC",
-                  "end": "773 BC"
-                }
-              }]
-            },
-			{
-              "name": "Asur-dan III",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "795 BC",
-                "end": "755 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "773 BC",
-                  "end": "755 BC"
-                }
-              }]
-            },
-			{
-              "name": "Ashur-nirari V",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "790 BC",
-                "end": "745 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "755 BC",
-                  "end": "745 BC"
-                }
-              }]
-            },
-            {
-              "name": "Tiglath-Pileser III",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "780 BC",
-                "end": "727 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "745 BC",
-                  "end": "727 BC"
-                }
-              }]
-            },
-            {
-              "name": "Shalmaneser V",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "770 BC",
-                "endApproximate": true,
-                "end": "722 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "727 BC",
-                  "endApproximate": true,
-                  "end": "722 BC"
-                }
-              }]
-            },
-            {
-              "name": "Sargon II",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "770 BC",
-                "endApproximate": true,
-                "end": "705 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "722 BC",
-                  "endApproximate": true,
-                  "end": "705 BC"
-                }
-              }]
-            },
-            {
-              "name": "Sennacherib",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "740 BC",
-                "end": "681 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "705 BC",
-                  "end": "681 BC"
-                }
-              }]
-            },
-            {
-              "name": "Esarhaddon",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "720 BC",
-                "end": "669 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "681 BC",
-                  "end": "669 BC"
-                }
-              }]
-            },
-            {
-              "name": "Ashurbanipal",
-              "style": "assyrian",
-              "timespan": {
-                "startApproximate": true,
-                "start": "700 BC",
-                "endApproximate": true,
-                "end": "627 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "668 BC",
-                  "endApproximate": true,
-                  "end": "627 BC"
-                }
-              }]
+              ]
             }
           ]
         }
@@ -610,95 +696,109 @@
     },
     {
       "name": "Persians",
-      "yStart": 0,
-      "dynasties": [
+      "dynastyGroups": [
         {
-          "name": "Achaemenid Empire",
-          "people": [
+          "name": "Persians",
+          "dynasties": [
             {
-              "name": "Cyrus the Great",
-              "style": "achaemenid",
-              "timespan": {
-                "startApproximate": true,
-                "start": "600 BC",
-                "end": "530 BC"
-              },
-              "importance": "transformational",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "559 BC",
-                  "end": "530 BC"
+              "name": "Achaemenid Empire",
+              "people": [
+                {
+                  "name": "Cyrus the Great",
+                  "style": "achaemenid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "600 BC",
+                    "end": "530 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "559 BC",
+                        "end": "530 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cambyses II",
+                  "style": "achaemenid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "580 BC",
+                    "end": "522 BC"
+                  },
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "530 BC",
+                        "end": "522 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Bardiya",
+                  "style": "achaemenid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "575 BC",
+                    "end": "522 BC"
+                  },
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "523 BC",
+                        "end": "522 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Darius the Great",
+                  "style": "achaemenid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "550 BC",
+                    "end": "486 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "522 BC",
+                        "end": "486 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Xerxes I",
+                  "style": "achaemenid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "519 BC",
+                    "end": "465 BC"
+                  },
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "486 BC",
+                        "end": "465 BC"
+                      }
+                    }
+                  ]
                 }
-              }]
-            },
-            {
-              "name": "Cambyses II",
-              "style": "achaemenid",
-              "timespan": {
-                "startApproximate": true,
-                "start": "580 BC",
-                "end": "522 BC"
-              },
-              "importance": "semimajor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "530 BC",
-                  "end": "522 BC"
-                }
-              }]
-            },
-            {
-              "name": "Bardiya",
-              "style": "achaemenid",
-              "timespan": {
-                "startApproximate": true,
-                "start": "575 BC",
-                "end": "522 BC"
-              },
-              "importance": "minor",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "523 BC",
-                  "end": "522 BC"
-                }
-              }]
-            },
-            {
-              "name": "Darius the Great",
-              "style": "achaemenid",
-              "timespan": {
-                "startApproximate": true,
-                "start": "550 BC",
-                "end": "486 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "522 BC",
-                  "end": "486 BC"
-                }
-              }]
-            },
-            {
-              "name": "Xerxes I",
-              "style": "achaemenid",
-              "timespan": {
-                "startApproximate": true,
-                "start": "519 BC",
-                "end": "465 BC"
-              },
-              "importance": "major",
-              "titles": [{
-                "name": "king",
-                "timespan": {
-                  "start": "486 BC",
-                  "end": "465 BC"
-                }
-              }]
+              ]
             }
           ]
         }

@@ -1,12 +1,20 @@
 package com.tdn.timeline;
 
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class TimelineEvent {
 
+	protected List<TimelineEvent> backgroundEvents;
 	private String name;
 	private String annotation;
 	private String style;
 	private Timespan timespan = null;
+
+	public TimelineEvent() {
+		backgroundEvents = new ArrayList<TimelineEvent>();
+	}
 
 	public String getName() {
 		return name;
@@ -53,5 +61,17 @@ public class TimelineEvent {
         (this.getTimespan().getEnd().isAfter(other.getTimespan().getStart()) && this.getTimespan().getEnd().isBefore(other.getTimespan().getEnd())) ||
         (other.getTimespan().getStart().isAfter(this.getTimespan().getStart()) && other.getTimespan().getStart().isBefore(this.getTimespan().getEnd())) ||
         (other.getTimespan().getEnd().isAfter(this.getTimespan().getStart()) && other.getTimespan().getEnd().isBefore(this.getTimespan().getEnd()));		
+	}
+
+	public List<TimelineEvent> getBackgroundEvents() {
+		return backgroundEvents;
+	}
+
+	public void setBackgroundEvents(List<TimelineEvent> backgroundEvents) {
+		this.backgroundEvents = backgroundEvents;
+	}
+
+	public void addBackgroundEvent(TimelineEvent backgroundEvent) {
+		this.backgroundEvents.add(backgroundEvent);
 	}
 }

@@ -5,12 +5,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import com.tdn.timeline.Dynasty;
-import com.tdn.timeline.DynastyGroup;
-import com.tdn.timeline.Person;
-import com.tdn.timeline.Timeline;
-import com.tdn.timeline.TimelineEvent;
-import com.tdn.timeline.Timespan;
+import com.tdn.timeline.*;
 import com.tdn.timeline.util.TimeUtilities;
 import com.tdn.timeline.util.TimelineInstant;
 import com.tdn.util.FileUtilities;
@@ -76,13 +71,14 @@ public class TimelineSvgBuilder {
 			int nextTimelineY = yTimelineStart;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
-			for (DynastyGroup series : timeline.getPoliticalDynastyGroups()) {
-				dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
-				getDynastyGroupSVG(series, foregroundStringBuilder);
-			}
-			dynastyStart = maxLifetimeYEnd + dynastyDiff;
-			for (DynastyGroup series : timeline.getCulturalDynastyGroups()) {
-				getDynastyGroupSVG(series, foregroundStringBuilder);
+			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
+			int layerStart = yTimelineStart + timeline.getConfig().getDynastyStart();
+			for (TimelineLayer layer : timeline.getLayers()) {
+				for (DynastyGroup series : layer.getDynastyGroups()) {
+					dynastyStart = layerStart;
+					getDynastyGroupSVG(series, foregroundStringBuilder);
+				}
+				layerStart = maxLifetimeYEnd + dynastyDiff;
 			}
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;

@@ -5,7 +5,7 @@ import java.util.List;
 
 public class DynastyGroup extends TimelineEvent {
 	private int yStart;
-	private List<Dynasty> dynasties = null;;
+	private List<Dynasty> dynasties = null;
 	
 	public DynastyGroup() {
 		dynasties = new ArrayList<Dynasty>();

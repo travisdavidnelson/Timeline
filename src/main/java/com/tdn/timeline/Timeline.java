@@ -7,17 +7,14 @@ public class Timeline extends TimelineEvent {
 	private String id = null;
 	private String author = "Travis David Nelson";
 	private TimelineConfig config = null;
-	
-	private List<TimelineEvent> backgroundEvents;
-	private List<DynastyGroup> politicalDynastyGroups;
-	private List<DynastyGroup> culturalDynastyGroups;
-	
+
+	private List<TimelineLayer> layers;
+
 	public Timeline() {
+		super();
 		config = new TimelineConfig();
-		
-		backgroundEvents = new ArrayList<TimelineEvent>();
-		politicalDynastyGroups = new ArrayList<DynastyGroup>();
-		culturalDynastyGroups = new ArrayList<DynastyGroup>();
+
+		layers = new ArrayList<>();
 	}
 
 	public String getId() {
@@ -41,33 +38,14 @@ public class Timeline extends TimelineEvent {
 		this.config = config;
 	}
 
-	public List<TimelineEvent> getBackgroundEvents() {
-		return backgroundEvents;
+	public List<TimelineLayer> getLayers() {
+		return layers;
 	}
-	public void setBackgroundEvents(List<TimelineEvent> backgroundEvents) {
-		this.backgroundEvents = backgroundEvents;
+	public void setLayers(List<TimelineLayer> layers) {
+		this.layers = layers;
 	}
-	public void addBackgroundEvent(TimelineEvent backgroundEvent) {
-		this.backgroundEvents.add(backgroundEvent);
-	}
-
-	public List<DynastyGroup> getPoliticalDynastyGroups() {
-		return politicalDynastyGroups;
-	}
-	public void setPoliticalDynastyGroups(List<DynastyGroup> politicalDynastyGroups) {
-		this.politicalDynastyGroups = politicalDynastyGroups;
-	}
-	public void addPoliticalDynastyGroup(DynastyGroup dynastyGroup) {
-		this.politicalDynastyGroups.add(dynastyGroup);
+	public void addLayer(TimelineLayer layer) {
+		this.layers.add(layer);
 	}
 
-	public List<DynastyGroup> getCulturalDynastyGroups() {
-		return culturalDynastyGroups;
-	}
-	public void setCulturalDynastyGroups(List<DynastyGroup> culturalDynastyGroups) {
-		this.culturalDynastyGroups = culturalDynastyGroups;
-	}
-	public void addCulturalDynastyGroup(DynastyGroup dynastyGroup) {
-		this.culturalDynastyGroups.add(dynastyGroup);
-	}
 }
