@@ -16,6 +16,7 @@ public class TimelineConfig extends TimelineEvent {
 	private int lifetimeYDiff = 0;
 	private int fontSize = 0;
 	private int fateWidth = 0;
+	private int approximateYearBackgroundAdjustment = 0;
 	private int approximateYearPersonAdjustment = 0;
 	private int approximateYearTitleAdjustment = 0;
 	private Map<String, Integer> importanceHeights = null;
@@ -123,6 +124,14 @@ public class TimelineConfig extends TimelineEvent {
 
 	public void setFateWidth(int fateWidth) {
 		this.fateWidth = fateWidth;
+	}
+
+	public int getApproximateYearBackgroundAdjustment() {
+		return approximateYearBackgroundAdjustment;
+	}
+
+	public void setApproximateYearBackgroundAdjustment(int approximateYearBackgroundAdjustment) {
+		this.approximateYearBackgroundAdjustment = approximateYearBackgroundAdjustment;
 	}
 
 	public int getApproximateYearPersonAdjustment() {

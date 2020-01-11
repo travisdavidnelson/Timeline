@@ -18,10 +18,11 @@
     "majorTickHalfLength": 7,
     "minorTickHalfLength": 20,
     "dynastyStart": 0,
-    "dynastyDiff": 90,
+    "dynastyDiff": 50,
     "lifetimeYDiff": 10,
     "fontSize": 10,
     "fateWidth": 5,
+    "approximateYearBackgroundAdjustment": 15,
     "approximateYearPersonAdjustment": 10,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
@@ -44,16 +45,6 @@
     }
   },
   "backgroundEvents": [
-    {
-      "name": "Bronze Age collapse",
-      "timespan": {
-        "start": "1200 BC",
-        "end": "900 BC",
-        "startApproximate": true,
-        "endApproximate": true
-      },
-      "style": "backgroundDarkAge"
-    }
   ],
   "layers": [
     {
@@ -332,6 +323,26 @@
           "style": "babylon"
         },
         {
+          "name": "Dark Age",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1595 BC",
+            "endApproximate": true,
+            "end": "1531 BC"
+          },
+          "style": "backgroundDarkAge"
+        },
+        {
+          "name": "Kassite Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1531 BC",
+            "endApproximate": true,
+            "end": "1155 BC"
+          },
+          "style": "babylon"
+        },
+        {
           "name": "Neo-Babylonia",
           "timespan": {
             "startApproximate": true,
@@ -515,6 +526,39 @@
                         "startApproximate": true,
                         "endApproximate": true,
                         "end": "1750 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kassite Bablyonia",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name": "Kassite Babylonia",
+              "people": [
+                {
+                  "name": "Burnaburiash I",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1810 BC",
+                    "endApproximate": true,
+                    "end": "1750 BC"
+                  },
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1510 BC",
+                        "startApproximate": true,
+                        "endApproximate": true,
+                        "end": "1490 BC"
                       }
                     }
                   ],
@@ -1192,6 +1236,16 @@
             "end": "1180 BC"
           },
           "style": "hittite"
+        },
+        {
+          "name": "Bronze Age collapse",
+          "timespan": {
+            "start": "1180 BC",
+            "end": "900 BC",
+            "startApproximate": true,
+            "endApproximate": true
+          },
+          "style": "backgroundDarkAge"
         }
       ],
       "dynastyGroups": [

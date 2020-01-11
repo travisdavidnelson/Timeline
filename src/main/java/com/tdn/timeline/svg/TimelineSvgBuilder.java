@@ -30,6 +30,7 @@ public class TimelineSvgBuilder {
 	private int dynastyDiff;
 	private int lifetimeYDiff;
 	private int fateWidth;
+	private int approximateYearBackgroundAdjustment;
 	private int approximateYearPersonAdjustment;
 	private int approximateYearTitleAdjustment;
 	
@@ -60,6 +61,7 @@ public class TimelineSvgBuilder {
 		dynastyDiff = timeline.getConfig().getDynastyDiff();
 		lifetimeYDiff = timeline.getConfig().getLifetimeYDiff();
 		fateWidth = timeline.getConfig().getFateWidth();
+		approximateYearBackgroundAdjustment = timeline.getConfig().getApproximateYearBackgroundAdjustment();
 		approximateYearPersonAdjustment = timeline.getConfig().getApproximateYearPersonAdjustment();
 		approximateYearTitleAdjustment = timeline.getConfig().getApproximateYearTitleAdjustment();
 	}
@@ -135,7 +137,8 @@ public class TimelineSvgBuilder {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
 		TimelineInstant headerInstant = dynasty.getHeaderStart();
-		int textYStart = nextPersonYStart + lifetimeYDiff;
+		int textYStart = nextPersonYStart;
+		nextPersonYStart += lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
 			if (headerInstant == null) {
 				TimelineInstant firstTitleInstant = lifetime.getFirstTitleStart();
@@ -235,7 +238,17 @@ public class TimelineSvgBuilder {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = instantToX(backgroundEvent.getTimespan().getStart());
-		int width = getWidth(Long.valueOf(backgroundEvent.getTimespan().getDuration()).intValue());
+		if (backgroundEvent.getTimespan().getStartApproximate()) {
+			x -= getWidth(approximateYearBackgroundAdjustment * 365);
+		}
+		long duration = backgroundEvent.getTimespan().getDuration();
+		if (backgroundEvent.getTimespan().getStartApproximate()) {
+			duration += approximateYearBackgroundAdjustment * 365;
+		}
+		if (backgroundEvent.getTimespan().getEndApproximate()) {
+			duration += approximateYearBackgroundAdjustment * 365;
+		}
+		int width = getWidth(Long.valueOf(duration).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		stringBuilder.append(rectangle(id, x, yStart, width, (nextTimelineY - yStart), backgroundEvent.getStyle(), null, getMaskName(backgroundEvent.getTimespan())));
 		stringBuilder.append("<title>");
