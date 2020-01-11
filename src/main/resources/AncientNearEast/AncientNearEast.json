@@ -546,9 +546,9 @@
                   "name": "Burnaburiash I",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1810 BC",
+                    "start": "1510 BC",
                     "endApproximate": true,
-                    "end": "1750 BC"
+                    "end": "1490 BC"
                   },
                   "importance": "transformational",
                   "titles": [
@@ -609,17 +609,160 @@
           "name": "Old Assyrians",
           "dynasties": [
             {
-              "name": "Old Assyrian Empire",
+              "name": "Dynasty of Puzur-Ashur",
+              "people": [
+                {
+                  "name": "Puzur-Ashur I",
+                  "style": "assyrian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2025 BC",
+                        "endApproximate": true,
+                        "end": "1950 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shalim-ahum",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1950 BC",
+                        "endApproximate": true,
+                        "end": "1927 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ilu-shuma",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1927 BC",
+                        "endApproximate": true,
+                        "end": "1906 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Erishum I",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1906 BC",
+                        "endApproximate": true,
+                        "end": "1867 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ikunum",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1867 BC",
+                        "endApproximate": true,
+                        "end": "1860 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sargon I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1860 BC",
+                        "endApproximate": true,
+                        "end": "1850 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Puzur-Ashur II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1850 BC",
+                        "endApproximate": true,
+                        "end": "1830 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Naram-Sin",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1830 BC",
+                        "endApproximate": true,
+                        "end": "1815 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Erishum II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1815 BC",
+                        "endApproximate": true,
+                        "end": "1809 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dynasty of Shamshi-Adad",
               "people": [
                 {
                   "name": "Shamshi-Adad I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1830 BC",
-                    "endApproximate": true,
-                    "end": "1776 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -632,7 +775,465 @@
                       }
                     }
                   ]
-                }                
+                },
+                {
+                  "name": "Ishme-Dagan I",
+                  "style": "assyrian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1776 BC",
+                        "endApproximate": true,
+                        "end": "1736 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mut-Ashkur",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1730 BC",
+                        "endApproximate": true,
+                        "end": "1720 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Rimush of Assyria",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1720 BC",
+                        "endApproximate": true,
+                        "end": "1710 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Asinum",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1710 BC",
+                        "endApproximate": true,
+                        "end": "1700 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Old Assyrians",
+          "dynasties": [
+            {
+              "name": "Adaside dynasty",
+              "people": [
+                {
+                  "name": "Bel-bani",
+                  "style": "assyrian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1700 BC",
+                        "endApproximate": true,
+                        "end": "1691 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Libaya",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1690 BC",
+                        "endApproximate": true,
+                        "end": "1674 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sharma-Adad I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1673 BC",
+                        "endApproximate": true,
+                        "end": "1662 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Iptar-Sin",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1662 BC",
+                        "endApproximate": true,
+                        "end": "1650 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Bazaya",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1649 BC",
+                        "endApproximate": true,
+                        "end": "1622 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Lullaya",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1621 BC",
+                        "endApproximate": true,
+                        "end": "1618 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shu-Ninua",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1615 BC",
+                        "endApproximate": true,
+                        "end": "1602 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sharma-Adad I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1601 BC",
+                        "endApproximate": true,
+                        "end": "1598 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Erishum III",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1598 BC",
+                        "endApproximate": true,
+                        "end": "1586 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shamshi-Adad II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1567 BC",
+                        "endApproximate": true,
+                        "end": "1561 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ishme-Dagan II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1561 BC",
+                        "endApproximate": true,
+                        "end": "1545 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shamshi-Adad III",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1545 BC",
+                        "endApproximate": true,
+                        "end": "1529 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-nirari I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1529 BC",
+                        "endApproximate": true,
+                        "end": "1503 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Puzur-Ashur III",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1503 BC",
+                        "endApproximate": true,
+                        "end": "1479 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enlil-Nasir I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1479 BC",
+                        "endApproximate": true,
+                        "end": "1466 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nur-ili",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1466 BC",
+                        "endApproximate": true,
+                        "end": "1454 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-shaduni",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1454 BC",
+                        "endApproximate": true,
+                        "end": "1454 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-rabi I",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1453 BC",
+                        "endApproximate": true,
+                        "end": "1435 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-nadin-anhe I",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1435 BC",
+                        "endApproximate": true,
+                        "end": "1420 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enlil-nasir II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1420 BC",
+                        "endApproximate": true,
+                        "end": "1415 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-nirari II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1414 BC",
+                        "endApproximate": true,
+                        "end": "1408 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-bel-nisheshu",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1407 BC",
+                        "endApproximate": true,
+                        "end": "1399 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-rim-nisheshu",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1398 BC",
+                        "endApproximate": true,
+                        "end": "1391 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-nadim-ahhe II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1391 BC",
+                        "endApproximate": true,
+                        "end": "1380 BC"
+                      }
+                    }
+                  ]
+                }
               ]
             }
           ]

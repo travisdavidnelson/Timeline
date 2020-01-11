@@ -63,4 +63,38 @@ public class Person extends TimelineEvent {
 		}
 		return result;
 	}
+
+	@Override
+	public Timespan getTimespan() {
+		Timespan result = super.getTimespan();
+		if (result == null) {
+			TimelineInstant earliest = null;
+			TimelineInstant latest = null;
+			if (titles != null) {
+				for (TimelineEvent event : titles) {
+					if (earliest == null || earliest.isAfter(event.getTimespan().getStart())) {
+						earliest = event.getTimespan().getStart();
+					}
+					if (latest == null || latest.isBefore(event.getTimespan().getEnd())) {
+						latest = event.getTimespan().getEnd();
+					}
+				}
+			}
+			if (foregroundEvents != null) {
+				for (TimelineEvent event : foregroundEvents) {
+					if (earliest == null || earliest.isAfter(event.getTimespan().getStart())) {
+						earliest = event.getTimespan().getStart();
+					}
+					if (latest == null || latest.isBefore(event.getTimespan().getEnd())) {
+						latest = event.getTimespan().getEnd();
+					}
+				}
+			}
+			result = new Timespan();
+			result.setStart(earliest);
+			result.setEnd(latest);
+			setTimespan(result);
+		}
+		return result;
+	}
 }
