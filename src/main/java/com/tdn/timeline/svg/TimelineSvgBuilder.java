@@ -75,16 +75,16 @@ public class TimelineSvgBuilder {
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
 			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
-			int layerStart = yTimelineStart + timeline.getConfig().getDynastyStart();
-			for (TimelineLayer layer : timeline.getLayers()) {
-				for (DynastyGroup series : layer.getDynastyGroups()) {
-					dynastyStart = layerStart;
+			int channelStart = yTimelineStart + timeline.getConfig().getDynastyStart();
+			for (TimelineChannel channel : timeline.getChannels()) {
+				for (DynastyGroup series : channel.getDynastyGroups()) {
+					dynastyStart = channelStart;
 					getDynastyGroupSVG(series, foregroundStringBuilder);
 				}
-				for (TimelineEvent backgroundEvent : layer.getBackgroundEvents()) {
-					getBackgroundSVG(backgroundEvent, layerStart, maxLifetimeYEnd, backgroundStringBuilder);
+				for (TimelineEvent backgroundEvent : channel.getBackgroundEvents()) {
+					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd, backgroundStringBuilder);
 				}
-				layerStart = maxLifetimeYEnd + dynastyDiff;
+				channelStart = maxLifetimeYEnd + dynastyDiff;
 			}
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;

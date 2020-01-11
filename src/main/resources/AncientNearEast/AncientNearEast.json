@@ -46,7 +46,7 @@
   },
   "backgroundEvents": [
   ],
-  "layers": [
+  "channels": [
     {
       "name": "Egypt",
       "backgroundEvents": [

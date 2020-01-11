@@ -856,7 +856,7 @@
       "style": "backgroundNationalCalamity"
     }
   ],
-  "layers": [
+  "channels": [
     {
       "name": "politicalDynastyGroups",
       "dynastyGroups": [

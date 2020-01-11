@@ -8,13 +8,13 @@ public class Timeline extends TimelineEvent {
 	private String author = "Travis David Nelson";
 	private TimelineConfig config = null;
 
-	private List<TimelineLayer> layers;
+	private List<TimelineChannel> channels;
 
 	public Timeline() {
 		super();
 		config = new TimelineConfig();
 
-		layers = new ArrayList<>();
+		channels = new ArrayList<>();
 	}
 
 	public String getId() {
@@ -38,14 +38,14 @@ public class Timeline extends TimelineEvent {
 		this.config = config;
 	}
 
-	public List<TimelineLayer> getLayers() {
-		return layers;
+	public List<TimelineChannel> getChannels() {
+		return channels;
 	}
-	public void setLayers(List<TimelineLayer> layers) {
-		this.layers = layers;
+	public void setChannels(List<TimelineChannel> channels) {
+		this.channels = channels;
 	}
-	public void addLayer(TimelineLayer layer) {
-		this.layers.add(layer);
+	public void addChannel(TimelineChannel channel) {
+		this.channels.add(channel);
 	}
 
 }
