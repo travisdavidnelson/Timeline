@@ -1889,12 +1889,6 @@
                 {
                   "name": "Eriba-Adad I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1392 BC",
-                    "endApproximate": true,
-                    "end": "1366 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -1911,12 +1905,6 @@
                 {
                   "name": "Ashur-uballit I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1365 BC",
-                    "endApproximate": true,
-                    "end": "1330 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -1933,12 +1921,6 @@
                 {
                   "name": "Enlil-nirari",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1329 BC",
-                    "endApproximate": true,
-                    "end": "1308 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -1955,12 +1937,6 @@
                 {
                   "name": "Arik-den-ili",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1307 BC",
-                    "endApproximate": true,
-                    "end": "1296 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -1977,12 +1953,6 @@
                 {
                   "name": "Adad-nirari I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1295 BC",
-                    "endApproximate": true,
-                    "end": "1295 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -1999,12 +1969,6 @@
                 {
                   "name": "Shalmaneser I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1274 BC",
-                    "endApproximate": true,
-                    "end": "1244 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2021,12 +1985,6 @@
                 {
                   "name": "Tukulti-Ninurta I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1244 BC",
-                    "endApproximate": true,
-                    "end": "1207 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -2043,12 +2001,6 @@
                 {
                   "name": "Ashur-Dan I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1179 BC",
-                    "endApproximate": true,
-                    "end": "1133 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2065,12 +2017,6 @@
                 {
                   "name": "Ashur-resh-ishi I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1133 BC",
-                    "endApproximate": true,
-                    "end": "1116 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2087,12 +2033,6 @@
                 {
                   "name": "Tiglath-Pileser I",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1115 BC",
-                    "endApproximate": true,
-                    "end": "1077 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -2109,12 +2049,6 @@
                 {
                   "name": "Asharid-apal-Ekur",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1076 BC",
-                    "endApproximate": true,
-                    "end": "1074 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2131,12 +2065,6 @@
                 {
                   "name": "Ashur-bel-kala",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1073 BC",
-                    "endApproximate": true,
-                    "end": "1056 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2163,11 +2091,6 @@
                 {
                   "name": "Adad-nirari II",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "950 BC",
-                    "end": "891 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2182,11 +2105,6 @@
                 {
                   "name": "Tukulti-Ninurta II",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "925 BC",
-                    "end": "884 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2201,11 +2119,6 @@
                 {
                   "name": "Asurnasirpal II",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "900 BC",
-                    "end": "859 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2220,11 +2133,6 @@
                 {
                   "name": "Shalmaneser III",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "875 BC",
-                    "end": "824 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -2239,11 +2147,6 @@
                 {
                   "name": "Shamshi-Adad V",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "870 BC",
-                    "end": "811 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2258,11 +2161,6 @@
                 {
                   "name": "Adad-nirari III",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "825 BC",
-                    "end": "783 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2277,11 +2175,6 @@
                 {
                   "name": "Shalmaneser IV",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "800 BC",
-                    "end": "773 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2296,11 +2189,6 @@
                 {
                   "name": "Asur-dan III",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "795 BC",
-                    "end": "755 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2315,11 +2203,6 @@
                 {
                   "name": "Ashur-nirari V",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "790 BC",
-                    "end": "745 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2334,11 +2217,6 @@
                 {
                   "name": "Tiglath-Pileser III",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "780 BC",
-                    "end": "727 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
@@ -2353,12 +2231,6 @@
                 {
                   "name": "Shalmaneser V",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "770 BC",
-                    "endApproximate": true,
-                    "end": "722 BC"
-                  },
                   "importance": "minor",
                   "titles": [
                     {
@@ -2374,12 +2246,6 @@
                 {
                   "name": "Sargon II",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "770 BC",
-                    "endApproximate": true,
-                    "end": "705 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -2395,11 +2261,6 @@
                 {
                   "name": "Sennacherib",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "740 BC",
-                    "end": "681 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -2414,11 +2275,6 @@
                 {
                   "name": "Esarhaddon",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "720 BC",
-                    "end": "669 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -2433,12 +2289,6 @@
                 {
                   "name": "Ashurbanipal",
                   "style": "assyrian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "700 BC",
-                    "endApproximate": true,
-                    "end": "627 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
