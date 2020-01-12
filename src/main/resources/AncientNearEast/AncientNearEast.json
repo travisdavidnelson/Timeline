@@ -25,18 +25,21 @@
     "approximateYearPersonAdjustment": 10,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
+      "petty": 8,
       "minor": 15,
       "semimajor": 20,
       "major": 40,
       "transformational": 50
     },
     "importanceYOffsets": {
+      "petty": 5,
       "minor": 10,
       "semimajor": 13,
       "major": 23,
       "transformational": 35
     },
     "importanceXOffsets": {
+      "petty": 1,
       "minor": 2,
       "semimajor": 2,
       "major": 2,
@@ -445,7 +448,7 @@
               "people": [
                 {
                   "name": "Inkishush",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -461,7 +464,7 @@
                 },
                 {
                   "name": "Sarlagab",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -477,7 +480,7 @@
                 },
                 {
                   "name": "Shulme",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -493,7 +496,7 @@
                 },
                 {
                   "name": "Elulmesh",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -509,7 +512,7 @@
                 },
                 {
                   "name": "Inimabakesh",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -525,7 +528,7 @@
                 },
                 {
                   "name": "Igeshaush",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -541,7 +544,7 @@
                 },
                 {
                   "name": "Yarlagab",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -557,7 +560,7 @@
                 },
                 {
                   "name": "Ibate",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -573,7 +576,7 @@
                 },
                 {
                   "name": "Yarla",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -589,7 +592,7 @@
                 },
                 {
                   "name": "Kurum",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -605,7 +608,7 @@
                 },
                 {
                   "name": "Apilkin",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -621,7 +624,7 @@
                 },
                 {
                   "name": "La-erabum",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -637,7 +640,7 @@
                 },
                 {
                   "name": "Irarum",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -653,7 +656,7 @@
                 },
                 {
                   "name": "Ibranum",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -669,7 +672,7 @@
                 },
                 {
                   "name": "Hablum",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -685,7 +688,7 @@
                 },
                 {
                   "name": "Puzur-Suen",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -701,7 +704,7 @@
                 },
                 {
                   "name": "Yarlaganda",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -717,7 +720,7 @@
                 },
                 {
                   "name": "Si'um",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {
@@ -733,7 +736,7 @@
                 },
                 {
                   "name": "Tirigan",
-                  "importance": "minor",
+                  "importance": "petty",
                   "style": "gutian",
                   "titles": [
                     {

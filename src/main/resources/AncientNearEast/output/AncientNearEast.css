@@ -48,6 +48,7 @@
 .major {font-family: serif; font-size: 25px; kerning: 1; stroke:none; fill:#000000;}
 .semimajor {font-family: serif; font-size: 15px; kerning: 1; stroke:none; fill:#000000;}
 .minor {font-family: serif; font-size: 10px; kerning: 1; stroke:none; fill:#000000;}
+.petty {font-family: serif; font-size: 6px; kerning: 1; stroke:none; fill:#000000;}
 
 .aedile 			{fill:blue;		fill-opacity:0.5}
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}

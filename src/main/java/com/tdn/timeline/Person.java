@@ -10,6 +10,7 @@ public class Person extends TimelineEvent {
 	public static String MAJOR = "major";
 	public static String SEMI_MAJOR = "semimajor";
 	public static String MINOR = "minor";
+	public static String PETTY = "petty";
 
 	private String importance = null;
 	private String fate = null;
