@@ -22,9 +22,6 @@
     "lifetimeYDiff": 10,
     "fontSize": 10,
     "fateWidth": 5,
-    "channelXOffset": 100,
-    "channelYOffset": 150,
-    "approximateYearBackgroundAdjustment": 5,
     "approximateYearPersonAdjustment": 10,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
@@ -44,10 +41,12 @@
       "semimajor": 2,
       "major": 2,
       "transformational": 2
-    }
+    },
+    "channelXOffset": 150,
+    "channelYOffset": 200,
+    "approximateYearBackgroundAdjustment": 5
   },
-  "backgroundEvents": [
-  ],
+  "backgroundEvents": [],
   "channels": [
     {
       "name": "Egypt",
@@ -188,8 +187,7 @@
         },
         {
           "name": "Middle Kingdom",
-          "dynasties": [
-          ]
+          "dynasties": []
         },
         {
           "name": "New Kingdom",
@@ -351,6 +349,16 @@
           "style": "babylon"
         },
         {
+          "name": "Second Dynasty of Isin",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1157 BC",
+            "endApproximate": true,
+            "end": "1025 BC"
+          },
+          "style": "babylon"
+        },
+        {
           "name": "Neo-Babylonia",
           "timespan": {
             "startApproximate": true,
@@ -395,16 +403,11 @@
           ]
         },
         {
-          "name": "Gutians",
-          "dynasties": [
-          ]
-        },
-        {
           "name": "Ur III",
           "yStart": 0,
           "dynasties": [
             {
-              "name": "Third Dynasty of Ur",
+              "name": "Ur III",
               "people": [
                 {
                   "name": "Ur-Nammu",
@@ -795,11 +798,11 @@
           ]
         },
         {
-          "name": "Bablyon",
+          "name": "Bablyonians",
           "yStart": 0,
           "dynasties": [
             {
-              "name": "First Dynasty of Babylon",
+              "name": "Babylon I",
               "people": [
                 {
                   "name": "Sumu-abum",
@@ -978,6 +981,193 @@
                         "start": "1626 BC",
                         "endApproximate": true,
                         "end": "1595 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Babylon IV",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name": "Babylon IV",
+              "people": [
+                {
+                  "name": "Marduk-kabit-anheshu",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1157 BC",
+                        "endApproximate": true,
+                        "end": "1140 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Itti-Marduk-balatu",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1139 BC",
+                        "endApproximate": true,
+                        "end": "1132 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Ninurta-nadin-shumi",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1131 BC",
+                        "endApproximate": true,
+                        "end": "1126 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Nebuchadnezzar I",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1125 BC",
+                        "endApproximate": true,
+                        "end": "1104 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Enlil-nadin-apil",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1103 BC",
+                        "endApproximate": true,
+                        "end": "1100 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Marduk-nadin-ahhe",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1099 BC",
+                        "endApproximate": true,
+                        "end": "1082 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Marduk-shapik-zeri",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1081 BC",
+                        "endApproximate": true,
+                        "end": "1069 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Adad-apla-iddina",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1068 BC",
+                        "endApproximate": true,
+                        "end": "1046 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Marduk-ahhe-eriba",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1047 BC",
+                        "endApproximate": true,
+                        "end": "1046 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Marduk-zer-X",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1045 BC",
+                        "endApproximate": true,
+                        "end": "1034 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Nabu-shum-libur",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1033 BC",
+                        "endApproximate": true,
+                        "end": "1025 BC"
                       }
                     }
                   ],
