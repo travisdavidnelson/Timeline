@@ -92,12 +92,6 @@
                 {
                   "name": "Djoser",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2700 BC",
-                    "endApproximate": true,
-                    "end": "2648 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -113,12 +107,6 @@
                 {
                   "name": "Imhotep",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2690 BC",
-                    "endApproximate": true,
-                    "end": "2650 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -140,12 +128,6 @@
                 {
                   "name": "Sneferu",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2630 BC",
-                    "endApproximate": true,
-                    "end": "2589 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -162,12 +144,6 @@
                 {
                   "name": "Khufu",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2610 BC",
-                    "endApproximate": true,
-                    "end": "2566 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
@@ -198,12 +174,6 @@
                 {
                   "name": "Akhenaten",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1380 BC",
-                    "endApproximate": true,
-                    "end": "1336 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -220,12 +190,6 @@
                 {
                   "name": "Nefertiti",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1370 BC",
-                    "endApproximate": true,
-                    "end": "1330 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -247,11 +211,6 @@
                 {
                   "name": "Seti I",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1330 BC",
-                    "end": "1279 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -267,11 +226,6 @@
                 {
                   "name": "Ramesses II",
                   "style": "egyptian",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1303 BC",
-                    "end": "1213 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {

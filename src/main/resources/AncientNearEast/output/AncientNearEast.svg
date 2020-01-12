@@ -812,25 +812,25 @@
 <text x="9060" y="40" class="year">AD 1</text>
 <text x="9060" y="2880" class="year">AD 1</text>
 
-<text x="150" y="300" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Djoser" target="_blank"><rect id="Djoser" x="970" y="110" width="216" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Djoser" x="970" y="110" width="216" height="40" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="1036" y="110" width="120" height="40" class="pharaoh""  mask="url(#fadeInMask)"/>
-<text x="974" y="133" class="major">DJOSER</text><title>Djoser (c. 2700 BC - c. 2648 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Imhotep" target="_blank"><rect id="Imhotep" x="1000" y="160" width="180" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Imhotep" x="1000" y="160" width="180" height="40" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="1054" y="160" width="102" height="40" class="vizier""  mask="url(#fadeInOutMask)"/>
-<text x="1004" y="183" class="major">IMHOTEP</text><title>Imhotep (c. 2690 BC - c. 2650 BC)</title></a></g>
+<text x="150" y="300" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Djoser" target="_blank"><rect id="Djoser" x="1042" y="110" width="114" height="40" class="footprint"/><rect id="Djoser" x="1042" y="110" width="114" height="40" class="egyptian"/><rect x="1036" y="110" width="120" height="40" class="pharaoh""  mask="url(#fadeInMask)"/>
+<text x="1044" y="133" class="major">DJOSER</text><title>Djoser (2686 BC - 2648 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Imhotep" target="_blank"><rect id="Imhotep" x="1060" y="160" width="90" height="40" class="footprint"/><rect id="Imhotep" x="1060" y="160" width="90" height="40" class="egyptian"/><rect x="1054" y="160" width="102" height="40" class="vizier""  mask="url(#fadeInOutMask)"/>
+<text x="1062" y="183" class="major">IMHOTEP</text><title>Imhotep (2680 BC - 2650 BC)</title></a></g>
 
-<text x="1042" y="100" class="dynasty">III DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Sneferu" target="_blank"><rect id="Sneferu" x="1180" y="270" width="183" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Sneferu" x="1180" y="270" width="183" height="40" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="1255" y="270" width="84" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
-<text x="1184" y="293" class="major">SNEFERU</text><title>Sneferu (c. 2630 BC - c. 2589 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Khufu" target="_blank"><rect id="Khufu" x="1240" y="320" width="192" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Khufu" x="1240" y="320" width="192" height="50" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="1327" y="320" width="81" height="50" class="pharaoh""  mask="url(#fadeInOutMask)"/>
-<text x="1244" y="355" class="transformational">KHUFU</text><title>Khufu (c. 2610 BC - c. 2566 BC)</title></a></g>
+<text x="1042" y="100" class="dynasty">III DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Sneferu" target="_blank"><rect id="Sneferu" x="1261" y="270" width="72" height="40" class="footprint"/><rect id="Sneferu" x="1261" y="270" width="72" height="40" class="egyptian"/><rect x="1255" y="270" width="84" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1263" y="293" class="major">SNEFERU</text><title>Sneferu (2613 BC - 2589 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Khufu" target="_blank"><rect id="Khufu" x="1333" y="320" width="69" height="50" class="footprint"/><rect id="Khufu" x="1333" y="320" width="69" height="50" class="egyptian"/><rect x="1327" y="320" width="81" height="50" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1335" y="355" class="transformational">KHUFU</text><title>Khufu (2589 BC - 2566 BC)</title></a></g>
 
-<text x="1261" y="260" class="dynasty">IV DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Akhenaten" target="_blank"><rect id="Akhenaten" x="4930" y="110" width="192" height="40" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Akhenaten" x="4930" y="110" width="192" height="40" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="5035" y="110" width="63" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
-<text x="4934" y="133" class="major">AKHENATEN</text><title>Akhenaten (c. 1380 BC - c. 1336 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Nefertiti" target="_blank"><rect id="Nefertiti" x="4960" y="160" width="180" height="20" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Nefertiti" x="4960" y="160" width="180" height="20" class="egyptian""  mask="url(#fadeInOutMask)"/><rect x="5035" y="160" width="81" height="20" class="queen""  mask="url(#fadeInOutMask)"/>
-<text x="4964" y="173" class="semimajor">NEFERTITI</text><title>Nefertiti (c. 1370 BC - c. 1330 BC)</title></a></g>
+<text x="1261" y="260" class="dynasty">IV DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Akhenaten" target="_blank"><rect id="Akhenaten" x="5041" y="110" width="51" height="40" class="footprint"/><rect id="Akhenaten" x="5041" y="110" width="51" height="40" class="egyptian"/><rect x="5035" y="110" width="63" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="5043" y="133" class="major">AKHENATEN</text><title>Akhenaten (1353 BC - 1336 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Nefertiti" target="_blank"><rect id="Nefertiti" x="5041" y="160" width="69" height="20" class="footprint"/><rect id="Nefertiti" x="5041" y="160" width="69" height="20" class="egyptian"/><rect x="5035" y="160" width="81" height="20" class="queen""  mask="url(#fadeInOutMask)"/>
+<text x="5043" y="173" class="semimajor">NEFERTITI</text><title>Nefertiti (1353 BC - 1330 BC)</title></a></g>
 
-<text x="5041" y="100" class="dynasty">XVIII DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Seti_I" target="_blank"><rect id="Seti_I" x="5080" y="250" width="183" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Seti_I" x="5080" y="250" width="183" height="40" class="egyptian""  mask="url(#fadeInMask)"/><rect x="5224" y="250" width="39" height="40" class="pharaoh""  mask="url(#fadeInMask)"/>
-<text x="5084" y="273" class="major">SETI I</text><title>Seti I (c. 1330 BC - 1279 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_II" target="_blank"><rect id="Ramesses_II" x="5161" y="300" width="300" height="40" class="footprint""  mask="url(#fadeInMask)"/><rect id="Ramesses_II" x="5161" y="300" width="300" height="40" class="egyptian""  mask="url(#fadeInMask)"/><rect x="5263" y="300" width="198" height="40" class="pharaoh"/>
-<text x="5165" y="323" class="major">RAMESSES II</text><title>Ramesses II (c. 1303 BC - 1213 BC)</title></a></g>
+<text x="5041" y="100" class="dynasty">XVIII DYNASTY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Seti_I" target="_blank"><rect id="Seti_I" x="5230" y="250" width="33" height="40" class="footprint"/><rect id="Seti_I" x="5230" y="250" width="33" height="40" class="egyptian"/><rect x="5224" y="250" width="39" height="40" class="pharaoh""  mask="url(#fadeInMask)"/>
+<text x="5232" y="273" class="major">SETI I</text><title>Seti I (1290 BC - 1279 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_II" target="_blank"><rect id="Ramesses_II" x="5263" y="300" width="198" height="40" class="footprint"/><rect id="Ramesses_II" x="5263" y="300" width="198" height="40" class="egyptian"/><rect x="5263" y="300" width="198" height="40" class="pharaoh"/>
+<text x="5265" y="323" class="major">RAMESSES II</text><title>Ramesses II (1279 BC - 1213 BC)</title></a></g>
 
 <text x="5230" y="240" class="dynasty">XIX DYNASTY</text>
 <text x="150" y="680" class="channel">BABYLONIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Sargon_the_Great" target="_blank"><rect id="Sargon_the_Great" x="2020" y="490" width="258" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Sargon_the_Great" x="2020" y="490" width="258" height="50" class="roman""  mask="url(#fadeInOutMask)"/><rect x="2092" y="490" width="162" height="50" class="king""  mask="url(#fadeInOutMask)"/>
