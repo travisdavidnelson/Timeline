@@ -68,7 +68,8 @@ public class Person extends TimelineEvent {
 	public Timespan getTimespan() {
 		Timespan result = super.getTimespan();
 		if (result == null) {
-			setTimespan(inferTimespan());
+			result = inferTimespan();
+			setTimespan(result);
 		}
 		return result;
 	}

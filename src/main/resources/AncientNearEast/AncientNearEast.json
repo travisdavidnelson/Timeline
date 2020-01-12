@@ -12,7 +12,7 @@
     "bottomYearOffset": 40,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 3,
-    "heightInPixels": 2500,
+    "heightInPixels": 5000,
     "xStart": 100,
     "yTimelineStart": 50,
     "majorTickHalfLength": 7,
@@ -22,7 +22,9 @@
     "lifetimeYDiff": 10,
     "fontSize": 10,
     "fateWidth": 5,
-    "approximateYearBackgroundAdjustment": 15,
+    "channelXOffset": 100,
+    "channelYOffset": 150,
+    "approximateYearBackgroundAdjustment": 5,
     "approximateYearPersonAdjustment": 10,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
@@ -290,7 +292,7 @@
       ]
     },
     {
-      "name": "Sumer/Ur/Babylonian",
+      "name": "Babylonia",
       "backgroundEvents": [
         {
           "name": "Akkadian Empire",
@@ -313,19 +315,25 @@
           "style": "ur3"
         },
         {
-          "name": "Amorite Babylonia",
+          "name": "First Babylonian Empire",
           "timespan": {
             "startApproximate": true,
             "start": "1894 BC",
-            "endApproximate": true,
             "end": "1595 BC"
           },
           "style": "babylon"
         },
         {
+          "name": "Hittite Sack of Babylon",
+          "timespan": {
+            "start": "1595 BC",
+            "end": "1596 BC"
+          },
+          "style": "backgroundNationalCalamity"
+        },
+        {
           "name": "Dark Age",
           "timespan": {
-            "startApproximate": true,
             "start": "1595 BC",
             "endApproximate": true,
             "end": "1531 BC"
@@ -387,6 +395,11 @@
           ]
         },
         {
+          "name": "Gutians",
+          "dynasties": [
+          ]
+        },
+        {
           "name": "Ur III",
           "yStart": 0,
           "dynasties": [
@@ -395,12 +408,6 @@
               "people": [
                 {
                   "name": "Ur-Nammu",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2112 BC",
-                    "endApproximate": true,
-                    "end": "2095 BC"
-                  },
                   "importance": "major",
                   "titles": [
                     {
@@ -416,12 +423,6 @@
                 },
                 {
                   "name": "Shulgi",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2114 BC",
-                    "endApproximate": true,
-                    "end": "2047 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
@@ -437,12 +438,6 @@
                 },
                 {
                   "name": "Amar-Sin",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2080 BC",
-                    "endApproximate": true,
-                    "end": "2038 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -458,12 +453,6 @@
                 },
                 {
                   "name": "Shu-Sin",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2050 BC",
-                    "endApproximate": true,
-                    "end": "2029 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -479,12 +468,6 @@
                 },
                 {
                   "name": "Ibbi-Sin",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2040 BC",
-                    "endApproximate": true,
-                    "end": "2004 BC"
-                  },
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -494,6 +477,315 @@
                         "start": "2028 BC",
                         "endApproximate": true,
                         "end": "2004 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gutian dynasty of Sumer",
+              "people": [
+                {
+                  "name": "Inkishush",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2135 BC",
+                        "endApproximate": true,
+                        "end": "2129 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sarlagab",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2129 BC",
+                        "endApproximate": true,
+                        "end": "2123 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shulme",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2123 BC",
+                        "endApproximate": true,
+                        "end": "2117 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Elulmesh",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2117 BC",
+                        "endApproximate": true,
+                        "end": "2111 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Inimabakesh",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2111 BC",
+                        "endApproximate": true,
+                        "end": "2106 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Igeshaush",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2106 BC",
+                        "endApproximate": true,
+                        "end": "2100 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Yarlagab",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2100 BC",
+                        "endApproximate": true,
+                        "end": "2095 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ibate",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2095 BC",
+                        "endApproximate": true,
+                        "end": "2092 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Yarla",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2092 BC",
+                        "endApproximate": true,
+                        "end": "2089 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kurum",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2089 BC",
+                        "endApproximate": true,
+                        "end": "2086 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Apilkin",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2086 BC",
+                        "endApproximate": true,
+                        "end": "2083 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "La-erabum",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2083 BC",
+                        "endApproximate": true,
+                        "end": "2081 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Irarum",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2081 BC",
+                        "endApproximate": true,
+                        "end": "2079 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ibranum",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2079 BC",
+                        "endApproximate": true,
+                        "end": "2078 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Hablum",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2078 BC",
+                        "endApproximate": true,
+                        "end": "2076 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Puzur-Suen",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2076 BC",
+                        "endApproximate": true,
+                        "end": "2069 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Yarlaganda",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2069 BC",
+                        "endApproximate": true,
+                        "end": "2062 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Si'um",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2062  BC",
+                        "endApproximate": true,
+                        "end": "2055 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tirigan",
+                  "importance": "minor",
+                  "style": "gutian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2055 BC",
+                        "endApproximate": true,
+                        "end": "2055 BC"
                       }
                     }
                   ]
@@ -509,6 +801,86 @@
             {
               "name": "First Dynasty of Babylon",
               "people": [
+                {
+                  "name": "Sumu-abum",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1894 BC",
+                        "endApproximate": true,
+                        "end": "1881 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Sumu-la-El",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1881 BC",
+                        "endApproximate": true,
+                        "end": "1845 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Sabium",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1845 BC",
+                        "endApproximate": true,
+                        "end": "1831 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Apil-Sin",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1831 BC",
+                        "endApproximate": true,
+                        "end": "1813 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Sin-Muballit",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1813 BC",
+                        "endApproximate": true,
+                        "end": "1792 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
                 {
                   "name": "Hammurabi",
                   "timespan": {
@@ -526,6 +898,86 @@
                         "startApproximate": true,
                         "endApproximate": true,
                         "end": "1750 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Samsu-iluna",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1750 BC",
+                        "endApproximate": true,
+                        "end": "1712 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Abi-Eshuh",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1712 BC",
+                        "endApproximate": true,
+                        "end": "1684 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Ammi-Ditana",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1684 BC",
+                        "endApproximate": true,
+                        "end": "1647 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Ammi-Saduqa",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1647 BC",
+                        "endApproximate": true,
+                        "end": "1626 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Samsu-Ditana",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1626 BC",
+                        "endApproximate": true,
+                        "end": "1595 BC"
                       }
                     }
                   ],
@@ -571,7 +1023,7 @@
       ]
     },
     {
-      "name": "Assyrians",
+      "name": "Assyria",
       "backgroundEvents": [
         {
           "name": "Old Assyrian Empire",
@@ -1816,7 +2268,7 @@
       ]
     },
     {
-      "name": "Hittites",
+      "name": "Anatolia",
       "backgroundEvents": [
         {
           "name": "Hittite Old Kingdom",
@@ -1839,11 +2291,19 @@
           "style": "hittite"
         },
         {
-          "name": "Bronze Age collapse",
+          "name": "Fall of Hattusa",
           "timespan": {
             "start": "1180 BC",
+            "end": "1178 BC",
+            "startApproximate": true
+          },
+          "style": "backgroundNationalCalamity"
+        },
+        {
+          "name": "Bronze Age collapse",
+          "timespan": {
+            "start": "1178 BC",
             "end": "900 BC",
-            "startApproximate": true,
             "endApproximate": true
           },
           "style": "backgroundDarkAge"
@@ -1860,12 +2320,6 @@
                 {
                   "name": "Hattusili I",
                   "style": "hittite",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1605 BC",
-                    "endApproximate": true,
-                    "end": "1556 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
@@ -1875,6 +2329,102 @@
                         "start": "1586 BC",
                         "endApproximate": true,
                         "end": "1556 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mursili I",
+                  "style": "hittite",
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1556 BC",
+                        "endApproximate": true,
+                        "end": "1526 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Hantili I",
+                  "style": "hittite",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1526 BC",
+                        "endApproximate": true,
+                        "end": "1496 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ziganta I",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1496 BC",
+                        "endApproximate": true,
+                        "end": "1486 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ammuna",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1486 BC",
+                        "endApproximate": true,
+                        "end": "1466 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Huzziya I",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1466 BC",
+                        "endApproximate": true,
+                        "end": "1461 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Telipinus",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1461 BC",
+                        "endApproximate": true,
+                        "end": "1460 BC"
                       }
                     }
                   ]
@@ -1890,14 +2440,24 @@
               "name": "Hittite New Kingdom",
               "people": [
                 {
+                  "name": "Tudhaliya II",
+                  "style": "hittite",
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1360 BC",
+                        "endApproximate": true,
+                        "end": "1344 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Suppiluliuma I",
                   "style": "hittite",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1380 BC",
-                    "endApproximate": true,
-                    "end": "1322 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
@@ -1910,6 +2470,150 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Arnuwanda II",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1322 BC",
+                        "endApproximate": true,
+                        "end": "1321 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mursili II",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1321 BC",
+                        "endApproximate": true,
+                        "end": "1295 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Muwatalli II",
+                  "style": "hittite",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1295 BC",
+                        "endApproximate": true,
+                        "end": "1272 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mursili III",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1272 BC",
+                        "endApproximate": true,
+                        "end": "1267 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Hattusili III",
+                  "style": "hittite",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1267 BC",
+                        "endApproximate": true,
+                        "end": "1237 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tudhaliya IV",
+                  "style": "hittite",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1237 BC",
+                        "endApproximate": true,
+                        "end": "1209 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kurunta",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1228 BC",
+                        "endApproximate": true,
+                        "end": "1227 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Arnuwanda III",
+                  "style": "hittite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1209 BC",
+                        "endApproximate": true,
+                        "end": "1207 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Suppiluliuma II III",
+                  "style": "hittite",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1207 BC",
+                        "endApproximate": true,
+                        "end": "1178 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -1918,8 +2622,28 @@
       ]
     },
     {
-      "name": "Persians",
+      "name": "Persia",
       "backgroundEvents": [
+        {
+          "name": "Elamite Awan Dynasty",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2350 BC",
+            "endApproximate": true,
+            "end": "2150 BC"
+          },
+          "style": "elamite"
+        },
+        {
+          "name": "Elamite Shutrukid Dynasty",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1210 BC",
+            "endApproximate": true,
+            "end": "1100 BC"
+          },
+          "style": "elamite"
+        },
         {
           "name": "Achaemenid Empire",
           "timespan": {
@@ -1933,6 +2657,58 @@
       ],
       "dynastyGroups": [
         {
+          "name": "Old Elamites",
+          "dynasties": [
+            {
+              "name": "Awan Dynasty",
+              "people": [
+                {
+                  "name": "Kutik-Inshushinak",
+                  "style": "elamite",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2240 BC",
+                        "endApproximate": true,
+                        "end": "2220 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New Elamites",
+          "dynasties": [
+            {
+              "name": "Shutrukid Dynasty",
+              "people": [
+                {
+                  "name": "Sutruk-Nakhunte",
+                  "style": "elamite",
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1184 BC",
+                        "endApproximate": true,
+                        "end": "1155 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Persians",
           "dynasties": [
             {
@@ -1943,8 +2719,8 @@
                   "style": "achaemenid",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "600 BC",
-                    "end": "530 BC"
+                    "start": "599 BC",
+                    "end": "12/4/530 BC"
                   },
                   "importance": "transformational",
                   "titles": [
@@ -1952,7 +2728,7 @@
                       "name": "kingOfKings",
                       "timespan": {
                         "start": "559 BC",
-                        "end": "530 BC"
+                        "end": "12/4/530 BC"
                       }
                     }
                   ]

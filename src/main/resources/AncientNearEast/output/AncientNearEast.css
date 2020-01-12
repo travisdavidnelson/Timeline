@@ -17,7 +17,7 @@
 
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
-.backgroundDarkAge {fill:black; fill-opacity:0.5}
+.backgroundDarkAge {fill:black; fill-opacity:0.75}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.6}
 .backgroundForeignWar {fill:brown; fill-opacity:0.3}
 .backgroundForeignWarVictory {fill:blue; fill-opacity:0.3}
@@ -30,7 +30,9 @@
 .achaemenid {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .assyrian {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
 .babylonian {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
+.gutian {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
 .egyptian {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
+.elamite {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .hittite {fill:brown; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .newMan {fill:#f8df6c; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
@@ -38,7 +40,8 @@
 .barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
 .fate {fill-opacity:0.0}
 
-.dynasty {font-family: serif; font-size: 60px; kerning: 1; stroke:none; fill:#000000;}
+.channel {font-family: serif; font-size: 250px; fill:#000000; fill-opacity:0.4 }
+.dynasty {font-family: serif; font-size: 48px; fill:#000000; fill-opacity:1.0}
 
 .footprint {fill-opacity:0.0; font-family: serif;}
 .transformational {font-family: serif; font-size: 40px; kerning: 2; stroke:none; fill:#000000;}

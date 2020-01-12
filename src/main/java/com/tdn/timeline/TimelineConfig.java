@@ -16,6 +16,8 @@ public class TimelineConfig extends TimelineEvent {
 	private int lifetimeYDiff = 0;
 	private int fontSize = 0;
 	private int fateWidth = 0;
+	private int channelXOffset = 0;
+	private int channelYOffset = 0;
 	private int approximateYearBackgroundAdjustment = 0;
 	private int approximateYearPersonAdjustment = 0;
 	private int approximateYearTitleAdjustment = 0;
@@ -124,6 +126,22 @@ public class TimelineConfig extends TimelineEvent {
 
 	public void setFateWidth(int fateWidth) {
 		this.fateWidth = fateWidth;
+	}
+
+	public int getChannelXOffset() {
+		return channelXOffset;
+	}
+
+	public void setChannelXOffset(int channelXOffset) {
+		this.channelXOffset = channelXOffset;
+	}
+
+	public int getChannelYOffset() {
+		return channelYOffset;
+	}
+
+	public void setChannelYOffset(int channelYOffset) {
+		this.channelYOffset = channelYOffset;
 	}
 
 	public int getApproximateYearBackgroundAdjustment() {

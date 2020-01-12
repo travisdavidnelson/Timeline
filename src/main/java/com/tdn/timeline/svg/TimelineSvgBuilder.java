@@ -33,7 +33,9 @@ public class TimelineSvgBuilder {
 	private int approximateYearBackgroundAdjustment;
 	private int approximateYearPersonAdjustment;
 	private int approximateYearTitleAdjustment;
-	
+	private int channelXOffset;
+	private int channelYOffset;
+
 	private TimelineInstant minDisplayInstant;
 	private TimelineInstant maxDisplayInstant;
 
@@ -61,6 +63,8 @@ public class TimelineSvgBuilder {
 		dynastyDiff = timeline.getConfig().getDynastyDiff();
 		lifetimeYDiff = timeline.getConfig().getLifetimeYDiff();
 		fateWidth = timeline.getConfig().getFateWidth();
+		channelXOffset = timeline.getConfig().getChannelXOffset();
+		channelYOffset = timeline.getConfig().getChannelYOffset();
 		approximateYearBackgroundAdjustment = timeline.getConfig().getApproximateYearBackgroundAdjustment();
 		approximateYearPersonAdjustment = timeline.getConfig().getApproximateYearPersonAdjustment();
 		approximateYearTitleAdjustment = timeline.getConfig().getApproximateYearTitleAdjustment();
@@ -77,6 +81,9 @@ public class TimelineSvgBuilder {
 			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			int channelStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			for (TimelineChannel channel : timeline.getChannels()) {
+				int textXStart = channelXOffset;
+				int textYStart = channelStart + dynastyDiff + channelYOffset;
+				addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
 				for (DynastyGroup series : channel.getDynastyGroups()) {
 					dynastyStart = channelStart;
 					getDynastyGroupSVG(series, foregroundStringBuilder);
