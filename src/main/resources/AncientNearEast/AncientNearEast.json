@@ -2,7 +2,7 @@
   "name": "Ancient Near East",
   "author": "Travis David Nelson",
   "timespan": {
-    "start": "3000 BC",
+    "start": "3500 BC",
     "end": "1"
   },
   "config": {
@@ -67,8 +67,8 @@
         {
           "name": "Middle Kingdom",
           "timespan": {
-            "start": "2134 BC",
-            "end": "1690 BC",
+            "start": "2060 BC",
+            "end": "1802 BC",
             "startApproximate": true,
             "endApproximate": true
           },
@@ -89,6 +89,83 @@
         {
           "name": "Old Kingdom",
           "dynasties": [
+            {
+              "name": "I Dynasty",
+              "people": [
+                {
+                  "name": "Narmer",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "3110 BC",
+                        "endApproximate": true,
+                        "end": "3090 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Hor-Aha",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "3060 BC",
+                        "endApproximate": true,
+                        "end": "3040 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Old Kingdom",
+          "dynasties": [
+            {
+              "name": "II Dynasty",
+              "people": [
+                {
+                  "name": "Seth-Peribsen",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2750 BC",
+                        "end": "2730 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sekhemib-Perenmaat",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2730 BC",
+                        "end": "2710 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "III Dynasty",
               "people": [
@@ -119,6 +196,70 @@
                         "start": "2680 BC",
                         "endApproximate": true,
                         "end": "2650 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sekhemkhet",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2649 BC",
+                        "endApproximate": true,
+                        "end": "2643 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sanakht",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2660 BC",
+                        "endApproximate": true,
+                        "end": "2640 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khaba",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2643 BC",
+                        "endApproximate": true,
+                        "end": "2637 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Huni",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2637 BC",
+                        "endApproximate": true,
+                        "end": "2613 BC"
                       }
                     }
                   ]
@@ -159,14 +300,717 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Djedefre",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2566 BC",
+                        "endApproximate": true,
+                        "end": "2558 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khafre",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2558 BC",
+                        "endApproximate": true,
+                        "end": "2532 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menkaure",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2532 BC",
+                        "endApproximate": true,
+                        "end": "2503 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shepseskaf",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2503 BC",
+                        "endApproximate": true,
+                        "end": "2498 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Thamphthis",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2500 BC",
+                        "endApproximate": true,
+                        "end": "2498 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "name": "Middle Kingdom",
-          "dynasties": []
+          "name": "Old Kingdom II",
+          "dynasties": [
+            {
+              "name": "V Dynasty",
+              "people": [
+                {
+                  "name": "Userkaf",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2498 BC",
+                        "endApproximate": true,
+                        "end": "2491 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sahure",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2490 BC",
+                        "endApproximate": true,
+                        "end": "2491 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferirkare Kakai",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2477 BC",
+                        "endApproximate": true,
+                        "end": "2467 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferefre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2460 BC",
+                        "endApproximate": true,
+                        "end": "2458 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nyuserre Ini",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2445 BC",
+                        "endApproximate": true,
+                        "end": "2422 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menkauhor Kaiu",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2422 BC",
+                        "endApproximate": true,
+                        "end": "2414 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djedkare Isesi",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2414 BC",
+                        "endApproximate": true,
+                        "end": "2375 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Unas",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2375 BC",
+                        "endApproximate": true,
+                        "end": "2345 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "VI Dynasty",
+              "people": [
+                {
+                  "name": "Teti",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2345 BC",
+                        "endApproximate": true,
+                        "end": "2333 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Userkare",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2333 BC",
+                        "endApproximate": true,
+                        "end": "2332 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Meryre Pepi I",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2332 BC",
+                        "endApproximate": true,
+                        "end": "2283 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Merenre Nemtyemsaf I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2283 BC",
+                        "endApproximate": true,
+                        "end": "2278 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkare Pepi II",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2278 BC",
+                        "endApproximate": true,
+                        "end": "2184 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferka",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2200 BC",
+                        "endApproximate": true,
+                        "end": "2199 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Merenre Nemtyemsaf II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2185 BC",
+                        "endApproximate": true,
+                        "end": "2184 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neitiqerty Siptah",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2184 BC",
+                        "endApproximate": true,
+                        "end": "2181 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "VII and VIII",
+              "people": [
+                {
+                  "name": "Neferkar VI Pepiseneb",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2175 BC",
+                        "endApproximate": true,
+                        "end": "2171 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkamin Anu",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2171 BC",
+                        "endApproximate": true,
+                        "end": "2169 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Qakare Ibi",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2169 BC",
+                        "endApproximate": true,
+                        "end": "2167 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkaure",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2167 BC",
+                        "endApproximate": true,
+                        "end": "2163 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkauhor Khuwihapi",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2163 BC",
+                        "endApproximate": true,
+                        "end": "2161 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferirkare",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2161 BC",
+                        "endApproximate": true,
+                        "end": "2160 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "First Intermediate",
+          "dynasties": [
+            {
+              "name": "XI Dynasty",
+              "people": [
+                {
+                  "name": "Mentuhotep I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2144 BC",
+                        "endApproximate": true,
+                        "end": "2134 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sehertawy Intef I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2134 BC",
+                        "endApproximate": true,
+                        "end": "2117 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Wahankh Intef II",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2117 BC",
+                        "endApproximate": true,
+                        "end": "2069 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nakhtnebtepnefer Intef III",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2069 BC",
+                        "endApproximate": true,
+                        "end": "2060 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebhepetre Mentuhotep II",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2060 BC",
+                        "endApproximate": true,
+                        "end": "2010 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sankhkare Mentuhotep III",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2010 BC",
+                        "endApproximate": true,
+                        "end": "1998 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebtawyre Mentuhotep IV",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1997 BC",
+                        "endApproximate": true,
+                        "end": "1991 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "XII Dynasty",
+              "people": [
+                {
+                  "name": "Sehetepibre Amenemhat III",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1991 BC",
+                        "endApproximate": true,
+                        "end": "1962 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kheperkare Senusret I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1971 BC",
+                        "endApproximate": true,
+                        "end": "1926 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nubkaure Amenemhat II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1929 BC",
+                        "endApproximate": true,
+                        "end": "1895 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khakheperre Senusret II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1897 BC",
+                        "endApproximate": true,
+                        "end": "1878 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khakaure Senusret III",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1878 BC",
+                        "endApproximate": true,
+                        "end": "1860 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nimaatre Amenemhat III",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1860 BC",
+                        "endApproximate": true,
+                        "end": "1815 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Maakherure Amenemhat IV",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1815 BC",
+                        "endApproximate": true,
+                        "end": "1807 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sobekkare Sobekneferu",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1807 BC",
+                        "endApproximate": true,
+                        "end": "1802 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "New Kingdom",
@@ -174,6 +1018,214 @@
             {
               "name": "XVIII Dynasty",
               "people": [
+                {
+                  "name": "Nebpehtire Ahmose I",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1550 BC",
+                        "endApproximate": true,
+                        "end": "1525 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djeserkare Amenhotep I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1541 BC",
+                        "endApproximate": true,
+                        "end": "1520 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Aakheperkare Thutmose I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1520 BC",
+                        "endApproximate": true,
+                        "end": "1492 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Aakheperkare Thutmose I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1492 BC",
+                        "endApproximate": true,
+                        "end": "1479 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Maatkare Hatshepsut I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1479 BC",
+                        "endApproximate": true,
+                        "end": "1458 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menkheperre Thutmose III",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1458 BC",
+                        "endApproximate": true,
+                        "end": "1425 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Aakheperrure Amenhotep II",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1425 BC",
+                        "endApproximate": true,
+                        "end": "1400 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menkheperre Thutmose IV",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1400 BC",
+                        "endApproximate": true,
+                        "end": "1390 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebmaartre Amenhotep III",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1390 BC",
+                        "endApproximate": true,
+                        "end": "1352 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkheperure-waenre Amenhotep IV",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1352 BC",
+                        "endApproximate": true,
+                        "end": "1336 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ankhkheperure Smenkhare",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1335 BC",
+                        "endApproximate": true,
+                        "end": "1334 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ankhkheperure-merymNeferkheperure Thutmose IV",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1334 BC",
+                        "endApproximate": true,
+                        "end": "1332 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tutankhamun",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1332 BC",
+                        "endApproximate": true,
+                        "end": "1324 BC"
+                      }
+                    }
+                  ]
+                },
                 {
                   "name": "Akhenaten",
                   "style": "egyptian",
@@ -1193,14 +2245,31 @@
           "style": "assyria"
         },
         {
+          "name": "Bronze Age Collapse",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1074 BC",
+            "endApproximate": true,
+            "end": "900 BC"
+          },
+          "style": "backgroundDarkAge"
+        },
+        {
           "name": "Neo-Assyrian",
           "timespan": {
             "startApproximate": true,
-            "start": "911 BC",
-            "endApproximate": true,
-            "end": "609 BC"
+            "start": "915 BC",
+            "end": "612 BC"
           },
           "style": "assyria"
+        },
+        {
+          "name": "Fall of Nineveh",
+          "timespan": {
+            "start": "613 BC",
+            "end": "612 BC"
+          },
+          "style": "backgroundNationalCalamity"
         }
       ],
       "dynastyGroups": [
@@ -1208,7 +2277,7 @@
           "name": "Old Assyrians",
           "dynasties": [
             {
-              "name": "Dynasty of Puzur-Ashur",
+              "name": "Puzur-Ashur Dynasty",
               "people": [
                 {
                   "name": "Puzur-Ashur I",
@@ -1357,7 +2426,7 @@
               ]
             },
             {
-              "name": "Dynasty of Shamshi-Adad",
+              "name": "Shamshi-Adad Dynasty",
               "people": [
                 {
                   "name": "Shamshi-Adad I",
@@ -2252,8 +3321,55 @@
                       "name": "king",
                       "timespan": {
                         "start": "668 BC",
-                        "endApproximate": true,
+                        "end": "631 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-etil-elani",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "631 BC",
                         "end": "627 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sinsharishkun",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "627 BC",
+                        "end": "612 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ashur-uballit II",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "645 BC",
+                    "end": "609 BC"
+                  },
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "612 BC",
+                        "endApproximate": true,
+                        "end": "609 BC"
                       }
                     }
                   ]
