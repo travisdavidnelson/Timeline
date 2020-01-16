@@ -90,7 +90,7 @@
           "name": "Old Kingdom",
           "dynasties": [
             {
-              "name": "I Dynasty",
+              "name": "Egypt I",
               "people": [
                 {
                   "name": "Narmer",
@@ -132,7 +132,7 @@
           "name": "Old Kingdom",
           "dynasties": [
             {
-              "name": "II Dynasty",
+              "name": "Egypt II",
               "people": [
                 {
                   "name": "Seth-Peribsen",
@@ -167,7 +167,7 @@
               ]
             },
             {
-              "name": "III Dynasty",
+              "name": "Egypt III",
               "people": [
                 {
                   "name": "Djoser",
@@ -267,7 +267,7 @@
               ]
             },
             {
-              "name": "IV Dynasty",
+              "name": "Egypt IV",
               "people": [
                 {
                   "name": "Sneferu",
@@ -389,7 +389,7 @@
           "name": "Old Kingdom II",
           "dynasties": [
             {
-              "name": "V Dynasty",
+              "name": "Egypt V",
               "people": [
                 {
                   "name": "Userkaf",
@@ -418,7 +418,7 @@
                         "startApproximate": true,
                         "start": "2490 BC",
                         "endApproximate": true,
-                        "end": "2491 BC"
+                        "end": "2477 BC"
                       }
                     }
                   ]
@@ -522,7 +522,7 @@
               ]
             },
             {
-              "name": "VI Dynasty",
+              "name": "Egypt VI",
               "people": [
                 {
                   "name": "Teti",
@@ -761,7 +761,7 @@
           "name": "First Intermediate",
           "dynasties": [
             {
-              "name": "XI Dynasty",
+              "name": "Egypt XI",
               "people": [
                 {
                   "name": "Mentuhotep I",
@@ -878,7 +878,7 @@
               ]
             },
             {
-              "name": "XII Dynasty",
+              "name": "Egypt XII",
               "people": [
                 {
                   "name": "Sehetepibre Amenemhat III",
@@ -1016,7 +1016,7 @@
           "name": "New Kingdom",
           "dynasties": [
             {
-              "name": "XVIII Dynasty",
+              "name": "Egypt XVIII",
               "people": [
                 {
                   "name": "Nebpehtire Ahmose I",
@@ -1163,7 +1163,7 @@
                   ]
                 },
                 {
-                  "name": "Neferkheperure-waenre Amenhotep IV",
+                  "name": "Akhenaten",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
@@ -1174,6 +1174,22 @@
                         "start": "1352 BC",
                         "endApproximate": true,
                         "end": "1336 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nefertiti",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1353 BC",
+                        "endApproximate": true,
+                        "end": "1330 BC"
                       }
                     }
                   ]
@@ -1225,43 +1241,11 @@
                       }
                     }
                   ]
-                },
-                {
-                  "name": "Akhenaten",
-                  "style": "egyptian",
-                  "importance": "major",
-                  "titles": [
-                    {
-                      "name": "pharaoh",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1353 BC",
-                        "endApproximate": true,
-                        "end": "1336 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "Nefertiti",
-                  "style": "egyptian",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "queen",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1353 BC",
-                        "endApproximate": true,
-                        "end": "1330 BC"
-                      }
-                    }
-                  ]
                 }
               ]
             },
             {
-              "name": "XIX Dynasty",
+              "name": "Egypt XIX",
               "people": [
                 {
                   "name": "Seti I",
@@ -1301,6 +1285,16 @@
     {
       "name": "Babylonia",
       "backgroundEvents": [
+        {
+          "name": "Lagash I",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2500 BC",
+            "endApproximate": true,
+            "end": "2270 BC"
+          },
+          "style": "lagash"
+        },
         {
           "name": "Akkadian Empire",
           "timespan": {
@@ -1348,7 +1342,7 @@
           "style": "backgroundDarkAge"
         },
         {
-          "name": "Kassite Babylonia",
+          "name": "Babylon Kassite",
           "timespan": {
             "startApproximate": true,
             "start": "1531 BC",
@@ -1358,7 +1352,7 @@
           "style": "babylon"
         },
         {
-          "name": "Second Dynasty of Isin",
+          "name": "Isin II",
           "timespan": {
             "startApproximate": true,
             "start": "1157 BC",
@@ -1380,17 +1374,96 @@
       ],
       "dynastyGroups": [
         {
-          "name": "Really Really Old",
+          "name": "Sumer",
+          "dynasties": [
+            {
+              "name": "Lagash I",
+              "people": [
+                {
+                  "name": "Ur-Nanshe",
+                  "importance": "semimajor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2550 BC",
+                        "endApproximate": true,
+                        "end": "2500 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Eannatum",
+                  "importance": "major",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2500 BC",
+                        "endApproximate": true,
+                        "end": "2400 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "En-anna-tum I",
+                  "importance": "minor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2450 BC",
+                        "endApproximate": true,
+                        "end": "2400 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Kings of Uruk",
+              "people": [
+                {
+                  "name": "Lugal-zage-si",
+                  "importance": "major",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2294 BC",
+                        "endApproximate": true,
+                        "end": "2270 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Akkad",
           "yStart": 0,
           "dynasties": [
             {
-              "name": "Akkad Dynasty",
+              "name": "Akkad",
               "people": [
                 {
                   "name": "Sargon the Great",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "2350 BC",
+                    "start": "2334 BC",
                     "endApproximate": true,
                     "end": "2284 BC"
                   },
@@ -1496,7 +1569,7 @@
               ]
             },
             {
-              "name": "Gutian dynasty of Sumer",
+              "name": "Sumer Gutian",
               "people": [
                 {
                   "name": "Inkishush",
@@ -2187,11 +2260,11 @@
           ]
         },
         {
-          "name": "Kassite Bablyonia",
+          "name": "Bablyon Kassite",
           "yStart": 0,
           "dynasties": [
             {
-              "name": "Kassite Babylonia",
+              "name": "Babylon Kassite",
               "people": [
                 {
                   "name": "Burnaburiash I",
@@ -2277,7 +2350,7 @@
           "name": "Old Assyrians",
           "dynasties": [
             {
-              "name": "Puzur-Ashur Dynasty",
+              "name": "Assyria Puzur-Ashur",
               "people": [
                 {
                   "name": "Puzur-Ashur I",
@@ -2426,7 +2499,7 @@
               ]
             },
             {
-              "name": "Shamshi-Adad Dynasty",
+              "name": "Assyria Shamshi-Adad",
               "people": [
                 {
                   "name": "Shamshi-Adad I",
@@ -2516,7 +2589,7 @@
           "name": "Old Assyrians",
           "dynasties": [
             {
-              "name": "Adaside dynasty",
+              "name": "Assyria Adaside",
               "people": [
                 {
                   "name": "Bel-bani",
@@ -3738,7 +3811,7 @@
       "name": "Persia",
       "backgroundEvents": [
         {
-          "name": "Elamite Awan Dynasty",
+          "name": "Elam Awan",
           "timespan": {
             "startApproximate": true,
             "start": "2350 BC",
@@ -3748,7 +3821,7 @@
           "style": "elamite"
         },
         {
-          "name": "Elamite Shutrukid Dynasty",
+          "name": "Elam Shutrukid",
           "timespan": {
             "startApproximate": true,
             "start": "1210 BC",
@@ -3773,7 +3846,7 @@
           "name": "Old Elamites",
           "dynasties": [
             {
-              "name": "Awan Dynasty",
+              "name": "Elam Awan",
               "people": [
                 {
                   "name": "Kutik-Inshushinak",
@@ -3799,7 +3872,7 @@
           "name": "New Elamites",
           "dynasties": [
             {
-              "name": "Shutrukid Dynasty",
+              "name": "Elam Shutrukid",
               "people": [
                 {
                   "name": "Sutruk-Nakhunte",
