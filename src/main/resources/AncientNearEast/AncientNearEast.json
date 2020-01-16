@@ -1299,9 +1299,9 @@
           "name": "Akkadian Empire",
           "timespan": {
             "startApproximate": true,
-            "start": "2334 BC",
+            "start": "2270 BC",
             "endApproximate": true,
-            "end": "2154 BC"
+            "end": "2083 BC"
           },
           "style": "akkad"
         },
@@ -1430,7 +1430,7 @@
               ]
             },
             {
-              "name": "Kings of Uruk",
+              "name": "Uruk III",
               "people": [
                 {
                   "name": "Lugal-zage-si",
@@ -1457,111 +1457,109 @@
           "yStart": 0,
           "dynasties": [
             {
-              "name": "Akkad",
+              "name": "Akkad Sargon",
               "people": [
                 {
                   "name": "Sargon the Great",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2334 BC",
-                    "endApproximate": true,
-                    "end": "2284 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2334 BC",
+                        "start": "2270 BC",
                         "endApproximate": true,
-                        "end": "2284 BC"
+                        "end": "2215 BC"
                       }
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ur III",
-          "yStart": 0,
-          "dynasties": [
-            {
-              "name": "Ur III",
-              "people": [
+                },
                 {
-                  "name": "Ur-Nammu",
+                  "name": "Rimush",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2215 BC",
+                        "endApproximate": true,
+                        "end": "2206 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Manishtushu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2206 BC",
+                        "endApproximate": true,
+                        "end": "2190 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Naram-Sin",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2112 BC",
+                        "start": "2190 BC",
                         "endApproximate": true,
-                        "end": "2095 BC"
+                        "end": "2154 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Shulgi",
-                  "importance": "transformational",
+                  "name": "Shar-Kali-Sharri",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2094 BC",
+                        "start": "2154 BC",
                         "endApproximate": true,
-                        "end": "2047 BC"
+                        "end": "2130 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Amar-Sin",
+                  "name": "Dudu",
                   "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2046 BC",
-                        "end": "2038 BC",
-                        "endApproximate": true
+                        "start": "2126 BC",
+                        "endApproximate": true,
+                        "end": "2105 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Shu-Sin",
+                  "name": "Shu-turul",
                   "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2037 BC",
+                        "start": "2105 BC",
                         "endApproximate": true,
-                        "end": "2029 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "Ibbi-Sin",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2028 BC",
-                        "endApproximate": true,
-                        "end": "2004 BC"
+                        "end": "2090 BC"
                       }
                     }
                   ]
@@ -1871,6 +1869,92 @@
                         "start": "2055 BC",
                         "endApproximate": true,
                         "end": "2055 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ur III",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name": "Ur III",
+              "people": [
+                {
+                  "name": "Ur-Nammu",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2112 BC",
+                        "endApproximate": true,
+                        "end": "2095 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shulgi",
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2094 BC",
+                        "endApproximate": true,
+                        "end": "2047 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amar-Sin",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2046 BC",
+                        "end": "2038 BC",
+                        "endApproximate": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shu-Sin",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2037 BC",
+                        "endApproximate": true,
+                        "end": "2029 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ibbi-Sin",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2028 BC",
+                        "endApproximate": true,
+                        "end": "2004 BC"
                       }
                     }
                   ]
