@@ -11,7 +11,7 @@
     "topYearOffset": 10,
     "bottomYearOffset": 40,
     "defaultPersonStyle": "roman",
-    "pixelsPerYear": 12,
+    "pixelsPerYear": 8,
     "heightInPixels": 2500,
     "xStart": 100,
     "yTimelineStart": 50,
