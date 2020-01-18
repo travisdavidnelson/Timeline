@@ -1,5 +1,20 @@
 TODO
 
+20200116
+    implement chronologies
+    add legend
+
+
+
+
+
+
+
+
+
+
+
+
 - Bugs
 	- French Revolution horizontal canvas size wrong
 
