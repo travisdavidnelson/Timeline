@@ -1362,6 +1362,14 @@
           "style": "babylon"
         },
         {
+          "name": "Neo-Assyria",
+          "timespan": {
+            "start": "729 BC",
+            "end": "626 BC"
+          },
+          "style": "assyria"
+        },
+        {
           "name": "Neo-Babylonia",
           "timespan": {
             "startApproximate": true,
@@ -2351,22 +2359,352 @@
               "name": "Babylon Kassite",
               "people": [
                 {
-                  "name": "Burnaburiash I",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1510 BC",
-                    "endApproximate": true,
-                    "end": "1490 BC"
-                  },
-                  "importance": "transformational",
+                  "name": "Agum II",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
-                        "start": "1510 BC",
                         "startApproximate": true,
+                        "start": "1535 BC",
+                        "endApproximate": true,
+                        "end": "1525 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Burnaburiash I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1525 BC",
+                        "endApproximate": true,
+                        "end": "1505 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kashtiliash III",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1505 BC",
                         "endApproximate": true,
                         "end": "1490 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Ulamburiash",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1490 BC",
+                        "endApproximate": true,
+                        "end": "1475 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Agum III",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1475 BC",
+                        "endApproximate": true,
+                        "end": "1460 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Karaindash III",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1425 BC",
+                        "endApproximate": true,
+                        "end": "1405 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kadashman-harbe I",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1405 BC",
+                        "endApproximate": true,
+                        "end": "1380 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kurigalzu I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1380 BC",
+                        "endApproximate": true,
+                        "end": "1374 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kadashman-Enlil I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1374 BC",
+                        "endApproximate": true,
+                        "end": "1360 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Burnaburiash II",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1359 BC",
+                        "endApproximate": true,
+                        "end": "1333 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kurigalzu II",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1332 BC",
+                        "endApproximate": true,
+                        "end": "1308 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Nazi-Maruttush",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1307 BC",
+                        "endApproximate": true,
+                        "end": "1282 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kadashman-Turgu",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1281 BC",
+                        "endApproximate": true,
+                        "end": "1264 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kadashman-Enlil II",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1263 BC",
+                        "endApproximate": true,
+                        "end": "1255 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kudur-Enlil",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1254 BC",
+                        "endApproximate": true,
+                        "end": "1246 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Shagarakti-Shuriash",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1245 BC",
+                        "endApproximate": true,
+                        "end": "1233 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Kashtiliash IV",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1232 BC",
+                        "endApproximate": true,
+                        "end": "1225 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Adad-shuma-iddina",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1222 BC",
+                        "endApproximate": true,
+                        "end": "1217 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Adad-shuma-usur",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1216 BC",
+                        "endApproximate": true,
+                        "end": "1187 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Meli-shipak",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1186 BC",
+                        "endApproximate": true,
+                        "end": "1172 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Marduk-apla-iddina I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1171 BC",
+                        "endApproximate": true,
+                        "end": "1159 BC"
+                      }
+                    }
+                  ],
+                  "style": "babylonian"
+                },
+                {
+                  "name": "Enlil-nadin-ahi",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1157 BC",
+                        "endApproximate": true,
+                        "end": "1155 BC"
                       }
                     }
                   ],
@@ -3370,9 +3708,9 @@
                   ]
                 },
                 {
-                  "name": "Asur-dan III",
+                  "name": "Ashur-dan III",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
