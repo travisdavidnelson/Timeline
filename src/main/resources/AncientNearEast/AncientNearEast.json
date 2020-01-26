@@ -22,32 +22,32 @@
     "lifetimeYDiff": 10,
     "fontSize": 10,
     "fateWidth": 5,
+    "channelXOffset": 150,
+    "channelYOffset": 200,
+    "approximateYearBackgroundAdjustment": 5,
     "approximateYearPersonAdjustment": 10,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
-      "petty": 8,
       "minor": 15,
       "semimajor": 20,
       "major": 40,
-      "transformational": 50
+      "transformational": 50,
+      "petty": 8
     },
     "importanceYOffsets": {
-      "petty": 5,
       "minor": 10,
       "semimajor": 13,
       "major": 23,
-      "transformational": 35
+      "transformational": 35,
+      "petty": 5
     },
     "importanceXOffsets": {
-      "petty": 1,
       "minor": 2,
       "semimajor": 2,
       "major": 2,
-      "transformational": 2
-    },
-    "channelXOffset": 150,
-    "channelYOffset": 200,
-    "approximateYearBackgroundAdjustment": 5
+      "transformational": 2,
+      "petty": 1
+    }
   },
   "backgroundEvents": [],
   "channels": [
@@ -102,8 +102,8 @@
                       "timespan": {
                         "startApproximate": true,
                         "start": "3110 BC",
-                        "endApproximate": true,
-                        "end": "3090 BC"
+                        "end": "3090 BC",
+                        "endApproximate": true
                       }
                     }
                   ]
@@ -534,8 +534,8 @@
                       "timespan": {
                         "startApproximate": true,
                         "start": "2345 BC",
-                        "endApproximate": true,
-                        "end": "2333 BC"
+                        "end": "2333 BC",
+                        "endApproximate": true
                       }
                     }
                   ]
@@ -548,10 +548,10 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "2333 BC",
-                        "endApproximate": true,
-                        "end": "2332 BC"
+                        "end": "2332 BC",
+                        "startApproximate": true,
+                        "endApproximate": true
                       }
                     }
                   ]
@@ -1310,17 +1310,17 @@
           "timespan": {
             "startApproximate": true,
             "start": "2112 BC",
-            "endApproximate": true,
-            "end": "2004 BC"
+            "end": "2004 BC",
+            "endApproximate": true
           },
           "style": "ur3"
         },
         {
           "name": "First Babylonian Empire",
           "timespan": {
-            "startApproximate": true,
             "start": "1894 BC",
-            "end": "1595 BC"
+            "end": "1595 BC",
+            "startApproximate": true
           },
           "style": "babylon"
         },
@@ -1390,7 +1390,6 @@
                 {
                   "name": "Ur-Nanshe",
                   "importance": "semimajor",
-                  "style": "lagashian",
                   "titles": [
                     {
                       "name": "king",
@@ -1401,7 +1400,8 @@
                         "end": "2500 BC"
                       }
                     }
-                  ]
+                  ],
+                  "style": "lagashian"
                 },
                 {
                   "name": "Eannatum",
@@ -1506,8 +1506,8 @@
                       "timespan": {
                         "startApproximate": true,
                         "start": "2206 BC",
-                        "endApproximate": true,
-                        "end": "2190 BC"
+                        "end": "2190 BC",
+                        "endApproximate": true
                       }
                     }
                   ]
@@ -1931,8 +1931,8 @@
                       "timespan": {
                         "startApproximate": true,
                         "start": "2046 BC",
-                        "end": "2038 BC",
-                        "endApproximate": true
+                        "endApproximate": true,
+                        "end": "2038 BC"
                       }
                     }
                   ]
@@ -2060,25 +2060,25 @@
                 },
                 {
                   "name": "Hammurabi",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1810 BC",
-                    "endApproximate": true,
-                    "end": "1750 BC"
-                  },
                   "importance": "transformational",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
-                        "start": "1792 BC",
                         "startApproximate": true,
+                        "start": "1792 BC",
                         "endApproximate": true,
                         "end": "1750 BC"
                       }
                     }
                   ],
-                  "style": "babylonian"
+                  "style": "babylonian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1810 BC",
+                    "endApproximate": true,
+                    "end": "1750 BC"
+                  }
                 },
                 {
                   "name": "Samsu-iluna",
@@ -2178,8 +2178,8 @@
                     {
                       "name": "king",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1157 BC",
+                        "startApproximate": true,
                         "endApproximate": true,
                         "end": "1140 BC"
                       }
@@ -3876,7 +3876,7 @@
       ]
     },
     {
-      "name": "Anatolia",
+      "name": "Anatolia / Levant",
       "backgroundEvents": [
         {
           "name": "Hittite Old Kingdom",
@@ -3911,10 +3911,20 @@
           "name": "Bronze Age collapse",
           "timespan": {
             "start": "1178 BC",
-            "end": "900 BC",
+            "end": "1000 BC",
             "endApproximate": true
           },
           "style": "backgroundDarkAge"
+        },
+        {
+          "name": "Israel",
+          "timespan": {
+            "Approximate": true,
+            "start": "1050 BC",
+            "endApproximate": true,
+            "end": "586 BC"
+          },
+          "style": "israel"
         }
       ],
       "dynastyGroups": [
@@ -4208,7 +4218,7 @@
                   ]
                 },
                 {
-                  "name": "Suppiluliuma II III",
+                  "name": "Suppiluliuma II",
                   "style": "hittite",
                   "importance": "semimajor",
                   "titles": [
@@ -4219,6 +4229,86 @@
                         "start": "1207 BC",
                         "endApproximate": true,
                         "end": "1178 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hebrews",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name": "Israel Saul",
+              "people": [
+                {
+                  "name": "Saul",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1030 BC",
+                        "endApproximate": true,
+                        "end": "1010 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ishbaal",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1010 BC",
+                        "endApproximate": true,
+                        "end": "1008 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Israel David",
+              "people": [
+                {
+                  "name": "David",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1008 BC",
+                        "endApproximate": true,
+                        "end": "970 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Solomon",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "970 BC",
+                        "endApproximate": true,
+                        "end": "931 BC"
                       }
                     }
                   ]

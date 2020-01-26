@@ -46,7 +46,8 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_Old_Kingdom" target="_blank"><rect id="Hittite_Old_Kingdom" x="5800" y="2477" width="315" height="495" class="hittite""  mask="url(#fadeInOutMask)"/><title>Hittite Old Kingdom (c. 1595 BC - c. 1500 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_New_Kingdom" target="_blank"><rect id="Hittite_New_Kingdom" x="6385" y="2477" width="690" height="495" class="hittite""  mask="url(#fadeInOutMask)"/><title>Hittite New Kingdom (c. 1400 BC - c. 1180 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Fall_of_Hattusa" target="_blank"><rect id="Fall_of_Hattusa" x="7045" y="2477" width="21" height="495" class="backgroundNationalCalamity""  mask="url(#fadeInMask)"/><title>Fall of Hattusa (c. 1180 BC - 1178 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age_collapse" target="_blank"><rect id="Bronze_Age_collapse" x="7066" y="2477" width="849" height="495" class="backgroundDarkAge""  mask="url(#fadeOutMask)"/><title>Bronze Age collapse (1178 BC - c. 900 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age_collapse" target="_blank"><rect id="Bronze_Age_collapse" x="7066" y="2477" width="549" height="495" class="backgroundDarkAge""  mask="url(#fadeOutMask)"/><title>Bronze Age collapse (1178 BC - c. 1000 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Israel" target="_blank"><rect id="Israel" x="7450" y="2477" width="1407" height="495" class="israel""  mask="url(#fadeOutMask)"/><title>Israel (1050 BC - c. 586 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Elam_Awan" target="_blank"><rect id="Elam_Awan" x="3535" y="2972" width="630" height="530" class="elamite""  mask="url(#fadeInOutMask)"/><title>Elam Awan (c. 2350 BC - c. 2150 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Elam_Shutrukid" target="_blank"><rect id="Elam_Shutrukid" x="6955" y="2972" width="360" height="530" class="elamite""  mask="url(#fadeInOutMask)"/><title>Elam Shutrukid (c. 1210 BC - c. 1100 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Achaemenid_Empire" target="_blank"><rect id="Achaemenid_Empire" x="8875" y="2972" width="750" height="530" class="achaemenid""  mask="url(#fadeInOutMask)"/><title>Achaemenid Empire (c. 570 BC - c. 330 BC)</title></a></g>
@@ -1402,7 +1403,7 @@
 <text x="8639" y="2387" class="minor">ASHUR-UBALLIT II</text><title>Ashur-uballit II (c. 645 BC - 609 BC)</title></a></g>
 
 <text x="7867" y="1782" class="dynasty">NEO-ASSYRIAN EMPIRE</text>
-<text x="150" y="2727" class="channel">ANATOLIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="5842" y="2537" width="90" height="50" class="footprint"/><rect id="Hattusili_I" x="5842" y="2537" width="90" height="50" class="hittite"/><rect x="5836" y="2537" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="2727" class="channel">ANATOLIA / LEVANT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="5842" y="2537" width="90" height="50" class="footprint"/><rect id="Hattusili_I" x="5842" y="2537" width="90" height="50" class="hittite"/><rect x="5836" y="2537" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="5844" y="2572" class="transformational">HATTUSILI I</text><title>Hattusili I (1586 BC - 1556 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mursili_I" target="_blank"><rect id="Mursili_I" x="5932" y="2597" width="90" height="50" class="footprint"/><rect id="Mursili_I" x="5932" y="2597" width="90" height="50" class="hittite"/><rect x="5926" y="2597" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="5934" y="2632" class="transformational">MURSILI I</text><title>Mursili I (1556 BC - 1526 BC)</title></a></g>
@@ -1437,10 +1438,20 @@
 <text x="6918" y="2852" class="minor">KURUNTA</text><title>Kurunta (1228 BC - 1227 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Arnuwanda_III" target="_blank"><rect id="Arnuwanda_III" x="6973" y="2867" width="6" height="15" class="footprint"/><rect id="Arnuwanda_III" x="6973" y="2867" width="6" height="15" class="hittite"/><rect x="6967" y="2867" width="18" height="15" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="6975" y="2877" class="minor">ARNUWANDA III</text><title>Arnuwanda III (1209 BC - 1207 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Suppiluliuma_II_III" target="_blank"><rect id="Suppiluliuma_II_III" x="6979" y="2892" width="87" height="20" class="footprint"/><rect id="Suppiluliuma_II_III" x="6979" y="2892" width="87" height="20" class="hittite"/><rect x="6973" y="2892" width="99" height="20" class="king""  mask="url(#fadeInOutMask)"/>
-<text x="6981" y="2905" class="semimajor">SUPPILULIUMA II III</text><title>Suppiluliuma II III (1207 BC - 1178 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Suppiluliuma_II" target="_blank"><rect id="Suppiluliuma_II" x="6979" y="2892" width="87" height="20" class="footprint"/><rect id="Suppiluliuma_II" x="6979" y="2892" width="87" height="20" class="hittite"/><rect x="6973" y="2892" width="99" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="6981" y="2905" class="semimajor">SUPPILULIUMA II</text><title>Suppiluliuma II (1207 BC - 1178 BC)</title></a></g>
 
-<text x="6520" y="2527" class="dynasty">HITTITE NEW KINGDOM</text>
+<text x="6520" y="2527" class="dynasty">HITTITE NEW KINGDOM</text><g><a xlink:href="http://en.wikipedia.org/wiki/Saul" target="_blank"><rect id="Saul" x="7510" y="2537" width="60" height="20" class="footprint"/><rect id="Saul" x="7510" y="2537" width="60" height="20" class="israel"/><rect x="7504" y="2537" width="72" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="7512" y="2550" class="semimajor">SAUL</text><title>Saul (1030 BC - 1010 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ishbaal" target="_blank"><rect id="Ishbaal" x="7570" y="2567" width="6" height="15" class="footprint"/><rect id="Ishbaal" x="7570" y="2567" width="6" height="15" class="israel"/><rect x="7564" y="2567" width="18" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="7572" y="2577" class="minor">ISHBAAL</text><title>Ishbaal (1010 BC - 1008 BC)</title></a></g>
+
+<text x="7510" y="2527" class="dynasty">ISRAEL SAUL</text><g><a xlink:href="http://en.wikipedia.org/wiki/David" target="_blank"><rect id="David" x="7576" y="2652" width="114" height="20" class="footprint"/><rect id="David" x="7576" y="2652" width="114" height="20" class="israel"/><rect x="7570" y="2652" width="126" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="7578" y="2665" class="semimajor">DAVID</text><title>David (1008 BC - 970 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Solomon" target="_blank"><rect id="Solomon" x="7690" y="2682" width="117" height="20" class="footprint"/><rect id="Solomon" x="7690" y="2682" width="117" height="20" class="israel"/><rect x="7684" y="2682" width="129" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="7692" y="2695" class="semimajor">SOLOMON</text><title>Solomon (970 BC - 931 BC)</title></a></g>
+
+<text x="7576" y="2642" class="dynasty">ISRAEL DAVID</text>
 <text x="150" y="3222" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kutik-Inshushinak" target="_blank"><rect id="Kutik-Inshushinak" x="3880" y="3032" width="60" height="15" class="footprint"/><rect id="Kutik-Inshushinak" x="3880" y="3032" width="60" height="15" class="elamite"/><rect x="3874" y="3032" width="72" height="15" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="3882" y="3042" class="minor">KUTIK-INSHUSHINAK</text><title>Kutik-Inshushinak (2240 BC - 2220 BC)</title></a></g>
 
