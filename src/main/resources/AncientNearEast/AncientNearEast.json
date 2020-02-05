@@ -83,6 +83,14 @@
             "endApproximate": true
           },
           "style": "egyptNewKingdom"
+        },
+        {
+          "name": "Neo-Assyria",
+          "timespan": {
+            "start": "671 BC",
+            "end": "652 BC"
+          },
+          "style": "neoassyria"
         }
       ],
       "dynastyGroups": [
@@ -1367,13 +1375,13 @@
             "start": "729 BC",
             "end": "626 BC"
           },
-          "style": "assyria"
+          "style": "neoassyria"
         },
         {
           "name": "Neo-Babylonia",
           "timespan": {
             "startApproximate": true,
-            "start": "620 BC",
+            "start": "626 BC",
             "endApproximate": true,
             "end": "539 BC"
           },
@@ -2756,7 +2764,7 @@
             "start": "915 BC",
             "end": "612 BC"
           },
-          "style": "assyria"
+          "style": "neoassyria"
         },
         {
           "name": "Fall of Nineveh",
@@ -3640,7 +3648,7 @@
                 {
                   "name": "Asurnasirpal II",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
@@ -3654,7 +3662,7 @@
                 {
                   "name": "Shalmaneser III",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
@@ -3919,12 +3927,19 @@
         {
           "name": "Israel",
           "timespan": {
-            "Approximate": true,
+            "startApproximate": true,
             "start": "1050 BC",
-            "endApproximate": true,
-            "end": "586 BC"
+            "end": "738 BC"
           },
           "style": "israel"
+        },
+        {
+          "name": "Neo-Assyria",
+          "timespan": {
+            "start": "738 BC",
+            "end": "612 BC"
+          },
+          "style": "neoassyria"
         }
       ],
       "dynastyGroups": [
@@ -4341,6 +4356,16 @@
             "end": "1100 BC"
           },
           "style": "elamite"
+        },
+        {
+          "name": "Neo-Assyria",
+          "timespan": {
+            "startApproximate": true,
+            "start": "640 BC",
+            "endApproximate": true,
+            "end": "620 BC"
+          },
+          "style": "neoassyria"
         },
         {
           "name": "Achaemenid Empire",
