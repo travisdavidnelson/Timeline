@@ -4856,7 +4856,7 @@
                 {
                   "name": "Artaxerxes II Mnemon",
                   "style": "achaemenid",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "kingOfKings",
@@ -4870,7 +4870,7 @@
                 {
                   "name": "Artaxerxes III",
                   "style": "achaemenid",
-                  "importance": "minor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "kingOfKings",
@@ -4898,7 +4898,7 @@
                 {
                   "name": "Darius III",
                   "style": "achaemenid",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "timespan": {
                     "startApproximate": true,
                     "start": "380 BC",
