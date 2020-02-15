@@ -95,9 +95,7 @@
         {
           "name": "Neo-Babylonia",
           "timespan": {
-            "startApproximate": true,
-            "start": "626 BC",
-            "endApproximate": true,
+            "start": "612 BC",
             "end": "539 BC"
           },
           "style": "neobabylon"
@@ -1532,9 +1530,7 @@
         {
           "name": "Neo-Babylonia",
           "timespan": {
-            "startApproximate": true,
             "start": "626 BC",
-            "endApproximate": true,
             "end": "10/539 BC"
           },
           "style": "neobabylon"
@@ -3010,9 +3006,7 @@
         {
           "name": "Neo-Babylonia",
           "timespan": {
-            "startApproximate": true,
-            "start": "626 BC",
-            "endApproximate": true,
+            "start": "612 BC",
             "end": "10/539 BC"
           },
           "style": "neobabylon"
@@ -4203,9 +4197,7 @@
         {
           "name": "Neo-Babylonia",
           "timespan": {
-            "startApproximate": true,
-            "start": "626 BC",
-            "endApproximate": true,
+            "start": "612 BC",
             "end": "546 BC"
           },
           "style": "neobabylon"
