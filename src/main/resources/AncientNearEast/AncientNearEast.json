@@ -91,6 +91,42 @@
             "end": "652 BC"
           },
           "style": "neoassyria"
+        },
+        {
+          "name": "Neo-Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "626 BC",
+            "endApproximate": true,
+            "end": "539 BC"
+          },
+          "style": "neobabylon"
+        },
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "570 BC",
+            "end": "404 BC"
+          },
+          "style": "achaemenid"
+        },
+        {
+          "name": "Egypt XXVIII - XXX",
+          "timespan": {
+            "start": "404 BC",
+            "end": "343 BC"
+          },
+          "style": "egyptLatePeriod"
+        },
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "343 BC",
+            "end": "332 BC"
+          },
+          "style": "achaemenid"
         }
       ],
       "dynastyGroups": [
@@ -1385,7 +1421,16 @@
             "endApproximate": true,
             "end": "539 BC"
           },
-          "style": "babylon"
+          "style": "neobabylon"
+        },
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "570 BC",
+            "end": "330 BC"
+          },
+          "style": "achaemenid"
         }
       ],
       "dynastyGroups": [
@@ -2721,6 +2766,87 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Neo-Babylonian",
+          "yStart": 0,
+          "dynasties": [
+            {
+              "name":  "Neo-Babylonian",
+              "people": [
+                {
+                  "name": "Nabopolassar",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "626 BC",
+                        "end": "605 BC"
+                      }
+                    }
+                  ],
+                  "style": "neobabylonian"
+                },
+                {
+                  "name": "Nebuchadnezzar II",
+                  "importance": "transformational",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "605 BC",
+                        "end": "562 BC"
+                      }
+                    }
+                  ],
+                  "style": "neobabylonian"
+                },
+                {
+                  "name": "Amel-Marduk",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "562 BC",
+                        "end": "560 BC"
+                      }
+                    }
+                  ],
+                  "style": "neobabylonian"
+                },
+                {
+                  "name": "Neriglissar",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "560 BC",
+                        "end": "556 BC"
+                      }
+                    }
+                  ],
+                  "style": "neobabylonian"
+                },
+                {
+                  "name": "Nabonidus",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "556 BC",
+                        "end": "539 BC"
+                      }
+                    }
+                  ],
+                  "style": "neobabylonian"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2767,12 +2893,31 @@
           "style": "neoassyria"
         },
         {
+          "name": "Neo-Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "626 BC",
+            "endApproximate": true,
+            "end": "539 BC"
+          },
+          "style": "neobabylon"
+        },
+        {
           "name": "Fall of Nineveh",
           "timespan": {
             "start": "613 BC",
             "end": "612 BC"
           },
           "style": "backgroundNationalCalamity"
+        },
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "570 BC",
+            "end": "330 BC"
+          },
+          "style": "achaemenid"
         }
       ],
       "dynastyGroups": [
@@ -3940,6 +4085,25 @@
             "end": "612 BC"
           },
           "style": "neoassyria"
+        },
+        {
+          "name": "Neo-Babylonia",
+          "timespan": {
+            "startApproximate": true,
+            "start": "626 BC",
+            "endApproximate": true,
+            "end": "539 BC"
+          },
+          "style": "neobabylon"
+        },
+        {
+          "name": "Achaemenid Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "570 BC",
+            "end": "330 BC"
+          },
+          "style": "achaemenid"
         }
       ],
       "dynastyGroups": [
@@ -4372,7 +4536,6 @@
           "timespan": {
             "startApproximate": true,
             "start": "570 BC",
-            "endApproximate": true,
             "end": "330 BC"
           },
           "style": "achaemenid"
