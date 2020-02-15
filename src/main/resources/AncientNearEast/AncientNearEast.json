@@ -105,8 +105,7 @@
         {
           "name": "Achaemenid Empire",
           "timespan": {
-            "startApproximate": true,
-            "start": "570 BC",
+            "start": "525 BC",
             "end": "404 BC"
           },
           "style": "achaemenid"
@@ -122,7 +121,6 @@
         {
           "name": "Achaemenid Empire",
           "timespan": {
-            "startApproximate": true,
             "start": "343 BC",
             "end": "332 BC"
           },
@@ -1323,6 +1321,124 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Late Period",
+          "dynasties": [
+            {
+              "name": "Egypt XXVIII",
+              "people": [
+                {
+                  "name": "Amyrtaeus",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "404 BC",
+                        "end": "10/399 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                }
+              ]
+            },
+            {
+              "name": "Egypt XXVIIII",
+              "people": [
+                {
+                  "name": "Nepherites I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "399 BC",
+                        "end": "393 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Hakor",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "392 BC",
+                        "end": "379 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Nepherites II",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "379 BC",
+                        "end": "380 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                }
+              ]
+            },
+            {
+              "name": "Egypt XXX",
+              "people": [
+                {
+                  "name": "Nectanebo I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "380 BC",
+                        "end": "362  BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Teos",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "362 BC",
+                        "end": "360  BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Nectanebo II",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "360 BC",
+                        "end": "343  BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1419,15 +1535,14 @@
             "startApproximate": true,
             "start": "626 BC",
             "endApproximate": true,
-            "end": "539 BC"
+            "end": "10/539 BC"
           },
           "style": "neobabylon"
         },
         {
           "name": "Achaemenid Empire",
           "timespan": {
-            "startApproximate": true,
-            "start": "570 BC",
+            "start": "10/539 BC",
             "end": "330 BC"
           },
           "style": "achaemenid"
@@ -2898,7 +3013,7 @@
             "startApproximate": true,
             "start": "626 BC",
             "endApproximate": true,
-            "end": "539 BC"
+            "end": "10/539 BC"
           },
           "style": "neobabylon"
         },
@@ -2913,8 +3028,7 @@
         {
           "name": "Achaemenid Empire",
           "timespan": {
-            "startApproximate": true,
-            "start": "570 BC",
+            "start": "10/539 BC",
             "end": "330 BC"
           },
           "style": "achaemenid"
@@ -4092,15 +4206,14 @@
             "startApproximate": true,
             "start": "626 BC",
             "endApproximate": true,
-            "end": "539 BC"
+            "end": "546 BC"
           },
           "style": "neobabylon"
         },
         {
           "name": "Achaemenid Empire",
           "timespan": {
-            "startApproximate": true,
-            "start": "570 BC",
+            "start": "546 BC",
             "end": "330 BC"
           },
           "style": "achaemenid"
