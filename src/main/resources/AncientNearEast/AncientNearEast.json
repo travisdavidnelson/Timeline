@@ -57,32 +57,62 @@
         {
           "name": "Old Kingdom",
           "timespan": {
-            "start": "2686 BC",
-            "end": "2181 BC",
             "startApproximate": true,
-            "endApproximate": true
+            "start": "2600 BC",
+            "endApproximate": true,
+            "end": "2100 BC"
           },
           "style": "egyptOldKingdom"
         },
         {
+          "name": "First Intermediate Period",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2181 BC",
+            "endApproximate": true,
+            "end": "2055 BC"
+          },
+          "style": "egyptFirstIntermediate"
+        },
+        {
           "name": "Middle Kingdom",
           "timespan": {
-            "start": "2060 BC",
-            "end": "1802 BC",
             "startApproximate": true,
-            "endApproximate": true
+            "start": "2055 BC",
+            "endApproximate": true,
+            "end": "1650 BC"
           },
           "style": "egyptMiddleKingdom"
         },
         {
+          "name": "Second Intermediate Period",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1650 BC",
+            "endApproximate": true,
+            "end": "1550 BC"
+          },
+          "style": "egyptThirdIntermediate"
+        },
+        {
           "name": "New Kingdom",
           "timespan": {
-            "start": "1549 BC",
-            "end": "1069 BC",
             "startApproximate": true,
-            "endApproximate": true
+            "start": "1550 BC",
+            "endApproximate": true,
+            "end": "1069 BC"
           },
           "style": "egyptNewKingdom"
+        },
+        {
+          "name": "Third Intermediate Period",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1069 BC",
+            "endApproximate": true,
+            "end": "664 BC"
+          },
+          "style": "egyptThirdIntermediate"
         },
         {
           "name": "Neo-Assyria",
@@ -109,7 +139,7 @@
           "style": "achaemenid"
         },
         {
-          "name": "Egypt XXVIII - XXX",
+          "name": "Egypt Late Period",
           "timespan": {
             "start": "404 BC",
             "end": "343 BC"
@@ -1066,138 +1096,120 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1550 BC",
-                        "endApproximate": true,
-                        "end": "1525 BC"
+                        "start": "1549 BC",
+                        "end": "1524 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Djeserkare Amenhotep I",
+                  "name": "Amenhotep I",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1541 BC",
-                        "endApproximate": true,
-                        "end": "1520 BC"
+                        "start": "1524 BC",
+                        "end": "1503 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Aakheperkare Thutmose I",
+                  "name": "Thutmose I",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1520 BC",
-                        "endApproximate": true,
-                        "end": "1492 BC"
+                        "start": "1503 BC",
+                        "end": "1493 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Aakheperkare Thutmose I",
+                  "name": "Thutmose II",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1492 BC",
-                        "endApproximate": true,
+                        "start": "1493 BC",
                         "end": "1479 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Maatkare Hatshepsut I",
+                  "name": "Hatshepsut",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1479 BC",
-                        "endApproximate": true,
                         "end": "1458 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Menkheperre Thutmose III",
+                  "name": "Thutmose III",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1458 BC",
-                        "endApproximate": true,
                         "end": "1425 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Aakheperrure Amenhotep II",
+                  "name": "Amenhotep II",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1425 BC",
-                        "endApproximate": true,
-                        "end": "1400 BC"
+                        "start": "1427 BC",
+                        "end": "1397 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Menkheperre Thutmose IV",
+                  "name": "Thutmose IV",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1400 BC",
-                        "endApproximate": true,
-                        "end": "1390 BC"
+                        "start": "1397 BC",
+                        "end": "1388 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Nebmaartre Amenhotep III",
+                  "name": "Amenhotep III",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1390 BC",
-                        "endApproximate": true,
-                        "end": "1352 BC"
+                        "start": "1388 BC",
+                        "end": "1351 BC"
                       }
                     }
                   ]
@@ -1210,10 +1222,8 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "1352 BC",
-                        "endApproximate": true,
-                        "end": "1336 BC"
+                        "start": "1351 BC",
+                        "end": "1334 BC"
                       }
                     }
                   ]
@@ -1235,32 +1245,28 @@
                   ]
                 },
                 {
-                  "name": "Ankhkheperure Smenkhare",
+                  "name": "Ankhkheperure",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1335 BC",
-                        "endApproximate": true,
                         "end": "1334 BC"
                       }
                     }
                   ]
                 },
                 {
-                  "name": "Ankhkheperure-merymNeferkheperure Thutmose IV",
+                  "name": "Ankhkheperure",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1334 BC",
-                        "endApproximate": true,
                         "end": "1332 BC"
                       }
                     }
@@ -1274,19 +1280,64 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
                         "start": "1332 BC",
-                        "endApproximate": true,
-                        "end": "1324 BC"
+                        "end": "1323 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kheperkheperure",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1323 BC",
+                        "end": "1319 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djeserheperure-Setepenre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1319 BC",
+                        "end": "1292 BC"
                       }
                     }
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "New Kingdom II",
+          "dynasties": [
             {
               "name": "Egypt XIX",
               "people": [
+                {
+                  "name": "Ramesses I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1292 BC",
+                        "end": "1290 BC"
+                      }
+                    }
+                  ]
+                },
                 {
                   "name": "Seti I",
                   "style": "egyptian",
@@ -1315,6 +1366,221 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Merneptah",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1213 BC",
+                        "end": "1203 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seti II",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1203 BC",
+                        "end": "1197 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amenmesse",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1201 BC",
+                        "end": "1198 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Siptah",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1197 BC",
+                        "end": "1191 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Twosret",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "start": "1191 BC",
+                        "end": "1187 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XX",
+              "people": [
+                {
+                  "name": "Setnakhte",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1189 BC",
+                        "end": "1186 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses III",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1186 BC",
+                        "end": "1155 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses IV",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1155 BC",
+                        "end": "1149 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses V",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1149 BC",
+                        "end": "1145 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses VI",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1145 BC",
+                        "end": "1137 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses VII",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1136 BC",
+                        "end": "1129 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses VIII",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1130 BC",
+                        "end": "1129 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses IX",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1129 BC",
+                        "end": "1111 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses X",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1111 BC",
+                        "end": "1107 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ramesses XI",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1107 BC",
+                        "end": "1077 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
                 }
               ]
             }
@@ -1642,6 +1908,21 @@
                         "start": "2270 BC",
                         "endApproximate": true,
                         "end": "2215 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enheduanna",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "highPriestess",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2240 BC",
+                        "endApproximate": true,
+                        "end": "2200 BC"
                       }
                     }
                   ]

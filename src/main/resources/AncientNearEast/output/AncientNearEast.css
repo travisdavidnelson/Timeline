@@ -11,6 +11,9 @@
 .egyptOldKingdom {fill:yellow;fill-opacity:0.4}
 .egyptMiddleKingdom {fill:yellow;fill-opacity:0.2}
 .egyptNewKingdom {fill:yellow;fill-opacity:0.5}
+.egyptFirstIntermediate {fill:black;fill-opacity:0.4}
+.egyptSecondIntermediate {fill:black;fill-opacity:0.4}
+.egyptThirdIntermediate {fill:black;fill-opacity:0.4}
 .egyptLatePeriod {fill:yellow;fill-opacity:0.3}
 .lagash {fill:blue;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.1}
@@ -72,6 +75,7 @@
 .pow 				{fill:black;	fill-opacity:0.75}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .governor 			{fill:blue;		fill-opacity:0.5}
+.highPriestess 		{fill:purple;	fill-opacity:0.5}
 .kingOfKings		{fill:purple;	fill-opacity:1.0}
 .king 				{fill:purple;	fill-opacity:0.7}
 .queen 				{fill:purple;	fill-opacity:0.6}
