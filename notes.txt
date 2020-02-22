@@ -1,8 +1,17 @@
 TODO
 
+
+
+
+20200221
+    TODO: timelines of dynasty people follow some other guy instead of guessing the whole goddamned line. See: Gilgamesh
+    TODO: add greater and lesser approximates
+
+
+
 20200116
-    implement chronologies
-    add legend
+    TODO: implement chronologies
+    TODO: add legend
 
 
 
