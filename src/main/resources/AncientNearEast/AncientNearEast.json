@@ -1825,6 +1825,134 @@
           "name": "Sumer",
           "dynasties": [
             {
+              "name": "Uruk",
+              "people": [
+                {
+                  "name": "Gilgamesh",
+                  "importance": "transformational",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2640 BC",
+                    "endApproximate": true,
+                    "end": "2560 BC"
+                  },
+                  "style": "deified"
+                },
+                {
+                  "name": "Ur-Nungal",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2560 BC",
+                        "endApproximate": true,
+                        "end": "2530 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "Udul-Kalama",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2530 BC",
+                        "endApproximate": true,
+                        "end": "2515 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "La-ba'shum",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2515 BC",
+                        "endApproximate": true,
+                        "end": "2506 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "En-nun-tarah-ana",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2506 BC",
+                        "endApproximate": true,
+                        "end": "2498 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "Mesh-he",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2498 BC",
+                        "endApproximate": true,
+                        "end": "2462 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "Melem-ana",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2462 BC",
+                        "endApproximate": true,
+                        "end": "2456 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                },
+                {
+                  "name": "Lugal-kitun",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2456 BC",
+                        "endApproximate": true,
+                        "end": "2420 BC"
+                      }
+                    }
+                  ],
+                  "style": "uruk"
+                }
+              ]
+            },
+            {
               "name": "Lagash I",
               "people": [
                 {
