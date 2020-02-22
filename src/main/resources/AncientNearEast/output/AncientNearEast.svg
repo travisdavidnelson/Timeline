@@ -958,7 +958,7 @@
 <text x="10560" y="40" class="year">AD 1</text>
 <text x="10560" y="3642" class="year">AD 1</text>
 
-<text x="150" y="300" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Narmer" target="_blank"><rect id="Narmer" x="1270" y="110" width="60" height="40" class="footprint"/><rect id="Narmer" x="1270" y="110" width="60" height="40" class="egyptian"/><rect x="1264" y="110" width="72" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="450" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Narmer" target="_blank"><rect id="Narmer" x="1270" y="110" width="60" height="40" class="footprint"/><rect id="Narmer" x="1270" y="110" width="60" height="40" class="egyptian"/><rect x="1264" y="110" width="72" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
 <text x="1272" y="133" class="major">NARMER</text><title>Narmer (3110 BC - 3090 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hor-Aha" target="_blank"><rect id="Hor-Aha" x="1420" y="160" width="60" height="15" class="footprint"/><rect id="Hor-Aha" x="1420" y="160" width="60" height="15" class="egyptian"/><rect x="1414" y="160" width="72" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
 <text x="1422" y="170" class="minor">HOR-AHA</text><title>Hor-Aha (3060 BC - 3040 BC)</title></a></g>
@@ -1164,7 +1164,7 @@
 <text x="9522" y="413" class="semimajor">NECTANEBO II</text><title>Nectanebo II (360 BC - 343  BC)</title></a></g>
 
 <text x="9460" y="335" class="dynasty">EGYPT XXX</text>
-<text x="150" y="1220" class="channel">BABYLONIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Gilgamesh" target="_blank"><rect id="Gilgamesh" x="2650" y="1030" width="300" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Gilgamesh" x="2650" y="1030" width="300" height="50" class="deified""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="1370" class="channel">BABYLONIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Gilgamesh" target="_blank"><rect id="Gilgamesh" x="2650" y="1030" width="300" height="50" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Gilgamesh" x="2650" y="1030" width="300" height="50" class="deified""  mask="url(#fadeInOutMask)"/>
 <text x="2654" y="1065" class="transformational">GILGAMESH</text><title>Gilgamesh (c. 2640 BC - c. 2560 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ur-Nungal" target="_blank"><rect id="Ur-Nungal" x="2920" y="1090" width="90" height="15" class="footprint"/><rect id="Ur-Nungal" x="2920" y="1090" width="90" height="15" class="uruk"/><rect x="2914" y="1090" width="102" height="15" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="2922" y="1100" class="minor">UR-NUNGAL</text><title>Ur-Nungal (2560 BC - 2530 BC)</title></a></g>
@@ -1410,7 +1410,7 @@
 <text x="8934" y="1213" class="major">NABONIDUS</text><title>Nabonidus (556 BC - 539 BC)</title></a></g>
 
 <text x="8722" y="1020" class="dynasty">NEO-BABYLONIAN</text>
-<text x="150" y="2032" class="channel">ASSYRIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Puzur-Ashur_I" target="_blank"><rect id="Puzur-Ashur_I" x="4525" y="1842" width="225" height="40" class="footprint"/><rect id="Puzur-Ashur_I" x="4525" y="1842" width="225" height="40" class="assyrian"/><rect x="4519" y="1842" width="237" height="40" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="2182" class="channel">ASSYRIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Puzur-Ashur_I" target="_blank"><rect id="Puzur-Ashur_I" x="4525" y="1842" width="225" height="40" class="footprint"/><rect id="Puzur-Ashur_I" x="4525" y="1842" width="225" height="40" class="assyrian"/><rect x="4519" y="1842" width="237" height="40" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="4527" y="1865" class="major">PUZUR-ASHUR I</text><title>Puzur-Ashur I (2025 BC - 1950 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Shalim-ahum" target="_blank"><rect id="Shalim-ahum" x="4750" y="1892" width="69" height="15" class="footprint"/><rect id="Shalim-ahum" x="4750" y="1892" width="69" height="15" class="assyrian"/><rect x="4744" y="1892" width="81" height="15" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="4752" y="1902" class="minor">SHALIM-AHUM</text><title>Shalim-ahum (1950 BC - 1927 BC)</title></a></g>
@@ -1552,7 +1552,7 @@
 <text x="8639" y="2477" class="minor">ASHUR-UBALLIT II</text><title>Ashur-uballit II (c. 645 BC - 609 BC)</title></a></g>
 
 <text x="7867" y="1832" class="dynasty">NEO-ASSYRIAN EMPIRE</text>
-<text x="150" y="2792" class="channel">ANATOLIA / LEVANT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="5842" y="2602" width="90" height="50" class="footprint"/><rect id="Hattusili_I" x="5842" y="2602" width="90" height="50" class="hittite"/><rect x="5836" y="2602" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="2942" class="channel">ANATOLIA / LEVANT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="5842" y="2602" width="90" height="50" class="footprint"/><rect id="Hattusili_I" x="5842" y="2602" width="90" height="50" class="hittite"/><rect x="5836" y="2602" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="5844" y="2637" class="transformational">HATTUSILI I</text><title>Hattusili I (1586 BC - 1556 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mursili_I" target="_blank"><rect id="Mursili_I" x="5932" y="2662" width="90" height="50" class="footprint"/><rect id="Mursili_I" x="5932" y="2662" width="90" height="50" class="hittite"/><rect x="5926" y="2662" width="102" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="5934" y="2697" class="transformational">MURSILI I</text><title>Mursili I (1556 BC - 1526 BC)</title></a></g>
@@ -1601,7 +1601,7 @@
 <text x="7692" y="2760" class="semimajor">SOLOMON</text><title>Solomon (970 BC - 931 BC)</title></a></g>
 
 <text x="7576" y="2707" class="dynasty">ISRAEL DAVID</text>
-<text x="150" y="3287" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kutik-Inshushinak" target="_blank"><rect id="Kutik-Inshushinak" x="3880" y="3097" width="60" height="15" class="footprint"/><rect id="Kutik-Inshushinak" x="3880" y="3097" width="60" height="15" class="elamite"/><rect x="3874" y="3097" width="72" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="150" y="3437" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kutik-Inshushinak" target="_blank"><rect id="Kutik-Inshushinak" x="3880" y="3097" width="60" height="15" class="footprint"/><rect id="Kutik-Inshushinak" x="3880" y="3097" width="60" height="15" class="elamite"/><rect x="3874" y="3097" width="72" height="15" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="3882" y="3107" class="minor">KUTIK-INSHUSHINAK</text><title>Kutik-Inshushinak (2240 BC - 2220 BC)</title></a></g>
 
 <text x="3880" y="3087" class="dynasty">ELAM AWAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Sutruk-Nakhunte" target="_blank"><rect id="Sutruk-Nakhunte" x="7048" y="3097" width="87" height="50" class="footprint"/><rect id="Sutruk-Nakhunte" x="7048" y="3097" width="87" height="50" class="elamite"/><rect x="7042" y="3097" width="99" height="50" class="king""  mask="url(#fadeInOutMask)"/>
