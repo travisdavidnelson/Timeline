@@ -1825,7 +1825,7 @@
           "name": "Sumer",
           "dynasties": [
             {
-              "name": "Uruk",
+              "name": "Uruk I",
               "people": [
                 {
                   "name": "Gilgamesh",
@@ -1949,6 +1949,96 @@
                     }
                   ],
                   "style": "uruk"
+                }
+              ]
+            },
+            {
+              "name": "Uruk II",
+              "people": [
+                {
+                  "name": "Enshakushanna",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2420 BC",
+                        "endApproximate": true,
+                        "end": "2360 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                }
+              ]
+            },
+            {
+              "name": "Ur I",
+              "people": [
+                {
+                  "name": "Mesh-Ane-pada",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2420 BC",
+                        "endApproximate": true,
+                        "end": "2340 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Mesh-ki-ang-Nuna",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2340 BC",
+                        "endApproximate": true,
+                        "end": "2304 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Elulu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2304 BC",
+                        "endApproximate": true,
+                        "end": "2279 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Balulu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2279 BC",
+                        "endApproximate": true,
+                        "end": "2243 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
                 }
               ]
             },
