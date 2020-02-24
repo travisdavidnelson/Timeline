@@ -2002,6 +2002,54 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Entemena",
+                  "importance": "semimajor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2400 BC",
+                        "endApproximate": true,
+                        "end": "2360 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Legalanda",
+                  "importance": "minor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2340 BC",
+                        "endApproximate": true,
+                        "end": "2320 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Urukagina",
+                  "importance": "minor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2320 BC",
+                        "endApproximate": true,
+                        "end": "2295 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             },
