@@ -1974,6 +1974,59 @@
               ]
             },
             {
+              "name": "Lagash I",
+              "people": [
+                {
+                  "name": "Ur-Nanshe",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2550 BC",
+                        "endApproximate": true,
+                        "end": "2500 BC"
+                      }
+                    }
+                  ],
+                  "style": "lagashian"
+                },
+                {
+                  "name": "Eannatum",
+                  "importance": "major",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2500 BC",
+                        "endApproximate": true,
+                        "end": "2400 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "En-anna-tum I",
+                  "importance": "minor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2450 BC",
+                        "endApproximate": true,
+                        "end": "2400 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Ur I",
               "people": [
                 {
@@ -2039,59 +2092,6 @@
                     }
                   ],
                   "style": "ur"
-                }
-              ]
-            },
-            {
-              "name": "Lagash I",
-              "people": [
-                {
-                  "name": "Ur-Nanshe",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2550 BC",
-                        "endApproximate": true,
-                        "end": "2500 BC"
-                      }
-                    }
-                  ],
-                  "style": "lagashian"
-                },
-                {
-                  "name": "Eannatum",
-                  "importance": "major",
-                  "style": "lagashian",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2500 BC",
-                        "endApproximate": true,
-                        "end": "2400 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "En-anna-tum I",
-                  "importance": "minor",
-                  "style": "lagashian",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2450 BC",
-                        "endApproximate": true,
-                        "end": "2400 BC"
-                      }
-                    }
-                  ]
                 }
               ]
             },
