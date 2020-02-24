@@ -1953,27 +1953,6 @@
               ]
             },
             {
-              "name": "Uruk II",
-              "people": [
-                {
-                  "name": "Enshakushanna",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2550 BC",
-                        "endApproximate": true,
-                        "end": "2490 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                }
-              ]
-            },
-            {
               "name": "Lagash I",
               "people": [
                 {
@@ -2030,16 +2009,16 @@
               "name": "Ur I",
               "people": [
                 {
-                  "name": "Mesh-Ane-pada",
+                  "name": "Mesannepada",
                   "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2420 BC",
+                        "start": "2550 BC",
                         "endApproximate": true,
-                        "end": "2340 BC"
+                        "end": "2470 BC"
                       }
                     }
                   ],
@@ -2053,9 +2032,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2340 BC",
+                        "start": "2470 BC",
                         "endApproximate": true,
-                        "end": "2304 BC"
+                        "end": "2434 BC"
                       }
                     }
                   ],
@@ -2069,9 +2048,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2304 BC",
+                        "start": "2434 BC",
                         "endApproximate": true,
-                        "end": "2279 BC"
+                        "end": "2409 BC"
                       }
                     }
                   ],
@@ -2085,9 +2064,30 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2279 BC",
+                        "start": "2409 BC",
                         "endApproximate": true,
-                        "end": "2243 BC"
+                        "end": "2373 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                }
+              ]
+            },
+            {
+              "name": "Uruk II",
+              "people": [
+                {
+                  "name": "Enshakushanna",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2525 BC",
+                        "endApproximate": true,
+                        "end": "2465 BC"
                       }
                     }
                   ],
