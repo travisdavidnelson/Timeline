@@ -946,7 +946,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Middle Kingdom",
+          "dynasties": [
             {
               "name": "Egypt XII",
               "people": [
@@ -1074,6 +1079,228 @@
                         "start": "1807 BC",
                         "endApproximate": true,
                         "end": "1802 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XIII",
+              "people": [
+                {
+                  "name": "Sekhemre Khutawy Sobekhotep I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1803 BC",
+                        "end": "1800 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Ameny Qemau",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1793 BC",
+                        "end": "1791 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Merneferre Ay",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1701 BC",
+                        "end": "1677 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                }
+              ]
+            },
+            {
+              "name": "Egypt XV",
+              "people": [
+                {
+                  "name": "Salitis",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1660 BC",
+                        "endApproximate": true,
+                        "end": "1640 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Apophis",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1590 BC",
+                        "endApproximate": true,
+                        "end": "1550 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khamudi",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1550 BC",
+                        "endApproximate": true,
+                        "end": "1540 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XVI",
+              "people": [
+                {
+                  "name": "Sekhemre-sementawi Djehuti",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1648 BC",
+                        "endApproximate": true,
+                        "end": "1645 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sekhemre-seusertawi Sobekhotep VIII",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1645 BC",
+                        "endApproximate": true,
+                        "end": "1629 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sewadjenre Nebiryraw I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1627 BC",
+                        "endApproximate": true,
+                        "end": "1601 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seuserenre Bebiankh",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1600 BC",
+                        "endApproximate": true,
+                        "end": "1588 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XVII",
+              "people": [
+                {
+                  "name": "Sobekemsaf I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1580 BC",
+                        "endApproximate": true,
+                        "end": "1578 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tao",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1560 BC",
+                        "endApproximate": true,
+                        "end": "1556 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kamose",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1555 BC",
+                        "endApproximate": true,
+                        "end": "1550 BC"
                       }
                     }
                   ]
