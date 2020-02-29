@@ -1133,6 +1133,91 @@
               ]
             },
             {
+              "name": "Egypt XIV",
+              "people": [
+                {
+                  "name": "Yakbim Sekhaenre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1805 BC",
+                        "endApproximate": true,
+                        "end": "1780 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ya'ammu Nubwoserre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1780 BC",
+                        "endApproximate": true,
+                        "end": "1770 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Qareh Khawoserre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1770 BC",
+                        "endApproximate": true,
+                        "end": "1760 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ammu Ahotepre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1760 BC",
+                        "endApproximate": true,
+                        "end": "1745 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sheshi Maaibre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1745 BC",
+                        "endApproximate": true,
+                        "end": "1705 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Egypt XV",
               "people": [
                 {
