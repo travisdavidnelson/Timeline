@@ -2003,6 +2003,165 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Egypt XXII",
+              "people": [
+                {
+                  "name": "Shoshenq I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "943 BC",
+                        "end": "922 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "922 BC",
+                        "end": "887 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shoshenq II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "887 BC",
+                        "end": "885 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Takelot I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "885 BC",
+                        "end": "872 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "872 BC",
+                        "end": "837 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shoshenq III",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "837 BC",
+                        "end": "798 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shoshenq IV",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "798 BC",
+                        "end": "778 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pami",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "785 BC",
+                        "end": "778 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shoshenq V",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "778 BC",
+                        "end": "740 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pedubast II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "740 BC",
+                        "end": "730 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon IV",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "730 BC",
+                        "end": "716 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
