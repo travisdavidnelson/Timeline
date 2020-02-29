@@ -1187,7 +1187,22 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_XI" target="_blank"><rect id="Ramesses_XI" x="7279" y="690" width="90" height="20" class="footprint"/><rect id="Ramesses_XI" x="7279" y="690" width="90" height="20" class="egyptian"/><rect x="7279" y="690" width="90" height="20" class="king"/>
 <text x="7281" y="703" class="semimajor">RAMESSES XI</text><title>Ramesses XI (1107 BC - 1077 BC)</title></a></g>
 
-<text x="7033" y="440" class="dynasty">EGYPT XX</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="footprint"/><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="egyptian"/><rect x="9388" y="110" width="17" height="20" class="king"/>
+<text x="7033" y="440" class="dynasty">EGYPT XX</text><g><a xlink:href="http://en.wikipedia.org/wiki/Smendes" target="_blank"><rect id="Smendes" x="7369" y="110" width="78" height="15" class="footprint"/><rect id="Smendes" x="7369" y="110" width="78" height="15" class="egyptian"/><rect x="7369" y="110" width="78" height="15" class="king"/>
+<text x="7371" y="120" class="minor">SMENDES</text><title>Smendes (1077 BC - 1051 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Amenemnisu" target="_blank"><rect id="Amenemnisu" x="7447" y="135" width="12" height="15" class="footprint"/><rect id="Amenemnisu" x="7447" y="135" width="12" height="15" class="egyptian"/><rect x="7447" y="135" width="12" height="15" class="king"/>
+<text x="7449" y="145" class="minor">AMENEMNISU</text><title>Amenemnisu (1051 BC - 1047 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Psusennes_I" target="_blank"><rect id="Psusennes_I" x="7459" y="160" width="138" height="15" class="footprint"/><rect id="Psusennes_I" x="7459" y="160" width="138" height="15" class="egyptian"/><rect x="7459" y="160" width="138" height="15" class="king"/>
+<text x="7461" y="170" class="minor">PSUSENNES I</text><title>Psusennes I (1047 BC - 1001 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Amenemope" target="_blank"><rect id="Amenemope" x="7597" y="185" width="27" height="15" class="footprint"/><rect id="Amenemope" x="7597" y="185" width="27" height="15" class="egyptian"/><rect x="7597" y="185" width="27" height="15" class="king"/>
+<text x="7599" y="195" class="minor">AMENEMOPE</text><title>Amenemope (1001 BC - 992 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Osorkon_the_Elder" target="_blank"><rect id="Osorkon_the_Elder" x="7624" y="210" width="18" height="15" class="footprint"/><rect id="Osorkon_the_Elder" x="7624" y="210" width="18" height="15" class="egyptian"/><rect x="7624" y="210" width="18" height="15" class="king"/>
+<text x="7626" y="220" class="minor">OSORKON THE ELDER</text><title>Osorkon the Elder (992 BC - 986 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Siamun" target="_blank"><rect id="Siamun" x="7642" y="235" width="57" height="15" class="footprint"/><rect id="Siamun" x="7642" y="235" width="57" height="15" class="egyptian"/><rect x="7642" y="235" width="57" height="15" class="king"/>
+<text x="7644" y="245" class="minor">SIAMUN</text><title>Siamun (986 BC - 967 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Psusennes_II" target="_blank"><rect id="Psusennes_II" x="7699" y="260" width="72" height="15" class="footprint"/><rect id="Psusennes_II" x="7699" y="260" width="72" height="15" class="egyptian"/><rect x="7699" y="260" width="72" height="15" class="king"/>
+<text x="7701" y="270" class="minor">PSUSENNES II</text><title>Psusennes II (967 BC - 943 BC)</title></a></g>
+
+<text x="7369" y="100" class="dynasty">EGYPT XXI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="footprint"/><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="egyptian"/><rect x="9388" y="110" width="17" height="20" class="king"/>
 <text x="9390" y="123" class="semimajor">AMYRTAEUS</text><title>Amyrtaeus (404 BC - 10/399 BC)</title></a></g>
 
 <text x="9388" y="100" class="dynasty">EGYPT XXVIII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Nepherites_I" target="_blank"><rect id="Nepherites_I" x="9403" y="200" width="18" height="20" class="footprint"/><rect id="Nepherites_I" x="9403" y="200" width="18" height="20" class="egyptian"/><rect x="9403" y="200" width="18" height="20" class="king"/>

@@ -1899,6 +1899,114 @@
           ]
         },
         {
+          "name": "Third Intermediate Period",
+          "dynasties": [
+            {
+              "name": "Egypt XXI",
+              "people": [
+                {
+                  "name": "Smendes",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1077 BC",
+                        "end": "1051 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amenemnisu",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1051 BC",
+                        "end": "1047 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psusennes I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1047 BC",
+                        "end": "1001 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amenemope",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "1001 BC",
+                        "end": "992 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon the Elder",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "992 BC",
+                        "end": "986 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Siamun",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "986 BC",
+                        "end": "967 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psusennes II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "967 BC",
+                        "end": "943 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Late Period",
           "dynasties": [
             {
