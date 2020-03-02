@@ -1698,8 +1698,8 @@
 <text x="7692" y="3128" class="semimajor">SOLOMON</text><title>Solomon (970 BC - 931 BC)</title></a></g>
 
 <text x="7576" y="3075" class="dynasty">ISRAEL DAVID</text>
-<text x="150" y="3805" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kutik-Inshushinak" target="_blank"><rect id="Kutik-Inshushinak" x="3880" y="3465" width="60" height="15" class="footprint"/><rect id="Kutik-Inshushinak" x="3880" y="3465" width="60" height="15" class="elamite"/><rect x="3874" y="3465" width="72" height="15" class="king""  mask="url(#fadeInOutMask)"/>
-<text x="3882" y="3475" class="minor">KUTIK-INSHUSHINAK</text><title>Kutik-Inshushinak (2240 BC - 2220 BC)</title></a></g>
+<text x="150" y="3805" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kutik-Inshushinak" target="_blank"><rect id="Kutik-Inshushinak" x="3880" y="3465" width="60" height="20" class="footprint"/><rect id="Kutik-Inshushinak" x="3880" y="3465" width="60" height="20" class="elamite"/><rect x="3874" y="3465" width="72" height="20" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="3882" y="3478" class="semimajor">KUTIK-INSHUSHINAK</text><title>Kutik-Inshushinak (2240 BC - 2220 BC)</title></a></g>
 
 <text x="3880" y="3455" class="dynasty">ELAM AWAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Sutruk-Nakhunte" target="_blank"><rect id="Sutruk-Nakhunte" x="7048" y="3465" width="87" height="50" class="footprint"/><rect id="Sutruk-Nakhunte" x="7048" y="3465" width="87" height="50" class="elamite"/><rect x="7042" y="3465" width="99" height="50" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="7050" y="3500" class="transformational">SUTRUK-NAKHUNTE</text><title>Sutruk-Nakhunte (1184 BC - 1155 BC)</title></a></g>
