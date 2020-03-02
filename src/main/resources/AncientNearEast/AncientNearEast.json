@@ -2309,11 +2309,21 @@
           "style": "akkad"
         },
         {
+          "name": "Gutians",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2083 BC",
+            "end": "2055 BC",
+            "endApproximate": true
+          },
+          "style": "gutian"
+        },
+        {
           "name": "Ur III",
           "timespan": {
             "startApproximate": true,
-            "start": "2112 BC",
-            "end": "2004 BC",
+            "start": "2055 BC",
+            "end": "1940 BC",
             "endApproximate": true
           },
           "style": "ur3"
@@ -3193,6 +3203,21 @@
               "name": "Ur III",
               "people": [
                 {
+                  "name": "Utu-hengal",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2055 BC",
+                        "endApproximate": true,
+                        "end": "2048 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Ur-Nammu",
                   "importance": "major",
                   "titles": [
@@ -3200,9 +3225,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2112 BC",
+                        "start": "2047 BC",
                         "endApproximate": true,
-                        "end": "2095 BC"
+                        "end": "2030 BC"
                       }
                     }
                   ]
@@ -3215,9 +3240,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2094 BC",
+                        "start": "2029 BC",
                         "endApproximate": true,
-                        "end": "2047 BC"
+                        "end": "1982 BC"
                       }
                     }
                   ]
@@ -3230,9 +3255,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2046 BC",
+                        "start": "1981 BC",
                         "endApproximate": true,
-                        "end": "2038 BC"
+                        "end": "1973 BC"
                       }
                     }
                   ]
@@ -3245,9 +3270,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2037 BC",
+                        "start": "1972 BC",
                         "endApproximate": true,
-                        "end": "2029 BC"
+                        "end": "1964 BC"
                       }
                     }
                   ]
@@ -3260,9 +3285,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2028 BC",
+                        "start": "1963 BC",
                         "endApproximate": true,
-                        "end": "2004 BC"
+                        "end": "1940 BC"
                       }
                     }
                   ]
