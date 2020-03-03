@@ -1226,7 +1226,26 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Osorkon_IV" target="_blank"><rect id="Osorkon_IV" x="8410" y="595" width="42" height="15" class="footprint"/><rect id="Osorkon_IV" x="8410" y="595" width="42" height="15" class="egyptian"/><rect x="8410" y="595" width="42" height="15" class="king"/>
 <text x="8412" y="605" class="minor">OSORKON IV</text><title>Osorkon IV (730 BC - 716 BC)</title></a></g>
 
-<text x="7771" y="335" class="dynasty">EGYPT XXII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="footprint"/><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="egyptian"/><rect x="9388" y="110" width="17" height="20" class="king"/>
+<text x="7771" y="335" class="dynasty">EGYPT XXII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Harsiese_A" target="_blank"><rect id="Harsiese_A" x="7960" y="680" width="60" height="15" class="footprint"/><rect id="Harsiese_A" x="7960" y="680" width="60" height="15" class="egyptian"/><rect x="7960" y="680" width="60" height="15" class="king"/>
+<text x="7962" y="690" class="minor">HARSIESE A</text><title>Harsiese A (880 BC - 860 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Takelot_II" target="_blank"><rect id="Takelot_II" x="8080" y="705" width="75" height="15" class="footprint"/><rect id="Takelot_II" x="8080" y="705" width="75" height="15" class="egyptian"/><rect x="8080" y="705" width="75" height="15" class="king"/>
+<text x="8082" y="715" class="minor">TAKELOT II</text><title>Takelot II (840 BC - 815 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Pedubast_I" target="_blank"><rect id="Pedubast_I" x="8113" y="730" width="75" height="15" class="footprint"/><rect id="Pedubast_I" x="8113" y="730" width="75" height="15" class="egyptian"/><rect x="8113" y="730" width="75" height="15" class="king"/>
+<text x="8115" y="740" class="minor">PEDUBAST I</text><title>Pedubast I (829 BC - 804 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Iuput_I" target="_blank"><rect id="Iuput_I" x="8113" y="755" width="75" height="15" class="footprint"/><rect id="Iuput_I" x="8113" y="755" width="75" height="15" class="egyptian"/><rect x="8113" y="755" width="75" height="15" class="king"/>
+<text x="8115" y="765" class="minor">IUPUT I</text><title>Iuput I (829 BC - 804 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shoshenq_VI" target="_blank"><rect id="Shoshenq_VI" x="8188" y="780" width="18" height="15" class="footprint"/><rect id="Shoshenq_VI" x="8188" y="780" width="18" height="15" class="egyptian"/><rect x="8188" y="780" width="18" height="15" class="king"/>
+<text x="8190" y="790" class="minor">SHOSHENQ VI</text><title>Shoshenq VI (804 BC - 798 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Osorkon_III" target="_blank"><rect id="Osorkon_III" x="8206" y="805" width="87" height="15" class="footprint"/><rect id="Osorkon_III" x="8206" y="805" width="87" height="15" class="egyptian"/><rect x="8206" y="805" width="87" height="15" class="king"/>
+<text x="8208" y="815" class="minor">OSORKON III</text><title>Osorkon III (798 BC - 769 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Takelot_III" target="_blank"><rect id="Takelot_III" x="8278" y="830" width="45" height="15" class="footprint"/><rect id="Takelot_III" x="8278" y="830" width="45" height="15" class="egyptian"/><rect x="8278" y="830" width="45" height="15" class="king"/>
+<text x="8280" y="840" class="minor">TAKELOT III</text><title>Takelot III (774 BC - 759 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Rudamun" target="_blank"><rect id="Rudamun" x="8323" y="855" width="12" height="15" class="footprint"/><rect id="Rudamun" x="8323" y="855" width="12" height="15" class="egyptian"/><rect x="8323" y="855" width="12" height="15" class="king"/>
+<text x="8325" y="865" class="minor">RUDAMUN</text><title>Rudamun (759 BC - 755 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ini" target="_blank"><rect id="Ini" x="8335" y="880" width="15" height="15" class="footprint"/><rect id="Ini" x="8335" y="880" width="15" height="15" class="egyptian"/><rect x="8335" y="880" width="15" height="15" class="king"/>
+<text x="8337" y="890" class="minor">INI</text><title>Ini (755 BC - 750 BC)</title></a></g>
+
+<text x="7960" y="670" class="dynasty">EGYPT XXIII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="footprint"/><rect id="Amyrtaeus" x="9388" y="110" width="17" height="20" class="egyptian"/><rect x="9388" y="110" width="17" height="20" class="king"/>
 <text x="9390" y="123" class="semimajor">AMYRTAEUS</text><title>Amyrtaeus (404 BC - 10/399 BC)</title></a></g>
 
 <text x="9388" y="100" class="dynasty">EGYPT XXVIII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Nepherites_I" target="_blank"><rect id="Nepherites_I" x="9403" y="200" width="18" height="20" class="footprint"/><rect id="Nepherites_I" x="9403" y="200" width="18" height="20" class="egyptian"/><rect x="9403" y="200" width="18" height="20" class="king"/>

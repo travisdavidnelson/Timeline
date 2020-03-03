@@ -2162,6 +2162,137 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Egypt XXIII",
+              "people": [
+                {
+                  "name": "Harsiese A",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "880 BC",
+                        "end": "860 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Takelot II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "840 BC",
+                        "end": "815 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pedubast I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "829 BC",
+                        "end": "804 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Iuput I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "829 BC",
+                        "end": "804 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shoshenq VI",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "804 BC",
+                        "end": "798 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon III",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "798 BC",
+                        "end": "769 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Takelot III",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "774 BC",
+                        "end": "759 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Rudamun",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "759 BC",
+                        "end": "755 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ini",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "755 BC",
+                        "end": "750 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
