@@ -2293,6 +2293,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Egypt XXIV",
+              "people": [
+                {
+                  "name": "Ini",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "732 BC",
+                        "end": "725 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Bakenranef",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "725 BC",
+                        "end": "720 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
