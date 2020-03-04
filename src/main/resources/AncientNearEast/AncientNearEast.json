@@ -335,7 +335,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Old Kingdom II",
+          "dynasties": [
             {
               "name": "Egypt IV",
               "people": [
@@ -590,7 +595,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Old Kingdom III",
+          "dynasties": [
             {
               "name": "Egypt VI",
               "people": [
@@ -1216,60 +1226,12 @@
                   ]
                 }
               ]
-            },
-            {
-              "name": "Egypt XV",
-              "people": [
-                {
-                  "name": "Salitis",
-                  "style": "egyptian",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "pharaoh",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1660 BC",
-                        "endApproximate": true,
-                        "end": "1640 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "Apophis",
-                  "style": "egyptian",
-                  "importance": "minor",
-                  "titles": [
-                    {
-                      "name": "pharaoh",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1590 BC",
-                        "endApproximate": true,
-                        "end": "1550 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "Khamudi",
-                  "style": "egyptian",
-                  "importance": "minor",
-                  "titles": [
-                    {
-                      "name": "pharaoh",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1550 BC",
-                        "endApproximate": true,
-                        "end": "1540 BC"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Middle Kingdom II",
+          "dynasties": [
             {
               "name": "Egypt XVI",
               "people": [
@@ -2162,7 +2124,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Third Intermediate Period II",
+          "dynasties": [
             {
               "name": "Egypt XXIII",
               "people": [
