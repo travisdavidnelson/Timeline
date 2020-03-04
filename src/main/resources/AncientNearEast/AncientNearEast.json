@@ -2293,7 +2293,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Late Egypt",
+          "dynasties": [
             {
               "name": "Egypt XXIV",
               "people": [
@@ -2321,6 +2326,82 @@
                       "timespan": {
                         "start": "725 BC",
                         "end": "720 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XXV",
+              "people": [
+                {
+                  "name": "Piye",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "744 BC",
+                        "end": "714 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shebitku",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "714 BC",
+                        "end": "705 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shabaka",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "705 BC",
+                        "end": "690 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Taharqa",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "690 BC",
+                        "end": "664 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tantamani",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "664 BC",
+                        "end": "656 BC"
                       }
                     }
                   ]
