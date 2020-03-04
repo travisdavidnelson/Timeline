@@ -157,7 +157,7 @@
       ],
       "dynastyGroups": [
         {
-          "name": "Old Kingdom",
+          "name": "Old Kingdom I",
           "dynasties": [
             {
               "name": "Egypt I",
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "name": "Old Kingdom",
+          "name": "Old Kingdom II",
           "dynasties": [
             {
               "name": "Egypt II",
@@ -339,7 +339,7 @@
           ]
         },
         {
-          "name": "Old Kingdom II",
+          "name": "Old Kingdom III",
           "dynasties": [
             {
               "name": "Egypt IV",
@@ -461,7 +461,7 @@
           ]
         },
         {
-          "name": "Old Kingdom II",
+          "name": "Old Kingdom IV",
           "dynasties": [
             {
               "name": "Egypt V",
@@ -599,7 +599,7 @@
           ]
         },
         {
-          "name": "Old Kingdom III",
+          "name": "Old Kingdom V",
           "dynasties": [
             {
               "name": "Egypt VI",
@@ -735,7 +735,7 @@
               ]
             },
             {
-              "name": "VII and VIII",
+              "name": "Egypt VII and VIII",
               "people": [
                 {
                   "name": "Neferkar VI Pepiseneb",
@@ -1357,7 +1357,7 @@
           ]
         },
         {
-          "name": "New Kingdom",
+          "name": "New Kingdom I",
           "dynasties": [
             {
               "name": "Egypt XVIII",
@@ -1861,7 +1861,7 @@
           ]
         },
         {
-          "name": "Third Intermediate Period",
+          "name": "Third Intermediate Period I",
           "dynasties": [
             {
               "name": "Egypt XXI",
@@ -2264,7 +2264,7 @@
           ]
         },
         {
-          "name": "Late Egypt",
+          "name": "Late Period I",
           "dynasties": [
             {
               "name": "Egypt XXIV",
@@ -2378,7 +2378,7 @@
           ]
         },
         {
-          "name": "Late Period",
+          "name": "Late Period II",
           "dynasties": [
             {
               "name": "Egypt XXVIII",
