@@ -1105,8 +1105,42 @@
                     {
                       "name": "king",
                       "timespan": {
+                        "startApproximate": true,
                         "start": "1803 BC",
+                        "endApproximate": true,
                         "end": "1800 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sonbef",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1800 BC",
+                        "endApproximate": true,
+                        "end": "1796 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sekhemkare",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1796 BC",
+                        "endApproximate": true,
+                        "end": "1793 BC"
                       }
                     }
                   ],
@@ -1119,8 +1153,154 @@
                     {
                       "name": "king",
                       "timespan": {
+                        "startApproximate": true,
                         "start": "1793 BC",
+                        "endApproximate": true,
                         "end": "1791 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Hotepibre",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1791 BC",
+                        "endApproximate": true,
+                        "end": "1788 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Amenemhet VI",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1788 BC",
+                        "endApproximate": true,
+                        "end": "1785 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sedjefakare",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1770 BC",
+                        "endApproximate": true,
+                        "end": "1765 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Imyremeshaw",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1759 BC",
+                        "endApproximate": true,
+                        "end": "1754 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sehetepkare Intef",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1754 BC",
+                        "endApproximate": true,
+                        "end": "1749 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Neferhotep I",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1747 BC",
+                        "endApproximate": true,
+                        "end": "1736 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sobekhotep IV",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1735 BC",
+                        "endApproximate": true,
+                        "end": "1725 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Sobekhotep VI",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1719 BC",
+                        "endApproximate": true,
+                        "end": "1715 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Wahibre Ibiau",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1712 BC",
+                        "endApproximate": true,
+                        "end": "1701 BC"
                       }
                     }
                   ],
@@ -1133,7 +1313,9 @@
                     {
                       "name": "king",
                       "timespan": {
+                        "startApproximate": true,
                         "start": "1701 BC",
+                        "endApproximate": true,
                         "end": "1677 BC"
                       }
                     }
