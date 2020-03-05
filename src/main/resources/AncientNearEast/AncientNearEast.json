@@ -960,7 +960,7 @@
           ]
         },
         {
-          "name": "Middle Kingdom",
+          "name": "Middle Kingdom I",
           "dynasties": [
             {
               "name": "Egypt XII",
@@ -1323,7 +1323,12 @@
                   "style": "egyptian"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Middle Kingdom II",
+          "dynasties": [
             {
               "name": "Egypt XIV",
               "people": [
@@ -1412,7 +1417,7 @@
           ]
         },
         {
-          "name": "Middle Kingdom II",
+          "name": "Middle Kingdom III",
           "dynasties": [
             {
               "name": "Egypt XVI",
