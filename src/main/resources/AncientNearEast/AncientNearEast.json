@@ -3595,7 +3595,7 @@
           ]
         },
         {
-          "name": "Ur III",
+          "name": "Early Babylonia",
           "yStart": 0,
           "dynasties": [
             {
@@ -3687,6 +3687,235 @@
                         "start": "1963 BC",
                         "endApproximate": true,
                         "end": "1940 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Larsa",
+              "people": [
+                {
+                  "name": "Naplanum",
+                  "importance": "semimajor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1961 BC",
+                        "endApproximate": true,
+                        "end": "1940 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Emisum",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1940 BC",
+                        "endApproximate": true,
+                        "end": "1912 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Samium",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1912 BC",
+                        "endApproximate": true,
+                        "end": "1877 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Zabaia",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1877 BC",
+                        "endApproximate": true,
+                        "end": "1868 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Gungunum",
+                  "importance": "semimajor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1868 BC",
+                        "endApproximate": true,
+                        "end": "1841 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Abisare",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1841 BC",
+                        "endApproximate": true,
+                        "end": "1830 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sumuel",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1830 BC",
+                        "endApproximate": true,
+                        "end": "1801 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nur-Adad",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1801 BC",
+                        "endApproximate": true,
+                        "end": "1785 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sin-Iddinam",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1785 BC",
+                        "endApproximate": true,
+                        "end": "1778 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sin-Eribam",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1778 BC",
+                        "endApproximate": true,
+                        "end": "1776 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sin-Iqisham",
+                  "importance": "minor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1776 BC",
+                        "endApproximate": true,
+                        "end": "1771 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Silli-Adad",
+                  "importance": "petty",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1771 BC",
+                        "endApproximate": true,
+                        "end": "1770 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Warad-Sin",
+                  "importance": "semimajor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1770 BC",
+                        "endApproximate": true,
+                        "end": "1758 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Rim-Sin I",
+                  "importance": "major",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1758 BC",
+                        "endApproximate": true,
+                        "end": "1699 BC"
                       }
                     }
                   ]
