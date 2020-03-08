@@ -6736,7 +6736,7 @@
           "yStart": 0,
           "dynasties": [
             {
-              "name": "Israel Saul",
+              "name": "Israel",
               "people": [
                 {
                   "name": "Saul",
@@ -6769,12 +6769,7 @@
                       }
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "name": "Israel David",
-              "people": [
+                },
                 {
                   "name": "David",
                   "style": "israel",
@@ -6803,6 +6798,320 @@
                         "start": "970 BC",
                         "endApproximate": true,
                         "end": "931 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Israel Samaria and Judah",
+          "dynasties": [
+            {
+              "name": "Samaria",
+              "people": [
+                {
+                  "name": "Jeroboam I",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "931 BC",
+                        "endApproximate": true,
+                        "end": "910 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nadab",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "910 BC",
+                        "endApproximate": true,
+                        "end": "908 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Baasha",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "908 BC",
+                        "endApproximate": true,
+                        "end": "886 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Elah",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "886 BC",
+                        "endApproximate": true,
+                        "end": "884 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Zimri",
+                  "style": "israel",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "885 BC",
+                        "endApproximate": true,
+                        "end": "885 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Omri",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "885 BC",
+                        "endApproximate": true,
+                        "end": "874 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ahab",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "874 BC",
+                        "endApproximate": true,
+                        "end": "852 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ahaziah",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "852 BC",
+                        "endApproximate": true,
+                        "end": "851 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Joram",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "851 BC",
+                        "endApproximate": true,
+                        "end": "841 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Jehu",
+                  "style": "israel",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "841 BC",
+                        "endApproximate": true,
+                        "end": "814 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Jehoahaz",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "814 BC",
+                        "endApproximate": true,
+                        "end": "804 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Jehoash",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "804 BC",
+                        "endApproximate": true,
+                        "end": "790 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Jeroboam II",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "790 BC",
+                        "endApproximate": true,
+                        "end": "750 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Zachariah",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "750 BC",
+                        "endApproximate": true,
+                        "end": "749 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shallum",
+                  "style": "israel",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "749 BC",
+                        "endApproximate": true,
+                        "end": "749 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menahem",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "749 BC",
+                        "endApproximate": true,
+                        "end": "739 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pekahiah",
+                  "style": "israel",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "739 BC",
+                        "endApproximate": true,
+                        "end": "737 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pekah",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "737 BC",
+                        "endApproximate": true,
+                        "end": "732 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Hoshea",
+                  "style": "israel",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "732 BC",
+                        "endApproximate": true,
+                        "end": "722 BC"
                       }
                     }
                   ]
