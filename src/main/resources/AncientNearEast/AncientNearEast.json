@@ -2728,11 +2728,21 @@
           "style": "ur3"
         },
         {
+          "name": "Larsa",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1770 BC",
+            "endApproximate": true,
+            "end": "1728 BC"
+          },
+          "style": "larsa"
+        },
+        {
           "name": "First Babylonian Empire",
           "timespan": {
-            "start": "1830 BC",
-            "end": "1531 BC",
-            "startApproximate": true
+            "startApproximate": true,
+            "start": "1728 BC",
+            "end": "1531 BC"
           },
           "style": "babylon"
         },
@@ -3875,6 +3885,22 @@
                         "start": "1771 BC",
                         "endApproximate": true,
                         "end": "1770 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Kudur-Mabuk",
+                  "importance": "semimajor",
+                  "style": "larsa",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1770 BC",
+                        "endApproximate": true,
+                        "end": "1754 BC"
                       }
                     }
                   ]
