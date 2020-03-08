@@ -6326,22 +6326,41 @@
       "name": "Anatolia / Levant",
       "backgroundEvents": [
         {
+          "name": "Hittite Early Period",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1850 BC",
+            "endApproximate": true,
+            "end": "1595 BC"
+          },
+          "style": "hittiteWeak"
+        },
+        {
           "name": "Hittite Old Kingdom",
           "timespan": {
             "startApproximate": true,
             "start": "1595 BC",
             "endApproximate": true,
-            "end": "1500 BC"
+            "end": "1460 BC"
           },
           "style": "hittite"
+        },
+        {
+          "name": "Hittite Middle Kingdom",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1460 BC",
+            "endApproximate": true,
+            "end": "1360 BC"
+          },
+          "style": "backgroundDarkAge"
         },
         {
           "name": "Hittite New Kingdom",
           "timespan": {
             "startApproximate": true,
-            "start": "1400 BC",
-            "endApproximate": true,
-            "end": "1180 BC"
+            "start": "1360 BC",
+            "end": "1178 BC"
           },
           "style": "hittite"
         },
@@ -6408,7 +6427,7 @@
                 {
                   "name": "Hattusili I",
                   "style": "hittite",
-                  "importance": "transformational",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
@@ -6530,7 +6549,7 @@
                 {
                   "name": "Tudhaliya II",
                   "style": "hittite",
-                  "importance": "transformational",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
