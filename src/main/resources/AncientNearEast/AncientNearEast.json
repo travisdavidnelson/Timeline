@@ -2730,8 +2730,8 @@
         {
           "name": "First Babylonian Empire",
           "timespan": {
-            "start": "1894 BC",
-            "end": "1595 BC",
+            "start": "1830 BC",
+            "end": "1531 BC",
             "startApproximate": true
           },
           "style": "babylon"
@@ -2739,19 +2739,10 @@
         {
           "name": "Hittite Sack of Babylon",
           "timespan": {
-            "start": "1595 BC",
-            "end": "1596 BC"
-          },
-          "style": "backgroundNationalCalamity"
-        },
-        {
-          "name": "Dark Age",
-          "timespan": {
-            "start": "1595 BC",
-            "endApproximate": true,
+            "start": "1531 BC",
             "end": "1531 BC"
           },
-          "style": "backgroundDarkAge"
+          "style": "backgroundNationalCalamity"
         },
         {
           "name": "Babylon Kassite",
@@ -3939,9 +3930,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1894 BC",
+                        "start": "1830 BC",
                         "endApproximate": true,
-                        "end": "1881 BC"
+                        "end": "1817 BC"
                       }
                     }
                   ],
@@ -3955,9 +3946,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1881 BC",
+                        "start": "1817 BC",
                         "endApproximate": true,
-                        "end": "1845 BC"
+                        "end": "1781 BC"
                       }
                     }
                   ],
@@ -3971,9 +3962,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1845 BC",
+                        "start": "1781 BC",
                         "endApproximate": true,
-                        "end": "1831 BC"
+                        "end": "1767 BC"
                       }
                     }
                   ],
@@ -3987,9 +3978,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1831 BC",
+                        "start": "1767 BC",
                         "endApproximate": true,
-                        "end": "1813 BC"
+                        "end": "1749 BC"
                       }
                     }
                   ],
@@ -4003,9 +3994,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1813 BC",
+                        "start": "1749 BC",
                         "endApproximate": true,
-                        "end": "1792 BC"
+                        "end": "1728 BC"
                       }
                     }
                   ],
@@ -4019,18 +4010,18 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1792 BC",
+                        "start": "1728 BC",
                         "endApproximate": true,
-                        "end": "1750 BC"
+                        "end": "1686 BC"
                       }
                     }
                   ],
                   "style": "babylonian",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1810 BC",
+                    "start": "1746 BC",
                     "endApproximate": true,
-                    "end": "1750 BC"
+                    "end": "1686 BC"
                   }
                 },
                 {
@@ -4041,9 +4032,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1750 BC",
+                        "start": "1686 BC",
                         "endApproximate": true,
-                        "end": "1712 BC"
+                        "end": "1648 BC"
                       }
                     }
                   ],
@@ -4057,9 +4048,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1712 BC",
+                        "start": "1648 BC",
                         "endApproximate": true,
-                        "end": "1684 BC"
+                        "end": "1620 BC"
                       }
                     }
                   ],
@@ -4073,9 +4064,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1684 BC",
+                        "start": "1620 BC",
                         "endApproximate": true,
-                        "end": "1647 BC"
+                        "end": "1583 BC"
                       }
                     }
                   ],
@@ -4089,9 +4080,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1647 BC",
+                        "start": "1583 BC",
                         "endApproximate": true,
-                        "end": "1626 BC"
+                        "end": "1562 BC"
                       }
                     }
                   ],
@@ -4105,9 +4096,9 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "1626 BC",
+                        "start": "1562 BC",
                         "endApproximate": true,
-                        "end": "1595 BC"
+                        "end": "1531 BC"
                       }
                     }
                   ],
