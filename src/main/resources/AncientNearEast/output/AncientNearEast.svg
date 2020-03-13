@@ -25,7 +25,7 @@
     </mask>
   </defs>
 
-<g><a xlink:href="http://en.wikipedia.org/wiki/Early_Dynastic_Period" target="_blank"><rect id="Early_Dynastic_Period" x="1135" y="50" width="1422" height="800" class="egyptPreDynastic""  mask="url(#fadeInOutMask)"/><title>Early Dynastic Period (c. 3150 BC - c. 2686 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Early_Dynastic_Period" target="_blank"><rect id="Early_Dynastic_Period" x="1135" y="50" width="1422" height="800" class="egyptEarlyDynastic""  mask="url(#fadeInOutMask)"/><title>Early Dynastic Period (c. 3150 BC - c. 2686 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Old_Kingdom" target="_blank"><rect id="Old_Kingdom" x="2527" y="50" width="1788" height="800" class="egyptOldKingdom""  mask="url(#fadeInOutMask)"/><title>Old Kingdom (c. 2686 BC - c. 2100 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_Intermediate_Period" target="_blank"><rect id="First_Intermediate_Period" x="4042" y="50" width="408" height="800" class="egyptFirstIntermediate""  mask="url(#fadeInOutMask)"/><title>First Intermediate Period (c. 2181 BC - c. 2055 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Middle_Kingdom" target="_blank"><rect id="Middle_Kingdom" x="4420" y="50" width="1245" height="800" class="egyptMiddleKingdom""  mask="url(#fadeInOutMask)"/><title>Middle Kingdom (c. 2055 BC - c. 1650 BC)</title></a></g>
