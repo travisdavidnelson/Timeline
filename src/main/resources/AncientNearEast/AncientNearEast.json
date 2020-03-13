@@ -55,10 +55,20 @@
       "name": "Egypt",
       "backgroundEvents": [
         {
+          "name": "Early Dynastic Period",
+          "timespan": {
+            "startApproximate": true,
+            "start": "3150 BC",
+            "endApproximate": true,
+            "end": "2686 BC"
+          },
+          "style": "egyptPreDynastic"
+        },
+        {
           "name": "Old Kingdom",
           "timespan": {
             "startApproximate": true,
-            "start": "2600 BC",
+            "start": "2686 BC",
             "endApproximate": true,
             "end": "2100 BC"
           },
@@ -157,7 +167,7 @@
       ],
       "dynastyGroups": [
         {
-          "name": "Old Kingdom I",
+          "name": "Early Dynastic",
           "dynasties": [
             {
               "name": "Egypt I",
@@ -171,8 +181,8 @@
                       "name": "pharaoh",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "3110 BC",
-                        "end": "3090 BC",
+                        "start": "3150 BC",
+                        "end": "3100 BC",
                         "endApproximate": true
                       }
                     }
@@ -187,7 +197,7 @@
                       "name": "pharaoh",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "3060 BC",
+                        "start": "3100 BC",
                         "endApproximate": true,
                         "end": "3040 BC"
                       }
