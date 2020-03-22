@@ -79,6 +79,7 @@ public class Person extends TimelineEvent {
 		Timespan result;
 		TimelineInstant earliest = null;
 		TimelineInstant latest = null;
+		long longestDuration = 0L;
 		if (titles != null) {
 			for (TimelineEvent event : titles) {
 				if (earliest == null || earliest.isAfter(event.getTimespan().getStart())) {
@@ -86,6 +87,9 @@ public class Person extends TimelineEvent {
 				}
 				if (latest == null || latest.isBefore(event.getTimespan().getEnd())) {
 					latest = event.getTimespan().getEnd();
+				}
+				if (longestDuration == 0L || event.getTimespan().getDuration() > longestDuration) {
+					longestDuration = event.getTimespan().getDuration();
 				}
 			}
 		}
@@ -97,11 +101,17 @@ public class Person extends TimelineEvent {
 				if (latest == null || latest.isBefore(event.getTimespan().getEnd())) {
 					latest = event.getTimespan().getEnd();
 				}
+				if (longestDuration == 0L || event.getTimespan().getDuration() > longestDuration) {
+					longestDuration = event.getTimespan().getDuration();
+				}
 			}
 		}
 		result = new Timespan();
 		result.setStart(earliest);
 		result.setEnd(latest);
+		if (earliest == null && latest == null) {
+			result.setDuration(longestDuration);
+		}
 		return result;
 	}
 }

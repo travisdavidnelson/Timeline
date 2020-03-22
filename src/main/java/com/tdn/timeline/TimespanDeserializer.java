@@ -22,9 +22,11 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 		}
 		assert jsonData != null;
 		Timespan result = new Timespan();
-		String startString = jsonData.get("start").getAsString();
-		TimelineInstant start = TimeUtilities.getInstant(startString);
-		result.setStart(start);
+		if (jsonData.has("start")) {
+			String startString = jsonData.get("start").getAsString();
+			TimelineInstant start = TimeUtilities.getInstant(startString);
+			result.setStart(start);
+		}
 		if (jsonData.has("end")) {
 			String endString = jsonData.get("end").getAsString();
 			if (endString.length() > 0) {
@@ -52,6 +54,10 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 		}
 		result.setStartApproximate(jsonData.has("startApproximate"));
 		result.setEndApproximate(jsonData.has("endApproximate"));
+		if (result.getStart() == null && result.getEnd() == null && result.getDuration() > 0) {
+			result.setStartApproximate(true);
+			result.setEndApproximate(true);
+		}
 		return result;
 	}
 

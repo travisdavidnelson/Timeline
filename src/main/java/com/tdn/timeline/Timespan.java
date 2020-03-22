@@ -59,7 +59,9 @@ public class Timespan {
 	@Override
 	public String toString() {
 		StringBuilder result = new StringBuilder();
-		result.append(getYearString(start, startApproximate));
+		if (start != null) {
+			result.append(getYearString(start, startApproximate));
+		}
 		if (end != null) {
 			result.append(" - ");
 			result.append(getYearString(end, endApproximate));

@@ -42,7 +42,8 @@ public class TimelineSvgBuilder {
 	private int nextPersonYStart = 0;
 	private int maxLifetimeYEnd = 0;
 	private Person lastPersonInGroup = null;
-	
+	private int lastPersonX;
+
 	private List<Integer> timelineYPositions = new ArrayList<Integer>();
 
 	
@@ -167,6 +168,7 @@ public class TimelineSvgBuilder {
 		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", stringBuilder);
 	}
 	public void getPersonSVG(Person person, String styleClass, String styleOverride, StringBuilder stringBuilder) {
+		System.out.println("  adding lifetime "+person);
 		if (lastPersonInGroup != null) {
 //			if(!lastPersonInGroup.overlaps(person)) {
 //				nextPersonYStart = dynastyStart;
@@ -174,8 +176,11 @@ public class TimelineSvgBuilder {
 		}
 		String id = person.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
+		int x = lastPersonX;
 		TimelineInstant start = person.getTimespan().getStart();
-		int x = instantToX(start);
+		if (start != null) {
+			x = instantToX(start);
+		}
 		if (person.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearPersonAdjustment * 365);
 		}
@@ -216,16 +221,19 @@ public class TimelineSvgBuilder {
 			stringBuilder.append("</title>");
 			stringBuilder.append("</a></g>\n");
 		}
-		System.out.println("  adding lifetime "+person);
 		nextPersonYStart += height + lifetimeYDiff;
 		if (maxLifetimeYEnd < nextPersonYStart) {
 			maxLifetimeYEnd = nextPersonYStart;
 		}
 		lastPersonInGroup = person;
+		lastPersonX = x + width;
 	}
 	private void getTitleSVG(Person person, TimelineEvent title, String style, StringBuilder stringBuilder) {
 		TimelineInstant startInstant = title.getTimespan().getStart();
-		int x = instantToX(startInstant);
+		int x = lastPersonX;
+		if (startInstant != null) {
+			x = instantToX(startInstant);
+		}
 		if (title.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearTitleAdjustment * 365);
 		}
