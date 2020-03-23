@@ -109,9 +109,7 @@ public class Person extends TimelineEvent {
 		result = new Timespan();
 		result.setStart(earliest);
 		result.setEnd(latest);
-		if (earliest == null && latest == null) {
-			result.setDuration(longestDuration);
-		}
+		result.setDuration(longestDuration);
 		return result;
 	}
 }
