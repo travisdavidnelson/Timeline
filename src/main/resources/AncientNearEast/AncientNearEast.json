@@ -293,6 +293,61 @@
               "name": "Egypt II",
               "people": [
                 {
+                  "name": "Hotepsekhemwy",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2890 BC",
+                        "endApproximate": true,
+                        "duration": "38y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebra",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "14y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nynetjer",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "40y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Senedj",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "20y"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Seth-Peribsen",
                   "style": "egyptian",
                   "importance": "minor",
@@ -300,9 +355,7 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "2750 BC",
-                        "end": "2730 BC"
+                        "duration": "10y"
                       }
                     }
                   ]
@@ -315,9 +368,20 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "startApproximate": true,
-                        "start": "2730 BC",
-                        "end": "2710 BC"
+                        "duration": "10y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khasekhemwy",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "18y"
                       }
                     }
                   ]
