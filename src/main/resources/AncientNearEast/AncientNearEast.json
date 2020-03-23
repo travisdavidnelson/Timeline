@@ -387,7 +387,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Old Kingdom III",
+          "dynasties": [
             {
               "name": "Egypt III",
               "people": [
@@ -487,12 +492,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Old Kingdom III",
-          "dynasties": [
+            },
             {
               "name": "Egypt IV",
               "people": [
