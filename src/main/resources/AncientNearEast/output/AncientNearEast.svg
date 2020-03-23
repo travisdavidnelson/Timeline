@@ -964,8 +964,20 @@
 
 <text x="150" y="450" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Narmer" target="_blank"><rect id="Narmer" x="1150" y="110" width="150" height="40" class="footprint"/><rect id="Narmer" x="1150" y="110" width="150" height="40" class="egyptian"/><rect x="1144" y="110" width="162" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
 <text x="1152" y="133" class="major">NARMER</text><title>Narmer (3150 BC - 3100 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hor-Aha" target="_blank"><rect id="Hor-Aha" x="1300" y="160" width="180" height="15" class="footprint"/><rect id="Hor-Aha" x="1300" y="160" width="180" height="15" class="egyptian"/><rect x="1294" y="160" width="192" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
-<text x="1302" y="170" class="minor">HOR-AHA</text><title>Hor-Aha (3100 BC - 3040 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hor-Aha" target="_blank"><rect id="Hor-Aha" x="1300" y="160" width="150" height="15" class="footprint"/><rect id="Hor-Aha" x="1300" y="160" width="150" height="15" class="egyptian"/><rect x="1294" y="160" width="162" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1302" y="170" class="minor">HOR-AHA</text><title>Hor-Aha (3100 BC - 3050 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Djer" target="_blank"><rect id="Djer" x="1450" y="185" width="162" height="15" class="footprint"/><rect id="Djer" x="1450" y="185" width="162" height="15" class="egyptian"/><rect x="1444" y="185" width="174" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1452" y="195" class="minor">DJER</text><title>Djer ()</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Djet" target="_blank"><rect id="Djet" x="1612" y="210" width="30" height="15" class="footprint"/><rect id="Djet" x="1612" y="210" width="30" height="15" class="egyptian"/><rect x="1606" y="210" width="42" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1614" y="220" class="minor">DJET</text><title>Djet ()</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Den" target="_blank"><rect id="Den" x="1642" y="235" width="126" height="15" class="footprint"/><rect id="Den" x="1642" y="235" width="126" height="15" class="egyptian"/><rect x="1636" y="235" width="138" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1644" y="245" class="minor">DEN</text><title>Den ()</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Anedjib" target="_blank"><rect id="Anedjib" x="1768" y="260" width="30" height="15" class="footprint"/><rect id="Anedjib" x="1768" y="260" width="30" height="15" class="egyptian"/><rect x="1762" y="260" width="42" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1770" y="270" class="minor">ANEDJIB</text><title>Anedjib ()</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Semerkhet" target="_blank"><rect id="Semerkhet" x="1798" y="285" width="27" height="15" class="footprint"/><rect id="Semerkhet" x="1798" y="285" width="27" height="15" class="egyptian"/><rect x="1792" y="285" width="39" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1800" y="295" class="minor">SEMERKHET</text><title>Semerkhet ()</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Qa'a" target="_blank"><rect id="Qa'a" x="1825" y="310" width="102" height="15" class="footprint"/><rect id="Qa'a" x="1825" y="310" width="102" height="15" class="egyptian"/><rect x="1819" y="310" width="114" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>
+<text x="1827" y="320" class="minor">QA'A</text><title>Qa'a ()</title></a></g>
 
 <text x="1150" y="100" class="dynasty">EGYPT I</text><g><a xlink:href="http://en.wikipedia.org/wiki/Seth-Peribsen" target="_blank"><rect id="Seth-Peribsen" x="2350" y="110" width="60" height="15" class="footprint"/><rect id="Seth-Peribsen" x="2350" y="110" width="60" height="15" class="egyptian"/><rect x="2344" y="110" width="66" height="15" class="pharaoh""  mask="url(#fadeInMask)"/>
 <text x="2352" y="120" class="minor">SETH-PERIBSEN</text><title>Seth-Peribsen (2750 BC - 2730 BC)</title></a></g>

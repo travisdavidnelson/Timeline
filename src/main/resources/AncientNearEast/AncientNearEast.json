@@ -182,8 +182,8 @@
                       "timespan": {
                         "startApproximate": true,
                         "start": "3150 BC",
-                        "end": "3100 BC",
-                        "endApproximate": true
+                        "endApproximate": true,
+                        "end": "3100 BC"
                       }
                     }
                   ]
@@ -199,7 +199,85 @@
                         "startApproximate": true,
                         "start": "3100 BC",
                         "endApproximate": true,
-                        "end": "3040 BC"
+                        "end": "3050 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djer",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "54y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djet",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "10y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Den",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "42y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Anedjib",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "10y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Semerkhet",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "9y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Qa'a",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "34y"
                       }
                     }
                   ]
