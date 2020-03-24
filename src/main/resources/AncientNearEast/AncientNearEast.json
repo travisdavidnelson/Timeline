@@ -70,7 +70,7 @@
             "startApproximate": true,
             "start": "2686 BC",
             "endApproximate": true,
-            "end": "2100 BC"
+            "end": "2180 BC"
           },
           "style": "egyptOldKingdom"
         },
@@ -80,7 +80,7 @@
             "startApproximate": true,
             "start": "2181 BC",
             "endApproximate": true,
-            "end": "2055 BC"
+            "end": "2050 BC"
           },
           "style": "egyptFirstIntermediate"
         },
@@ -823,7 +823,7 @@
                 {
                   "name": "Neferkare Pepi II",
                   "style": "egyptian",
-                  "importance": "major",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
