@@ -986,6 +986,75 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Egypt X",
+              "people": [
+                {
+                  "name": "Neferkare VIII",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2140 BC",
+                        "endApproximate": true,
+                        "end": "2135 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkare VIII",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2135 BC",
+                        "endApproximate": true,
+                        "end": "2125 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Wahkare Kety",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2125 BC",
+                        "endApproximate": true,
+                        "end": "2075 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Merikare",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2075 BC",
+                        "endApproximate": true,
+                        "end": "2040 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
