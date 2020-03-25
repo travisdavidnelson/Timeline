@@ -789,7 +789,7 @@
                   ]
                 },
                 {
-                  "name": "Meryre Pepi I",
+                  "name": "Pepi I",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
@@ -805,7 +805,7 @@
                   ]
                 },
                 {
-                  "name": "Merenre Nemtyemsaf I",
+                  "name": "Nemtyemsaf I",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -821,7 +821,7 @@
                   ]
                 },
                 {
-                  "name": "Neferkare Pepi II",
+                  "name": "Pepi II",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -853,7 +853,7 @@
                   ]
                 },
                 {
-                  "name": "Merenre Nemtyemsaf II",
+                  "name": "Nemtyemsaf II",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1012,7 +1012,7 @@
                   ]
                 },
                 {
-                  "name": "Sehertawy Intef I",
+                  "name": "Intef I",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1028,7 +1028,7 @@
                   ]
                 },
                 {
-                  "name": "Wahankh Intef II",
+                  "name": "Intef II",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1044,7 +1044,7 @@
                   ]
                 },
                 {
-                  "name": "Nakhtnebtepnefer Intef III",
+                  "name": "Intef III",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1060,7 +1060,7 @@
                   ]
                 },
                 {
-                  "name": "Nebhepetre Mentuhotep II",
+                  "name": "Mentuhotep II",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
@@ -1076,7 +1076,7 @@
                   ]
                 },
                 {
-                  "name": "Sankhkare Mentuhotep III",
+                  "name": "Mentuhotep III",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1092,7 +1092,7 @@
                   ]
                 },
                 {
-                  "name": "Nebtawyre Mentuhotep IV",
+                  "name": "Mentuhotep IV",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1251,7 +1251,7 @@
               "name": "Egypt XIII",
               "people": [
                 {
-                  "name": "Sekhemre Khutawy Sobekhotep I",
+                  "name": "Sobekhotep I",
                   "importance": "semimajor",
                   "titles": [
                     {
