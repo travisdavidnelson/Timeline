@@ -908,7 +908,7 @@
                 {
                   "name": "Neferkamin Anu",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -940,7 +940,7 @@
                 {
                   "name": "Neferkaure",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -956,7 +956,7 @@
                 {
                   "name": "Neferkauhor Khuwihapi",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -972,7 +972,7 @@
                 {
                   "name": "Neferirkare",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -981,6 +981,59 @@
                         "start": "2161 BC",
                         "endApproximate": true,
                         "end": "2160 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt IX",
+              "people": [
+                {
+                  "name": "Meryibre Khety",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2160 BC",
+                        "endApproximate": true,
+                        "end": "2155 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Neferkare",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2150 BC",
+                        "endApproximate": true,
+                        "end": "2145 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebkaure Khety",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2145 BC",
+                        "endApproximate": true,
+                        "end": "2140 BC"
                       }
                     }
                   ]
