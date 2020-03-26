@@ -1240,7 +1240,7 @@
               "name": "Egypt XII",
               "people": [
                 {
-                  "name": "Sehetepibre Amenemhat III",
+                  "name": "Amenemhat I",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
@@ -1256,7 +1256,7 @@
                   ]
                 },
                 {
-                  "name": "Kheperkare Senusret I",
+                  "name": "Senusret I",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1272,7 +1272,7 @@
                   ]
                 },
                 {
-                  "name": "Nubkaure Amenemhat II",
+                  "name": "Amenemhat II",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1288,7 +1288,7 @@
                   ]
                 },
                 {
-                  "name": "Khakheperre Senusret II",
+                  "name": "Senusret II",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1304,7 +1304,7 @@
                   ]
                 },
                 {
-                  "name": "Khakaure Senusret III",
+                  "name": "Senusret III",
                   "style": "egyptian",
                   "importance": "major",
                   "titles": [
@@ -1320,7 +1320,7 @@
                   ]
                 },
                 {
-                  "name": "Nimaatre Amenemhat III",
+                  "name": "Amenemhat III",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
@@ -1336,7 +1336,7 @@
                   ]
                 },
                 {
-                  "name": "Maakherure Amenemhat IV",
+                  "name": "Amenemhat IV",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1352,7 +1352,7 @@
                   ]
                 },
                 {
-                  "name": "Sobekkare Sobekneferu",
+                  "name": "Sobekneferu",
                   "style": "egyptian",
                   "importance": "semimajor",
                   "titles": [
