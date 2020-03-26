@@ -58,11 +58,11 @@
 .fate {fill-opacity:0.0}
 
 .channel {font-family: serif; font-size: 400px; fill:#000000; fill-opacity:0.3 }
-.dynasty {font-family: serif; font-size: 48px; fill:#000000; fill-opacity:1.0}
+.dynasty {font-family: serif; font-size: 50px; fill:#000000; fill-opacity:0.6}
 
 .footprint {fill-opacity:0.0; font-family: serif;}
-.transformational {font-family: serif; font-size: 40px; kerning: 2; stroke:none; fill:#000000;}
-.major {font-family: serif; font-size: 30px; kerning: 1; stroke:none; fill:#000000;}
+.transformational {font-family: serif; font-size: 45px; kerning: 2; stroke:none; fill:#000000;}
+.major {font-family: serif; font-size: 35px; kerning: 1; stroke:none; fill:#000000;}
 .semimajor {font-family: serif; font-size: 17px; kerning: 1; stroke:none; fill:#000000;}
 .minor {font-family: serif; font-size: 10px; kerning: 1; stroke:none; fill:#000000;}
 .petty {font-family: serif; font-size: 6px; kerning: 1; stroke:none; fill:#000000;}
@@ -87,7 +87,7 @@
 .queen 				{fill:purple;	fill-opacity:0.6}
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}
-.pharaoh			{fill:purple;	fill-opacity:0.9}
+.pharaoh			{fill:purple;	fill-opacity:0.8}
 .pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
 .praetor 			{fill:blue;		fill-opacity:0.4}
 .praetorianPrefect 	{fill:#C00000;	fill-opacity:1.0}
