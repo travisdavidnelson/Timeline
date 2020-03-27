@@ -1713,7 +1713,7 @@
                   "importance": "minor",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1705 BC",
@@ -1729,7 +1729,7 @@
                   "importance": "minor",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1700 BC",
@@ -1745,7 +1745,7 @@
                   "importance": "petty",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1685 BC",
@@ -1761,7 +1761,7 @@
                   "importance": "petty",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1660 BC",
@@ -1777,7 +1777,7 @@
                   "importance": "petty",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1640 BC",
@@ -1793,7 +1793,7 @@
                   "importance": "minor",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1590 BC",
@@ -1809,7 +1809,7 @@
                   "importance": "petty",
                   "titles": [
                     {
-                      "name": "kingMinor",
+                      "name": "king",
                       "timespan": {
                         "startApproximate": true,
                         "start": "1550 BC",
