@@ -1703,12 +1703,124 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Middle Kingdom III",
-          "dynasties": [
+            },
+            {
+              "name": "Egypt XV",
+              "people": [
+                {
+                  "name": "Salitis",
+                  "style": "hyksos",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1705 BC",
+                        "endApproximate": true,
+                        "end": "1695 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Semqen",
+                  "style": "hyksos",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1700 BC",
+                        "endApproximate": true,
+                        "end": "1690 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Aperanat",
+                  "style": "hyksos",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1685 BC",
+                        "endApproximate": true,
+                        "end": "1670 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sakir-Har",
+                  "style": "hyksos",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1660 BC",
+                        "endApproximate": true,
+                        "end": "1650 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khyan",
+                  "style": "hyksos",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1640 BC",
+                        "endApproximate": true,
+                        "end": "1630 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Apophis",
+                  "style": "hyksos",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1590 BC",
+                        "endApproximate": true,
+                        "end": "1550 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khamudi",
+                  "style": "hyksos",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "kingMinor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1550 BC",
+                        "endApproximate": true,
+                        "end": "1540 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "Egypt XVI",
               "people": [
