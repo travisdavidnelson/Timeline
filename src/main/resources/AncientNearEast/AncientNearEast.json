@@ -90,7 +90,7 @@
             "startApproximate": true,
             "start": "2055 BC",
             "endApproximate": true,
-            "end": "1650 BC"
+            "end": "1710 BC"
           },
           "style": "egyptMiddleKingdom"
         },
@@ -98,7 +98,7 @@
           "name": "Second Intermediate Period",
           "timespan": {
             "startApproximate": true,
-            "start": "1650 BC",
+            "start": "1710 BC",
             "endApproximate": true,
             "end": "1550 BC"
           },
@@ -1390,7 +1390,7 @@
                 },
                 {
                   "name": "Sonbef",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1406,7 +1406,7 @@
                 },
                 {
                   "name": "Sekhemkare",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1438,7 +1438,7 @@
                 },
                 {
                   "name": "Hotepibre",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1454,7 +1454,7 @@
                 },
                 {
                   "name": "Amenemhet VI",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1470,7 +1470,7 @@
                 },
                 {
                   "name": "Sedjefakare",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1485,8 +1485,24 @@
                   "style": "egyptian"
                 },
                 {
-                  "name": "Imyremeshaw",
+                  "name": "Userkare Khendjer",
                   "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1765 BC",
+                        "endApproximate": true,
+                        "end": "1759 BC"
+                      }
+                    }
+                  ],
+                  "style": "egyptian"
+                },
+                {
+                  "name": "Imyremeshaw",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1502,7 +1518,7 @@
                 },
                 {
                   "name": "Sehetepkare Intef",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1534,7 +1550,7 @@
                 },
                 {
                   "name": "Sobekhotep IV",
-                  "importance": "semimajor",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -1550,7 +1566,7 @@
                 },
                 {
                   "name": "Sobekhotep VI",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1566,7 +1582,7 @@
                 },
                 {
                   "name": "Wahibre Ibiau",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -1625,7 +1641,7 @@
                 {
                   "name": "Ya'ammu Nubwoserre",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1641,7 +1657,7 @@
                 {
                   "name": "Qareh Khawoserre",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1657,7 +1673,7 @@
                 {
                   "name": "Ammu Ahotepre",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
