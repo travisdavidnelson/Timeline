@@ -1258,7 +1258,7 @@
                 {
                   "name": "Senusret I",
                   "style": "egyptian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1274,7 +1274,7 @@
                 {
                   "name": "Amenemhat II",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1290,7 +1290,7 @@
                 {
                   "name": "Senusret II",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1322,7 +1322,7 @@
                 {
                   "name": "Amenemhat III",
                   "style": "egyptian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1338,7 +1338,7 @@
                 {
                   "name": "Amenemhat IV",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -1352,9 +1352,9 @@
                   ]
                 },
                 {
-                  "name": "Sobekneferu",
+                  "name": "Sobekneferu&#9792;",
                   "style": "egyptian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
