@@ -1763,7 +1763,7 @@
               ]
             },
             {
-              "name": "Egypt XV",
+              "name": "Egypt XV Hysos",
               "people": [
                 {
                   "name": "Salitis",
@@ -1883,7 +1883,7 @@
               "name": "Egypt XVI",
               "people": [
                 {
-                  "name": "Sekhemre-sementawi Djehuti",
+                  "name": "Djehuti",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1899,7 +1899,7 @@
                   ]
                 },
                 {
-                  "name": "Sekhemre-seusertawi Sobekhotep VIII",
+                  "name": "Sobekhotep VIII",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -1915,7 +1915,39 @@
                   ]
                 },
                 {
-                  "name": "Sewadjenre Nebiryraw I",
+                  "name": "Neferhotep III",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1629 BC",
+                        "endApproximate": true,
+                        "end": "1628 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mentuhotepi",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1628 BC",
+                        "endApproximate": true,
+                        "end": "1627 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebiryraw I",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
