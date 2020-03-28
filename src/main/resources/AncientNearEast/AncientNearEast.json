@@ -1701,6 +1701,64 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Nehesy",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1705 BC",
+                        "endApproximate": true,
+                        "end": "1704 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sehebre",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1704 BC",
+                        "endApproximate": true,
+                        "end": "1699 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Sewadjkare III",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "1y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nebdjefare",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "pharaoh",
+                      "timespan": {
+                        "duration": "3y"
+                      }
+                    }
+                  ]
                 }
               ]
             },
