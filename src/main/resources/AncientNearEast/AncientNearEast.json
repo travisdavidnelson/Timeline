@@ -39,14 +39,14 @@
       "major": 30,
       "semimajor": 15,
       "minor": 10,
-      "petty": 5
+      "petty": 6
     },
     "importanceXOffsets": {
       "transformational": 2,
       "major": 2,
       "semimajor": 2,
       "minor": 2,
-      "petty": 1
+      "petty": 0
     }
   },
   "backgroundEvents": [],
