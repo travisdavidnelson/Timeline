@@ -2058,7 +2058,7 @@
                 {
                   "name": "Amenhotep I",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -2072,7 +2072,7 @@
                 {
                   "name": "Thutmose I",
                   "style": "egyptian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -2086,7 +2086,7 @@
                 {
                   "name": "Thutmose II",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "pharaoh",
