@@ -2074,7 +2074,7 @@
                 {
                   "name": "Amenhotep I",
                   "style": "egyptian",
-                  "importance": "major",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -2144,7 +2144,7 @@
                 {
                   "name": "Amenhotep II",
                   "style": "egyptian",
-                  "importance": "major",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
@@ -2244,7 +2244,7 @@
                 {
                   "name": "Tutankhamun",
                   "style": "egyptian",
-                  "importance": "major",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
