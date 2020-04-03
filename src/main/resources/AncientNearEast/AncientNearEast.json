@@ -1979,7 +1979,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "New Kingdom I",
+          "dynasties": [
             {
               "name": "Egypt XVII",
               "people": [
@@ -2000,9 +2005,9 @@
                   ]
                 },
                 {
-                  "name": "Tao",
+                  "name": "Seqenenre Tao",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
@@ -2016,9 +2021,25 @@
                   ]
                 },
                 {
+                  "name": "Ahhotep I",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1560 BC",
+                        "endApproximate": true,
+                        "end": "1530 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Kamose",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
@@ -2032,12 +2053,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "New Kingdom I",
-          "dynasties": [
+            },
             {
               "name": "Egypt XVIII",
               "people": [

@@ -88,7 +88,7 @@ public class TimelineSvgBuilder {
 				addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
 				for (DynastyGroup series : channel.getDynastyGroups()) {
 					dynastyStart = channelStart;
-					getDynastyGroupSVG(series, foregroundStringBuilder);
+					getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
 				}
 				for (TimelineEvent backgroundEvent : channel.getBackgroundEvents()) {
 					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
@@ -135,14 +135,16 @@ public class TimelineSvgBuilder {
 		}
 		return svg;
 	}
-	public void getDynastyGroupSVG(DynastyGroup dynastyGroup, StringBuilder stringBuilder) {
+	public void getDynastyGroupSVG(DynastyGroup dynastyGroup, StringBuilder foregroundStringBuilder,
+								   StringBuilder backgroundStringBuilder) {
 		lastPersonInGroup = null;
 		nextPersonYStart = dynastyStart;
 		for (Dynasty dynasty : dynastyGroup.getDynasties()) {
-			getDynastySVG(dynasty, stringBuilder);
+			getDynastySVG(dynasty, foregroundStringBuilder, backgroundStringBuilder);
 		}
 	}
-	public void getDynastySVG(Dynasty dynasty, StringBuilder stringBuilder) {
+	public void getDynastySVG(Dynasty dynasty, StringBuilder foregroundStringBuilder,
+							  StringBuilder backgroundStringBuilder) {
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
 		TimelineInstant headerInstant = dynasty.getHeaderStart();
@@ -162,10 +164,13 @@ public class TimelineSvgBuilder {
 			if (lifetime.getStyle() != null) {
 				backgroundStyle = lifetime.getStyle();
 			}
-			getPersonSVG(lifetime, backgroundStyle, null, stringBuilder);
+			getPersonSVG(lifetime, backgroundStyle, null, foregroundStringBuilder);
 		}
 		int textXStart = instantToX(headerInstant);
-		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", stringBuilder);
+		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", foregroundStringBuilder);
+		if (dynasty.getStyle() != null) {
+
+		}
 	}
 	public void getPersonSVG(Person person, String styleClass, String styleOverride, StringBuilder stringBuilder) {
 		System.out.println("  adding lifetime "+person);
