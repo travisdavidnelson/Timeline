@@ -30,14 +30,14 @@
     "importanceHeights": {
       "transformational": 50,
       "major": 40,
-      "semimajor": 20,
+      "semimajor": 25,
       "minor": 15,
       "petty": 8
     },
     "importanceYOffsets": {
       "transformational": 36,
       "major": 30,
-      "semimajor": 15,
+      "semimajor": 19,
       "minor": 10,
       "petty": 6
     },
