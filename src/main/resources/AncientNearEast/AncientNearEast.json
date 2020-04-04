@@ -2133,6 +2133,13 @@
                   "importance": "major",
                   "titles": [
                     {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "1485 BC",
+                        "end": "1479 BC"
+                      }
+                    },
+                    {
                       "name": "pharaoh",
                       "timespan": {
                         "start": "1479 BC",
@@ -2149,7 +2156,7 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "start": "1458 BC",
+                        "start": "1479 BC",
                         "end": "1425 BC"
                       }
                     }
