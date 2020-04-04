@@ -2072,6 +2072,20 @@
                   ]
                 },
                 {
+                  "name": "Ahmose-Nefertari&#9792;",
+                  "style": "egyptian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "1540 BC",
+                        "end": "1510 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Amenhotep I",
                   "style": "egyptian",
                   "importance": "semimajor",
