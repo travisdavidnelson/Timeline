@@ -2203,7 +2203,12 @@
                       }
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "name": "Egypt XVIII Amarna",
+              "people": [
                 {
                   "name": "Akhenaten",
                   "style": "egyptian",
@@ -2219,23 +2224,7 @@
                   ]
                 },
                 {
-                  "name": "Nefertiti&#9792;",
-                  "style": "egyptian",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "queen",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1353 BC",
-                        "endApproximate": true,
-                        "end": "1330 BC"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "Ankhkheperure",
+                  "name": "Smenkhkare",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -2249,14 +2238,16 @@
                   ]
                 },
                 {
-                  "name": "Ankhkheperure",
+                  "name": "Nefertiti&#9792;",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
-                      "name": "pharaoh",
+                      "name": "queen",
                       "timespan": {
+                        "startApproximate": true,
                         "start": "1334 BC",
+                        "endApproximate": true,
                         "end": "1332 BC"
                       }
                     }
@@ -2277,7 +2268,7 @@
                   ]
                 },
                 {
-                  "name": "Kheperkheperure",
+                  "name": "Ay",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
@@ -2291,7 +2282,7 @@
                   ]
                 },
                 {
-                  "name": "Djeserheperure-Setepenre",
+                  "name": "Horemheb",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
