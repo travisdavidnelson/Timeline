@@ -2224,6 +2224,20 @@
                   ]
                 },
                 {
+                  "name": "Nefertiti&#9792;",
+                  "style": "egyptian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "1351 BC",
+                        "end": "1332 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Smenkhkare",
                   "style": "egyptian",
                   "importance": "minor",
@@ -2238,22 +2252,6 @@
                   ]
                 },
                 {
-                  "name": "Nefertiti&#9792;",
-                  "style": "egyptian",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "queen",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "1334 BC",
-                        "endApproximate": true,
-                        "end": "1332 BC"
-                      }
-                    }
-                  ]
-                },
-                {
                   "name": "Tutankhamun",
                   "style": "egyptian",
                   "importance": "semimajor",
@@ -2261,8 +2259,8 @@
                     {
                       "name": "pharaoh",
                       "timespan": {
-                        "start": "1332 BC",
-                        "end": "1323 BC"
+                        "start": "1334 BC",
+                        "end": "1325 BC"
                       }
                     }
                   ]
