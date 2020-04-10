@@ -2232,6 +2232,7 @@
                       "name": "queen",
                       "timespan": {
                         "start": "1351 BC",
+                        "endApproximate": true,
                         "end": "1332 BC"
                       }
                     }

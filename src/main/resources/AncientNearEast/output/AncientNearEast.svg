@@ -1227,7 +1227,7 @@
 
 <text x="5953" y="314" class="dynasty">EGYPT XVIII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Akhenaten" target="_blank"><rect id="Akhenaten" x="6547" y="836" width="51" height="40" class="footprint"/><rect id="Akhenaten" x="6547" y="836" width="51" height="40" class="egyptian"/><rect x="6547" y="836" width="51" height="40" class="pharaoh"/>
 <text x="6549" y="866" class="major">AKHENATEN</text><title>Akhenaten (1351 BC - 1334 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Nefertiti&#9792;" target="_blank"><rect id="Nefertiti&#9792;" x="6547" y="886" width="57" height="40" class="footprint"/><rect id="Nefertiti&#9792;" x="6547" y="886" width="57" height="40" class="egyptian"/><rect x="6547" y="886" width="57" height="40" class="queen"/>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Nefertiti&#9792;" target="_blank"><rect id="Nefertiti&#9792;" x="6547" y="886" width="57" height="40" class="footprint"/><rect id="Nefertiti&#9792;" x="6547" y="886" width="57" height="40" class="egyptian"/><rect x="6547" y="886" width="63" height="40" class="queen""  mask="url(#fadeOutMask)"/>
 <text x="6549" y="916" class="major">NEFERTITI&#9792;</text><title>Nefertiti&#9792; (1351 BC - 1332 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Smenkhkare" target="_blank"><rect id="Smenkhkare" x="6595" y="936" width="3" height="15" class="footprint"/><rect id="Smenkhkare" x="6595" y="936" width="3" height="15" class="egyptian"/><rect x="6595" y="936" width="3" height="15" class="pharaoh"/>
 <text x="6597" y="947" class="minor">SMENKHKARE</text><title>Smenkhkare (1335 BC - 1334 BC)</title></a></g>
