@@ -42,10 +42,10 @@
       "petty": 6
     },
     "importanceXOffsets": {
-      "transformational": 2,
-      "major": 2,
+      "transformational": 4,
+      "major": 3,
       "semimajor": 2,
-      "minor": 2,
+      "minor": 1,
       "petty": 0
     }
   },
