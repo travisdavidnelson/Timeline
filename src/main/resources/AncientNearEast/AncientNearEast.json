@@ -2299,7 +2299,7 @@
                 {
                   "name": "Horemheb",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
