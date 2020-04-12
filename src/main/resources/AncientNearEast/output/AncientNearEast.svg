@@ -1261,24 +1261,24 @@
 
 <text x="6724" y="112" class="dynasty">EGYPT XIX</text><g><a xlink:href="http://en.wikipedia.org/wiki/Setnakhte" target="_blank"><rect id="Setnakhte" x="7033" y="509" width="9" height="25" class="footprint"/><rect id="Setnakhte" x="7033" y="509" width="9" height="25" class="egyptian"/><rect x="7033" y="509" width="9" height="25" class="king"/>
 <text x="7035" y="528" class="semimajor">SETNAKHTE</text><title>Setnakhte (1189 BC - 1186 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_III" target="_blank"><rect id="Ramesses_III" x="7042" y="544" width="93" height="25" class="footprint"/><rect id="Ramesses_III" x="7042" y="544" width="93" height="25" class="egyptian"/><rect x="7042" y="544" width="93" height="25" class="king"/>
-<text x="7044" y="563" class="semimajor">RAMESSES III</text><title>Ramesses III (1186 BC - 1155 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_IV" target="_blank"><rect id="Ramesses_IV" x="7135" y="579" width="18" height="15" class="footprint"/><rect id="Ramesses_IV" x="7135" y="579" width="18" height="15" class="egyptian"/><rect x="7135" y="579" width="18" height="15" class="king"/>
-<text x="7136" y="590" class="minor">RAMESSES IV</text><title>Ramesses IV (1155 BC - 1149 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_V" target="_blank"><rect id="Ramesses_V" x="7153" y="604" width="12" height="15" class="footprint"/><rect id="Ramesses_V" x="7153" y="604" width="12" height="15" class="egyptian"/><rect x="7153" y="604" width="12" height="15" class="king"/>
-<text x="7154" y="615" class="minor">RAMESSES V</text><title>Ramesses V (1149 BC - 1145 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VI" target="_blank"><rect id="Ramesses_VI" x="7165" y="629" width="24" height="15" class="footprint"/><rect id="Ramesses_VI" x="7165" y="629" width="24" height="15" class="egyptian"/><rect x="7165" y="629" width="24" height="15" class="king"/>
-<text x="7166" y="640" class="minor">RAMESSES VI</text><title>Ramesses VI (1145 BC - 1137 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VII" target="_blank"><rect id="Ramesses_VII" x="7192" y="654" width="21" height="15" class="footprint"/><rect id="Ramesses_VII" x="7192" y="654" width="21" height="15" class="egyptian"/><rect x="7192" y="654" width="21" height="15" class="king"/>
-<text x="7193" y="665" class="minor">RAMESSES VII</text><title>Ramesses VII (1136 BC - 1129 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VIII" target="_blank"><rect id="Ramesses_VIII" x="7210" y="679" width="3" height="15" class="footprint"/><rect id="Ramesses_VIII" x="7210" y="679" width="3" height="15" class="egyptian"/><rect x="7210" y="679" width="3" height="15" class="king"/>
-<text x="7211" y="690" class="minor">RAMESSES VIII</text><title>Ramesses VIII (1130 BC - 1129 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_IX" target="_blank"><rect id="Ramesses_IX" x="7213" y="704" width="54" height="15" class="footprint"/><rect id="Ramesses_IX" x="7213" y="704" width="54" height="15" class="egyptian"/><rect x="7213" y="704" width="54" height="15" class="king"/>
-<text x="7214" y="715" class="minor">RAMESSES IX</text><title>Ramesses IX (1129 BC - 1111 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_X" target="_blank"><rect id="Ramesses_X" x="7267" y="729" width="12" height="25" class="footprint"/><rect id="Ramesses_X" x="7267" y="729" width="12" height="25" class="egyptian"/><rect x="7267" y="729" width="12" height="25" class="king"/>
-<text x="7269" y="748" class="semimajor">RAMESSES X</text><title>Ramesses X (1111 BC - 1107 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_XI" target="_blank"><rect id="Ramesses_XI" x="7279" y="764" width="90" height="25" class="footprint"/><rect id="Ramesses_XI" x="7279" y="764" width="90" height="25" class="egyptian"/><rect x="7279" y="764" width="90" height="25" class="king"/>
-<text x="7281" y="783" class="semimajor">RAMESSES XI</text><title>Ramesses XI (1107 BC - 1077 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_III" target="_blank"><rect id="Ramesses_III" x="7042" y="544" width="93" height="40" class="footprint"/><rect id="Ramesses_III" x="7042" y="544" width="93" height="40" class="egyptian"/><rect x="7042" y="544" width="93" height="40" class="king"/>
+<text x="7045" y="574" class="major">RAMESSES III</text><title>Ramesses III (1186 BC - 1155 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_IV" target="_blank"><rect id="Ramesses_IV" x="7135" y="594" width="18" height="15" class="footprint"/><rect id="Ramesses_IV" x="7135" y="594" width="18" height="15" class="egyptian"/><rect x="7135" y="594" width="18" height="15" class="king"/>
+<text x="7136" y="605" class="minor">RAMESSES IV</text><title>Ramesses IV (1155 BC - 1149 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_V" target="_blank"><rect id="Ramesses_V" x="7153" y="619" width="12" height="15" class="footprint"/><rect id="Ramesses_V" x="7153" y="619" width="12" height="15" class="egyptian"/><rect x="7153" y="619" width="12" height="15" class="king"/>
+<text x="7154" y="630" class="minor">RAMESSES V</text><title>Ramesses V (1149 BC - 1145 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VI" target="_blank"><rect id="Ramesses_VI" x="7165" y="644" width="24" height="15" class="footprint"/><rect id="Ramesses_VI" x="7165" y="644" width="24" height="15" class="egyptian"/><rect x="7165" y="644" width="24" height="15" class="king"/>
+<text x="7166" y="655" class="minor">RAMESSES VI</text><title>Ramesses VI (1145 BC - 1137 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VII" target="_blank"><rect id="Ramesses_VII" x="7192" y="669" width="21" height="15" class="footprint"/><rect id="Ramesses_VII" x="7192" y="669" width="21" height="15" class="egyptian"/><rect x="7192" y="669" width="21" height="15" class="king"/>
+<text x="7193" y="680" class="minor">RAMESSES VII</text><title>Ramesses VII (1136 BC - 1129 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_VIII" target="_blank"><rect id="Ramesses_VIII" x="7210" y="694" width="3" height="15" class="footprint"/><rect id="Ramesses_VIII" x="7210" y="694" width="3" height="15" class="egyptian"/><rect x="7210" y="694" width="3" height="15" class="king"/>
+<text x="7211" y="705" class="minor">RAMESSES VIII</text><title>Ramesses VIII (1130 BC - 1129 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_IX" target="_blank"><rect id="Ramesses_IX" x="7213" y="719" width="54" height="15" class="footprint"/><rect id="Ramesses_IX" x="7213" y="719" width="54" height="15" class="egyptian"/><rect x="7213" y="719" width="54" height="15" class="king"/>
+<text x="7214" y="730" class="minor">RAMESSES IX</text><title>Ramesses IX (1129 BC - 1111 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_X" target="_blank"><rect id="Ramesses_X" x="7267" y="744" width="12" height="25" class="footprint"/><rect id="Ramesses_X" x="7267" y="744" width="12" height="25" class="egyptian"/><rect x="7267" y="744" width="12" height="25" class="king"/>
+<text x="7269" y="763" class="semimajor">RAMESSES X</text><title>Ramesses X (1111 BC - 1107 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ramesses_XI" target="_blank"><rect id="Ramesses_XI" x="7279" y="779" width="90" height="25" class="footprint"/><rect id="Ramesses_XI" x="7279" y="779" width="90" height="25" class="egyptian"/><rect x="7279" y="779" width="90" height="25" class="king"/>
+<text x="7281" y="798" class="semimajor">RAMESSES XI</text><title>Ramesses XI (1107 BC - 1077 BC)</title></a></g>
 
 <text x="7033" y="499" class="dynasty">EGYPT XX</text><g><a xlink:href="http://en.wikipedia.org/wiki/Smendes" target="_blank"><rect id="Smendes" x="7369" y="122" width="78" height="15" class="footprint"/><rect id="Smendes" x="7369" y="122" width="78" height="15" class="egyptian"/><rect x="7369" y="122" width="78" height="15" class="king"/>
 <text x="7370" y="133" class="minor">SMENDES</text><title>Smendes (1077 BC - 1051 BC)</title></a></g>
