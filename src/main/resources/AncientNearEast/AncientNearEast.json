@@ -2409,13 +2409,29 @@
                 {
                   "name": "Amenmesse",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "pharaoh",
                       "timespan": {
                         "start": "1201 BC",
                         "end": "1198 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Bay",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "chancellor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1200 BC",
+                        "endApproximate": true,
+                        "end": "1191 BC"
                       }
                     }
                   ]
@@ -2435,10 +2451,17 @@
                   ]
                 },
                 {
-                  "name": "Twosret",
+                  "name": "Twosret&#9792;",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "1197 BC",
+                        "end": "1191 BC"
+                      }
+                    },
                     {
                       "name": "pharaoh",
                       "timespan": {
