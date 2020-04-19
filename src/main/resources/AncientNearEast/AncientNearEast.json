@@ -2885,6 +2885,179 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "High Priests of Amun at Thebes",
+              "people": [
+                {
+                  "name": "Pinedjem I",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "1070 BC",
+                        "end": "1032 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Masaharta",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "1054 BC",
+                        "end": "1045 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Djedkhonsuefankh",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "1046 BC",
+                        "end": "1045 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Menkheperre",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "1045 BC",
+                        "end": "992 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Smendes II",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "992 BC",
+                        "end": "990 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Pinedjem II",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "990 BC",
+                        "end": "969 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psusennes III",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "976 BC",
+                        "end": "943 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Iuput",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "944 BC",
+                        "end": "924 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Harsiese B",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "874 BC",
+                        "end": "860 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nimlot C",
+                  "style": "egyptian",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "855 BC",
+                        "end": "845 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Takelot F",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "845 BC",
+                        "end": "840 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Osorkon B",
+                  "style": "egyptian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "highPriest",
+                      "timespan": {
+                        "start": "840 BC",
+                        "end": "785 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
