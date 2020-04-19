@@ -2995,7 +2995,7 @@
                 {
                   "name": "Rudamun",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -3009,7 +3009,7 @@
                 {
                   "name": "Ini",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -3031,7 +3031,7 @@
               "name": "Egypt XXIV",
               "people": [
                 {
-                  "name": "Ini",
+                  "name": "Tefnakht I",
                   "style": "egyptian",
                   "importance": "minor",
                   "titles": [
