@@ -2625,7 +2625,7 @@
           "name": "Third Intermediate Period I",
           "dynasties": [
             {
-              "name": "Egypt XXI",
+              "name": "Egypt XXI Tanis",
               "people": [
                 {
                   "name": "Smendes",
@@ -2644,7 +2644,7 @@
                 {
                   "name": "Amenemnisu",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -2672,7 +2672,7 @@
                 {
                   "name": "Amenemope",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
