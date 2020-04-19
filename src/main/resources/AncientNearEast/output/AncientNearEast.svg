@@ -1346,14 +1346,14 @@
 
 <text x="8404" y="112" class="dynasty">EGYPT XXIV</text><g><a xlink:href="http://en.wikipedia.org/wiki/Piye" target="_blank"><rect id="Piye" x="8368" y="244" width="90" height="15" class="footprint"/><rect id="Piye" x="8368" y="244" width="90" height="15" class="egyptian"/><rect x="8362" y="244" width="96" height="15" class="king""  mask="url(#fadeInMask)"/>
 <text x="8369" y="255" class="minor">PIYE</text><title>Piye (744 BC - 714 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Shebitku" target="_blank"><rect id="Shebitku" x="8458" y="269" width="27" height="15" class="footprint"/><rect id="Shebitku" x="8458" y="269" width="27" height="15" class="egyptian"/><rect x="8458" y="269" width="27" height="15" class="king"/>
-<text x="8459" y="280" class="minor">SHEBITKU</text><title>Shebitku (714 BC - 705 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Shabaka" target="_blank"><rect id="Shabaka" x="8485" y="294" width="45" height="15" class="footprint"/><rect id="Shabaka" x="8485" y="294" width="45" height="15" class="egyptian"/><rect x="8485" y="294" width="45" height="15" class="king"/>
-<text x="8486" y="305" class="minor">SHABAKA</text><title>Shabaka (705 BC - 690 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Taharqa" target="_blank"><rect id="Taharqa" x="8530" y="319" width="78" height="15" class="footprint"/><rect id="Taharqa" x="8530" y="319" width="78" height="15" class="egyptian"/><rect x="8530" y="319" width="78" height="15" class="king"/>
-<text x="8531" y="330" class="minor">TAHARQA</text><title>Taharqa (690 BC - 664 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tantamani" target="_blank"><rect id="Tantamani" x="8608" y="344" width="24" height="15" class="footprint"/><rect id="Tantamani" x="8608" y="344" width="24" height="15" class="egyptian"/><rect x="8608" y="344" width="24" height="15" class="king"/>
-<text x="8609" y="355" class="minor">TANTAMANI</text><title>Tantamani (664 BC - 656 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shebitku" target="_blank"><rect id="Shebitku" x="8458" y="269" width="27" height="8" class="footprint"/><rect id="Shebitku" x="8458" y="269" width="27" height="8" class="egyptian"/><rect x="8458" y="269" width="27" height="8" class="king"/>
+<text x="8458" y="275" class="petty">SHEBITKU</text><title>Shebitku (714 BC - 705 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shabaka" target="_blank"><rect id="Shabaka" x="8485" y="287" width="45" height="15" class="footprint"/><rect id="Shabaka" x="8485" y="287" width="45" height="15" class="egyptian"/><rect x="8485" y="287" width="45" height="15" class="king"/>
+<text x="8486" y="298" class="minor">SHABAKA</text><title>Shabaka (705 BC - 690 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Taharqa" target="_blank"><rect id="Taharqa" x="8530" y="312" width="78" height="8" class="footprint"/><rect id="Taharqa" x="8530" y="312" width="78" height="8" class="egyptian"/><rect x="8530" y="312" width="78" height="8" class="king"/>
+<text x="8530" y="318" class="petty">TAHARQA</text><title>Taharqa (690 BC - 664 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tantamani" target="_blank"><rect id="Tantamani" x="8608" y="330" width="24" height="15" class="footprint"/><rect id="Tantamani" x="8608" y="330" width="24" height="15" class="egyptian"/><rect x="8608" y="330" width="24" height="15" class="king"/>
+<text x="8609" y="341" class="minor">TANTAMANI</text><title>Tantamani (664 BC - 656 BC)</title></a></g>
 
 <text x="8368" y="234" class="dynasty">EGYPT XXV</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="footprint"/><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="egyptian"/><rect x="9388" y="122" width="17" height="25" class="king"/>
 <text x="9390" y="141" class="semimajor">AMYRTAEUS</text><title>Amyrtaeus (404 BC - 10/399 BC)</title></a></g>
