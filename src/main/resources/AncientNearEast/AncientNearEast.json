@@ -3238,8 +3238,8 @@
               "people": [
                 {
                   "name": "Piye",
-                  "style": "egyptian",
-                  "importance": "minor",
+                  "style": "kushite",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
@@ -3253,8 +3253,8 @@
                 },
                 {
                   "name": "Shebitku",
-                  "style": "egyptian",
-                  "importance": "petty",
+                  "style": "kushite",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -3267,7 +3267,7 @@
                 },
                 {
                   "name": "Shabaka",
-                  "style": "egyptian",
+                  "style": "kushite",
                   "importance": "minor",
                   "titles": [
                     {
@@ -3281,8 +3281,8 @@
                 },
                 {
                   "name": "Taharqa",
-                  "style": "egyptian",
-                  "importance": "petty",
+                  "style": "kushite",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -3295,7 +3295,7 @@
                 },
                 {
                   "name": "Tantamani",
-                  "style": "egyptian",
+                  "style": "kushite",
                   "importance": "minor",
                   "titles": [
                     {
