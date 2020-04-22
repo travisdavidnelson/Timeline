@@ -119,26 +119,25 @@
           "timespan": {
             "startApproximate": true,
             "start": "1069 BC",
-            "endApproximate": true,
-            "end": "664 BC"
+            "end": "711 BC"
           },
           "style": "egyptThirdIntermediate"
         },
         {
-          "name": "Neo-Assyria",
+          "name": "Nubian Egypt",
           "timespan": {
-            "start": "671 BC",
-            "end": "652 BC"
+            "start": "711 BC",
+            "end": "656 BC"
           },
-          "style": "neoassyria"
+          "style": "nubian"
         },
         {
-          "name": "Neo-Babylonia",
+          "name": "Neo-Assyria",
           "timespan": {
-            "start": "612 BC",
-            "end": "539 BC"
+            "start": "656 BC",
+            "end": "626 BC"
           },
-          "style": "neobabylon"
+          "style": "neoassyria"
         },
         {
           "name": "Achaemenid Empire",
@@ -3234,7 +3233,7 @@
               ]
             },
             {
-              "name": "Egypt XXV Nubians",
+              "name": "Egypt XXV Nubian",
               "people": [
                 {
                   "name": "Piye",
@@ -3268,7 +3267,7 @@
                 {
                   "name": "Shabaka",
                   "style": "nubian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
@@ -3303,6 +3302,109 @@
                       "timespan": {
                         "start": "664 BC",
                         "end": "656 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Egypt XXVI Assyrian",
+              "people": [
+                {
+                  "name": "Necho I",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "672 BC",
+                        "end": "664 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psamtik I",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "664 BC",
+                        "end": "610 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Necho II",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "610 BC",
+                        "end": "595 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psamtik II",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "595 BC",
+                        "end": "589 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Apries",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "589 BC",
+                        "end": "570 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Amasis II",
+                  "style": "assyrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "570 BC",
+                        "end": "526 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psamtik III",
+                  "style": "assyrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "526 BC",
+                        "end": "525 BC"
                       }
                     }
                   ]
