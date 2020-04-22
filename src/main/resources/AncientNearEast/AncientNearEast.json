@@ -3234,11 +3234,11 @@
               ]
             },
             {
-              "name": "Egypt XXV",
+              "name": "Egypt XXV Nubians",
               "people": [
                 {
                   "name": "Piye",
-                  "style": "kushite",
+                  "style": "nubian",
                   "importance": "semimajor",
                   "titles": [
                     {
@@ -3253,7 +3253,7 @@
                 },
                 {
                   "name": "Shebitku",
-                  "style": "kushite",
+                  "style": "nubian",
                   "importance": "minor",
                   "titles": [
                     {
@@ -3267,7 +3267,7 @@
                 },
                 {
                   "name": "Shabaka",
-                  "style": "kushite",
+                  "style": "nubian",
                   "importance": "minor",
                   "titles": [
                     {
@@ -3281,7 +3281,7 @@
                 },
                 {
                   "name": "Taharqa",
-                  "style": "kushite",
+                  "style": "nubian",
                   "importance": "minor",
                   "titles": [
                     {
@@ -3295,7 +3295,7 @@
                 },
                 {
                   "name": "Tantamani",
-                  "style": "kushite",
+                  "style": "nubian",
                   "importance": "minor",
                   "titles": [
                     {
