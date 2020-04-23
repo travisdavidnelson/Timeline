@@ -34,7 +34,7 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Third_Intermediate_Period" target="_blank"><rect id="Third_Intermediate_Period" x="7378" y="50" width="1089" height="1086" class="egyptThirdIntermediate""  mask="url(#fadeInMask)"/><title>Third Intermediate Period (c. 1069 BC - 711 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Nubian_Egypt" target="_blank"><rect id="Nubian_Egypt" x="8467" y="50" width="120" height="1086" class="nubian"/><title>Nubian Egypt (711 BC - 671 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Assyria" target="_blank"><rect id="Neo-Assyria" x="8587" y="50" width="54" height="1086" class="neoassyria"/><title>Neo-Assyria (671 BC - 653 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_thebes" target="_blank"><rect id="Sack_of_thebes" x="8611" y="50" width="1" height="1086" class="backgroundInvasion"/><title>Sack of thebes (663 BC - 663 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_thebes" target="_blank"><rect id="Sack_of_thebes" x="8608" y="50" width="3" height="1086" class="backgroundInvasion"/><title>Sack of thebes (664 BC - 663 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Egypt_Late_Period" target="_blank"><rect id="Egypt_Late_Period" x="8641" y="50" width="384" height="1086" class="egyptLatePeriod"/><title>Egypt Late Period (653 BC - 525 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Achaemenid_Empire" target="_blank"><rect id="Achaemenid_Empire" x="9025" y="50" width="363" height="1086" class="achaemenid"/><title>Achaemenid Empire (525 BC - 404 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Egypt_Late_Period" target="_blank"><rect id="Egypt_Late_Period" x="9388" y="50" width="183" height="1086" class="egyptLatePeriod"/><title>Egypt Late Period (404 BC - 343 BC)</title></a></g>
@@ -1382,7 +1382,7 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Tantamani" target="_blank"><rect id="Tantamani" x="8608" y="364" width="24" height="15" class="footprint"/><rect id="Tantamani" x="8608" y="364" width="24" height="15" class="nubian"/><rect x="8608" y="364" width="24" height="15" class="king"/>
 <text x="8609" y="375" class="minor">TANTAMANI</text><title>Tantamani (664 BC - 656 BC)</title></a></g>
 
-<text x="8368" y="234" class="dynasty">EGYPT XXV NUBIAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Necho_I" target="_blank"><rect id="Necho_I" x="8584" y="461" width="24" height="25" class="footprint"/><rect id="Necho_I" x="8584" y="461" width="24" height="25" class="assyrian"/><rect x="8584" y="461" width="24" height="25" class="king"/>
+<text x="8368" y="234" class="dynasty">EGYPT XXV NUBIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Necho_I" target="_blank"><rect id="Necho_I" x="8584" y="461" width="24" height="25" class="footprint"/><rect id="Necho_I" x="8584" y="461" width="24" height="25" class="assyrian"/><rect x="8584" y="461" width="24" height="25" class="king"/>
 <text x="8586" y="480" class="semimajor">NECHO I</text><title>Necho I (672 BC - 664 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Psamtik_I" target="_blank"><rect id="Psamtik_I" x="8608" y="496" width="162" height="25" class="footprint"/><rect id="Psamtik_I" x="8608" y="496" width="162" height="25" class="assyrian"/><rect x="8608" y="496" width="162" height="25" class="king"/>
 <text x="8610" y="515" class="semimajor">PSAMTIK I</text><title>Psamtik I (664 BC - 610 BC)</title></a></g>
@@ -1397,7 +1397,7 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Psamtik_III" target="_blank"><rect id="Psamtik_III" x="9022" y="661" width="3" height="15" class="footprint"/><rect id="Psamtik_III" x="9022" y="661" width="3" height="15" class="assyrian"/><rect x="9022" y="661" width="3" height="15" class="king"/>
 <text x="9023" y="672" class="minor">PSAMTIK III</text><title>Psamtik III (526 BC - 525 BC)</title></a></g>
 
-<text x="8584" y="451" class="dynasty">EGYPT XXVI ASSYRIAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="footprint"/><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="egyptian"/><rect x="9388" y="122" width="17" height="25" class="king"/>
+<text x="8584" y="451" class="dynasty">EGYPT XXVI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyrtaeus" target="_blank"><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="footprint"/><rect id="Amyrtaeus" x="9388" y="122" width="17" height="25" class="egyptian"/><rect x="9388" y="122" width="17" height="25" class="king"/>
 <text x="9390" y="141" class="semimajor">AMYRTAEUS</text><title>Amyrtaeus (404 BC - 10/399 BC)</title></a></g>
 
 <text x="9388" y="112" class="dynasty">EGYPT XXVIII</text><g><a xlink:href="http://en.wikipedia.org/wiki/Nepherites_I" target="_blank"><rect id="Nepherites_I" x="9403" y="229" width="18" height="25" class="footprint"/><rect id="Nepherites_I" x="9403" y="229" width="18" height="25" class="egyptian"/><rect x="9403" y="229" width="18" height="25" class="king"/>

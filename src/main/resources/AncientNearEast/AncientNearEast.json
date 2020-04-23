@@ -142,7 +142,7 @@
         {
           "name": "Sack of thebes",
           "timespan": {
-            "start": "663 BC",
+            "start": "664 BC",
             "end": "663 BC"
           },
           "style": "backgroundInvasion"
@@ -3249,7 +3249,7 @@
               ]
             },
             {
-              "name": "Egypt XXV Nubian",
+              "name": "Egypt XXV Nubia",
               "people": [
                 {
                   "name": "Piye",
@@ -3325,7 +3325,7 @@
               ]
             },
             {
-              "name": "Egypt XXVI Assyrian",
+              "name": "Egypt XXVI",
               "people": [
                 {
                   "name": "Necho I",
