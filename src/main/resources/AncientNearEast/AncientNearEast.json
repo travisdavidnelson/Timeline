@@ -127,17 +127,33 @@
           "name": "Nubian Egypt",
           "timespan": {
             "start": "711 BC",
-            "end": "656 BC"
+            "end": "671 BC"
           },
           "style": "nubian"
         },
         {
           "name": "Neo-Assyria",
           "timespan": {
-            "start": "656 BC",
-            "end": "626 BC"
+            "start": "671 BC",
+            "end": "653 BC"
           },
           "style": "neoassyria"
+        },
+        {
+          "name": "Sack of thebes",
+          "timespan": {
+            "start": "663 BC",
+            "end": "663 BC"
+          },
+          "style": "backgroundInvasion"
+        },
+        {
+          "name": "Egypt Late Period",
+          "timespan": {
+            "start": "653 BC",
+            "end": "525 BC"
+          },
+          "style": "egyptLatePeriod"
         },
         {
           "name": "Achaemenid Empire",
