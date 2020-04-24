@@ -172,6 +172,14 @@
           "style": "egyptLatePeriod"
         },
         {
+          "name": "Ballte of Pelusium",
+          "timespan": {
+            "start": "343 BC",
+            "end": "343 BC"
+          },
+          "style": "backgroundInvasion"
+        },
+        {
           "name": "Achaemenid Empire",
           "timespan": {
             "start": "343 BC",
