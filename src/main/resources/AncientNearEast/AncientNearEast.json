@@ -3438,8 +3438,57 @@
           ]
         },
         {
-          "name": "Late Period II",
+          "name": "Achaemenid Egypt",
           "dynasties": [
+            {
+              "name": "Achaemenid Satrapy",
+              "people": [
+                {
+                  "name": "Petubastis III",
+                  "importance": "minor",
+                  "style": "egyptian",
+                  "titles": [
+                    {
+                      "name": "rebel",
+                      "timespan": {
+                        "start": "522 BC",
+                        "end": "520 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Psmtik IV",
+                  "importance": "minor",
+                  "style": "egyptian",
+                  "titles": [
+                    {
+                      "name": "rebel",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "489 BC",
+                        "endApproximate": true,
+                        "end": "480 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Khababash",
+                  "importance": "minor",
+                  "style": "egyptian",
+                  "titles": [
+                    {
+                      "name": "rebel",
+                      "timespan": {
+                        "start": "338 BC",
+                        "end": "335 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "Egypt XXVIII",
               "people": [
