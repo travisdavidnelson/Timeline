@@ -186,6 +186,14 @@
             "end": "332 BC"
           },
           "style": "achaemenid"
+        },
+        {
+          "name": "Macedonian Empire",
+          "timespan": {
+            "start": "332 BC",
+            "end": "323 BC"
+          },
+          "style": "macedon"
         }
       ],
       "dynastyGroups": [
@@ -3729,6 +3737,14 @@
             "end": "330 BC"
           },
           "style": "achaemenid"
+        },
+        {
+          "name": "Macedonian Empire",
+          "timespan": {
+            "start": "330 BC",
+            "end": "323 BC"
+          },
+          "style": "macedon"
         }
       ],
       "dynastyGroups": [
@@ -6139,6 +6155,14 @@
             "end": "330 BC"
           },
           "style": "achaemenid"
+        },
+        {
+          "name": "Macedonian Empire",
+          "timespan": {
+            "start": "330 BC",
+            "end": "323 BC"
+          },
+          "style": "macedon"
         }
       ],
       "dynastyGroups": [
@@ -7341,6 +7365,14 @@
             "end": "330 BC"
           },
           "style": "achaemenid"
+        },
+        {
+          "name": "Macedonian Empire",
+          "timespan": {
+            "start": "330 BC",
+            "end": "323 BC"
+          },
+          "style": "macedon"
         }
       ],
       "dynastyGroups": [
@@ -8410,6 +8442,14 @@
             "end": "330 BC"
           },
           "style": "achaemenid"
+        },
+        {
+          "name": "Macedonian Empire",
+          "timespan": {
+            "start": "330 BC",
+            "end": "323 BC"
+          },
+          "style": "macedon"
         }
       ],
       "dynastyGroups": [
