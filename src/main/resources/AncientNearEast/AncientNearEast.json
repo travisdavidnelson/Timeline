@@ -3590,7 +3590,7 @@
                       "name": "king",
                       "timespan": {
                         "start": "380 BC",
-                        "end": "362  BC"
+                        "end": "362 BC"
                       }
                     }
                   ],
@@ -3604,7 +3604,7 @@
                       "name": "king",
                       "timespan": {
                         "start": "362 BC",
-                        "end": "360  BC"
+                        "end": "360 BC"
                       }
                     }
                   ],
@@ -3618,11 +3618,336 @@
                       "name": "king",
                       "timespan": {
                         "start": "360 BC",
-                        "end": "343  BC"
+                        "end": "343 BC"
                       }
                     }
                   ],
                   "style": "egyptian"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ptolemaic Kingdom",
+          "dynasties": [
+            {
+              "name": "Ptolemaic Kingdom",
+              "people": [
+                {
+                  "name": "Ptolemy I Soter",
+                  "importance": "semimajor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "303 BC",
+                        "end": "282 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy II Philadelphus",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "285 BC",
+                        "end": "246 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy Epigonos",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "267 BC",
+                        "end": "259 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy III Euergetes",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "246 BC",
+                        "end": "221 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy IV Philopator",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "221 BC",
+                        "end": "203 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy V Ephiphanes",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "203 BC",
+                        "end": "181 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy VI Philometor",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "181 BC",
+                        "end": "164 BC"
+                      }
+                    },
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "163 BC",
+                        "end": "145 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy VIII Physcon",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "170 BC",
+                        "end": "163 BC"
+                      }
+                    },
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "145 BC",
+                        "end": "116 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cleopatra II&#9792;",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "131 BC",
+                        "end": "127 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cleopatra III&#9792;",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "115 BC",
+                        "end": "101 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy IX Lathyros",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "116 BC",
+                        "end": "107 BC"
+                      }
+                    },
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "88 BC",
+                        "end": "81 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy X",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "107 BC",
+                        "end": "88 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Berenice III",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "81 BC",
+                        "end": "80 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy XI",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "81 BC",
+                        "end": "80 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy XII",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "80 BC",
+                        "end": "58 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cleopatra V",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "58 BC",
+                        "end": "57 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Berenice IV",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "58 BC",
+                        "end": "55 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cleopatra&#9792;",
+                  "importance": "major",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "51 BC",
+                        "end": "30 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy XIII",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "51 BC",
+                        "end": "47 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy XIV",
+                  "importance": "petty",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "47 BC",
+                        "end": "44 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ptolemy XV",
+                  "importance": "minor",
+                  "style": "ptolemaicKingdom",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "44 BC",
+                        "end": "30 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             }
