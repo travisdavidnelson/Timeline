@@ -2,7 +2,7 @@
 .timeline {stroke-width: 1.0; stroke: black}
 
 .ur3 {fill:blue;fill-opacity:0.3}
-.achaemenid {fill:purple;fill-opacity:0.3}
+.achaemenid {fill:purple;fill-opacity:0.5}
 .akkad {fill:green;fill-opacity:0.5}
 .assyria {fill:red;fill-opacity:0.4}
 .neoassyria {fill:red;fill-opacity:0.6}
@@ -23,7 +23,7 @@
 .parthianEmpire {fill:green;fill-opacity:0.6}
 .ptolemaicKingdom {fill:blue;fill-opacity:0.3}
 .romanRepublic {fill:blue;fill-opacity:0.1}
-.romanPrincipate {fill:purple;fill-opacity:0.8}
+.romanPrincipate {fill:purple;fill-opacity:0.7}
 .romanCrisis {fill:grey;fill-opacity:0.3}
 .romanDominate {fill:purple;fill-opacity:0.2}
 .seleucidEmpire {fill:blue;fill-opacity:0.4}
