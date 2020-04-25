@@ -3434,12 +3434,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Achaemenid Egypt",
-          "dynasties": [
+            },
             {
               "name": "Achaemenid Satrapy",
               "people": [
@@ -3488,7 +3483,12 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Egypt",
+          "dynasties": [
             {
               "name": "Egypt XXVIII",
               "people": [
