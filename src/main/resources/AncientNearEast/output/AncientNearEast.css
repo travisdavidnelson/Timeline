@@ -20,10 +20,13 @@
 .hittiteWeak {fill:brown;fill-opacity:0.2}
 .lagash {fill:blue;fill-opacity:0.2}
 .macedon {fill:blue;fill-opacity:0.9}
+.parthianEmpire {fill:green;fill-opacity:0.6}
+.ptolemaicKingdom {fill:blue;fill-opacity:0.6}
 .romanRepublic {fill:blue;fill-opacity:0.1}
-.romanPrincipate {fill:purple;fill-opacity:0.2}
+.romanPrincipate {fill:purple;fill-opacity:0.8}
 .romanCrisis {fill:grey;fill-opacity:0.3}
 .romanDominate {fill:purple;fill-opacity:0.2}
+.seleucidEmpire {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
 .sumer {fill:blues;fill-opacity:0.3}
 .uruk {fill:green;fill-opacity:0.6}
@@ -116,11 +119,6 @@
 .kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
 .macedonianEmpire 	{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
 .hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.seleucidEmpire 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.ptolemaicKingdom 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.armenia 			{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.parthianEmpire 	{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.sassanidEmpire 	{fill:brown;	stroke:black; stroke-width:1; fill-opacity:0.7}
 .alamanni 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
 .vandals 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
 .franks 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}

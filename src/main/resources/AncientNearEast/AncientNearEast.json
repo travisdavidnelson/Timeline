@@ -194,6 +194,22 @@
             "end": "323 BC"
           },
           "style": "macedon"
+        },
+        {
+          "name": "Ptolemaic Kingdom",
+          "timespan": {
+            "start": "323 BC",
+            "end": "30 BC"
+          },
+          "style": "ptolemaicKingdom"
+        },
+        {
+          "name": "Roman Empire",
+          "timespan": {
+            "start": "30 BC",
+            "end": "245"
+          },
+          "style": "romanPrincipate"
         }
       ],
       "dynastyGroups": [
@@ -3745,6 +3761,22 @@
             "end": "323 BC"
           },
           "style": "macedon"
+        },
+        {
+          "name": "Seleucid Empire",
+          "timespan": {
+            "start": "323 BC",
+            "end": "141 BC"
+          },
+          "style": "seleucidEmpire"
+        },
+        {
+          "name": "Parthian Empire",
+          "timespan": {
+            "start": "141 BC",
+            "end": "224"
+          },
+          "style": "parthianEmpire"
         }
       ],
       "dynastyGroups": [
@@ -6163,6 +6195,22 @@
             "end": "323 BC"
           },
           "style": "macedon"
+        },
+        {
+          "name": "Seleucid Empire",
+          "timespan": {
+            "start": "323 BC",
+            "end": "141 BC"
+          },
+          "style": "seleucidEmpire"
+        },
+        {
+          "name": "Parthian Empire",
+          "timespan": {
+            "start": "141 BC",
+            "end": "224"
+          },
+          "style": "parthianEmpire"
         }
       ],
       "dynastyGroups": [
@@ -7373,6 +7421,22 @@
             "end": "323 BC"
           },
           "style": "macedon"
+        },
+        {
+          "name": "Seleucid Empire",
+          "timespan": {
+            "start": "323 BC",
+            "end": "63 BC"
+          },
+          "style": "seleucidEmpire"
+        },
+        {
+          "name": "Roman Empire",
+          "timespan": {
+            "start": "63 BC",
+            "end": "245"
+          },
+          "style": "romanPrincipate"
         }
       ],
       "dynastyGroups": [
@@ -8450,6 +8514,22 @@
             "end": "323 BC"
           },
           "style": "macedon"
+        },
+        {
+          "name": "Seleucid Empire",
+          "timespan": {
+            "start": "323 BC",
+            "end": "247 BC"
+          },
+          "style": "seleucidEmpire"
+        },
+        {
+          "name": "Parthian Empire",
+          "timespan": {
+            "start": "247 BC",
+            "end": "224"
+          },
+          "style": "parthianEmpire"
         }
       ],
       "dynastyGroups": [
