@@ -42,13 +42,18 @@ public class Timespan {
 	}
 
 	public long getDuration() {
+		return getDuration(null);
+	}
+	public long getDuration(TimelineInstant hardStop) {
 		if (duration == 0) {
+			TimelineInstant durationEnd = TimelineInstant.NOW;
 			if (end != null) {
-				duration = start.getDifferenceInDays(end);
+				durationEnd = end;
 			}
-			else {
-				duration = start.getDifferenceInDays(TimelineInstant.NOW);
+			if (hardStop != null && hardStop.isBefore(durationEnd)) {
+				durationEnd = hardStop;
 			}
+			duration = start.getDifferenceInDays(durationEnd);
 		}
 		return duration;
 	}

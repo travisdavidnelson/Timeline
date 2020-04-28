@@ -262,7 +262,7 @@ public class TimelineSvgBuilder {
 		if (backgroundEvent.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearBackgroundAdjustment * 365);
 		}
-		long duration = backgroundEvent.getTimespan().getDuration();
+		long duration = backgroundEvent.getTimespan().getDuration(timeline.getTimespan().getEnd());
 		if (backgroundEvent.getTimespan().getStartApproximate()) {
 			duration += approximateYearBackgroundAdjustment * 365;
 		}
