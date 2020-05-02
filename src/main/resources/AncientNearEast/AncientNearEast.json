@@ -6702,6 +6702,174 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Seleucus V Philometer",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "126 BC",
+                        "end": "125 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus VIII Grypus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "125 BC",
+                        "end": "96 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus IX Cyzicenus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "114 BC",
+                        "end": "96 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seleucus VI Epiphanes",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "96 BC",
+                        "end": "95 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus X Eusebes",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "95 BC",
+                        "end": "92 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Demetrius III Eucaerus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "95 BC",
+                        "end": "87 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus XI Epiphanes",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "95 BC",
+                        "end": "92 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Philip I Philadelphus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "95 BC",
+                        "end": "83 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus XII Dionysus",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "87 BC",
+                        "end": "84 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seleucus VII Kybiosaktes",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "83 BC",
+                        "end": "69 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus XIII Asiaticus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "69 BC",
+                        "end": "64 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Philip II Philoromaeus",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "65 BC",
+                        "end": "63 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             }
