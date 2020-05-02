@@ -26,7 +26,7 @@
 .romanPrincipate {fill:purple;fill-opacity:0.7}
 .romanCrisis {fill:grey;fill-opacity:0.3}
 .romanDominate {fill:purple;fill-opacity:0.2}
-.seleucidEmpire {fill:blue;fill-opacity:0.4}
+.seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
 .sumer {fill:blues;fill-opacity:0.3}
 .uruk {fill:green;fill-opacity:0.6}
@@ -76,6 +76,7 @@
 .aedile 			{fill:blue;		fill-opacity:0.5}
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}
 .augustus 			{fill:#9A32CD;	fill-opacity:1.0}
+.basileus 			{fill:purple;	fill-opacity:0.8}
 .battle 			{fill:red;		fill-opacity:0.7}
 .caesar 			{fill:#9A32CD;	fill-opacity:0.6}
 .censor 			{fill:blue;		fill-opacity:0.5}
@@ -103,6 +104,7 @@
 .quaestor 			{fill:blue;		fill-opacity:0.4}
 .rebel 			    {fill:black;	fill-opacity:0.5}
 .regent 			{fill:blue;		fill-opacity:0.8}
+.satrap 			{fill:blue;		fill-opacity:0.5}
 .tribune 			{fill:blue;		fill-opacity:0.5}
 .triumvir 			{fill:#551A8B;	fill-opacity:1.0}
 .usurper 			{fill:black;	fill-opacity:0.5}

@@ -4093,7 +4093,7 @@
             "start": "323 BC",
             "end": "141 BC"
           },
-          "style": "seleucidEmpire"
+          "style": "seleucid"
         },
         {
           "name": "Parthian Empire",
@@ -6444,6 +6444,107 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Seleucid Empire",
+          "dynasties": [
+            {
+              "name": "Seleucid Empire",
+              "people": [
+                {
+                  "name": "Seleucus I Nicator",
+                  "importance": "major",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "satrap",
+                      "timespan": {
+                        "start": "320 BC",
+                        "end": "315 BC"
+                      }
+                    },
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "305 BC",
+                        "end": "281 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus I Soter",
+                  "importance": "semimajor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "291 BC",
+                        "end": "261 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus II Theos",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "261 BC",
+                        "end": "246 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seleucus II Callinicus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "246 BC",
+                        "end": "225 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Seleucus III Ceraunus",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "225 BC",
+                        "end": "223 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus III the Great",
+                  "importance": "major",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "223 BC",
+                        "end": "187 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -6527,7 +6628,7 @@
             "start": "323 BC",
             "end": "141 BC"
           },
-          "style": "seleucidEmpire"
+          "style": "seleucid"
         },
         {
           "name": "Parthian Empire",
@@ -7753,7 +7854,7 @@
             "start": "323 BC",
             "end": "63 BC"
           },
-          "style": "seleucidEmpire"
+          "style": "seleucid"
         },
         {
           "name": "Roman Empire",
@@ -8846,7 +8947,7 @@
             "start": "323 BC",
             "end": "247 BC"
           },
-          "style": "seleucidEmpire"
+          "style": "seleucid"
         },
         {
           "name": "Parthian Empire",
