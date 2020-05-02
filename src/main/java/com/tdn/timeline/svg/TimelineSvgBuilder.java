@@ -46,7 +46,11 @@ public class TimelineSvgBuilder {
 
 	private List<Integer> timelineYPositions = new ArrayList<Integer>();
 
-	
+	private int channelCount = 0;
+	private int backgroundEventCount = 0;
+	private int dynastyCount = 0;
+	private int peopleCount = 0;
+
 	public TimelineSvgBuilder(Timeline timeline) {
 		this.timeline = timeline;
 		this.minDisplayInstant = timeline.getTimespan().getStart();
@@ -82,6 +86,7 @@ public class TimelineSvgBuilder {
 			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			int channelStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			for (TimelineChannel channel : timeline.getChannels()) {
+				System.out.println("  adding channel "+channel);
 				timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 				int textXStart = channelXOffset;
 				int textYStart = channelStart + dynastyDiff + channelYOffset;
@@ -94,6 +99,7 @@ public class TimelineSvgBuilder {
 					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
 				}
 				channelStart = maxLifetimeYEnd + dynastyDiff;
+				channelCount++;
 			}
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
@@ -132,6 +138,13 @@ public class TimelineSvgBuilder {
 			result.append(foregroundStringBuilder);
 			result.append("	</svg>\n");
 			svg = result.toString();
+
+			System.out.println();
+			System.out.println("Channels: " + channelCount);
+			System.out.println("Background events: " + backgroundEventCount);
+			System.out.println("Dynasties: " + dynastyCount);
+			System.out.println("People: " + peopleCount);
+			System.out.println();
 		}
 		return svg;
 	}
@@ -145,6 +158,7 @@ public class TimelineSvgBuilder {
 	}
 	public void getDynastySVG(Dynasty dynasty, StringBuilder foregroundStringBuilder,
 							  StringBuilder backgroundStringBuilder) {
+		System.out.println("  adding dynasty "+dynasty);
 		dynastyStart = nextPersonYStart + dynastyDiff;
 		nextPersonYStart = dynastyStart;
 		TimelineInstant headerInstant = dynasty.getHeaderStart();
@@ -168,9 +182,8 @@ public class TimelineSvgBuilder {
 		}
 		int textXStart = instantToX(headerInstant);
 		addTextSVG(dynasty.getName().toUpperCase(), textXStart, textYStart, "dynasty", foregroundStringBuilder);
-		if (dynasty.getStyle() != null) {
 
-		}
+		dynastyCount++;
 	}
 	public void getPersonSVG(Person person, String styleClass, String styleOverride, StringBuilder stringBuilder) {
 		System.out.println("  adding lifetime "+person);
@@ -232,6 +245,8 @@ public class TimelineSvgBuilder {
 		}
 		lastPersonInGroup = person;
 		lastPersonX = x + width;
+
+		peopleCount++;
 	}
 	private void getTitleSVG(Person person, TimelineEvent title, String style, StringBuilder stringBuilder) {
 		TimelineInstant startInstant = title.getTimespan().getStart();
@@ -276,6 +291,8 @@ public class TimelineSvgBuilder {
 		stringBuilder.append(backgroundEvent.getAnnotation());
 		stringBuilder.append("</title>");
 		stringBuilder.append("</a></g>\n");
+
+		backgroundEventCount++;
 	}
 	
 	public void addGridlinesSVG(StringBuilder stringBuilder) {
