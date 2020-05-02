@@ -6541,6 +6541,167 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Seleucus Iv Philopator",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "187 BC",
+                        "end": "175 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus IV Ephiphanes",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "175 BC",
+                        "end": "163 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus V Eupator",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "163 BC",
+                        "end": "161 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Demetrius I Soter",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "161 BC",
+                        "end": "150 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Alexander I Balas",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "150 BC",
+                        "end": "145 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Demetrius II Nicator",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "145 BC",
+                        "end": "138 BC"
+                      }
+                    },
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "129 BC",
+                        "end": "126 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antiochus VI Dionysus",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "145 BC",
+                        "end": "140 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Diodotus Thryphon",
+                  "importance": "petty",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "140 BC",
+                        "end": "138 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Antichus VII Sidetes",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "138 BC",
+                        "end": "129 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Alexander II Zabinas",
+                  "importance": "minor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "129 BC",
+                        "end": "123 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Cleopatra Thea&#9792;",
+                  "importance": "semimajor",
+                  "style": "seleucid",
+                  "titles": [
+                    {
+                      "name": "basileus",
+                      "timespan": {
+                        "start": "126 BC",
+                        "end": "121 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             }
