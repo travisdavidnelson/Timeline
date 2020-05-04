@@ -6758,25 +6758,17 @@
           "name": "Macedonian Empire",
           "timespan": {
             "start": "330 BC",
-            "end": "323 BC"
+            "end": "321 BC"
           },
           "style": "macedon"
         },
         {
-          "name": "Seleucid Empire",
+          "name": "Kingdom of Armenia",
           "timespan": {
-            "start": "323 BC",
-            "end": "141 BC"
+            "start": "321 BC",
+            "end": "428"
           },
-          "style": "seleucid"
-        },
-        {
-          "name": "Parthian Empire",
-          "timespan": {
-            "start": "141 BC",
-            "end": "224"
-          },
-          "style": "parthianEmpire"
+          "style": "armenia"
         }
       ],
       "dynastyGroups": [
@@ -7877,6 +7869,30 @@
                         "start": "612 BC",
                         "endApproximate": true,
                         "end": "609 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Armenia",
+          "dynasties": [
+            {
+              "name": "Armenia Orontid",
+              "people": [
+                {
+                  "name": "Orontes III",
+                  "style": "assyrian",
+                  "importance": "major",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "321 BC",
+                        "end": "260 BC"
                       }
                     }
                   ]
