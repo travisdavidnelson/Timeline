@@ -6525,7 +6525,31 @@
           "name": "Kingdom of Armenia",
           "timespan": {
             "start": "321 BC",
-            "end": "428"
+            "end": "200 BC"
+          },
+          "style": "armenia"
+        },
+        {
+          "name": "Seleucid Empire",
+          "timespan": {
+            "start": "200 BC",
+            "end": "189 BC"
+          },
+          "style": "seleucid"
+        },
+        {
+          "name": "Kingdom of Armenia",
+          "timespan": {
+            "start": "189 BC",
+            "end": "163 BC"
+          },
+          "style": "armenia"
+        },
+        {
+          "name": "Commagene",
+          "timespan": {
+            "start": "163 BC",
+            "end": "17"
           },
           "style": "armenia"
         }
@@ -7643,15 +7667,92 @@
               "name": "Armenia Orontid",
               "people": [
                 {
+                  "name": "Orontes I",
+                  "style": "armenia",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "satrap",
+                      "timespan": {
+                        "start": "401 BC",
+                        "end": "344 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Orontes II",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "satrap",
+                      "timespan": {
+                        "start": "336 BC",
+                        "end": "331 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Mithrenes",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "satrap",
+                      "timespan": {
+                        "start": "331 BC",
+                        "end": "323 BC"
+                      }
+                    },
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "321 BC",
+                        "end": "317 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Orontes III",
-                  "style": "assyrian",
+                  "style": "armenia",
                   "importance": "major",
                   "titles": [
                     {
                       "name": "king",
                       "timespan": {
-                        "start": "321 BC",
+                        "start": "317 BC",
                         "end": "260 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Arsames I",
+                  "style": "armenia",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "260 BC",
+                        "end": "228 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Orontes IV",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "212 BC",
+                        "end": "200 BC"
                       }
                     }
                   ]
