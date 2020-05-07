@@ -6540,16 +6540,8 @@
         {
           "name": "Kingdom of Armenia",
           "timespan": {
-            "start": "189 BC",
-            "end": "163 BC"
-          },
-          "style": "armenia"
-        },
-        {
-          "name": "Commagene",
-          "timespan": {
-            "start": "163 BC",
-            "end": "17"
+            "start": "190 BC",
+            "end": "12"
           },
           "style": "armenia"
         }
@@ -7753,6 +7745,184 @@
                       "timespan": {
                         "start": "212 BC",
                         "end": "200 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Armenia Artaxiad",
+              "people": [
+                {
+                  "name": "Artaxias I",
+                  "style": "armenia",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "190 BC",
+                        "end": "159 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Artavasdes I",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "159 BC",
+                        "end": "115 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tigranes I",
+                  "style": "armenia",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "120 BC",
+                        "end": "95 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tigranes the Great",
+                  "style": "armenia",
+                  "importance": "major",
+                  "timespan": {
+                    "start": "140 BC",
+                    "end": "34 BC"
+                  },
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "95 BC",
+                        "end": "55 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Artavasdes II",
+                  "style": "armenia",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "55 BC",
+                        "end": "34 BC"
+                      }
+                    },
+                    {
+                      "name": "pow",
+                      "timespan": {
+                        "start": "34 BC",
+                        "end": "31 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Artaxias II",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "65 BC",
+                    "end": "20 BC"
+                  },
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "34 BC",
+                        "end": "20 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tigranes III",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "55 BC",
+                    "end": "8 BC"
+                  },
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "20 BC",
+                        "end": "8 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tigranes IV",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "35 BC",
+                    "end": "1 BC"
+                  },
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "8 BC",
+                        "end": "5 BC"
+                      }
+                    },
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "start": "2 BC",
+                        "end": "1 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Erato&#9792;",
+                  "style": "armenia",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "10 BC",
+                        "end": "2 BC"
+                      }
+                    },
+                    {
+                      "name": "exile",
+                      "timespan": {
+                        "start": "2 BC",
+                        "end": "6"
+                      }
+                    },
+                    {
+                      "name": "queen",
+                      "timespan": {
+                        "start": "6",
+                        "end": "12"
                       }
                     }
                   ]
