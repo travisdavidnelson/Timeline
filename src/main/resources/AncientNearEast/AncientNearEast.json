@@ -4489,7 +4489,7 @@
               "name": "Akkad Sargon",
               "people": [
                 {
-                  "name": "Sargon the Great",
+                  "name": "Sargon of Akkad",
                   "importance": "transformational",
                   "titles": [
                     {
@@ -7823,7 +7823,7 @@
                   ]
                 },
                 {
-                  "name": "Tigranes the Great",
+                  "name": "Tigranes II",
                   "style": "armenia",
                   "importance": "major",
                   "timespan": {
@@ -9682,7 +9682,7 @@
               "name": "Achaemenid Empire",
               "people": [
                 {
-                  "name": "Cyrus the Great",
+                  "name": "Cyrus II",
                   "style": "achaemenid",
                   "timespan": {
                     "startApproximate": true,
@@ -9729,7 +9729,7 @@
                   ]
                 },
                 {
-                  "name": "Darius the Great",
+                  "name": "Darius I",
                   "style": "achaemenid",
                   "timespan": {
                     "startApproximate": true,
