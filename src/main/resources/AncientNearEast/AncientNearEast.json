@@ -2363,6 +2363,32 @@
         },
         {
           "name": "New Kingdom II",
+          "backgroundEvents": [
+            {
+              "name": "Invasion of Sea People",
+              "timespan": {
+                "start": "1178 BC",
+                "end": "1175 BC"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Battle of Djahy",
+              "timespan": {
+                "start": "1178 BC",
+                "end": "1178 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            },
+            {
+              "name": "Battle of the Delta",
+              "timespan": {
+                "start": "1175 BC",
+                "end": "1175 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            }
+          ],
           "dynasties": [
             {
               "name": "Egypt XIX",
@@ -3692,7 +3718,7 @@
                 },
                 {
                   "name": "Ptolemy IV Philopator",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "style": "ptolemaicKingdom",
                   "titles": [
                     {
