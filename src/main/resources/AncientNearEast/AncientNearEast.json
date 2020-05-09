@@ -9077,6 +9077,16 @@
         },
         {
           "name": "Seleucid Empire",
+          "backgroundEvents": [
+            {
+              "name": "Roman-Seleucid War",
+              "timespan": {
+                "start": "192 BC",
+                "end": "188 BC"
+              },
+              "style": "backgroundForeignWarDefeat"
+            }
+          ],
           "dynasties": [
             {
               "name": "Seleucid Empire",
@@ -9159,15 +9169,20 @@
                   ]
                 },
                 {
-                  "name": "Antiochus III the Great",
-                  "importance": "semimajor",
+                  "name": "Antiochus III",
+                  "importance": "major",
                   "style": "seleucid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "241 BC",
+                    "end": "7/3/187 BC"
+                  },
                   "titles": [
                     {
                       "name": "basileus",
                       "timespan": {
                         "start": "223 BC",
-                        "end": "187 BC"
+                        "end": "7/3/187 BC"
                       }
                     }
                   ]

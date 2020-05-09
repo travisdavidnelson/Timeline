@@ -98,6 +98,11 @@ public class TimelineSvgBuilder {
 				for (TimelineEvent backgroundEvent : channel.getBackgroundEvents()) {
 					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
 				}
+				for (DynastyGroup dynastyGroup : channel.getDynastyGroups()) {
+					for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
+						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
+					}
+				}
 				channelStart = maxLifetimeYEnd + dynastyDiff;
 				channelCount++;
 			}
@@ -202,7 +207,7 @@ public class TimelineSvgBuilder {
 		if (person.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearPersonAdjustment * 365);
 		}
-		long duration = person.getTimespan().getDuration();
+		long duration = person.getTimespan().getDuration(timeline.getTimespan().getEnd());
 		if (person.getTimespan().getStartApproximate()) {
 			duration += approximateYearPersonAdjustment * 365;
 		}
