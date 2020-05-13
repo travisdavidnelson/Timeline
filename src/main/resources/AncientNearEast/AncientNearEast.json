@@ -4135,6 +4135,22 @@
           "name": "Sumer",
           "dynasties": [
             {
+              "name": "Kish I",
+              "people": [
+                {
+                  "name": "Aga",
+                  "importance": "semimajor",
+                  "style": "kish",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2790 BC",
+                    "endApproximate": true,
+                    "end": "2750 BC"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Uruk I",
               "people": [
                 {
