@@ -3985,6 +3985,16 @@
       "name": "Mesopotamia",
       "backgroundEvents": [
         {
+          "name": "Ancient Sumer",
+          "timespan": {
+            "startApproximate": true,
+            "start": "4000 BC",
+            "endApproximate": true,
+            "end": "2000 BC"
+          },
+          "style": "sumer"
+        },
+        {
           "name": "Lagash I",
           "timespan": {
             "startApproximate": true,
