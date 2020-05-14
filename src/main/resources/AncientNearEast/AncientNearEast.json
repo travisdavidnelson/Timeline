@@ -4414,7 +4414,7 @@
                   ]
                 },
                 {
-                  "name": "En-anna-tum I",
+                  "name": "Enannatum I",
                   "importance": "minor",
                   "style": "lagashian",
                   "titles": [
@@ -4446,6 +4446,22 @@
                   ]
                 },
                 {
+                  "name": "Enannatum II",
+                  "importance": "petty",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2360 BC",
+                        "endApproximate": true,
+                        "end": "2340 BC"
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "Legalanda",
                   "importance": "minor",
                   "style": "lagashian",
@@ -4463,7 +4479,7 @@
                 },
                 {
                   "name": "Urukagina",
-                  "importance": "minor",
+                  "importance": "major",
                   "style": "lagashian",
                   "titles": [
                     {
@@ -4483,7 +4499,7 @@
               "name": "Uruk III",
               "people": [
                 {
-                  "name": "Lugal-zage-si",
+                  "name": "Lugalzagesi",
                   "importance": "major",
                   "style": "sumerian",
                   "titles": [
