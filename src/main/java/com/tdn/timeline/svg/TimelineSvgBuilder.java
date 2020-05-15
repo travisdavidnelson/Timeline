@@ -102,6 +102,19 @@ public class TimelineSvgBuilder {
 					for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
 						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
 					}
+					for (Dynasty dynasty : dynastyGroup.getDynasties()) {
+						Person firstPerson = dynasty.getFirstPerson();
+						Person lastPerson = dynasty.getLastPerson();
+						int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
+						int yEnd = maxLifetimeYEnd + dynastyDiff;
+						if (lastPerson != null) {
+							yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
+						}
+
+						for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
+							getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+						}
+					}
 				}
 				channelStart = maxLifetimeYEnd + dynastyDiff;
 				channelCount++;
@@ -165,11 +178,13 @@ public class TimelineSvgBuilder {
 							  StringBuilder backgroundStringBuilder) {
 		System.out.println("  adding dynasty "+dynasty);
 		dynastyStart = nextPersonYStart + dynastyDiff;
+		dynasty.setyStart(dynastyStart);
 		nextPersonYStart = dynastyStart;
 		TimelineInstant headerInstant = dynasty.getHeaderStart();
 		int textYStart = nextPersonYStart;
 		nextPersonYStart += lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
+			lifetime.setyStart(nextPersonYStart);
 			if (headerInstant == null) {
 				TimelineInstant firstTitleInstant = lifetime.getFirstTitleStart();
 				if (firstTitleInstant != null) {
@@ -217,8 +232,13 @@ public class TimelineSvgBuilder {
 		int width = getWidth(Long.valueOf(duration).intValue());
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
 		int height = timeline.getConfig().getHeight(person.getImportance());
-		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, "footprint", null, getMaskName(person.getTimespan())));
 		stringBuilder.append(rectangle(id, x, nextPersonYStart, width, height, styleClass, styleOverride, getMaskName(person.getTimespan())));
+
+		person.setyStart(nextPersonYStart);
+		person.setxStart(x);
+		person.setWidth(width);
+		person.setHeight(height);
+
 		for (TimelineEvent title : person.getTitles()) {
 			getTitleSVG(person, title, title.getName(), stringBuilder);
 		}
@@ -275,7 +295,10 @@ public class TimelineSvgBuilder {
 		String rectString = rectangle(null, x, y, width, height, style, null, getMaskName(title.getTimespan()));
 		stringBuilder.append(rectString);
 	}
-	private void getBackgroundSVG(TimelineEvent backgroundEvent, int yStart, int nextTimelineY, StringBuilder stringBuilder) {
+	private void getBackgroundSVG(TimelineEvent backgroundEvent, int yStart, int yEnd, StringBuilder stringBuilder) {
+		getBackgroundSVG(backgroundEvent, yStart, yEnd, false, stringBuilder);
+	}
+	private void getBackgroundSVG(TimelineEvent backgroundEvent, int yStart, int yEnd, boolean addFootprint, StringBuilder stringBuilder) {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = instantToX(backgroundEvent.getTimespan().getStart());
@@ -290,8 +313,12 @@ public class TimelineSvgBuilder {
 			duration += approximateYearBackgroundAdjustment * 365;
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());
+		int height = yEnd - yStart;
 		stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
-		stringBuilder.append(rectangle(id, x, yStart, width, (nextTimelineY - yStart), backgroundEvent.getStyle(), null, getMaskName(backgroundEvent.getTimespan())));
+		if (addFootprint) {
+			stringBuilder.append(rectangle(id, x, yStart, width, height, "footprint", null, getMaskName(backgroundEvent.getTimespan())));
+		}
+		stringBuilder.append(rectangle(id, x, yStart, width, height, backgroundEvent.getStyle(), null, getMaskName(backgroundEvent.getTimespan())));
 		stringBuilder.append("<title>");
 		stringBuilder.append(backgroundEvent.getAnnotation());
 		stringBuilder.append("</title>");

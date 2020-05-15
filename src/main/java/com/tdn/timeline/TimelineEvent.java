@@ -12,6 +12,11 @@ public class TimelineEvent {
 	private String style;
 	private Timespan timespan = null;
 
+	private transient int yStart;
+	private transient int xStart;
+	private transient int width;
+	private transient int height;
+
 	public TimelineEvent() {
 		backgroundEvents = new ArrayList<TimelineEvent>();
 	}
@@ -73,5 +78,37 @@ public class TimelineEvent {
 
 	public void addBackgroundEvent(TimelineEvent backgroundEvent) {
 		this.backgroundEvents.add(backgroundEvent);
+	}
+
+	public int getyStart() {
+		return yStart;
+	}
+
+	public void setyStart(int yStart) {
+		this.yStart = yStart;
+	}
+
+	public int getxStart() {
+		return xStart;
+	}
+
+	public void setxStart(int xStart) {
+		this.xStart = xStart;
+	}
+
+	public int getWidth() {
+		return width;
+	}
+
+	public void setWidth(int width) {
+		this.width = width;
+	}
+
+	public int getHeight() {
+		return height;
+	}
+
+	public void setHeight(int height) {
+		this.height = height;
 	}
 }

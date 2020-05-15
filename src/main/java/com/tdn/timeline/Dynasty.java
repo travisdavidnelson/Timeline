@@ -31,4 +31,19 @@ public class Dynasty extends TimelineEvent {
 		this.headerStart = headerStart;
 	}
 
+	public Person getFirstPerson() {
+		Person result = null;
+		if (people != null && people.size() > 0) {
+			result = people.get(0);
+		}
+		return result;
+	}
+
+	public Person getLastPerson() {
+		Person result = null;
+		if (people != null && people.size() > 0) {
+			result = people.get(people.size() - 1);
+		}
+		return result;
+	}
 }

@@ -68,7 +68,7 @@
 .channel {font-family: serif; font-size: 400px; fill:#000000; fill-opacity:0.3 }
 .dynasty {font-family: serif; font-size: 40px; fill:#000000; fill-opacity:0.6}
 
-.footprint {fill-opacity:0.0; font-family: serif;}
+.footprint {fill:white; fill-opacity:1.0; font-family: serif; stroke:none;}
 .transformational {font-family: serif; font-size: 50px; kerning: 2; stroke:none; fill:#000000;}
 .major {font-family: serif; font-size: 35px; kerning: 1; stroke:none; fill:#000000;}
 .semimajor {font-family: serif; font-size: 22px; kerning: 1; stroke:none; fill:#000000;}

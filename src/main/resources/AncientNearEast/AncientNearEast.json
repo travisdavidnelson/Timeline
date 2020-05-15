@@ -18,6 +18,7 @@
     "majorTickHalfLength": 7,
     "minorTickHalfLength": 20,
     "dynastyStart": 0,
+    "dynastyBackgroundTitleOffset": 40,
     "dynastyDiff": 62,
     "lifetimeYDiff": 10,
     "fontSize": 10,
@@ -4015,16 +4016,6 @@
           "style": "akkad"
         },
         {
-          "name": "Gutians",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2083 BC",
-            "end": "2055 BC",
-            "endApproximate": true
-          },
-          "style": "gutian"
-        },
-        {
           "name": "Ur III",
           "timespan": {
             "startApproximate": true,
@@ -4346,7 +4337,7 @@
                 },
                 {
                   "name": "Balulu",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -4659,6 +4650,18 @@
             },
             {
               "name": "Sumer Gutian",
+              "backgroundEvents": [
+                {
+                  "name": "Gutians",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2135 BC",
+                    "end": "2050 BC",
+                    "endApproximate": true
+                  },
+                  "style": "gutian"
+                }
+              ],
               "people": [
                 {
                   "name": "Inkishush",

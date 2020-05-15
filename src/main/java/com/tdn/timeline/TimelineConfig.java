@@ -12,6 +12,7 @@ public class TimelineConfig extends TimelineEvent {
 	private int majorTickHalfLength = 0;
 	private int minorTickHalfLength = 0;
 	private int dynastyStart = 0;
+	private int dynastyBackgroundTitleOffset = 0;
 	private int dynastyDiff = 0;
 	private int lifetimeYDiff = 0;
 	private int fontSize = 0;
@@ -94,6 +95,14 @@ public class TimelineConfig extends TimelineEvent {
 
 	public void setDynastyStart(int dynastyStart) {
 		this.dynastyStart = dynastyStart;
+	}
+
+	public int getDynastyBackgroundTitleOffset() {
+		return dynastyBackgroundTitleOffset;
+	}
+
+	public void setDynastyBackgroundTitleOffset(int dynastyBackgroundTitleOffset) {
+		this.dynastyBackgroundTitleOffset = dynastyBackgroundTitleOffset;
 	}
 
 	public int getDynastyDiff() {
