@@ -4276,96 +4276,6 @@
                   "style": "uruk"
                 }
               ]
-            },
-            {
-              "name": "Ur I",
-              "people": [
-                {
-                  "name": "Mesannepada",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2550 BC",
-                        "endApproximate": true,
-                        "end": "2470 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                },
-                {
-                  "name": "Mesh-ki-ang-Nuna",
-                  "importance": "minor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2470 BC",
-                        "endApproximate": true,
-                        "end": "2434 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                },
-                {
-                  "name": "Elulu",
-                  "importance": "minor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2434 BC",
-                        "endApproximate": true,
-                        "end": "2409 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                },
-                {
-                  "name": "Balulu",
-                  "importance": "petty",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2409 BC",
-                        "endApproximate": true,
-                        "end": "2373 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                }
-              ]
-            },
-            {
-              "name": "Uruk II",
-              "people": [
-                {
-                  "name": "Enshakushanna",
-                  "importance": "semimajor",
-                  "titles": [
-                    {
-                      "name": "king",
-                      "timespan": {
-                        "startApproximate": true,
-                        "start": "2525 BC",
-                        "endApproximate": true,
-                        "end": "2465 BC"
-                      }
-                    }
-                  ],
-                  "style": "ur"
-                }
-              ]
             }
           ]
         },
@@ -4502,8 +4412,132 @@
               ]
             },
             {
-              "name": "Uruk III",
+              "name": "Umma I",
+              "backgroundEvents": [
+                {
+                  "name": "Umma I",
+                  "style": "lagash",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2475 BC",
+                    "endApproximate": true,
+                    "end": "2270 BC"
+                  }
+                }
+              ],
               "people": [
+                {
+                  "name": "Pabilgagaltuko",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2475 BC",
+                        "endApproximate": true,
+                        "end": "2450 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ush",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2450 BC",
+                        "endApproximate": true,
+                        "end": "2425 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enakalle",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2425 BC",
+                        "endApproximate": true,
+                        "end": "2400 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-Lumma",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2400 BC",
+                        "endApproximate": true,
+                        "end": "2375 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Il",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2375 BC",
+                        "endApproximate": true,
+                        "end": "2350 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Gishakidu",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2350 BC",
+                        "endApproximate": true,
+                        "end": "2325 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ukush",
+                  "importance": "minor",
+                  "style": "sumerian",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2325 BC",
+                        "endApproximate": true,
+                        "end": "2300 BC"
+                      }
+                    }
+                  ]
+                },
                 {
                   "name": "Lugalzagesi",
                   "importance": "major",
@@ -4513,12 +4547,102 @@
                       "name": "king",
                       "timespan": {
                         "startApproximate": true,
-                        "start": "2294 BC",
+                        "start": "2300 BC",
                         "endApproximate": true,
                         "end": "2270 BC"
                       }
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Ur I",
+              "people": [
+                {
+                  "name": "Mesannepada",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2550 BC",
+                        "endApproximate": true,
+                        "end": "2470 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Mesh-ki-ang-Nuna",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2470 BC",
+                        "endApproximate": true,
+                        "end": "2434 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Elulu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2434 BC",
+                        "endApproximate": true,
+                        "end": "2409 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                },
+                {
+                  "name": "Balulu",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2409 BC",
+                        "endApproximate": true,
+                        "end": "2373 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
+                }
+              ]
+            },
+            {
+              "name": "Uruk II",
+              "people": [
+                {
+                  "name": "Enshakushanna",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2525 BC",
+                        "endApproximate": true,
+                        "end": "2465 BC"
+                      }
+                    }
+                  ],
+                  "style": "ur"
                 }
               ]
             }
