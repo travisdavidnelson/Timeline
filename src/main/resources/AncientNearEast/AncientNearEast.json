@@ -5075,6 +5075,17 @@
             },
             {
               "name": "Larsa",
+              "backgroundEvents": [
+                {
+                  "name": "Larsa",
+                  "style": "larsa",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1961 BC",
+                    "endApproximate": true,
+                    "end": "1699 BC"
+                  }                }
+              ],
               "people": [
                 {
                   "name": "Naplanum",
@@ -5326,6 +5337,18 @@
           "dynasties": [
             {
               "name": "Babylon I",
+              "backgroundEvents": [
+                {
+                  "name": "Babylon",
+                  "style": "babylonian",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1830 BC",
+                    "endApproximate": true,
+                    "end": "1531 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Sumu-abum",
