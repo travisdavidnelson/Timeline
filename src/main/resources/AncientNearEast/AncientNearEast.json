@@ -120,17 +120,9 @@
           "timespan": {
             "startApproximate": true,
             "start": "1069 BC",
-            "end": "711 BC"
-          },
-          "style": "egyptThirdIntermediate"
-        },
-        {
-          "name": "Nubian Egypt",
-          "timespan": {
-            "start": "711 BC",
             "end": "671 BC"
           },
-          "style": "nubian"
+          "style": "egyptThirdIntermediate"
         },
         {
           "name": "Neo-Assyria",
@@ -3309,6 +3301,17 @@
             },
             {
               "name": "Egypt XXV Nubia",
+              "backgroundEvents": [
+                {
+                  "name": "Nubian Egypt",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "744 BC",
+                    "end": "656 BC"
+                  },
+                  "style": "nubian"
+                }
+              ],
               "people": [
                 {
                   "name": "Piye",
