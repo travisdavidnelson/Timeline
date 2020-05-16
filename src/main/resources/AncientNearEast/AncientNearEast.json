@@ -8016,63 +8016,6 @@
       "name": "Anatolia / Levant",
       "backgroundEvents": [
         {
-          "name": "Hittite Early Period",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1850 BC",
-            "endApproximate": true,
-            "end": "1595 BC"
-          },
-          "style": "hittiteWeak"
-        },
-        {
-          "name": "Hittite Old Kingdom",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1595 BC",
-            "endApproximate": true,
-            "end": "1460 BC"
-          },
-          "style": "hittite"
-        },
-        {
-          "name": "Hittite Middle Kingdom",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1460 BC",
-            "endApproximate": true,
-            "end": "1360 BC"
-          },
-          "style": "backgroundDarkAge"
-        },
-        {
-          "name": "Hittite New Kingdom",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1360 BC",
-            "end": "1178 BC"
-          },
-          "style": "hittite"
-        },
-        {
-          "name": "Fall of Hattusa",
-          "timespan": {
-            "start": "1180 BC",
-            "end": "1178 BC",
-            "startApproximate": true
-          },
-          "style": "backgroundNationalCalamity"
-        },
-        {
-          "name": "Bronze Age collapse",
-          "timespan": {
-            "start": "1178 BC",
-            "end": "1000 BC",
-            "endApproximate": true
-          },
-          "style": "backgroundDarkAge"
-        },
-        {
           "name": "Neo-Assyria",
           "timespan": {
             "start": "738 BC",
@@ -8128,6 +8071,38 @@
           "dynasties": [
             {
               "name": "Hittite Old Kingdom",
+              "backgroundEvents": [
+                {
+                  "name": "Hittite Early Period",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1850 BC",
+                    "endApproximate": true,
+                    "end": "1595 BC"
+                  },
+                  "style": "hittiteWeak"
+                },
+                {
+                  "name": "Hittite Old Kingdom",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1595 BC",
+                    "endApproximate": true,
+                    "end": "1460 BC"
+                  },
+                  "style": "hittite"
+                },
+                {
+                  "name": "Hittite Middle Kingdom",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1460 BC",
+                    "endApproximate": true,
+                    "end": "1360 BC"
+                  },
+                  "style": "hittite"
+                }
+              ],
               "people": [
                 {
                   "name": "Hattusili I",
@@ -8250,6 +8225,35 @@
           "dynasties": [
             {
               "name": "Hittite New Kingdom",
+              "backgroundEvents": [
+                {
+                  "name": "Hittite New Kingdom",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1360 BC",
+                    "end": "1178 BC"
+                  },
+                  "style": "hittite"
+                },
+                {
+                  "name": "Fall of Hattusa",
+                  "timespan": {
+                    "start": "1180 BC",
+                    "end": "1178 BC",
+                    "startApproximate": true
+                  },
+                  "style": "backgroundNationalCalamity"
+                },
+                {
+                  "name": "Bronze Age collapse",
+                  "timespan": {
+                    "start": "1178 BC",
+                    "end": "1100 BC",
+                    "endApproximate": true
+                  },
+                  "style": "backgroundDarkAge"
+                }
+              ],
               "people": [
                 {
                   "name": "Tudhaliya II",
