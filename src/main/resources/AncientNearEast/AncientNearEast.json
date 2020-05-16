@@ -3999,16 +3999,6 @@
           "style": "sumer"
         },
         {
-          "name": "Lagash I",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2500 BC",
-            "endApproximate": true,
-            "end": "2270 BC"
-          },
-          "style": "lagash"
-        },
-        {
           "name": "Akkadian Empire",
           "timespan": {
             "startApproximate": true,
@@ -4384,6 +4374,18 @@
           "dynasties": [
             {
               "name": "Lagash I",
+              "backgroundEvents": [
+                {
+                  "name": "Lagash I",
+                  "style": "lagash",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2550 BC",
+                    "endApproximate": true,
+                    "end": "2300 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Ur-Nanshe",
@@ -4662,7 +4664,7 @@
                     "end": "2050 BC",
                     "endApproximate": true
                   },
-                  "style": "gutian"
+                  "style": "sumer"
                 }
               ],
               "people": [
