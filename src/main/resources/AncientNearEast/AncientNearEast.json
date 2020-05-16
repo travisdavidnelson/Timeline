@@ -6679,6 +6679,16 @@
       "name": "Assyria / Armenia",
       "backgroundEvents": [
         {
+          "name": "Akkadian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2250 BC",
+            "endApproximate": true,
+            "end": "2215 BC"
+          },
+          "style": "akkad"
+        },
+        {
           "name": "Old Assyrian Empire",
           "timespan": {
             "startApproximate": true,
@@ -8164,6 +8174,16 @@
     {
       "name": "Anatolia / Levant",
       "backgroundEvents": [
+        {
+          "name": "Akkadian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2250 BC",
+            "endApproximate": true,
+            "end": "2215 BC"
+          },
+          "style": "akkad"
+        },
         {
           "name": "Neo-Assyria",
           "timespan": {
@@ -9791,6 +9811,16 @@
     {
       "name": "Persia",
       "backgroundEvents": [
+        {
+          "name": "Akkadian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2240 BC",
+            "endApproximate": true,
+            "end": "2220 BC"
+          },
+          "style": "akkad"
+        },
         {
           "name": "Elam Awan",
           "timespan": {
