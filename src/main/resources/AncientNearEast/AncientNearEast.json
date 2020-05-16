@@ -8073,15 +8073,6 @@
           "style": "backgroundDarkAge"
         },
         {
-          "name": "Israel",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1050 BC",
-            "end": "738 BC"
-          },
-          "style": "israel"
-        },
-        {
           "name": "Neo-Assyria",
           "timespan": {
             "start": "738 BC",
@@ -8446,6 +8437,18 @@
           "dynasties": [
             {
               "name": "Israel",
+              "backgroundEvents": [
+                {
+                  "name": "Israel",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1030 BC",
+                    "endApproximate": true,
+                    "end": "931 BC"
+                  },
+                  "style": "israel"
+                }
+              ],
               "people": [
                 {
                   "name": "Saul",
@@ -8520,6 +8523,18 @@
           "dynasties": [
             {
               "name": "Samaria",
+              "backgroundEvents": [
+                {
+                  "name": "Samaria",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "931 BC",
+                    "endApproximate": true,
+                    "end": "722 BC"
+                  },
+                  "style": "israel"
+                }
+              ],
               "people": [
                 {
                   "name": "Jeroboam I",
@@ -8829,6 +8844,18 @@
             },
             {
               "name": "Judah",
+              "backgroundEvents": [
+                {
+                  "name": "Judah",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "931 BC",
+                    "endApproximate": true,
+                    "end": "586 BC"
+                  },
+                  "style": "israel"
+                }
+              ],
               "people": [
                 {
                   "name": "Rehoboam",
