@@ -9812,36 +9812,6 @@
       "name": "Persia",
       "backgroundEvents": [
         {
-          "name": "Akkadian Empire",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2240 BC",
-            "endApproximate": true,
-            "end": "2220 BC"
-          },
-          "style": "akkad"
-        },
-        {
-          "name": "Elam Awan",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2350 BC",
-            "endApproximate": true,
-            "end": "2150 BC"
-          },
-          "style": "elamite"
-        },
-        {
-          "name": "Elam Shutrukid",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1210 BC",
-            "endApproximate": true,
-            "end": "1100 BC"
-          },
-          "style": "elamite"
-        },
-        {
           "name": "Neo-Assyria",
           "timespan": {
             "startApproximate": true,
@@ -9891,6 +9861,28 @@
           "dynasties": [
             {
               "name": "Elam Awan",
+              "backgroundEvents": [
+                {
+                  "name": "Elam Awan",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2350 BC",
+                    "endApproximate": true,
+                    "end": "2150 BC"
+                  },
+                  "style": "elamite"
+                },
+                {
+                  "name": "Akkadian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2240 BC",
+                    "endApproximate": true,
+                    "end": "2220 BC"
+                  },
+                  "style": "akkad"
+                }
+              ],
               "people": [
                 {
                   "name": "Kutik-Inshushinak",
@@ -9917,6 +9909,18 @@
           "dynasties": [
             {
               "name": "Elam Shutrukid",
+              "backgroundEvents": [
+                {
+                  "name": "Elam Shutrukid",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1210 BC",
+                    "endApproximate": true,
+                    "end": "1100 BC"
+                  },
+                  "style": "elamite"
+                }
+              ],
               "people": [
                 {
                   "name": "Sutruk-Nakhunte",
