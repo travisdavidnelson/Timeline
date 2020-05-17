@@ -3999,6 +3999,16 @@
           "style": "sumer"
         },
         {
+          "name": "Empire of Lugalzagesi",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2300 BC",
+            "endApproximate": true,
+            "end": "2270 BC"
+          },
+          "style": "sumer"
+        },
+        {
           "name": "Akkadian Empire",
           "timespan": {
             "startApproximate": true,
@@ -4007,6 +4017,16 @@
             "end": "2083 BC"
           },
           "style": "akkad"
+        },
+        {
+          "name": "Conquests of Sargon",
+          "style": "backgroundCivilWar",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2270 BC",
+            "endApproximate": true,
+            "duration": "5y"
+          }
         },
         {
           "name": "Ur III",
@@ -4294,6 +4314,16 @@
                     "endApproximate": true,
                     "end": "2280 BC"
                   }
+                },
+                {
+                  "name": "Defeat by Lugalzagesi",
+                  "style": "backgroundNationalCalamity",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2285 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
+                  }
                 }
               ],
               "people": [
@@ -4359,11 +4389,30 @@
                   }
                 },
                 {
+                  "name": "Bordar conflict with Umma",
+                  "style": "backgroundCivilWar",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2500 BC",
+                    "end": "2296 BC"
+                  }
+                },
+                {
                   "name": "Urukagina Revolution",
                   "style": "backgroundRevolution",
                   "timespan": {
                     "startApproximate": true,
                     "start": "2321 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "Defeat by Lugalzagesi",
+                  "style": "backgroundNationalCalamity",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2296 BC",
                     "endApproximate": true,
                     "duration": "2y"
                   }
@@ -4492,9 +4541,48 @@
                   "style": "lagash",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "2475 BC",
+                    "start": "2550 BC",
                     "endApproximate": true,
                     "end": "2270 BC"
+                  }
+                },
+                {
+                  "name": "Bordar conflict with Lagash",
+                  "style": "backgroundCivilWar",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2500 BC",
+                    "end": "2296 BC"
+                  }
+                },
+                {
+                  "name": "Defeat of Lagash",
+                  "style": "backgroundForeignWarVictory",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2296 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "Defeat of Kish",
+                  "style": "backgroundForeignWarVictory",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2285 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "Defeat by Sargon",
+                  "style": "backgroundNationalCalamity",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2271 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
                   }
                 }
               ],
@@ -4727,6 +4815,18 @@
           "dynasties": [
             {
               "name": "Akkad Sargon",
+              "backgroundEvents": [
+                {
+                  "name": "Conquests of Sargon",
+                  "style": "backgroundForeignWarVictory",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2270 BC",
+                    "endApproximate": true,
+                    "duration": "5y"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Sargon of Akkad",
