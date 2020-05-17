@@ -4283,6 +4283,69 @@
           "name": "Sumer II",
           "dynasties": [
             {
+              "name": "Kish III",
+              "backgroundEvents": [
+                {
+                  "name": "Kish III",
+                  "style": "kish",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2400 BC",
+                    "endApproximate": true,
+                    "end": "2280 BC"
+                  }
+                }
+              ],
+              "people": [
+                {
+                  "name": "Kubaba&#9792;",
+                  "importance": "semimajor",
+                  "style": "kish",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2400 BC",
+                        "endApproximate": true,
+                        "duration": "80y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Puzur-Suen",
+                  "importance": "minor",
+                  "style": "kish",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "endApproximate": true,
+                        "duration": "25y"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-Zababa",
+                  "importance": "semimajor",
+                  "style": "kish",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "endApproximate": true,
+                        "duration": "10y"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Lagash I",
               "backgroundEvents": [
                 {
