@@ -6689,26 +6689,6 @@
           "style": "akkad"
         },
         {
-          "name": "Old Assyrian Empire",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2025 BC",
-            "endApproximate": true,
-            "end": "1378 BC"
-          },
-          "style": "assyria"
-        },
-        {
-          "name": "Middle Assyrian Empire",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1365 BC",
-            "endApproximate": true,
-            "end": "1050 BC"
-          },
-          "style": "assyria"
-        },
-        {
           "name": "Bronze Age Collapse",
           "timespan": {
             "startApproximate": true,
@@ -6790,6 +6770,18 @@
           "dynasties": [
             {
               "name": "Assyria Puzur-Ashur",
+              "backgroundEvents": [
+                {
+                  "name": "Old Assyrian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2025 BC",
+                    "endApproximate": true,
+                    "end": "1378 BC"
+                  },
+                  "style": "assyria"
+                }
+              ],
               "people": [
                 {
                   "name": "Puzur-Ashur I",
@@ -6939,6 +6931,18 @@
             },
             {
               "name": "Assyria Shamshi-Adad",
+              "backgroundEvents": [
+                {
+                  "name": "Old Assyrian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2025 BC",
+                    "endApproximate": true,
+                    "end": "1378 BC"
+                  },
+                  "style": "assyria"
+                }
+              ],
               "people": [
                 {
                   "name": "Shamshi-Adad I",
@@ -7029,6 +7033,18 @@
           "dynasties": [
             {
               "name": "Assyria Adaside",
+              "backgroundEvents": [
+                {
+                  "name": "Old Assyrian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2025 BC",
+                    "endApproximate": true,
+                    "end": "1378 BC"
+                  },
+                  "style": "assyria"
+                }
+              ],
               "people": [
                 {
                   "name": "Bel-bani",
@@ -7423,6 +7439,18 @@
           "dynasties": [
             {
               "name": "Middle Assyrian Empire",
+              "backgroundEvents": [
+                {
+                  "name": "Middle Assyrian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1365 BC",
+                    "endApproximate": true,
+                    "end": "1050 BC"
+                  },
+                  "style": "assyria"
+                }
+              ],
               "people": [
                 {
                   "name": "Eriba-Adad I",
@@ -7625,6 +7653,18 @@
           "dynasties": [
             {
               "name": "Neo-Assyrian Empire",
+              "backgroundEvents": [
+                {
+                  "name": "Middle Assyrian Empire",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1365 BC",
+                    "endApproximate": true,
+                    "end": "1050 BC"
+                  },
+                  "style": "assyria"
+                }
+              ],
               "people": [
                 {
                   "name": "Adad-nirari II",
