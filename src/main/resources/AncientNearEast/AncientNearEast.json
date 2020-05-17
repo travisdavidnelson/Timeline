@@ -4355,7 +4355,17 @@
                     "startApproximate": true,
                     "start": "2550 BC",
                     "endApproximate": true,
-                    "end": "2300 BC"
+                    "end": "2290 BC"
+                  }
+                },
+                {
+                  "name": "Urukagina Revolution",
+                  "style": "backgroundRevolution",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2321 BC",
+                    "endApproximate": true,
+                    "duration": "2y"
                   }
                 }
               ],

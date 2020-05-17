@@ -302,15 +302,17 @@ public class TimelineSvgBuilder {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = instantToX(backgroundEvent.getTimespan().getStart());
-		if (backgroundEvent.getTimespan().getStartApproximate()) {
-			x -= getWidth(approximateYearBackgroundAdjustment * 365);
-		}
 		long duration = backgroundEvent.getTimespan().getDuration(timeline.getTimespan().getEnd());
-		if (backgroundEvent.getTimespan().getStartApproximate()) {
-			duration += approximateYearBackgroundAdjustment * 365;
-		}
-		if (backgroundEvent.getTimespan().getEndApproximate()) {
-			duration += approximateYearBackgroundAdjustment * 365;
+		if (duration > approximateYearBackgroundAdjustment * 365 * 10) {
+			if (backgroundEvent.getTimespan().getStartApproximate()) {
+				x -= getWidth(approximateYearBackgroundAdjustment * 365);
+			}
+			if (backgroundEvent.getTimespan().getStartApproximate()) {
+				duration += approximateYearBackgroundAdjustment * 365;
+			}
+			if (backgroundEvent.getTimespan().getEndApproximate()) {
+				duration += approximateYearBackgroundAdjustment * 365;
+			}
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());
 		int height = yEnd - yStart;
