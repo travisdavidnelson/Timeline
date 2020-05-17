@@ -4011,7 +4011,6 @@
         {
           "name": "Akkadian Empire",
           "timespan": {
-            "startApproximate": true,
             "start": "2270 BC",
             "endApproximate": true,
             "end": "2083 BC"
