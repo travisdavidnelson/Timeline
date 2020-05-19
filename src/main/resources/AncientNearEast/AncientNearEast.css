@@ -20,7 +20,7 @@
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .hittiteWeak {fill:brown;fill-opacity:0.2}
 .kish {fill:green;fill-opacity:0.4}
-.lagash {fill:blue;fill-opacity:0.2}
+.lagash {fill:blue;fill-opacity:0.4}
 .macedon {fill:blue;fill-opacity:0.9}
 .parthianEmpire {fill:green;fill-opacity:0.6}
 .ptolemaicKingdom {fill:blue;fill-opacity:0.3}
@@ -35,7 +35,7 @@
 
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
-.backgroundDarkAge {fill:black; fill-opacity:0.4}
+.backgroundDarkAge {fill:black; fill-opacity:0.5}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.6}
 .backgroundForeignWar {fill:brown; fill-opacity:0.3}
 .backgroundForeignWarVictory {fill:blue; fill-opacity:0.8}

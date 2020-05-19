@@ -4009,6 +4009,16 @@
           "style": "sumer"
         },
         {
+          "name": "Dark Age",
+          "style": "backgroundDarkAge",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2100 BC",
+            "endApproximate": true,
+            "end": "2050 BC"
+          }
+        },
+        {
           "name": "Akkadian Empire",
           "timespan": {
             "start": "2270 BC",
@@ -4934,7 +4944,7 @@
                 },
                 {
                   "name": "Shu-turul",
-                  "importance": "semimajor",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -4943,6 +4953,103 @@
                         "start": "2105 BC",
                         "endApproximate": true,
                         "end": "2090 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lagash II",
+              "backgroundEvents": [
+                {
+                  "name": "Lagash II",
+                  "style": "lagash",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2157 BC",
+                    "endApproximate": true,
+                    "end": "2110 BC"
+                  }
+                }
+              ],
+              "people": [
+                {
+                  "name": "Ur-Baba",
+                  "importance": "semimajor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "governor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2157 BC",
+                        "endApproximate": true,
+                        "end": "2144 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Gudea",
+                  "importance": "semimajor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "governor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2144 BC",
+                        "endApproximate": true,
+                        "end": "2124 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-Ningirsu",
+                  "importance": "minor",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "governor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2124 BC",
+                        "endApproximate": true,
+                        "end": "2119 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-gar",
+                  "importance": "petty",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "governor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2117 BC",
+                        "endApproximate": true,
+                        "end": "2113 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Nam-mahani",
+                  "importance": "petty",
+                  "style": "lagashian",
+                  "titles": [
+                    {
+                      "name": "governor",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "2113 BC",
+                        "endApproximate": true,
+                        "end": "2110 BC"
                       }
                     }
                   ]
