@@ -4023,7 +4023,7 @@
           "timespan": {
             "start": "2270 BC",
             "endApproximate": true,
-            "end": "2083 BC"
+            "end": "2090 BC"
           },
           "style": "akkad"
         },
@@ -4825,6 +4825,15 @@
             {
               "name": "Akkad Sargon",
               "backgroundEvents": [
+                {
+                  "name": "Akkadian Empire",
+                  "timespan": {
+                    "start": "2270 BC",
+                    "endApproximate": true,
+                    "end": "2090 BC"
+                  },
+                  "style": "akkad"
+                },
                 {
                   "name": "Conquests of Sargon",
                   "style": "backgroundForeignWarVictory",
