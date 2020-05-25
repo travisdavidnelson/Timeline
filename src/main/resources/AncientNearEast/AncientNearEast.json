@@ -5784,6 +5784,263 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Isin",
+              "backgroundEvents": [
+                {
+                  "name": "Isin I",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1953 BC",
+                    "endApproximate": true,
+                    "end": "1730 BC"
+                  },
+                  "style": "isin"
+                }
+              ],
+              "people": [
+                {
+                  "name": "Ishbi-Erra",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1953 BC",
+                        "endApproximate": true,
+                        "end": "1921 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shu-Ilishu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1920 BC",
+                        "endApproximate": true,
+                        "end": "1911 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Iddin-Dagan",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1910 BC",
+                        "endApproximate": true,
+                        "end": "1890 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ishme-Dagan",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1889 BC",
+                        "endApproximate": true,
+                        "end": "1871 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Lipit-Eshtar",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1870 BC",
+                        "endApproximate": true,
+                        "end": "1860 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-Ninurta",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1859 BC",
+                        "endApproximate": true,
+                        "end": "1832 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Bur-Sin",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1831 BC",
+                        "endApproximate": true,
+                        "end": "1811 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Lipit-Enlil",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1810 BC",
+                        "endApproximate": true,
+                        "end": "1806 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ura-Imitti",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1805 BC",
+                        "endApproximate": true,
+                        "end": "1799 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Enlil-bani",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1798 BC",
+                        "endApproximate": true,
+                        "end": "1775 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Zambiya",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1774 BC",
+                        "endApproximate": true,
+                        "end": "1772 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Iter-pisha",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1771 BC",
+                        "endApproximate": true,
+                        "end": "1768 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Ur-du-kuga",
+                  "importance": "petty",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1767 BC",
+                        "endApproximate": true,
+                        "end": "1764 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Suen-magir",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1763 BC",
+                        "endApproximate": true,
+                        "end": "1753 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Damiq-ilishu",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "style": "isin",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1752 BC",
+                        "endApproximate": true,
+                        "end": "1730 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
