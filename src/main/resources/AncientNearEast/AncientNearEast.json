@@ -4058,6 +4058,16 @@
           "style": "backgroundCivilWar"
         },
         {
+          "name": "Conquest of Ur III",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1943 BC",
+            "endApproximate": true,
+            "end": "1940 BC"
+          },
+          "style": "backgroundCivilWar"
+        },
+        {
           "name": "Larsa",
           "timespan": {
             "startApproximate": true,
@@ -5420,7 +5430,7 @@
                   "name": "Collapse of Ur III",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1942 BC",
+                    "start": "1943 BC",
                     "endApproximate": true,
                     "end": "1940 BC"
                   }
@@ -10256,6 +10266,54 @@
                         "start": "2240 BC",
                         "endApproximate": true,
                         "end": "2220 BC"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Middle Elamites",
+          "dynasties": [
+            {
+              "name": "Elam Shimashki",
+              "backgroundEvents": [
+                {
+                  "name": "Elam Shimashki",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1960 BC",
+                    "endApproximate": true,
+                    "end": "1900 BC"
+                  },
+                  "style": "elamite"
+                },
+                {
+                  "name": "Conquest Ur III",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1943 BC",
+                    "endApproximate": true,
+                    "end": "1940 BC"
+                  },
+                  "style": "backgroundForeignWarVictory"
+                }
+              ],
+              "people": [
+                {
+                  "name": "Kindattu",
+                  "style": "elamite",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1950 BC",
+                        "endApproximate": true,
+                        "end": "1935 BC"
                       }
                     }
                   ]
