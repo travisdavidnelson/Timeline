@@ -7276,6 +7276,16 @@
           "style": "akkad"
         },
         {
+          "name": "Ur III",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2055 BC",
+            "end": "1950 BC",
+            "endApproximate": true
+          },
+          "style": "neosumer"
+        },
+        {
           "name": "Bronze Age Collapse",
           "timespan": {
             "startApproximate": true,
