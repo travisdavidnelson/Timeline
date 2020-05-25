@@ -4068,6 +4068,16 @@
           "style": "backgroundCivilWar"
         },
         {
+          "name": "Amorites",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2000 BC",
+            "endApproximate": true,
+            "end": "1595 BC"
+          },
+          "style": "amorite"
+        },
+        {
           "name": "Larsa",
           "timespan": {
             "startApproximate": true,
