@@ -4042,10 +4042,20 @@
           "timespan": {
             "startApproximate": true,
             "start": "2055 BC",
-            "end": "1940 BC",
+            "end": "1950 BC",
             "endApproximate": true
           },
-          "style": "ur3"
+          "style": "neosumer"
+        },
+        {
+          "name": "Collapse of Ur III",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1960 BC",
+            "endApproximate": true,
+            "end": "1940 BC"
+          },
+          "style": "backgroundCivilWar"
         },
         {
           "name": "Larsa",
@@ -5394,6 +5404,28 @@
           "dynasties": [
             {
               "name": "Ur III",
+              "style": "backgroundInvasion",
+              "backgroundEvents": [
+                {
+                  "name": "Ur III",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2055 BC",
+                    "endApproximate": true,
+                    "end": "1940 BC"
+                  },
+                  "style": "neosumer"
+                },
+                {
+                  "name": "Collapse of Ur III",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1942 BC",
+                    "endApproximate": true,
+                    "end": "1940 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Utu-hengal",
@@ -10251,9 +10283,9 @@
               ],
               "people": [
                 {
-                  "name": "Sutruk-Nakhunte",
+                  "name": "Shutruk-Nakhunte",
                   "style": "elamite",
-                  "importance": "transformational",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
