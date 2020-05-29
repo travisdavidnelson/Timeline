@@ -88,9 +88,6 @@ public class TimelineSvgBuilder {
 			for (TimelineChannel channel : timeline.getChannels()) {
 				System.out.println("  adding channel "+channel);
 				timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
-				int textXStart = channelXOffset;
-				int textYStart = channelStart + dynastyDiff + channelYOffset;
-				addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
 				for (DynastyGroup series : channel.getDynastyGroups()) {
 					dynastyStart = channelStart;
 					getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
@@ -116,6 +113,9 @@ public class TimelineSvgBuilder {
 						}
 					}
 				}
+				int textXStart = channelXOffset;
+				int textYStart = maxLifetimeYEnd - channelYOffset;
+				addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
 				channelStart = maxLifetimeYEnd + dynastyDiff;
 				channelCount++;
 			}
