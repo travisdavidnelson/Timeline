@@ -8905,6 +8905,16 @@
           "style": "akkad"
         },
         {
+          "name": "Ur III",
+          "timespan": {
+            "startApproximate": true,
+            "start": "2038 BC",
+            "endApproximate": true,
+            "end": "2005 BC"
+          },
+          "style": "neosumer"
+        },
+        {
           "name": "Hittite Empire",
           "style": "hittite",
           "timespan": {
