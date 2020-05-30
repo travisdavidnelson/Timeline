@@ -4118,13 +4118,36 @@
         },
         {
           "name": "Babylon Kassite",
+          "style": "babylonWeak",
           "timespan": {
             "startApproximate": true,
             "start": "1531 BC",
-            "endApproximate": true,
-            "end": "1155 BC"
-          },
-          "style": "babylonWeak"
+            "end": "1235 BC"
+          }
+        },
+        {
+          "name": "Middle Assyrian Empire",
+          "style": "assyria",
+          "timespan": {
+            "start": "1235 BC",
+            "end": "1202 BC"
+          }
+        },
+        {
+          "name": "Babylon Kassite",
+          "style": "babylonWeak",
+          "timespan": {
+            "start": "1202 BC",
+            "end": "1185 BC"
+          }
+        },
+        {
+          "name": "Elam",
+          "style": "elamite",
+          "timespan": {
+            "start": "1185 BC",
+            "end": "1157 BC"
+          }
         },
         {
           "name": "Isin II",
@@ -7324,14 +7347,32 @@
             "startApproximate": true,
             "start": "1500 BC",
             "endApproximate": true,
-            "end": "1300 BC"
+            "end": "1392 BC"
           }
+        },
+        {
+          "name": "Hittite Empire",
+          "style": "hittite",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1392 BC",
+            "endApproximate": true,
+            "end": "1330 BC"
+          }
+        },
+        {
+          "name": "Middle Assyrian Empire",
+          "timespan": {
+            "start": "1260 BC",
+            "end": "1020 BC"
+          },
+          "style": "assyria"
         },
         {
           "name": "Bronze Age Collapse",
           "timespan": {
             "startApproximate": true,
-            "start": "1074 BC",
+            "start": "1020 BC",
             "endApproximate": true,
             "end": "900 BC"
           },
@@ -8862,6 +8903,16 @@
             "end": "2154 BC"
           },
           "style": "akkad"
+        },
+        {
+          "name": "Hittite Empire",
+          "style": "hittite",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1392 BC",
+            "endApproximate": true,
+            "end": "1210 BC"
+          }
         },
         {
           "name": "Neo-Assyria",
