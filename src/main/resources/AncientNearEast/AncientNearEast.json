@@ -7308,6 +7308,26 @@
           "style": "neosumer"
         },
         {
+          "name": "Old Assyrian Empire",
+          "style": "assyria",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1795 BC",
+            "endApproximate": true,
+            "end": "1736 BC"
+          }
+        },
+        {
+          "name": "Mitanni",
+          "style": "mitanni",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1500 BC",
+            "endApproximate": true,
+            "end": "1300 BC"
+          }
+        },
+        {
           "name": "Bronze Age Collapse",
           "timespan": {
             "startApproximate": true,
