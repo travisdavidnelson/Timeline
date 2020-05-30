@@ -1804,6 +1804,18 @@
             },
             {
               "name": "Egypt XV Hyksos",
+              "backgroundEvents": [
+                {
+                  "name": "Hyksos",
+                  "style": "hyksos",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1705 BC",
+                    "endApproximate": true,
+                    "end": "1540 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Salitis",
