@@ -203,8 +203,8 @@
 		<line x1="700" y1="5172" x2="700" y2="5179" class="timeline"/>
 		<line x1="700" y1="50" x2="700" y2="5179" class="timeline"/>
 
-<text x="630" y="40" class="year">3000 BC</text>
-<text x="630" y="5219" class="year">3000 BC</text>		<line x1="700" y1="50" x2="700" y2="70" class="timeline"/>
+<text x="630" y="40" class="yearMajor">3000 BC</text>
+<text x="630" y="5219" class="yearMajor">3000 BC</text>		<line x1="700" y1="50" x2="700" y2="70" class="timeline"/>
 		<line x1="700" y1="5159" x2="700" y2="5179" class="timeline"/>
 		<line x1="730" y1="50" x2="730" y2="70" class="timeline"/>
 		<line x1="730" y1="5159" x2="730" y2="5179" class="timeline"/>
@@ -453,8 +453,8 @@
 		<line x1="3700" y1="5172" x2="3700" y2="5179" class="timeline"/>
 		<line x1="3700" y1="50" x2="3700" y2="5179" class="timeline"/>
 
-<text x="3630" y="40" class="year">2000 BC</text>
-<text x="3630" y="5219" class="year">2000 BC</text>		<line x1="3700" y1="50" x2="3700" y2="70" class="timeline"/>
+<text x="3630" y="40" class="yearMajor">2000 BC</text>
+<text x="3630" y="5219" class="yearMajor">2000 BC</text>		<line x1="3700" y1="50" x2="3700" y2="70" class="timeline"/>
 		<line x1="3700" y1="5159" x2="3700" y2="5179" class="timeline"/>
 		<line x1="3730" y1="50" x2="3730" y2="70" class="timeline"/>
 		<line x1="3730" y1="5159" x2="3730" y2="5179" class="timeline"/>
@@ -703,8 +703,8 @@
 		<line x1="6700" y1="5172" x2="6700" y2="5179" class="timeline"/>
 		<line x1="6700" y1="50" x2="6700" y2="5179" class="timeline"/>
 
-<text x="6630" y="40" class="year">1000 BC</text>
-<text x="6630" y="5219" class="year">1000 BC</text>		<line x1="6700" y1="50" x2="6700" y2="70" class="timeline"/>
+<text x="6630" y="40" class="yearMajor">1000 BC</text>
+<text x="6630" y="5219" class="yearMajor">1000 BC</text>		<line x1="6700" y1="50" x2="6700" y2="70" class="timeline"/>
 		<line x1="6700" y1="5159" x2="6700" y2="5179" class="timeline"/>
 		<line x1="6730" y1="50" x2="6730" y2="70" class="timeline"/>
 		<line x1="6730" y1="5159" x2="6730" y2="5179" class="timeline"/>
@@ -953,8 +953,8 @@
 		<line x1="9700" y1="5172" x2="9700" y2="5179" class="timeline"/>
 		<line x1="9700" y1="50" x2="9700" y2="5179" class="timeline"/>
 
-<text x="9660" y="40" class="year">AD 1</text>
-<text x="9660" y="5219" class="year">AD 1</text>
+<text x="9660" y="40" class="yearMajor">AD 1</text>
+<text x="9660" y="5219" class="yearMajor">AD 1</text>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Narmer" target="_blank"><rect id="Narmer" x="250" y="122" width="150" height="40" class="egyptian"/><rect x="244" y="122" width="162" height="40" class="pharaoh""  mask="url(#fadeInOutMask)"/>
 <text x="253" y="152" class="major">NARMER</text><title>Narmer (3150 BC - 3100 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hor-Aha" target="_blank"><rect id="Hor-Aha" x="400" y="172" width="150" height="15" class="egyptian"/><rect x="394" y="172" width="162" height="15" class="pharaoh""  mask="url(#fadeInOutMask)"/>

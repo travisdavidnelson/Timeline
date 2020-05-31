@@ -364,8 +364,12 @@ public class TimelineSvgBuilder {
 					int textXDiff = 10 * yearString.length();
 					int topYearOffset = timeline.getConfig().getTopYearOffset();
 					int bottomYearOffset = timeline.getConfig().getBottomYearOffset();
-					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - topYearOffset, "year", stringBuilder);
-					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + bottomYearOffset, "year", stringBuilder);
+					String yearClass = "year";
+					if (year % 1000 == 0 || year == 1) {
+						yearClass = "yearMajor";
+					}
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - topYearOffset, yearClass, stringBuilder);
+					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + bottomYearOffset, yearClass, stringBuilder);
 				}
 				if (year % minorTickineYears == 0) {
 					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
