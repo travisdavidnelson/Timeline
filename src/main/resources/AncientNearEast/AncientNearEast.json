@@ -6300,6 +6300,16 @@
           "dynasties": [
             {
               "name": "Babylon Kassite",
+              "backgroundEvents": [
+                {
+                  "name": "Assyrian intervention",
+                  "style": "assyrian",
+                  "timespan": {
+                    "start": "1332 BC",
+                    "end": "1330 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Agum II",
@@ -8343,6 +8353,14 @@
                     "end": "1050 BC"
                   },
                   "style": "assyria"
+                },
+                {
+                  "name": "Assyrian intervention in Babylon",
+                  "style": "backgroundForeignWarVictory",
+                  "timespan": {
+                    "start": "1332 BC",
+                    "end": "1330 BC"
+                  }
                 }
               ],
               "people": [
