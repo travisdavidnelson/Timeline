@@ -2966,6 +2966,18 @@
             },
             {
               "name": "High Priests of Amun at Thebes",
+              "backgroundEvents": [
+                {
+                  "name": "High Priests of Amun at Thebes",
+                  "style": "egyptThebes",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1090 BC",
+                    "endApproximate": true,
+                    "end": "760 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Pinedjem I",
@@ -6101,9 +6113,9 @@
                   "style": "babylonian",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1830 BC",
+                    "start": "1728 BC",
                     "endApproximate": true,
-                    "end": "1531 BC"
+                    "end": "1686 BC"
                   }
                 }
               ],
@@ -7351,6 +7363,15 @@
           }
         },
         {
+          "name": "Babylonian Empire",
+          "timespan": {
+            "startApproximate": true,
+            "start": "1746 BC",
+            "end": "1680 BC"
+          },
+          "style": "babylon"
+        },
+        {
           "name": "Mitanni",
           "style": "mitanni",
           "timespan": {
@@ -7733,6 +7754,16 @@
                     "end": "1378 BC"
                   },
                   "style": "assyria"
+                },
+                {
+                  "name": "Babylonia Empire",
+                  "style": "babylon",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1728 BC",
+                    "endApproximate": true,
+                    "end": "1686 BC"
+                  }
                 }
               ],
               "people": [
