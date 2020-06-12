@@ -9051,6 +9051,14 @@
                   "style": "hittite"
                 },
                 {
+                  "name": "Hittite Sack of Babylon",
+                  "timespan": {
+                    "start": "1532 BC",
+                    "end": "1531 BC"
+                  },
+                  "style": "backgroundForeignWarVictory"
+                },
+                {
                   "name": "Hittite Middle Kingdom",
                   "timespan": {
                     "startApproximate": true,
