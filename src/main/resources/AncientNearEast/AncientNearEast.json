@@ -4020,7 +4020,7 @@
             "endApproximate": true,
             "end": "2000 BC"
           },
-          "style": "sumer"
+          "style": "sumerWeak"
         },
         {
           "name": "Empire of Lugalzagesi",
@@ -4257,6 +4257,18 @@
             },
             {
               "name": "Uruk I",
+              "backgroundEvents": [
+                {
+                  "name": "Uruk",
+                  "style": "uruk",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2790 BC",
+                    "endApproximate": true,
+                    "end": "2550 BC"
+                  }
+                }
+              ],
               "people": [
                 {
                   "name": "Gilgamesh",
