@@ -8974,6 +8974,15 @@
           }
         },
         {
+          "name": "Bronze Age collapse",
+          "timespan": {
+            "start": "1220 BC",
+            "end": "910 BC",
+            "endApproximate": true
+          },
+          "style": "backgroundDarkAge"
+        },
+        {
           "name": "Neo-Assyria",
           "timespan": {
             "start": "738 BC",
