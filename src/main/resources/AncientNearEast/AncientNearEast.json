@@ -57,7 +57,7 @@
       "timespan": {
         "start": "4000 BC",
         "endApproximate": true,
-        "end": "1100 BC"
+        "end": "1000 BC"
       }
     },
     {
@@ -4051,16 +4051,6 @@
           "style": "sumer"
         },
         {
-          "name": "Dark Age",
-          "style": "backgroundDarkAge",
-          "timespan": {
-            "startApproximate": true,
-            "start": "2100 BC",
-            "endApproximate": true,
-            "end": "2050 BC"
-          }
-        },
-        {
           "name": "Akkadian Empire",
           "timespan": {
             "start": "2270 BC",
@@ -7440,16 +7430,6 @@
           "style": "assyria"
         },
         {
-          "name": "Bronze Age Collapse",
-          "timespan": {
-            "startApproximate": true,
-            "start": "1020 BC",
-            "endApproximate": true,
-            "end": "900 BC"
-          },
-          "style": "backgroundDarkAge"
-        },
-        {
           "name": "Neo-Assyrian",
           "timespan": {
             "startApproximate": true,
@@ -9014,15 +8994,6 @@
           }
         },
         {
-          "name": "Bronze Age collapse",
-          "timespan": {
-            "start": "1220 BC",
-            "end": "910 BC",
-            "endApproximate": true
-          },
-          "style": "backgroundDarkAge"
-        },
-        {
           "name": "Neo-Assyria",
           "timespan": {
             "startApproximate": true,
@@ -9268,15 +9239,6 @@
                     "startApproximate": true
                   },
                   "style": "backgroundNationalCalamity"
-                },
-                {
-                  "name": "Bronze Age collapse",
-                  "timespan": {
-                    "start": "1178 BC",
-                    "end": "1100 BC",
-                    "endApproximate": true
-                  },
-                  "style": "backgroundDarkAge"
                 }
               ],
               "people": [
