@@ -135,6 +135,14 @@
           "style": "egyptNewKingdom"
         },
         {
+          "name": "Battle of Kadesh",
+          "style": "battle",
+          "timespan": {
+            "start": "5/1274 BC",
+            "end": "6/1274 BC"
+          }
+        },
+        {
           "name": "Third Intermediate Period",
           "timespan": {
             "startApproximate": true,
@@ -8994,6 +9002,14 @@
           }
         },
         {
+          "name": "Battle of Kadesh",
+          "style": "battle",
+          "timespan": {
+            "start": "5/1274 BC",
+            "end": "6/1274 BC"
+          }
+        },
+        {
           "name": "Neo-Assyria",
           "timespan": {
             "startApproximate": true,
@@ -9230,6 +9246,14 @@
                     "end": "1178 BC"
                   },
                   "style": "hittite"
+                },
+                {
+                  "name": "Battle of Kadesh",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "5/1274 BC",
+                    "end": "6/1274 BC"
+                  }
                 },
                 {
                   "name": "Fall of Hattusa",
