@@ -4184,6 +4184,16 @@
         {
           "name": "Neo-Assyria",
           "timespan": {
+            "startApproximate": true,
+            "start": "855 BC",
+            "endApproximate": true,
+            "end": "820 BC"
+          },
+          "style": "neoassyria"
+        },
+        {
+          "name": "Neo-Assyria",
+          "timespan": {
             "start": "729 BC",
             "end": "626 BC"
           },
@@ -8993,6 +9003,16 @@
             "endApproximate": true
           },
           "style": "backgroundDarkAge"
+        },
+        {
+          "name": "Neo-Assyria",
+          "timespan": {
+            "startApproximate": true,
+            "start": "870 BC",
+            "endApproximate": true,
+            "end": "820 BC"
+          },
+          "style": "neoassyria"
         },
         {
           "name": "Neo-Assyria",
