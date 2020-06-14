@@ -220,12 +220,12 @@ public class TimelineSvgBuilder {
 		int x = lastPersonX;
 		TimelineInstant start = person.getTimespan().getStart();
 		if (start != null) {
-			x = instantToX(start);
+			x = instantToX(max(start, timeline.getTimespan().getStart()));
 		}
 		if (person.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearPersonAdjustment * 365);
 		}
-		long duration = person.getTimespan().getDuration(timeline.getTimespan().getEnd());
+		long duration = person.getTimespan().getDuration(timeline.getTimespan());
 		if (person.getTimespan().getStartApproximate()) {
 			duration += approximateYearPersonAdjustment * 365;
 		}
@@ -304,8 +304,8 @@ public class TimelineSvgBuilder {
 	private void getBackgroundSVG(TimelineEvent backgroundEvent, int yStart, int yEnd, boolean addFootprint, StringBuilder stringBuilder) {
 		String id = backgroundEvent.getName().replaceAll(" ", "_");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
-		int x = instantToX(backgroundEvent.getTimespan().getStart());
-		long duration = backgroundEvent.getTimespan().getDuration(timeline.getTimespan().getEnd());
+		int x = instantToX(max(backgroundEvent.getTimespan().getStart(), timeline.getTimespan().getStart()));
+		long duration = backgroundEvent.getTimespan().getDuration(timeline.getTimespan());
 		if (duration > approximateYearBackgroundAdjustment * 365 * 10) {
 			if (backgroundEvent.getTimespan().getStartApproximate()) {
 				x -= getWidth(approximateYearBackgroundAdjustment * 365);
@@ -447,7 +447,15 @@ public class TimelineSvgBuilder {
 		result.append("</html>\n ");
 		return result.toString();
 	}
-	
+
+	protected TimelineInstant max(TimelineInstant i1, TimelineInstant i2) {
+		TimelineInstant result = i1;
+		if (result == null || (i2 != null && i2.isAfter(i1))) {
+			result = i2;
+		}
+		return result;
+	}
+
 	protected int instantToX(TimelineInstant instant) {
 		return (int) (Math.round(slope() * minDisplayInstant.getDifferenceInDays(instant)) + xStart);
 	}

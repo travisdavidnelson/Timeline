@@ -55,7 +55,6 @@
       "name": "Bronze Age",
       "style": "bronzeAge",
       "timespan": {
-        "startApproximate": true,
         "start": "4000 BC",
         "endApproximate": true,
         "end": "1100 BC"
@@ -79,8 +78,7 @@
         {
           "name": "Early Dynastic Period",
           "timespan": {
-            "startApproximate": true,
-            "start": "3150 BC",
+            "start": "3200 BC",
             "endApproximate": true,
             "end": "2686 BC"
           },
@@ -4036,7 +4034,6 @@
         {
           "name": "Ancient Sumer",
           "timespan": {
-            "startApproximate": true,
             "start": "4000 BC",
             "endApproximate": true,
             "end": "2000 BC"

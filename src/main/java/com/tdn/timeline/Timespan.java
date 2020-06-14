@@ -44,16 +44,20 @@ public class Timespan {
 	public long getDuration() {
 		return getDuration(null);
 	}
-	public long getDuration(TimelineInstant hardStop) {
+	public long getDuration(Timespan hardStop) {
 		if (duration == 0) {
+            TimelineInstant durationStart = start;
+            if (hardStop != null && hardStop.getStart() != null && hardStop.getStart().isAfter(durationStart)) {
+                durationStart = hardStop.getStart();
+            }
 			TimelineInstant durationEnd = TimelineInstant.NOW;
 			if (end != null) {
 				durationEnd = end;
 			}
-			if (hardStop != null && hardStop.isBefore(durationEnd)) {
-				durationEnd = hardStop;
+			if (hardStop != null && hardStop.getEnd() != null && hardStop.getEnd().isBefore(durationEnd)) {
+				durationEnd = hardStop.getEnd();
 			}
-			duration = start.getDifferenceInDays(durationEnd);
+			duration = durationStart.getDifferenceInDays(durationEnd);
 		}
 		return duration;
 	}
