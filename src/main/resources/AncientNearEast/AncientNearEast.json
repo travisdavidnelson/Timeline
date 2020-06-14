@@ -50,7 +50,28 @@
       "petty": 0
     }
   },
-  "backgroundEvents": [],
+  "backgroundEvents": [
+    {
+      "name": "Bronze Age",
+      "style": "bronzeAge",
+      "timespan": {
+        "startApproximate": true,
+        "start": "4000 BC",
+        "endApproximate": true,
+        "end": "1100 BC"
+      }
+    },
+    {
+      "name": "Iron Age",
+      "style": "ironAge",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1100 BC",
+        "endApproximate": true,
+        "end": "1 BC"
+      }
+    }
+  ],
   "channels": [
     {
       "name": "Egypt",

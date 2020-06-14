@@ -93,11 +93,11 @@ public class TimelineSvgBuilder {
 					getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
 				}
 				for (TimelineEvent backgroundEvent : channel.getBackgroundEvents()) {
-					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
+					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 				}
 				for (DynastyGroup dynastyGroup : channel.getDynastyGroups()) {
 					for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
-						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, backgroundStringBuilder);
+						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 					}
 					for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 						Person firstPerson = dynasty.getFirstPerson();
@@ -134,7 +134,7 @@ public class TimelineSvgBuilder {
 			addGridlinesSVG(timelineStringBuilder);
 			
 			for (TimelineEvent backgroundEvent : timeline.getBackgroundEvents()) {
-				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, backgroundStringBuilder);
+				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, trye, backgroundStringBuilder);
 			}
 
 			StringBuilder result = new StringBuilder();
