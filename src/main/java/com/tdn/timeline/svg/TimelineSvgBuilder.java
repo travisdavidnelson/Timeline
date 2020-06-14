@@ -280,13 +280,13 @@ public class TimelineSvgBuilder {
 		TimelineInstant startInstant = title.getTimespan().getStart();
 		int x = lastPersonX;
 		if (startInstant != null) {
-			x = instantToX(startInstant);
+			x = instantToX(max(startInstant, timeline.getTimespan().getStart()));
 		}
 		if (title.getTimespan().getStartApproximate()) {
 			x -= getWidth(approximateYearTitleAdjustment * 365);
 		}
 		int y = nextPersonYStart;
-		long duration = title.getTimespan().getDuration();
+		long duration = title.getTimespan().getDuration(timeline.getTimespan());
 		if (title.getTimespan().getStartApproximate()) {
 			duration += approximateYearTitleAdjustment * 365;
 		}
