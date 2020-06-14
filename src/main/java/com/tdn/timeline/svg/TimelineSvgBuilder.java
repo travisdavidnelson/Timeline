@@ -80,6 +80,7 @@ public class TimelineSvgBuilder {
 			StringBuilder foregroundStringBuilder = new StringBuilder();
 			StringBuilder timelineStringBuilder = new StringBuilder();
 			StringBuilder backgroundStringBuilder = new StringBuilder();
+			StringBuilder superBackgroundStringBuilder = new StringBuilder();
 			int nextTimelineY = yTimelineStart;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
@@ -134,7 +135,7 @@ public class TimelineSvgBuilder {
 			addGridlinesSVG(timelineStringBuilder);
 			
 			for (TimelineEvent backgroundEvent : timeline.getBackgroundEvents()) {
-				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, trye, backgroundStringBuilder);
+				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, true, superBackgroundStringBuilder);
 			}
 
 			StringBuilder result = new StringBuilder();
@@ -149,6 +150,8 @@ public class TimelineSvgBuilder {
 			result.append(width);
 			result.append(" "+yMax+"\" xml:space=\"preserve\">\n");
 			result.append(" " + getGradientDefs() + "\n");
+			result.append(superBackgroundStringBuilder);
+			result.append("\n");
 			result.append(backgroundStringBuilder);
 			result.append("\n");
 			result.append(timelineStringBuilder);
