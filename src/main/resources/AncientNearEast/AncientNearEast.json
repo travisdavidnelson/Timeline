@@ -7525,7 +7525,7 @@
                     "startApproximate": true,
                     "start": "2025 BC",
                     "endApproximate": true,
-                    "end": "1378 BC"
+                    "end": "1780 BC"
                   },
                   "style": "assyria"
                 }
@@ -7684,7 +7684,7 @@
                   "name": "Old Assyrian Empire",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "2025 BC",
+                    "start": "1820 BC",
                     "endApproximate": true,
                     "end": "1378 BC"
                   },
@@ -7786,21 +7786,11 @@
                   "name": "Old Assyrian Empire",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "2025 BC",
+                    "start": "1720 BC",
                     "endApproximate": true,
                     "end": "1378 BC"
                   },
                   "style": "assyria"
-                },
-                {
-                  "name": "Babylonia Empire",
-                  "style": "babylon",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "1728 BC",
-                    "endApproximate": true,
-                    "end": "1686 BC"
-                  }
                 }
               ],
               "people": [
