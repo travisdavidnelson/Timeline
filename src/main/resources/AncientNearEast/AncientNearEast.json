@@ -7432,7 +7432,7 @@
         {
           "name": "Middle Assyrian Empire",
           "timespan": {
-            "start": "1260 BC",
+            "start": "1290 BC",
             "end": "1020 BC"
           },
           "style": "assyria"
@@ -8267,7 +8267,7 @@
                 {
                   "name": "Adad-nirari I",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
@@ -8283,7 +8283,7 @@
                 {
                   "name": "Shalmaneser I",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "major",
                   "titles": [
                     {
                       "name": "king",
