@@ -7797,7 +7797,7 @@
                 {
                   "name": "Bel-bani",
                   "style": "assyrian",
-                  "importance": "major",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "king",
@@ -7813,7 +7813,7 @@
                 {
                   "name": "Libaya",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -7845,7 +7845,7 @@
                 {
                   "name": "Iptar-Sin",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7861,7 +7861,7 @@
                 {
                   "name": "Bazaya",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7877,7 +7877,7 @@
                 {
                   "name": "Lullaya",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7893,7 +7893,7 @@
                 {
                   "name": "Shu-Ninua",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7909,7 +7909,7 @@
                 {
                   "name": "Sharma-Adad I",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7925,7 +7925,7 @@
                 {
                   "name": "Erishum III",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7941,7 +7941,7 @@
                 {
                   "name": "Shamshi-Adad II",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7957,7 +7957,7 @@
                 {
                   "name": "Ishme-Dagan II",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -7973,7 +7973,7 @@
                 {
                   "name": "Shamshi-Adad III",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8021,7 +8021,7 @@
                 {
                   "name": "Enlil-Nasir I",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8037,7 +8037,7 @@
                 {
                   "name": "Nur-ili",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8053,7 +8053,7 @@
                 {
                   "name": "Ashur-shaduni",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8069,7 +8069,7 @@
                 {
                   "name": "Ashur-rabi I",
                   "style": "assyrian",
-                  "importance": "semimajor",
+                  "importance": "minor",
                   "titles": [
                     {
                       "name": "king",
@@ -8085,7 +8085,7 @@
                 {
                   "name": "Ashur-nadin-anhe I",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8101,7 +8101,7 @@
                 {
                   "name": "Enlil-nasir II",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8117,7 +8117,7 @@
                 {
                   "name": "Ashur-nirari II",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8133,7 +8133,7 @@
                 {
                   "name": "Ashur-bel-nisheshu",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8149,7 +8149,7 @@
                 {
                   "name": "Ashur-rim-nisheshu",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
@@ -8165,7 +8165,7 @@
                 {
                   "name": "Ashur-nadim-ahhe II",
                   "style": "assyrian",
-                  "importance": "minor",
+                  "importance": "petty",
                   "titles": [
                     {
                       "name": "king",
