@@ -2399,6 +2399,14 @@
             {
               "name": "Invasion of Sea People",
               "timespan": {
+                "start": "1208 BC",
+                "end": "1206 BC"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Invasion of Sea People",
+              "timespan": {
                 "start": "1178 BC",
                 "end": "1175 BC"
               },
@@ -2486,7 +2494,7 @@
                 {
                   "name": "Merneptah",
                   "style": "egyptian",
-                  "importance": "minor",
+                  "importance": "semimajor",
                   "titles": [
                     {
                       "name": "pharaoh",
