@@ -7855,6 +7855,54 @@
                       }
                     }
                   ]
+                },
+                {
+                  "name": "Artatama I",
+                  "style": "hurrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1430 BC",
+                        "endApproximate": true,
+                        "end": "1405 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Shuttarna II",
+                  "style": "hurrian",
+                  "importance": "semimajor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1405 BC",
+                        "endApproximate": true,
+                        "end": "1392 BC"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Tushratta",
+                  "style": "hurrian",
+                  "importance": "minor",
+                  "titles": [
+                    {
+                      "name": "king",
+                      "timespan": {
+                        "startApproximate": true,
+                        "start": "1392 BC",
+                        "endApproximate": true,
+                        "end": "1380 BC"
+                      }
+                    }
+                  ]
                 }
               ]
             },
