@@ -7419,7 +7419,7 @@
         },
         {
           "name": "Mitanni",
-          "style": "mitanni",
+          "style": "hurrian",
           "timespan": {
             "startApproximate": true,
             "start": "1500 BC",
@@ -7804,7 +7804,7 @@
               "backgroundEvents": [
                 {
                   "name": "Mitanni",
-                  "style": "mitanni",
+                  "style": "hurrian",
                   "timespan": {
                     "startApproximate": true,
                     "start": "1500 BC",
@@ -7826,7 +7826,7 @@
               "people": [
                 {
                   "name": "Parshatatar",
-                  "style": "mitanni",
+                  "style": "hurrian",
                   "importance": "minor",
                   "titles": [
                     {
@@ -7842,7 +7842,7 @@
                 },
                 {
                   "name": "Shaushtatar",
-                  "style": "mitanni",
+                  "style": "hurrian",
                   "importance": "semimajor",
                   "titles": [
                     {
