@@ -16,8 +16,12 @@ public class ModelBuilder<T> {
     }
 
     public T populateFromFile(Class<T> type, File file) throws IOException {
-        T result = null;
         String json = FileUtilities.getFileContents(file);
+        return populateFromFile(type, json);
+    }
+
+    public T populateFromFile(Class<T> type, String json) throws IOException {
+        T result = null;
         Gson gson = new GsonBuilder()
                 .registerTypeAdapter(Timespan.class, new TimespanDeserializer())
                 .create();

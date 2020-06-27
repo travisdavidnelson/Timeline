@@ -1,5 +1,6 @@
 package com.tdn.timeline.svg;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -9,6 +10,7 @@ import com.tdn.timeline.*;
 import com.tdn.timeline.util.TimeUtilities;
 import com.tdn.timeline.util.TimelineInstant;
 import com.tdn.util.FileUtilities;
+import com.tdn.util.ModelBuilder;
 
 public class TimelineSvgBuilder {
 
@@ -86,39 +88,48 @@ public class TimelineSvgBuilder {
 			timelineYPositions.add(nextTimelineY);
 			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			int channelStart = yTimelineStart + timeline.getConfig().getDynastyStart();
-			for (History channel : timeline.getChannels()) {
-				System.out.println("  adding channel "+channel);
-				timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
-				for (DynastyGroup series : channel.getDynastyGroups()) {
-					dynastyStart = channelStart;
-					getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
-				}
-				for (TimelineEvent backgroundEvent : channel.getBackgroundEvents()) {
-					getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
-				}
-				for (DynastyGroup dynastyGroup : channel.getDynastyGroups()) {
-					for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
+			for (Channel channel : timeline.getChannels()) {
+				try {
+					System.out.println("  adding channel " + channel);
+					String filename = "history/" + channel.getResource() + ".json";
+					File historyFile = FileUtilities.getResourceAsFile(filename);
+					ModelBuilder<History> modelBuilder = new ModelBuilder<>();
+					History history = modelBuilder.populateFromFile(History.class, historyFile);
+					timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
+					for (DynastyGroup series : history.getDynastyGroups()) {
+						dynastyStart = channelStart;
+						getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
+					}
+					for (TimelineEvent backgroundEvent : history.getBackgroundEvents()) {
 						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 					}
-					for (Dynasty dynasty : dynastyGroup.getDynasties()) {
-						Person firstPerson = dynasty.getFirstPerson();
-						Person lastPerson = dynasty.getLastPerson();
-						int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
-						int yEnd = maxLifetimeYEnd + dynastyDiff;
-						if (lastPerson != null) {
-							yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
+					for (DynastyGroup dynastyGroup : history.getDynastyGroups()) {
+						for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
+							getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 						}
+						for (Dynasty dynasty : dynastyGroup.getDynasties()) {
+							Person firstPerson = dynasty.getFirstPerson();
+							Person lastPerson = dynasty.getLastPerson();
+							int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
+							int yEnd = maxLifetimeYEnd + dynastyDiff;
+							if (lastPerson != null) {
+								yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
+							}
 
-						for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
-							getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+							for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
+								getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+							}
 						}
 					}
+					int textXStart = channelXOffset;
+					int textYStart = maxLifetimeYEnd - channelYOffset;
+					addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
+					channelStart = maxLifetimeYEnd + dynastyDiff;
+					channelCount++;
+				} catch (Exception e) {
+					System.err.println("Caught exception processing channel " + channel);
+					e.printStackTrace();
 				}
-				int textXStart = channelXOffset;
-				int textYStart = maxLifetimeYEnd - channelYOffset;
-				addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
-				channelStart = maxLifetimeYEnd + dynastyDiff;
-				channelCount++;
 			}
 			dynastyStart = maxLifetimeYEnd + dynastyDiff;
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;

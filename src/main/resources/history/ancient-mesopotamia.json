@@ -1,0 +1,3331 @@
+{
+  "name": "Mesopotamia",
+  "backgroundEvents": [
+    {
+      "name": "Ancient Sumer",
+      "timespan": {
+        "start": "4000 BC",
+        "endApproximate": true,
+        "end": "2000 BC"
+      },
+      "style": "sumerWeak"
+    },
+    {
+      "name": "Empire of Lugalzagesi",
+      "timespan": {
+        "startApproximate": true,
+        "start": "2300 BC",
+        "endApproximate": true,
+        "end": "2270 BC"
+      },
+      "style": "sumer"
+    },
+    {
+      "name": "Akkadian Empire",
+      "timespan": {
+        "start": "2270 BC",
+        "endApproximate": true,
+        "end": "2090 BC"
+      },
+      "style": "akkad"
+    },
+    {
+      "name": "Conquests of Sargon",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "startApproximate": true,
+        "start": "2268 BC",
+        "endApproximate": true,
+        "duration": "5y"
+      }
+    },
+    {
+      "name": "Ur III",
+      "timespan": {
+        "startApproximate": true,
+        "start": "2055 BC",
+        "end": "1950 BC",
+        "endApproximate": true
+      },
+      "style": "neosumer"
+    },
+    {
+      "name": "Collapse of Ur III",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1960 BC",
+        "endApproximate": true,
+        "end": "1940 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Conquest of Ur III",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1943 BC",
+        "endApproximate": true,
+        "end": "1940 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Amorites",
+      "timespan": {
+        "startApproximate": true,
+        "start": "2000 BC",
+        "endApproximate": true,
+        "end": "1595 BC"
+      },
+      "style": "amorite"
+    },
+    {
+      "name": "Larsa",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1770 BC",
+        "endApproximate": true,
+        "end": "1728 BC"
+      },
+      "style": "larsa"
+    },
+    {
+      "name": "First Babylonian Empire",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1728 BC",
+        "end": "1531 BC"
+      },
+      "style": "babylon"
+    },
+    {
+      "name": "Hittite Sack of Babylon",
+      "timespan": {
+        "start": "1531 BC",
+        "end": "1531 BC"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Babylon Kassite",
+      "style": "babylonWeak",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1531 BC",
+        "end": "1235 BC"
+      }
+    },
+    {
+      "name": "Middle Assyrian Empire",
+      "style": "assyria",
+      "timespan": {
+        "start": "1235 BC",
+        "end": "1202 BC"
+      }
+    },
+    {
+      "name": "Babylon Kassite",
+      "style": "babylonWeak",
+      "timespan": {
+        "start": "1202 BC",
+        "end": "1185 BC"
+      }
+    },
+    {
+      "name": "Elam",
+      "style": "elamite",
+      "timespan": {
+        "start": "1185 BC",
+        "end": "1157 BC"
+      }
+    },
+    {
+      "name": "Isin II",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1157 BC",
+        "endApproximate": true,
+        "end": "1025 BC"
+      },
+      "style": "babylon"
+    },
+    {
+      "name": "Bronze Age Collapse",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1025 BC",
+        "endApproximate": true,
+        "end": "729 BC"
+      },
+      "style": "babylonWeak"
+    },
+    {
+      "name": "Neo-Assyria",
+      "timespan": {
+        "startApproximate": true,
+        "start": "855 BC",
+        "endApproximate": true,
+        "end": "820 BC"
+      },
+      "style": "neoassyria"
+    },
+    {
+      "name": "Neo-Assyria",
+      "timespan": {
+        "start": "729 BC",
+        "end": "626 BC"
+      },
+      "style": "neoassyria"
+    },
+    {
+      "name": "Neo-Babylonia",
+      "timespan": {
+        "start": "626 BC",
+        "end": "10/539 BC"
+      },
+      "style": "neobabylon"
+    },
+    {
+      "name": "Achaemenid Empire",
+      "timespan": {
+        "start": "10/539 BC",
+        "end": "330 BC"
+      },
+      "style": "achaemenid"
+    },
+    {
+      "name": "Macedonian Empire",
+      "timespan": {
+        "start": "330 BC",
+        "end": "323 BC"
+      },
+      "style": "macedon"
+    },
+    {
+      "name": "Seleucid Empire",
+      "timespan": {
+        "start": "323 BC",
+        "end": "141 BC"
+      },
+      "style": "seleucid"
+    },
+    {
+      "name": "Parthian Empire",
+      "timespan": {
+        "start": "141 BC",
+        "end": "224"
+      },
+      "style": "parthianEmpire"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Sumer",
+      "dynasties": [
+        {
+          "name": "Kish I",
+          "people": [
+            {
+              "name": "Aga",
+              "importance": "semimajor",
+              "style": "kish",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2790 BC",
+                    "endApproximate": true,
+                    "end": "2750 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Uruk I",
+          "backgroundEvents": [
+            {
+              "name": "Uruk",
+              "style": "uruk",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2790 BC",
+                "endApproximate": true,
+                "end": "2550 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Gilgamesh",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2770 BC",
+                "endApproximate": true,
+                "end": "2690 BC"
+              },
+              "style": "deified"
+            },
+            {
+              "name": "Ur-Nungal",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2690 BC",
+                    "endApproximate": true,
+                    "end": "2660 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "Udul-Kalama",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2660 BC",
+                    "endApproximate": true,
+                    "end": "2645 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "La-ba'shum",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2645 BC",
+                    "endApproximate": true,
+                    "end": "2636 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "En-nun-tarah-ana",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2636 BC",
+                    "endApproximate": true,
+                    "end": "2628 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "Mesh-he",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2628 BC",
+                    "endApproximate": true,
+                    "end": "2592 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "Melem-ana",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2592 BC",
+                    "endApproximate": true,
+                    "end": "2586 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            },
+            {
+              "name": "Lugal-kitun",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2586 BC",
+                    "endApproximate": true,
+                    "end": "2550 BC"
+                  }
+                }
+              ],
+              "style": "uruk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sumer II",
+      "dynasties": [
+        {
+          "name": "Kish III",
+          "backgroundEvents": [
+            {
+              "name": "Kish III",
+              "style": "kish",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2400 BC",
+                "endApproximate": true,
+                "end": "2280 BC"
+              }
+            },
+            {
+              "name": "Defeat by Lugalzagesi",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2285 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Kubaba&#9792;",
+              "importance": "semimajor",
+              "style": "kish",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2400 BC",
+                    "endApproximate": true,
+                    "duration": "80y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Puzur-Suen",
+              "importance": "minor",
+              "style": "kish",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "endApproximate": true,
+                    "duration": "25y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-Zababa",
+              "importance": "semimajor",
+              "style": "kish",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "endApproximate": true,
+                    "duration": "10y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lagash I",
+          "backgroundEvents": [
+            {
+              "name": "Lagash I",
+              "style": "lagash",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2550 BC",
+                "endApproximate": true,
+                "end": "2290 BC"
+              }
+            },
+            {
+              "name": "Bordar conflict with Umma",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2500 BC",
+                "end": "2296 BC"
+              }
+            },
+            {
+              "name": "Urukagina Revolution",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2321 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            },
+            {
+              "name": "Defeat by Lugalzagesi",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2296 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ur-Nanshe",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2550 BC",
+                    "endApproximate": true,
+                    "end": "2500 BC"
+                  }
+                }
+              ],
+              "style": "lagashian"
+            },
+            {
+              "name": "Eannatum",
+              "importance": "major",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2500 BC",
+                    "endApproximate": true,
+                    "end": "2400 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Enannatum I",
+              "importance": "minor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2450 BC",
+                    "endApproximate": true,
+                    "end": "2400 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Entemena",
+              "importance": "semimajor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2400 BC",
+                    "endApproximate": true,
+                    "end": "2360 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Enannatum II",
+              "importance": "petty",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2360 BC",
+                    "endApproximate": true,
+                    "end": "2340 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Legalanda",
+              "importance": "minor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2340 BC",
+                    "endApproximate": true,
+                    "end": "2320 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Urukagina",
+              "importance": "major",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2320 BC",
+                    "endApproximate": true,
+                    "end": "2295 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Umma I",
+          "backgroundEvents": [
+            {
+              "name": "Umma I",
+              "style": "lagash",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2550 BC",
+                "endApproximate": true,
+                "end": "2270 BC"
+              }
+            },
+            {
+              "name": "Bordar conflict with Lagash",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2500 BC",
+                "end": "2296 BC"
+              }
+            },
+            {
+              "name": "Defeat of Lagash",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2296 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            },
+            {
+              "name": "Defeat of Kish",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2285 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            },
+            {
+              "name": "Defeat by Sargon",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2271 BC",
+                "endApproximate": true,
+                "duration": "2y"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Pabilgagaltuko",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2475 BC",
+                    "endApproximate": true,
+                    "end": "2450 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ush",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2450 BC",
+                    "endApproximate": true,
+                    "end": "2425 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Enakalle",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2425 BC",
+                    "endApproximate": true,
+                    "end": "2400 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-Lumma",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2400 BC",
+                    "endApproximate": true,
+                    "end": "2375 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Il",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2375 BC",
+                    "endApproximate": true,
+                    "end": "2350 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gishakidu",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2350 BC",
+                    "endApproximate": true,
+                    "end": "2325 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ukush",
+              "importance": "minor",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2325 BC",
+                    "endApproximate": true,
+                    "end": "2300 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lugalzagesi",
+              "importance": "major",
+              "style": "sumerian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2300 BC",
+                    "endApproximate": true,
+                    "end": "2270 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ur I",
+          "people": [
+            {
+              "name": "Mesannepada",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2550 BC",
+                    "endApproximate": true,
+                    "end": "2470 BC"
+                  }
+                }
+              ],
+              "style": "ur"
+            },
+            {
+              "name": "Mesh-ki-ang-Nuna",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2470 BC",
+                    "endApproximate": true,
+                    "end": "2434 BC"
+                  }
+                }
+              ],
+              "style": "ur"
+            },
+            {
+              "name": "Elulu",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2434 BC",
+                    "endApproximate": true,
+                    "end": "2409 BC"
+                  }
+                }
+              ],
+              "style": "ur"
+            },
+            {
+              "name": "Balulu",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2409 BC",
+                    "endApproximate": true,
+                    "end": "2373 BC"
+                  }
+                }
+              ],
+              "style": "ur"
+            }
+          ]
+        },
+        {
+          "name": "Uruk II",
+          "people": [
+            {
+              "name": "Enshakushanna",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2525 BC",
+                    "endApproximate": true,
+                    "end": "2465 BC"
+                  }
+                }
+              ],
+              "style": "ur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akkad",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Akkad Sargon",
+          "backgroundEvents": [
+            {
+              "name": "Akkadian Empire",
+              "timespan": {
+                "start": "2270 BC",
+                "endApproximate": true,
+                "end": "2090 BC"
+              },
+              "style": "akkad"
+            },
+            {
+              "name": "Conquests of Sargon",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2270 BC",
+                "endApproximate": true,
+                "duration": "5y"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Sargon of Akkad",
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2270 BC",
+                    "endApproximate": true,
+                    "end": "2215 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Enheduanna&#9792;",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "highPriestess",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2240 BC",
+                    "endApproximate": true,
+                    "end": "2200 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rimush",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2215 BC",
+                    "endApproximate": true,
+                    "end": "2206 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Manishtushu",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2206 BC",
+                    "end": "2190 BC",
+                    "endApproximate": true
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Naram-Sin",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2190 BC",
+                    "endApproximate": true,
+                    "end": "2154 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shar-Kali-Sharri",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2154 BC",
+                    "endApproximate": true,
+                    "end": "2130 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dudu",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2126 BC",
+                    "endApproximate": true,
+                    "end": "2105 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shu-turul",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2105 BC",
+                    "endApproximate": true,
+                    "end": "2090 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lagash II",
+          "backgroundEvents": [
+            {
+              "name": "Lagash II",
+              "style": "lagash",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2157 BC",
+                "endApproximate": true,
+                "end": "2110 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ur-Baba",
+              "importance": "semimajor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2157 BC",
+                    "endApproximate": true,
+                    "end": "2144 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gudea",
+              "importance": "semimajor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2144 BC",
+                    "endApproximate": true,
+                    "end": "2124 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-Ningirsu",
+              "importance": "minor",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2124 BC",
+                    "endApproximate": true,
+                    "end": "2119 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-gar",
+              "importance": "petty",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2117 BC",
+                    "endApproximate": true,
+                    "end": "2113 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nam-mahani",
+              "importance": "petty",
+              "style": "lagashian",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2113 BC",
+                    "endApproximate": true,
+                    "end": "2110 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sumer Gutian",
+          "backgroundEvents": [
+            {
+              "name": "Gutians",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2135 BC",
+                "end": "2050 BC",
+                "endApproximate": true
+              },
+              "style": "gutian"
+            }
+          ],
+          "people": [
+            {
+              "name": "Inkishush",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2135 BC",
+                    "endApproximate": true,
+                    "end": "2129 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sarlagab",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2129 BC",
+                    "endApproximate": true,
+                    "end": "2123 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shulme",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2123 BC",
+                    "endApproximate": true,
+                    "end": "2117 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elulmesh",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2117 BC",
+                    "endApproximate": true,
+                    "end": "2111 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Inimabakesh",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2111 BC",
+                    "endApproximate": true,
+                    "end": "2106 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Igeshaush",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2106 BC",
+                    "endApproximate": true,
+                    "end": "2100 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yarlagab",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2100 BC",
+                    "endApproximate": true,
+                    "end": "2095 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ibate",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2095 BC",
+                    "endApproximate": true,
+                    "end": "2092 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yarla",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2092 BC",
+                    "endApproximate": true,
+                    "end": "2089 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kurum",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2089 BC",
+                    "endApproximate": true,
+                    "end": "2086 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Apilkin",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2086 BC",
+                    "endApproximate": true,
+                    "end": "2083 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "La-erabum",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2083 BC",
+                    "endApproximate": true,
+                    "end": "2081 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Irarum",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2081 BC",
+                    "endApproximate": true,
+                    "end": "2079 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ibranum",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2079 BC",
+                    "endApproximate": true,
+                    "end": "2078 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hablum",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2078 BC",
+                    "endApproximate": true,
+                    "end": "2076 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Puzur-Suen",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2076 BC",
+                    "endApproximate": true,
+                    "end": "2069 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yarlaganda",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2069 BC",
+                    "endApproximate": true,
+                    "end": "2062 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Si'um",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2062  BC",
+                    "endApproximate": true,
+                    "end": "2055 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Tirigan",
+              "importance": "petty",
+              "style": "gutian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2055 BC",
+                    "endApproximate": true,
+                    "end": "2055 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Early Babylonia",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Ur III",
+          "style": "backgroundInvasion",
+          "backgroundEvents": [
+            {
+              "name": "Ur III",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2055 BC",
+                "endApproximate": true,
+                "end": "1940 BC"
+              },
+              "style": "neosumer"
+            },
+            {
+              "name": "Collapse of Ur III",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1943 BC",
+                "endApproximate": true,
+                "end": "1940 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Utu-hengal",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2055 BC",
+                    "endApproximate": true,
+                    "end": "2048 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-Nammu",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2047 BC",
+                    "endApproximate": true,
+                    "end": "2030 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shulgi",
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2029 BC",
+                    "endApproximate": true,
+                    "end": "1982 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Amar-Sin",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1981 BC",
+                    "endApproximate": true,
+                    "end": "1973 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shu-Sin",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1972 BC",
+                    "endApproximate": true,
+                    "end": "1964 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ibbi-Sin",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1963 BC",
+                    "endApproximate": true,
+                    "end": "1940 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Larsa",
+          "backgroundEvents": [
+            {
+              "name": "Larsa",
+              "style": "larsa",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1961 BC",
+                "endApproximate": true,
+                "end": "1699 BC"
+              }                }
+          ],
+          "people": [
+            {
+              "name": "Naplanum",
+              "importance": "semimajor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1961 BC",
+                    "endApproximate": true,
+                    "end": "1940 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Emisum",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1940 BC",
+                    "endApproximate": true,
+                    "end": "1912 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Samium",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1912 BC",
+                    "endApproximate": true,
+                    "end": "1877 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Zabaia",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1877 BC",
+                    "endApproximate": true,
+                    "end": "1868 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gungunum",
+              "importance": "semimajor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1868 BC",
+                    "endApproximate": true,
+                    "end": "1841 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Abisare",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1841 BC",
+                    "endApproximate": true,
+                    "end": "1830 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sumuel",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1830 BC",
+                    "endApproximate": true,
+                    "end": "1801 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nur-Adad",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1801 BC",
+                    "endApproximate": true,
+                    "end": "1785 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sin-Iddinam",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1785 BC",
+                    "endApproximate": true,
+                    "end": "1778 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sin-Eribam",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1778 BC",
+                    "endApproximate": true,
+                    "end": "1776 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sin-Iqisham",
+              "importance": "minor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1776 BC",
+                    "endApproximate": true,
+                    "end": "1771 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Silli-Adad",
+              "importance": "petty",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1771 BC",
+                    "endApproximate": true,
+                    "end": "1770 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kudur-Mabuk",
+              "importance": "semimajor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1770 BC",
+                    "endApproximate": true,
+                    "end": "1754 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Warad-Sin",
+              "importance": "semimajor",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1770 BC",
+                    "endApproximate": true,
+                    "end": "1758 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rim-Sin I",
+              "importance": "major",
+              "style": "larsa",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1758 BC",
+                    "endApproximate": true,
+                    "end": "1699 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Isin",
+          "backgroundEvents": [
+            {
+              "name": "Isin I",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1953 BC",
+                "endApproximate": true,
+                "end": "1730 BC"
+              },
+              "style": "isin"
+            }
+          ],
+          "people": [
+            {
+              "name": "Ishbi-Erra",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1953 BC",
+                    "endApproximate": true,
+                    "end": "1921 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shu-Ilishu",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1920 BC",
+                    "endApproximate": true,
+                    "end": "1911 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Iddin-Dagan",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1910 BC",
+                    "endApproximate": true,
+                    "end": "1890 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ishme-Dagan",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1889 BC",
+                    "endApproximate": true,
+                    "end": "1871 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lipit-Eshtar",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1870 BC",
+                    "endApproximate": true,
+                    "end": "1860 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-Ninurta",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1859 BC",
+                    "endApproximate": true,
+                    "end": "1832 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bur-Sin",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1831 BC",
+                    "endApproximate": true,
+                    "end": "1811 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lipit-Enlil",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1810 BC",
+                    "endApproximate": true,
+                    "end": "1806 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ura-Imitti",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1805 BC",
+                    "endApproximate": true,
+                    "end": "1799 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Enlil-bani",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1798 BC",
+                    "endApproximate": true,
+                    "end": "1775 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Zambiya",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1774 BC",
+                    "endApproximate": true,
+                    "end": "1772 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Iter-pisha",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1771 BC",
+                    "endApproximate": true,
+                    "end": "1768 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ur-du-kuga",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1767 BC",
+                    "endApproximate": true,
+                    "end": "1764 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Suen-magir",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1763 BC",
+                    "endApproximate": true,
+                    "end": "1753 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Damiq-ilishu",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "style": "isin",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1752 BC",
+                    "endApproximate": true,
+                    "end": "1730 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bablyonians",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Babylon I",
+          "backgroundEvents": [
+            {
+              "name": "Babylon",
+              "style": "babylonian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1728 BC",
+                "endApproximate": true,
+                "end": "1686 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Sumu-abum",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1830 BC",
+                    "endApproximate": true,
+                    "end": "1817 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Sumu-la-El",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1817 BC",
+                    "endApproximate": true,
+                    "end": "1781 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Sabium",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1781 BC",
+                    "endApproximate": true,
+                    "end": "1767 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Apil-Sin",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1767 BC",
+                    "endApproximate": true,
+                    "end": "1749 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Sin-Muballit",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1749 BC",
+                    "endApproximate": true,
+                    "end": "1728 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Hammurabi",
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1728 BC",
+                    "endApproximate": true,
+                    "end": "1686 BC"
+                  }
+                }
+              ],
+              "style": "babylonian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1746 BC",
+                "endApproximate": true,
+                "end": "1686 BC"
+              }
+            },
+            {
+              "name": "Samsu-iluna",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1686 BC",
+                    "endApproximate": true,
+                    "end": "1648 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Abi-Eshuh",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1648 BC",
+                    "endApproximate": true,
+                    "end": "1620 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ammi-Ditana",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1620 BC",
+                    "endApproximate": true,
+                    "end": "1583 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ammi-Saduqa",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1583 BC",
+                    "endApproximate": true,
+                    "end": "1562 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Samsu-Ditana",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1562 BC",
+                    "endApproximate": true,
+                    "end": "1531 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bablyon Kassite",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Babylon Kassite",
+          "backgroundEvents": [
+            {
+              "name": "Assyrian intervention",
+              "style": "assyrian",
+              "timespan": {
+                "start": "1332 BC",
+                "end": "1330 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Agum II",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1535 BC",
+                    "endApproximate": true,
+                    "end": "1525 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Burnaburiash I",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1525 BC",
+                    "endApproximate": true,
+                    "end": "1505 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kashtiliash III",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1505 BC",
+                    "endApproximate": true,
+                    "end": "1490 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ulamburiash",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1490 BC",
+                    "endApproximate": true,
+                    "end": "1475 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Agum III",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1475 BC",
+                    "endApproximate": true,
+                    "end": "1460 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Karaindash III",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1425 BC",
+                    "endApproximate": true,
+                    "end": "1405 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kadashman-harbe I",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1405 BC",
+                    "endApproximate": true,
+                    "end": "1380 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kurigalzu I",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1380 BC",
+                    "endApproximate": true,
+                    "end": "1374 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kadashman-Enlil I",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1374 BC",
+                    "endApproximate": true,
+                    "end": "1360 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Burnaburiash II",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1359 BC",
+                    "endApproximate": true,
+                    "end": "1333 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kurigalzu II",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1332 BC",
+                    "endApproximate": true,
+                    "end": "1308 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nazi-Maruttush",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1307 BC",
+                    "endApproximate": true,
+                    "end": "1282 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kadashman-Turgu",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1281 BC",
+                    "endApproximate": true,
+                    "end": "1264 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kadashman-Enlil II",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1263 BC",
+                    "endApproximate": true,
+                    "end": "1255 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kudur-Enlil",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1254 BC",
+                    "endApproximate": true,
+                    "end": "1246 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Shagarakti-Shuriash",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1245 BC",
+                    "endApproximate": true,
+                    "end": "1233 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kashtiliash IV",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1232 BC",
+                    "endApproximate": true,
+                    "end": "1225 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Adad-shuma-iddina",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1222 BC",
+                    "endApproximate": true,
+                    "end": "1217 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Adad-shuma-usur",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1216 BC",
+                    "endApproximate": true,
+                    "end": "1187 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Meli-shipak",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1186 BC",
+                    "endApproximate": true,
+                    "end": "1172 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-apla-iddina I",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1171 BC",
+                    "endApproximate": true,
+                    "end": "1159 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Enlil-nadin-ahi",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1157 BC",
+                    "endApproximate": true,
+                    "end": "1155 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Babylon IV",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Babylon IV",
+          "people": [
+            {
+              "name": "Marduk-kabit-anheshu",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1157 BC",
+                    "startApproximate": true,
+                    "endApproximate": true,
+                    "end": "1140 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Itti-Marduk-balatu",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1139 BC",
+                    "endApproximate": true,
+                    "end": "1132 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ninurta-nadin-shumi",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1131 BC",
+                    "endApproximate": true,
+                    "end": "1126 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nebuchadnezzar I",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1125 BC",
+                    "endApproximate": true,
+                    "end": "1104 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Enlil-nadin-apil",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1103 BC",
+                    "endApproximate": true,
+                    "end": "1100 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-nadin-ahhe",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1099 BC",
+                    "endApproximate": true,
+                    "end": "1082 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-shapik-zeri",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1081 BC",
+                    "endApproximate": true,
+                    "end": "1069 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Adad-apla-iddina",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1068 BC",
+                    "endApproximate": true,
+                    "end": "1046 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-ahhe-eriba",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1047 BC",
+                    "endApproximate": true,
+                    "end": "1046 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-zer-X",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1045 BC",
+                    "endApproximate": true,
+                    "end": "1034 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-shum-libur",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1033 BC",
+                    "endApproximate": true,
+                    "end": "1025 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        },
+        {
+          "name": "Babylon V",
+          "people": [
+            {
+              "name": "Simbar-shipak",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1025 BC",
+                    "endApproximate": true,
+                    "end": "1008 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Kashshu-nadin-ahi",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1007 BC",
+                    "endApproximate": true,
+                    "end": "1005 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Babylon VI +",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Babylon VI - VIII",
+          "people": [
+            {
+              "name": "Eulmash-shakin-shumi",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1004 BC",
+                    "endApproximate": true,
+                    "end": "988 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ninurta-kudurri-usur I",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "987 BC",
+                    "endApproximate": true,
+                    "end": "985 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Mar-biti-apla-usur",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "984 BC",
+                    "endApproximate": true,
+                    "end": "980 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-mukin-apli",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "979 BC",
+                    "endApproximate": true,
+                    "end": "943 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        },
+        {
+          "name": "Babylon IX",
+          "people": [
+            {
+              "name": "Ninurta-kudurri-usur II",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "943 BC",
+                    "endApproximate": true,
+                    "end": "942 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Mar-biti-ahhe-iddina",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "943 BC",
+                    "endApproximate": true,
+                    "end": "920 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Shamash-mudammiq",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "920 BC",
+                    "endApproximate": true,
+                    "end": "900 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-shuma-ukin I",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "900 BC",
+                    "endApproximate": true,
+                    "end": "888 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-apla-iddina",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "888 BC",
+                    "endApproximate": true,
+                    "end": "855 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-zakir-shumi I",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "855 BC",
+                    "endApproximate": true,
+                    "end": "819 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-balassu-iqbi",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "819 BC",
+                    "endApproximate": true,
+                    "end": "813 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Baba-aha-iddina",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "813 BC",
+                    "endApproximate": true,
+                    "end": "811 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Ninurta-apla-X",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "800 BC",
+                    "endApproximate": true,
+                    "end": "790 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-bel-zeri",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "790 BC",
+                    "endApproximate": true,
+                    "end": "780 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Marduk-apla-usur",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "780 BC",
+                    "endApproximate": true,
+                    "end": "769 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Eriba-Marduk",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "769 BC",
+                    "endApproximate": true,
+                    "end": "761 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-shuma-ishkun",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "761 BC",
+                    "end": "748 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabonassar",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "748 BC",
+                    "end": "734 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabonassar",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "734 BC",
+                    "end": "732 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-nadin-zeri",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "734 BC",
+                    "end": "732 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            },
+            {
+              "name": "Nabu-mukin-zeri",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "732 BC",
+                    "end": "729 BC"
+                  }
+                }
+              ],
+              "style": "babylonian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neo-Babylonian",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name":  "Neo-Babylonian",
+          "people": [
+            {
+              "name": "Nabopolassar",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "626 BC",
+                    "end": "605 BC"
+                  }
+                }
+              ],
+              "style": "neobabylonian"
+            },
+            {
+              "name": "Nebuchadnezzar II",
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "605 BC",
+                    "end": "562 BC"
+                  }
+                }
+              ],
+              "style": "neobabylonian"
+            },
+            {
+              "name": "Amel-Marduk",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "562 BC",
+                    "end": "560 BC"
+                  }
+                }
+              ],
+              "style": "neobabylonian"
+            },
+            {
+              "name": "Neriglissar",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "560 BC",
+                    "end": "556 BC"
+                  }
+                }
+              ],
+              "style": "neobabylonian"
+            },
+            {
+              "name": "Nabonidus",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "556 BC",
+                    "end": "539 BC"
+                  }
+                }
+              ],
+              "style": "neobabylonian"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,4 +20,15 @@ public class Channel {
     public void setResource(String resource) {
         this.resource = resource;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder result = new StringBuilder();
+        result.append("Channel ");
+        result.append(name);
+        result.append(" ");
+        result.append(resource);
+        return result.toString();
+    }
+
 }

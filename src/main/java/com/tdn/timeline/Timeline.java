@@ -8,7 +8,7 @@ public class Timeline extends TimelineEvent {
 	private String author = "Travis David Nelson";
 	private TimelineConfig config = null;
 
-	private List<History> channels;
+	private List<Channel> channels;
 
 	public Timeline() {
 		super();
@@ -38,13 +38,13 @@ public class Timeline extends TimelineEvent {
 		this.config = config;
 	}
 
-	public List<History> getChannels() {
+	public List<Channel> getChannels() {
 		return channels;
 	}
-	public void setChannels(List<History> channels) {
+	public void setChannels(List<Channel> channels) {
 		this.channels = channels;
 	}
-	public void addChannel(History channel) {
+	public void addChannel(Channel channel) {
 		this.channels.add(channel);
 	}
 
