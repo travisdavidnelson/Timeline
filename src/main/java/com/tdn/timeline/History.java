@@ -3,11 +3,11 @@ package com.tdn.timeline;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TimelineChannel extends TimelineEvent {
+public class History extends TimelineEvent {
 
     private List<DynastyGroup> dynastyGroups;
 
-    public TimelineChannel() {
+    public History() {
         dynastyGroups = new ArrayList<>();
     }
 

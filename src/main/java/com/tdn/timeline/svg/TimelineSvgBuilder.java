@@ -86,7 +86,7 @@ public class TimelineSvgBuilder {
 			timelineYPositions.add(nextTimelineY);
 			dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 			int channelStart = yTimelineStart + timeline.getConfig().getDynastyStart();
-			for (TimelineChannel channel : timeline.getChannels()) {
+			for (History channel : timeline.getChannels()) {
 				System.out.println("  adding channel "+channel);
 				timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 				for (DynastyGroup series : channel.getDynastyGroups()) {
