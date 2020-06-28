@@ -90,7 +90,7 @@
     },
     {
       "name": "Persia",
-      "resources": "ancient-persia"
+      "resources": "ancient-elam,ancient-persia"
     }
   ]
 }

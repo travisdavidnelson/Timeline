@@ -1,0 +1,151 @@
+{
+  "name": "Elam",
+  "backgroundEvents": [
+    {
+      "name": "Neo-Assyria",
+      "timespan": {
+        "startApproximate": true,
+        "start": "640 BC",
+        "endApproximate": true,
+        "end": "620 BC"
+      },
+      "style": "neoassyria"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Old Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Awan",
+          "backgroundEvents": [
+            {
+              "name": "Elam Awan",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2350 BC",
+                "endApproximate": true,
+                "end": "2150 BC"
+              },
+              "style": "elamite"
+            },
+            {
+              "name": "Akkadian Empire",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2240 BC",
+                "endApproximate": true,
+                "end": "2220 BC"
+              },
+              "style": "akkad"
+            }
+          ],
+          "people": [
+            {
+              "name": "Kutik-Inshushinak",
+              "style": "elamite",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2240 BC",
+                    "endApproximate": true,
+                    "end": "2220 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middle Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Shimashki",
+          "backgroundEvents": [
+            {
+              "name": "Elam Shimashki",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1960 BC",
+                "endApproximate": true,
+                "end": "1900 BC"
+              },
+              "style": "elamite"
+            },
+            {
+              "name": "Conquest Ur III",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1943 BC",
+                "endApproximate": true,
+                "end": "1940 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            }
+          ],
+          "people": [
+            {
+              "name": "Kindattu",
+              "style": "elamite",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1950 BC",
+                    "endApproximate": true,
+                    "end": "1935 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Shutrukid",
+          "backgroundEvents": [
+            {
+              "name": "Elam Shutrukid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1210 BC",
+                "endApproximate": true,
+                "end": "1100 BC"
+              },
+              "style": "elamite"
+            }
+          ],
+          "people": [
+            {
+              "name": "Shutruk-Nakhunte",
+              "style": "elamite",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1184 BC",
+                    "endApproximate": true,
+                    "end": "1155 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
