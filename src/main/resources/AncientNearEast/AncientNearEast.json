@@ -86,7 +86,7 @@
     },
     {
       "name": "Anatolia / Levant",
-      "resources": "ancient-anatolia"
+      "resources": "hittites,ancient-anatolia"
     },
     {
       "name": "Persia",

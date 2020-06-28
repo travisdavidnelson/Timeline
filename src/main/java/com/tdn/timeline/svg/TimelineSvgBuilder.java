@@ -80,8 +80,9 @@ public class TimelineSvgBuilder {
 		if (svg == null) {
 			StringBuilder foregroundStringBuilder = new StringBuilder();
 			StringBuilder timelineStringBuilder = new StringBuilder();
-			StringBuilder backgroundStringBuilder = new StringBuilder();
-			StringBuilder superBackgroundStringBuilder = new StringBuilder();
+			StringBuilder backgroundStringBuilderMin = new StringBuilder();
+			StringBuilder backgroundStringBuilderMid = new StringBuilder();
+			StringBuilder backgroundStringBuilderMax = new StringBuilder();
 			int nextTimelineY = yTimelineStart;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 			timelineYPositions.add(nextTimelineY);
@@ -91,6 +92,7 @@ public class TimelineSvgBuilder {
 				try {
 					System.out.println("  adding channel " + channel);
 					String resources = channel.getResources();
+					List<TimelineEvent> fullChannelBackgroundEvents = new ArrayList<>();
 					for (String resource : resources.split(",")) {
 						System.out.println("  processing resource " + resource);
 						String filename = "history/" + resource + ".json";
@@ -102,15 +104,11 @@ public class TimelineSvgBuilder {
 
 						for (DynastyGroup series : history.getDynastyGroups()) {
 							dynastyStart = channelStart;
-							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
+							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilderMin);
 						}
-						for (TimelineEvent backgroundEvent : history.getBackgroundEvents()) {
-							getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
-						}
+						fullChannelBackgroundEvents.addAll(history.getBackgroundEvents());
 						for (DynastyGroup dynastyGroup : history.getDynastyGroups()) {
-							for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
-								getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
-							}
+							fullChannelBackgroundEvents.addAll(dynastyGroup.getBackgroundEvents());
 							for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 								Person firstPerson = dynasty.getFirstPerson();
 								Person lastPerson = dynasty.getLastPerson();
@@ -121,11 +119,17 @@ public class TimelineSvgBuilder {
 								}
 
 								for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
-									getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+									getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilderMin);
 								}
 							}
 						}
 					}
+
+					for (TimelineEvent backgroundEvent : fullChannelBackgroundEvents) {
+						System.out.println("  adding backgroundEvent " + backgroundEvent);
+						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilderMid);
+					}
+
 					int textXStart = channelXOffset;
 					int textYStart = maxLifetimeYEnd - channelYOffset;
 					addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
@@ -151,7 +155,7 @@ public class TimelineSvgBuilder {
 			addGridlinesSVG(timelineStringBuilder);
 			
 			for (TimelineEvent backgroundEvent : timeline.getBackgroundEvents()) {
-				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, true, superBackgroundStringBuilder);
+				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, true, backgroundStringBuilderMax);
 			}
 
 			StringBuilder result = new StringBuilder();
@@ -166,9 +170,11 @@ public class TimelineSvgBuilder {
 			result.append(width);
 			result.append(" "+yMax+"\" xml:space=\"preserve\">\n");
 			result.append(" " + getGradientDefs() + "\n");
-			result.append(superBackgroundStringBuilder);
+			result.append(backgroundStringBuilderMax);
 			result.append("\n");
-			result.append(backgroundStringBuilder);
+			result.append(backgroundStringBuilderMid);
+			result.append("\n");
+			result.append(backgroundStringBuilderMin);
 			result.append("\n");
 			result.append(timelineStringBuilder);
 			result.append("\n");
