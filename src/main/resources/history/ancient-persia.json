@@ -1,0 +1,629 @@
+{
+  "name": "Persia",
+  "backgroundEvents": [
+    {
+      "name": "Neo-Assyria",
+      "timespan": {
+        "startApproximate": true,
+        "start": "640 BC",
+        "endApproximate": true,
+        "end": "620 BC"
+      },
+      "style": "neoassyria"
+    },
+    {
+      "name": "Achaemenid Empire",
+      "timespan": {
+        "startApproximate": true,
+        "start": "570 BC",
+        "end": "330 BC"
+      },
+      "style": "achaemenid"
+    },
+    {
+      "name": "Macedonian Empire",
+      "timespan": {
+        "start": "330 BC",
+        "end": "323 BC"
+      },
+      "style": "macedon"
+    },
+    {
+      "name": "Seleucid Empire",
+      "timespan": {
+        "start": "323 BC",
+        "end": "247 BC"
+      },
+      "style": "seleucid"
+    },
+    {
+      "name": "Parthian Empire",
+      "timespan": {
+        "start": "247 BC",
+        "end": "224"
+      },
+      "style": "parthianEmpire"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Old Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Awan",
+          "backgroundEvents": [
+            {
+              "name": "Elam Awan",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2350 BC",
+                "endApproximate": true,
+                "end": "2150 BC"
+              },
+              "style": "elamite"
+            },
+            {
+              "name": "Akkadian Empire",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2240 BC",
+                "endApproximate": true,
+                "end": "2220 BC"
+              },
+              "style": "akkad"
+            }
+          ],
+          "people": [
+            {
+              "name": "Kutik-Inshushinak",
+              "style": "elamite",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2240 BC",
+                    "endApproximate": true,
+                    "end": "2220 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middle Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Shimashki",
+          "backgroundEvents": [
+            {
+              "name": "Elam Shimashki",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1960 BC",
+                "endApproximate": true,
+                "end": "1900 BC"
+              },
+              "style": "elamite"
+            },
+            {
+              "name": "Conquest Ur III",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1943 BC",
+                "endApproximate": true,
+                "end": "1940 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            }
+          ],
+          "people": [
+            {
+              "name": "Kindattu",
+              "style": "elamite",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1950 BC",
+                    "endApproximate": true,
+                    "end": "1935 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Elamites",
+      "dynasties": [
+        {
+          "name": "Elam Shutrukid",
+          "backgroundEvents": [
+            {
+              "name": "Elam Shutrukid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1210 BC",
+                "endApproximate": true,
+                "end": "1100 BC"
+              },
+              "style": "elamite"
+            }
+          ],
+          "people": [
+            {
+              "name": "Shutruk-Nakhunte",
+              "style": "elamite",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1184 BC",
+                    "endApproximate": true,
+                    "end": "1155 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Persians",
+      "dynasties": [
+        {
+          "name": "Achaemenid Empire",
+          "people": [
+            {
+              "name": "Cyrus II",
+              "style": "achaemenid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "600 BC",
+                "end": "12/4/530 BC"
+              },
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "559 BC",
+                    "end": "12/4/530 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cambyses II",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "12/4/530 BC",
+                    "end": "7/522 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bardiya",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "7/522 BC",
+                    "end": "12/522 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius I",
+              "style": "achaemenid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "550 BC",
+                "end": "10/486 BC"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "12/522 BC",
+                    "end": "10/486 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Xerxes I",
+              "style": "achaemenid",
+              "timespan": {
+                "start": "519 BC",
+                "end": "8/465 BC"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "10/486 BC",
+                    "end": "8/465 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes I",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "8/465 BC",
+                    "end": "424 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Xerxes II",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "424 BC",
+                    "end": "425 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sogdianus",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "424 BC",
+                    "end": "423 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius II",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "423 BC",
+                    "end": "404 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes II Mnemon",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "404 BC",
+                    "end": "358 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes III",
+              "style": "achaemenid",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "358 BC",
+                    "end": "338 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arses",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "338 BC",
+                    "end": "336 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius III",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "380 BC",
+                "end": "7/330 BC"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "336 BC",
+                    "end": "7/330 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parthian Empire",
+      "dynasties": [
+        {
+          "name": "Parthian Empire",
+          "people": [
+            {
+              "name": "Arsaces I",
+              "style": "parthian",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "247 BC",
+                    "end": "217 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arsaces II",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "217 BC",
+                    "end": "191 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Priapatius",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "191 BC",
+                    "end": "176 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phraates I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "176 BC",
+                    "end": "171 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates I",
+              "style": "parthian",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "171 BC",
+                    "end": "132 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phraates II",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "132 BC",
+                    "end": "127 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artabanus I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "127 BC",
+                    "end": "123 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates II",
+              "style": "parthian",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "124 BC",
+                    "end": "91 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gotarzes I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "91 BC",
+                    "end": "80 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates III",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "87 BC",
+                    "end": "80 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Orodes I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "80 BC",
+                    "end": "75 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sinatruces I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "75 BC",
+                    "end": "69 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phraates III",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "69 BC",
+                    "end": "57 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates IV",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "57 BC",
+                    "end": "54 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Orodes II",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "57 BC",
+                    "end": "37 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phraates IV",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "37 BC",
+                    "end": "2 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

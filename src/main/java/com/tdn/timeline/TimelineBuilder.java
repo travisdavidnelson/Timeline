@@ -13,6 +13,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.tdn.timeline.svg.TimelineSvgBuilder;
 import com.tdn.util.FileUtilities;
+import com.tdn.util.ModelBuilder;
 
 public class TimelineBuilder {
 
@@ -34,11 +35,8 @@ public class TimelineBuilder {
 		System.out.println("Generating timeline " + id + " from " + inputFile);
 		Timeline timeline = null;
 		try {
-			String json = FileUtilities.getFileContents(inputFile);
-			Gson gson = new GsonBuilder()
-					.registerTypeAdapter(Timespan.class, new TimespanDeserializer())
-					.create();
-			timeline = gson.fromJson(json, Timeline.class);
+			ModelBuilder<Timeline> modelBuilder = new ModelBuilder<>();
+			timeline = modelBuilder.populateFromFile(Timeline.class, inputFile);
 			if (timeline != null) {
 				timeline.setId(id);
 				System.out.println(timeline);

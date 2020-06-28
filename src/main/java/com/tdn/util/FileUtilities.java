@@ -7,12 +7,19 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class FileUtilities {
+
+	public static File getResourceAsFile(String filename) {
+		ClassLoader classLoader = FileUtilities.class.getClassLoader();
+		URL resource = classLoader.getResource(filename);
+		return new File(resource.getFile());
+	}
 
 	public static String getFileContents(String filename) throws IOException {
 		return getFileContents(new File(filename));
