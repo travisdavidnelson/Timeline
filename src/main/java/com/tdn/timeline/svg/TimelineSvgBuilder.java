@@ -1,6 +1,5 @@
 package com.tdn.timeline.svg;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -91,33 +90,39 @@ public class TimelineSvgBuilder {
 			for (Channel channel : timeline.getChannels()) {
 				try {
 					System.out.println("  adding channel " + channel);
-					String filename = "history/" + channel.getResource() + ".json";
-					File historyFile = FileUtilities.getResourceAsFile(filename);
-					ModelBuilder<History> modelBuilder = new ModelBuilder<>();
-					History history = modelBuilder.populateFromFile(History.class, historyFile);
-					timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
-					for (DynastyGroup series : history.getDynastyGroups()) {
-						dynastyStart = channelStart;
-						getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
-					}
-					for (TimelineEvent backgroundEvent : history.getBackgroundEvents()) {
-						getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
-					}
-					for (DynastyGroup dynastyGroup : history.getDynastyGroups()) {
-						for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
+					String resources = channel.getResources();
+					for (String resource : resources.split(",")) {
+						System.out.println("  processing resource " + resource);
+						String filename = "history/" + resource + ".json";
+						ModelBuilder<History> modelBuilder = new ModelBuilder<>();
+						History history = modelBuilder.populateFromFilename(History.class, filename);
+						System.out.println("  adding history " + history);
+
+						timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
+
+						for (DynastyGroup series : history.getDynastyGroups()) {
+							dynastyStart = channelStart;
+							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilder);
+						}
+						for (TimelineEvent backgroundEvent : history.getBackgroundEvents()) {
 							getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 						}
-						for (Dynasty dynasty : dynastyGroup.getDynasties()) {
-							Person firstPerson = dynasty.getFirstPerson();
-							Person lastPerson = dynasty.getLastPerson();
-							int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
-							int yEnd = maxLifetimeYEnd + dynastyDiff;
-							if (lastPerson != null) {
-								yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
+						for (DynastyGroup dynastyGroup : history.getDynastyGroups()) {
+							for (TimelineEvent backgroundEvent : dynastyGroup.getBackgroundEvents()) {
+								getBackgroundSVG(backgroundEvent, channelStart, maxLifetimeYEnd + dynastyDiff, true, backgroundStringBuilder);
 							}
+							for (Dynasty dynasty : dynastyGroup.getDynasties()) {
+								Person firstPerson = dynasty.getFirstPerson();
+								Person lastPerson = dynasty.getLastPerson();
+								int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
+								int yEnd = maxLifetimeYEnd + dynastyDiff;
+								if (lastPerson != null) {
+									yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
+								}
 
-							for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
-								getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+								for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
+									getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilder);
+								}
 							}
 						}
 					}

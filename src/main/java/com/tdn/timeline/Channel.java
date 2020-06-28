@@ -3,7 +3,7 @@ package com.tdn.timeline;
 public class Channel {
 
     private String name;
-    private String resource;
+    private String resources;
 
     public String getName() {
         return name;
@@ -13,21 +13,20 @@ public class Channel {
         this.name = name;
     }
 
-    public String getResource() {
-        return resource;
+    public String getResources() {
+        return resources;
     }
 
-    public void setResource(String resource) {
-        this.resource = resource;
+    public void setResources(String resources) {
+        this.resources = resources;
     }
 
     @Override
     public String toString() {
         StringBuilder result = new StringBuilder();
-        result.append("Channel ");
         result.append(name);
         result.append(" ");
-        result.append(resource);
+        result.append(resources);
         return result.toString();
     }
 

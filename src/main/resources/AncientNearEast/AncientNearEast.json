@@ -74,23 +74,23 @@
   "channels": [
     {
       "name": "Egypt",
-      "resource": "ancient-egypt"
+      "resources": "ancient-egypt"
     },
     {
       "name": "Mesopotamia",
-      "resource": "ancient-mesopotamia"
+      "resources": "ancient-mesopotamia"
     },
     {
       "name": "Assyria / Armenia",
-      "resource": "ancient-assyria"
+      "resources": "ancient-assyria"
     },
     {
       "name": "Anatolia / Levant",
-      "resource": "ancient-anatolia"
+      "resources": "ancient-anatolia"
     },
     {
       "name": "Persia",
-      "resource": "ancient-persia"
+      "resources": "ancient-persia"
     }
   ]
 }

@@ -8,6 +8,8 @@ import com.tdn.timeline.TimespanDeserializer;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 
 public class ModelBuilder<T> {
 
@@ -26,6 +28,19 @@ public class ModelBuilder<T> {
                 .registerTypeAdapter(Timespan.class, new TimespanDeserializer())
                 .create();
         result = gson.fromJson(json, type);
+        return result;
+    }
+
+    public T populateFromFilename(Class<T> type, String filename) throws IOException {
+        T result = null;
+        ClassLoader classloader = Thread.currentThread().getContextClassLoader();
+        InputStream is = classloader.getResourceAsStream(filename);
+        InputStreamReader reader = new InputStreamReader(is);
+
+        Gson gson = new GsonBuilder()
+                .registerTypeAdapter(Timespan.class, new TimespanDeserializer())
+                .create();
+        result = gson.fromJson(reader, type);
         return result;
     }
 }
