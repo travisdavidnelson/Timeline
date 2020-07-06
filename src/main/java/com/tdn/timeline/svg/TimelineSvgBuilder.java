@@ -27,6 +27,7 @@ public class TimelineSvgBuilder {
 	private int yTimelineStart;
 	private int majorTickHalfLength;
 	private int minorTickHalfLength;
+	private int tickHalfLength;
 	private int dynastyStart;
 	private int dynastyDiff;
 	private int lifetimeYDiff;
@@ -65,6 +66,7 @@ public class TimelineSvgBuilder {
 		yTimelineStart = timeline.getConfig().getyTimelineStart();
 		majorTickHalfLength = timeline.getConfig().getMajorTickHalfLength();
 		minorTickHalfLength = timeline.getConfig().getMinorTickHalfLength();
+		tickHalfLength = timeline.getConfig().getTickHalfLength();
 		dynastyStart = yTimelineStart + timeline.getConfig().getDynastyStart();
 		dynastyDiff = timeline.getConfig().getDynastyDiff();
 		lifetimeYDiff = timeline.getConfig().getLifetimeYDiff();
@@ -134,6 +136,7 @@ public class TimelineSvgBuilder {
 					int textYStart = maxLifetimeYEnd - channelYOffset;
 					addTextSVG(channel.getName().toUpperCase(), textXStart, textYStart, "channel", foregroundStringBuilder);
 					channelStart = maxLifetimeYEnd + dynastyDiff;
+					timelineYPositions.add(channelStart);
 					channelCount++;
 				} catch (Exception e) {
 					System.err.println("Caught exception processing channel " + channel);
@@ -151,8 +154,7 @@ public class TimelineSvgBuilder {
 //			}
 			nextTimelineY = maxLifetimeYEnd + dynastyDiff;
 			timelineStringBuilder.append(horizontalLine(nextTimelineY, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
-			timelineYPositions.add(nextTimelineY);
-			addGridlinesSVG(timelineStringBuilder);
+			addGridlinesAndYearTextSVG(timelineStringBuilder);
 			
 			for (TimelineEvent backgroundEvent : timeline.getBackgroundEvents()) {
 				getBackgroundSVG(backgroundEvent, yTimelineStart, nextTimelineY, true, backgroundStringBuilderMax);
@@ -354,9 +356,10 @@ public class TimelineSvgBuilder {
 		backgroundEventCount++;
 	}
 	
-	public void addGridlinesSVG(StringBuilder stringBuilder) {
+	public void addGridlinesAndYearTextSVG(StringBuilder stringBuilder) {
 		int majorTickineYears = timeline.getConfig().getMajorTickYears();
 		int minorTickineYears = timeline.getConfig().getMinorTickYears();
+		int halfMajorTicklineYears = majorTickineYears / 2;
 		
 		int startYear = minDisplayInstant.getYear();
 		int endYear = maxDisplayInstant.getYear();
@@ -379,13 +382,7 @@ public class TimelineSvgBuilder {
 						addMajorTickLineForYear(yearInstant, yPosition.intValue(), isFirst, isLast, stringBuilder);
 					}
 					addYearLine(yearInstant, minY, maxY, stringBuilder);
-					String yearString = ""+Math.abs(year);
-					if (year < 0) {
-						yearString += " BC";
-					}
-					else if (year == 1) {
-						yearString = "AD " + yearString;
-					}
+					String yearString = getYearString(year);
 					int textXDiff = 10 * yearString.length();
 					int topYearOffset = timeline.getConfig().getTopYearOffset();
 					int bottomYearOffset = timeline.getConfig().getBottomYearOffset();
@@ -396,6 +393,24 @@ public class TimelineSvgBuilder {
 					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, minY - topYearOffset, yearClass, stringBuilder);
 					addTextSVG(yearString, instantToX(yearInstant)-textXDiff, maxY + bottomYearOffset, yearClass, stringBuilder);
 				}
+
+				if (year % halfMajorTicklineYears == 0 && year % majorTickineYears != 0) {
+					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
+					String yearString = getYearString(year);
+					int textXDiff = 5 * yearString.length();
+					int topYearOffset = 2 * timeline.getConfig().getTopYearOffset();
+					String yearClass = "yearMinor";
+					for (int i = 0; i < timelineYPositions.size(); i++) {
+						Integer yPosition = timelineYPositions.get(i);
+						boolean isFirst = i == 0;
+						boolean isLast = i == timelineYPositions.size() - 1;
+						addTickLineForYear(yearInstant, yPosition.intValue(), isFirst, isLast, stringBuilder);
+						if (!isFirst && !isLast) {
+							addTextSVG(yearString, instantToX(yearInstant) - textXDiff, yPosition - topYearOffset, yearClass, stringBuilder);
+						}
+					}
+				}
+
 				if (year % minorTickineYears == 0) {
 					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
 					for (int i = 0; i < timelineYPositions.size(); i++) {
@@ -407,6 +422,17 @@ public class TimelineSvgBuilder {
 				}
 			}
 		}
+	}
+
+	private String getYearString(int year) {
+		String yearString = ""+Math.abs(year);
+		if (year < 0) {
+			yearString += " BC";
+		}
+		else if (year == 1) {
+			yearString = "AD " + yearString;
+		}
+		return yearString;
 	}
 
 	public void addYearLine(TimelineInstant year, int yStart, int yEnd, StringBuilder stringBuilder) {
@@ -424,7 +450,12 @@ public class TimelineSvgBuilder {
 //		System.out.println("Adding minor tick line for year " + year + " at x = " + x);
 		stringBuilder.append(minorTickLine(x, yStart, isFirst, isLast));
 	}
-	
+	public void addTickLineForYear(TimelineInstant year, int yStart, boolean isFirst, boolean isLast, StringBuilder stringBuilder) {
+		int x = instantToX(year);
+//		System.out.println("Adding minor tick line for year " + year + " at x = " + x);
+		stringBuilder.append(tickLine(x, yStart, isFirst, isLast));
+	}
+
 	public int getWidth(int duration) {
 		return  Math.max(1, (int) Math.round(slope() * duration));
 	}
@@ -504,6 +535,12 @@ public class TimelineSvgBuilder {
 	public int minorTickY2(int yStart) {
 		return yStart + minorTickHalfLength;
 	}
+	public int tickY1(int yStart) {
+		return yStart - tickHalfLength;
+	}
+	public int tickY2(int yStart) {
+		return yStart + tickHalfLength;
+	}
 
 	public String yearLine(int x, int yStart, int yEnd) {
 		return verticalLine(x, yStart, yEnd, "timeline");
@@ -518,7 +555,12 @@ public class TimelineSvgBuilder {
 		int y2 = isLast ? yStart : minorTickY2(yStart);
 		return verticalLine(x, y1, y2, "timeline");
 	}
-	
+	public String tickLine(int x, int yStart, boolean isFirst, boolean isLast) {
+		int y1 = isFirst ? yStart : tickY1(yStart);
+		int y2 = isLast ? yStart : tickY2(yStart);
+		return verticalLine(x, y1, y2, "timeline");
+	}
+
 	public String horizontalLine(int y, int x1, int x2, String styleClass) {
 		return line(x1, y, x2, y, styleClass);
 	}

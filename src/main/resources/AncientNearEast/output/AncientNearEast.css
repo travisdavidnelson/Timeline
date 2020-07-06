@@ -1,5 +1,6 @@
 .year {font-family: serif; font-size: 40px; kerning: 0; stroke:none; fill:#000000;}
 .yearMajor {font-family: serif; font-size: 50px; kerning: 0; stroke:none; fill:#000000;}
+.yearMinor {font-family: serif; font-size: 25px; kerning: 0; stroke:none; fill:#000000;}
 .timeline {stroke-width: 1.0; stroke: black}
 
 .ur3 {fill:blue;fill-opacity:0.3}
