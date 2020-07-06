@@ -119,17 +119,9 @@
       "style": "macedon"
     },
     {
-      "name": "Kingdom of Armenia",
-      "timespan": {
-        "start": "321 BC",
-        "end": "200 BC"
-      },
-      "style": "armenia"
-    },
-    {
       "name": "Seleucid Empire",
       "timespan": {
-        "start": "200 BC",
+        "start": "321 BC",
         "end": "189 BC"
       },
       "style": "seleucid"
@@ -137,7 +129,7 @@
     {
       "name": "Kingdom of Armenia",
       "timespan": {
-        "start": "190 BC",
+        "start": "189 BC",
         "end": "12"
       },
       "style": "armenia"

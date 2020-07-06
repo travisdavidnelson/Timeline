@@ -2,14 +2,6 @@
   "name": "Armenia",
   "backgroundEvents": [
     {
-      "name": "Kingdom of Armenia",
-      "timespan": {
-        "start": "321 BC",
-        "end": "200 BC"
-      },
-      "style": "armenia"
-    },
-    {
       "name": "Seleucid Empire",
       "timespan": {
         "start": "200 BC",
@@ -32,6 +24,16 @@
       "dynasties": [
         {
           "name": "Armenia Orontid",
+          "backgroundEvents": [
+            {
+              "name": "Kingdom of Armenia",
+              "timespan": {
+                "start": "321 BC",
+                "end": "200 BC"
+              },
+              "style": "armenia"
+            }
+          ],
           "people": [
             {
               "name": "Orontes I",
