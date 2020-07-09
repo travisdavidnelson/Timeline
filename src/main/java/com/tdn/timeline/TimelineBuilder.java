@@ -3,14 +3,10 @@ package com.tdn.timeline;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.FilenameFilter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.tdn.timeline.svg.TimelineSvgBuilder;
 import com.tdn.util.FileUtilities;
 import com.tdn.util.ModelBuilder;
@@ -36,7 +32,7 @@ public class TimelineBuilder {
 		Timeline timeline = null;
 		try {
 			ModelBuilder<Timeline> modelBuilder = new ModelBuilder<>();
-			timeline = modelBuilder.populateFromFile(Timeline.class, inputFile);
+			timeline = modelBuilder.deserialize(Timeline.class, inputFile);
 			if (timeline != null) {
 				timeline.setId(id);
 				System.out.println(timeline);

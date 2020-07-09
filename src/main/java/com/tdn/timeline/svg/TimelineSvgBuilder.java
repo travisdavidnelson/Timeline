@@ -99,7 +99,7 @@ public class TimelineSvgBuilder {
 						System.out.println("  processing resource " + resource);
 						String filename = "history/" + resource + ".json";
 						ModelBuilder<History> modelBuilder = new ModelBuilder<>();
-						History history = modelBuilder.populateFromFilename(History.class, filename);
+						History history = modelBuilder.deserialize(History.class, filename);
 						System.out.println("  adding history " + history);
 
 						timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
