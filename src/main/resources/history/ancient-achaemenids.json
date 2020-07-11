@@ -24,7 +24,7 @@
       "name": "Persians",
       "dynasties": [
         {
-          "name": "Achaemenid Empire",
+          "name": "Achaemenid I",
           "people": [
             {
               "name": "Cyrus II",
@@ -72,7 +72,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid II",
+          "people" : [
             {
               "name": "Darius I",
               "style": "achaemenid",
