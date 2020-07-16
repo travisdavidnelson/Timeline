@@ -150,16 +150,6 @@
       "style": "babylon"
     },
     {
-      "name": "Bronze Age Collapse",
-      "timespan": {
-        "startApproximate": true,
-        "start": "1025 BC",
-        "endApproximate": true,
-        "end": "729 BC"
-      },
-      "style": "babylonWeak"
-    },
-    {
       "name": "Neo-Assyria",
       "timespan": {
         "startApproximate": true,
@@ -2909,6 +2899,18 @@
       "dynasties": [
         {
           "name": "Babylon VI - VIII",
+          "backgroundEvents": [
+            {
+              "name": "Babylonia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1025 BC",
+                "endApproximate": true,
+                "end": "943 BC"
+              },
+              "style": "babylonWeak"
+            }
+          ],
           "people": [
             {
               "name": "Eulmash-shakin-shumi",
@@ -2978,6 +2980,18 @@
         },
         {
           "name": "Babylon IX",
+          "backgroundEvents": [
+            {
+              "name": "Babylonia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "943 BC",
+                "endApproximate": true,
+                "end": "729 BC"
+              },
+              "style": "babylonWeak"
+            }
+          ],
           "people": [
             {
               "name": "Ninurta-kudurri-usur II",
