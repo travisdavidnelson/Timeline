@@ -107,28 +107,11 @@
       "style": "backgroundNationalCalamity"
     },
     {
-      "name": "Babylon Kassite",
-      "style": "babylonWeak",
-      "timespan": {
-        "startApproximate": true,
-        "start": "1531 BC",
-        "end": "1235 BC"
-      }
-    },
-    {
       "name": "Middle Assyrian Empire",
       "style": "assyria",
       "timespan": {
         "start": "1235 BC",
         "end": "1202 BC"
-      }
-    },
-    {
-      "name": "Babylon Kassite",
-      "style": "babylonWeak",
-      "timespan": {
-        "start": "1202 BC",
-        "end": "1185 BC"
       }
     },
     {
@@ -2303,6 +2286,15 @@
         {
           "name": "Babylon Kassite",
           "backgroundEvents": [
+            {
+              "name": "Babylon Kassite",
+              "style": "babylonWeak",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1531 BC",
+                "end": "1185 BC"
+              }
+            },
             {
               "name": "Assyrian intervention",
               "style": "assyrian",
