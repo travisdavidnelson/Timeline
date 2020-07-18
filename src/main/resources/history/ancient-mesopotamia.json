@@ -30,6 +30,15 @@
       "style": "akkad"
     },
     {
+      "name": "Gutian domination",
+      "timespan": {
+        "start": "2100 BC",
+        "endApproximate": true,
+        "end": "2050 BC"
+      },
+      "style": "gutian"
+    },
+    {
       "name": "Conquests of Sargon",
       "style": "backgroundCivilWar",
       "timespan": {
