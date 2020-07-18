@@ -20,12 +20,12 @@
           "name": "Elam Awan",
           "backgroundEvents": [
             {
-              "name": "Elam Awan",
+              "name": "Elam Shakkanakku",
               "timespan": {
                 "startApproximate": true,
                 "start": "2350 BC",
                 "endApproximate": true,
-                "end": "2150 BC"
+                "end": "2090 BC"
               },
               "style": "elamite"
             },
@@ -33,16 +33,80 @@
               "name": "Akkadian Empire",
               "timespan": {
                 "startApproximate": true,
-                "start": "2240 BC",
+                "start": "2220 BC",
                 "endApproximate": true,
-                "end": "2220 BC"
+                "end": "2110 BC"
               },
               "style": "akkad"
             }
           ],
           "people": [
             {
-              "name": "Kutik-Inshushinak",
+              "name": "Eshpum",
+              "style": "elamite",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2220 BC",
+                    "endApproximate": true,
+                    "end": "2206 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ilshu-rabi",
+              "style": "elamite",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2206 BC",
+                    "endApproximate": true,
+                    "end": "2200 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Epirmupi",
+              "style": "elamite",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2199 BC",
+                    "endApproximate": true,
+                    "end": "2154 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ili-ishmani",
+              "style": "elamite",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2150 BC",
+                    "endApproximate": true,
+                    "end": "2130 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Puzur-Inshushinak",
               "style": "elamite",
               "importance": "semimajor",
               "titles": [
@@ -50,9 +114,9 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "2240 BC",
+                    "start": "2120 BC",
                     "endApproximate": true,
-                    "end": "2220 BC"
+                    "end": "2090 BC"
                   }
                 }
               ]
