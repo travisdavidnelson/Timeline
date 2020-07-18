@@ -137,6 +137,247 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Mari III",
+      "backgroundEvents": [],
+      "dynasties": [
+        {
+          "name": "Mari III",
+          "backgroundEvents": [
+            {
+              "name": "Akkadian Empire",
+              "style": "akkad",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2266 BC",
+                "endApproximate": true,
+                "end": "2120 BC"
+              }
+            },
+            {
+              "name": "Mari",
+              "style": "mari",
+              "timespan": {
+                "startApproximate": true,
+                "start": "2130 BC",
+                "endApproximate": true,
+                "end": "2000 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ididish",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2266 BC",
+                    "endApproximate": true,
+                    "end": "2206 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shu-Dagan",
+              "style": "mari",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2206 BC",
+                    "endApproximate": true,
+                    "end": "2200 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ishma-Dagan",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2199 BC",
+                    "endApproximate": true,
+                    "end": "2154 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nur-Mer",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2153 BC",
+                    "endApproximate": true,
+                    "end": "2148 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ishtup-Ilum",
+              "style": "mari",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2147 BC",
+                    "endApproximate": true,
+                    "end": "2136 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ishgum-Addu",
+              "style": "mari",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2135 BC",
+                    "endApproximate": true,
+                    "end": "2127 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Apil-kin",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2126 BC",
+                    "endApproximate": true,
+                    "end": "2091 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Iddi-ilum",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2090 BC",
+                    "endApproximate": true,
+                    "end": "2085 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ili-Ishar",
+              "style": "mari",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2084 BC",
+                    "endApproximate": true,
+                    "end": "2072 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Tura-Dagan",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2071 BC",
+                    "endApproximate": true,
+                    "end": "2051 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Puzur-Ishtar",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2050 BC",
+                    "endApproximate": true,
+                    "end": "2025 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hitlal-Erra",
+              "style": "mari",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2024 BC",
+                    "endApproximate": true,
+                    "end": "2017 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hanun-Dagan",
+              "style": "mari",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2016 BC",
+                    "endApproximate": true,
+                    "end": "2008 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Old Assyrians",
       "dynasties": [
         {
