@@ -448,15 +448,6 @@
               }
             },
             {
-              "name": "Bordar conflict with Umma",
-              "style": "backgroundCivilWar",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2500 BC",
-                "end": "2296 BC"
-              }
-            },
-            {
               "name": "Urukagina Revolution",
               "style": "backgroundRevolution",
               "timespan": {
@@ -496,7 +487,7 @@
             },
             {
               "name": "Eannatum",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "lagashian",
               "titles": [
                 {
@@ -600,18 +591,9 @@
               "style": "lagash",
               "timespan": {
                 "startApproximate": true,
-                "start": "2550 BC",
+                "start": "2500 BC",
                 "endApproximate": true,
                 "end": "2270 BC"
-              }
-            },
-            {
-              "name": "Bordar conflict with Lagash",
-              "style": "backgroundCivilWar",
-              "timespan": {
-                "startApproximate": true,
-                "start": "2500 BC",
-                "end": "2296 BC"
               }
             },
             {
@@ -712,7 +694,7 @@
             },
             {
               "name": "Il",
-              "importance": "minor",
+              "importance": "semimajor",
               "style": "sumerian",
               "titles": [
                 {
@@ -728,7 +710,7 @@
             },
             {
               "name": "Gishakidu",
-              "importance": "minor",
+              "importance": "petty",
               "style": "sumerian",
               "titles": [
                 {
@@ -760,7 +742,7 @@
             },
             {
               "name": "Lugalzagesi",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "sumerian",
               "titles": [
                 {
