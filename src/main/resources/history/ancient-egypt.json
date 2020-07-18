@@ -6,7 +6,7 @@
       "timespan": {
         "start": "3200 BC",
         "endApproximate": true,
-        "end": "2686 BC"
+        "end": "2650 BC"
       },
       "style": "egyptEarlyDynastic"
     },
@@ -14,7 +14,7 @@
       "name": "Old Kingdom",
       "timespan": {
         "startApproximate": true,
-        "start": "2686 BC",
+        "start": "2700 BC",
         "endApproximate": true,
         "end": "2180 BC"
       },
