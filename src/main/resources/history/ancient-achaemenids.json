@@ -200,6 +200,21 @@
               ]
             },
             {
+              "name": "Bagoas",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "vizier",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "350 BC",
+                    "end": "335 BC"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Arses",
               "style": "achaemenid",
               "importance": "minor",
