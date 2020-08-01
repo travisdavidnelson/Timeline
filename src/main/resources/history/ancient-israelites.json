@@ -131,6 +131,16 @@
                 "end": "722 BC"
               },
               "style": "israel"
+            },
+            {
+              "name": "Earthquake",
+              "timespan": {
+                "startApproximate": true,
+                "start": "760 BC",
+                "endApproximate": true,
+                "end": "760 BC"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -329,7 +339,7 @@
             {
               "name": "Jeroboam II",
               "style": "israel",
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
