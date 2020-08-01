@@ -1421,6 +1421,14 @@
                 "end": "612 BC"
               },
               "style": "neoassyria"
+            },
+            {
+              "name": "Fall of Nineveh",
+              "timespan": {
+                "start": "613 BC",
+                "end": "612 BC"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
