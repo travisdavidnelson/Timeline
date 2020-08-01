@@ -1495,6 +1495,20 @@
               ]
             },
             {
+              "name": "Shammuramat&#9792;",
+              "style": "assyrian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "811 BC",
+                    "end": "808 BC"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Adad-nirari III",
               "style": "assyrian",
               "importance": "minor",
