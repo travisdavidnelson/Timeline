@@ -2,11 +2,21 @@
   "name": "Hittites",
   "backgroundEvents": [
     {
+      "name": "Egyptian New Kingdom",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1470 BC",
+        "endApproximate": true,
+        "end": "1340 BC"
+      },
+      "style": "egyptNewKingdom"
+    },
+    {
       "name": "Hittite Empire",
       "style": "hittite",
       "timespan": {
         "startApproximate": true,
-        "start": "1392 BC",
+        "start": "1350 BC",
         "endApproximate": true,
         "end": "1210 BC"
       }
