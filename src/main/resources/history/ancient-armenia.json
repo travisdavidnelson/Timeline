@@ -57,8 +57,16 @@
                 {
                   "name": "satrap",
                   "timespan": {
-                    "start": "336 BC",
-                    "end": "331 BC"
+                    "start": "344 BC",
+                    "end": "8/330 BC"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/330 BC",
+                    "endApproximate": "true",
+                    "end": "325 BC"
                   }
                 }
               ]
@@ -69,16 +77,10 @@
               "importance": "minor",
               "titles": [
                 {
-                  "name": "satrap",
-                  "timespan": {
-                    "start": "331 BC",
-                    "end": "323 BC"
-                  }
-                },
-                {
                   "name": "king",
                   "timespan": {
-                    "start": "321 BC",
+                    "startApproximate": "true",
+                    "start": "325 BC",
                     "end": "317 BC"
                   }
                 }
@@ -93,7 +95,21 @@
                   "name": "king",
                   "timespan": {
                     "start": "317 BC",
-                    "end": "260 BC"
+                    "end": "275 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Samos",
+              "style": "armenia",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "275 BC",
+                    "end": "255 BC"
                   }
                 }
               ]
@@ -106,22 +122,36 @@
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "260 BC",
+                    "start": "255 BC",
                     "end": "228 BC"
                   }
                 }
               ]
             },
             {
-              "name": "Orontes IV",
+              "name": "Abdisares",
               "style": "armenia",
               "importance": "minor",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "212 BC",
-                    "end": "200 BC"
+                    "start": "228 BC",
+                    "end": "215 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Xerxes",
+              "style": "armenia",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "215 BC",
+                    "end": "212 BC"
                   }
                 }
               ]

@@ -138,7 +138,7 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Assyrian_intervention_in_Babylon" target="_blank"><rect id="Assyrian_intervention_in_Babylon" x="5704" y="2452" width="6" height="740" class="footprint"/><rect id="Assyrian_intervention_in_Babylon" x="5704" y="2452" width="6" height="740" class="backgroundForeignWarVictory"/><title>Assyrian intervention in Babylon (1332 BC - 1330 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Neo-Assyria" target="_blank"><rect id="Neo-Assyria" x="6940" y="2452" width="924" height="740" class="footprint""  mask="url(#fadeInMask)"/><rect id="Neo-Assyria" x="6940" y="2452" width="924" height="740" class="neoassyria""  mask="url(#fadeInMask)"/><title>Neo-Assyria (c. 915 BC - 612 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Fall_of_Nineveh" target="_blank"><rect id="Fall_of_Nineveh" x="7861" y="2452" width="3" height="740" class="footprint"/><rect id="Fall_of_Nineveh" x="7861" y="2452" width="3" height="740" class="backgroundNationalCalamity"/><title>Fall of Nineveh (613 BC - 612 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Armenia" target="_blank"><rect id="Kingdom_of_Armenia" x="8737" y="2452" width="363" height="230" class="footprint"/><rect id="Kingdom_of_Armenia" x="8737" y="2452" width="363" height="230" class="armenia"/><title>Kingdom of Armenia (321 BC - 200 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Armenia" target="_blank"><rect id="Kingdom_of_Armenia" x="8737" y="2452" width="363" height="273" class="footprint"/><rect id="Kingdom_of_Armenia" x="8737" y="2452" width="363" height="273" class="armenia"/><title>Kingdom of Armenia (321 BC - 200 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Uruk" target="_blank"><rect id="Uruk" x="1315" y="3404" width="750" height="257" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Uruk" x="1315" y="3404" width="750" height="257" class="uruk""  mask="url(#fadeInOutMask)"/><title>Uruk (c. 2790 BC - c. 2550 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kish_III" target="_blank"><rect id="Kish_III" x="2485" y="3297" width="390" height="145" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Kish_III" x="2485" y="3297" width="390" height="145" class="kish""  mask="url(#fadeInOutMask)"/><title>Kish III (c. 2400 BC - c. 2280 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Defeat_by_Lugalzagesi" target="_blank"><rect id="Defeat_by_Lugalzagesi" x="2845" y="3297" width="6" height="145" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Defeat_by_Lugalzagesi" x="2845" y="3297" width="6" height="145" class="backgroundNationalCalamity""  mask="url(#fadeInOutMask)"/><title>Defeat by Lugalzagesi (c. 2285 BC)</title></a></g>
@@ -3592,69 +3592,41 @@
 
 <text x="6967" y="2492" class="dynasty">NEO-ASSYRIAN EMPIRE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_I" target="_blank"><rect id="Orontes_I" x="8497" y="2502" width="171" height="25" class="armenia"/><rect x="8497" y="2502" width="171" height="25" class="satrap"/>
 <text x="8499" y="2521" class="semimajor">ORONTES I</text><title>Orontes I (401 BC - 344 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_II" target="_blank"><rect id="Orontes_II" x="8692" y="2537" width="15" height="15" class="armenia"/><rect x="8692" y="2537" width="15" height="15" class="satrap"/>
-<text x="8693" y="2548" class="minor">ORONTES II</text><title>Orontes II (336 BC - 331 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Mithrenes" target="_blank"><rect id="Mithrenes" x="8707" y="2562" width="24" height="15" class="armenia"/><rect x="8707" y="2562" width="24" height="15" class="satrap"/><rect x="8737" y="2562" width="12" height="15" class="king"/>
-<text x="8708" y="2573" class="minor">MITHRENES</text><title>Mithrenes (331 BC - 317 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_III" target="_blank"><rect id="Orontes_III" x="8749" y="2587" width="171" height="25" class="armenia"/><rect x="8749" y="2587" width="171" height="25" class="king"/>
-<text x="8751" y="2606" class="semimajor">ORONTES III</text><title>Orontes III (317 BC - 260 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Arsames_I" target="_blank"><rect id="Arsames_I" x="8920" y="2622" width="96" height="25" class="armenia"/><rect x="8920" y="2622" width="96" height="25" class="king"/>
-<text x="8922" y="2641" class="semimajor">ARSAMES I</text><title>Arsames I (260 BC - 228 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_IV" target="_blank"><rect id="Orontes_IV" x="9064" y="2657" width="36" height="15" class="armenia"/><rect x="9064" y="2657" width="36" height="15" class="king"/>
-<text x="9065" y="2668" class="minor">ORONTES IV</text><title>Orontes IV (212 BC - 200 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_II" target="_blank"><rect id="Orontes_II" x="8668" y="2537" width="44" height="15" class="armenia"/><rect x="8668" y="2537" width="44" height="15" class="satrap"/><rect x="8712" y="2537" width="19" height="15" class="king""  mask="url(#fadeOutMask)"/>
+<text x="8669" y="2548" class="minor">ORONTES II</text><title>Orontes II (344 BC - 325 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithrenes" target="_blank"><rect id="Mithrenes" x="8725" y="2562" width="24" height="15" class="armenia"/><rect x="8719" y="2562" width="30" height="15" class="king""  mask="url(#fadeInMask)"/>
+<text x="8726" y="2573" class="minor">MITHRENES</text><title>Mithrenes (325 BC - 317 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_III" target="_blank"><rect id="Orontes_III" x="8749" y="2587" width="126" height="25" class="armenia"/><rect x="8749" y="2587" width="126" height="25" class="king"/>
+<text x="8751" y="2606" class="semimajor">ORONTES III</text><title>Orontes III (317 BC - 275 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Samos" target="_blank"><rect id="Samos" x="8875" y="2622" width="60" height="15" class="armenia"/><rect x="8875" y="2622" width="60" height="15" class="king"/>
+<text x="8876" y="2633" class="minor">SAMOS</text><title>Samos (275 BC - 255 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Arsames_I" target="_blank"><rect id="Arsames_I" x="8935" y="2647" width="81" height="25" class="armenia"/><rect x="8935" y="2647" width="81" height="25" class="king"/>
+<text x="8937" y="2666" class="semimajor">ARSAMES I</text><title>Arsames I (255 BC - 228 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Abdisares" target="_blank"><rect id="Abdisares" x="9016" y="2682" width="39" height="15" class="armenia"/><rect x="9016" y="2682" width="39" height="15" class="king"/>
+<text x="9017" y="2693" class="minor">ABDISARES</text><title>Abdisares (228 BC - 215 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Xerxes" target="_blank"><rect id="Xerxes" x="9055" y="2707" width="9" height="8" class="armenia"/><rect x="9055" y="2707" width="9" height="8" class="king"/>
+<text x="9055" y="2713" class="petty">XERXES</text><title>Xerxes (215 BC - 212 BC)</title></a></g>
 
-<text x="8497" y="2492" class="dynasty">ARMENIA ORONTID</text><g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_I" target="_blank"><rect id="Artaxias_I" x="9130" y="2754" width="93" height="25" class="armenia"/><rect x="9130" y="2754" width="93" height="25" class="king"/>
-<text x="9132" y="2773" class="semimajor">ARTAXIAS I</text><title>Artaxias I (190 BC - 159 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_I" target="_blank"><rect id="Artavasdes_I" x="9223" y="2789" width="132" height="15" class="armenia"/><rect x="9223" y="2789" width="132" height="15" class="king"/>
-<text x="9224" y="2800" class="minor">ARTAVASDES I</text><title>Artavasdes I (159 BC - 115 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_I" target="_blank"><rect id="Tigranes_I" x="9340" y="2814" width="75" height="8" class="armenia"/><rect x="9340" y="2814" width="75" height="8" class="king"/>
-<text x="9340" y="2820" class="petty">TIGRANES I</text><title>Tigranes I (120 BC - 95 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_II" target="_blank"><rect id="Tigranes_II" x="9280" y="2832" width="318" height="40" class="armenia"/><rect x="9415" y="2832" width="120" height="40" class="king"/>
-<text x="9283" y="2862" class="major">TIGRANES II</text><title>Tigranes II (140 BC - 34 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_II" target="_blank"><rect id="Artavasdes_II" x="9535" y="2882" width="63" height="25" class="armenia"/><rect x="9535" y="2882" width="63" height="25" class="king"/><rect x="9598" y="2882" width="9" height="25" class="pow"/>
-<text x="9537" y="2901" class="semimajor">ARTAVASDES II</text><title>Artavasdes II (55 BC - 31 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_II" target="_blank"><rect id="Artaxias_II" x="9475" y="2917" width="165" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9598" y="2917" width="42" height="15" class="king"/>
-<text x="9477" y="2928" class="minor">ARTAXIAS II</text><title>Artaxias II (c. 65 BC - 20 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_III" target="_blank"><rect id="Tigranes_III" x="9505" y="2942" width="171" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9640" y="2942" width="36" height="15" class="king"/>
-<text x="9507" y="2953" class="minor">TIGRANES III</text><title>Tigranes III (c. 55 BC - 8 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_IV" target="_blank"><rect id="Tigranes_IV" x="9565" y="2967" width="132" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9676" y="2967" width="9" height="15" class="king"/><rect x="9694" y="2967" width="3" height="15" class="king"/>
-<text x="9567" y="2978" class="minor">TIGRANES IV</text><title>Tigranes IV (c. 35 BC - 1 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Erato&#9792;" target="_blank"><rect id="Erato&#9792;" x="9670" y="2992" width="24" height="15" class="armenia"/><rect x="9670" y="2992" width="24" height="15" class="queen"/><rect x="9694" y="2992" width="21" height="15" class="exile"/><rect x="9715" y="2992" width="18" height="15" class="queen"/>
-<text x="9671" y="3003" class="minor">ERATO&#9792;</text><title>Erato&#9792; (10 BC - 12)</title></a></g>
+<text x="8497" y="2492" class="dynasty">ARMENIA ORONTID</text><g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_I" target="_blank"><rect id="Artaxias_I" x="9130" y="2797" width="93" height="25" class="armenia"/><rect x="9130" y="2797" width="93" height="25" class="king"/>
+<text x="9132" y="2816" class="semimajor">ARTAXIAS I</text><title>Artaxias I (190 BC - 159 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_I" target="_blank"><rect id="Artavasdes_I" x="9223" y="2832" width="132" height="15" class="armenia"/><rect x="9223" y="2832" width="132" height="15" class="king"/>
+<text x="9224" y="2843" class="minor">ARTAVASDES I</text><title>Artavasdes I (159 BC - 115 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_I" target="_blank"><rect id="Tigranes_I" x="9340" y="2857" width="75" height="8" class="armenia"/><rect x="9340" y="2857" width="75" height="8" class="king"/>
+<text x="9340" y="2863" class="petty">TIGRANES I</text><title>Tigranes I (120 BC - 95 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_II" target="_blank"><rect id="Tigranes_II" x="9280" y="2875" width="318" height="40" class="armenia"/><rect x="9415" y="2875" width="120" height="40" class="king"/>
+<text x="9283" y="2905" class="major">TIGRANES II</text><title>Tigranes II (140 BC - 34 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_II" target="_blank"><rect id="Artavasdes_II" x="9535" y="2925" width="63" height="25" class="armenia"/><rect x="9535" y="2925" width="63" height="25" class="king"/><rect x="9598" y="2925" width="9" height="25" class="pow"/>
+<text x="9537" y="2944" class="semimajor">ARTAVASDES II</text><title>Artavasdes II (55 BC - 31 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_II" target="_blank"><rect id="Artaxias_II" x="9475" y="2960" width="165" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9598" y="2960" width="42" height="15" class="king"/>
+<text x="9477" y="2971" class="minor">ARTAXIAS II</text><title>Artaxias II (c. 65 BC - 20 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_III" target="_blank"><rect id="Tigranes_III" x="9505" y="2985" width="171" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9640" y="2985" width="36" height="15" class="king"/>
+<text x="9507" y="2996" class="minor">TIGRANES III</text><title>Tigranes III (c. 55 BC - 8 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_IV" target="_blank"><rect id="Tigranes_IV" x="9565" y="3010" width="132" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9676" y="3010" width="9" height="15" class="king"/><rect x="9694" y="3010" width="3" height="15" class="king"/>
+<text x="9567" y="3021" class="minor">TIGRANES IV</text><title>Tigranes IV (c. 35 BC - 1 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Erato&#9792;" target="_blank"><rect id="Erato&#9792;" x="9670" y="3035" width="24" height="15" class="armenia"/><rect x="9670" y="3035" width="24" height="15" class="queen"/><rect x="9694" y="3035" width="21" height="15" class="exile"/><rect x="9715" y="3035" width="18" height="15" class="queen"/>
+<text x="9671" y="3046" class="minor">ERATO&#9792;</text><title>Erato&#9792; (10 BC - 12)</title></a></g>
 
-<text x="9130" y="2744" class="dynasty">ARMENIA ARTAXIAD</text><g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_I" target="_blank"><rect id="Orontes_I" x="8497" y="2502" width="171" height="25" class="armenia"/><rect x="8497" y="2502" width="171" height="25" class="satrap"/>
-<text x="8499" y="2521" class="semimajor">ORONTES I</text><title>Orontes I (401 BC - 344 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_II" target="_blank"><rect id="Orontes_II" x="8692" y="2537" width="15" height="15" class="armenia"/><rect x="8692" y="2537" width="15" height="15" class="satrap"/>
-<text x="8693" y="2548" class="minor">ORONTES II</text><title>Orontes II (336 BC - 331 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Mithrenes" target="_blank"><rect id="Mithrenes" x="8707" y="2562" width="24" height="15" class="armenia"/><rect x="8707" y="2562" width="24" height="15" class="satrap"/><rect x="8737" y="2562" width="12" height="15" class="king"/>
-<text x="8708" y="2573" class="minor">MITHRENES</text><title>Mithrenes (331 BC - 317 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_III" target="_blank"><rect id="Orontes_III" x="8749" y="2587" width="171" height="25" class="armenia"/><rect x="8749" y="2587" width="171" height="25" class="king"/>
-<text x="8751" y="2606" class="semimajor">ORONTES III</text><title>Orontes III (317 BC - 260 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Arsames_I" target="_blank"><rect id="Arsames_I" x="8920" y="2622" width="96" height="25" class="armenia"/><rect x="8920" y="2622" width="96" height="25" class="king"/>
-<text x="8922" y="2641" class="semimajor">ARSAMES I</text><title>Arsames I (260 BC - 228 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Orontes_IV" target="_blank"><rect id="Orontes_IV" x="9064" y="2657" width="36" height="15" class="armenia"/><rect x="9064" y="2657" width="36" height="15" class="king"/>
-<text x="9065" y="2668" class="minor">ORONTES IV</text><title>Orontes IV (212 BC - 200 BC)</title></a></g>
-
-<text x="8497" y="2492" class="dynasty">ARMENIA ORONTID</text><g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_I" target="_blank"><rect id="Artaxias_I" x="9130" y="2754" width="93" height="25" class="armenia"/><rect x="9130" y="2754" width="93" height="25" class="king"/>
-<text x="9132" y="2773" class="semimajor">ARTAXIAS I</text><title>Artaxias I (190 BC - 159 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_I" target="_blank"><rect id="Artavasdes_I" x="9223" y="2789" width="132" height="15" class="armenia"/><rect x="9223" y="2789" width="132" height="15" class="king"/>
-<text x="9224" y="2800" class="minor">ARTAVASDES I</text><title>Artavasdes I (159 BC - 115 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_I" target="_blank"><rect id="Tigranes_I" x="9340" y="2814" width="75" height="8" class="armenia"/><rect x="9340" y="2814" width="75" height="8" class="king"/>
-<text x="9340" y="2820" class="petty">TIGRANES I</text><title>Tigranes I (120 BC - 95 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_II" target="_blank"><rect id="Tigranes_II" x="9280" y="2832" width="318" height="40" class="armenia"/><rect x="9415" y="2832" width="120" height="40" class="king"/>
-<text x="9283" y="2862" class="major">TIGRANES II</text><title>Tigranes II (140 BC - 34 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artavasdes_II" target="_blank"><rect id="Artavasdes_II" x="9535" y="2882" width="63" height="25" class="armenia"/><rect x="9535" y="2882" width="63" height="25" class="king"/><rect x="9598" y="2882" width="9" height="25" class="pow"/>
-<text x="9537" y="2901" class="semimajor">ARTAVASDES II</text><title>Artavasdes II (55 BC - 31 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Artaxias_II" target="_blank"><rect id="Artaxias_II" x="9475" y="2917" width="165" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9598" y="2917" width="42" height="15" class="king"/>
-<text x="9477" y="2928" class="minor">ARTAXIAS II</text><title>Artaxias II (c. 65 BC - 20 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_III" target="_blank"><rect id="Tigranes_III" x="9505" y="2942" width="171" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9640" y="2942" width="36" height="15" class="king"/>
-<text x="9507" y="2953" class="minor">TIGRANES III</text><title>Tigranes III (c. 55 BC - 8 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Tigranes_IV" target="_blank"><rect id="Tigranes_IV" x="9565" y="2967" width="132" height="15" class="armenia""  mask="url(#fadeInMask)"/><rect x="9676" y="2967" width="9" height="15" class="king"/><rect x="9694" y="2967" width="3" height="15" class="king"/>
-<text x="9567" y="2978" class="minor">TIGRANES IV</text><title>Tigranes IV (c. 35 BC - 1 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Erato&#9792;" target="_blank"><rect id="Erato&#9792;" x="9670" y="2992" width="24" height="15" class="armenia"/><rect x="9670" y="2992" width="24" height="15" class="queen"/><rect x="9694" y="2992" width="21" height="15" class="exile"/><rect x="9715" y="2992" width="18" height="15" class="queen"/>
-<text x="9671" y="3003" class="minor">ERATO&#9792;</text><title>Erato&#9792; (10 BC - 12)</title></a></g>
-
-<text x="9130" y="2744" class="dynasty">ARMENIA ARTAXIAD</text>
+<text x="9130" y="2787" class="dynasty">ARMENIA ARTAXIAD</text>
 <text x="150" y="3163" class="channel">ASSYRIA / ARMENIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Aga" target="_blank"><rect id="Aga" x="1330" y="3347" width="120" height="25" class="kish"/><rect x="1324" y="3347" width="132" height="25" class="king""  mask="url(#fadeInOutMask)"/>
 <text x="1332" y="3366" class="semimajor">AGA</text><title>Aga (2790 BC - 2750 BC)</title></a></g>
 
