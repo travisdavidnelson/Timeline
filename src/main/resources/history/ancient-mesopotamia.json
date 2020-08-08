@@ -2877,43 +2877,44 @@
       ]
     },
     {
-      "name": "Babylon VI +",
+      "name": "Babylon VI",
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Babylon VI - VIII",
+          "name": "Babylon VI",
           "backgroundEvents": [
             {
               "name": "Babylonia",
               "timespan": {
                 "startApproximate": true,
-                "start": "1025 BC",
+                "start": "1003 BC",
                 "endApproximate": true,
-                "end": "943 BC"
+                "end": "915 BC"
               },
               "style": "babylonWeak"
             }
           ],
           "people": [
             {
-              "name": "Eulmash-shakin-shumi",
+              "name": "Eulnas-shakin-shumi",
               "importance": "semimajor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "1004 BC",
+                    "start": "1003 BC",
                     "endApproximate": true,
-                    "end": "988 BC"
+                    "end": "987 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Ninurta-kudurri-usur I",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -2924,28 +2925,28 @@
                     "end": "985 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
-              "name": "Mar-biti-apla-usur",
-              "importance": "minor",
+              "name": "Shirikti-shuqamuna",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "984 BC",
+                    "start": "985 BC",
                     "endApproximate": true,
-                    "end": "980 BC"
+                    "end": "984 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Nabu-mukin-apli",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -2956,8 +2957,39 @@
                     "end": "943 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
+            },
+            {
+              "name": "Ninurta-kudduri-usur II",
+              "importance": "petty",
+              "style": "babylonian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "943 BC",
+                    "endApproximate": true,
+                    "end": "942 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mar-biti-ahhe-iddina",
+              "importance": "minor",
+              "style": "babylonian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "942 BC",
+                    "endApproximate": true,
+                    "end": "915 BC"
+                  }
+                }
+              ]
             }
           ]
         },
