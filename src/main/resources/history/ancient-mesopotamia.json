@@ -145,16 +145,17 @@
       "name": "Neo-Assyria",
       "timespan": {
         "startApproximate": true,
-        "start": "855 BC",
+        "start": "824 BC",
         "endApproximate": true,
-        "end": "820 BC"
+        "end": "800 BC"
       },
       "style": "neoassyria"
     },
     {
       "name": "Neo-Assyria",
       "timespan": {
-        "start": "729 BC",
+        "startApproximate": true,
+        "start": "740 BC",
         "end": "626 BC"
       },
       "style": "neoassyria"
@@ -2839,10 +2840,23 @@
         },
         {
           "name": "Babylon V",
+          "backgroundEvents": [
+            {
+              "name": "Babylonia",
+              "style": "babylonWeak",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1025 BC",
+                "endApproximate": true,
+                "end": "1005 BC"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Simbar-shipak",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -2853,12 +2867,12 @@
                     "end": "1008 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Kashshu-nadin-ahi",
-              "importance": "minor",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -2869,8 +2883,7 @@
                     "end": "1005 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             }
           ]
         }
@@ -2892,6 +2905,16 @@
                 "end": "915 BC"
               },
               "style": "babylonWeak"
+            },
+            {
+              "name": "Emanite invasion and occupation",
+              "timespan": {
+                "startApproximate": true,
+                "start": "985 BC",
+                "endApproximate": true,
+                "end": "970 BC"
+              },
+              "style": "backgroundInvasion"
             }
           ],
           "people": [
@@ -2938,7 +2961,7 @@
                     "startApproximate": true,
                     "start": "985 BC",
                     "endApproximate": true,
-                    "end": "984 BC"
+                    "end": "985 BC"
                   }
                 }
               ]
@@ -2952,7 +2975,7 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "979 BC",
+                    "start": "970 BC",
                     "endApproximate": true,
                     "end": "943 BC"
                   }
@@ -2992,105 +3015,72 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Babylon VIII",
+      "dynasties": [
         {
-          "name": "Babylon IX",
+          "name": "VIII",
           "backgroundEvents": [
             {
               "name": "Babylonia",
+              "style": "babylonWeak",
               "timespan": {
                 "startApproximate": true,
-                "start": "943 BC",
+                "start": "895 BC",
+                "end": "813 BC"
+              }
+            },
+            {
+              "name": "Assyrian intervention",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "813 BC",
                 "endApproximate": true,
-                "end": "729 BC"
-              },
-              "style": "babylonWeak"
+                "end": "813 BC"
+              }
             }
           ],
           "people": [
             {
-              "name": "Ninurta-kudurri-usur II",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "943 BC",
-                    "endApproximate": true,
-                    "end": "942 BC"
-                  }
-                }
-              ],
-              "style": "babylonian"
-            },
-            {
-              "name": "Mar-biti-ahhe-iddina",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "943 BC",
-                    "endApproximate": true,
-                    "end": "920 BC"
-                  }
-                }
-              ],
-              "style": "babylonian"
-            },
-            {
-              "name": "Shamash-mudammiq",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "920 BC",
-                    "endApproximate": true,
-                    "end": "900 BC"
-                  }
-                }
-              ],
-              "style": "babylonian"
-            },
-            {
               "name": "Nabu-shuma-ukin I",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "900 BC",
+                    "start": "895 BC",
                     "endApproximate": true,
-                    "end": "888 BC"
+                    "end": "887 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Nabu-apla-iddina",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "888 BC",
+                    "start": "887 BC",
                     "endApproximate": true,
                     "end": "855 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
-              "name": "Marduk-zakir-shumi I",
+              "name": "Marduk-zakir-shumi",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3098,31 +3088,76 @@
                     "startApproximate": true,
                     "start": "855 BC",
                     "endApproximate": true,
-                    "end": "819 BC"
+                    "end": "827 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
-              "name": "Marduk-balassu-iqbi",
-              "importance": "minor",
+              "name": "Marduk-balassi-iqbi",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "819 BC",
-                    "endApproximate": true,
+                    "start": "827 BC",
                     "end": "813 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Babylon IX",
+      "dynasties": [
+        {
+          "name": "IX",
+          "backgroundEvents": [
+            {
+              "name": "Babylonia",
+              "style": "babylonWeak",
+              "timespan": {
+                "start": "813 BC",
+                "end": "729 BC"
+              }
             },
             {
+              "name": "Assyrian intervention",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "811 BC",
+                "endApproximate": true,
+                "end": "811 BC"
+              }
+            },
+            {
+              "name": "Assyrian intervention",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "771 BC",
+                "end": "767 BC"
+              }
+            },
+            {
+              "name": "Assyrian intervention",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "731 BC",
+                "end": "729 BC"
+              }
+            }
+          ],
+          "people": [
+            {
               "name": "Baba-aha-iddina",
-              "importance": "minor",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3133,12 +3168,12 @@
                     "end": "811 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Ninurta-apla-X",
-              "importance": "minor",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3149,12 +3184,12 @@
                     "end": "790 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Marduk-bel-zeri",
-              "importance": "minor",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3165,12 +3200,12 @@
                     "end": "780 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Marduk-apla-usur",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3181,12 +3216,12 @@
                     "end": "769 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Eriba-Marduk",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3197,12 +3232,12 @@
                     "end": "761 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Nabu-shuma-ishkun",
               "importance": "minor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
@@ -3212,64 +3247,63 @@
                     "end": "748 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Nabonassar",
               "importance": "semimajor",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "748 BC",
-                    "end": "734 BC"
+                    "end": "733 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
-            },
-            {
-              "name": "Nabonassar",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "734 BC",
-                    "end": "732 BC"
-                  }
-                }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
               "name": "Nabu-nadin-zeri",
-              "importance": "minor",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "734 BC",
+                    "start": "733 BC",
                     "end": "732 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             },
             {
-              "name": "Nabu-mukin-zeri",
-              "importance": "minor",
+              "name": "Nabu-suma-ukin I",
+              "importance": "petty",
+              "style": "babylonian",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "732 BC",
+                    "end": "731 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nabu-mukin-zeri",
+              "importance": "minor",
+              "style": "babylonian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "731 BC",
                     "end": "729 BC"
                   }
                 }
-              ],
-              "style": "babylonian"
+              ]
             }
           ]
         }
