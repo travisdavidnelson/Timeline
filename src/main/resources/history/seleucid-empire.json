@@ -37,6 +37,16 @@
             "end": "188 BC"
           },
           "style": "backgroundForeignWarDefeat"
+        },
+        {
+          "name": "Battle of Magnesia",
+          "timespan": {
+            "startApproximate": "true",
+            "start": "12/190 BC",
+            "endApproximate": "true",
+            "end": "1/189 BC"
+          },
+          "style": "backgroundNationalCalamity"
         }
       ],
       "dynasties": [

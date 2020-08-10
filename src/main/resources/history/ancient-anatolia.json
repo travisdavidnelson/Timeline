@@ -30,6 +30,14 @@
       }
     },
     {
+      "name": "Lydian-Persian War",
+      "timespan": {
+        "start": "547 BC",
+        "end": "546 BC"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
       "name": "Achaemenid Empire",
       "timespan": {
         "start": "546 BC",
@@ -39,5 +47,125 @@
     }
   ],
   "dynastyGroups": [
+    {
+      "name": "Lydia",
+      "dynasties": [
+        {
+          "name": "Lydia",
+          "backgroundEvents": [
+            {
+              "name": "Lydia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "687 BC",
+                "end": "547 BC"
+              },
+              "style": "lydian"
+            },
+            {
+              "name": "Lydian-Persian War",
+              "timespan": {
+                "start": "547 BC",
+                "end": "547 BC"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
+          "people": [
+            {
+              "name": "Gyges",
+              "importance": "semimajor",
+              "style": "lydian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "687 BC",
+                    "endApproximate": true,
+                    "end": "645 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ardys",
+              "importance": "minor",
+              "style": "lydian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "645 BC",
+                    "endApproximate": true,
+                    "end": "624 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sadyattes",
+              "importance": "minor",
+              "style": "lydian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "624 BC",
+                    "endApproximate": true,
+                    "end": "610 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alyattes",
+              "importance": "semimajor",
+              "style": "lydian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "610 BC",
+                    "end": "560 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Croesus",
+              "importance": "major",
+              "style": "lydian",
+              "timespan": {
+                "startApproximate": true,
+                "start": "590 BC",
+                "endApproximate": true,
+                "end": "540 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "560 BC",
+                    "end": "547 BC"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "547 BC",
+                    "endApproximate": true,
+                    "end": "540 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
