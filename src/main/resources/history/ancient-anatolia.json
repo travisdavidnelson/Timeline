@@ -66,7 +66,7 @@
               "name": "Lydian-Persian War",
               "timespan": {
                 "start": "547 BC",
-                "end": "547 BC"
+                "end": "546 BC"
               },
               "style": "backgroundNationalCalamity"
             }
@@ -130,6 +130,7 @@
                   "timespan": {
                     "startApproximate": true,
                     "start": "610 BC",
+                    "endApproximate": true,
                     "end": "560 BC"
                   }
                 }
@@ -143,22 +144,15 @@
                 "startApproximate": true,
                 "start": "590 BC",
                 "endApproximate": true,
-                "end": "540 BC"
+                "end": "542 BC"
               },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
+                    "startApproximate": true,
                     "start": "560 BC",
-                    "end": "547 BC"
-                  }
-                },
-                {
-                  "name": "exile",
-                  "timespan": {
-                    "start": "547 BC",
-                    "endApproximate": true,
-                    "end": "540 BC"
+                    "end": "546 BC"
                   }
                 }
               ]
