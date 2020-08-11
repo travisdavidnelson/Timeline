@@ -40,17 +40,19 @@
 .neosumer {fill:blue;fill-opacity:0.5}
 .uruk {fill:blue;fill-opacity:0.4}
 
+.backgroundBattle {fill:red; fill-opacity:0.8}
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
 .backgroundDarkAge {fill:black; fill-opacity:0.5}
 .backgroundInvasion {fill:#4C0000; fill-opacity:0.6}
-.backgroundForeignWar {fill:brown; fill-opacity:0.3}
+.backgroundForeignWar {fill:red; fill-opacity:0.2}
 .backgroundForeignWarVictory {fill:blue; fill-opacity:0.8}
 .backgroundForeignWarDefeat {fill:red; fill-opacity:0.4}
 .backgroundRebellion {fill:red; fill-opacity:0.6}
 .backgroundNationalCalamity {stroke:#C00000; stroke-width:1.5; fill:#C00000; fill-opacity:1.0}
 .backgroundPlague {fill:black; fill-opacity:0.5}
 .backgroundRevolution {fill:#C00000; fill-opacity:0.7}
+.backgroundWar {fill:red; fill-opacity:0.4}
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
@@ -67,6 +69,7 @@
 .hyksos {fill:orange; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .isin {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .israel {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.medes {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .nubian {fill:orange; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
 .lagashian {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .larsa {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
@@ -120,7 +123,7 @@
 .quaestor 			{fill:blue;		fill-opacity:0.4}
 .rebel 			    {fill:black;	fill-opacity:0.5}
 .regent 			{fill:blue;		fill-opacity:0.8}
-.satrap 			{fill:blue;		fill-opacity:0.5}
+.satrap 			{fill:blue;		fill-opacity:0.6}
 .tribune 			{fill:blue;		fill-opacity:0.5}
 .triumvir 			{fill:#551A8B;	fill-opacity:1.0}
 .usurper 			{fill:black;	fill-opacity:0.5}

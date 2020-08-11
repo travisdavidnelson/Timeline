@@ -2,6 +2,41 @@
   "name": "Persia",
   "backgroundEvents": [
     {
+      "name": "Neo-Assyria",
+      "timespan": {
+        "startApproximate": true,
+        "start": "640 BC",
+        "endApproximate": true,
+        "end": "620 BC"
+      },
+      "style": "neoassyria"
+    },
+    {
+      "name": "Achaemenid Empire",
+      "timespan": {
+        "startApproximate": true,
+        "start": "570 BC",
+        "end": "330 BC"
+      },
+      "style": "achaemenid"
+    },
+    {
+      "name": "Battle of Passargadae",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "550 BC",
+        "end": "550 BC"
+      }
+    },
+    {
+      "name": "Macedonian Empire",
+      "timespan": {
+        "start": "330 BC",
+        "end": "323 BC"
+      },
+      "style": "macedon"
+    },
+    {
       "name": "Seleucid Empire",
       "timespan": {
         "start": "323 BC",
@@ -11,5 +46,360 @@
     }
   ],
   "dynastyGroups": [
+    {
+      "name": "Medes",
+      "backgroundEvents": [
+      ],
+      "dynasties": [
+        {
+          "name": "Medes",
+          "backgroundEvents": [
+            {
+              "name": "Medes",
+              "style": "medes",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "674 BC",
+                "end": "550 BC"
+              }
+            },
+            {
+              "name": "Sack of Nineveh",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "613 BC",
+                "end": "612 BC"
+              }
+            },
+            {
+              "name": "War with Lydia",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "590 BC",
+                "end": "5/28/585 BC"
+              }
+            },
+            {
+              "name": "Battle of the Eclipse",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/1/585 BC",
+                "end": "5/28/585 BC"
+              }
+            },
+            {
+              "name": "Battle of Passargadae",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "550 BC",
+                "end": "550 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Phraortes",
+              "importance": "minor",
+              "style": "medes",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "647 BC",
+                    "end": "624 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cyaxares",
+              "importance": "major",
+              "style": "medes",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "624 BC",
+                    "end": "12/585 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Astyages",
+              "importance": "semimajor",
+              "style": "medes",
+              "timespan": {
+                "startApproximate": true,
+                "start": "585 BC",
+                "endApproximate": true,
+                "end": "550 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "584 BC",
+                    "end": "550 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harpagus",
+              "importance": "major",
+              "style": "medes",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "610 BC",
+                    "endApproximate": true,
+                    "end": "545 BC"
+                  }
+                },
+                {
+                  "name": "satrap",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "545 BC",
+                    "endApproximate": true,
+                    "end": "540 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid I",
+          "people": [
+            {
+              "name": "Cyrus II",
+              "style": "achaemenid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "600 BC",
+                "end": "12/4/530 BC"
+              },
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "559 BC",
+                    "end": "12/4/530 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cambyses II",
+              "style": "achaemenid",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "12/4/530 BC",
+                    "end": "7/522 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bardiya",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "7/522 BC",
+                    "end": "12/522 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid II",
+          "people" : [
+            {
+              "name": "Darius I",
+              "style": "achaemenid",
+              "timespan": {
+                "startApproximate": true,
+                "start": "550 BC",
+                "end": "10/486 BC"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "12/522 BC",
+                    "end": "10/486 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Xerxes I",
+              "style": "achaemenid",
+              "timespan": {
+                "start": "519 BC",
+                "end": "8/465 BC"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "10/486 BC",
+                    "end": "8/465 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes I",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "8/465 BC",
+                    "end": "424 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Xerxes II",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "424 BC",
+                    "end": "425 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sogdianus",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "424 BC",
+                    "end": "423 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius II",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "423 BC",
+                    "end": "404 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes II Mnemon",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "404 BC",
+                    "end": "358 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artaxerxes III",
+              "style": "achaemenid",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "358 BC",
+                    "end": "338 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bagoas",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "vizier",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "350 BC",
+                    "end": "335 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arses",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "338 BC",
+                    "end": "336 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius III",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "380 BC",
+                "end": "7/330 BC"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "336 BC",
+                    "end": "7/330 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

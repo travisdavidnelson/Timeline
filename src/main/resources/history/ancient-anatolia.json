@@ -63,6 +63,22 @@
               "style": "lydian"
             },
             {
+              "name": "War with Lydia",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "590 BC",
+                "end": "5/28/585 BC"
+              }
+            },
+            {
+              "name": "Battle of the Eclipse",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/1/585 BC",
+                "end": "5/28/585 BC"
+              }
+            },
+            {
               "name": "Lydian-Persian War",
               "timespan": {
                 "start": "547 BC",
