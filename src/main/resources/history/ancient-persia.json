@@ -19,22 +19,6 @@
       "style": "backgroundWar"
     },
     {
-      "name": "Fall Of Ninevah",
-      "timespan": {
-        "start": "613 BC",
-        "end": "612 BC"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
-      "name": "Fall Of Harran",
-      "timespan": {
-        "start": "610 BC",
-        "end": "609 BC"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
       "name": "Median Empire",
       "timespan": {
         "start": "609 BC",
@@ -223,6 +207,15 @@
           "name": "Achaemenid I",
           "backgroundEvents": [
             {
+              "name": "Achaemednid I",
+              "timespan": {
+                "startApproximate": true,
+                "start": "730 BC",
+                "end": "12/522 BC"
+              },
+              "style": "achaemenid"
+            },
+            {
               "name": "Neo-Assyria",
               "timespan": {
                 "startApproximate": true,
@@ -231,6 +224,30 @@
                 "end": "612 BC"
               },
               "style": "neoassyria"
+            },
+            {
+              "name": "Assyrian War",
+              "timespan": {
+                "start": "616 BC",
+                "end": "609 BC"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Sack of Nineveh",
+              "style": "backgroundForeignWarDefeat",
+              "timespan": {
+                "start": "613 BC",
+                "end": "612 BC"
+              }
+            },
+            {
+              "name": "Battle of Passargadae",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "550 BC",
+                "end": "550 BC"
+              }
             }
           ],
           "people": [
