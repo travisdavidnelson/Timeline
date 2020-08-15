@@ -14,14 +14,30 @@
       "name": "Assyrian War",
       "timespan": {
         "start": "616 BC",
-        "end": "612 BC"
+        "end": "609 BC"
       },
       "style": "backgroundWar"
     },
     {
+      "name": "Fall Of Ninevah",
+      "timespan": {
+        "start": "613 BC",
+        "end": "612 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Fall Of Harran",
+      "timespan": {
+        "start": "610 BC",
+        "end": "609 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
       "name": "Median Empire",
       "timespan": {
-        "start": "612 BC",
+        "start": "609 BC",
         "end": "550 BC"
       },
       "style": "medes"
@@ -78,12 +94,28 @@
               }
             },
             {
+              "name": "Assyrian War",
+              "timespan": {
+                "start": "616 BC",
+                "end": "609 BC"
+              },
+              "style": "backgroundWar"
+            },
+            {
               "name": "Sack of Nineveh",
               "style": "backgroundForeignWarVictory",
               "timespan": {
                 "start": "613 BC",
                 "end": "612 BC"
               }
+            },
+            {
+              "name": "Fall Of Harran",
+              "timespan": {
+                "start": "610 BC",
+                "end": "609 BC"
+              },
+              "style": "backgroundForeignWarVictory"
             },
             {
               "name": "War with Lydia",

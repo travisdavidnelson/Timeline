@@ -172,9 +172,25 @@
       "name": "Assyrian War",
       "timespan": {
         "start": "616 BC",
-        "end": "612 BC"
+        "end": "609 BC"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Fall Of Ninevah",
+      "timespan": {
+        "start": "613 BC",
+        "end": "612 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Fall Of Harran",
+      "timespan": {
+        "start": "610 BC",
+        "end": "609 BC"
+      },
+      "style": "backgroundForeignWarVictory"
     },
     {
       "name": "Achaemenid Empire",
