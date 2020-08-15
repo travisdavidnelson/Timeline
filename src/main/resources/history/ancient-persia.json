@@ -6,16 +6,30 @@
       "timespan": {
         "startApproximate": true,
         "start": "640 BC",
-        "endApproximate": true,
-        "end": "620 BC"
+        "end": "616 BC"
       },
       "style": "neoassyria"
     },
     {
+      "name": "Assyrian War",
+      "timespan": {
+        "start": "616 BC",
+        "end": "612 BC"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Median Empire",
+      "timespan": {
+        "start": "612 BC",
+        "end": "550 BC"
+      },
+      "style": "medes"
+    },
+    {
       "name": "Achaemenid Empire",
       "timespan": {
-        "startApproximate": true,
-        "start": "570 BC",
+        "start": "550 BC",
         "end": "330 BC"
       },
       "style": "achaemenid"
@@ -47,7 +61,7 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Medes",
+      "name": "Medes & Persians",
       "backgroundEvents": [
       ],
       "dynasties": [
@@ -175,7 +189,83 @@
         },
         {
           "name": "Achaemenid I",
+          "backgroundEvents": [
+            {
+              "name": "Neo-Assyria",
+              "timespan": {
+                "startApproximate": true,
+                "start": "640 BC",
+                "endApproximate": true,
+                "end": "612 BC"
+              },
+              "style": "neoassyria"
+            }
+          ],
           "people": [
+            {
+              "name": "Achaemenes",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "730 BC",
+                    "endApproximate": true,
+                    "end": "650 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Teispes",
+              "style": "achaemenid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "650 BC",
+                    "endApproximate": true,
+                    "end": "625 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cyrus I",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "625 BC",
+                    "endApproximate": true,
+                    "end": "580 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cambyses I",
+              "style": "achaemenid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "580 BC",
+                    "endApproximate": true,
+                    "end": "559 BC"
+                  }
+                }
+              ]
+            },
             {
               "name": "Cyrus II",
               "style": "achaemenid",
