@@ -156,14 +156,14 @@
       "timespan": {
         "startApproximate": true,
         "start": "740 BC",
-        "end": "626 BC"
+        "end": "613 BC"
       },
       "style": "neoassyria"
     },
     {
       "name": "Neo-Babylonian Empire",
       "timespan": {
-        "start": "626 BC",
+        "start": "613 BC",
         "end": "10/539 BC"
       },
       "style": "neobabylon"
@@ -3339,6 +3339,40 @@
       "dynasties": [
         {
           "name":  "Neo-Babylonian",
+          "backgroundEvents": [
+            {
+              "name": "Neo-Babylonian Empire",
+              "timespan": {
+                "start": "626 BC",
+                "end": "10/539 BC"
+              },
+              "style": "neobabylon"
+            },
+            {
+              "name": "Assyrian War",
+              "timespan": {
+                "start": "616 BC",
+                "end": "609 BC"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Fall Of Ninevah",
+              "timespan": {
+                "start": "613 BC",
+                "end": "612 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            },
+            {
+              "name": "Fall Of Harran",
+              "timespan": {
+                "start": "610 BC",
+                "end": "609 BC"
+              },
+              "style": "backgroundForeignWarVictory"
+            }
+          ],
           "people": [
             {
               "name": "Nabopolassar",
