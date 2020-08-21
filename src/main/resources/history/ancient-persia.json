@@ -27,6 +27,14 @@
       "style": "medes"
     },
     {
+      "name": "Persian War with Media",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "553 BC",
+        "end": "550 BC"
+      }
+    },
+    {
       "name": "Achaemenid Empire",
       "timespan": {
         "start": "550 BC",
@@ -115,6 +123,14 @@
               "timespan": {
                 "start": "5/1/585 BC",
                 "end": "5/28/585 BC"
+              }
+            },
+            {
+              "name": "Persian War with Media",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "553 BC",
+                "end": "550 BC"
               }
             },
             {
@@ -242,6 +258,14 @@
               }
             },
             {
+              "name": "War with Media",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "553 BC",
+                "end": "550 BC"
+              }
+            },
+            {
               "name": "Battle of Passargadae",
               "style": "backgroundForeignWarVictory",
               "timespan": {
@@ -254,7 +278,7 @@
             {
               "name": "Achaemenes",
               "style": "achaemenid",
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
@@ -270,7 +294,7 @@
             {
               "name": "Teispes",
               "style": "achaemenid",
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "king",
@@ -286,7 +310,7 @@
             {
               "name": "Cyrus I",
               "style": "achaemenid",
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
