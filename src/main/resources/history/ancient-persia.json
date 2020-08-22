@@ -51,6 +51,22 @@
       }
     },
     {
+      "name": "Sogdian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "546 BC",
+        "end": "539 BC"
+      }
+    },
+    {
+      "name": "Neo-Babylonian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "540 BC",
+        "end": "10/12/539 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -259,7 +275,7 @@
             },
             {
               "name": "War with Media",
-              "style": "backgroundWar",
+              "style": "backgroundForeignWarVictory",
               "timespan": {
                 "start": "553 BC",
                 "end": "550 BC"
@@ -271,6 +287,22 @@
               "timespan": {
                 "start": "550 BC",
                 "end": "550 BC"
+              }
+            },
+            {
+              "name": "Sogdian War",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "546 BC",
+                "end": "539 BC"
+              }
+            },
+            {
+              "name": "Neo-Babylonian War",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "540 BC",
+                "end": "10/12/539 BC"
               }
             }
           ],

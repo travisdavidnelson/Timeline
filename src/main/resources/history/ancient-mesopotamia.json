@@ -193,9 +193,17 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "Persian-Babylonian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "540 BC",
+        "end": "10/12/539 BC"
+      }
+    },
+    {
       "name": "Achaemenid Empire",
       "timespan": {
-        "start": "10/539 BC",
+        "start": "10/12/539 BC",
         "end": "330 BC"
       },
       "style": "achaemenid"
@@ -3371,6 +3379,14 @@
                 "end": "609 BC"
               },
               "style": "backgroundForeignWarVictory"
+            },
+            {
+              "name": "Persian-Babylonian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "540 BC",
+                "end": "10/12/539 BC"
+              }
             }
           ],
           "people": [
