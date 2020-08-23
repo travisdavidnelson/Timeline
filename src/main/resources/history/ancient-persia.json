@@ -91,6 +91,14 @@
       }
     },
     {
+      "name": "Rebellion in Persia",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "522 BC",
+        "end": "522 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -351,6 +359,14 @@
               "timespan": {
                 "start": "525 BC",
                 "end": "5/525 BC"
+              }
+            },
+            {
+              "name": "Rebellion in Persia",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "522 BC",
+                "end": "522 BC"
               }
             }
           ],
