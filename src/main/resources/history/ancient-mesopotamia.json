@@ -209,6 +209,14 @@
       "style": "achaemenid"
     },
     {
+      "name": "Persian-Egyptian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "526 BC",
+        "end": "5/525 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",

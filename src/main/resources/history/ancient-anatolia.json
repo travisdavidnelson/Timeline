@@ -44,6 +44,14 @@
         "end": "330 BC"
       },
       "style": "achaemenid"
+    },
+    {
+      "name": "Persian-Egyptian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "526 BC",
+        "end": "5/525 BC"
+      }
     }
   ],
   "dynastyGroups": [
