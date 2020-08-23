@@ -67,6 +67,14 @@
       }
     },
     {
+      "name": "Massagetae War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "530 BC",
+        "end": "12/4/530 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -303,6 +311,14 @@
               "timespan": {
                 "start": "540 BC",
                 "end": "10/12/539 BC"
+              }
+            },
+            {
+              "name": "Massagetae War",
+              "style": "backgroundForeignWarDefeat",
+              "timespan": {
+                "start": "530 BC",
+                "end": "12/4/530 BC"
               }
             }
           ],
