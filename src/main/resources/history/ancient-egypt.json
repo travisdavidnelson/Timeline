@@ -102,6 +102,22 @@
       "style": "egyptLatePeriod"
     },
     {
+      "name": "Persian War",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "526 BC",
+        "end": "5/525 BC"
+      }
+    },
+    {
+      "name": "Battle of Pelusium",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "525 BC",
+        "end": "5/525 BC"
+      }
+    },
+    {
       "name": "Achaemenid Empire",
       "timespan": {
         "start": "525 BC",
@@ -118,7 +134,7 @@
       "style": "egyptLatePeriod"
     },
     {
-      "name": "Ballte of Pelusium",
+      "name": "Battle of Pelusium",
       "timespan": {
         "start": "343 BC",
         "end": "343 BC"

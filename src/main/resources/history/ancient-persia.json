@@ -75,6 +75,22 @@
       }
     },
     {
+      "name": "Egyptian War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "526 BC",
+        "end": "5/525 BC"
+      }
+    },
+    {
+      "name": "Battle of Pelusium",
+      "style": "backgroundForeignWarVictory",
+      "timespan": {
+        "start": "525 BC",
+        "end": "5/525 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -320,6 +336,22 @@
                 "start": "530 BC",
                 "end": "12/4/530 BC"
               }
+            },
+            {
+              "name": "Egyptian War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "526 BC",
+                "end": "5/525 BC"
+              }
+            },
+            {
+              "name": "Battle of Pelusium",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "525 BC",
+                "end": "5/525 BC"
+              }
             }
           ],
           "people": [
@@ -411,6 +443,24 @@
               "style": "achaemenid",
               "importance": "major",
               "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "4/539 BC",
+                    "endApproximate": true,
+                    "end": "12/538 BC"
+                  }
+                },
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "12/538 BC",
+                    "endApproximate": true,
+                    "end": "12/4/530 BC"
+                  }
+                },
                 {
                   "name": "kingOfKings",
                   "timespan": {
