@@ -111,11 +111,27 @@
       "style": "achaemenid"
     },
     {
+      "name": "Scythian Campaign of Darius I",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "514 BC",
+        "end": "513 BC"
+      }
+    },
+    {
       "name": "Persian-Egyptian War",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWar",
       "timespan": {
         "start": "526 BC",
         "end": "5/525 BC"
+      }
+    },
+    {
+      "name": "Greco-Persian Wars",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "499 BC",
+        "end": "449 BC"
       }
     },
     {

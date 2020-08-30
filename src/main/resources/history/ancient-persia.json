@@ -99,6 +99,38 @@
       }
     },
     {
+      "name": "Revolution of Darius",
+      "style": "backgroundRevolution",
+      "timespan": {
+        "start": "522 BC",
+        "end": "522 BC"
+      }
+    },
+    {
+      "name": "Scythian Campaign of Darius I",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "514 BC",
+        "end": "513 BC"
+      }
+    },
+    {
+      "name": "Greco-Persian Wars",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "499 BC",
+        "end": "449 BC"
+      }
+    },
+    {
+      "name": "First Persian Invasion of Greece",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "492 BC",
+        "end": "490 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -368,6 +400,14 @@
                 "start": "522 BC",
                 "end": "522 BC"
               }
+            },
+            {
+              "name": "Revolution of Darius",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "9/522 BC",
+                "end": "9/522 BC"
+              }
             }
           ],
           "people": [
@@ -495,7 +535,7 @@
                   "name": "kingOfKings",
                   "timespan": {
                     "start": "7/522 BC",
-                    "end": "12/522 BC"
+                    "end": "9/522 BC"
                   }
                 }
               ]
@@ -504,6 +544,16 @@
         },
         {
           "name": "Achaemenid II",
+          "backgroundEvents": [
+            {
+              "name": "Revolution of Darius",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "9/522 BC",
+                "end": "9/522 BC"
+              }
+            }
+          ],
           "people" : [
             {
               "name": "Darius I",
@@ -518,7 +568,7 @@
                 {
                   "name": "kingOfKings",
                   "timespan": {
-                    "start": "12/522 BC",
+                    "start": "9/522 BC",
                     "end": "10/486 BC"
                   }
                 }
