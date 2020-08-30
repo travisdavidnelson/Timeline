@@ -127,7 +127,15 @@
       "style": "backgroundWar",
       "timespan": {
         "start": "492 BC",
-        "end": "490 BC"
+        "end": "9/490 BC"
+      }
+    },
+    {
+      "name": "Battle of Marathon",
+      "style": "backgroundForeignWarDefeat",
+      "timespan": {
+        "start": "8/490 BC",
+        "end": "9/490 BC"
       }
     },
     {
