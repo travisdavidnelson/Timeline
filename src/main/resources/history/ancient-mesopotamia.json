@@ -225,14 +225,6 @@
       }
     },
     {
-      "name": "Greco-Persian Wars",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "499 BC",
-        "end": "449 BC"
-      }
-    },
-    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",

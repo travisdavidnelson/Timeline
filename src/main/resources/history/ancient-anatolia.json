@@ -62,14 +62,6 @@
       }
     },
     {
-      "name": "Greco-Persian Wars",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "499 BC",
-        "end": "449 BC"
-      }
-    },
-    {
       "name": "First Persian Invasion of Greece",
       "style": "backgroundWar",
       "timespan": {
