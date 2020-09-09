@@ -124,10 +124,42 @@
     },
     {
       "name": "Battle of Marathon",
-      "style": "backgroundForeignWarDefeat",
+      "style": "backgroundBattle",
       "timespan": {
         "start": "8/490 BC",
         "end": "9/490 BC"
+      }
+    },
+    {
+      "name": "Second Persian Invasion of Greece",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "480 BC",
+        "end": "6/479 BC"
+      }
+    },
+    {
+      "name": "Battle of Thermopylae",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/480 BC",
+        "end": "8/480 BC"
+      }
+    },
+    {
+      "name": "Battle of Salamis",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/480 BC",
+        "end": "9/480 BC"
+      }
+    },
+    {
+      "name": "Battles of Plataea and Mycale",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "6/479 BC",
+        "end": "6/479 BC"
       }
     },
     {
