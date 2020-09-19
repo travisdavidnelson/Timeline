@@ -30,7 +30,7 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Hebrews",
+      "name": "Levant",
       "yStart": 0,
       "dynasties": [
         {
@@ -781,6 +781,79 @@
                     "start": "597 BC",
                     "endApproximate": true,
                     "end": "586 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tyre I",
+          "backgroundEvents": [
+            {
+              "name": "Type I",
+              "style": "phoenicia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "990 BC",
+                "end": "910 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Aribaal",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "990 BC",
+                    "end": "969 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hiram I",
+              "style": "phoenician",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "969 BC",
+                    "end": "936 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Balbezer I",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "936 BC",
+                    "end": "919 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Abdastratus",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "919 BC",
+                    "end": "910 BC"
                   }
                 }
               ]
