@@ -859,6 +859,86 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Tyre II",
+          "backgroundEvents": [
+            {
+              "name": "Type II",
+              "style": "phoenicia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "879 BC",
+                "end": "750 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ithobaal I",
+              "style": "phoenician",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "879 BC",
+                    "endApproximate": true,
+                    "end": "846 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Baal-Eser I",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "846 BC",
+                    "endApproximate": true,
+                    "end": "841 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mattan I",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "840 BC",
+                    "endApproximate": true,
+                    "end": "832 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pygmalion",
+              "style": "phoenician",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "831 BC",
+                    "endApproximate": true,
+                    "end": "785 BC"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
