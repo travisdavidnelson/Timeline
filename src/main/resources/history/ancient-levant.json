@@ -847,7 +847,7 @@
             {
               "name": "Abdastratus",
               "style": "phoenician",
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
@@ -867,41 +867,94 @@
               "name": "Type II",
               "style": "phoenicia",
               "timespan": {
-                "startApproximate": true,
-                "start": "879 BC",
-                "end": "750 BC"
+                "start": "910 BC",
+                "end": "888 BC"
               }
             }
           ],
           "people": [
             {
-              "name": "Ithobaal I",
-              "style": "phoenician",
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "879 BC",
-                    "endApproximate": true,
-                    "end": "846 BC"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Baal-Eser I",
+              "name": "Methustratus",
               "style": "phoenician",
               "importance": "minor",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "startApproximate": true,
-                    "start": "846 BC",
-                    "endApproximate": true,
-                    "end": "841 BC"
+                    "start": "910 BC",
+                    "end": "897 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Astharymos",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "897 BC",
+                    "end": "889 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phelles",
+              "style": "phoenician",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "889 BC",
+                    "end": "888 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tyre III",
+          "backgroundEvents": [
+            {
+              "name": "Type II",
+              "style": "phoenicia",
+              "timespan": {
+                "start": "887 BC",
+                "endApproximate": "true",
+                "end": "774 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ethbaal I",
+              "style": "phoenician",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "887 BC",
+                    "end": "856 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Baal-Azor",
+              "style": "phoenician",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "856 BC",
+                    "end": "821 BC"
                   }
                 }
               ]
@@ -914,26 +967,23 @@
                 {
                   "name": "king",
                   "timespan": {
-                    "startApproximate": true,
-                    "start": "840 BC",
-                    "endApproximate": true,
-                    "end": "832 BC"
+                    "start": "829 BC",
+                    "end": "821 BC"
                   }
                 }
               ]
             },
             {
-              "name": "Pygmalion",
+              "name": "Pumiathon",
               "style": "phoenician",
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": true,
-                    "start": "831 BC",
-                    "endApproximate": true,
-                    "end": "785 BC"
+                    "start": "821 BC",
+                    "end": "774 BC"
                   }
                 }
               ]
