@@ -1,0 +1,105 @@
+{
+  "name": "Ancient World",
+  "author": "Travis David Nelson",
+  "timespan": {
+    "start": "3200 BC",
+    "end": "1500"
+  },
+  "config": {
+    "majorTickYears": 100,
+    "minorTickYears": 10,
+    "topYearOffset": 10,
+    "bottomYearOffset": 40,
+    "defaultPersonStyle": "roman",
+    "pixelsPerYear": 3,
+    "heightInPixels": 9000,
+    "xStart": 100,
+    "yTimelineStart": 50,
+    "majorTickHalfLength": 20,
+    "tickHalfLength": 15,
+    "minorTickHalfLength": 10,
+    "dynastyStart": 0,
+    "dynastyBackgroundTitleOffset": 40,
+    "dynastyDiff": 62,
+    "lifetimeYDiff": 10,
+    "fontSize": 10,
+    "fateWidth": 5,
+    "channelXOffset": 150,
+    "channelYOffset": 50,
+    "approximateYearBackgroundAdjustment": 5,
+    "approximateYearPersonAdjustment": 10,
+    "approximateYearTitleAdjustment": 2,
+    "importanceHeights": {
+      "transformational": 50,
+      "major": 40,
+      "semimajor": 25,
+      "minor": 15,
+      "petty": 8
+    },
+    "importanceYOffsets": {
+      "transformational": 40,
+      "major": 30,
+      "semimajor": 19,
+      "minor": 11,
+      "petty": 6
+    },
+    "importanceXOffsets": {
+      "transformational": 6,
+      "major": 3,
+      "semimajor": 2,
+      "minor": 1,
+      "petty": 0
+    }
+  },
+  "backgroundEvents": [
+    {
+      "name": "Bronze Age",
+      "style": "bronzeAge",
+      "timespan": {
+        "start": "4000 BC",
+        "endApproximate": true,
+        "end": "1000 BC"
+      }
+    },
+    {
+      "name": "Iron Age",
+      "style": "ironAge",
+      "timespan": {
+        "startApproximate": true,
+        "start": "1100 BC",
+        "endApproximate": true,
+        "end": "1 BC"
+      }
+    }
+  ],
+  "channels": [
+    {
+      "name": "Egypt",
+      "resources": "ancient-egypt"
+    },
+    {
+      "name": "Anatolia / Levant",
+      "resources": "ancient-hittites,ancient-levant,seleucid-empire,ancient-anatolia"
+    },
+    {
+      "name": "Assyria / Armenia",
+      "resources": "ancient-assyria,ancient-armenia"
+    },
+    {
+      "name": "Mesopotamia",
+      "resources": "ancient-mesopotamia"
+    },
+    {
+      "name": "Persia",
+      "resources": "ancient-elam,ancient-persia,parthian-empire"
+    },
+    {
+      "name": "Rome Political",
+      "resources": "ancient-rome"
+    },
+    {
+      "name": "Rome Cultural",
+      "resources": "ancient-rome-cultural"
+    }
+  ]
+}
