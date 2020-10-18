@@ -1,0 +1,993 @@
+{
+  "name": "Cultural",
+  "backgroundEvents": [
+    {
+      "name": "Roman Kingdom",
+      "timespan": {
+        "start": "753 BC",
+        "end": "509 BC",
+        "startApproximate": true
+      },
+      "style": "romanKingdom"
+    },
+    {
+      "name": "Roman Republic",
+      "timespan": {
+        "start": "509 BC",
+        "end": "27 BC"
+      },
+      "style": "romanRepublic"
+    },
+    {
+      "name": "Roman Principate",
+      "timespan": {
+        "start": "27 BC",
+        "endApproximate": true,
+        "end": "245"
+      },
+      "style": "romanPrincipate"
+    },
+    {
+      "name": "Crisis of the Third Century",
+      "timespan": {
+        "startApproximate": true,
+        "start": "235",
+        "end": "284"
+      },
+      "style": "romanCrisis"
+    },
+    {
+      "name": "Roman Dominate",
+      "timespan": {
+        "start": "284",
+        "end": "476"
+      },
+      "style": "romanDominate"
+    },
+    {
+      "name": "Byzantium",
+      "timespan": {
+        "start": "476",
+        "end": "1453"
+      },
+      "style": "byzantium"
+    },
+    {
+      "name": "First Samnite War",
+      "timespan": {
+        "start": "343 BC",
+        "end": "341 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Overthrow of the Roman monarchy",
+      "timespan": {
+        "start": "510 BC",
+        "end": "509 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "start": "509 BC",
+        "end": "508 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Sabine War",
+      "timespan": {
+        "start": "505 BC",
+        "end": "503 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "start": "498 BC",
+        "end": "493 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "start": "494 BC",
+        "end": "494 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Decemviri",
+      "timespan": {
+        "start": "451 BC",
+        "end": "449 BC"
+      },
+      "style": "backgroundConstitutionalConvention"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "start": "449 BC",
+        "end": "449 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "start": "445 BC",
+        "end": "445 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Veii War",
+      "timespan": {
+        "start": "406 BC",
+        "end": "396 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "start": "389 BC",
+        "end": "386 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "start": "389 BC",
+        "end": "385 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Praeneste War",
+      "timespan": {
+        "start": "383 BC",
+        "end": "379 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Satricum War",
+      "timespan": {
+        "start": "377 BC",
+        "end": "377 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Hernician War",
+      "timespan": {
+        "start": "362 BC",
+        "end": "358 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Tibur War",
+      "timespan": {
+        "start": "361 BC",
+        "end": "354 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Etruscan War",
+      "timespan": {
+        "start": "359 BC",
+        "end": "351 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "start": "342 BC",
+        "end": "342 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Latin War",
+      "timespan": {
+        "start": "340 BC",
+        "end": "338 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Second Samnite War",
+      "timespan": {
+        "start": "326 BC",
+        "end": "304 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Hernici War",
+      "timespan": {
+        "start": "307 BC",
+        "end": "306 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Third Samnite War",
+      "timespan": {
+        "start": "298 BC",
+        "end": "290 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Secessio plebis",
+      "timespan": {
+        "start": "287 BC",
+        "end": "287 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Pyrrhic War",
+      "timespan": {
+        "start": "280 BC",
+        "end": "275 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Punic War",
+      "timespan": {
+        "start": "264 BC",
+        "end": "241 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Illyrian War",
+      "timespan": {
+        "start": "229 BC",
+        "end": "228 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Second Illyrian War",
+      "timespan": {
+        "start": "220 BC",
+        "end": "219 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Illyrian War",
+      "timespan": {
+        "start": "168 BC",
+        "end": "167 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Second Punic War",
+      "timespan": {
+        "start": "218 BC",
+        "end": "201 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Punic War",
+      "timespan": {
+        "start": "149 BC",
+        "end": "146 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "First Macedonian War",
+      "timespan": {
+        "start": "214 BC",
+        "end": "205 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Second Macedonian War",
+      "timespan": {
+        "start": "200 BC",
+        "end": "196 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Third Macedonian War",
+      "timespan": {
+        "start": "172 BC",
+        "end": "168 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Fourth Macedonian War",
+      "timespan": {
+        "start": "150 BC",
+        "end": "148 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Jugurthine War",
+      "timespan": {
+        "start": "112 BC",
+        "end": "106 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Social War",
+      "timespan": {
+        "start": "91 BC",
+        "end": "88 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Third Servile War",
+      "timespan": {
+        "start": "73 BC",
+        "end": "71 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Gallic Wars",
+      "timespan": {
+        "start": "58 BC",
+        "end": "50 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Sulla's first civil war",
+      "timespan": {
+        "start": "88 BC",
+        "end": "87 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Sulla's second civil war",
+      "timespan": {
+        "start": "83 BC",
+        "end": "82 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Caesar's civil war",
+      "timespan": {
+        "start": "1/10/49 BC",
+        "end": "3/1/45 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Liberators'' civil war",
+      "timespan": {
+        "start": "43 BC",
+        "end": "42 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Final War of the Roman Republic",
+      "timespan": {
+        "start": "32 BC",
+        "end": "30 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "First Jewish-Roman War",
+      "timespan": {
+        "start": "66",
+        "end": "73"
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Year of the Four Emperors",
+      "timespan": {
+        "start": "69",
+        "duration": "1y"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Kitos War",
+      "timespan": {
+        "start": "115",
+        "end": "117"
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Bar Kokhba Revolt",
+      "timespan": {
+        "start": "132",
+        "end": "135"
+      },
+      "style": "backgroundRebellion"
+    },
+    {
+      "name": "Sack of Rome (387 BC)",
+      "timespan": {
+        "start": "7/18/387 BC",
+        "duration": "3m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Lake Trasimene",
+      "timespan": {
+        "start": "6/21/217 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Hannibal Invades Italy",
+      "timespan": {
+        "start": "218 BC",
+        "end": "203 BC"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Cannae",
+      "timespan": {
+        "start": "8/2/216 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Arausio",
+      "timespan": {
+        "start": "10/6/105 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Aquae Sextiae",
+      "timespan": {
+        "start": "102 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Battle of Carrhae",
+      "timespan": {
+        "start": "53 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Assassination of Julius Caesar",
+      "timespan": {
+        "start": "3/15/44 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Teutoburg Forest",
+      "timespan": {
+        "start": "9/1/9",
+        "duration": "1m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Eruption of Mt Vesuvius in AD 79",
+      "timespan": {
+        "start": "8/24/79",
+        "end": "11/79"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "161",
+        "end": "166"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Marcomannic Wars",
+      "timespan": {
+        "start": "166",
+        "end": "180"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Antonine Plague",
+      "timespan": {
+        "start": "165",
+        "end": "180"
+      },
+      "style": "backgroundPlague"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "197",
+        "end": "198"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "African War",
+      "timespan": {
+        "start": "202",
+        "end": "203"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Caledonian War",
+      "timespan": {
+        "start": "208",
+        "end": "212"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "216",
+        "end": "217"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Sassanid War",
+      "timespan": {
+        "start": "230",
+        "end": "232"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Germanic War",
+      "timespan": {
+        "start": "234",
+        "end": "236"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "238",
+        "end": "239"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Carpi and Persian Wars",
+      "timespan": {
+        "start": "245",
+        "end": "247"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Plague of Cyprian",
+      "timespan": {
+        "start": "250",
+        "end": "270"
+      },
+      "style": "backgroundPlague"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "248",
+        "end": "251"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Abritus",
+      "timespan": {
+        "start": "251",
+        "end": "251"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "255",
+        "end": "257"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
+        "start": "268",
+        "end": "269"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "268",
+        "end": "271"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Palmyrene War",
+      "timespan": {
+        "start": "272",
+        "end": "273"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Gallic War",
+      "timespan": {
+        "start": "273",
+        "end": "274"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "260",
+        "end": "260"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Persian War",
+      "timespan": {
+        "start": "295",
+        "end": "299"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Massacre of the Constantinian Princes",
+      "timespan": {
+        "start": "5/337",
+        "duration": "2m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Roman civil war of 350–353",
+      "timespan": {
+        "start": "350",
+        "end": "353"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Mursa",
+      "timespan": {
+        "start": "9/28/351",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Julian's Persian expedition",
+      "timespan": {
+        "start": "363",
+        "end": "363"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
+        "start": "366",
+        "end": "367"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "376",
+        "end": "382"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Adrianople",
+      "timespan": {
+        "start": "378",
+        "end": "378"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Crossing of the Rhine",
+      "timespan": {
+        "start": "406",
+        "end": "406"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Sack of Rome (410)",
+      "timespan": {
+        "start": "410",
+        "end": "410"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "440",
+        "end": "443"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "447",
+        "end": "449"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "451",
+        "end": "454"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Sack of Rome (455)",
+      "timespan": {
+        "start": "455",
+        "end": "455"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Nika Riots",
+      "timespan": {
+        "start": "532",
+        "end": "532"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Manzikert",
+      "timespan": {
+        "start": "1071",
+        "end": "1071"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Fourth Crusade",
+      "timespan": {
+        "start": "1204",
+        "end": "1204"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Fall of Constantinople",
+      "timespan": {
+        "start": "1453",
+        "end": "1453"
+      },
+      "style": "backgroundNationalCalamity"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Cultural Group 1",
+      "dynasties": [
+        {
+          "name": "Cultural Figures",
+          "people": [
+            {
+              "name": "Lucretia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "540 BC",
+                "end": "510 BC"
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Verginia",
+              "timespan": {
+                "startApproximate": true,
+                "start": "465 BC",
+                "endApproximate": true,
+                "end": "449 BC"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Terence",
+              "timespan": {
+                "startApproximate": true,
+                "start": "195 BC",
+                "end": "159 BC"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Sallust",
+              "timespan": {
+                "startApproximate": true,
+                "start": "86 BC",
+                "endApproximate": true,
+                "end": "35 BC"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Virgil",
+              "timespan": {
+                "start": "70 BC",
+                "end": "19 BC"
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Livy",
+              "timespan": {
+                "startApproximate": true,
+                "start": "64 BC",
+                "endApproximate": true,
+                "end": "17"
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Strabo",
+              "timespan": {
+                "startApproximate": true,
+                "start": "64 BC",
+                "endApproximate": true,
+                "end": "24"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Jesus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "7 BC",
+                "endApproximate": true,
+                "end": "33"
+              },
+              "importance": "transformational",
+              "style": "sanctified"
+            },
+            {
+              "name": "Plutarch",
+              "timespan": {
+                "startApproximate": true,
+                "start": "46",
+                "endApproximate": true,
+                "end": "120"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Tacitus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "56",
+                "endApproximate": true,
+                "end": "117"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Seutonius",
+              "timespan": {
+                "startApproximate": true,
+                "start": "69",
+                "endApproximate": true,
+                "end": "122"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Antinous",
+              "timespan": {
+                "startApproximate": true,
+                "start": "111",
+                "endApproximate": true,
+                "end": "130"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Cassius Dio",
+              "timespan": {
+                "startApproximate": true,
+                "start": "150",
+                "end": "235"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Ammianus Marcellinus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "325",
+                "endApproximate": true,
+                "end": "391"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Jerome",
+              "timespan": {
+                "startApproximate": true,
+                "start": "347",
+                "end": "420"
+              },
+              "importance": "semimajor",
+              "style": "sanctified"
+            },
+            {
+              "name": "Augustine of Hippo",
+              "timespan": {
+                "start": "354",
+                "end": "430"
+              },
+              "importance": "major",
+              "style": "sanctified"
+            },
+            {
+              "name": "Procopius",
+              "timespan": {
+                "startApproximate": true,
+                "start": "500",
+                "endApproximate": true,
+                "end": "565"
+              },
+              "importance": "minor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
