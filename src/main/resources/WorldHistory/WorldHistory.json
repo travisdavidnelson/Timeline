@@ -1,9 +1,9 @@
 {
-  "name": "Ancient World",
+  "name": "World History",
   "author": "Travis David Nelson",
   "timespan": {
     "start": "3200 BC",
-    "end": "1500"
+    "end": "2100"
   },
   "config": {
     "majorTickYears": 100,
