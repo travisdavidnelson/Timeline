@@ -325,6 +325,22 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "Suppression of Tiberius Gracchus",
+      "timespan": {
+        "start": "12/133 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Suppression of Gaius Gracchus",
+      "timespan": {
+        "start": "12/121 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
       "name": "Jugurthine War",
       "timespan": {
         "start": "112 BC",
@@ -1660,6 +1676,31 @@
               ]
             },
             {
+              "name": "Publius Cornelius Scipio Nasica",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "182 BC",
+                "end": "12/132 BC"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "pontifexMaximus",
+                  "timespan": {
+                    "start": "141 BC",
+                    "end": "12/132 BC"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "138 BC",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Scipio Aemilianus",
               "timespan": {
                 "start": "185 BC",
@@ -2233,6 +2274,13 @@
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "quaestor",
+                  "timespan": {
+                    "start": "137 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
                   "name": "tribune",
                   "timespan": {
                     "start": "133 BC",
@@ -2245,15 +2293,22 @@
               "name": "Gaius Gracchus",
               "timespan": {
                 "start": "154 BC",
-                "end": "121 BC"
+                "end": "12/121 BC"
               },
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "quaestor",
+                  "timespan": {
+                    "start": "126 BC",
+                    "duration": "2y"
+                  }
+                },
+                {
                   "name": "tribune",
                   "timespan": {
                     "start": "123 BC",
-                    "duration": "1y"
+                    "duration": "2y"
                   }
                 }
               ]
