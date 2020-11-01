@@ -99,6 +99,38 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Massacre of the Constantinian Princes",
+      "timespan": {
+        "start": "5/337",
+        "duration": "2m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Roman civil war of 350–353",
+      "timespan": {
+        "start": "350",
+        "end": "353"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Mursa",
+      "timespan": {
+        "start": "9/28/351",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Julian's Persian expedition",
+      "timespan": {
+        "start": "363",
+        "end": "363"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Gothic Invasion",
       "timespan": {
         "start": "376",
