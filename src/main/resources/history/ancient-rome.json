@@ -21,16 +21,14 @@
     {
       "name": "Roman Principate",
       "timespan": {
-        "start": "27 BC",
-        "endApproximate": true,
-        "end": "245"
+        "start": "30 BC",
+        "end": "235"
       },
       "style": "romanPrincipate"
     },
     {
       "name": "Crisis of the Third Century",
       "timespan": {
-        "startApproximate": true,
         "start": "235",
         "end": "284"
       },
@@ -325,6 +323,14 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "First Servile War",
+      "timespan": {
+        "start": "135 BC",
+        "end": "132 BC"
+      },
+      "style": "backgroundRebellion"
+    },
+    {
       "name": "Suppression of Tiberius Gracchus",
       "timespan": {
         "start": "12/133 BC",
@@ -341,10 +347,18 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Cimbrian War",
+      "timespan": {
+        "start": "113 BC",
+        "end": "101 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
       "name": "Jugurthine War",
       "timespan": {
-        "start": "112 BC",
-        "end": "106 BC"
+        "start": "111 BC",
+        "end": "104 BC"
       },
       "style": "backgroundForeignWarVictory"
     },
