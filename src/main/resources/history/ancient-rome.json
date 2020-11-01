@@ -986,6 +986,15 @@
           "name": "Republican Founders",
           "people": [
             {
+              "name": "Lucretia&#9792;",
+              "timespan": {
+                "startApproximate": true,
+                "start": "540 BC",
+                "end": "510 BC"
+              },
+              "importance": "semimajor"
+            },
+            {
               "name": "Spurius Lucretius Tricipitinus",
               "timespan": {
                 "startApproximate": true,
@@ -1205,6 +1214,16 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Verginia&#9792;",
+              "timespan": {
+                "startApproximate": true,
+                "start": "465 BC",
+                "endApproximate": true,
+                "end": "449 BC"
+              },
+              "importance": "minor"
             },
             {
               "name": "Marcus Furius Camillus",
@@ -2239,7 +2258,16 @@
               ]
             },
             {
-              "name": "Cornelia Africana",
+              "name": "Terence",
+              "timespan": {
+                "startApproximate": true,
+                "start": "195 BC",
+                "end": "159 BC"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Cornelia Africana&#9792;",
               "timespan": {
                 "start": "190 BC",
                 "end": "100 BC"
@@ -2642,6 +2670,16 @@
               "importance": "minor"
             },
             {
+              "name": "Sallust",
+              "timespan": {
+                "startApproximate": true,
+                "start": "86 BC",
+                "endApproximate": true,
+                "end": "35 BC"
+              },
+              "importance": "minor"
+            },
+            {
               "name": "Mark Antony",
               "timespan": {
                 "start": "83 BC",
@@ -2800,6 +2838,34 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Virgil",
+              "timespan": {
+                "start": "70 BC",
+                "end": "19 BC"
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Livy",
+              "timespan": {
+                "startApproximate": true,
+                "start": "64 BC",
+                "endApproximate": true,
+                "end": "17"
+              },
+              "importance": "semimajor"
+            },
+            {
+              "name": "Strabo",
+              "timespan": {
+                "startApproximate": true,
+                "start": "64 BC",
+                "endApproximate": true,
+                "end": "24"
+              },
+              "importance": "minor"
             },
             {
               "name": "Gaius Caesar",
