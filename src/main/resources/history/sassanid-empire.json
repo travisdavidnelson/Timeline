@@ -1,0 +1,42 @@
+{
+  "name": "Sassanid Empire",
+  "backgroundEvents": [
+    {
+      "name": "Sassanid Empire",
+      "style": "sassanid",
+      "timespan": {
+        "start": "224",
+        "end": "651"
+      }    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Sassanid Empire",
+      "dynasties": [
+        {
+          "name": "Sassanid Shahanshah",
+          "people": [
+            {
+              "name": "Ardashir I",
+              "style": "sassanid",
+              "importance": "major",
+              "timespan": {
+                "start": "180",
+                "end": "242"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "211",
+                    "end": "242"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
