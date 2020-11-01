@@ -108,6 +108,14 @@
         "start": "6/479 BC",
         "end": "6/479 BC"
       }
+    },
+    {
+      "name": "Byzantium",
+      "timespan": {
+        "start": "476",
+        "end": "1453"
+      },
+      "style": "byzantium"
     }
   ],
   "dynastyGroups": [

@@ -809,38 +809,6 @@
         "end": "455"
       },
       "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Nika Riots",
-      "timespan": {
-        "start": "532",
-        "end": "532"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of Manzikert",
-      "timespan": {
-        "start": "1071",
-        "end": "1071"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Fourth Crusade",
-      "timespan": {
-        "start": "1204",
-        "end": "1204"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Fall of Constantinople",
-      "timespan": {
-        "start": "1453",
-        "end": "1453"
-      },
-      "style": "backgroundNationalCalamity"
     }
   ],
   "dynastyGroups": [

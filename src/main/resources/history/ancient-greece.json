@@ -99,6 +99,70 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "376",
+        "end": "382"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Adrianople",
+      "timespan": {
+        "start": "378",
+        "end": "378"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "440",
+        "end": "443"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "447",
+        "end": "449"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "451",
+        "end": "454"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Nika Riots",
+      "timespan": {
+        "start": "532",
+        "end": "532"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Manzikert",
+      "timespan": {
+        "start": "1071",
+        "end": "1071"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Fourth Crusade",
+      "timespan": {
+        "start": "1204",
+        "end": "1204"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Fall of Constantinople",
       "timespan": {
         "start": "1453",
