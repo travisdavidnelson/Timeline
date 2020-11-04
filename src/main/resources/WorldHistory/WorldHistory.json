@@ -12,7 +12,7 @@
     "bottomYearOffset": 40,
     "defaultPersonStyle": "roman",
     "pixelsPerYear": 5,
-    "heightInPixels": 10000,
+    "heightInPixels": 15000,
     "xStart": 100,
     "yTimelineStart": 50,
     "majorTickHalfLength": 20,
@@ -104,6 +104,10 @@
     {
       "name": "Rome Cultural",
       "resources": "ancient-rome-cultural"
+    },
+    {
+      "name": "America",
+      "resources": "modern-america"
     }
   ]
 }
