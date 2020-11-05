@@ -469,8 +469,16 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Early",
+          "name": "Founders",
           "people": [
+            {
+              "name": "Ben Franklin",
+              "timespan": {
+                "start": "1/17/1706",
+                "end": "4/17/1790"
+              },
+              "importance": "major"
+            },
             {
               "name": "Samuel Adams",
               "timespan": {
@@ -1713,6 +1721,14 @@
               ]
             },
             {
+              "name": "Thomas Edison",
+              "timespan": {
+                "start": "2/11/1847",
+                "end": "10/18/1931"
+              },
+              "importance": "major"
+            },
+            {
               "name": "Theodore Roosevelt",
               "timespan": {
                 "start": "10/27/1858",
@@ -2314,32 +2330,6 @@
                   "end": ""
                 }
               }]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Group3",
-      "dynasties": [
-        {
-          "name": "Cultural Figures",
-          "people": [
-            {
-              "name": "Ben Franklin",
-              "timespan": {
-                "start": "1/17/1706",
-                "end": "4/17/1790"
-              },
-              "importance": "major"
-            },
-            {
-              "name": "Thomas Edison",
-              "timespan": {
-                "start": "2/11/1847",
-                "end": "10/18/1931"
-              },
-            "importance": "major"
             }
           ]
         }
