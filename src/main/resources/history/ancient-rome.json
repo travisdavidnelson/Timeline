@@ -2671,13 +2671,13 @@
             },
             {
               "name": "Sallust",
+              "importance": "semimajor",
               "timespan": {
                 "startApproximate": true,
                 "start": "86 BC",
                 "endApproximate": true,
                 "end": "35 BC"
-              },
-              "importance": "minor"
+              }
             },
             {
               "name": "Mark Antony",
