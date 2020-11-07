@@ -4646,6 +4646,25 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Jerome",
+              "timespan": {
+                "startApproximate": true,
+                "start": "347",
+                "end": "420"
+              },
+              "importance": "semimajor",
+              "style": "sanctified"
+            },
+            {
+              "name": "Augustine of Hippo",
+              "timespan": {
+                "start": "354",
+                "end": "430"
+              },
+              "importance": "major",
+              "style": "sanctified"
             }
           ]
         },
