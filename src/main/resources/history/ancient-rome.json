@@ -3620,6 +3620,15 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Cassius Dio",
+              "timespan": {
+                "startApproximate": true,
+                "start": "150",
+                "end": "235"
+              },
+              "importance": "minor"
             }
           ]
         },

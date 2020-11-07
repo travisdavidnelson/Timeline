@@ -821,15 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Cassius Dio",
-              "timespan": {
-                "startApproximate": true,
-                "start": "150",
-                "end": "235"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Ammianus Marcellinus",
               "timespan": {
                 "startApproximate": true,
