@@ -991,6 +991,60 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Judea",
+      "dynasties": [
+        {
+          "name": "Roman Judea",
+          "backgroundEvents": [
+            {
+              "name": "Herodian Kingdom of Judea",
+              "style": "israel",
+              "timespan": {
+                "startApproximate": true,
+                "start": "72 BC",
+                "endApproximate": true,
+                "end": "1 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Herod I",
+              "style": "israel",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "72 BC",
+                "endApproximate": true,
+                "end": "1 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "37 BC",
+                    "endApproximate": true,
+                    "end": "1 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jesus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "7 BC",
+                "endApproximate": true,
+                "end": "33"
+              },
+              "importance": "transformational",
+              "style": "sanctified"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -821,17 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Jesus",
-              "timespan": {
-                "startApproximate": true,
-                "start": "7 BC",
-                "endApproximate": true,
-                "end": "33"
-              },
-              "importance": "transformational",
-              "style": "sanctified"
-            },
-            {
               "name": "Plutarch",
               "timespan": {
                 "startApproximate": true,
