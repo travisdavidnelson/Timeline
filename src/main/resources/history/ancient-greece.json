@@ -205,7 +205,7 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Roman Kingdom",
+      "name": "Hellenistic",
       "yStart": 0,
       "dynasties": [
         {
@@ -228,6 +228,58 @@
                   }
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roman Greece",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Roman Republic",
+          "backgroundEvents": [
+            {
+              "name": "Roman Republic",
+              "style": "romanRepublic",
+              "timespan": {
+                "start": "168 BC",
+                "end": "146 BC"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Polybius",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "200 BC",
+                "endApproximate": true,
+                "end": "118 BC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roman Empire",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Roman Empire",
+          "people": [
+            {
+              "name": "Plutarch",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "46",
+                "endApproximate": true,
+                "end": "120"
+              }
             }
           ]
         }

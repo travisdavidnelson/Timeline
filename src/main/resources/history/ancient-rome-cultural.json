@@ -821,16 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Plutarch",
-              "timespan": {
-                "startApproximate": true,
-                "start": "46",
-                "endApproximate": true,
-                "end": "120"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Tacitus",
               "timespan": {
                 "startApproximate": true,
