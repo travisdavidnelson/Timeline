@@ -830,6 +830,16 @@
               ]
             },
             {
+              "name": "Procopius",
+              "timespan": {
+                "startApproximate": true,
+                "start": "500",
+                "endApproximate": true,
+                "end": "565"
+              },
+              "importance": "minor"
+            },
+            {
               "name": "Justin II",
               "timespan": {
                 "startApproximate": true,

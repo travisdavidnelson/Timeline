@@ -98,16 +98,16 @@
       "resources": "ancient-greece"
     },
     {
-      "name": "Rome Political",
+      "name": "Italy",
       "resources": "ancient-rome"
     },
     {
-      "name": "Rome Cultural",
-      "resources": "ancient-rome-cultural"
+      "name": "Britain",
+      "resources": "britain"
     },
     {
       "name": "America",
-      "resources": "modern-america"
+      "resources": "america"
     }
   ]
 }
