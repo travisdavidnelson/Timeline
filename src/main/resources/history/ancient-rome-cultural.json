@@ -821,16 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Ammianus Marcellinus",
-              "timespan": {
-                "startApproximate": true,
-                "start": "325",
-                "endApproximate": true,
-                "end": "391"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Jerome",
               "timespan": {
                 "startApproximate": true,
