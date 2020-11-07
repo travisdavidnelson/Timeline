@@ -404,12 +404,12 @@
               "style": "colonist"
             },
             {
-              "name": "John Winthrop",
+              "name": "John Winthrop the Younger",
               "timespan": {
                 "start": "1600",
                 "end": "3/15/1664"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "colonist",
               "titles": [
                 {
@@ -2327,9 +2327,41 @@
                 "name": "president",
                 "timespan": {
                   "start": "1/20/2017",
-                  "end": ""
+                  "end": "1/20/2021"
                 }
               }]
+            },
+            {
+              "name": "Joe Biden",
+              "timespan": {
+                "start": "11/20/1942",
+                "end": ""
+              },
+              "importance": "minor",
+              "style": "democrat",
+              "titles": [
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "1/3/1973",
+                    "end": "1/15/2009"
+                  }
+                },
+                {
+                  "name": "vicePresident",
+                  "timespan": {
+                    "start": "1/20/2009",
+                    "end": "1/20/2017"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "1/20/2021",
+                    "end": ""
+                  }
+                }
+              ]
             }
           ]
         }
