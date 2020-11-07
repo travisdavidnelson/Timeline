@@ -821,26 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Tacitus",
-              "timespan": {
-                "startApproximate": true,
-                "start": "56",
-                "endApproximate": true,
-                "end": "117"
-              },
-              "importance": "minor"
-            },
-            {
-              "name": "Seutonius",
-              "timespan": {
-                "startApproximate": true,
-                "start": "69",
-                "endApproximate": true,
-                "end": "122"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Antinous",
               "timespan": {
                 "startApproximate": true,
