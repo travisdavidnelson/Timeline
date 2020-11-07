@@ -941,7 +941,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Democrats & Whigs",
+          "people": [
             {
               "name": "Henry Clay",
               "timespan": {
@@ -954,36 +959,8 @@
                 {
                   "name": "senator",
                   "timespan": {
-                    "start": "3/4/1849",
-                    "end": "6/29/1852"
-                  }
-                },
-                {
-                  "name": "senator",
-                  "timespan": {
-                    "start": "11/10/1831",
-                    "end": "3/31/1842"
-                  }
-                },
-                {
-                  "name": "secretaryOfState",
-                  "timespan": {
-                    "start": "3/4/1825",
-                    "end": "3/4/1829"
-                  }
-                },
-                {
-                  "name": "legislator",
-                  "timespan": {
-                    "start": "3/4/1815",
-                    "end": "10/28/1820"
-                  }
-                },
-                {
-                  "name": "legislator",
-                  "timespan": {
-                    "start": "1/19/1814",
-                    "end": "3/3/1811"
+                    "start": "12/29/1806",
+                    "end": "3/3/1807"
                   }
                 },
                 {
@@ -994,10 +971,38 @@
                   }
                 },
                 {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "1/19/1811",
+                    "end": "3/3/1814"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1815",
+                    "end": "10/28/1820"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "3/4/1825",
+                    "end": "3/4/1829"
+                  }
+                },
+                {
                   "name": "senator",
                   "timespan": {
-                    "start": "12/29/1806",
-                    "end": "3/3/1807"
+                    "start": "11/10/1831",
+                    "end": "3/31/1842"
+                  }
+                },
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "3/4/1849",
+                    "end": "6/29/1852"
                   }
                 }
               ]
@@ -1417,7 +1422,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Republicans",
+          "people": [
             {
               "name": "Abraham Lincoln",
               "timespan": {
@@ -1727,7 +1737,12 @@
                 "end": "10/18/1931"
               },
               "importance": "major"
-            },
+            }
+          ]
+        },
+        {
+          "name": "Progressives",
+          "people": [
             {
               "name": "Theodore Roosevelt",
               "timespan": {
@@ -2168,7 +2183,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Modern",
+          "people": [
             {
               "name": "Ronald Reagan",
               "timespan": {
