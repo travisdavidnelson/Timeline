@@ -821,16 +821,6 @@
           "name": "Cultural Figures",
           "people": [
             {
-              "name": "Antinous",
-              "timespan": {
-                "startApproximate": true,
-                "start": "111",
-                "endApproximate": true,
-                "end": "130"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Cassius Dio",
               "timespan": {
                 "startApproximate": true,

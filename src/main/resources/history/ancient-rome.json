@@ -3362,6 +3362,16 @@
               ]
             },
             {
+              "name": "Antinous",
+              "timespan": {
+                "startApproximate": true,
+                "start": "111",
+                "endApproximate": true,
+                "end": "130"
+              },
+              "importance": "minor"
+            },
+            {
               "name": "Antoninus Pius",
               "timespan": {
                 "start": "86",
