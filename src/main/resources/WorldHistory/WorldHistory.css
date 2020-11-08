@@ -22,6 +22,8 @@
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .egyptThebes {fill:gold;fill-opacity:0.4}
 .english {fill:red;fill-opacity:0.7}
+.englishCommonwealth {fill:blue;fill-opacity:0.7}
+.englishProtecturate {fill:blue;fill-opacity:1.0}
 .hittiteWeak {fill:brown;fill-opacity:0.2}
 .kish {fill:green;fill-opacity:0.4}
 .lagash {fill:blue;fill-opacity:0.4}
@@ -142,8 +144,10 @@
 .kingOfKings		{fill:purple;	fill-opacity:1.0}
 .king 				{fill:purple;	fill-opacity:0.7}
 .queen 				{fill:purple;	fill-opacity:0.6}
+.lordProtector 		{fill:blue;		fill-opacity:1.0}
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}
+.memberParliament   {fill:blue;		fill-opacity:0.2}
 .pharaoh			{fill:purple;	fill-opacity:0.6}
 .pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
 .praetor 			{fill:blue;		fill-opacity:0.4}

@@ -392,6 +392,179 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Stuarts",
+      "backgroundEvents": [
+        {
+          "name": "First English Civil War",
+          "style": "backgroundCivilWar",
+          "timespan": {
+            "start": "8/1642",
+            "end": "6/1646"
+          }
+        },
+        {
+          "name": "Second English Civil War",
+          "style": "backgroundCivilWar",
+          "timespan": {
+            "start": "2/1648",
+            "end": "8/1648"
+          }
+        },
+        {
+          "name": "Commonwealth of England",
+          "style": "englishCommonwealth",
+          "timespan": {
+            "start": "1649",
+            "end": "1653"
+          }
+        },
+        {
+          "name": "The Protectorate",
+          "style": "englishProtecturate",
+          "timespan": {
+            "start": "1653",
+            "end": "1659"
+          }
+        },
+        {
+          "name": "Commonwealth of England",
+          "style": "englishCommonwealth",
+          "timespan": {
+            "start": "1659",
+            "end": "1660"
+          }
+        },
+        {
+          "name": "Third English Civil War",
+          "style": "backgroundCivilWar",
+          "timespan": {
+            "start": "1649",
+            "end": "1651"
+          }
+        }
+      ],
+      "dynasties": [
+        {
+          "name": "Stuart",
+          "people": [
+            {
+              "name": "James VI and I",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "6/19/1566",
+                "end": "3/27/1625"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/24/1603",
+                    "end": "3/27/1625"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles I",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "11/19/1600",
+                "end": "1/30/1649"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/27/1625",
+                    "end": "1/30/1649"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles II",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "5/29/1630",
+                "end": "2/6/1685"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/29/1660",
+                    "end": "2/6/1685"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "James II",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/14/1633",
+                "end": "9/16/1701"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/6/1685",
+                    "end": "12/23/1688"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Parliament",
+          "people": [
+            {
+              "name": "Oliver Cromwell",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "4/25/1599",
+                "end": "9/3/1658"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "2/20/1640",
+                    "end": "1/30/1649"
+                  }
+                },
+                {
+                  "name": "lordProtector",
+                  "timespan": {
+                    "start": "12/16/1653",
+                    "end": "9/3/1658"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Thomas Fairfax",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "1/17/1612",
+                "end": "11/12/1671"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
