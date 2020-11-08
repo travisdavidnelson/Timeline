@@ -135,7 +135,73 @@
       ],
       "dynasties": [
         {
-          "name": "York",
+          "name": "Plantagenet Lancaster",
+          "people": [
+            {
+              "name": "Henry IV",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "4/1367",
+                "end": "3/20/1413"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/30/1399",
+                    "end": "3/20/1413"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry V",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "9/16/1386",
+                "end": "8/31/1422"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/21/1413",
+                    "end": "8/31/1422"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry VI",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "12/6/1421",
+                "end": "5/21/1471"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/1/1422",
+                    "end": "3/4/1461"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/3/1470",
+                    "end": "4/11/1471"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Plantagenet York",
           "people": [
             {
               "name": "Edward IV",
