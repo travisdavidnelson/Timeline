@@ -123,7 +123,83 @@
     },
     {
       "name": "Tudors",
+      "backgroundEvents": [
+        {
+          "name": "Wars of the Roses",
+          "style": "backgroundCivilWar",
+          "timespan": {
+            "start": "5/22/1455",
+            "end": "6/16/1487"
+          }
+        }
+      ],
       "dynasties": [
+        {
+          "name": "York",
+          "people": [
+            {
+              "name": "Edward IV",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "4/28/1442",
+                "end": "4/9/1483"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/4/1461",
+                    "end": "10/3/1470"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/11/1471",
+                    "end": "4/9/1483"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward V",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "11/2/1470",
+                "end": "7/1483"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/9/1483",
+                    "end": "6/25/1483"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Richard III",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/2/1452",
+                "end": "8/22/1485"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/25/1483",
+                    "end": "8/22/1485"
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Tudors",
           "people": [
