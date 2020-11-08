@@ -84,6 +84,42 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Normans",
+      "dynasties": [
+        {
+          "name": "Normans",
+          "people": [
+            {
+              "name": "William I",
+              "style": "norman",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1028",
+                "end": "9/9/1087"
+              },
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "7/3/1035",
+                    "end": "9/9/1087"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/25/1066",
+                    "end": "9/9/1087"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
