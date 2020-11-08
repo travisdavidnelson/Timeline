@@ -122,11 +122,120 @@
       ]
     },
     {
-      "name": "Stuarts",
+      "name": "Tudors",
       "dynasties": [
         {
-          "name": "Stuarts",
+          "name": "Tudors",
           "people": [
+            {
+              "name": "Henry VII",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/28/1457",
+                "end": "4/21/1509"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/22/1485",
+                    "end": "4/21/1509"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry VIII",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "6/28/1491",
+                "end": "1/28/1547"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/22/1485",
+                    "end": "1/28/1547"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VI",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/12/1537",
+                "end": "7/6/1553"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/28/1547",
+                    "end": "7/6/1553"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lady Jane Grey&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1547",
+                "end": "2/12/1554"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "7/10/1553",
+                    "end": "7/19/1553"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mary I&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "2/18/1516",
+                "end": "11/17/1558"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "7/19/1553",
+                    "end": "11/17/1558"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elizabeth I&#9792;",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "9/7/1533",
+                "end": "3/24/1603"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "11/17/1558",
+                    "end": "3/24/1603"
+                  }
+                }
+              ]
+            },
             {
               "name": "William Shakespeare",
               "style": "english",
