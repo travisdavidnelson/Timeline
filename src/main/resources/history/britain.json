@@ -120,6 +120,27 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Stuarts",
+      "dynasties": [
+        {
+          "name": "Stuarts",
+          "people": [
+            {
+              "name": "William Shakespeare",
+              "style": "english",
+              "importance": "transformational",
+              "timespan": {
+                "start": "4/26/1564",
+                "end": "4/23/1616"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
