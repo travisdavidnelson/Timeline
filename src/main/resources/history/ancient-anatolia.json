@@ -248,6 +248,245 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Bithynia and Pontus",
+      "yStart": 0,
+      "backgroundEvents": [
+        {
+          "name": "Pontus Mithridatic",
+          "style": "pontus",
+          "timespan": {
+            "start": "281 BC",
+            "end": "37 BC"
+          }
+        },
+        {
+          "name": "Mithridatic Wars",
+          "style": "backgroundWar",
+          "timespan": {
+            "start": "88 BC",
+            "end": "63 BC"
+          }
+        }
+      ],
+      "dynasties": [
+        {
+          "name": "Pontus",
+          "backgroundEvents": [
+
+          ],
+          "people": [
+            {
+              "name": "Mithridates I Ktistes",
+              "importance": "minor",
+              "style": "pontus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "335 BC",
+                "end": "266 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "281 BC",
+                    "end": "266 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates I Ktistes",
+              "importance": "semimajor",
+              "style": "pontus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "335 BC",
+                "end": "266 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "281 BC",
+                    "end": "266 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ariobarzanes",
+              "importance": "minor",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "266 BC",
+                    "endApproximate": true,
+                    "end": "250 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates II",
+              "importance": "minor",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "250 BC",
+                    "endApproximate": true,
+                    "end": "220 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates III",
+              "importance": "petty",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "220 BC",
+                    "endApproximate": true,
+                    "end": "185 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pharnaces I",
+              "importance": "minor",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "185 BC",
+                    "endApproximate": true,
+                    "end": "170 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates IV",
+              "importance": "minor",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "170 BC",
+                    "endApproximate": true,
+                    "end": "155 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates V",
+              "importance": "semimajor",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "150 BC",
+                    "end": "120 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mithridates VI",
+              "importance": "major",
+              "style": "pontus",
+              "timespan": {
+                "start": "135 BC",
+                "end": "63 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "120 BC",
+                    "end": "63 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pontus",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Pharnaces II",
+              "importance": "semimajor",
+              "style": "pontus",
+              "timespan": {
+                "start": "97 BC",
+                "end": "47 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "63 BC",
+                    "end": "63 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Darius",
+              "importance": "petty",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "37 BC",
+                    "end": "36 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arsaces",
+              "importance": "petty",
+              "style": "pontus",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "36 BC",
+                    "end": "35 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -77,6 +77,8 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Salamis" target="_blank"><rect id="Battle_of_Salamis" x="13703" y="1136" width="1" height="1801" class="footprint"/><rect id="Battle_of_Salamis" x="13703" y="1136" width="1" height="1801" class="backgroundBattle"/><title>Battle of Salamis (9/480 BC - 9/480 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battles_of_Plataea_and_Mycale" target="_blank"><rect id="Battles_of_Plataea_and_Mycale" x="13707" y="1136" width="1" height="1801" class="footprint"/><rect id="Battles_of_Plataea_and_Mycale" x="13707" y="1136" width="1" height="1801" class="backgroundBattle"/><title>Battles of Plataea and Mycale (6/479 BC - 6/479 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Byzantium" target="_blank"><rect id="Byzantium" x="18475" y="1136" width="4885" height="1801" class="footprint"/><rect id="Byzantium" x="18475" y="1136" width="4885" height="1801" class="byzantium"/><title>Byzantium (476 - 1453)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Pontus_Mithridatic" target="_blank"><rect id="Pontus_Mithridatic" x="14695" y="1136" width="1220" height="1801" class="footprint"/><rect id="Pontus_Mithridatic" x="14695" y="1136" width="1220" height="1801" class="pontus"/><title>Pontus Mithridatic (281 BC - 37 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridatic_Wars" target="_blank"><rect id="Mithridatic_Wars" x="15660" y="1136" width="125" height="1801" class="footprint"/><rect id="Mithridatic_Wars" x="15660" y="1136" width="125" height="1801" class="backgroundWar"/><title>Mithridatic Wars (88 BC - 63 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Akkadian_Empire" target="_blank"><rect id="Akkadian_Empire" x="4825" y="2937" width="530" height="845" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Akkadian_Empire" x="4825" y="2937" width="530" height="845" class="akkad""  mask="url(#fadeInOutMask)"/><title>Akkadian Empire (c. 2250 BC - c. 2154 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ur_III" target="_blank"><rect id="Ur_III" x="5800" y="2937" width="575" height="845" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Ur_III" x="5800" y="2937" width="575" height="845" class="neosumer""  mask="url(#fadeInOutMask)"/><title>Ur III (c. 2055 BC - c. 1950 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Old_Assyrian_Empire" target="_blank"><rect id="Old_Assyrian_Empire" x="7100" y="2937" width="345" height="845" class="footprint""  mask="url(#fadeInOutMask)"/><rect id="Old_Assyrian_Empire" x="7100" y="2937" width="345" height="845" class="assyria""  mask="url(#fadeInOutMask)"/><title>Old Assyrian Empire (c. 1795 BC - c. 1736 BC)</title></a></g>
@@ -8133,7 +8135,33 @@
 <g><a xlink:href="http://en.wikipedia.org/wiki/Croesus" target="_blank"><rect id="Croesus" x="13100" y="1328" width="340" height="40" class="lydian""  mask="url(#fadeInOutMask)"/><rect x="13290" y="1328" width="80" height="40" class="king""  mask="url(#fadeInMask)"/>
 <text x="13106" y="1358" class="major">CROESUS</text><title>Croesus (c. 590 BC - c. 542 BC)</title></a></g>
 
-<text x="12665" y="1198" class="dynasty">LYDIA</text>
+<text x="12665" y="1198" class="dynasty">LYDIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_I_Ktistes" target="_blank"><rect id="Mithridates_I_Ktistes" x="14375" y="1208" width="395" height="15" class="pontus""  mask="url(#fadeInMask)"/><rect x="14685" y="1208" width="85" height="15" class="king""  mask="url(#fadeInMask)"/>
+<text x="14377" y="1219" class="minor">MITHRIDATES I KTISTES</text><title>Mithridates I Ktistes (c. 335 BC - 266 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_I_Ktistes" target="_blank"><rect id="Mithridates_I_Ktistes" x="14375" y="1233" width="395" height="25" class="pontus""  mask="url(#fadeInMask)"/><rect x="14685" y="1233" width="85" height="25" class="king""  mask="url(#fadeInMask)"/>
+<text x="14379" y="1252" class="semimajor">MITHRIDATES I KTISTES</text><title>Mithridates I Ktistes (c. 335 BC - 266 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ariobarzanes" target="_blank"><rect id="Ariobarzanes" x="14770" y="1268" width="80" height="15" class="pontus"/><rect x="14760" y="1268" width="100" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="14771" y="1279" class="minor">ARIOBARZANES</text><title>Ariobarzanes (266 BC - 250 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_II" target="_blank"><rect id="Mithridates_II" x="14850" y="1293" width="150" height="15" class="pontus"/><rect x="14840" y="1293" width="170" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="14851" y="1304" class="minor">MITHRIDATES II</text><title>Mithridates II (250 BC - 220 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_III" target="_blank"><rect id="Mithridates_III" x="15000" y="1318" width="175" height="8" class="pontus"/><rect x="14990" y="1318" width="195" height="8" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="15000" y="1324" class="petty">MITHRIDATES III</text><title>Mithridates III (220 BC - 185 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Pharnaces_I" target="_blank"><rect id="Pharnaces_I" x="15175" y="1336" width="75" height="15" class="pontus"/><rect x="15165" y="1336" width="95" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="15176" y="1347" class="minor">PHARNACES I</text><title>Pharnaces I (185 BC - 170 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_IV" target="_blank"><rect id="Mithridates_IV" x="15250" y="1361" width="75" height="15" class="pontus"/><rect x="15240" y="1361" width="95" height="15" class="king""  mask="url(#fadeInOutMask)"/>
+<text x="15251" y="1372" class="minor">MITHRIDATES IV</text><title>Mithridates IV (170 BC - 155 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_V" target="_blank"><rect id="Mithridates_V" x="15350" y="1386" width="150" height="25" class="pontus"/><rect x="15340" y="1386" width="160" height="25" class="king""  mask="url(#fadeInMask)"/>
+<text x="15352" y="1405" class="semimajor">MITHRIDATES V</text><title>Mithridates V (150 BC - 120 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mithridates_VI" target="_blank"><rect id="Mithridates_VI" x="15425" y="1421" width="360" height="40" class="pontus"/><rect x="15490" y="1421" width="295" height="40" class="king""  mask="url(#fadeInMask)"/>
+<text x="15428" y="1451" class="major">MITHRIDATES VI</text><title>Mithridates VI (135 BC - 63 BC)</title></a></g>
+
+<text x="14695" y="1198" class="dynasty">PONTUS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Pharnaces_II" target="_blank"><rect id="Pharnaces_II" x="15615" y="1543" width="250" height="25" class="pontus"/><rect x="15785" y="1543" width="1" height="25" class="king"/>
+<text x="15617" y="1562" class="semimajor">PHARNACES II</text><title>Pharnaces II (97 BC - 47 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Darius" target="_blank"><rect id="Darius" x="15915" y="1578" width="5" height="8" class="pontus"/><rect x="15915" y="1578" width="5" height="8" class="king"/>
+<text x="15915" y="1584" class="petty">DARIUS</text><title>Darius (37 BC - 36 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Arsaces" target="_blank"><rect id="Arsaces" x="15920" y="1596" width="5" height="8" class="pontus"/><rect x="15920" y="1596" width="5" height="8" class="king"/>
+<text x="15920" y="1602" class="petty">ARSACES</text><title>Arsaces (36 BC - 35 BC)</title></a></g>
+
+<text x="15785" y="1533" class="dynasty">PONTUS</text>
 <text x="150" y="2825" class="channel">ANATOLIA / LEVANT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ididish" target="_blank"><rect id="Ididish" x="4770" y="3009" width="300" height="15" class="mari"/><rect x="4760" y="3009" width="320" height="15" class="governor""  mask="url(#fadeInOutMask)"/>
 <text x="4771" y="3020" class="minor">IDIDISH</text><title>Ididish (2266 BC - 2206 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Shu-Dagan" target="_blank"><rect id="Shu-Dagan" x="5070" y="3034" width="30" height="8" class="mari"/><rect x="5060" y="3034" width="50" height="8" class="governor""  mask="url(#fadeInOutMask)"/>
