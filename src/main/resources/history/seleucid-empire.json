@@ -1,5 +1,6 @@
 {
   "name": "Seleucid Empire",
+  "stackable": "true",
   "backgroundEvents": [
     {
       "name": "Macedonian Empire",

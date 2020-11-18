@@ -105,7 +105,9 @@ public class TimelineSvgBuilder {
 						timelineStringBuilder.append(horizontalLine(channelStart, instantToX(minDisplayInstant), instantToX(maxDisplayInstant), "timeline"));
 
 						for (DynastyGroup series : history.getDynastyGroups()) {
-							dynastyStart = channelStart;
+							if (!history.isStackable()) {
+								dynastyStart = channelStart;
+							}
 							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilderMin);
 						}
 						fullChannelBackgroundEvents.addAll(history.getBackgroundEvents());
