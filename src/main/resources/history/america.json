@@ -323,7 +323,7 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Group1",
+      "name": "Colonists",
       "yStart": 0,
       "dynasties": [
         {
@@ -521,11 +521,29 @@
       ]
     },
     {
-      "name": "Group2",
+      "name": "Americans",
       "yStart": 0,
       "dynasties": [
         {
           "name": "Founders",
+          "backgroundEvents": [
+            {
+              "name": "Colonial America",
+              "timespan": {
+                "start": "1700",
+                "end": "7/4/1776"
+              },
+              "style": "colonialAmerica"
+            },
+            {
+              "name": "American Revolutionary War",
+              "timespan": {
+                "start": "4/19/1775",
+                "end": "9/3/1783"
+              },
+              "style": "backgroundCivilWar"
+            }
+          ],
           "people": [
             {
               "name": "Ben Franklin",
