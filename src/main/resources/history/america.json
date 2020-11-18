@@ -2,12 +2,27 @@
   "name": "Political",
   "backgroundEvents": [
     {
-      "name": "Colonial America",
+      "name": "Pre-Columbian",
       "timespan": {
-        "start": "1607",
+        "start": "5000 BC",
+        "end": "1500"
+      },
+      "style": "neolithic"
+    },
+    {
+      "name": "Post-Columbian",
+      "timespan": {
+        "start": "1500",
         "end": "7/4/1776"
       },
-      "style": "colonialAmerica"
+      "style": "ironAge"
+    },
+    {
+      "name": "United States",
+      "timespan": {
+        "start": "7/4/1776"
+      },
+      "style": "american"
     },
     {
       "name": "Articles of Confederation",
@@ -15,15 +30,31 @@
         "start": "7/4/1776",
         "end": "3/4/1789"
       },
-      "style": "articlesOfConfederation"
+      "style": "americanRepublicWeak"
     },
     {
       "name": "Constitutional Republic",
       "timespan": {
         "start": "3/4/1789",
+        "end": "4/1865"
+      },
+      "style": "americanRepublicWeak"
+    },
+    {
+      "name": "Constitutional Republic",
+      "timespan": {
+        "start": "4/1865",
+        "end": "1945"
+      },
+      "style": "americanRepublicMid"
+    },
+    {
+      "name": "Constitutional Republic",
+      "timespan": {
+        "start": "1945",
         "end": ""
       },
-      "style": "americanRepublic"
+      "style": "americanRepublicStrong"
     },
     {
       "name": "American Revolutionary War",
@@ -296,8 +327,28 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Colonists",
+          "name": "Virginia",
+          "backgroundEvents": [
+            {
+              "name": "Colonial America",
+              "timespan": {
+                "start": "1607",
+                "end": "7/4/1776"
+              },
+              "style": "colonialAmerica"
+            }
+          ],
           "people": [
+            {
+              "name": "Virginia Dare",
+              "timespan": {
+                "start": "8/18/1587",
+                "endApproximate": true,
+                "end": "1600"
+              },
+              "importance": "minor",
+              "style": "colonist"
+            },
             {
               "name": "Edward Maria Wingfield",
               "timespan": {
@@ -326,17 +377,22 @@
               },
               "importance": "semimajor",
               "style": "colonist"
-            },
+            }
+          ]
+        },
+        {
+          "name": "New England",
+          "backgroundEvents": [
             {
-              "name": "Virginia Dare",
+              "name": "Colonial America",
               "timespan": {
-                "start": "8/18/1587",
-                "endApproximate": true,
-                "end": "1600"
+                "start": "12/1620",
+                "end": "7/4/1776"
               },
-              "importance": "minor",
-              "style": "colonist"
-            },
+              "style": "colonialAmerica"
+            }
+          ],
+          "people": [
             {
               "name": "John Winthrop",
               "timespan": {

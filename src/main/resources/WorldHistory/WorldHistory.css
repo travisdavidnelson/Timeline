@@ -49,8 +49,10 @@
 .ur3 {fill:blue;fill-opacity:0.3}
 .uruk {fill:blue;fill-opacity:0.4}
 .colonialAmerica {fill:red;fill-opacity:0.1}
-.articlesOfConfederation {fill:lightblue;fill-opacity:0.2}
-.americanRepublic {fill:blue;fill-opacity:0.1}
+.americanRepublicWeak {fill:lightblue;fill-opacity:0.3}
+.americanRepublicMid {fill:lightblue;fill-opacity:0.5}
+.americanRepublicStrong {fill:lightblue;fill-opacity:0.7}
+.americanRepublic {fill:blue;fill-opacity:0.4}
 
 .backgroundBattle {fill:red; fill-opacity:0.8}
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
@@ -75,6 +77,7 @@
 .backgroundUnionVictory {stroke:#C00000; stroke-width:1.5; fill:blue; fill-opacity:0.8}
 .backgroundConfederateVictory {stroke:#C00000; stroke-width:1.5; fill:red; fill-opacity:0.8}
 .backgroundWar {fill:red; fill-opacity:0.5}
+.neolithic {fill:grey;fill-opacity:0.3}
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
