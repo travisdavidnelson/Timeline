@@ -110,6 +110,14 @@
       }
     },
     {
+      "name": "Roman Republic",
+      "timespan": {
+        "start": "12/190 BC",
+        "end": "44 BC"
+      },
+      "style": "romanRepublic"
+    },
+    {
       "name": "First Mithridatic War",
       "timespan": {
         "start": "89 BC",
@@ -449,7 +457,7 @@
           ]
         },
         {
-          "name": "Pontus",
+          "name": "Roman Client",
           "backgroundEvents": [
           ],
           "people": [
