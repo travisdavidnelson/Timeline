@@ -35,6 +35,14 @@
       "style": "romanRepublic"
     },
     {
+      "name": "First Mithridatic War",
+      "timespan": {
+        "start": "89 BC",
+        "end": "85 BC"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Roman Principate",
       "timespan": {
         "start": "30 BC",

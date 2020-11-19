@@ -395,6 +395,14 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "First Mithridatic War",
+      "timespan": {
+        "start": "89 BC",
+        "end": "85 BC"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
       "name": "Sulla's first civil war",
       "timespan": {
         "start": "88 BC",

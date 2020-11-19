@@ -11,14 +11,6 @@
       "style": "macedon"
     },
     {
-      "name": "Seleucid Empire",
-      "timespan": {
-        "start": "323 BC",
-        "end": "63 BC"
-      },
-      "style": "seleucid"
-    },
-    {
       "name": "Roman Empire",
       "timespan": {
         "start": "63 BC",
@@ -31,28 +23,38 @@
     {
       "name": "Seleucid Empire",
       "backgroundEvents": [
-        {
-          "name": "Roman-Seleucid War",
-          "timespan": {
-            "start": "192 BC",
-            "end": "188 BC"
-          },
-          "style": "backgroundForeignWarDefeat"
-        },
-        {
-          "name": "Battle of Magnesia",
-          "timespan": {
-            "startApproximate": "true",
-            "start": "12/190 BC",
-            "endApproximate": "true",
-            "end": "1/189 BC"
-          },
-          "style": "backgroundNationalCalamity"
-        }
       ],
       "dynasties": [
         {
           "name": "Seleucid Empire",
+          "backgroundEvents": [
+            {
+              "name": "Seleucid Empire",
+              "timespan": {
+                "start": "323 BC",
+                "end": "63 BC"
+              },
+              "style": "seleucid"
+            },
+            {
+              "name": "Roman-Seleucid War",
+              "timespan": {
+                "start": "192 BC",
+                "end": "188 BC"
+              },
+              "style": "backgroundForeignWarDefeat"
+            },
+            {
+              "name": "Battle of Magnesia",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "12/190 BC",
+                "endApproximate": "true",
+                "end": "1/189 BC"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
           "people": [
             {
               "name": "Seleucus I Nicator",
