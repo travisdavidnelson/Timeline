@@ -325,8 +325,102 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Macedonia Argead",
+          "name": "Macedon Argead",
+          "backgroundEvents": [
+            {
+              "name": "Kingdom of Macedon",
+              "style": "macedon",
+              "timespan": {
+                "start": "392 BC",
+                "end": "323 BC"
+              }
+            }
+          ],
           "people": [
+            {
+              "name": "Amyntas III",
+              "style": "macedon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "393 BC",
+                    "end": "370 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexander II",
+              "style": "macedon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "369 BC",
+                    "end": "367 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Perdiccas III",
+              "style": "macedon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "375 BC",
+                "end": "360 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "365 BC",
+                    "end": "360 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Amyntas IV",
+              "style": "macedon",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "365 BC",
+                "end": "335 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "359 BC",
+                    "end": "359 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Philip II",
+              "style": "macedon",
+              "importance": "major",
+              "timespan": {
+                "start": "382 BC",
+                "end": "336 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "359 BC",
+                    "end": "336 BC"
+                  }
+                }
+              ]
+            },
             {
               "name": "Alexander III",
               "style": "macedon",
@@ -340,7 +434,6 @@
                   "name": "king",
                   "timespan": {
                     "start": "336 BC",
-                    "endApproximate": true,
                     "end": "6/11/323 BC"
                   }
                 }
