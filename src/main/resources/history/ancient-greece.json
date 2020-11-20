@@ -213,6 +213,39 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Athens",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Athens Democrats",
+          "people": [
+            {
+              "name": "Solon",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "630 BC",
+                "endApproximate": "true",
+                "end": "560 BC"
+              }
+            },
+            {
+              "name": "Cleisthenes",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "570 BC",
+                "endApproximate": "true",
+                "end": "500 BC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Hellenistic",
       "yStart": 0,
       "dynasties": [
@@ -221,6 +254,7 @@
           "people": [
             {
               "name": "Alexander III",
+              "style": "macedon",
               "importance": "transformational",
               "timespan": {
                 "start": "7/20/356 BC",
@@ -260,6 +294,7 @@
           "people": [
             {
               "name": "Polybius",
+              "style": "greek",
               "importance": "semimajor",
               "timespan": {
                 "startApproximate": true,
@@ -281,6 +316,7 @@
           "people": [
             {
               "name": "Plutarch",
+              "style": "greek",
               "importance": "semimajor",
               "timespan": {
                 "startApproximate": true,
