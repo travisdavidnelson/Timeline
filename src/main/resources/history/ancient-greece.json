@@ -242,6 +242,81 @@
               }
             }
           ]
+        },
+        {
+          "name": "Athens Peisistratids",
+          "people": [
+            {
+              "name": "Peisistratos",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "start": "608 BC",
+                "end": "528 BC"
+              },
+              "titles": [
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "561 BC",
+                    "end": "560 BC"
+                  }
+                },
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "559 BC",
+                    "end": "556 BC"
+                  }
+                },
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "545 BC",
+                    "end": "528 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hipparchus",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "550 BC",
+                "end": "514 BC"
+              },
+              "titles": [
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "528 BC",
+                    "end": "514 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hippias",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "547 BC",
+                "end": "510 BC"
+              },
+              "titles": [
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "528 BC",
+                    "end": "510 BC"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
