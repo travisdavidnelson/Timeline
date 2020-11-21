@@ -1,6 +1,16 @@
 {
-  "name": "Political",
+  "name": "Ancient Greece",
   "backgroundEvents": [
+    {
+      "name": "Mychaean Greece",
+      "style": "mycenae",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "1600 BC",
+        "endApproximate": "true",
+        "end": "1200 BC"
+      }
+    },
     {
       "name": "Persian domination",
       "style": "achaemenidClient",
