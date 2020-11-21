@@ -2,6 +2,22 @@
   "name": "Political",
   "backgroundEvents": [
     {
+      "name": "Persian domination",
+      "style": "achaemenidClient",
+      "timespan": {
+        "start": "540 BC",
+        "end": "499 BC"
+      }
+    },
+    {
+      "name": "Classical Greece",
+      "style": "greek",
+      "timespan": {
+        "start": "500 BC",
+        "end": "300 BC"
+      }
+    },
+    {
       "name": "Peloponnesian War",
       "style": "backgroundCivilWar",
       "timespan": {
