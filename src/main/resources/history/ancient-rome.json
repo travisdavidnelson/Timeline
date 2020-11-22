@@ -347,6 +347,14 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Revolt of Fregellae",
+      "timespan": {
+        "start": "125 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundMinorRebellion"
+    },
+    {
       "name": "Suppression of Gaius Gracchus",
       "timespan": {
         "start": "12/121 BC",
@@ -1622,6 +1630,16 @@
         },
         {
           "name": "Optimates",
+          "backgroundEvents": [
+            {
+              "name": "Mamilian Commision",
+              "timespan": {
+                "start": "109 BC",
+                "end": "106 BC"
+              },
+              "style": "commission"
+            }
+          ],
           "people": [
             {
               "name": "Cato the Elder",
@@ -1796,6 +1814,66 @@
                   "timespan": {
                     "start": "134 BC",
                     "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lucius Opimius",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "150 BC",
+                "endApproximate": "true",
+                "end": "105 BC"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "125 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "121 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "statesman",
+                  "timespan": {
+                    "start": "116 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Senatus consultum ultimum",
+                  "style": "dictator",
+                  "timespan": {
+                    "start": "12/121 BC",
+                    "duration": "2m"
+                  }
+                },
+                {
+                  "name": "Prosecuted by Mamilian Commission",
+                  "style": "defendant",
+                  "timespan": {
+                    "start": "109 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Exhile in Dyrrhachium",
+                  "style": "exile",
+                  "timespan": {
+                    "start": "109 BC",
+                    "endApproximate": "true",
+                    "end": "105 BC"
                   }
                 }
               ]
@@ -2194,6 +2272,16 @@
       "dynasties": [
         {
           "name": "Populares",
+          "backgroundEvents": [
+            {
+              "name": "Mamilian Commision",
+              "timespan": {
+                "start": "109 BC",
+                "end": "106 BC"
+              },
+              "style": "commission"
+            }
+          ],
           "people": [
             {
               "name": "Gaius Flaminius Nepos",
@@ -2418,6 +2506,25 @@
                   "name": "governor",
                   "timespan": {
                     "start": "103 BC",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gaius Mamilius",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "135 BC",
+                "endApproximate": "true",
+                "end": "105 BC"
+              },
+              "titles": [
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "start": "109 BC",
                     "duration": "1y"
                   }
                 }
