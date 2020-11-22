@@ -1984,6 +1984,47 @@
               ]
             },
             {
+              "name": "Metellus Pius",
+              "timespan": {
+                "start": "129 BC",
+                "end": "63 BC"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "pontifexMaximus",
+                  "timespan": {
+                    "start": "81 BC",
+                    "end": "63 BC"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "80 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "79 BC",
+                    "end": "71 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "12/71 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Lucullus",
               "timespan": {
                 "start": "118 BC",
