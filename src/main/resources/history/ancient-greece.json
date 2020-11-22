@@ -61,6 +61,30 @@
       "style": "romanRepublic"
     },
     {
+      "name": "Achaean War",
+      "timespan": {
+        "start": "146 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundMajorRebellion"
+    },
+    {
+      "name": "Destruction of Corinth",
+      "timespan": {
+        "start": "12/146 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundMajorRebellion"
+    },
+    {
+      "name": "Scordisci invasion",
+      "timespan": {
+        "start": "114 BC",
+        "duration": "2y"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
       "name": "First Mithridatic War",
       "timespan": {
         "start": "89 BC",

@@ -323,6 +323,14 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "Achaean War",
+      "timespan": {
+        "start": "146 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
       "name": "First Servile War",
       "timespan": {
         "start": "135 BC",
@@ -1693,13 +1701,57 @@
               ]
             },
             {
+              "name": "Lucius Mummius Achaicus",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "200 BC",
+                "endApproximate": "true",
+                "end": "135 BC"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "start": "153 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "146 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "152 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "145 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Publius Cornelius Scipio Nasica",
               "timespan": {
                 "startApproximate": "true",
                 "start": "182 BC",
                 "end": "12/132 BC"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "pontifexMaximus",
