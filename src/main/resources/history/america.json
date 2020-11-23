@@ -89,6 +89,14 @@
       "style": "backgroundForeignWarMajorVictory"
     },
     {
+      "name": "Bleeding Kansas",
+      "timespan": {
+        "start": "1854",
+        "end": "5/1861"
+      },
+      "style": "backgroundCivilWarRegional"
+    },
+    {
       "name": "American Civil War",
       "timespan": {
         "start": "4/12/1861",
