@@ -339,28 +339,12 @@
       "style": "backgroundRebellion"
     },
     {
-      "name": "Suppression of Tiberius Gracchus",
-      "timespan": {
-        "start": "12/133 BC",
-        "duration": "2m"
-      },
-      "style": "backgroundCivilWar"
-    },
-    {
       "name": "Revolt of Fregellae",
       "timespan": {
         "start": "125 BC",
         "duration": "1y"
       },
       "style": "backgroundMinorRebellion"
-    },
-    {
-      "name": "Suppression of Gaius Gracchus",
-      "timespan": {
-        "start": "12/121 BC",
-        "duration": "2m"
-      },
-      "style": "backgroundCivilWar"
     },
     {
       "name": "Cimbrian War",
@@ -377,14 +361,6 @@
         "end": "104 BC"
       },
       "style": "backgroundForeignWarVictory"
-    },
-    {
-      "name": "Revolt and suppression of Saturninus",
-      "timespan": {
-        "start": "12/100 BC",
-        "duration": "2m"
-      },
-      "style": "backgroundCivilWar"
     },
     {
       "name": "Social War",
@@ -1638,6 +1614,46 @@
                 "end": "106 BC"
               },
               "style": "commission"
+            },
+            {
+              "name": "Suppression of Tiberius Gracchus",
+              "timespan": {
+                "start": "12/133 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Suppression of Gaius Gracchus",
+              "timespan": {
+                "start": "12/121 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Revolt and suppression of Saturninus",
+              "timespan": {
+                "start": "12/100 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Marian Reign of Terror",
+              "timespan": {
+                "start": "12/87 BC",
+                "duration": "1m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Sulla Reign of Terror",
+              "timespan": {
+                "start": "1/81 BC",
+                "duration": "3m"
+              },
+              "style": "backgroundReignOfTerror"
             }
           ],
           "people": [
@@ -2321,6 +2337,46 @@
                 "end": "106 BC"
               },
               "style": "commission"
+            },
+            {
+              "name": "Suppression of Tiberius Gracchus",
+              "timespan": {
+                "start": "12/133 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Suppression of Gaius Gracchus",
+              "timespan": {
+                "start": "12/121 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Revolt and suppression of Saturninus",
+              "timespan": {
+                "start": "12/100 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Marian Reign of Terror",
+              "timespan": {
+                "start": "12/87 BC",
+                "duration": "1m"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Sulla Reign of Terror",
+              "timespan": {
+                "start": "1/81 BC",
+                "duration": "3m"
+              },
+              "style": "backgroundReignOfTerror"
             }
           ],
           "people": [

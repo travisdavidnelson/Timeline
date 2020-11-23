@@ -93,6 +93,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Sulla sacks Athens",
+      "timespan": {
+        "start": "7/86 BC",
+        "duration": "2m"
+      },
+      "style": "backgroundMajorRebellion"
+    },
+    {
       "name": "Roman Principate",
       "timespan": {
         "start": "30 BC",
