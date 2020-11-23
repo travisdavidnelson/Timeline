@@ -321,8 +321,13 @@ public class TimelineSvgBuilder {
 		}
 		int width = getWidth(Long.valueOf(duration).intValue());
 		int height = timeline.getConfig().getHeight(person.getImportance());
+		stringBuilder.append("<g>");
 		String rectString = rectangle(null, x, y, width, height, style, null, getMaskName(title.getTimespan()));
 		stringBuilder.append(rectString);
+		stringBuilder.append("<title>");
+		stringBuilder.append(title.getAnnotation());
+		stringBuilder.append("</title>");
+		stringBuilder.append("</g>\n");
 	}
 	private void getBackgroundSVG(TimelineEvent backgroundEvent, int yStart, int yEnd, StringBuilder stringBuilder) {
 		getBackgroundSVG(backgroundEvent, yStart, yEnd, false, stringBuilder);
