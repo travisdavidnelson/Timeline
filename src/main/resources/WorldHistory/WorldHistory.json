@@ -10,7 +10,7 @@
     "minorTickYears": 10,
     "topYearOffset": 10,
     "bottomYearOffset": 40,
-    "defaultPersonStyle": "roman",
+    "defaultPersonStyle": "human",
     "pixelsPerYear": 5,
     "heightInPixels": 15000,
     "xStart": 100,

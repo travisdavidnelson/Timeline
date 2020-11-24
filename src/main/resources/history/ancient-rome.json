@@ -829,6 +829,7 @@
           "people": [
             {
               "name": "Romulus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "771 BC",
@@ -850,6 +851,7 @@
             },
             {
               "name": "Numa Pompilius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "753 BC",
@@ -871,6 +873,7 @@
             },
             {
               "name": "Tullus Hostilius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "693 BC",
@@ -892,6 +895,7 @@
             },
             {
               "name": "Ancus Marcius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "660 BC",
@@ -918,6 +922,7 @@
           "people": [
             {
               "name": "Lucius Tarquinius Priscus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "636 BC",
@@ -939,6 +944,7 @@
             },
             {
               "name": "Servius Tullius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "598 BC",
@@ -960,6 +966,7 @@
             },
             {
               "name": "Lucius Tarquinius Superbus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "555 BC",
@@ -980,6 +987,7 @@
             },
             {
               "name": "Sextus Tarquinius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "535 BC",
@@ -995,6 +1003,7 @@
           "people": [
             {
               "name": "Lucretia&#9792;",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "540 BC",
@@ -1004,6 +1013,7 @@
             },
             {
               "name": "Spurius Lucretius Tricipitinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "570 BC",
@@ -1023,6 +1033,7 @@
             },
             {
               "name": "Lucius Junius Brutus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "560 BC",
@@ -1041,6 +1052,7 @@
             },
             {
               "name": "Lucius Tarquinius Collatinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "550 BC",
@@ -1060,6 +1072,7 @@
             },
             {
               "name": "Publius Valerius Publicola",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "550 BC",
@@ -1109,6 +1122,7 @@
             },
             {
               "name": "Titus Herminius Aquilinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "545 BC",
@@ -1128,6 +1142,7 @@
             },
             {
               "name": "Publius Horatius Cocles",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "535 BC",
@@ -1137,6 +1152,7 @@
             },
             {
               "name": "Gaius Mucius Scaevola",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "530 BC",
@@ -1157,6 +1173,7 @@
           "people": [
             {
               "name": "Cincinnatus",
+              "style": "roman",
               "timespan": {
                 "start": "519 BC",
                 "end": "430 BC"
@@ -1188,6 +1205,7 @@
             },
             {
               "name": "Appius Claudius Crassus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "485 BC",
@@ -1207,6 +1225,7 @@
             },
             {
               "name": "Spurius Maelius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "485 BC",
@@ -1225,6 +1244,7 @@
             },
             {
               "name": "Verginia&#9792;",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "465 BC",
@@ -1235,6 +1255,7 @@
             },
             {
               "name": "Marcus Furius Camillus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "446 BC",
@@ -1309,6 +1330,7 @@
             },
             {
               "name": "Publius Decius Mus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "380 BC",
@@ -1327,6 +1349,7 @@
             },
             {
               "name": "Marcus Valerius Corvus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "370 BC",
@@ -1409,6 +1432,7 @@
             },
             {
               "name": "Marcus Atilius Regulus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "307 BC",
@@ -1441,6 +1465,7 @@
             },
             {
               "name": "Lucius Caecilius Metellus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "290 BC",
@@ -1473,6 +1498,7 @@
             },
             {
               "name": "Fabius Maximus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "280 BC",
@@ -1533,6 +1559,7 @@
             },
             {
               "name": "Publius Cornelius Scipio",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "270 BC",
@@ -1558,6 +1585,7 @@
             },
             {
               "name": "Marcus Claudius Marcellus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "268 BC",
@@ -1659,6 +1687,7 @@
           "people": [
             {
               "name": "Cato the Elder",
+              "style": "roman",
               "timespan": {
                 "start": "234 BC",
                 "end": "149 BC"
@@ -1676,6 +1705,7 @@
             },
             {
               "name": "Lucius Aemilius Paullus Macedonicus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "229 BC",
@@ -1736,6 +1766,7 @@
             },
             {
               "name": "Lucius Mummius Achaicus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "200 BC",
@@ -1780,6 +1811,7 @@
             },
             {
               "name": "Publius Cornelius Scipio Nasica",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "182 BC",
@@ -1805,6 +1837,7 @@
             },
             {
               "name": "Scipio Aemilianus",
+              "style": "roman",
               "timespan": {
                 "start": "185 BC",
                 "end": "129 BC"
@@ -1836,6 +1869,7 @@
             },
             {
               "name": "Lucius Opimius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "150 BC",
@@ -1896,6 +1930,7 @@
             },
             {
               "name": "Quintus Caecilius Metellus Numidicus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "160 BC",
@@ -1928,6 +1963,7 @@
             },
             {
               "name": "Sulla",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "138 BC",
@@ -1983,6 +2019,7 @@
             },
             {
               "name": "Marcus Livius Drusus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "124 BC",
@@ -2001,6 +2038,7 @@
             },
             {
               "name": "Metellus Pius",
+              "style": "roman",
               "timespan": {
                 "start": "129 BC",
                 "end": "63 BC"
@@ -2042,6 +2080,7 @@
             },
             {
               "name": "Lucullus",
+              "style": "roman",
               "timespan": {
                 "start": "118 BC",
                 "endApproximate": true,
@@ -2074,6 +2113,7 @@
             },
             {
               "name": "Pompey Magnus",
+              "style": "roman",
               "timespan": {
                 "start": "9/29/106 BC",
                 "end": "9/28/48 BC"
@@ -2128,7 +2168,7 @@
             },
             {
               "name": "Cicero",
-              "style": "newMan",
+              "style": "romanNewMan",
               "timespan": {
                 "start": "1/3/106 BC",
                 "end": "12/7/43 BC"
@@ -2188,6 +2228,7 @@
             },
             {
               "name": "Marcus Calpurnius Bibulus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "102 BC",
@@ -2206,6 +2247,7 @@
             },
             {
               "name": "Cato the Younger",
+              "style": "roman",
               "timespan": {
                 "start": "95 BC",
                 "end": "46 BC"
@@ -2223,6 +2265,7 @@
             },
             {
               "name": "Titus Annius Milo",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "93 BC",
@@ -2248,6 +2291,7 @@
             },
             {
               "name": "Gaius Cassius Longinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "86 BC",
@@ -2280,6 +2324,7 @@
             },
             {
               "name": "Marcus Junius Brutus",
+              "style": "roman",
               "timespan": {
                 "start": "85 BC",
                 "end": "42 BC"
@@ -2304,6 +2349,7 @@
             },
             {
               "name": "Sextus Pompey",
+              "style": "roman",
               "timespan": {
                 "start": "67 BC",
                 "end": "35 BC"
@@ -2382,6 +2428,7 @@
           "people": [
             {
               "name": "Gaius Flaminius Nepos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "260 BC",
@@ -2428,6 +2475,7 @@
             },
             {
               "name": "Scipio Africanus",
+              "style": "roman",
               "timespan": {
                 "start": "236 BC",
                 "end": "183 BC"
@@ -2466,6 +2514,7 @@
             },
             {
               "name": "Tiberius Gracchus the Elder",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "217 BC",
@@ -2512,6 +2561,7 @@
             },
             {
               "name": "Terence",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "195 BC",
@@ -2521,6 +2571,7 @@
             },
             {
               "name": "Cornelia Africana&#9792;",
+              "style": "roman",
               "timespan": {
                 "start": "190 BC",
                 "end": "100 BC"
@@ -2529,6 +2580,7 @@
             },
             {
               "name": "Tiberius Gracchus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "163 BC",
@@ -2554,6 +2606,7 @@
             },
             {
               "name": "Gaius Gracchus",
+              "style": "roman",
               "timespan": {
                 "start": "154 BC",
                 "end": "12/121 BC"
@@ -2578,6 +2631,7 @@
             },
             {
               "name": "Gaius Memmius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "140 BC",
@@ -2610,6 +2664,7 @@
             },
             {
               "name": "Gaius Mamilius",
+              "style": "roman",
               "importance": "petty",
               "timespan": {
                 "startApproximate": "true",
@@ -2629,6 +2684,7 @@
             },
             {
               "name": "Lucius Appuleius Saturninus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "135 BC",
@@ -2661,6 +2717,7 @@
             },
             {
               "name": "Gaius Servilius Claucia",
+              "style": "roman",
               "timespan": {
                 "startApproximate": "true",
                 "start": "125 BC",
@@ -2679,7 +2736,7 @@
             },
             {
               "name": "Gaius Marius",
-              "style": "newMan",
+              "style": "romanNewMan",
               "timespan": {
                 "start": "157 BC",
                 "end": "1/13/86 BC"
@@ -2733,6 +2790,7 @@
             },
             {
               "name": "Gnaeus Papirius Carbo",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "135 BC",
@@ -2751,6 +2809,7 @@
             },
             {
               "name": "Lucius Cornelius Cinna",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "127 BC",
@@ -2769,6 +2828,7 @@
             },
             {
               "name": "Quintus Sertorius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "123 BC",
@@ -2778,6 +2838,7 @@
             },
             {
               "name": "Crassus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "115 BC",
@@ -2817,6 +2878,7 @@
             },
             {
               "name": "Catiline",
+              "style": "roman",
               "timespan": {
                 "start": "108 BC",
                 "end": "62 BC"
@@ -2965,6 +3027,7 @@
             },
             {
               "name": "Publius Clodius Pulcher",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "93 BC",
@@ -2997,6 +3060,7 @@
             },
             {
               "name": "Lepidus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "89 BC",
@@ -3016,6 +3080,7 @@
             },
             {
               "name": "Publius Licinius Crassus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "86 BC",
@@ -3025,6 +3090,7 @@
             },
             {
               "name": "Sallust",
+              "style": "roman",
               "importance": "semimajor",
               "timespan": {
                 "startApproximate": true,
@@ -3035,6 +3101,7 @@
             },
             {
               "name": "Mark Antony",
+              "style": "roman",
               "timespan": {
                 "start": "83 BC",
                 "end": "30 BC"
@@ -3118,6 +3185,7 @@
             },
             {
               "name": "Gaius Maecenas",
+              "style": "roman",
               "timespan": {
                 "start": "70 BC",
                 "end": "8 BC"
@@ -3126,6 +3194,7 @@
             },
             {
               "name": "Marcus Vipsanius Agrippa",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "64 BC",
@@ -3195,6 +3264,7 @@
             },
             {
               "name": "Virgil",
+              "style": "roman",
               "timespan": {
                 "start": "70 BC",
                 "end": "19 BC"
@@ -3203,6 +3273,7 @@
             },
             {
               "name": "Livy",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "64 BC",
@@ -3213,6 +3284,7 @@
             },
             {
               "name": "Strabo",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "64 BC",
@@ -3223,6 +3295,7 @@
             },
             {
               "name": "Gaius Caesar",
+              "style": "roman",
               "timespan": {
                 "start": "20 BC",
                 "end": "4"
@@ -3231,6 +3304,7 @@
             },
             {
               "name": "Lucius Caesar",
+              "style": "roman",
               "timespan": {
                 "start": "17 BC",
                 "end": "2"
@@ -3257,6 +3331,7 @@
             },
             {
               "name": "Tiberius",
+              "style": "roman",
               "timespan": {
                 "start": "42 BC",
                 "end": "37"
@@ -3318,6 +3393,7 @@
             },
             {
               "name": "Sejanus",
+              "style": "roman",
               "timespan": {
                 "start": "20 BC",
                 "end": "31"
@@ -3342,6 +3418,7 @@
             },
             {
               "name": "Germanicus",
+              "style": "roman",
               "timespan": {
                 "start": "15 BC",
                 "end": "19"
@@ -3366,6 +3443,7 @@
             },
             {
               "name": "Caligula",
+              "style": "roman",
               "timespan": {
                 "start": "12",
                 "end": "41"
@@ -3405,6 +3483,7 @@
             },
             {
               "name": "Gnaeus Domitius Corbulo",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "7",
@@ -3444,6 +3523,7 @@
             },
             {
               "name": "Seneca the Younger",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "4 BC",
@@ -3453,6 +3533,7 @@
             },
             {
               "name": "Agrippina the Younger",
+              "style": "roman",
               "timespan": {
                 "start": "15",
                 "end": "59"
@@ -3470,6 +3551,7 @@
             },
             {
               "name": "Nero",
+              "style": "roman",
               "timespan": {
                 "start": "37",
                 "end": "68"
@@ -3494,6 +3576,7 @@
           "people": [
             {
               "name": "Galba",
+              "style": "roman",
               "timespan": {
                 "start": "3 BC",
                 "end": "69"
@@ -3511,6 +3594,7 @@
             },
             {
               "name": "Otho",
+              "style": "roman",
               "timespan": {
                 "start": "32",
                 "end": "69"
@@ -3528,6 +3612,7 @@
             },
             {
               "name": "Vitellius",
+              "style": "roman",
               "timespan": {
                 "start": "15",
                 "end": "69"
@@ -3568,6 +3653,7 @@
             },
             {
               "name": "Gnaeus Julius Agricola",
+              "style": "roman",
               "timespan": {
                 "start": "40",
                 "end": "93"
@@ -3585,6 +3671,7 @@
             },
             {
               "name": "Titus",
+              "style": "roman",
               "timespan": {
                 "start": "39",
                 "end": "81"
@@ -3603,6 +3690,7 @@
             },
             {
               "name": "Domitian",
+              "style": "roman",
               "timespan": {
                 "start": "51",
                 "end": "96"
@@ -3620,6 +3708,7 @@
             },
             {
               "name": "Tacitus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "56",
@@ -3630,6 +3719,7 @@
             },
             {
               "name": "Seutonius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "69",
@@ -3646,6 +3736,7 @@
           "people": [
             {
               "name": "Nerva",
+              "style": "roman",
               "timespan": {
                 "start": "27",
                 "end": "98"
@@ -3682,6 +3773,7 @@
             },
             {
               "name": "Pompeia Plotina",
+              "style": "roman",
               "timespan": {
                 "start": "60",
                 "end": "122"
@@ -3717,6 +3809,7 @@
             },
             {
               "name": "Antinous",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "111",
@@ -3763,6 +3856,7 @@
             },
             {
               "name": "Commodus",
+              "style": "roman",
               "timespan": {
                 "start": "161",
                 "end": "192"
@@ -3792,6 +3886,7 @@
           "people": [
             {
               "name": "Pertinax",
+              "style": "roman",
               "timespan": {
                 "start": "126",
                 "end": "193"
@@ -3810,6 +3905,7 @@
             },
             {
               "name": "Didus Julianus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "133",
@@ -3866,6 +3962,7 @@
             },
             {
               "name": "Caracalla",
+              "style": "roman",
               "timespan": {
                 "start": "188",
                 "end": "217"
@@ -3890,6 +3987,7 @@
             },
             {
               "name": "Geta",
+              "style": "roman",
               "timespan": {
                 "start": "189",
                 "end": "211"
@@ -3914,6 +4012,7 @@
             },
             {
               "name": "Macrinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "165",
@@ -3941,6 +4040,7 @@
             },
             {
               "name": "Elagabalus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "203",
@@ -3977,6 +4077,7 @@
             },
             {
               "name": "Cassius Dio",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "150",
@@ -3991,7 +4092,7 @@
           "people": [
             {
               "name": "Maximinus Thrax",
-              "style": "newMan",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": true,
                 "start": "173",
@@ -4010,6 +4111,7 @@
             },
             {
               "name": "Gordian I",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "159",
@@ -4028,6 +4130,7 @@
             },
             {
               "name": "Gordian II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "192",
@@ -4046,6 +4149,7 @@
             },
             {
               "name": "Pupienus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "178",
@@ -4064,6 +4168,7 @@
             },
             {
               "name": "Balbinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "165",
@@ -4082,6 +4187,7 @@
             },
             {
               "name": "Gordian III",
+              "style": "roman",
               "timespan": {
                 "start": "225",
                 "end": "244"
@@ -4099,7 +4205,7 @@
             },
             {
               "name": "Phillip the Arab",
-              "style": "newMan",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": true,
                 "start": "204",
@@ -4118,6 +4224,7 @@
             },
             {
               "name": "Decius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "201",
@@ -4136,6 +4243,7 @@
             },
             {
               "name": "Trebonianus Gallus",
+              "style": "roman",
               "timespan": {
                 "start": "206",
                 "end": "253"
@@ -4153,6 +4261,7 @@
             },
             {
               "name": "Aemilianus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "207",
@@ -4171,6 +4280,7 @@
             },
             {
               "name": "Valerian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "195",
@@ -4200,6 +4310,7 @@
             },
             {
               "name": "Gallienus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "218",
@@ -4225,6 +4336,7 @@
             },
             {
               "name": "Macrianus Major",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "210",
@@ -4245,6 +4357,7 @@
             },
             {
               "name": "Macrianus Minor",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "235",
@@ -4265,6 +4378,7 @@
             },
             {
               "name": "Quietus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "237",
@@ -4285,6 +4399,7 @@
             },
             {
               "name": "Postumus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "215",
@@ -4305,6 +4420,7 @@
             },
             {
               "name": "Claudius Gothicus",
+              "style": "roman",
               "timespan": {
                 "start": "213",
                 "end": "270"
@@ -4322,6 +4438,7 @@
             },
             {
               "name": "Quintillus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "220",
@@ -4361,6 +4478,7 @@
             },
             {
               "name": "Marcus Claudius Tacitus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "200",
@@ -4379,6 +4497,7 @@
             },
             {
               "name": "Marcus Aurelius Probus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "232",
@@ -4397,6 +4516,7 @@
             },
             {
               "name": "Carus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "224",
@@ -4415,6 +4535,7 @@
             },
             {
               "name": "Carinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "250",
@@ -4440,6 +4561,7 @@
             },
             {
               "name": "Numerian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "255",
@@ -4490,7 +4612,7 @@
             },
             {
               "name": "Maximian",
-              "style": "newMan",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": true,
                 "start": "250",
@@ -4509,6 +4631,7 @@
             },
             {
               "name": "Galerius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "260",
@@ -4534,6 +4657,7 @@
             },
             {
               "name": "Severus II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "260",
@@ -4559,6 +4683,7 @@
             },
             {
               "name": "Maxentius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "278",
@@ -4577,6 +4702,7 @@
             },
             {
               "name": "Maximinus II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "270",
@@ -4595,6 +4721,7 @@
             },
             {
               "name": "Licinius I",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "263",
@@ -4624,6 +4751,7 @@
           "people": [
             {
               "name": "Valentinian I",
+              "style": "roman",
               "timespan": {
                 "start": "321",
                 "end": "375"
@@ -4641,6 +4769,7 @@
             },
             {
               "name": "Valens",
+              "style": "roman",
               "timespan": {
                 "start": "328",
                 "end": "378"
@@ -4658,6 +4787,7 @@
             },
             {
               "name": "Gratian",
+              "style": "roman",
               "timespan": {
                 "start": "359",
                 "end": "383"
@@ -4682,6 +4812,7 @@
             },
             {
               "name": "Valentinian II",
+              "style": "roman",
               "timespan": {
                 "start": "371",
                 "end": "392"
@@ -4704,6 +4835,7 @@
           "people": [
             {
               "name": "Count Theodosius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "320",
@@ -4722,6 +4854,7 @@
             },
             {
               "name": "Theodosius I",
+              "style": "roman",
               "timespan": {
                 "start": "347",
                 "end": "395"
@@ -4739,6 +4872,7 @@
             },
             {
               "name": "Stilicho",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "359",
@@ -4757,6 +4891,7 @@
             },
             {
               "name": "Arcadius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "377",
@@ -4782,6 +4917,7 @@
             },
             {
               "name": "Pulcheria",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "398",
@@ -4800,6 +4936,7 @@
             },
             {
               "name": "Theodosius II",
+              "style": "roman",
               "timespan": {
                 "start": "401",
                 "end": "450"
@@ -4824,6 +4961,7 @@
             },
             {
               "name": "Honorius",
+              "style": "roman",
               "timespan": {
                 "start": "384",
                 "end": "423"
@@ -4848,6 +4986,7 @@
             },
             {
               "name": "Galla Placidia",
+              "style": "roman",
               "timespan": {
                 "start": "395",
                 "end": "450"
@@ -4872,6 +5011,7 @@
             },
             {
               "name": "Constantius III",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "370",
@@ -4918,6 +5058,7 @@
             },
             {
               "name": "Joannes",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "370",
@@ -4936,6 +5077,7 @@
             },
             {
               "name": "Bonifacius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "380",
@@ -4961,6 +5103,7 @@
             },
             {
               "name": "Flavius Aetius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "396",
@@ -4979,6 +5122,7 @@
             },
             {
               "name": "Valentinian III",
+              "style": "roman",
               "timespan": {
                 "start": "419",
                 "end": "455"
@@ -5027,6 +5171,7 @@
           "people": [
             {
               "name": "Ricimer",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "405",
@@ -5045,6 +5190,7 @@
             },
             {
               "name": "Petronius Maximus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "396",
@@ -5063,6 +5209,7 @@
             },
             {
               "name": "Avitus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "380",
@@ -5082,6 +5229,7 @@
             },
             {
               "name": "Majorian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
@@ -5100,6 +5248,7 @@
             },
             {
               "name": "Libius Severus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
@@ -5118,6 +5267,7 @@
             },
             {
               "name": "Anthemius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
@@ -5136,6 +5286,7 @@
             },
             {
               "name": "Olybrius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
@@ -5154,6 +5305,7 @@
             },
             {
               "name": "Glycerius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
@@ -5173,6 +5325,7 @@
             },
             {
               "name": "Julius Nepos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "430",
@@ -5191,6 +5344,7 @@
             },
             {
               "name": "Romulus Augustulus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "460",

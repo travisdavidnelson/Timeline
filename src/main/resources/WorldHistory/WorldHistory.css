@@ -86,7 +86,8 @@
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
-.roman {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+.roman {fill:#718d99; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.romanNewMan {fill:#718d99; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .achaemenid {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .amorite {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .assyrian {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
@@ -107,7 +108,6 @@
 .phoenician {fill:orange; stroke:black; stroke-width:0.4; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
 .sumerian {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .ur {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
-.newMan {fill:#f8df6c; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
 .sanctified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
 .barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
@@ -118,6 +118,7 @@
 .democrat {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .whig {fill:white; stroke:black; stroke-width:0.1; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
 .republican {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.human {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 
 .fate {fill-opacity:0.0}
 

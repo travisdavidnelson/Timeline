@@ -564,6 +564,7 @@
           "people": [
             {
               "name": "Constantius I Chlorus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "250",
@@ -626,6 +627,7 @@
             },
             {
               "name": "Crispus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "299",
@@ -644,6 +646,7 @@
             },
             {
               "name": "Constantine II",
+              "style": "roman",
               "timespan": {
                 "start": "316",
                 "end": "340"
@@ -668,6 +671,7 @@
             },
             {
               "name": "Constantius II",
+              "style": "roman",
               "timespan": {
                 "start": "317",
                 "end": "361"
@@ -692,6 +696,7 @@
             },
             {
               "name": "Constans",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "320",
@@ -710,6 +715,7 @@
             },
             {
               "name": "Flavius Dalmatius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "276",
@@ -728,6 +734,7 @@
             },
             {
               "name": "Dalmatius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "300",
@@ -746,6 +753,7 @@
             },
             {
               "name": "Hannibalianus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "305",
@@ -755,6 +763,7 @@
             },
             {
               "name": "Julius Constantius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "289",
@@ -773,6 +782,7 @@
             },
             {
               "name": "Constantius Gallus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "325",
@@ -791,6 +801,7 @@
             },
             {
               "name": "Julian The Apostate",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "331",
@@ -816,6 +827,7 @@
             },
             {
               "name": "Jovian",
+              "style": "roman",
               "timespan": {
                 "start": "331",
                 "end": "364"
@@ -833,6 +845,7 @@
             },
             {
               "name": "Procopius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "325",
@@ -851,6 +864,7 @@
             },
             {
               "name": "Ammianus Marcellinus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "325",
@@ -908,6 +922,7 @@
             },
             {
               "name": "Leo II the Little",
+              "style": "roman",
               "timespan": {
                 "start": "467",
                 "end": "474"
@@ -925,6 +940,7 @@
             },
             {
               "name": "Zeno",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "425",
@@ -943,6 +959,7 @@
             },
             {
               "name": "Basiliscus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "435",
@@ -968,6 +985,7 @@
             },
             {
               "name": "Anastasius I Dicorus",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "430",
@@ -991,6 +1009,7 @@
           "people": [
             {
               "name": "Justin I",
+              "style": "roman",
               "timespan": {
                 "start": "450",
                 "end": "527"
@@ -1041,6 +1060,7 @@
             },
             {
               "name": "Theodora I",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "500",
@@ -1059,6 +1079,7 @@
             },
             {
               "name": "Narses",
+              "style": "roman",
               "timespan": {
                 "start": "478",
                 "end": "573"
@@ -1076,6 +1097,7 @@
             },
             {
               "name": "Belisarius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "500",
@@ -1101,6 +1123,7 @@
             },
             {
               "name": "Procopius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "500",
@@ -1111,6 +1134,7 @@
             },
             {
               "name": "Justin II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "520",
@@ -1129,6 +1153,7 @@
             },
             {
               "name": "Tiberius II Constantine",
+              "style": "roman",
               "timespan": {
                 "start": "520",
                 "end": "582"
@@ -1146,6 +1171,7 @@
             },
             {
               "name": "Maurice",
+              "style": "roman",
               "timespan": {
                 "start": "539",
                 "end": "602"
@@ -1168,6 +1194,7 @@
           "people": [
             {
               "name": "Phocas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "550",
@@ -1191,6 +1218,7 @@
           "people": [
             {
               "name": "Heraclius",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "575",
@@ -1209,6 +1237,7 @@
             },
             {
               "name": "Constantine III",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "612",
@@ -1227,6 +1256,7 @@
             },
             {
               "name": "Heraklonas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "626",
@@ -1245,6 +1275,7 @@
             },
             {
               "name": "Constans II",
+              "style": "roman",
               "timespan": {
                 "start": "630",
                 "end": "668"
@@ -1262,6 +1293,7 @@
             },
             {
               "name": "Constantine IV",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "652",
@@ -1280,6 +1312,7 @@
             },
             {
               "name": "Justinian II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "669",
@@ -1310,6 +1343,7 @@
           "people": [
             {
               "name": "Leontios",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "655",
@@ -1328,6 +1362,7 @@
             },
             {
               "name": "Tiberios III",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "660",
@@ -1346,6 +1381,7 @@
             },
             {
               "name": "Philippikos Bardanes",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "665",
@@ -1364,6 +1400,7 @@
             },
             {
               "name": "Anastasios II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "670",
@@ -1382,6 +1419,7 @@
             },
             {
               "name": "Theodosios III",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "680",
@@ -1411,6 +1449,7 @@
           "people": [
             {
               "name": "Leo III the Isaurian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "685",
@@ -1429,6 +1468,7 @@
             },
             {
               "name": "Artabasdos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "690",
@@ -1448,6 +1488,7 @@
             },
             {
               "name": "Constantine V",
+              "style": "roman",
               "timespan": {
                 "start": "718",
                 "end": "775"
@@ -1465,6 +1506,7 @@
             },
             {
               "name": "Leo IV the Khazar",
+              "style": "roman",
               "timespan": {
                 "start": "750",
                 "end": "780"
@@ -1482,6 +1524,7 @@
             },
             {
               "name": "Irene of Athens",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "753",
@@ -1500,6 +1543,7 @@
             },
             {
               "name": "Constantine VI",
+              "style": "roman",
               "timespan": {
                 "start": "771",
                 "endApproximate": true,
@@ -1523,6 +1567,7 @@
           "people": [
             {
               "name": "Nikephoros I",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "750",
@@ -1541,6 +1586,7 @@
             },
             {
               "name": "Staurakios",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "775",
@@ -1559,6 +1605,7 @@
             },
             {
               "name": "Michael I Rangabe",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "770",
@@ -1582,6 +1629,7 @@
           "people": [
             {
               "name": "Leo V the Armenian",
+              "style": "roman",
               "timespan": {
                 "start": "775",
                 "end": "820"
@@ -1604,6 +1652,7 @@
           "people": [
             {
               "name": "Michael II the Amorian",
+              "style": "roman",
               "timespan": {
                 "start": "770",
                 "end": "829"
@@ -1621,6 +1670,7 @@
             },
             {
               "name": "Theophilos",
+              "style": "roman",
               "timespan": {
                 "start": "813",
                 "end": "842"
@@ -1638,6 +1688,7 @@
             },
             {
               "name": "Michael III",
+              "style": "roman",
               "timespan": {
                 "start": "840",
                 "end": "867"
@@ -1660,6 +1711,7 @@
           "people": [
             {
               "name": "Basil I the Macedonian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "811",
@@ -1678,6 +1730,7 @@
             },
             {
               "name": "Leo VI the Wise",
+              "style": "roman",
               "timespan": {
                 "start": "866",
                 "end": "912"
@@ -1695,6 +1748,7 @@
             },
             {
               "name": "Alexander (Byzantine emperor)",
+              "style": "roman",
               "timespan": {
                 "start": "866",
                 "end": "913"
@@ -1712,6 +1766,7 @@
             },
             {
               "name": "Constantine VII",
+              "style": "roman",
               "timespan": {
                 "start": "905",
                 "end": "959"
@@ -1750,6 +1805,7 @@
             },
             {
               "name": "Romanos I Lekapenos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "870",
@@ -1768,6 +1824,7 @@
             },
             {
               "name": "Romanos II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "938",
@@ -1786,6 +1843,7 @@
             },
             {
               "name": "Nikephoros II Phokas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "912",
@@ -1804,6 +1862,7 @@
             },
             {
               "name": "John I Tzimiskes",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "925",
@@ -1822,6 +1881,7 @@
             },
             {
               "name": "Basil II",
+              "style": "roman",
               "timespan": {
                 "start": "958",
                 "end": "1025"
@@ -1839,6 +1899,7 @@
             },
             {
               "name": "Constantine VIII",
+              "style": "roman",
               "timespan": {
                 "start": "960",
                 "end": "1028"
@@ -1856,6 +1917,7 @@
             },
             {
               "name": "Zoe Porphyrogenita",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "978",
@@ -1874,6 +1936,7 @@
             },
             {
               "name": "Romanos III Argyros",
+              "style": "roman",
               "timespan": {
                 "start": "968",
                 "end": "1034"
@@ -1891,6 +1954,7 @@
             },
             {
               "name": "Michael IV the Paphlagonian",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1010",
@@ -1909,6 +1973,7 @@
             },
             {
               "name": "Michael V Kalaphates",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1015",
@@ -1927,6 +1992,7 @@
             },
             {
               "name": "Theodora",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "980",
@@ -1945,6 +2011,7 @@
             },
             {
               "name": "Constantine IX Monomachos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1000",
@@ -1968,6 +2035,7 @@
           "people": [
             {
               "name": "Michael VI Bringas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "990",
@@ -1997,6 +2065,7 @@
           "people": [
             {
               "name": "Isaac I Komnenos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1007",
@@ -2016,6 +2085,7 @@
             },
             {
               "name": "Constantine X Doukas",
+              "style": "roman",
               "timespan": {
                 "start": "1006",
                 "end": "1067"
@@ -2033,6 +2103,7 @@
             },
             {
               "name": "Michael VII Doukas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1050",
@@ -2058,6 +2129,7 @@
             },
             {
               "name": "Romanos IV Diogenes",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1030",
@@ -2076,6 +2148,7 @@
             },
             {
               "name": "Nikephoros III Botaneiates",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1002",
@@ -2094,6 +2167,7 @@
             },
             {
               "name": "Alexios I Komnenos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1048",
@@ -2112,6 +2186,7 @@
             },
             {
               "name": "John II Komnenos",
+              "style": "roman",
               "timespan": {
                 "start": "1087",
                 "end": "1143"
@@ -2129,6 +2204,7 @@
             },
             {
               "name": "Manuel I Komnenos",
+              "style": "roman",
               "timespan": {
                 "start": "1118",
                 "end": "1180"
@@ -2146,6 +2222,7 @@
             },
             {
               "name": "Alexios II Komnenos",
+              "style": "roman",
               "timespan": {
                 "start": "1169",
                 "end": "1183"
@@ -2163,6 +2240,7 @@
             },
             {
               "name": "Andronikos I Komnenos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1118",
@@ -2186,6 +2264,7 @@
           "people": [
             {
               "name": "Isaac II Angelos",
+              "style": "roman",
               "timespan": {
                 "start": "1156",
                 "end": "1204"
@@ -2210,6 +2289,7 @@
             },
             {
               "name": "Alexios III Angelos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1153",
@@ -2235,6 +2315,7 @@
             },
             {
               "name": "Alexios IV Angelos",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1182",
@@ -2253,6 +2334,7 @@
             },
             {
               "name": "Alexios V Doukas",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1140",
@@ -2276,6 +2358,7 @@
           "people": [
             {
               "name": "Baldwin I",
+              "style": "roman",
               "timespan": {
                 "start": "1172",
                 "endApproximate": true,
@@ -2295,6 +2378,7 @@
             },
             {
               "name": "Henry of Flanders",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1174",
@@ -2313,6 +2397,7 @@
             },
             {
               "name": "Peter II of Courtenay",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1155",
@@ -2331,6 +2416,7 @@
             },
             {
               "name": "Yolanda of Flanders",
+              "style": "roman",
               "timespan": {
                 "start": "1175",
                 "end": "1219"
@@ -2348,6 +2434,7 @@
             },
             {
               "name": "Robert of Courtenay",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1180",
@@ -2366,6 +2453,7 @@
             },
             {
               "name": "John of Brienne",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1155",
@@ -2384,6 +2472,7 @@
             },
             {
               "name": "Baldwin II",
+              "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "1217",
@@ -2407,6 +2496,7 @@
           "people": [
             {
               "name": "Michael VIII Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1223",
                 "end": "1283"
@@ -2424,6 +2514,7 @@
             },
             {
               "name": "Andronikos II Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1259",
                 "end": "1332"
@@ -2441,6 +2532,7 @@
             },
             {
               "name": "Andronikos III Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1297",
                 "end": "1341"
@@ -2458,6 +2550,7 @@
             },
             {
               "name": "John V Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1332",
                 "end": "1391"
@@ -2482,6 +2575,7 @@
             },
             {
               "name": "John VI Kantakouzenos",
+              "style": "roman",
               "timespan": {
                 "start": "1292",
                 "end": "1383"
@@ -2499,6 +2593,7 @@
             },
             {
               "name": "Andronikos IV Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1348",
                 "end": "1385"
@@ -2516,6 +2611,7 @@
             },
             {
               "name": "John VII Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1370",
                 "end": "1408"
@@ -2533,6 +2629,7 @@
             },
             {
               "name": "Manuel II Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1350",
                 "end": "1425"
@@ -2550,6 +2647,7 @@
             },
             {
               "name": "John VIII Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1392",
                 "end": "1448"
@@ -2567,6 +2665,7 @@
             },
             {
               "name": "Constantine XI Palaiologos",
+              "style": "roman",
               "timespan": {
                 "start": "1404",
                 "end": "1453"
