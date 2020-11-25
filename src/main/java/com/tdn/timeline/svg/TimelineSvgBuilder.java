@@ -77,7 +77,19 @@ public class TimelineSvgBuilder {
 		approximateYearPersonAdjustment = timeline.getConfig().getApproximateYearPersonAdjustment();
 		approximateYearTitleAdjustment = timeline.getConfig().getApproximateYearTitleAdjustment();
 	}
-	
+
+	public String toSvgObject() {
+		StringBuilder result = new StringBuilder();
+		result.append("<object type=\"image/svg+xml\" data=\"./");
+		result.append(timeline.getId());
+		result.append(".svg\" width=\"");
+		result.append(width);
+		result.append("px\" height=\"");
+		result.append(yMax);
+		result.append("px\">");
+		return result.toString();
+	}
+
 	public String toSVG() {
 		if (svg == null) {
 			StringBuilder foregroundStringBuilder = new StringBuilder();
@@ -165,8 +177,10 @@ public class TimelineSvgBuilder {
 			StringBuilder result = new StringBuilder();
 			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./");
 			result.append(timeline.getId());
-			result.append(".css\" ?>");
-			result.append("	<svg x=\"0px\" y=\"0px\" width=\"");
+			result.append(".css\" ?>\n");
+			result.append("<svg ");
+			result.append("xmlns=\"http://www.w3.org/2000/svg\"\n");
+			result.append("xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"");
 			result.append(width);
 			result.append("px\" height=\""+yMax+"px\" viewBox=\"0 0 ");
 			result.append(width);
@@ -502,7 +516,7 @@ public class TimelineSvgBuilder {
 		result.append(".css\"/>");
 		result.append("</head>\n");
 		result.append("<body>\n");
-		result.append(toSVG());
+		result.append(toSvgObject());
 		result.append("</body>\n");
 		result.append("</html>\n ");
 		return result.toString();
@@ -606,10 +620,10 @@ public class TimelineSvgBuilder {
 		result.append(height);
 		result.append("\" class=\""+styleClass+"\"");
 		if (styleOverride != null) {
-			result.append("\" style=\""+styleOverride+"\"");
+			result.append(" style=\""+styleOverride+"\"");
 		}
 		if (maskName != null) {
-			result.append("\"  mask=\"url(#"+maskName+")\"");
+			result.append("  mask=\"url(#"+maskName+")\"");
 		}
 		result.append("/>");
 		return result.toString();
