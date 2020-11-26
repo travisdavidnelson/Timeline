@@ -62,7 +62,8 @@
 .backgroundCivilWarRegional {fill:#C00000; fill-opacity:0.3}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
 .backgroundDarkAge {fill:black; fill-opacity:0.5}
-.backgroundInvasion {fill:#4C0000; fill-opacity:0.6}
+.backgroundInvasion {fill:red; fill-opacity:0.6}
+.backgroundOccupation {fill:#4C0000; fill-opacity:0.3}
 .backgroundForeignWar {fill:red; fill-opacity:0.4}
 .backgroundForeignWarDefeat {fill:red; fill-opacity:0.6}
 .backgroundForeignWarMinor {fill:brown; fill-opacity:0.2}
