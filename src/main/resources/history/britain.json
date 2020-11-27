@@ -22,6 +22,16 @@
       "style": "ironAge"
     },
     {
+      "name": "Celtic Britain",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "200 BC",
+        "endApproximate": "true",
+        "end": "100"
+      },
+      "style": "celt"
+    },
+    {
       "name": "Caesar invades Britain",
       "timespan": {
         "start": "8/55 BC",
@@ -70,20 +80,22 @@
       "style": "romanPrincipate"
     },
     {
-      "name": "Crisis of the Third Century",
-      "timespan": {
-        "start": "235",
-        "end": "284"
-      },
-      "style": "romanCrisis"
-    },
-    {
       "name": "Roman Dominate",
       "timespan": {
-        "start": "284",
+        "start": "235",
         "end": "410"
       },
       "style": "romanDominate"
+    },
+    {
+      "name": "Christian Roman Remnant",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "410 BC",
+        "endApproximate": "true",
+        "end": "550"
+      },
+      "style": "celt"
     },
     {
       "name": "Carausius Breakaway",
@@ -129,17 +141,37 @@
       "name": "Anglo-Saxon invasion",
       "timespan": {
         "startApproximate": true,
-        "start": "410",
+        "start": "424",
         "endApproximate": true,
-        "end": "460"
+        "end": "434"
       },
       "style": "backgroundInvasion"
+    },
+    {
+      "name": "Anglo-Saxon invasion",
+      "timespan": {
+        "startApproximate": true,
+        "start": "440",
+        "endApproximate": true,
+        "end": "444"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Mount Badon",
+      "timespan": {
+        "startApproximate": true,
+        "start": "490",
+        "endApproximate": true,
+        "end": "503"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "460",
+        "start": "510",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -171,6 +203,31 @@
                     "startApproximate": "true",
                     "start": "60 BC",
                     "end": "12/54 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Britons",
+      "dynasties": [
+        {
+          "name": "Britons",
+          "people": [
+            {
+              "name": "Arthur",
+              "style": "briton",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "480",
+                    "end": "510"
                   }
                 }
               ]
