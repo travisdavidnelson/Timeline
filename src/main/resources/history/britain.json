@@ -2,6 +2,26 @@
   "name": "Britain",
   "backgroundEvents": [
     {
+      "name": "Bronze Age",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "4000 BC",
+        "endApproximate": "true",
+        "end": "400 BC"
+      },
+      "style": "bronzeAge"
+    },
+    {
+      "name": "Iron Age",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "400 BC",
+        "endApproximate": "true",
+        "end": "100"
+      },
+      "style": "ironAge"
+    },
+    {
       "name": "Caesar invades Britain",
       "timespan": {
         "start": "8/55 BC",
@@ -61,10 +81,49 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "410",
-        "endApproximate": true
+        "end": "410"
       },
       "style": "romanDominate"
+    },
+    {
+      "name": "Carausius Breakaway",
+      "timespan": {
+        "start": "287",
+        "end": "293"
+      },
+      "style": "romanBreakaway"
+    },
+    {
+      "name": "Pict invasion",
+      "timespan": {
+        "start": "292",
+        "end": "294"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Pict Scot and Saxon invasion",
+      "timespan": {
+        "start": "367",
+        "end": "370"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Magnus Maximus Breakaway",
+      "timespan": {
+        "start": "383",
+        "end": "388"
+      },
+      "style": "romanBreakaway"
+    },
+    {
+      "name": "Pict invasion",
+      "timespan": {
+        "start": "388",
+        "end": "395"
+      },
+      "style": "backgroundInvasion"
     },
     {
       "name": "Anglo-Saxon invasion",
@@ -95,6 +154,31 @@
     }
   ],
   "dynastyGroups": [
+    {
+      "name": "Celts",
+      "dynasties": [
+        {
+          "name": "Britons",
+          "people": [
+            {
+              "name": "Cassivellaunus",
+              "style": "briton",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "60 BC",
+                    "end": "12/54 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Anglo-Saxons",
       "dynasties": [

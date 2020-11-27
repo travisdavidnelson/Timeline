@@ -40,7 +40,8 @@
 .romanRepublic {fill:blue;fill-opacity:0.2}
 .romanPrincipate {fill:purple;fill-opacity:0.3}
 .romanCrisis {fill:grey;fill-opacity:0.6}
-.romanDominate {fill:purple;fill-opacity:0.2}
+.romanDominate {fill:purple;fill-opacity:0.3}
+.romanBreakaway {fill:purple;fill-opacity:0.2}
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
 .phoenicia {fill:orange;fill-opacity:0.6}
@@ -93,6 +94,7 @@
 .amorite {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .assyrian {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
 .babylonian {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
+.briton {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .gutian {fill:brown; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .egyptian {fill:gold; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .elamite {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
