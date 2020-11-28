@@ -171,6 +171,15 @@
       "timespan": {
         "startApproximate": true,
         "start": "490",
+        "Approximate": true,
+        "end": "12/25/597"
+      },
+      "style": "angloSaxonHeathen"
+    },
+    {
+      "name": "Anglo-Saxon",
+      "timespan": {
+        "start": "12/25/597",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -300,12 +309,19 @@
           "backgroundEvents": [
             {
               "name": "Kent Saxons",
-              "style": "angloSaxon",
+              "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
                 "start": "449",
-                "endApproximate": "true",
-                "end": "620"
+                "end": "12/25/597"
+              }
+            },
+            {
+              "name": "Kent Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "start": "12/25/597",
+                "end": "650"
               }
             }
           ],
@@ -480,7 +496,7 @@
           "backgroundEvents": [
             {
               "name": "Portsmouth Saxons",
-              "style": "angloSaxon",
+              "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
                 "start": "501",
@@ -492,7 +508,7 @@
           "people": [
             {
               "name": "Port",
-              "style": "angloSaxon",
+              "style": "angloSaxonHeathen",
               "importance": "minor",
               "titles": [
                 {
@@ -513,7 +529,7 @@
           "backgroundEvents": [
             {
               "name": "West Saxons",
-              "style": "angloSaxon",
+              "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
                 "start": "514",
@@ -562,7 +578,7 @@
           "backgroundEvents": [
             {
               "name": "Northumbria Saxons",
-              "style": "angloSaxon",
+              "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
                 "start": "547",
