@@ -43,14 +43,6 @@
       "style": "romanDominate"
     },
     {
-      "name": "Byzantium",
-      "timespan": {
-        "start": "476",
-        "end": "1453"
-      },
-      "style": "byzantium"
-    },
-    {
       "name": "First Samnite War",
       "timespan": {
         "start": "343 BC",
