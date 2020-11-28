@@ -316,6 +316,15 @@
               "importance": "minor",
               "titles": [
                 {
+                  "name": "mercenary",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "440",
+                    "endApproximate": "true",
+                    "end": "449"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
@@ -327,17 +336,17 @@
               ]
             },
             {
-              "name": "Horst",
+              "name": "Horsa",
               "style": "angloSaxon",
               "importance": "petty",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "mercenary",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "459",
+                    "start": "440",
                     "endApproximate": "true",
-                    "end": "469"
+                    "end": "449"
                   }
                 }
               ]
@@ -386,6 +395,80 @@
                     "start": "498",
                     "endApproximate": "true",
                     "end": "510"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Octa",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "500",
+                    "endApproximate": "true",
+                    "end": "543"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eormenric",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "543",
+                    "endApproximate": "true",
+                    "end": "589"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelberht",
+              "style": "angloSaxon",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "550",
+                "end": "2/24/616"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "589",
+                    "end": "2/24/616"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "St Bertha",
+              "style": "sanctified",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "564",
+                "endApproximate": "true",
+                "end": "601"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "580",
+                    "endApproximate": "true",
+                    "end": "601"
                   }
                 }
               ]
