@@ -92,7 +92,7 @@
       "timespan": {
         "start": "410",
         "endApproximate": "true",
-        "end": "520"
+        "end": "540"
       },
       "style": "briton"
     },
@@ -170,7 +170,7 @@
       "name": "Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "490",
+        "start": "540",
         "Approximate": true,
         "end": "12/25/597"
       },
@@ -312,7 +312,7 @@
               "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
-                "start": "449",
+                "start": "440",
                 "end": "12/25/597"
               }
             },
