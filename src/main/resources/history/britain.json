@@ -222,7 +222,7 @@
               "timespan": {
                 "start": "410",
                 "endApproximate": "true",
-                "end": "530"
+                "end": "550"
               }
             },
             {
@@ -285,7 +285,7 @@
                 "startApproximate": "true",
                 "start": "449",
                 "endApproximate": "true",
-                "end": "600"
+                "end": "620"
               }
             }
           ],
@@ -382,7 +382,7 @@
                 "startApproximate": "true",
                 "start": "501",
                 "endApproximate": "true",
-                "end": "600"
+                "end": "620"
               }
             }
           ],
@@ -464,7 +464,7 @@
                 "startApproximate": "true",
                 "start": "547",
                 "endApproximate": "true",
-                "end": "600"
+                "end": "620"
               }
             }
           ],
