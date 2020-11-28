@@ -207,6 +207,26 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Britons",
+          "people": [
+            {
+              "name": "Boudica",
+              "style": "briton",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "55",
+                    "end": "12/61"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },

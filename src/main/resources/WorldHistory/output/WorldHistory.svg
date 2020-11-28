@@ -10685,7 +10685,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="15802" y="9289" class="semimajor">CASSIVELLAUNUS</text><title>Cassivellaunus (60 BC - 12/54 BC)</title></a></g>
 
-<text x="15800" y="9260" class="dynasty">BRITONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Arthur" target="_blank"><rect id="Arthur" x="18495" y="9270" width="175" height="40" class="briton"/><g><rect x="18485" y="9270" width="195" height="40" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 480 - c. 515)</title></g>
+<text x="15800" y="9260" class="dynasty">BRITONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Boudica" target="_blank"><rect id="Boudica" x="16370" y="9377" width="35" height="40" class="briton"/><g><rect x="16360" y="9377" width="45" height="40" class="queen"  mask="url(#fadeInMask)"/><title>queen (c. 55 - 12/61)</title></g>
+
+<text x="16373" y="9407" class="major">BOUDICA</text><title>Boudica (55 - 12/61)</title></a></g>
+
+<text x="16370" y="9367" class="dynasty">BRITONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Arthur" target="_blank"><rect id="Arthur" x="18495" y="9270" width="175" height="40" class="briton"/><g><rect x="18485" y="9270" width="195" height="40" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 480 - c. 515)</title></g>
 
 <text x="18498" y="9300" class="major">ARTHUR</text><title>Arthur (480 - 515)</title></a></g>
 
