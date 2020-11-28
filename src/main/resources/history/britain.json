@@ -90,12 +90,11 @@
     {
       "name": "Christian Roman Remnant",
       "timespan": {
-        "startApproximate": "true",
-        "start": "410 BC",
+        "start": "410",
         "endApproximate": "true",
-        "end": "550"
+        "end": "510"
       },
-      "style": "celt"
+      "style": "briton"
     },
     {
       "name": "Carausius Breakaway",
@@ -171,7 +170,7 @@
       "name": "Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "510",
+        "start": "500",
         "end": "1066"
       },
       "style": "angloSaxon"
