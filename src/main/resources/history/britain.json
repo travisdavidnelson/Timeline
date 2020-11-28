@@ -287,6 +287,22 @@
           ],
           "people": [
             {
+              "name": "Vortigern",
+              "style": "briton",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "430",
+                    "endApproximate": "true",
+                    "end": "450"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Arthur",
               "style": "briton",
               "importance": "major",
@@ -315,6 +331,16 @@
                 "start": "440",
                 "end": "12/25/597"
               }
+            },
+            {
+              "name": "Mount Badon",
+              "timespan": {
+                "startApproximate": true,
+                "start": "490",
+                "endApproximate": true,
+                "end": "503"
+              },
+              "style": "backgroundBattle"
             },
             {
               "name": "Kent Saxons",
