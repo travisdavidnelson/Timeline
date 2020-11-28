@@ -92,7 +92,7 @@
       "timespan": {
         "start": "410",
         "endApproximate": "true",
-        "end": "510"
+        "end": "520"
       },
       "style": "briton"
     },
@@ -170,7 +170,7 @@
       "name": "Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "500",
+        "start": "490",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -215,6 +215,47 @@
       "dynasties": [
         {
           "name": "Britons",
+          "backgroundEvents": [
+            {
+              "name": "Roman British Remnants",
+              "style": "briton",
+              "timespan": {
+                "start": "410",
+                "endApproximate": "true",
+                "end": "530"
+              }
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "424",
+                "endApproximate": true,
+                "end": "434"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "440",
+                "endApproximate": true,
+                "end": "444"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Mount Badon",
+              "timespan": {
+                "startApproximate": true,
+                "start": "490",
+                "endApproximate": true,
+                "end": "503"
+              },
+              "style": "backgroundBattle"
+            }
+          ],
           "people": [
             {
               "name": "Arthur",
@@ -226,7 +267,220 @@
                   "timespan": {
                     "startApproximate": "true",
                     "start": "480",
+                    "endApproximate": "true",
+                    "end": "515"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kent Saxons",
+          "backgroundEvents": [
+            {
+              "name": "Kent Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "449",
+                "endApproximate": "true",
+                "end": "600"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Hengist",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "449",
+                    "endApproximate": "true",
+                    "end": "459"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Horst",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "459",
+                    "endApproximate": "true",
+                    "end": "469"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ella",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "477",
+                    "endApproximate": "true",
+                    "end": "495"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cedric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "495",
+                    "endApproximate": "true",
+                    "end": "498"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cynric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "498",
+                    "endApproximate": "true",
                     "end": "510"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Portsmouth Saxons",
+          "backgroundEvents": [
+            {
+              "name": "Portsmouth Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "501",
+                "endApproximate": "true",
+                "end": "600"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Port",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "501",
+                    "endApproximate": "true",
+                    "end": "510"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "West Saxons",
+          "backgroundEvents": [
+            {
+              "name": "West Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "514",
+                "endApproximate": "true",
+                "end": "600"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Stuf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "514",
+                    "endApproximate": "true",
+                    "end": "520"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Withgar",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "520",
+                    "endApproximate": "true",
+                    "end": "544"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Northumbria",
+          "backgroundEvents": [
+            {
+              "name": "Northumbria Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "547",
+                "endApproximate": "true",
+                "end": "600"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Ida",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "547",
+                    "endApproximate": "true",
+                    "end": "560"
                   }
                 }
               ]
