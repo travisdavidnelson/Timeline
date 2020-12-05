@@ -10746,7 +10746,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="20338" y="9300" class="major">ALFRED THE GREAT</text><title>Alfred the Great (848 - 10/26/899)</title></a></g>
 
-<text x="20451" y="9260" class="dynasty">ANGLO-SAXONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/William_I" target="_blank"><rect id="William_I" x="21185" y="9270" width="348" height="50" class="norman"  mask="url(#fadeInMask)"/><g><rect x="21272" y="9270" width="261" height="50" class="duke"/><title>duke (7/3/1035 - 9/9/1087)</title></g>
+<text x="20451" y="9260" class="dynasty">ANGLO-SAXONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cnut" target="_blank"><rect id="Cnut" x="21175" y="9392" width="99" height="40" class="viking"/><g><rect x="21175" y="9392" width="99" height="40" class="king"/><title>king (1016 - 11/12/1035)</title></g>
+
+<text x="21178" y="9422" class="major">CNUT</text><title>Cnut (1016 - 11/12/1035)</title></a></g>
+
+<text x="21175" y="9382" class="dynasty">ANGLO-SAXONS</text><g><a xlink:href="http://en.wikipedia.org/wiki/William_I" target="_blank"><rect id="William_I" x="21185" y="9270" width="348" height="50" class="norman"  mask="url(#fadeInMask)"/><g><rect x="21272" y="9270" width="261" height="50" class="duke"/><title>duke (7/3/1035 - 9/9/1087)</title></g>
 <g><rect x="21429" y="9270" width="104" height="50" class="king"/><title>king (12/25/1066 - 9/9/1087)</title></g>
 
 <text x="21197" y="9310" class="transformational">WILLIAM I</text><title>William I (c. 1028 - 9/9/1087)</title></a></g>

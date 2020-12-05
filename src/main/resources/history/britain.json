@@ -635,7 +635,7 @@
       ]
     },
     {
-      "name": "Anglo-Saxons",
+      "name": "Anglo-Saxons / Viking",
       "dynasties": [
         {
           "name": "Anglo-Saxons",
@@ -654,6 +654,25 @@
                   "timespan": {
                     "start": "4/871",
                     "end": "10/26/899"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anglo-Saxons",
+          "people": [
+            {
+              "name": "Cnut",
+              "style": "viking",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1016",
+                    "end": "11/12/1035"
                   }
                 }
               ]
