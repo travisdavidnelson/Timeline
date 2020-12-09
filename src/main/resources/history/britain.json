@@ -171,15 +171,16 @@
       "timespan": {
         "startApproximate": true,
         "start": "545",
-        "Approximate": true,
-        "end": "12/25/597"
+        "endApproximate": true,
+        "end": "650"
       },
       "style": "angloSaxonHeathen"
     },
     {
       "name": "Anglo-Saxon",
       "timespan": {
-        "start": "12/25/597",
+        "startApproximate": true,
+        "start": "625",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -360,6 +361,14 @@
               }
             },
             {
+              "name": "Kent Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "start": "12/25/597",
+                "end": "800"
+              }
+            },
+            {
               "name": "Battle of Mons Badonicus",
               "timespan": {
                 "startApproximate": true,
@@ -368,14 +377,6 @@
                 "end": "497"
               },
               "style": "backgroundBattle"
-            },
-            {
-              "name": "Kent Saxons",
-              "style": "angloSaxon",
-              "timespan": {
-                "start": "12/25/597",
-                "end": "650"
-              }
             }
           ],
           "people": [
