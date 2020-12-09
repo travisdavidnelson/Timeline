@@ -92,7 +92,7 @@
       "timespan": {
         "start": "410",
         "endApproximate": "true",
-        "end": "540"
+        "end": "550"
       },
       "style": "briton"
     },
@@ -157,12 +157,12 @@
       "style": "backgroundNationalCalamity"
     },
     {
-      "name": "Mount Badon",
+      "name": "Battle of Mons Badonicus",
       "timespan": {
         "startApproximate": true,
-        "start": "490",
+        "start": "495",
         "endApproximate": true,
-        "end": "503"
+        "end": "497"
       },
       "style": "backgroundBattle"
     },
@@ -170,7 +170,7 @@
       "name": "Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "540",
+        "start": "545",
         "Approximate": true,
         "end": "12/25/597"
       },
@@ -251,7 +251,7 @@
               "timespan": {
                 "start": "410",
                 "endApproximate": "true",
-                "end": "550"
+                "end": "565"
               }
             },
             {
@@ -275,12 +275,12 @@
               "style": "backgroundNationalCalamity"
             },
             {
-              "name": "Mount Badon",
+              "name": "Battle of Mons Badonicus",
               "timespan": {
                 "startApproximate": true,
-                "start": "490",
+                "start": "495",
                 "endApproximate": true,
-                "end": "503"
+                "end": "497"
               },
               "style": "backgroundBattle"
             }
@@ -303,6 +303,22 @@
               ]
             },
             {
+              "name": "Ambrosius Aurelianus",
+              "style": "briton",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "450",
+                    "endApproximate": "true",
+                    "end": "500"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Arthur",
               "style": "briton",
               "importance": "major",
@@ -317,6 +333,17 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Gildas",
+              "style": "briton",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "500",
+                "endApproximate": "true",
+                "end": "570"
+              }
             }
           ]
         },
@@ -333,12 +360,12 @@
               }
             },
             {
-              "name": "Mount Badon",
+              "name": "Battle of Mons Badonicus",
               "timespan": {
                 "startApproximate": true,
-                "start": "490",
+                "start": "495",
                 "endApproximate": true,
-                "end": "503"
+                "end": "497"
               },
               "style": "backgroundBattle"
             },
