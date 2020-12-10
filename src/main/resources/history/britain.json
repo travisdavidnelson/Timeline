@@ -167,20 +167,20 @@
       "style": "backgroundBattle"
     },
     {
-      "name": "Anglo-Saxon",
+      "name": "Pagan Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
         "start": "545",
         "endApproximate": true,
-        "end": "650"
+        "end": "685"
       },
       "style": "angloSaxonHeathen"
     },
     {
-      "name": "Anglo-Saxon",
+      "name": "Christian Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "625",
+        "start": "660",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -579,16 +579,25 @@
           ]
         },
         {
-          "name": "West Saxon Cerdicing",
+          "name": "Wessex Cerdicing",
           "backgroundEvents": [
             {
-              "name": "West Saxons",
+              "name": "Pagan West Saxons",
               "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
                 "start": "519",
                 "endApproximate": "true",
                 "end": "645"
+              }
+            },
+            {
+              "name": "Christian West Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "645",
+                "end": "900"
               }
             }
           ],
@@ -708,7 +717,7 @@
             {
               "name": "Cenwalh",
               "style": "angloSaxon",
-              "importance": "petty",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "king",
@@ -717,6 +726,270 @@
                     "start": "643",
                     "endApproximate": "true",
                     "end": "645"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "645",
+                    "endApproximate": "true",
+                    "end": "648"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "648",
+                    "endApproximate": "true",
+                    "end": "672"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Seaxburh&#9792;",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "672",
+                    "endApproximate": "true",
+                    "end": "674"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aescwine",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "674",
+                    "endApproximate": "true",
+                    "end": "676"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Caedwalla",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "659",
+                "end": "4/20/689"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "685",
+                    "end": "688"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ine",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "670",
+                "endApproximate": "true",
+                "end": "727"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "688",
+                    "end": "726"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelheard",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "726",
+                    "end": "740"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cuthelred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "740",
+                    "end": "756"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sigeberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "756",
+                    "end": "757"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cynewulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "757",
+                    "end": "786"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Beorhtric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "786",
+                    "end": "802"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ecgberht",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "start": "771",
+                "end": "839"
+              },
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "785",
+                    "end": "802"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "802",
+                    "end": "839"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelwulf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "839",
+                    "end": "1/13/858"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelbald",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/13/858",
+                    "end": "860"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "860",
+                    "end": "865"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "start": "845",
+                "end": "871"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "865",
+                    "end": "871"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alfred",
+              "style": "angloSaxon",
+              "importance": "major",
+              "timespan": {
+                "start": "848",
+                "end": "10/26/899"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/871",
+                    "end": "10/26/899"
                   }
                 }
               ]
@@ -761,29 +1034,6 @@
     {
       "name": "Anglo-Saxons / Viking",
       "dynasties": [
-        {
-          "name": "Anglo-Saxons",
-          "people": [
-            {
-              "name": "Alfred the Great",
-              "style": "angloSaxon",
-              "importance": "major",
-              "timespan": {
-                "start": "848",
-                "end": "10/26/899"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "4/871",
-                    "end": "10/26/899"
-                  }
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Anglo-Saxons",
           "people": [
