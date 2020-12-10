@@ -579,38 +579,22 @@
           ]
         },
         {
-          "name": "West Saxons",
+          "name": "West Saxon Cerdicing",
           "backgroundEvents": [
             {
               "name": "West Saxons",
               "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
-                "start": "514",
+                "start": "519",
                 "endApproximate": "true",
-                "end": "600"
+                "end": "645"
               }
             }
           ],
           "people": [
             {
-              "name": "Stuf",
-              "style": "angloSaxon",
-              "importance": "petty",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "514",
-                    "endApproximate": "true",
-                    "end": "520"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Withgar",
+              "name": "Cerdic",
               "style": "angloSaxon",
               "importance": "minor",
               "titles": [
@@ -618,9 +602,121 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "520",
+                    "start": "519",
                     "endApproximate": "true",
-                    "end": "544"
+                    "end": "534"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cynric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "534",
+                    "endApproximate": "true",
+                    "end": "560"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Caewlin",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "560",
+                    "endApproximate": "true",
+                    "end": "591"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ceol",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "591",
+                    "endApproximate": "true",
+                    "end": "597"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ceolwulf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "597",
+                    "endApproximate": "true",
+                    "end": "611"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cynegils",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "611",
+                    "endApproximate": "true",
+                    "end": "643"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cwichelm",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "626",
+                    "endApproximate": "true",
+                    "end": "636"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cenwalh",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "643",
+                    "endApproximate": "true",
+                    "end": "645"
                   }
                 }
               ]
