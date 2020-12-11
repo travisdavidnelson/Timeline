@@ -471,11 +471,11 @@
             },
             {
               "name": "Aethelberht",
-              "style": "angloSaxon",
+              "style": "sanctified",
               "importance": "major",
               "timespan": {
                 "startApproximate": "true",
-                "start": "590",
+                "start": "550",
                 "end": "2/24/616"
               },
               "titles": [
@@ -504,7 +504,7 @@
                   "name": "queen",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "580",
+                    "start": "589",
                     "endApproximate": "true",
                     "end": "601"
                   }
