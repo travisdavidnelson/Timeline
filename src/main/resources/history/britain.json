@@ -510,6 +510,133 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Eadbald",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/24/616",
+                    "end": "1/20/640"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eorcenberht",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/20/640",
+                    "end": "7/14/664"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ecgberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/14/664",
+                    "end": "7/4/673"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hlothhere",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/4/673",
+                    "end": "685"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "685",
+                    "end": "686"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mul",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "686",
+                    "end": "687"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Swaefheard",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "687",
+                    "end": "693"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Wihtred",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "690",
+                    "end": "4/23/725"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadbert",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "725",
+                    "end": "748"
+                  }
+                }
+              ]
             }
           ]
         },
