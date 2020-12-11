@@ -356,7 +356,7 @@
               "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
-                "start": "440",
+                "start": "455",
                 "end": "12/25/597"
               }
             },
@@ -381,7 +381,7 @@
           ],
           "people": [
             {
-              "name": "Hengist",
+              "name": "Hengest",
               "style": "angloSaxon",
               "importance": "minor",
               "titles": [
@@ -389,18 +389,18 @@
                   "name": "mercenary",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "440",
+                    "start": "445",
                     "endApproximate": "true",
-                    "end": "449"
+                    "end": "455"
                   }
                 },
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "449",
+                    "start": "455",
                     "endApproximate": "true",
-                    "end": "459"
+                    "end": "488"
                   }
                 }
               ]
@@ -414,15 +414,15 @@
                   "name": "mercenary",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "440",
+                    "start": "445",
                     "endApproximate": "true",
-                    "end": "449"
+                    "end": "455"
                   }
                 }
               ]
             },
             {
-              "name": "Ella",
+              "name": "Oisc",
               "style": "angloSaxon",
               "importance": "petty",
               "titles": [
@@ -430,41 +430,9 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "477",
+                    "start": "488",
                     "endApproximate": "true",
-                    "end": "495"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Cedric",
-              "style": "angloSaxon",
-              "importance": "petty",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "495",
-                    "endApproximate": "true",
-                    "end": "498"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Cynric",
-              "style": "angloSaxon",
-              "importance": "petty",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "498",
-                    "endApproximate": "true",
-                    "end": "510"
+                    "end": "516"
                   }
                 }
               ]
@@ -472,15 +440,15 @@
             {
               "name": "Octa",
               "style": "angloSaxon",
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "500",
+                    "start": "516",
                     "endApproximate": "true",
-                    "end": "543"
+                    "end": "540"
                   }
                 }
               ]
@@ -488,15 +456,15 @@
             {
               "name": "Eormenric",
               "style": "angloSaxon",
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "543",
+                    "start": "540",
                     "endApproximate": "true",
-                    "end": "589"
+                    "end": "590"
                   }
                 }
               ]
@@ -507,7 +475,7 @@
               "importance": "major",
               "timespan": {
                 "startApproximate": "true",
-                "start": "550",
+                "start": "590",
                 "end": "2/24/616"
               },
               "titles": [
@@ -527,7 +495,7 @@
               "importance": "semimajor",
               "timespan": {
                 "startApproximate": "true",
-                "start": "564",
+                "start": "565",
                 "endApproximate": "true",
                 "end": "601"
               },
