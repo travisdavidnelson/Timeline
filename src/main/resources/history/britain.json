@@ -625,20 +625,6 @@
               ]
             },
             {
-              "name": "Eadberht",
-              "style": "angloSaxon",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "725",
-                    "end": "748"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Aethelbert II",
               "style": "angloSaxon",
               "importance": "minor",
@@ -653,6 +639,62 @@
               ]
             },
             {
+              "name": "Eadberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "725",
+                    "end": "748"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eardwulf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "747",
+                    "end": "765"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eanmund",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "762",
+                    "end": "764"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Heaberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "764",
+                    "end": "765"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Ecgberht II",
               "style": "angloSaxon",
               "importance": "minor",
@@ -662,6 +704,22 @@
                   "timespan": {
                     "start": "765",
                     "end": "779"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ealhmund",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "783",
+                    "endApproximate": "true",
+                    "end": "785"
                   }
                 }
               ]
