@@ -625,7 +625,7 @@
               ]
             },
             {
-              "name": "Eadbert",
+              "name": "Eadberht",
               "style": "angloSaxon",
               "importance": "minor",
               "titles": [
@@ -634,6 +634,48 @@
                   "timespan": {
                     "start": "725",
                     "end": "748"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelbert II",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "725",
+                    "end": "762"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ecgberht II",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "765",
+                    "end": "779"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadberht III Praen",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "796",
+                    "end": "798"
                   }
                 }
               ]
