@@ -774,6 +774,206 @@
           ]
         },
         {
+          "name": "Saxon Mercia",
+          "backgroundEvents": [
+            {
+              "name": "Pagan Mercia Saxons",
+              "style": "angloSaxonHeathen",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "515",
+                "endApproximate": "true",
+                "end": "655"
+              }
+            },
+            {
+              "name": "Christian Mercia Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "650",
+                "end": "918"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Icel",
+              "style": "angloSaxonHeathen",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "460",
+                "endApproximate": "true",
+                "end": "535"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "515",
+                    "endApproximate": "true",
+                    "end": "535"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Penda",
+              "style": "angloSaxonHeathen",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "606",
+                "end": "11/15/655"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "626",
+                    "end": "11/15/655"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Wulfhere",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "640",
+                "end": "675"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "658",
+                    "end": "675"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelbald",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "716",
+                    "end": "757"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Offa",
+              "style": "angloSaxon",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "757",
+                    "end": "7/29/796"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Coenwulf",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "796",
+                    "end": "821"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Coelwulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "821",
+                    "end": "823"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Beornwulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "823",
+                    "end": "826"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "881",
+                    "end": "911"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelflaed",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "911",
+                    "end": "918"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelfwynn",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "918",
+                    "end": "918"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Saxon Wessex",
           "backgroundEvents": [
             {
