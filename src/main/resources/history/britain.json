@@ -1519,9 +1519,99 @@
                 {
                   "name": "king",
                   "timespan": {
-                    "startApproximate": "true",
                     "start": "8/5/642",
                     "end": "654"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "654",
+                    "end": "2/15/670"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ecgfrith",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/15/670",
+                    "end": "5/20/685"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aldfrith",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/20/685",
+                    "end": "12/14/704"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadwulf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/14/704",
+                    "end": "2/705"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Osred I",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "705",
+                    "end": "716"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Coenred",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "716",
+                    "end": "718"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Osric",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "718",
+                    "end": "5/29/729"
                   }
                 }
               ]
