@@ -1421,6 +1421,110 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Aethelric",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "568",
+                    "endApproximate": "true",
+                    "end": "572"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hussa",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "585",
+                    "endApproximate": "true",
+                    "end": "592"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelfrith",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "593",
+                    "end": "616"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edwin",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "616",
+                    "end": "10/12/633"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eanfrith",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/12/633",
+                    "end": "6/634"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Oswald",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/634",
+                    "end": "8/5/642"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Oswiu",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "8/5/642",
+                    "end": "654"
+                  }
+                }
+              ]
             }
           ]
         }
