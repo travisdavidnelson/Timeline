@@ -495,7 +495,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Christian_Mercia_Saxons" target="_blank"><rect id="Christian_Mercia_Saxons" x="19320" y="10135" width="1365" height="393" class="footprint"  mask="url(#fadeInMask)"/><rect id="Christian_Mercia_Saxons" x="19320" y="10135" width="1365" height="393" class="angloSaxon"  mask="url(#fadeInMask)"/><title>Christian Mercia Saxons (c. 650 - 918)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Pagan_West_Saxons" target="_blank"><rect id="Pagan_West_Saxons" x="18665" y="10550" width="680" height="566" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Pagan_West_Saxons" x="18665" y="10550" width="680" height="566" class="angloSaxonHeathen"  mask="url(#fadeInOutMask)"/><title>Pagan West Saxons (c. 519 - c. 645)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Christian_West_Saxons" target="_blank"><rect id="Christian_West_Saxons" x="19295" y="10550" width="1300" height="566" class="footprint"  mask="url(#fadeInMask)"/><rect id="Christian_West_Saxons" x="19295" y="10550" width="1300" height="566" class="angloSaxon"  mask="url(#fadeInMask)"/><title>Christian West Saxons (c. 645 - 900)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Northumbria_Saxons" target="_blank"><rect id="Northumbria_Saxons" x="18805" y="11138" width="415" height="395" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Northumbria_Saxons" x="18805" y="11138" width="415" height="395" class="angloSaxonHeathen"  mask="url(#fadeInOutMask)"/><title>Northumbria Saxons (c. 547 - c. 620)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Northumbria_Saxons" target="_blank"><rect id="Northumbria_Saxons" x="18805" y="11138" width="485" height="395" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Northumbria_Saxons" x="18805" y="11138" width="485" height="395" class="angloSaxonHeathen"  mask="url(#fadeInOutMask)"/><title>Northumbria Saxons (c. 547 - c. 634)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Christian_Northumbria_Saxons" target="_blank"><rect id="Christian_Northumbria_Saxons" x="19170" y="11138" width="1450" height="395" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Christian_Northumbria_Saxons" x="19170" y="11138" width="1450" height="395" class="angloSaxon"  mask="url(#fadeInOutMask)"/><title>Christian Northumbria Saxons (c. 620 - c. 900)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24130" y="11617" width="848" height="145" class="footprint"/><rect id="Colonial_America" x="24130" y="11617" width="848" height="145" class="colonialAmerica"/><title>Colonial America (1607 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24199" y="11784" width="778" height="255" class="footprint"/><rect id="Colonial_America" x="24199" y="11784" width="778" height="255" class="colonialAmerica"/><title>Colonial America (12/1620 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24594" y="11617" width="383" height="520" class="footprint"/><rect id="Colonial_America" x="24594" y="11617" width="383" height="520" class="colonialAmerica"/><title>Colonial America (1700 - 7/4/1776)</title></a></g>
@@ -10912,9 +10913,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Eanfrith" target="_blank"><rect id="Eanfrith" x="19263" y="11309" width="3" height="8" class="angloSaxon"/><g><rect x="19263" y="11309" width="3" height="8" class="king"/><title>king (10/12/633 - 6/634)</title></g>
 
 <text x="19263" y="11315" class="petty">EANFRITH</text><title>Eanfrith (10/12/633 - 6/634)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Oswald" target="_blank"><rect id="Oswald" x="19267" y="11327" width="41" height="25" class="angloSaxon"/><g><rect x="19267" y="11327" width="41" height="25" class="king"/><title>king (6/634 - 8/5/642)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Oswald" target="_blank"><rect id="Oswald" x="19065" y="11327" width="243" height="25" class="sanctified"  mask="url(#fadeInMask)"/><g><rect x="19267" y="11327" width="41" height="25" class="king"/><title>king (6/634 - 8/5/642)</title></g>
 
-<text x="19269" y="11346" class="semimajor">OSWALD</text><title>Oswald (6/634 - 8/5/642)</title></a></g>
+<text x="19069" y="11346" class="semimajor">OSWALD</text><title>Oswald (c. 604 - 8/5/642)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Oswiu" target="_blank"><rect id="Oswiu" x="19308" y="11362" width="81" height="25" class="angloSaxon"/><g><rect x="19308" y="11362" width="57" height="25" class="king"/><title>king (8/5/642 - 654)</title></g>
 <g><rect x="19365" y="11362" width="81" height="25" class="king"/><title>king (654 - 2/15/670)</title></g>
 
@@ -10938,7 +10939,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="19686" y="11519" class="minor">OSRIC</text><title>Osric (718 - 5/29/729)</title></a></g>
 
-<text x="18830" y="11178" class="dynasty">SAXON NORTHUMBRIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cnut" target="_blank"><rect id="Cnut" x="21175" y="9270" width="99" height="40" class="viking"/><g><rect x="21175" y="9270" width="99" height="40" class="king"/><title>king (1016 - 11/12/1035)</title></g>
+<text x="18830" y="11178" class="dynasty">PAGAN SAXON NORTHUMBRIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cnut" target="_blank"><rect id="Cnut" x="21175" y="9270" width="99" height="40" class="viking"/><g><rect x="21175" y="9270" width="99" height="40" class="king"/><title>king (1016 - 11/12/1035)</title></g>
 
 <text x="21178" y="9300" class="major">CNUT</text><title>Cnut (1016 - 11/12/1035)</title></a></g>
 

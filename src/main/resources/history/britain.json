@@ -1392,7 +1392,7 @@
           ]
         },
         {
-          "name": "Saxon Northumbria",
+          "name": "Pagan Saxon Northumbria",
           "backgroundEvents": [
             {
               "name": "Northumbria Saxons",
@@ -1401,7 +1401,17 @@
                 "startApproximate": "true",
                 "start": "547",
                 "endApproximate": "true",
-                "end": "620"
+                "end": "634"
+              }
+            },
+            {
+              "name": "Christian Northumbria Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "620",
+                "endApproximate": "true",
+                "end": "900"
               }
             }
           ],
@@ -1499,8 +1509,13 @@
             },
             {
               "name": "Oswald",
-              "style": "angloSaxon",
+              "style": "sanctified",
               "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "604",
+                "end": "8/5/642"
+              },
               "titles": [
                 {
                   "name": "king",
