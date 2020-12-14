@@ -1392,7 +1392,7 @@
           ]
         },
         {
-          "name": "Pagan Saxon Northumbria",
+          "name": "Saxon Northumbria",
           "backgroundEvents": [
             {
               "name": "Northumbria Saxons",
@@ -1627,6 +1627,252 @@
                   "timespan": {
                     "start": "718",
                     "end": "5/29/729"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ceolwulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "695",
+                "end": "765"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/29/729",
+                    "end": "738"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "738",
+                    "end": "765"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadberht",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "737",
+                    "end": "758"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "758",
+                    "end": "8/20/768"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Oswulf",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "758",
+                    "end": "759"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelwald Moll",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "759",
+                    "end": "765"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alhred",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "765",
+                    "end": "774"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "762",
+                "end": "4/18/796"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "774",
+                    "end": "779"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "790",
+                    "end": "4/18/796"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelfwald I",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "762",
+                "end": "778"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "779",
+                    "end": "788"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Osred II",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "788",
+                    "end": "790"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "790",
+                    "end": "792"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eardwulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "796",
+                    "end": "806"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "806",
+                    "end": "808"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "808",
+                    "end": "810"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "810",
+                    "end": "830"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelfwald II",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "808",
+                    "end": "810"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eanred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "810",
+                    "end": "841"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred II",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "841",
+                    "end": "849"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Osberht",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "849",
+                    "end": "3/21/867"
                   }
                 }
               ]
