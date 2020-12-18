@@ -838,7 +838,7 @@
             {
               "name": "Penda",
               "style": "angloSaxonHeathen",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "startApproximate": "true",
                 "start": "606",
@@ -875,9 +875,79 @@
               ]
             },
             {
-              "name": "Aethelbald",
+              "name": "Aethelred I",
               "style": "angloSaxon",
               "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "645",
+                "endApproximate": "true",
+                "end": "709"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "675",
+                    "end": "704"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "704",
+                    "endApproximate": "true",
+                    "end": "709"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Coenred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "675",
+                "endApproximate": "true",
+                "end": "715"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "704",
+                    "end": "709"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "709",
+                    "endApproximate": "true",
+                    "end": "715"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Coelred",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "704",
+                    "end": "709"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelbald",
+              "style": "angloSaxon",
+              "importance": "major",
               "titles": [
                 {
                   "name": "king",
@@ -1906,7 +1976,7 @@
       ]
     },
     {
-      "name": "Anglo-Saxons / Viking",
+      "name": "Anglo-Saxons",
       "dynasties": [
         {
           "name": "Anglo-Saxons",
