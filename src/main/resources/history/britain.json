@@ -177,6 +177,14 @@
       "style": "angloSaxonHeathen"
     },
     {
+      "name": "Battle of Hatfield Chase",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/12/633",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Christian Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
@@ -784,6 +792,14 @@
                 "start": "515",
                 "endApproximate": "true",
                 "end": "655"
+              }
+            },
+            {
+              "name": "Battle of Hatfield Chase",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1d"
               }
             },
             {
@@ -1412,6 +1428,14 @@
                 "start": "620",
                 "endApproximate": "true",
                 "end": "900"
+              }
+            },
+            {
+              "name": "Battle of Hatfield Chase",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1d"
               }
             }
           ],
