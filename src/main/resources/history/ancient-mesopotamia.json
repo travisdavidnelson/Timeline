@@ -624,6 +624,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Urukagina",
               "importance": "major",
               "style": "lagashian",
@@ -751,6 +752,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Il",
               "importance": "semimajor",
               "style": "sumerian",
@@ -1012,6 +1014,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Shar-Kali-Sharri",
               "importance": "minor",
               "titles": [
@@ -1331,6 +1334,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Apilkin",
               "importance": "petty",
               "style": "gutian",
@@ -1742,6 +1746,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Sin-Iddinam",
               "importance": "minor",
               "style": "larsa",
@@ -1951,6 +1956,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ur-Ninurta",
               "importance": "semimajor",
               "titles": [
@@ -2015,6 +2021,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Enlil-bani",
               "importance": "minor",
               "titles": [
@@ -2458,6 +2465,7 @@
               "style": "babylonian"
             },
             {
+              "pageBreak": true,
               "name": "Kurigalzu I",
               "importance": "semimajor",
               "titles": [
@@ -2538,6 +2546,7 @@
               "style": "babylonian"
             },
             {
+              "pageBreak": true,
               "name": "Kadashman-Turgu",
               "importance": "semimajor",
               "titles": [
@@ -3298,6 +3307,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Nabonassar",
               "importance": "semimajor",
               "style": "babylonian",
