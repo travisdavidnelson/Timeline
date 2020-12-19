@@ -1775,6 +1775,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Oswiu",
               "style": "angloSaxon",
               "importance": "semimajor",
