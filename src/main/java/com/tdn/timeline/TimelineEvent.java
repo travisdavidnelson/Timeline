@@ -10,6 +10,7 @@ public class TimelineEvent {
 	private String name;
 	private String annotation;
 	private String style;
+	private boolean pageBreak = false;
 	private Timespan timespan = null;
 
 	private transient int yStart;
@@ -110,5 +111,13 @@ public class TimelineEvent {
 
 	public void setHeight(int height) {
 		this.height = height;
+	}
+
+	public boolean isPageBreak() {
+		return pageBreak;
+	}
+
+	public void setPageBreak(boolean pageBreak) {
+		this.pageBreak = pageBreak;
 	}
 }

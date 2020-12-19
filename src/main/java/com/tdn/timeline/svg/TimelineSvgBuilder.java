@@ -3,6 +3,7 @@ package com.tdn.timeline.svg;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Comparator;
 import java.util.List;
 
 import com.tdn.timeline.*;
@@ -127,7 +128,9 @@ public class TimelineSvgBuilder {
 							fullChannelBackgroundEvents.addAll(dynastyGroup.getBackgroundEvents());
 							for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 								Person firstPerson = dynasty.getFirstPerson();
-								Person lastPerson = dynasty.getLastPerson();
+								Person lastPerson = dynasty.getPeople().stream()
+										.max(Comparator.comparing(Person::getyStart))
+										.get();
 								int yStart = dynasty.getyStart() - timeline.getConfig().getDynastyBackgroundTitleOffset();
 								int yEnd = maxLifetimeYEnd + dynastyDiff;
 								if (lastPerson != null) {
@@ -215,6 +218,10 @@ public class TimelineSvgBuilder {
 		nextPersonYStart = dynastyStart;
 		for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 			getDynastySVG(dynasty, foregroundStringBuilder, backgroundStringBuilder);
+			Person lastPerson = dynasty.getPeople().stream()
+					.max(Comparator.comparing(Person::getyStart))
+					.get();
+			nextPersonYStart = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
 		}
 	}
 	public void getDynastySVG(Dynasty dynasty, StringBuilder foregroundStringBuilder,
@@ -227,6 +234,9 @@ public class TimelineSvgBuilder {
 		int textYStart = nextPersonYStart;
 		nextPersonYStart += lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
+			if (lifetime.isPageBreak()) {
+				nextPersonYStart = textYStart;
+			}
 			lifetime.setyStart(nextPersonYStart);
 			if (headerInstant == null) {
 				TimelineInstant firstTitleInstant = lifetime.getFirstTitleStart();

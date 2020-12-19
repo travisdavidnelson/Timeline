@@ -679,6 +679,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Wihtred",
               "style": "angloSaxon",
               "importance": "semimajor",
@@ -1092,6 +1093,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Aethelbald",
               "style": "angloSaxon",
               "importance": "major",
@@ -1520,6 +1522,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ecgberht",
               "style": "angloSaxon",
               "importance": "minor",
@@ -1899,6 +1902,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Eadberht",
               "style": "angloSaxon",
               "importance": "semimajor",
