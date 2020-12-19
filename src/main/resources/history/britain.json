@@ -2341,7 +2341,7 @@
             {
               "name": "Henry VII",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "1/28/1457",
                 "end": "4/21/1509"
@@ -2359,7 +2359,7 @@
             {
               "name": "Henry VIII",
               "style": "english",
-              "importance": "major",
+              "importance": "transformational",
               "timespan": {
                 "start": "6/28/1491",
                 "end": "1/28/1547"
