@@ -249,174 +249,8 @@
       ]
     },
     {
-      "name": "Britons",
+      "name": "Dark Age",
       "dynasties": [
-        {
-          "name": "Britons",
-          "backgroundEvents": [
-            {
-              "name": "Roman British Remnants",
-              "style": "briton",
-              "timespan": {
-                "start": "410",
-                "endApproximate": "true",
-                "end": "565"
-              }
-            },
-            {
-              "name": "Anglo-Saxon invasion",
-              "timespan": {
-                "startApproximate": true,
-                "start": "424",
-                "endApproximate": true,
-                "end": "434"
-              },
-              "style": "backgroundInvasion"
-            },
-            {
-              "name": "Anglo-Saxon invasion",
-              "timespan": {
-                "startApproximate": true,
-                "start": "440",
-                "endApproximate": true,
-                "end": "444"
-              },
-              "style": "backgroundNationalCalamity"
-            },
-            {
-              "name": "Battle of Mons Badonicus",
-              "timespan": {
-                "startApproximate": true,
-                "start": "495",
-                "endApproximate": true,
-                "end": "497"
-              },
-              "style": "backgroundBattle"
-            }
-          ],
-          "people": [
-            {
-              "name": "Vortigern",
-              "style": "briton",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "430",
-                    "endApproximate": "true",
-                    "end": "450"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Ambrosius Aurelianus",
-              "style": "briton",
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "450",
-                    "endApproximate": "true",
-                    "end": "500"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Arthur",
-              "style": "briton",
-              "importance": "major",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "480",
-                    "endApproximate": "true",
-                    "end": "515"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Gildas",
-              "style": "briton",
-              "importance": "minor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "500",
-                "endApproximate": "true",
-                "end": "570"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Gwynedd",
-          "backgroundEvents": [
-            {
-              "name": "Roman British Remnants",
-              "style": "briton",
-              "timespan": {
-                "start": "410",
-                "endApproximate": "true",
-                "end": "565"
-              }
-            },
-            {
-              "name": "Anglo-Saxon invasion",
-              "timespan": {
-                "startApproximate": true,
-                "start": "424",
-                "endApproximate": true,
-                "end": "434"
-              },
-              "style": "backgroundInvasion"
-            },
-            {
-              "name": "Anglo-Saxon invasion",
-              "timespan": {
-                "startApproximate": true,
-                "start": "440",
-                "endApproximate": true,
-                "end": "444"
-              },
-              "style": "backgroundNationalCalamity"
-            },
-            {
-              "name": "Battle of Mons Badonicus",
-              "timespan": {
-                "startApproximate": true,
-                "start": "495",
-                "endApproximate": true,
-                "end": "497"
-              },
-              "style": "backgroundBattle"
-            }
-          ],
-          "people": [
-            {
-              "name": "Cadwallon ap Cadfan",
-              "style": "briton",
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "startApproximate": "true",
-                    "start": "625",
-                    "end": "634"
-                  }
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Saxon Kent",
           "backgroundEvents": [
@@ -1656,6 +1490,30 @@
             },
             {
               "name": "Battle of Hatfield Chase",
+              "style": "backgroundBattleDefeat",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Occipied by Cadwallon",
+              "style": "backgroundOccupation",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Battle of Heavenfield",
+              "style": "backgroundBattleVictory",
+              "timespan": {
+                "start": "12/634",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Battle of Hatfield Chase",
               "style": "backgroundNationalCalamity",
               "timespan": {
                 "start": "10/12/633",
@@ -2123,6 +1981,152 @@
                   "timespan": {
                     "start": "849",
                     "end": "3/21/867"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Britons",
+          "backgroundEvents": [
+            {
+              "name": "Roman British Remnants",
+              "style": "briton",
+              "timespan": {
+                "start": "410",
+                "endApproximate": "true",
+                "end": "565"
+              }
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "424",
+                "endApproximate": true,
+                "end": "434"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "440",
+                "endApproximate": true,
+                "end": "444"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Mons Badonicus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "495",
+                "endApproximate": true,
+                "end": "497"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Welsh",
+              "style": "welsh",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "450",
+                "end": "1216"
+              }
+            },
+            {
+              "name": "Battle of Hatfield Chase",
+              "style": "backgroundBattleVictory",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Heavenfield",
+              "style": "backgroundBattleDefeat",
+              "timespan": {
+                "start": "12/634",
+                "duration": "1m"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Vortigern",
+              "style": "briton",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "430",
+                    "endApproximate": "true",
+                    "end": "450"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ambrosius Aurelianus",
+              "style": "briton",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "450",
+                    "endApproximate": "true",
+                    "end": "500"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arthur",
+              "style": "briton",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "480",
+                    "endApproximate": "true",
+                    "end": "515"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gildas",
+              "style": "briton",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "500",
+                "endApproximate": "true",
+                "end": "570"
+              }
+            },
+            {
+              "pageBreak": true,
+              "name": "Cadwallon ap Cadfan",
+              "style": "briton",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "625",
+                    "end": "12/634"
                   }
                 }
               ]
