@@ -357,6 +357,67 @@
           ]
         },
         {
+          "name": "Gwynedd",
+          "backgroundEvents": [
+            {
+              "name": "Roman British Remnants",
+              "style": "briton",
+              "timespan": {
+                "start": "410",
+                "endApproximate": "true",
+                "end": "565"
+              }
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "424",
+                "endApproximate": true,
+                "end": "434"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Anglo-Saxon invasion",
+              "timespan": {
+                "startApproximate": true,
+                "start": "440",
+                "endApproximate": true,
+                "end": "444"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Mons Badonicus",
+              "timespan": {
+                "startApproximate": true,
+                "start": "495",
+                "endApproximate": true,
+                "end": "497"
+              },
+              "style": "backgroundBattle"
+            }
+          ],
+          "people": [
+            {
+              "name": "Cadwallon ap Cadfan",
+              "style": "briton",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "625",
+                    "end": "634"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Saxon Kent",
           "backgroundEvents": [
             {
@@ -816,7 +877,7 @@
             {
               "name": "Icel",
               "style": "angloSaxonHeathen",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "460",
@@ -831,6 +892,92 @@
                     "start": "515",
                     "endApproximate": "true",
                     "end": "535"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cnebba",
+              "style": "angloSaxonHeathen",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "535",
+                    "endApproximate": "true",
+                    "end": "560"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cynewald",
+              "style": "angloSaxonHeathen",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "560",
+                    "endApproximate": "true",
+                    "end": "585"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Creoda",
+              "style": "angloSaxonHeathen",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "585",
+                    "endApproximate": "true",
+                    "end": "593"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pybba",
+              "style": "angloSaxonHeathen",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "570",
+                "endApproximate": "true",
+                "end": "615"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "593",
+                    "endApproximate": "true",
+                    "end": "615"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cearl",
+              "style": "angloSaxonHeathen",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "615",
+                    "endApproximate": "true",
+                    "end": "626"
                   }
                 }
               ]
