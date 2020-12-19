@@ -539,6 +539,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Aethelberht",
               "style": "sanctified",
               "importance": "major",
@@ -984,6 +985,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Penda",
               "style": "angloSaxonHeathen",
               "importance": "major",
@@ -1164,6 +1166,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Aethelred",
               "style": "angloSaxon",
               "importance": "semimajor",
@@ -1411,6 +1414,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Caedwalla",
               "style": "angloSaxon",
               "importance": "minor",
