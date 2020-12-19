@@ -996,6 +996,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ashur-nirari I",
               "style": "assyrian",
               "importance": "minor",
@@ -1322,6 +1323,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ashur-Dan I",
               "style": "assyrian",
               "importance": "semimajor",
@@ -1597,6 +1599,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Tiglath-Pileser III",
               "style": "assyrian",
               "importance": "transformational",
