@@ -831,6 +831,179 @@
                   }
                 }
               ]
+            },
+            {
+
+              "pageBreak": true,
+              "name": "Anna",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "640",
+                    "endApproximate": "true",
+                    "end": "653"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelhere",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "653",
+                    "end": "11/15/655"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelwold",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "656",
+                    "end": "664"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ealdwulf",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "664",
+                    "end": "713"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelfwald",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "713",
+                    "end": "749"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Beonna",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "749",
+                    "endApproximate": "true",
+                    "end": "760"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred I",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "760",
+                    "endApproximate": "true",
+                    "end": "790"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aergelberht II",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "779",
+                    "end": "5/20/794"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Aethelstan",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "827",
+                    "endApproximate": "true",
+                    "end": "845"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelweard",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "845",
+                    "end": "12/855"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edmund",
+              "style": "sanctified",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "12/841",
+                "end": "11/20/869"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/855",
+                    "end": "11/20/869"
+                  }
+                }
+              ]
             }
           ]
         },
