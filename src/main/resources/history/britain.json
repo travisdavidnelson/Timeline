@@ -188,7 +188,7 @@
       "name": "Christian Anglo-Saxon",
       "timespan": {
         "startApproximate": true,
-        "start": "660",
+        "start": "645",
         "end": "1066"
       },
       "style": "angloSaxon"
@@ -646,22 +646,45 @@
           ]
         },
         {
-          "name": "Saxon Portsmouth",
+          "name": "Saxon East Anglia",
           "backgroundEvents": [
             {
-              "name": "Portsmouth Saxons",
+              "name": "Pagan East Anglia Saxons",
               "style": "angloSaxonHeathen",
               "timespan": {
                 "startApproximate": "true",
-                "start": "501",
-                "endApproximate": "true",
-                "end": "620"
+                "start": "550",
+                "end": "11/15/655"
+              }
+            },
+            {
+              "name": "Mercian Invasion",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/636",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Christian East Anglia Saxons",
+              "style": "angloSaxon",
+              "timespan": {
+                "start": "11/15/655",
+                "end": "918"
+              }
+            },
+            {
+              "name": "Battle of Winwaed",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/15/655",
+                "duration": "1d"
               }
             }
           ],
           "people": [
             {
-              "name": "Port",
+              "name": "Wehha",
               "style": "angloSaxonHeathen",
               "importance": "minor",
               "titles": [
@@ -669,9 +692,128 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "501",
+                    "start": "550",
                     "endApproximate": "true",
-                    "end": "510"
+                    "end": "571"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Wuffa",
+              "style": "angloSaxonHeathen",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "571",
+                    "endApproximate": "true",
+                    "end": "578"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Tytila",
+              "style": "angloSaxonHeathen",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "578",
+                    "endApproximate": "true",
+                    "end": "599"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Raedwald",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "599",
+                    "endApproximate": "true",
+                    "end": "624"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eorpwald",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "624",
+                    "endApproximate": "true",
+                    "end": "627"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ricberht",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "627",
+                    "endApproximate": "true",
+                    "end": "629"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sigeberht",
+              "style": "sanctified",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "629",
+                    "endApproximate": "true",
+                    "end": "634"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "634",
+                    "end": "6/636"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ecgric",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "634",
+                    "end": "6/636"
                   }
                 }
               ]
@@ -687,8 +829,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "515",
-                "endApproximate": "true",
-                "end": "655"
+                "end": "11/15/655"
               }
             },
             {
@@ -703,9 +844,16 @@
               "name": "Christian Mercia Saxons",
               "style": "angloSaxon",
               "timespan": {
-                "startApproximate": "true",
-                "start": "650",
+                "start": "11/15/655",
                 "end": "918"
+              }
+            },
+            {
+              "name": "Battle of Winwaed",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/15/655",
+                "duration": "1d"
               }
             }
           ],
@@ -1489,19 +1637,19 @@
               }
             },
             {
-              "name": "Battle of Hatfield Chase",
-              "style": "backgroundBattleDefeat",
-              "timespan": {
-                "start": "10/12/633",
-                "duration": "1d"
-              }
-            },
-            {
               "name": "Occipied by Cadwallon",
               "style": "backgroundOccupation",
               "timespan": {
                 "start": "10/12/633",
                 "duration": "1y"
+              }
+            },
+            {
+              "name": "Battle of Hatfield Chase",
+              "style": "backgroundBattleDefeat",
+              "timespan": {
+                "start": "10/12/633",
+                "duration": "1d"
               }
             },
             {
@@ -1517,6 +1665,14 @@
               "style": "backgroundNationalCalamity",
               "timespan": {
                 "start": "10/12/633",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Winwaed",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/15/655",
                 "duration": "1d"
               }
             }
@@ -1988,7 +2144,7 @@
           ]
         },
         {
-          "name": "Britons",
+          "name": "Britons / Welsh",
           "backgroundEvents": [
             {
               "name": "Roman British Remnants",
