@@ -10804,10 +10804,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ricberht" target="_blank"><rect id="Ricberht" x="19230" y="8969" width="10" height="8" class="angloSaxon"/><g><rect x="19220" y="8969" width="30" height="8" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 627 - c. 629)</title></g>
 
 <text x="19230" y="8975" class="petty">RICBERHT</text><title>Ricberht (627 - 629)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sigeberht" target="_blank"><rect id="Sigeberht" x="19240" y="8987" width="25" height="25" class="sanctified"/><g><rect x="19230" y="8987" width="45" height="25" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 629 - c. 634)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sigeberht" target="_blank"><rect id="Sigeberht" x="19095" y="8987" width="182" height="25" class="sanctified"  mask="url(#fadeInMask)"/><g><rect x="19185" y="8987" width="65" height="25" class="exile"  mask="url(#fadeInOutMask)"/><title>exile (c. 620 - c. 629)</title></g>
+<g><rect x="19230" y="8987" width="45" height="25" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 629 - c. 634)</title></g>
 <g><rect x="19255" y="8987" width="22" height="25" class="monk"  mask="url(#fadeInMask)"/><title>monk (c. 634 - 6/636)</title></g>
 
-<text x="19242" y="9006" class="semimajor">SIGEBERHT</text><title>Sigeberht (629 - 6/636)</title></a></g>
+<text x="19099" y="9006" class="semimajor">SIGEBERHT</text><title>Sigeberht (c. 610 - 6/636)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ecgric" target="_blank"><rect id="Ecgric" x="19265" y="9022" width="12" height="15" class="angloSaxon"/><g><rect x="19255" y="9022" width="22" height="15" class="king"  mask="url(#fadeInMask)"/><title>king (c. 634 - 6/636)</title></g>
 
 <text x="19266" y="9033" class="minor">ECGRIC</text><title>Ecgric (634 - 6/636)</title></a></g>

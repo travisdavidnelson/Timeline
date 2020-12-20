@@ -783,7 +783,21 @@
               "name": "Sigeberht",
               "style": "sanctified",
               "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "610",
+                "end": "6/636"
+              },
               "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "620",
+                    "endApproximate": "true",
+                    "end": "629"
+                  }
+                },
                 {
                   "name": "king",
                   "timespan": {
