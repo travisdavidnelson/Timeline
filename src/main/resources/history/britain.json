@@ -863,6 +863,14 @@
               }
             },
             {
+              "name": "Battle of Maserfield",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/5/642",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Battle of Winwaed",
               "style": "backgroundBattle",
               "timespan": {
@@ -1683,6 +1691,14 @@
               }
             },
             {
+              "name": "Battle of Maserfield",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/5/642",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Battle of Winwaed",
               "style": "backgroundBattle",
               "timespan": {
@@ -2223,6 +2239,14 @@
                 "start": "12/634",
                 "duration": "1m"
               }
+            },
+            {
+              "name": "Battle of Maserfield",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/5/642",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
@@ -2289,7 +2313,7 @@
               "pageBreak": true,
               "name": "Cadwallon ap Cadfan",
               "style": "briton",
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
