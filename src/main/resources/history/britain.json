@@ -194,6 +194,286 @@
       "style": "angloSaxon"
     },
     {
+      "name": "Vikings raid Lindisfarne",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/8/793",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Vikings raid Jarrow",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/794",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Vikings destroy Iona",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/802",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/835",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/836",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/837",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/838",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/839",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/840",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/841",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/842",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/843",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/844",
+        "duration": "4m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/845",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/846",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/847",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/848",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/849",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/850",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/851",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/852",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/853",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/854",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/855",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/856",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/857",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/858",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/859",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/860",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/861",
+        "duration": "7m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/862",
+        "duration": "8m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/863",
+        "duration": "8m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/864",
+        "duration": "8m"
+      }
+    },
+    {
+      "name": "Vikings raids",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/865",
+        "duration": "8m"
+      }
+    },
+    {
+      "name": "Great Heathen Army",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "5/865",
+        "end": "878"
+      }
+    },
+    {
       "name": "Norman Britain",
       "timespan": {
         "start": "1066",
@@ -992,7 +1272,7 @@
               "importance": "major",
               "timespan": {
                 "startApproximate": "true",
-                "start": "12/841",
+                "start": "841",
                 "end": "11/20/869"
               },
               "titles": [
@@ -1877,6 +2157,22 @@
               "timespan": {
                 "start": "11/15/655",
                 "duration": "1d"
+              }
+            },
+            {
+              "name": "Vikings raid Lindisfarne",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "6/8/793",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Vikings raid Jarrow",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "6/794",
+                "duration": "1w"
               }
             }
           ],
