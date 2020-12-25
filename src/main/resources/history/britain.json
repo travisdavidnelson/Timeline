@@ -1955,6 +1955,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Cynewulf",
               "style": "angloSaxon",
               "importance": "minor",
@@ -1983,7 +1984,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Ecgberht",
               "style": "angloSaxon",
               "importance": "minor",
@@ -2069,6 +2069,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Alfred",
               "style": "angloSaxon",
               "importance": "major",
@@ -2082,6 +2083,182 @@
                   "timespan": {
                     "start": "4/871",
                     "end": "10/26/899"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "874",
+                "end": "7/17/924"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/26/899",
+                    "end": "7/17/924"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelfweard",
+              "style": "angloSaxon",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "901",
+                "end": "8/2/924"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/17/924",
+                    "end": "8/2/924"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelstan",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "894",
+                "end": "10/27/939"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/2/924",
+                    "end": "10/27/939"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edmund I",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "921",
+                "end": "5/26/946"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/27/939",
+                    "end": "5/26/946"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadred",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "923",
+                "end": "11/23/955"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/26/946",
+                    "end": "11/23/955"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eadwig",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "940",
+                "end": "10/1/959"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/23/955",
+                    "end": "10/1/959"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edgar",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "943",
+                "end": "7/8/975"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/1/959",
+                    "end": "7/8/975"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward the Martyr",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "962",
+                "end": "3/18/978"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/8/975",
+                    "end": "3/18/978"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aethelred the Unready",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "966",
+                "end": "4/23/1016"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/18/978",
+                    "end": "1013"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/3/1014",
+                    "end": "4/23/1016"
                   }
                 }
               ]
