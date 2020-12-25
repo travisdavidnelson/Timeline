@@ -2181,6 +2181,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Eadwig",
               "style": "angloSaxon",
               "importance": "minor",
@@ -2240,7 +2241,7 @@
             {
               "name": "Aethelred the Unready",
               "style": "angloSaxon",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "966",
