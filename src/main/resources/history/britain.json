@@ -475,11 +475,59 @@
     },
     {
       "name": "Norman Britain",
+      "style": "norman",
       "timespan": {
         "start": "1066",
+        "end": "1456"
+      }
+    },
+    {
+      "name": "Wars of the Roses",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "5/22/1455",
+        "end": "6/16/1487"
+      }
+    },
+    {
+      "name": "First Battle of St Albans",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/22/1455",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Towton",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "3/29/1461",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Tewkesbury",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/4/1471",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Bosworth Field",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/22/1485",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "English Renaisance",
+      "style": "english",
+      "timespan": {
+        "start": "1487",
         "end": "1700"
-      },
-      "style": "norman"
+      }
     }
   ],
   "dynastyGroups": [
@@ -4095,14 +4143,6 @@
     {
       "name": "Tudors",
       "backgroundEvents": [
-        {
-          "name": "Wars of the Roses",
-          "style": "backgroundCivilWar",
-          "timespan": {
-            "start": "5/22/1455",
-            "end": "6/16/1487"
-          }
-        }
       ],
       "dynasties": [
         {

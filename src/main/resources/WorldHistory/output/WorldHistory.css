@@ -24,7 +24,7 @@
 .egyptThirdIntermediate {fill:gold;fill-opacity:0.2}
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .egyptThebes {fill:gold;fill-opacity:0.4}
-.english {fill:red;fill-opacity:0.7}
+.english {fill:red;fill-opacity:0.4}
 .englishCommonwealth {fill:blue;fill-opacity:0.7}
 .englishProtecturate {fill:blue;fill-opacity:1.0}
 .greek {fill:blue;fill-opacity:0.5}
@@ -62,7 +62,7 @@
 .americanRepublicStrong {fill:lightblue;fill-opacity:0.7}
 .americanRepublic {fill:blue;fill-opacity:0.4}
 
-.backgroundBattle {fill:red; fill-opacity:0.7}
+.backgroundBattle {fill:red; fill-opacity:0.8}
 .backgroundBattleVictory {fill:blue; fill-opacity:0.8}
 .backgroundBattleDefeat {fill:red; fill-opacity:0.9}
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
