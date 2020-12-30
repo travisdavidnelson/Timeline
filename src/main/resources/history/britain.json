@@ -4168,6 +4168,31 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Margaret of Anjou&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "3/23/1430",
+                "end": "8/25/1482"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "4/23/1445",
+                    "end": "3/4/1461"
+                  }
+                },
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "10/3/1470",
+                    "end": "4/11/1471"
+                  }
+                }
+              ]
             }
           ]
         },

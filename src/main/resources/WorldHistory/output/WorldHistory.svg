@@ -398,7 +398,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Vietnam_War" target="_blank"><rect id="Vietnam_War" x="25874" y="10173" width="97" height="2387" class="footprint"/><rect id="Vietnam_War" x="25874" y="10173" width="97" height="2387" class="backgroundForeignWarMinor"/><title>Vietnam War (11/1/1955 - 4/30/1975)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Gulf_War" target="_blank"><rect id="Gulf_War" x="26047" y="10173" width="3" height="2387" class="footprint"/><rect id="Gulf_War" x="26047" y="10173" width="3" height="2387" class="backgroundForeignWarMinorVictory"/><title>Gulf War (8/2/1990 - 2/28/1991)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Attacks_of_September_11,_2001" target="_blank"><rect id="Attacks_of_September_11,_2001" x="26103" y="10173" width="1" height="2387" class="footprint"/><rect id="Attacks_of_September_11,_2001" x="26103" y="10173" width="1" height="2387" class="backgroundNationalCalamity"/><title>Attacks of September 11, 2001 (9/11/2001)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Afghan_War" target="_blank"><rect id="Afghan_War" x="26103" y="10173" width="96" height="2387" class="footprint"/><rect id="Afghan_War" x="26103" y="10173" width="96" height="2387" class="backgroundForeignWarMinor"/><title>Afghan War (9/11/2001 - 2020)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Afghan_War" target="_blank"><rect id="Afghan_War" x="26103" y="10173" width="97" height="2387" class="footprint"/><rect id="Afghan_War" x="26103" y="10173" width="97" height="2387" class="backgroundForeignWarMinor"/><title>Afghan War (9/11/2001 - 2020)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Iraq_War" target="_blank"><rect id="Iraq_War" x="26111" y="10173" width="44" height="2387" class="footprint"/><rect id="Iraq_War" x="26111" y="10173" width="44" height="2387" class="backgroundForeignWarMinor"/><title>Iraq War (3/20/2003 - 12/18/2011)</title></a></g>
 
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hyksos" target="_blank"><rect id="Hyksos" x="7550" y="320" width="875" height="197" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Hyksos" x="7550" y="320" width="875" height="197" class="hyksos"  mask="url(#fadeInOutMask)"/><title>Hyksos (c. 1705 BC - c. 1540 BC)</title></a></g>
@@ -11303,40 +11303,44 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="23448" y="8604" width="3" height="25" class="king"/><title>king (10/3/1470 - 4/11/1471)</title></g>
 
 <text x="23206" y="8623" class="semimajor">HENRY VI</text><title>Henry VI (12/6/1421 - 5/21/1471)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Margaret_of_Anjou&#9792;" target="_blank"><rect id="Margaret_of_Anjou&#9792;" x="23246" y="8639" width="262" height="25" class="english"/><g><rect x="23321" y="8639" width="79" height="25" class="queen"/><title>queen (4/23/1445 - 3/4/1461)</title></g>
+<g><rect x="23448" y="8639" width="3" height="25" class="queen"/><title>queen (10/3/1470 - 4/11/1471)</title></g>
 
-<text x="23093" y="8534" class="dynasty">PLANTAGENET LANCASTER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Edward_IV" target="_blank"><rect id="Edward_IV" x="23306" y="8711" width="205" height="15" class="english"/><g><rect x="23400" y="8711" width="48" height="15" class="king"/><title>king (3/4/1461 - 10/3/1470)</title></g>
-<g><rect x="23451" y="8711" width="60" height="15" class="king"/><title>king (4/11/1471 - 4/9/1483)</title></g>
+<text x="23248" y="8658" class="semimajor">MARGARET OF ANJOU&#9792;</text><title>Margaret of Anjou&#9792; (3/23/1430 - 8/25/1482)</title></a></g>
 
-<text x="23307" y="8722" class="minor">EDWARD IV</text><title>Edward IV (4/28/1442 - 4/9/1483)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_V" target="_blank"><rect id="Edward_V" x="23449" y="8736" width="63" height="8" class="english"/><g><rect x="23511" y="8736" width="1" height="8" class="king"/><title>king (4/9/1483 - 6/25/1483)</title></g>
+<text x="23093" y="8534" class="dynasty">PLANTAGENET LANCASTER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Edward_IV" target="_blank"><rect id="Edward_IV" x="23306" y="8746" width="205" height="15" class="english"/><g><rect x="23400" y="8746" width="48" height="15" class="king"/><title>king (3/4/1461 - 10/3/1470)</title></g>
+<g><rect x="23451" y="8746" width="60" height="15" class="king"/><title>king (4/11/1471 - 4/9/1483)</title></g>
 
-<text x="23449" y="8742" class="petty">EDWARD V</text><title>Edward V (11/2/1470 - 7/1483)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Richard_III" target="_blank"><rect id="Richard_III" x="23358" y="8754" width="164" height="25" class="english"/><g><rect x="23512" y="8754" width="11" height="25" class="king"/><title>king (6/25/1483 - 8/22/1485)</title></g>
+<text x="23307" y="8757" class="minor">EDWARD IV</text><title>Edward IV (4/28/1442 - 4/9/1483)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_V" target="_blank"><rect id="Edward_V" x="23449" y="8771" width="63" height="8" class="english"/><g><rect x="23511" y="8771" width="1" height="8" class="king"/><title>king (4/9/1483 - 6/25/1483)</title></g>
 
-<text x="23360" y="8773" class="semimajor">RICHARD III</text><title>Richard III (10/2/1452 - 8/22/1485)</title></a></g>
+<text x="23449" y="8777" class="petty">EDWARD V</text><title>Edward V (11/2/1470 - 7/1483)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Richard_III" target="_blank"><rect id="Richard_III" x="23358" y="8789" width="164" height="25" class="english"/><g><rect x="23512" y="8789" width="11" height="25" class="king"/><title>king (6/25/1483 - 8/22/1485)</title></g>
 
-<text x="23400" y="8701" class="dynasty">PLANTAGENET YORK</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VII" target="_blank"><rect id="Henry_VII" x="23380" y="8861" width="261" height="40" class="english"/><g><rect x="23523" y="8861" width="118" height="40" class="king"/><title>king (8/22/1485 - 4/21/1509)</title></g>
+<text x="23360" y="8808" class="semimajor">RICHARD III</text><title>Richard III (10/2/1452 - 8/22/1485)</title></a></g>
 
-<text x="23383" y="8891" class="major">HENRY VII</text><title>Henry VII (1/28/1457 - 4/21/1509)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VIII" target="_blank"><rect id="Henry_VIII" x="23552" y="8911" width="278" height="50" class="english"/><g><rect x="23643" y="8911" width="187" height="50" class="king"/><title>king (8/22/1509 - 1/28/1547)</title></g>
+<text x="23400" y="8736" class="dynasty">PLANTAGENET YORK</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VII" target="_blank"><rect id="Henry_VII" x="23380" y="8896" width="261" height="40" class="english"/><g><rect x="23523" y="8896" width="118" height="40" class="king"/><title>king (8/22/1485 - 4/21/1509)</title></g>
 
-<text x="23558" y="8951" class="transformational">HENRY VIII</text><title>Henry VIII (6/28/1491 - 1/28/1547)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VI" target="_blank"><rect id="Edward_VI" x="23783" y="8971" width="79" height="15" class="english"/><g><rect x="23830" y="8971" width="32" height="15" class="king"/><title>king (1/28/1547 - 7/6/1553)</title></g>
+<text x="23383" y="8926" class="major">HENRY VII</text><title>Henry VII (1/28/1457 - 4/21/1509)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VIII" target="_blank"><rect id="Henry_VIII" x="23552" y="8946" width="278" height="50" class="english"/><g><rect x="23643" y="8946" width="187" height="50" class="king"/><title>king (8/22/1509 - 1/28/1547)</title></g>
 
-<text x="23784" y="8982" class="minor">EDWARD VI</text><title>Edward VI (10/12/1537 - 7/6/1553)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Lady_Jane_Grey&#9792;" target="_blank"><rect id="Lady_Jane_Grey&#9792;" x="23780" y="8996" width="86" height="8" class="english"  mask="url(#fadeInMask)"/><g><rect x="23862" y="8996" width="1" height="8" class="queen"/><title>queen (7/10/1553 - 7/19/1553)</title></g>
+<text x="23558" y="8986" class="transformational">HENRY VIII</text><title>Henry VIII (6/28/1491 - 1/28/1547)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VI" target="_blank"><rect id="Edward_VI" x="23783" y="9006" width="79" height="15" class="english"/><g><rect x="23830" y="9006" width="32" height="15" class="king"/><title>king (1/28/1547 - 7/6/1553)</title></g>
 
-<text x="23780" y="9002" class="petty">LADY JANE GREY&#9792;</text><title>Lady Jane Grey&#9792; (c. 1547 - 2/12/1554)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Mary_I&#9792;" target="_blank"><rect id="Mary_I&#9792;" x="23675" y="9014" width="214" height="25" class="english"/><g><rect x="23862" y="9014" width="27" height="25" class="queen"/><title>queen (7/19/1553 - 11/17/1558)</title></g>
+<text x="23784" y="9017" class="minor">EDWARD VI</text><title>Edward VI (10/12/1537 - 7/6/1553)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Lady_Jane_Grey&#9792;" target="_blank"><rect id="Lady_Jane_Grey&#9792;" x="23780" y="9031" width="86" height="8" class="english"  mask="url(#fadeInMask)"/><g><rect x="23862" y="9031" width="1" height="8" class="queen"/><title>queen (7/10/1553 - 7/19/1553)</title></g>
 
-<text x="23677" y="9033" class="semimajor">MARY I&#9792;</text><title>Mary I&#9792; (2/18/1516 - 11/17/1558)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Elizabeth_I&#9792;" target="_blank"><rect id="Elizabeth_I&#9792;" x="23763" y="9049" width="348" height="40" class="english"/><g><rect x="23889" y="9049" width="222" height="40" class="queen"/><title>queen (11/17/1558 - 3/24/1603)</title></g>
+<text x="23780" y="9037" class="petty">LADY JANE GREY&#9792;</text><title>Lady Jane Grey&#9792; (c. 1547 - 2/12/1554)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mary_I&#9792;" target="_blank"><rect id="Mary_I&#9792;" x="23675" y="9049" width="214" height="25" class="english"/><g><rect x="23862" y="9049" width="27" height="25" class="queen"/><title>queen (7/19/1553 - 11/17/1558)</title></g>
 
-<text x="23766" y="9079" class="major">ELIZABETH I&#9792;</text><title>Elizabeth I&#9792; (9/7/1533 - 3/24/1603)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/William_Shakespeare" target="_blank"><rect id="William_Shakespeare" x="23916" y="9099" width="260" height="50" class="english"/>
-<text x="23922" y="9139" class="transformational">WILLIAM SHAKESPEARE</text><title>William Shakespeare (4/26/1564 - 4/23/1616)</title></a></g>
+<text x="23677" y="9068" class="semimajor">MARY I&#9792;</text><title>Mary I&#9792; (2/18/1516 - 11/17/1558)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Elizabeth_I&#9792;" target="_blank"><rect id="Elizabeth_I&#9792;" x="23763" y="9084" width="348" height="40" class="english"/><g><rect x="23889" y="9084" width="222" height="40" class="queen"/><title>queen (11/17/1558 - 3/24/1603)</title></g>
 
-<text x="23523" y="8851" class="dynasty">TUDORS</text><g><a xlink:href="http://en.wikipedia.org/wiki/James_VI_and_I" target="_blank"><rect id="James_VI_and_I" x="23927" y="8544" width="294" height="25" class="english"/><g><rect x="24111" y="8544" width="110" height="25" class="king"/><title>king (3/24/1603 - 3/27/1625)</title></g>
+<text x="23766" y="9114" class="major">ELIZABETH I&#9792;</text><title>Elizabeth I&#9792; (9/7/1533 - 3/24/1603)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Shakespeare" target="_blank"><rect id="William_Shakespeare" x="23916" y="9134" width="260" height="50" class="english"/>
+<text x="23922" y="9174" class="transformational">WILLIAM SHAKESPEARE</text><title>William Shakespeare (4/26/1564 - 4/23/1616)</title></a></g>
+
+<text x="23523" y="8886" class="dynasty">TUDORS</text><g><a xlink:href="http://en.wikipedia.org/wiki/James_VI_and_I" target="_blank"><rect id="James_VI_and_I" x="23927" y="8544" width="294" height="25" class="english"/><g><rect x="24111" y="8544" width="110" height="25" class="king"/><title>king (3/24/1603 - 3/27/1625)</title></g>
 
 <text x="23929" y="8563" class="semimajor">JAMES VI AND I</text><title>James VI and I (6/19/1566 - 3/27/1625)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Charles_I" target="_blank"><rect id="Charles_I" x="24099" y="8579" width="241" height="40" class="english"/><g><rect x="24221" y="8579" width="119" height="40" class="king"/><title>king (3/27/1625 - 1/30/1649)</title></g>
