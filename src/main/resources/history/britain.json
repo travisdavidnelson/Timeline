@@ -552,6 +552,14 @@
         "start": "1487",
         "end": "1700"
       }
+    },
+    {
+      "name": "Spanish Armada",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/1588",
+        "duration": "2m"
+      }
     }
   ],
   "dynastyGroups": [
@@ -4528,6 +4536,25 @@
                   "timespan": {
                     "start": "11/17/1558",
                     "end": "3/24/1603"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Francis Drake",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1540",
+                "end": "1/28/1596"
+              },
+              "titles": [
+                {
+                  "name": "admiral",
+                  "timespan": {
+                    "start": "1563",
+                    "end": "1/28/1596"
                   }
                 }
               ]
