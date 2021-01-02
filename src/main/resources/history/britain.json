@@ -4739,6 +4739,13 @@
                     "start": "11/1640",
                     "end": "12/8/1643"
                   }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "7/1642",
+                    "end": "12/8/1643"
+                  }
                 }
               ]
             },
