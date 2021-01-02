@@ -150,6 +150,7 @@
 .basileus 			{fill:purple;	fill-opacity:0.8}
 .battle 			{fill:red;		fill-opacity:0.7}
 .caesar 			{fill:#9A32CD;	fill-opacity:0.6}
+.captain 			{fill:#000080;	fill-opacity:0.4}
 .censor 			{fill:blue;		fill-opacity:0.5}
 .chancellor			{fill:purple;	fill-opacity:0.5}
 .commission 		{fill:brown;	fill-opacity:0.4}
@@ -161,6 +162,7 @@
 .duke 				{fill:purple;	fill-opacity:0.3}
 .earl 				{fill:purple;	fill-opacity:0.3}
 .exile 				{fill:black;	fill-opacity:0.5}
+.exploration 		{fill:gold;		fill-opacity:0.8}
 .pow 				{fill:black;	fill-opacity:0.75}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .governor 			{fill:blue;		fill-opacity:0.5}

@@ -4551,10 +4551,20 @@
               },
               "titles": [
                 {
-                  "name": "admiral",
+                  "name": "captain",
                   "timespan": {
                     "start": "1563",
                     "end": "1/28/1596"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Circumnavigation",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "1577",
+                    "end": "1580"
                   }
                 }
               ]
@@ -4708,6 +4718,31 @@
           "name": "Parliament",
           "people": [
             {
+              "name": "John Pym",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "5/20/1584",
+                "end": "12/8/1643"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1621",
+                    "end": "1622"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "11/1640",
+                    "end": "12/8/1643"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Oliver Cromwell",
               "style": "english",
               "importance": "major",
@@ -4735,7 +4770,7 @@
             {
               "name": "Thomas Fairfax",
               "style": "english",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "1/17/1612",
                 "end": "11/12/1671"
