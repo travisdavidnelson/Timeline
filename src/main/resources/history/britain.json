@@ -3169,6 +3169,44 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Edward the Confessor",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1003",
+                "end": "1/5/1066"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/8/1042",
+                    "end": "1/5/1066"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harold Godwinson",
+              "style": "angloSaxon",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1022",
+                "end": "10/14/1066"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/5/1066",
+                    "end": "10/14/1066"
+                  }
+                }
+              ]
             }
           ]
         },
