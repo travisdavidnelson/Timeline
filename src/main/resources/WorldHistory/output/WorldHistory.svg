@@ -362,7 +362,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Bosworth_Field" target="_blank"><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="footprint"/><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Battle of Bosworth Field (8/22/1485)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/English_Renaisance" target="_blank"><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="footprint"/><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="english"/><title>English Renaisance (1487 - 1700)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Spanish_Armada" target="_blank"><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="footprint"/><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Spanish Armada (7/1588)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Glorius_Revolution" target="_blank"><rect id="Glorius_Revolution" x="24539" y="8472" width="2" height="1701" class="footprint"/><rect id="Glorius_Revolution" x="24539" y="8472" width="2" height="1701" class="backgroundRevolution"/><title>Glorius Revolution (11/5/1688 - 4/11/1689)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Glorius_Revolution" target="_blank"><rect id="Glorius_Revolution" x="24539" y="8472" width="1" height="1701" class="footprint"/><rect id="Glorius_Revolution" x="24539" y="8472" width="1" height="1701" class="backgroundRevolution"/><title>Glorius Revolution (11/5/1688 - 2/13/1689)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_English_Civil_War" target="_blank"><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="footprint"/><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="backgroundCivilWar"/><title>First English Civil War (8/1642 - 6/1646)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_English_Civil_War" target="_blank"><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="footprint"/><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="backgroundCivilWar"/><title>Second English Civil War (2/1648 - 8/1648)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Commonwealth_of_England" target="_blank"><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="footprint"/><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="englishCommonwealth"/><title>Commonwealth of England (1649 - 1653)</title></a></g>
@@ -11397,6 +11397,15 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/James_II" target="_blank"><rect id="James_II" x="24263" y="8968" width="340" height="25" class="english"/><g><rect x="24520" y="8968" width="19" height="25" class="king"/><title>king (2/6/1685 - 12/23/1688)</title></g>
 
 <text x="24265" y="8987" class="semimajor">JAMES II</text><title>James II (10/14/1633 - 9/16/1701)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_III" target="_blank"><rect id="William_III" x="24349" y="9003" width="257" height="40" class="english"/><g><rect x="24540" y="9003" width="65" height="40" class="king"/><title>king (2/13/1689 - 3/8/1702)</title></g>
+
+<text x="24352" y="9033" class="major">WILLIAM III</text><title>William III (11/4/1650 - 3/8/1702)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mary_II&#9792;" target="_blank"><rect id="Mary_II&#9792;" x="24406" y="9053" width="163" height="25" class="english"/><g><rect x="24540" y="9053" width="29" height="25" class="queen"/><title>queen (2/13/1689 - 12/28/1694)</title></g>
+
+<text x="24408" y="9072" class="semimajor">MARY II&#9792;</text><title>Mary II&#9792; (4/30/1662 - 12/28/1694)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Anne&#9792;" target="_blank"><rect id="Anne&#9792;" x="24420" y="9088" width="248" height="15" class="english"/><g><rect x="24605" y="9088" width="62" height="15" class="queen"/><title>queen (3/8/1702 - 9/1/1714)</title></g>
+
+<text x="24421" y="9099" class="minor">ANNE&#9792;</text><title>Anne&#9792; (2/6/1665 - 9/1/1714)</title></a></g>
 
 <text x="24397" y="8908" class="dynasty">STUART II</text>
 <text x="150" y="10061" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10245" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>

@@ -566,7 +566,7 @@
       "style": "backgroundRevolution",
       "timespan": {
         "start": "11/5/1688",
-        "end": "4/11/1689"
+        "end": "2/13/1689"
       }
     }
   ],
@@ -4811,6 +4811,60 @@
                   "timespan": {
                     "start": "2/6/1685",
                     "end": "12/23/1688"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William III",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "11/4/1650",
+                "end": "3/8/1702"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/13/1689",
+                    "end": "3/8/1702"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mary II&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "4/30/1662",
+                "end": "12/28/1694"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "2/13/1689",
+                    "end": "12/28/1694"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anne&#9792;",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/6/1665",
+                "end": "9/1/1714"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "3/8/1702",
+                    "end": "9/1/1714"
                   }
                 }
               ]
