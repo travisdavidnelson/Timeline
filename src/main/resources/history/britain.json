@@ -560,6 +560,14 @@
         "start": "7/1588",
         "duration": "2m"
       }
+    },
+    {
+      "name": "Glorius Revolution",
+      "style": "backgroundRevolution",
+      "timespan": {
+        "start": "11/5/1688",
+        "end": "4/11/1689"
+      }
     }
   ],
   "dynastyGroups": [
@@ -4638,7 +4646,7 @@
       ],
       "dynasties": [
         {
-          "name": "Stuart",
+          "name": "Stuart I",
           "people": [
             {
               "name": "James VI and I",
@@ -4675,44 +4683,7 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "Charles II",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "start": "5/29/1630",
-                "end": "2/6/1685"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "5/29/1660",
-                    "end": "2/6/1685"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "James II",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "10/14/1633",
-                "end": "9/16/1701"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "2/6/1685",
-                    "end": "12/23/1688"
-                  }
-                }
-              ]
-            }
-          ]
+            }          ]
         },
         {
           "name": "Parliament",
@@ -4775,6 +4746,24 @@
               ]
             },
             {
+              "name": "Richard Cromwell",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/4/1626",
+                "end": "7/12/1712"
+              },
+              "titles": [
+                {
+                  "name": "lordProtector",
+                  "timespan": {
+                    "start": "9/3/1658",
+                    "end": "5/7/1659"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Thomas Fairfax",
               "style": "english",
               "importance": "semimajor",
@@ -4783,6 +4772,47 @@
                 "end": "11/12/1671"
               },
               "titles": [
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stuart II",
+          "people": [
+            {
+              "name": "Charles II",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "5/29/1630",
+                "end": "2/6/1685"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/29/1660",
+                    "end": "2/6/1685"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "James II",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/14/1633",
+                "end": "9/16/1701"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/6/1685",
+                    "end": "12/23/1688"
+                  }
+                }
               ]
             }
           ]

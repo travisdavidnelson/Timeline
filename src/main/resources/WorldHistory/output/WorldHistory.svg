@@ -362,6 +362,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Bosworth_Field" target="_blank"><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="footprint"/><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Battle of Bosworth Field (8/22/1485)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/English_Renaisance" target="_blank"><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="footprint"/><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="english"/><title>English Renaisance (1487 - 1700)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Spanish_Armada" target="_blank"><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="footprint"/><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Spanish Armada (7/1588)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Glorius_Revolution" target="_blank"><rect id="Glorius_Revolution" x="24539" y="8472" width="2" height="1701" class="footprint"/><rect id="Glorius_Revolution" x="24539" y="8472" width="2" height="1701" class="backgroundRevolution"/><title>Glorius Revolution (11/5/1688 - 4/11/1689)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_English_Civil_War" target="_blank"><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="footprint"/><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="backgroundCivilWar"/><title>First English Civil War (8/1642 - 6/1646)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_English_Civil_War" target="_blank"><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="footprint"/><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="backgroundCivilWar"/><title>Second English Civil War (2/1648 - 8/1648)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Commonwealth_of_England" target="_blank"><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="footprint"/><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="englishCommonwealth"/><title>Commonwealth of England (1649 - 1653)</title></a></g>
@@ -11374,26 +11375,30 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Charles_I" target="_blank"><rect id="Charles_I" x="24099" y="8579" width="241" height="40" class="english"/><g><rect x="24221" y="8579" width="119" height="40" class="king"/><title>king (3/27/1625 - 1/30/1649)</title></g>
 
 <text x="24102" y="8609" class="major">CHARLES I</text><title>Charles I (11/19/1600 - 1/30/1649)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_II" target="_blank"><rect id="Charles_II" x="24247" y="8629" width="273" height="40" class="english"/><g><rect x="24397" y="8629" width="123" height="40" class="king"/><title>king (5/29/1660 - 2/6/1685)</title></g>
 
-<text x="24250" y="8659" class="major">CHARLES II</text><title>Charles II (5/29/1630 - 2/6/1685)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/James_II" target="_blank"><rect id="James_II" x="24263" y="8679" width="340" height="25" class="english"/><g><rect x="24520" y="8679" width="19" height="25" class="king"/><title>king (2/6/1685 - 12/23/1688)</title></g>
+<text x="24111" y="8534" class="dynasty">STUART I</text><g><a xlink:href="http://en.wikipedia.org/wiki/John_Pym" target="_blank"><rect id="John_Pym" x="24016" y="8701" width="298" height="25" class="english"/><g><rect x="24200" y="8701" width="5" height="25" class="memberParliament"/><title>memberParliament (1621 - 1622)</title></g>
+<g><rect x="24299" y="8701" width="15" height="25" class="memberParliament"/><title>memberParliament (11/1640 - 12/8/1643)</title></g>
+<g><rect x="24307" y="8701" width="7" height="25" class="committeeOfSafety"/><title>committeeOfSafety (7/1642 - 12/8/1643)</title></g>
 
-<text x="24265" y="8698" class="semimajor">JAMES II</text><title>James II (10/14/1633 - 9/16/1701)</title></a></g>
+<text x="24018" y="8720" class="semimajor">JOHN PYM</text><title>John Pym (5/20/1584 - 12/8/1643)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Oliver_Cromwell" target="_blank"><rect id="Oliver_Cromwell" x="24091" y="8736" width="297" height="40" class="english"/><g><rect x="24295" y="8736" width="45" height="40" class="memberParliament"/><title>memberParliament (2/20/1640 - 1/30/1649)</title></g>
+<g><rect x="24364" y="8736" width="24" height="40" class="lordProtector"/><title>lordProtector (12/16/1653 - 9/3/1658)</title></g>
 
-<text x="24111" y="8534" class="dynasty">STUART</text><g><a xlink:href="http://en.wikipedia.org/wiki/John_Pym" target="_blank"><rect id="John_Pym" x="24016" y="8786" width="298" height="25" class="english"/><g><rect x="24200" y="8786" width="5" height="25" class="memberParliament"/><title>memberParliament (1621 - 1622)</title></g>
-<g><rect x="24299" y="8786" width="15" height="25" class="memberParliament"/><title>memberParliament (11/1640 - 12/8/1643)</title></g>
-<g><rect x="24307" y="8786" width="7" height="25" class="committeeOfSafety"/><title>committeeOfSafety (7/1642 - 12/8/1643)</title></g>
+<text x="24094" y="8766" class="major">OLIVER CROMWELL</text><title>Oliver Cromwell (4/25/1599 - 9/3/1658)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Richard_Cromwell" target="_blank"><rect id="Richard_Cromwell" x="24228" y="8786" width="429" height="15" class="english"/><g><rect x="24388" y="8786" width="3" height="15" class="lordProtector"/><title>lordProtector (9/3/1658 - 5/7/1659)</title></g>
 
-<text x="24018" y="8805" class="semimajor">JOHN PYM</text><title>John Pym (5/20/1584 - 12/8/1643)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Oliver_Cromwell" target="_blank"><rect id="Oliver_Cromwell" x="24091" y="8821" width="297" height="40" class="english"/><g><rect x="24295" y="8821" width="45" height="40" class="memberParliament"/><title>memberParliament (2/20/1640 - 1/30/1649)</title></g>
-<g><rect x="24364" y="8821" width="24" height="40" class="lordProtector"/><title>lordProtector (12/16/1653 - 9/3/1658)</title></g>
+<text x="24229" y="8797" class="minor">RICHARD CROMWELL</text><title>Richard Cromwell (10/4/1626 - 7/12/1712)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Thomas_Fairfax" target="_blank"><rect id="Thomas_Fairfax" x="24155" y="8811" width="299" height="25" class="english"/>
+<text x="24157" y="8830" class="semimajor">THOMAS FAIRFAX</text><title>Thomas Fairfax (1/17/1612 - 11/12/1671)</title></a></g>
 
-<text x="24094" y="8851" class="major">OLIVER CROMWELL</text><title>Oliver Cromwell (4/25/1599 - 9/3/1658)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Thomas_Fairfax" target="_blank"><rect id="Thomas_Fairfax" x="24155" y="8871" width="299" height="25" class="english"/>
-<text x="24157" y="8890" class="semimajor">THOMAS FAIRFAX</text><title>Thomas Fairfax (1/17/1612 - 11/12/1671)</title></a></g>
+<text x="24200" y="8691" class="dynasty">PARLIAMENT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Charles_II" target="_blank"><rect id="Charles_II" x="24247" y="8918" width="273" height="40" class="english"/><g><rect x="24397" y="8918" width="123" height="40" class="king"/><title>king (5/29/1660 - 2/6/1685)</title></g>
 
-<text x="24200" y="8776" class="dynasty">PARLIAMENT</text>
+<text x="24250" y="8948" class="major">CHARLES II</text><title>Charles II (5/29/1630 - 2/6/1685)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/James_II" target="_blank"><rect id="James_II" x="24263" y="8968" width="340" height="25" class="english"/><g><rect x="24520" y="8968" width="19" height="25" class="king"/><title>king (2/6/1685 - 12/23/1688)</title></g>
+
+<text x="24265" y="8987" class="semimajor">JAMES II</text><title>James II (10/14/1633 - 9/16/1701)</title></a></g>
+
+<text x="24397" y="8908" class="dynasty">STUART II</text>
 <text x="150" y="10061" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10245" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>
 <text x="24034" y="10256" class="minor">VIRGINIA DARE</text><title>Virginia Dare (8/18/1587 - c. 1600)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_Maria_Wingfield" target="_blank"><rect id="Edward_Maria_Wingfield" x="23795" y="10270" width="455" height="25" class="colonist"  mask="url(#fadeInMask)"/><g><rect x="24131" y="10270" width="5" height="25" class="governor"/><title>governor (5/13/1607)</title></g>
