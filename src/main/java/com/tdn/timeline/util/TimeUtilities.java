@@ -41,8 +41,9 @@ public class TimeUtilities {
 	
 	public static TimelineInstant getInstant(String input) {
 		TimelineInstant result = null;
-		if (input.matches(DATE_REGEX)) {
-			YearMonthDay yearMonthDay = extractYearMonthDay(input);
+		String inputTrimmed = input.trim();
+		if (inputTrimmed.matches(DATE_REGEX)) {
+			YearMonthDay yearMonthDay = extractYearMonthDay(inputTrimmed);
 			int instantYear = yearMonthDay.year;
 			boolean isBC = input.toLowerCase().contains("bc");
 			if (isBC) {
@@ -64,7 +65,7 @@ public class TimeUtilities {
 			dateStringBuilder.append("T00:00:00Z");
 			String dateString = dateStringBuilder.toString();
 			Instant instant = Instant.parse(dateString);
-			result = new TimelineInstant(input, instant, yearMonthDay.year);
+			result = new TimelineInstant(inputTrimmed, instant, yearMonthDay.year);
 		}
 		return result;
 	}

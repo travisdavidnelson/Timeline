@@ -62,6 +62,10 @@ public class TimeUtilitiesTest {
 		TimelineInstant instant19740726 = TimeUtilities.getInstant("7/26/1974");
 		assertEquals(Instant.parse("1974-07-26T00:00:00Z"), instant19740726.getInstant());
 		assertEquals(1974, instant19740726.getYear());
+
+		TimelineInstant instantTrimmedTest = TimeUtilities.getInstant("9/1/1714  ");
+		assertEquals(Instant.parse("1714-09-01T00:00:00Z"), instantTrimmedTest.getInstant());
+		assertEquals(1714, instantTrimmedTest.getYear());
 	}
 	
 	@Test
