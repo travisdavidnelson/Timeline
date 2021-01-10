@@ -1319,6 +1319,14 @@
                 "start": "869",
                 "duration": "1y"
               }
+            },
+            {
+              "name": "Danish kingdom of East Anglia",
+              "style": "viking",
+              "timespan": {
+                "start": "879",
+                "end": "918"
+              }
             }
           ],
           "people": [
@@ -1640,6 +1648,55 @@
                   "timespan": {
                     "start": "12/855",
                     "end": "11/20/869"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Guthrum",
+              "style": "viking",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "850",
+                "endApproximate": "true",
+                "end": "890"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "879",
+                    "endApproximate": "true",
+                    "end": "890"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eoric",
+              "style": "viking",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "890",
+                    "end": "12/13/902"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Guthram II",
+              "style": "viking",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "903",
+                    "end": "918"
                   }
                 }
               ]

@@ -570,6 +570,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Vikings_raids" target="_blank"><rect id="Vikings_raids" x="20421" y="8791" width="3" height="256" class="footprint"/><rect id="Vikings_raids" x="20421" y="8791" width="3" height="256" class="backgroundRaid"/><title>Vikings raids (5/865)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Great_Heathen_Army" target="_blank"><rect id="Great_Heathen_Army" x="20421" y="8791" width="63" height="256" class="footprint"/><rect id="Great_Heathen_Army" x="20421" y="8791" width="63" height="256" class="backgroundInvasion"/><title>Great Heathen Army (5/865 - 878)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Vikings_raids" target="_blank"><rect id="Vikings_raids" x="20440" y="8791" width="5" height="256" class="footprint"/><rect id="Vikings_raids" x="20440" y="8791" width="5" height="256" class="backgroundNationalCalamity"/><title>Vikings raids (869)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Danish_kingdom_of_East_Anglia" target="_blank"><rect id="Danish_kingdom_of_East_Anglia" x="20490" y="8791" width="195" height="256" class="footprint"/><rect id="Danish_kingdom_of_East_Anglia" x="20490" y="8791" width="195" height="256" class="viking"/><title>Danish kingdom of East Anglia (879 - 918)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Pagan_Mercia_Saxons" target="_blank"><rect id="Pagan_Mercia_Saxons" x="18645" y="9069" width="729" height="225" class="footprint"  mask="url(#fadeInMask)"/><rect id="Pagan_Mercia_Saxons" x="18645" y="9069" width="729" height="225" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Pagan Mercia Saxons (c. 515 - 11/15/655)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase" target="_blank"><rect id="Battle_of_Hatfield_Chase" x="19263" y="9069" width="1" height="225" class="footprint"/><rect id="Battle_of_Hatfield_Chase" x="19263" y="9069" width="1" height="225" class="backgroundBattle"/><title>Battle of Hatfield Chase (10/12/633)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Christian_Mercia_Saxons" target="_blank"><rect id="Christian_Mercia_Saxons" x="19374" y="9069" width="1311" height="225" class="footprint"/><rect id="Christian_Mercia_Saxons" x="19374" y="9069" width="1311" height="225" class="angloSaxon"/><title>Christian Mercia Saxons (11/15/655 - 918)</title></a></g>
@@ -11028,6 +11029,15 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edmund" target="_blank"><rect id="Edmund" x="20250" y="8874" width="194" height="40" class="sanctified"  mask="url(#fadeInMask)"/><g><rect x="20374" y="8874" width="70" height="40" class="king"/><title>king (12/855 - 11/20/869)</title></g>
 
 <text x="20256" y="8904" class="major">EDMUND</text><title>Edmund (c. 841 - 11/20/869)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Guthrum" target="_blank"><rect id="Guthrum" x="20295" y="8924" width="300" height="25" class="viking"  mask="url(#fadeInOutMask)"/><g><rect x="20490" y="8924" width="65" height="25" class="king"  mask="url(#fadeOutMask)"/><title>king (879 - c. 890)</title></g>
+
+<text x="20299" y="8943" class="semimajor">GUTHRUM</text><title>Guthrum (c. 850 - c. 890)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Eoric" target="_blank"><rect id="Eoric" x="20545" y="8959" width="65" height="15" class="viking"/><g><rect x="20545" y="8959" width="65" height="15" class="king"/><title>king (890 - 12/13/902)</title></g>
+
+<text x="20546" y="8970" class="minor">EORIC</text><title>Eoric (890 - 12/13/902)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Guthram_II" target="_blank"><rect id="Guthram_II" x="20610" y="8984" width="75" height="8" class="viking"/><g><rect x="20610" y="8984" width="75" height="8" class="king"/><title>king (903 - 918)</title></g>
+
+<text x="20610" y="8990" class="petty">GUTHRAM II</text><title>Guthram II (903 - 918)</title></a></g>
 
 <text x="18845" y="8831" class="dynasty">SAXON EAST ANGLIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Icel" target="_blank"><rect id="Icel" x="18345" y="9119" width="475" height="25" class="angloSaxonHeathen"  mask="url(#fadeInOutMask)"/><g><rect x="18660" y="9119" width="120" height="25" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 515 - c. 535)</title></g>
 
