@@ -3286,8 +3286,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "620",
-                "endApproximate": "true",
-                "end": "900"
+                "end": "3/21/867"
               }
             },
             {
@@ -5241,7 +5240,7 @@
             {
               "name": "Elizabeth II&#9792;",
               "style": "british",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "4/21/1926",
                 "end": ""
