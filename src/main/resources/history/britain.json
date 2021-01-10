@@ -3150,6 +3150,25 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Edmund Ironside",
+              "style": "angloSaxon",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "990",
+                "end": "11/30/1016"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/23/1016",
+                    "end": "11/30/1016"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -4128,32 +4147,88 @@
       ]
     },
     {
-      "name": "Anglo-Saxons",
+      "name": "Vikings",
       "dynasties": [
         {
-          "name": "Anglo-Saxons",
+          "name": "Denmark",
           "people": [
             {
-              "name": "Cnut",
+              "name": "Sweyn Forkbeard",
               "style": "viking",
-              "importance": "major",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "960",
+                "end": "2/3/1014"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "1016",
+                    "start": "986",
+                    "end": "2/3/1014"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cnut",
+              "style": "viking",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "995",
+                "end": "11/12/1035"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/16/1016",
                     "end": "11/12/1035"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harold Harefoot",
+              "style": "viking",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1016",
+                "end": "3/17/1040"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/12/1035",
+                    "end": "3/17/1040"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harthacnut",
+              "style": "viking",
+              "importance": "minor",
+              "timespan": {
+                "start": "1018",
+                "end": "6/8/1042"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/17/1040",
+                    "end": "6/8/1042"
                   }
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Normans",
-      "dynasties": [
+        },
         {
           "name": "Normans",
           "people": [
