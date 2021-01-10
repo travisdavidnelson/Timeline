@@ -360,9 +360,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Barnet" target="_blank"><rect id="Battle_of_Barnet" x="23451" y="8472" width="1" height="1701" class="footprint"/><rect id="Battle_of_Barnet" x="23451" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Battle of Barnet (4/14/1471)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Tewkesbury" target="_blank"><rect id="Battle_of_Tewkesbury" x="23451" y="8472" width="1" height="1701" class="footprint"/><rect id="Battle_of_Tewkesbury" x="23451" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Battle of Tewkesbury (5/4/1471)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Bosworth_Field" target="_blank"><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="footprint"/><rect id="Battle_of_Bosworth_Field" x="23523" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Battle of Bosworth Field (8/22/1485)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/English_Renaisance" target="_blank"><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="footprint"/><rect id="English_Renaisance" x="23530" y="8472" width="1065" height="1701" class="english"/><title>English Renaisance (1487 - 1700)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/English_Renaisance" target="_blank"><rect id="English_Renaisance" x="23530" y="8472" width="1115" height="1701" class="footprint"/><rect id="English_Renaisance" x="23530" y="8472" width="1115" height="1701" class="english"/><title>English Renaisance (1487 - 1710)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Spanish_Armada" target="_blank"><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="footprint"/><rect id="Spanish_Armada" x="24037" y="8472" width="1" height="1701" class="backgroundBattle"/><title>Spanish Armada (7/1588)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Glorius_Revolution" target="_blank"><rect id="Glorius_Revolution" x="24539" y="8472" width="1" height="1701" class="footprint"/><rect id="Glorius_Revolution" x="24539" y="8472" width="1" height="1701" class="backgroundRevolution"/><title>Glorius Revolution (11/5/1688 - 2/13/1689)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Glorious_Revolution" target="_blank"><rect id="Glorious_Revolution" x="24539" y="8472" width="1" height="1701" class="footprint"/><rect id="Glorious_Revolution" x="24539" y="8472" width="1" height="1701" class="backgroundRevolution"/><title>Glorious Revolution (11/5/1688 - 2/13/1689)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Great_Britain" target="_blank"><rect id="Great_Britain" x="24631" y="8472" width="1568" height="1701" class="footprint"/><rect id="Great_Britain" x="24631" y="8472" width="1568" height="1701" class="british"/><title>Great Britain (5/1/1707)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_English_Civil_War" target="_blank"><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="footprint"/><rect id="First_English_Civil_War" x="24307" y="8472" width="19" height="1701" class="backgroundCivilWar"/><title>First English Civil War (8/1642 - 6/1646)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_English_Civil_War" target="_blank"><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="footprint"/><rect id="Second_English_Civil_War" x="24335" y="8472" width="2" height="1701" class="backgroundCivilWar"/><title>Second English Civil War (2/1648 - 8/1648)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Commonwealth_of_England" target="_blank"><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="footprint"/><rect id="Commonwealth_of_England" x="24340" y="8472" width="20" height="1701" class="englishCommonwealth"/><title>Commonwealth of England (1649 - 1653)</title></a></g>
@@ -11407,7 +11408,41 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="24421" y="9099" class="minor">ANNE&#9792;</text><title>Anne&#9792; (2/6/1665 - 9/1/1714)</title></a></g>
 
-<text x="24397" y="8908" class="dynasty">STUART II</text>
+<text x="24397" y="8908" class="dynasty">STUART II</text><g><a xlink:href="http://en.wikipedia.org/wiki/George_I" target="_blank"><rect id="George_I" x="24397" y="8544" width="335" height="25" class="british"/><g><rect x="24667" y="8544" width="64" height="25" class="king"/><title>king (8/1/1714 - 6/11/1727)</title></g>
+
+<text x="24399" y="8563" class="semimajor">GEORGE I</text><title>George I (5/28/1660 - 6/11/1727)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_II" target="_blank"><rect id="George_II" x="24514" y="8579" width="385" height="25" class="british"/><g><rect x="24732" y="8579" width="167" height="25" class="king"/><title>king (6/11/1727 - 10/25/1760)</title></g>
+
+<text x="24516" y="8598" class="semimajor">GEORGE II</text><title>George II (10/30/1683 - 10/25/1760)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_III" target="_blank"><rect id="George_III" x="24787" y="8614" width="408" height="40" class="british"/><g><rect x="24899" y="8614" width="296" height="40" class="king"/><title>king (10/25/1760 - 1/29/1820)</title></g>
+
+<text x="24790" y="8644" class="major">GEORGE III</text><title>George III (6/4/1738 - 1/29/1820)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_IV" target="_blank"><rect id="George_IV" x="24908" y="8664" width="339" height="25" class="british"/><g><rect x="25195" y="8664" width="52" height="25" class="king"/><title>king (1/29/1820 - 6/26/1830)</title></g>
+
+<text x="24910" y="8683" class="semimajor">GEORGE IV</text><title>George IV (8/12/1762 - 6/26/1830)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_IV" target="_blank"><rect id="William_IV" x="24923" y="8699" width="359" height="15" class="british"/><g><rect x="25247" y="8699" width="35" height="15" class="king"/><title>king (6/26/1830 - 6/20/1837)</title></g>
+
+<text x="24924" y="8710" class="minor">WILLIAM IV</text><title>William IV (8/21/1765 - 6/20/1837)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Victoria" target="_blank"><rect id="Victoria" x="25191" y="8724" width="408" height="40" class="british"/><g><rect x="25282" y="8724" width="318" height="40" class="king"/><title>king (6/20/1837 - 1/22/1901)</title></g>
+
+<text x="25194" y="8754" class="major">VICTORIA</text><title>Victoria (5/24/1819 - 1/22/1901)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VII" target="_blank"><rect id="Edward_VII" x="25304" y="8774" width="342" height="15" class="british"/><g><rect x="25600" y="8774" width="46" height="15" class="king"/><title>king (1/22/1901 - 5/6/1910)</title></g>
+
+<text x="25305" y="8785" class="minor">EDWARD VII</text><title>Edward VII (11/9/1841 - 5/6/1910)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_V" target="_blank"><rect id="George_V" x="25422" y="8799" width="353" height="25" class="british"/><g><rect x="25646" y="8799" width="129" height="25" class="king"/><title>king (5/6/1910 - 1/20/1936)</title></g>
+
+<text x="25424" y="8818" class="semimajor">GEORGE V</text><title>George V (6/3/1865 - 1/20/1936)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VIII" target="_blank"><rect id="Edward_VIII" x="25567" y="8834" width="390" height="8" class="british"/><g><rect x="25775" y="8834" width="4" height="8" class="king"/><title>king (1/20/1936 - 12/11/1936)</title></g>
+
+<text x="25567" y="8840" class="petty">EDWARD VIII</text><title>Edward VIII (6/23/1894 - 5/28/1972)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_VI" target="_blank"><rect id="George_VI" x="25574" y="8852" width="281" height="15" class="british"/><g><rect x="25779" y="8852" width="76" height="15" class="king"/><title>king (12/11/1936 - 2/6/1952)</title></g>
+
+<text x="25575" y="8863" class="minor">GEORGE VI</text><title>George VI (12/14/1895 - 2/6/1952)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Elizabeth_II&#9792;" target="_blank"><rect id="Elizabeth_II&#9792;" x="25726" y="8877" width="474" height="25" class="british"/><g><rect x="25855" y="8877" width="345" height="25" class="queen"/><title>queen (2/6/1952 - 2021)</title></g>
+
+<text x="25728" y="8896" class="semimajor">ELIZABETH II&#9792;</text><title>Elizabeth II&#9792; (4/21/1926 - 2021)</title></a></g>
+
+<text x="24667" y="8534" class="dynasty">HANOVER</text>
 <text x="150" y="10061" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10245" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>
 <text x="24034" y="10256" class="minor">VIRGINIA DARE</text><title>Virginia Dare (8/18/1587 - c. 1600)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_Maria_Wingfield" target="_blank"><rect id="Edward_Maria_Wingfield" x="23795" y="10270" width="455" height="25" class="colonist"  mask="url(#fadeInMask)"/><g><rect x="24131" y="10270" width="5" height="25" class="governor"/><title>governor (5/13/1607)</title></g>
