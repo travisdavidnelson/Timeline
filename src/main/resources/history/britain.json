@@ -575,6 +575,22 @@
       "timespan": {
         "start": "5/1/1707"
       }
+    },
+    {
+      "name": "World War I",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/28/1914",
+        "end": "11/11/1918"
+      }
+    },
+    {
+      "name": "World War II",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "9/1/1939",
+        "end": "9/2/1945"
+      }
     }
   ],
   "dynastyGroups": [
