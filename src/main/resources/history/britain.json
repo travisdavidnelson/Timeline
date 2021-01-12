@@ -189,7 +189,7 @@
       "timespan": {
         "startApproximate": true,
         "start": "645",
-        "end": "1066"
+        "end": "10/14/1066"
       },
       "style": "angloSaxon"
     },
@@ -477,8 +477,16 @@
       "name": "Norman Britain",
       "style": "norman",
       "timespan": {
-        "start": "1066",
+        "start": "10/14/1066",
         "end": "1456"
+      }
+    },
+    {
+      "name": "Battle of Hastings",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/14/1066",
+        "duration": "1d"
       }
     },
     {
@@ -4364,6 +4372,44 @@
                   "timespan": {
                     "start": "12/25/1066",
                     "end": "9/9/1087"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William II",
+              "style": "norman",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1056",
+                "end": "8/2/1100"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/9/1087",
+                    "end": "8/2/1100"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry I",
+              "style": "norman",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1068",
+                "end": "12/1/1135"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/2/1100",
+                    "end": "12/1/1135"
                   }
                 }
               ]
