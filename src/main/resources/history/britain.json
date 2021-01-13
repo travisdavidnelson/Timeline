@@ -4613,6 +4613,79 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Edward II",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "4/25/1284",
+                "end": "9/21/1327"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/8/1307",
+                    "end": "1/20/1327"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward III",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "11/13/1312",
+                "end": "6/21/1377"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/25/1327",
+                    "end": "6/21/1377"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward the Black Prince",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "6/15/1330",
+                "end": "6/8/1376"
+              },
+              "titles": [
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "1343",
+                    "end": "6/8/1376"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Richard II",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "1/6/1367",
+                "endApproximate": "true",
+                "end": "2/1400"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/22/1377",
+                    "end": "9/29/1399"
+                  }
+                }
+              ]
             }
           ]
         }
