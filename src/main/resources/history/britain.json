@@ -490,6 +490,14 @@
       }
     },
     {
+      "name": "The Anarchy",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "12/1135",
+        "end": "11/1154"
+      }
+    },
+    {
       "name": "Wars of the Roses",
       "style": "backgroundCivilWar",
       "timespan": {
@@ -4349,6 +4357,16 @@
         },
         {
           "name": "Normans",
+          "backgroundEvents": [
+            {
+              "name": "White Ship diaster",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "11/25/1120",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "William I",
@@ -4410,6 +4428,61 @@
                   "timespan": {
                     "start": "8/2/1100",
                     "end": "12/1/1135"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Matilda&#9792;",
+              "style": "norman",
+              "importance": "major",
+              "timespan": {
+                "start": "2/7/1102",
+                  "end": "9/10/1167"
+              },
+              "titles": [
+                {
+                  "name": "empress",
+                  "timespan": {
+                    "start": "1/7/1114",
+                    "end": "5/23/1125"
+                  }
+                },
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "4/7/1141",
+                    "end": "1148"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Adelin",
+              "style": "norman",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/5/1103",
+                "end": "11/25/1120"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Stephen",
+              "style": "norman",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1092",
+                "end": "10/25/1154"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/22/1135",
+                    "end": "10/25/1154"
                   }
                 }
               ]
