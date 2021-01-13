@@ -4356,7 +4356,7 @@
           ]
         },
         {
-          "name": "Normans",
+          "name": "Norman",
           "backgroundEvents": [
             {
               "name": "White Ship diaster",
@@ -4433,6 +4433,17 @@
               ]
             },
             {
+              "name": "William Adelin",
+              "style": "norman",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/5/1103",
+                "end": "11/25/1120"
+              },
+              "titles": [
+              ]
+            },
+            {
               "name": "Matilda&#9792;",
               "style": "norman",
               "importance": "major",
@@ -4456,18 +4467,14 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "William Adelin",
-              "style": "norman",
-              "importance": "minor",
-              "timespan": {
-                "start": "8/5/1103",
-                "end": "11/25/1120"
-              },
-              "titles": [
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "The Anarchy",
+          "backgroundEvents": [
+          ],
+          "people": [
             {
               "name": "Stephen",
               "style": "norman",
@@ -4483,6 +4490,67 @@
                   "timespan": {
                     "start": "12/22/1135",
                     "end": "10/25/1154"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Plantagenet",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Henry II",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "3/5/1133",
+                "end": "7/6/1189"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/19/1154",
+                    "end": "7/6/1189"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Richard I Lionheart",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "9/8/1157",
+                "end": "4/6/1199"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/3/1189",
+                    "end": "4/6/1199"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "12/24/1166",
+                "end": "10/19/1216"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/27/1199",
+                    "end": "10/19/1216"
                   }
                 }
               ]

@@ -699,7 +699,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase" target="_blank"><rect id="Battle_of_Hatfield_Chase" x="19263" y="9926" width="1" height="185" class="footprint"/><rect id="Battle_of_Hatfield_Chase" x="19263" y="9926" width="1" height="185" class="backgroundBattleVictory"/><title>Battle of Hatfield Chase (10/12/633)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Heavenfield" target="_blank"><rect id="Battle_of_Heavenfield" x="19269" y="9926" width="1" height="185" class="footprint"/><rect id="Battle_of_Heavenfield" x="19269" y="9926" width="1" height="185" class="backgroundBattleDefeat"/><title>Battle of Heavenfield (12/634)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Maserfield" target="_blank"><rect id="Battle_of_Maserfield" x="19308" y="9926" width="1" height="185" class="footprint"/><rect id="Battle_of_Maserfield" x="19308" y="9926" width="1" height="185" class="backgroundBattle"/><title>Battle of Maserfield (8/5/642)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/White_Ship_diaster" target="_blank"><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="305" class="footprint"/><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="305" class="backgroundNationalCalamity"/><title>White Ship diaster (11/25/1120)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/White_Ship_diaster" target="_blank"><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="270" class="footprint"/><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="270" class="backgroundNationalCalamity"/><title>White Ship diaster (11/25/1120)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24130" y="10195" width="848" height="145" class="footprint"/><rect id="Colonial_America" x="24130" y="10195" width="848" height="145" class="colonialAmerica"/><title>Colonial America (1607 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24199" y="10362" width="778" height="255" class="footprint"/><rect id="Colonial_America" x="24199" y="10362" width="778" height="255" class="colonialAmerica"/><title>Colonial America (12/1620 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24594" y="10195" width="383" height="520" class="footprint"/><rect id="Colonial_America" x="24594" y="10195" width="383" height="520" class="colonialAmerica"/><title>Colonial America (1700 - 7/4/1776)</title></a></g>
@@ -11342,17 +11342,28 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Henry_I" target="_blank"><rect id="Henry_I" x="21385" y="8846" width="390" height="40" class="norman"  mask="url(#fadeInMask)"/><g><rect x="21597" y="8846" width="177" height="40" class="king"/><title>king (8/2/1100 - 12/1/1135)</title></g>
 
 <text x="21391" y="8876" class="major">HENRY I</text><title>Henry I (c. 1068 - 12/1/1135)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Matilda&#9792;" target="_blank"><rect id="Matilda&#9792;" x="21605" y="8896" width="328" height="40" class="norman"/><g><rect x="21665" y="8896" width="57" height="40" class="empress"/><title>empress (1/7/1114 - 5/23/1125)</title></g>
-<g><rect x="21801" y="8896" width="34" height="40" class="queen"/><title>queen (4/7/1141 - 1148)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Adelin" target="_blank"><rect id="William_Adelin" x="21612" y="8896" width="87" height="15" class="norman"/>
+<text x="21613" y="8907" class="minor">WILLIAM ADELIN</text><title>William Adelin (8/5/1103 - 11/25/1120)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Matilda&#9792;" target="_blank"><rect id="Matilda&#9792;" x="21605" y="8921" width="328" height="40" class="norman"/><g><rect x="21665" y="8921" width="57" height="40" class="empress"/><title>empress (1/7/1114 - 5/23/1125)</title></g>
+<g><rect x="21801" y="8921" width="34" height="40" class="queen"/><title>queen (4/7/1141 - 1148)</title></g>
 
-<text x="21608" y="8926" class="major">MATILDA&#9792;</text><title>Matilda&#9792; (2/7/1102 - 9/10/1167)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/William_Adelin" target="_blank"><rect id="William_Adelin" x="21612" y="8946" width="87" height="15" class="norman"/>
-<text x="21613" y="8957" class="minor">WILLIAM ADELIN</text><title>William Adelin (8/5/1103 - 11/25/1120)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Stephen" target="_blank"><rect id="Stephen" x="21505" y="8971" width="364" height="25" class="norman"  mask="url(#fadeInMask)"/><g><rect x="21774" y="8971" width="94" height="25" class="king"/><title>king (12/22/1135 - 10/25/1154)</title></g>
+<text x="21608" y="8951" class="major">MATILDA&#9792;</text><title>Matilda&#9792; (2/7/1102 - 9/10/1167)</title></a></g>
 
-<text x="21509" y="8990" class="semimajor">STEPHEN</text><title>Stephen (c. 1092 - 10/25/1154)</title></a></g>
+<text x="21272" y="8741" class="dynasty">NORMAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Stephen" target="_blank"><rect id="Stephen" x="21505" y="9043" width="364" height="25" class="norman"  mask="url(#fadeInMask)"/><g><rect x="21774" y="9043" width="94" height="25" class="king"/><title>king (12/22/1135 - 10/25/1154)</title></g>
 
-<text x="21272" y="8741" class="dynasty">NORMANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_IV" target="_blank"><rect id="Henry_IV" x="22931" y="8544" width="230" height="25" class="english"/><g><rect x="23093" y="8544" width="67" height="25" class="king"/><title>king (9/30/1399 - 3/20/1413)</title></g>
+<text x="21509" y="9062" class="semimajor">STEPHEN</text><title>Stephen (c. 1092 - 10/25/1154)</title></a></g>
+
+<text x="21774" y="9033" class="dynasty">THE ANARCHY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_II" target="_blank"><rect id="Henry_II" x="21760" y="9150" width="282" height="40" class="english"/><g><rect x="21869" y="9150" width="173" height="40" class="king"/><title>king (12/19/1154 - 7/6/1189)</title></g>
+
+<text x="21763" y="9180" class="major">HENRY II</text><title>Henry II (3/5/1133 - 7/6/1189)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Richard_I_Lionheart" target="_blank"><rect id="Richard_I_Lionheart" x="21883" y="9200" width="208" height="25" class="english"/><g><rect x="22043" y="9200" width="48" height="25" class="king"/><title>king (9/3/1189 - 4/6/1199)</title></g>
+
+<text x="21885" y="9219" class="semimajor">RICHARD I LIONHEART</text><title>Richard I Lionheart (9/8/1157 - 4/6/1199)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/John" target="_blank"><rect id="John" x="21929" y="9235" width="249" height="15" class="english"/><g><rect x="22092" y="9235" width="87" height="15" class="king"/><title>king (5/27/1199 - 10/19/1216)</title></g>
+
+<text x="21930" y="9246" class="minor">JOHN</text><title>John (12/24/1166 - 10/19/1216)</title></a></g>
+
+<text x="21869" y="9140" class="dynasty">PLANTAGENET</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_IV" target="_blank"><rect id="Henry_IV" x="22931" y="8544" width="230" height="25" class="english"/><g><rect x="23093" y="8544" width="67" height="25" class="king"/><title>king (9/30/1399 - 3/20/1413)</title></g>
 
 <text x="22933" y="8563" class="semimajor">HENRY IV</text><title>Henry IV (4/1367 - 3/20/1413)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Henry_V" target="_blank"><rect id="Henry_V" x="23028" y="8579" width="180" height="15" class="english"/><g><rect x="23161" y="8579" width="47" height="15" class="king"/><title>king (3/21/1413 - 8/31/1422)</title></g>
