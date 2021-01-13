@@ -498,6 +498,22 @@
       }
     },
     {
+      "name": "First Barons' War",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "1215",
+        "end": "9/1217"
+      }
+    },
+    {
+      "name": "Second Barons' War",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "4/1263",
+        "end": "9/1267"
+      }
+    },
+    {
       "name": "Wars of the Roses",
       "style": "backgroundCivilWar",
       "timespan": {
@@ -4449,7 +4465,7 @@
               "importance": "major",
               "timespan": {
                 "start": "2/7/1102",
-                  "end": "9/10/1167"
+                "end": "9/10/1167"
               },
               "titles": [
                 {
@@ -4495,7 +4511,14 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Plantagenets",
+      "backgroundEvents": [
+      ],
+      "dynasties": [
         {
           "name": "Plantagenet",
           "backgroundEvents": [
@@ -4551,6 +4574,42 @@
                   "timespan": {
                     "start": "5/27/1199",
                     "end": "10/19/1216"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry III",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/1/1207",
+                "end": "11/16/1272"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/28/1216",
+                    "end": "11/16/1272"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward I Longshanks",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "6/17/1239",
+                "end": "7/7/1307"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/20/1272",
+                    "end": "7/7/1307"
                   }
                 }
               ]
