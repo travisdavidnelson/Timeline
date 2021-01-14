@@ -514,11 +514,27 @@
       }
     },
     {
+      "name": "Great Famine of 1315-1317",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1315",
+        "end": "1317"
+      }
+    },
+    {
       "name": "Edwardian War",
       "style": "backgroundWar",
       "timespan": {
         "start": "5/24/1337",
         "end": "1360"
+      }
+    },
+    {
+      "name": "Black Death",
+      "style": "backgroundPlague",
+      "timespan": {
+        "start": "1349",
+        "end": "1351"
       }
     },
     {
