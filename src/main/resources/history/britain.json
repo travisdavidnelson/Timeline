@@ -514,6 +514,54 @@
       }
     },
     {
+      "name": "Edwardian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/24/1337",
+        "end": "1360"
+      }
+    },
+    {
+      "name": "Battle of Crecy",
+      "style": "backgroundBattleVictory",
+      "timespan": {
+        "start": "8/26/1346",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Crecy",
+      "style": "backgroundBattleVictory",
+      "timespan": {
+        "start": "9/19/1356",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Caroline War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1369",
+        "end": "1389"
+      }
+    },
+    {
+      "name": "Lancastrian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1415",
+        "end": "10/19/1453"
+      }
+    },
+    {
+      "name": "Battle of Agincourt",
+      "style": "backgroundBattleVictory",
+      "timespan": {
+        "start": "10/25/1415",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Wars of the Roses",
       "style": "backgroundCivilWar",
       "timespan": {
