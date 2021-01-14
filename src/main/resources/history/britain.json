@@ -514,6 +514,22 @@
       }
     },
     {
+      "name": "Conquest of Wales",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "3/1277",
+        "end": "11/1277"
+      }
+    },
+    {
+      "name": "Conquest of Wales",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "6/1282",
+        "end": "6/1283"
+      }
+    },
+    {
       "name": "Great Famine of 1315-1317",
       "style": "backgroundFamine",
       "timespan": {
@@ -4244,7 +4260,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "450",
-                "end": "1216"
+                "end": "1282"
               }
             },
             {
@@ -4269,6 +4285,22 @@
               "timespan": {
                 "start": "8/5/642",
                 "duration": "1d"
+              }
+            },
+            {
+              "name": "Conquest of Wales",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "3/1277",
+                "end": "11/1277"
+              }
+            },
+            {
+              "name": "Conquest of Wales",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "6/1282",
+                "end": "6/1283"
               }
             }
           ],
