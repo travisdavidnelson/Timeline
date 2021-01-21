@@ -37,7 +37,7 @@
 .mitanni {fill:green;fill-opacity:0.3}
 .mycenae {fill:blue;fill-opacity:0.2}
 .norman {fill:blue;fill-opacity:0.2}
-.parthianEmpire {fill:green;fill-opacity:0.6}
+.parthianEmpire {fill:#abf6f6;fill-opacity:0.6}
 .ptolemaicKingdom {fill:blue;fill-opacity:0.3}
 .romanKingdom {fill:yellow;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.2}
@@ -215,7 +215,7 @@
 .justice   	 		{fill:purple;	fill-opacity:0.6}
 .judge   	 		{fill:purple;	fill-opacity:0.4}
 
-.parthian	        {fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.parthian	        {fill:#abf6f6;	stroke:black; stroke-width:1; fill-opacity:0.3}
 .sabines 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
 .samnites 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
 .etruscans 			{fill:grey;		stroke:black; stroke-width:1; fill-opacity:0.7}
