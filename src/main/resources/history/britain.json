@@ -3744,6 +3744,14 @@
                 "start": "11/866",
                 "duration": "6m"
               }
+            },
+            {
+              "name": "Viking rule",
+              "style": "viking",
+              "timespan": {
+                "start": "867",
+                "end": "954"
+              }
             }
           ],
           "people": [
