@@ -200,6 +200,7 @@
 .triumph 			{fill:red;		fill-opacity:1.0}
 
 .president 			{fill:blue;		fill-opacity:0.8}
+.presidentElect 	{fill:blue;		fill-opacity:0.5}
 .vicePresident 		{fill:blue;		fill-opacity:0.6}
 .speakerOfHouse     {fill:blue;		fill-opacity:0.6}
 .secretaryOfState   {fill:blue;		fill-opacity:0.6}

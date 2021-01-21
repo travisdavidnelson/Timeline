@@ -11851,6 +11851,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25829" y="12372" class="semimajor">GEORGE W. BUSH</text><title>George W. Bush (7/6/1946 - 2021)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Barack_Obama" target="_blank"><rect id="Barack_Obama" x="25902" y="12388" width="297" height="40" class="democrat"/><g><rect x="26119" y="12388" width="19" height="40" class="senator"/><title>senator (1/3/2005 - 11/16/2008)</title></g>
+<g><rect x="26139" y="12388" width="1" height="40" class="presidentElect"/><title>presidentElect (11/16/2008 - 1/20/2009)</title></g>
 <g><rect x="26140" y="12388" width="40" height="40" class="president"/><title>president (1/20/2009 - 1/20/2017)</title></g>
 
 <text x="25905" y="12418" class="major">BARACK OBAMA</text><title>Barack Obama (8/4/1961 - 2021)</title></a></g>
