@@ -682,6 +682,22 @@
       }
     },
     {
+      "name": "Great Plague of London",
+      "style": "backgroundPlague",
+      "timespan": {
+        "start": "5/1665",
+        "end": "2/1666"
+      }
+    },
+    {
+      "name": "Great Fire of London",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "9/2/1666",
+        "end": "9/6/1666"
+      }
+    },
+    {
       "name": "Nine Years' War",
       "style": "backgroundWar",
       "timespan": {
