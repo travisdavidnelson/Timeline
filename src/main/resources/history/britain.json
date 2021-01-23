@@ -698,6 +698,22 @@
       }
     },
     {
+      "name": "Monmouth Rebellion",
+      "style": "backgroundMinorRebellion",
+      "timespan": {
+        "start": "5/1685",
+        "end": "7/1685"
+      }
+    },
+    {
+      "name": "Monmouth Rebellion",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "5/1685",
+        "end": "7/1685"
+      }
+    },
+    {
       "name": "Great Fire of London",
       "style": "backgroundNationalCalamity",
       "timespan": {
@@ -719,6 +735,22 @@
       "timespan": {
         "start": "11/5/1688",
         "end": "2/13/1689"
+      }
+    },
+    {
+      "name": "Williamite War in Ireland",
+      "style": "backgroundMajorRebellion",
+      "timespan": {
+        "start": "3/12/1689",
+        "end": "10/3/1691"
+      }
+    },
+    {
+      "name": "Battle of the Boyne",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/11/1690",
+        "duration": "1d"
       }
     },
     {
@@ -5566,6 +5598,13 @@
                   "timespan": {
                     "start": "12/23/1688",
                     "end": "9/16/1701"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "3/1689",
+                    "end": "7/1/1690"
                   }
                 }
               ]
