@@ -1,5 +1,5 @@
 {
-  "name": "Political",
+  "name": "America",
   "backgroundEvents": [
     {
       "name": "Pre-Columbian",
@@ -16,6 +16,14 @@
         "end": "7/4/1776"
       },
       "style": "ironAge"
+    },
+    {
+      "name": "Queen Anne's War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1702",
+        "end": "1713"
+      }
     },
     {
       "name": "United States",

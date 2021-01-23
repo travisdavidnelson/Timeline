@@ -689,6 +689,14 @@
       }
     },
     {
+      "name": "War of the Spanish Succession",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/1701",
+        "end": "9/11/1714"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
