@@ -735,10 +735,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Conquest_of_Wales" target="_blank"><rect id="Conquest_of_Wales" x="22480" y="9926" width="3" height="185" class="footprint"/><rect id="Conquest_of_Wales" x="22480" y="9926" width="3" height="185" class="backgroundInvasion"/><title>Conquest of Wales (3/1277 - 11/1277)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Conquest_of_Wales" target="_blank"><rect id="Conquest_of_Wales" x="22507" y="9926" width="5" height="185" class="footprint"/><rect id="Conquest_of_Wales" x="22507" y="9926" width="5" height="185" class="backgroundInvasion"/><title>Conquest of Wales (6/1282 - 6/1283)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/White_Ship_diaster" target="_blank"><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="270" class="footprint"/><rect id="White_Ship_diaster" x="21699" y="8701" width="1" height="270" class="backgroundNationalCalamity"/><title>White Ship diaster (11/25/1120)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Rye_House_Plot" target="_blank"><rect id="Rye_House_Plot" x="24510" y="8868" width="1" height="245" class="footprint"/><rect id="Rye_House_Plot" x="24510" y="8868" width="1" height="245" class="backgroundConspiracy"/><title>Rye House Plot (3/1683)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Monmouth_Rebellion" target="_blank"><rect id="Monmouth_Rebellion" x="24521" y="8868" width="1" height="245" class="footprint"/><rect id="Monmouth_Rebellion" x="24521" y="8868" width="1" height="245" class="backgroundMinorRebellion"/><title>Monmouth Rebellion (5/1685 - 7/1685)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Williamite_War_in_Ireland" target="_blank"><rect id="Williamite_War_in_Ireland" x="24540" y="8868" width="13" height="245" class="footprint"/><rect id="Williamite_War_in_Ireland" x="24540" y="8868" width="13" height="245" class="backgroundMajorRebellion"/><title>Williamite War in Ireland (3/12/1689 - 10/3/1691)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Boyne" target="_blank"><rect id="Battle_of_the_Boyne" x="24547" y="8868" width="1" height="245" class="footprint"/><rect id="Battle_of_the_Boyne" x="24547" y="8868" width="1" height="245" class="backgroundBattle"/><title>Battle of the Boyne (7/11/1690)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Rye_House_Plot" target="_blank"><rect id="Rye_House_Plot" x="24510" y="8868" width="1" height="305" class="footprint"/><rect id="Rye_House_Plot" x="24510" y="8868" width="1" height="305" class="backgroundConspiracy"/><title>Rye House Plot (3/1683)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Monmouth_Rebellion" target="_blank"><rect id="Monmouth_Rebellion" x="24521" y="8868" width="1" height="305" class="footprint"/><rect id="Monmouth_Rebellion" x="24521" y="8868" width="1" height="305" class="backgroundMinorRebellion"/><title>Monmouth Rebellion (5/1685 - 7/1685)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Sedgemoor" target="_blank"><rect id="Battle_of_Sedgemoor" x="24522" y="8868" width="1" height="305" class="footprint"/><rect id="Battle_of_Sedgemoor" x="24522" y="8868" width="1" height="305" class="backgroundBattle"/><title>Battle of Sedgemoor (7/6/1685)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Williamite_War_in_Ireland" target="_blank"><rect id="Williamite_War_in_Ireland" x="24540" y="8868" width="13" height="305" class="footprint"/><rect id="Williamite_War_in_Ireland" x="24540" y="8868" width="13" height="305" class="backgroundMajorRebellion"/><title>Williamite War in Ireland (3/12/1689 - 10/3/1691)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Boyne" target="_blank"><rect id="Battle_of_the_Boyne" x="24547" y="8868" width="1" height="305" class="footprint"/><rect id="Battle_of_the_Boyne" x="24547" y="8868" width="1" height="305" class="backgroundBattle"/><title>Battle of the Boyne (7/11/1690)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24130" y="10195" width="848" height="145" class="footprint"/><rect id="Colonial_America" x="24130" y="10195" width="848" height="145" class="colonialAmerica"/><title>Colonial America (1607 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24199" y="10362" width="778" height="255" class="footprint"/><rect id="Colonial_America" x="24199" y="10362" width="778" height="255" class="colonialAmerica"/><title>Colonial America (12/1620 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24594" y="10195" width="383" height="520" class="footprint"/><rect id="Colonial_America" x="24594" y="10195" width="383" height="520" class="colonialAmerica"/><title>Colonial America (1700 - 7/4/1776)</title></a></g>
@@ -11511,54 +11512,61 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="24200" y="8691" class="dynasty">PARLIAMENT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Charles_II" target="_blank"><rect id="Charles_II" x="24247" y="8918" width="273" height="40" class="english"/><g><rect x="24397" y="8918" width="123" height="40" class="king"/><title>king (5/29/1660 - 2/6/1685)</title></g>
 
 <text x="24250" y="8948" class="major">CHARLES II</text><title>Charles II (5/29/1630 - 2/6/1685)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/James_II" target="_blank"><rect id="James_II" x="24263" y="8968" width="340" height="25" class="english"/><g><rect x="24520" y="8968" width="19" height="25" class="king"/><title>king (2/6/1685 - 12/23/1688)</title></g>
-<g><rect x="24539" y="8968" width="64" height="25" class="exile"/><title>exile (12/23/1688 - 9/16/1701)</title></g>
-<g><rect x="24540" y="8968" width="7" height="25" class="rebel"/><title>rebel (3/1689 - 7/1/1690)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/James_Scott" target="_blank"><rect id="James_Scott" x="24341" y="8968" width="181" height="15" class="english"/><g><rect x="24521" y="8968" width="1" height="15" class="rebel"/><title>rebel (5/1685 - 7/1685)</title></g>
 
-<text x="24265" y="8987" class="semimajor">JAMES II</text><title>James II (10/14/1633 - 9/16/1701)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/William_III" target="_blank"><rect id="William_III" x="24349" y="9003" width="257" height="40" class="english"/><g><rect x="24540" y="9003" width="65" height="40" class="king"/><title>king (2/13/1689 - 3/8/1702)</title></g>
+<text x="24342" y="8979" class="minor">JAMES SCOTT</text><title>James Scott (4/9/1649 - 7/15/1685)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/James_II" target="_blank"><rect id="James_II" x="24263" y="8993" width="340" height="25" class="english"/><g><rect x="24520" y="8993" width="19" height="25" class="king"/><title>king (2/6/1685 - 12/23/1688)</title></g>
+<g><rect x="24539" y="8993" width="64" height="25" class="exile"/><title>exile (12/23/1688 - 9/16/1701)</title></g>
+<g><rect x="24540" y="8993" width="7" height="25" class="rebel"/><title>rebel (3/1689 - 7/1/1690)</title></g>
 
-<text x="24352" y="9033" class="major">WILLIAM III</text><title>William III (11/4/1650 - 3/8/1702)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Mary_II&#9792;" target="_blank"><rect id="Mary_II&#9792;" x="24406" y="9053" width="163" height="25" class="english"/><g><rect x="24540" y="9053" width="29" height="25" class="queen"/><title>queen (2/13/1689 - 12/28/1694)</title></g>
+<text x="24265" y="9012" class="semimajor">JAMES II</text><title>James II (10/14/1633 - 9/16/1701)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_III" target="_blank"><rect id="William_III" x="24349" y="9028" width="257" height="40" class="english"/><g><rect x="24540" y="9028" width="65" height="40" class="king"/><title>king (2/13/1689 - 3/8/1702)</title></g>
 
-<text x="24408" y="9072" class="semimajor">MARY II&#9792;</text><title>Mary II&#9792; (4/30/1662 - 12/28/1694)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Anne&#9792;" target="_blank"><rect id="Anne&#9792;" x="24420" y="9088" width="248" height="15" class="english"/><g><rect x="24605" y="9088" width="62" height="15" class="queen"/><title>queen (3/8/1702 - 9/1/1714)</title></g>
+<text x="24352" y="9058" class="major">WILLIAM III</text><title>William III (11/4/1650 - 3/8/1702)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mary_II&#9792;" target="_blank"><rect id="Mary_II&#9792;" x="24406" y="9078" width="163" height="25" class="english"/><g><rect x="24540" y="9078" width="29" height="25" class="queen"/><title>queen (2/13/1689 - 12/28/1694)</title></g>
 
-<text x="24421" y="9099" class="minor">ANNE&#9792;</text><title>Anne&#9792; (2/6/1665 - 9/1/1714)</title></a></g>
+<text x="24408" y="9097" class="semimajor">MARY II&#9792;</text><title>Mary II&#9792; (4/30/1662 - 12/28/1694)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Anne&#9792;" target="_blank"><rect id="Anne&#9792;" x="24420" y="9113" width="248" height="15" class="english"/><g><rect x="24605" y="9113" width="62" height="15" class="queen"/><title>queen (3/8/1702 - 9/1/1714)</title></g>
 
-<text x="24397" y="8908" class="dynasty">STUART II</text><g><a xlink:href="http://en.wikipedia.org/wiki/George_I" target="_blank"><rect id="George_I" x="24397" y="8544" width="335" height="25" class="british"/><g><rect x="24667" y="8544" width="64" height="25" class="king"/><title>king (8/1/1714 - 6/11/1727)</title></g>
+<text x="24421" y="9124" class="minor">ANNE&#9792;</text><title>Anne&#9792; (2/6/1665 - 9/1/1714)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/John_Churchill" target="_blank"><rect id="John_Churchill" x="24346" y="9138" width="360" height="25" class="english"/><g><rect x="24541" y="9138" width="69" height="25" class="earl"/><title>earl (4/9/1689 - 1703)</title></g>
+<g><rect x="24609" y="9138" width="97" height="25" class="duke"/><title>duke (1703 - 6/16/1722)</title></g>
 
-<text x="24399" y="8563" class="semimajor">GEORGE I</text><title>George I (5/28/1660 - 6/11/1727)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/George_II" target="_blank"><rect id="George_II" x="24514" y="8579" width="385" height="25" class="british"/><g><rect x="24732" y="8579" width="167" height="25" class="king"/><title>king (6/11/1727 - 10/25/1760)</title></g>
+<text x="24348" y="9157" class="semimajor">JOHN CHURCHILL</text><title>John Churchill (5/26/1650 - 6/16/1722)</title></a></g>
 
-<text x="24516" y="8598" class="semimajor">GEORGE II</text><title>George II (10/30/1683 - 10/25/1760)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/George_III" target="_blank"><rect id="George_III" x="24787" y="8614" width="408" height="40" class="british"/><g><rect x="24899" y="8614" width="296" height="40" class="king"/><title>king (10/25/1760 - 1/29/1820)</title></g>
+<text x="24397" y="8908" class="dynasty">STUART II</text><g><a xlink:href="http://en.wikipedia.org/wiki/George_I" target="_blank"><rect id="George_I" x="24397" y="8544" width="335" height="15" class="british"/><g><rect x="24667" y="8544" width="64" height="15" class="king"/><title>king (8/1/1714 - 6/11/1727)</title></g>
 
-<text x="24790" y="8644" class="major">GEORGE III</text><title>George III (6/4/1738 - 1/29/1820)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/George_IV" target="_blank"><rect id="George_IV" x="24908" y="8664" width="339" height="25" class="british"/><g><rect x="25195" y="8664" width="52" height="25" class="king"/><title>king (1/29/1820 - 6/26/1830)</title></g>
+<text x="24398" y="8555" class="minor">GEORGE I</text><title>George I (5/28/1660 - 6/11/1727)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_II" target="_blank"><rect id="George_II" x="24514" y="8569" width="385" height="25" class="british"/><g><rect x="24732" y="8569" width="167" height="25" class="king"/><title>king (6/11/1727 - 10/25/1760)</title></g>
 
-<text x="24910" y="8683" class="semimajor">GEORGE IV</text><title>George IV (8/12/1762 - 6/26/1830)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/William_IV" target="_blank"><rect id="William_IV" x="24923" y="8699" width="359" height="15" class="british"/><g><rect x="25247" y="8699" width="35" height="15" class="king"/><title>king (6/26/1830 - 6/20/1837)</title></g>
+<text x="24516" y="8588" class="semimajor">GEORGE II</text><title>George II (10/30/1683 - 10/25/1760)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_III" target="_blank"><rect id="George_III" x="24787" y="8604" width="408" height="40" class="british"/><g><rect x="24899" y="8604" width="296" height="40" class="king"/><title>king (10/25/1760 - 1/29/1820)</title></g>
 
-<text x="24924" y="8710" class="minor">WILLIAM IV</text><title>William IV (8/21/1765 - 6/20/1837)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Victoria&#9792;" target="_blank"><rect id="Victoria&#9792;" x="25191" y="8724" width="408" height="40" class="british"/><g><rect x="25282" y="8724" width="318" height="40" class="king"/><title>king (6/20/1837 - 1/22/1901)</title></g>
+<text x="24790" y="8634" class="major">GEORGE III</text><title>George III (6/4/1738 - 1/29/1820)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_IV" target="_blank"><rect id="George_IV" x="24908" y="8654" width="339" height="25" class="british"/><g><rect x="25195" y="8654" width="52" height="25" class="king"/><title>king (1/29/1820 - 6/26/1830)</title></g>
 
-<text x="25194" y="8754" class="major">VICTORIA&#9792;</text><title>Victoria&#9792; (5/24/1819 - 1/22/1901)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VII" target="_blank"><rect id="Edward_VII" x="25304" y="8774" width="342" height="15" class="british"/><g><rect x="25600" y="8774" width="46" height="15" class="king"/><title>king (1/22/1901 - 5/6/1910)</title></g>
+<text x="24910" y="8673" class="semimajor">GEORGE IV</text><title>George IV (8/12/1762 - 6/26/1830)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_IV" target="_blank"><rect id="William_IV" x="24923" y="8689" width="359" height="15" class="british"/><g><rect x="25247" y="8689" width="35" height="15" class="king"/><title>king (6/26/1830 - 6/20/1837)</title></g>
 
-<text x="25305" y="8785" class="minor">EDWARD VII</text><title>Edward VII (11/9/1841 - 5/6/1910)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/George_V" target="_blank"><rect id="George_V" x="25422" y="8799" width="353" height="25" class="british"/><g><rect x="25646" y="8799" width="129" height="25" class="king"/><title>king (5/6/1910 - 1/20/1936)</title></g>
+<text x="24924" y="8700" class="minor">WILLIAM IV</text><title>William IV (8/21/1765 - 6/20/1837)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Victoria&#9792;" target="_blank"><rect id="Victoria&#9792;" x="25191" y="8714" width="408" height="40" class="british"/><g><rect x="25282" y="8714" width="318" height="40" class="king"/><title>king (6/20/1837 - 1/22/1901)</title></g>
 
-<text x="25424" y="8818" class="semimajor">GEORGE V</text><title>George V (6/3/1865 - 1/20/1936)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VIII" target="_blank"><rect id="Edward_VIII" x="25567" y="8834" width="390" height="8" class="british"/><g><rect x="25775" y="8834" width="4" height="8" class="king"/><title>king (1/20/1936 - 12/11/1936)</title></g>
+<text x="25194" y="8744" class="major">VICTORIA&#9792;</text><title>Victoria&#9792; (5/24/1819 - 1/22/1901)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VII" target="_blank"><rect id="Edward_VII" x="25304" y="8764" width="342" height="15" class="british"/><g><rect x="25600" y="8764" width="46" height="15" class="king"/><title>king (1/22/1901 - 5/6/1910)</title></g>
 
-<text x="25567" y="8840" class="petty">EDWARD VIII</text><title>Edward VIII (6/23/1894 - 5/28/1972)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/George_VI" target="_blank"><rect id="George_VI" x="25574" y="8852" width="281" height="15" class="british"/><g><rect x="25779" y="8852" width="76" height="15" class="king"/><title>king (12/11/1936 - 2/6/1952)</title></g>
+<text x="25305" y="8775" class="minor">EDWARD VII</text><title>Edward VII (11/9/1841 - 5/6/1910)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_V" target="_blank"><rect id="George_V" x="25422" y="8789" width="353" height="25" class="british"/><g><rect x="25646" y="8789" width="129" height="25" class="king"/><title>king (5/6/1910 - 1/20/1936)</title></g>
 
-<text x="25575" y="8863" class="minor">GEORGE VI</text><title>George VI (12/14/1895 - 2/6/1952)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Elizabeth_II&#9792;" target="_blank"><rect id="Elizabeth_II&#9792;" x="25726" y="8877" width="474" height="40" class="british"/><g><rect x="25855" y="8877" width="345" height="40" class="queen"/><title>queen (2/6/1952)</title></g>
+<text x="25424" y="8808" class="semimajor">GEORGE V</text><title>George V (6/3/1865 - 1/20/1936)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_VIII" target="_blank"><rect id="Edward_VIII" x="25567" y="8824" width="390" height="8" class="british"/><g><rect x="25775" y="8824" width="4" height="8" class="king"/><title>king (1/20/1936 - 12/11/1936)</title></g>
 
-<text x="25729" y="8907" class="major">ELIZABETH II&#9792;</text><title>Elizabeth II&#9792; (4/21/1926)</title></a></g>
+<text x="25567" y="8830" class="petty">EDWARD VIII</text><title>Edward VIII (6/23/1894 - 5/28/1972)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/George_VI" target="_blank"><rect id="George_VI" x="25574" y="8842" width="281" height="15" class="british"/><g><rect x="25779" y="8842" width="76" height="15" class="king"/><title>king (12/11/1936 - 2/6/1952)</title></g>
+
+<text x="25575" y="8853" class="minor">GEORGE VI</text><title>George VI (12/14/1895 - 2/6/1952)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Elizabeth_II&#9792;" target="_blank"><rect id="Elizabeth_II&#9792;" x="25726" y="8867" width="474" height="40" class="british"/><g><rect x="25855" y="8867" width="345" height="40" class="queen"/><title>queen (2/6/1952)</title></g>
+
+<text x="25729" y="8897" class="major">ELIZABETH II&#9792;</text><title>Elizabeth II&#9792; (4/21/1926)</title></a></g>
 
 <text x="24667" y="8534" class="dynasty">HANOVER</text>
 <text x="150" y="10061" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10245" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>

@@ -5560,6 +5560,14 @@
               }
             },
             {
+              "name": "Battle of Sedgemoor",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/6/1685",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Williamite War in Ireland",
               "style": "backgroundMajorRebellion",
               "timespan": {
@@ -5591,6 +5599,24 @@
                   "timespan": {
                     "start": "5/29/1660",
                     "end": "2/6/1685"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "James Scott",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "4/9/1649",
+                "end": "7/15/1685"
+              },
+              "titles": [
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "5/1685",
+                    "end": "7/1685"
                   }
                 }
               ]
@@ -5680,6 +5706,31 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "John Churchill",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "5/26/1650",
+                "end": "6/16/1722"
+              },
+              "titles": [
+                {
+                  "name": "earl",
+                  "timespan": {
+                    "start": "4/9/1689",
+                    "end": "1703"
+                  }
+                },
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "1703",
+                    "end": "6/16/1722"
+                  }
+                }
+              ]
             }
           ]
         }
@@ -5696,7 +5747,7 @@
             {
               "name": "George I",
               "style": "british",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "5/28/1660",
                 "end": "6/11/1727"
