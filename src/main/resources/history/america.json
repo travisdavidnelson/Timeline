@@ -18,6 +18,14 @@
       "style": "ironAge"
     },
     {
+      "name": "King William's War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1688",
+        "end": "1697"
+      }
+    },
+    {
       "name": "Queen Anne's War",
       "style": "backgroundWar",
       "timespan": {

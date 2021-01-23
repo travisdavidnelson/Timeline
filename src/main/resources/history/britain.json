@@ -682,6 +682,14 @@
       }
     },
     {
+      "name": "Nine Years' War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "9/27/1688",
+        "end": "9/20/1697"
+      }
+    },
+    {
       "name": "Great Britain",
       "style": "british",
       "timespan": {
