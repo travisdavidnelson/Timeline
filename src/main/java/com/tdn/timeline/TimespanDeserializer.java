@@ -33,9 +33,6 @@ public class TimespanDeserializer implements JsonDeserializer<Timespan> {
 				TimelineInstant end = TimeUtilities.getInstant(endString);
 				result.setEnd(end);
 			}
-			else {
-				result.setEnd(TimelineInstant.NOW);
-			}
 		}
 		if (jsonData.has("duration")) {
 			String durationString = jsonData.get("duration").getAsString();
