@@ -2447,12 +2447,17 @@
               ]
             },
             {
-              "name": "Aethelflaed",
+              "name": "Aethelflaed&#9792;",
               "style": "angloSaxon",
-              "importance": "minor",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "870",
+                "end": "918"
+              },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "queen",
                   "timespan": {
                     "start": "911",
                     "end": "918"
@@ -2461,7 +2466,7 @@
               ]
             },
             {
-              "name": "Aelfwynn",
+              "name": "Aelfwynn&#9792;",
               "style": "angloSaxon",
               "importance": "petty",
               "titles": [
