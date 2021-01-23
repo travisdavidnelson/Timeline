@@ -698,19 +698,19 @@
       }
     },
     {
-      "name": "Monmouth Rebellion",
-      "style": "backgroundMinorRebellion",
+      "name": "War of Devolution",
+      "style": "backgroundWar",
       "timespan": {
-        "start": "5/1685",
-        "end": "7/1685"
+        "start": "5/24/1667",
+        "end": "5/2/1668"
       }
     },
     {
-      "name": "Monmouth Rebellion",
-      "style": "backgroundRebellion",
+      "name": "Third Anglo-Dutch War",
+      "style": "backgroundWar",
       "timespan": {
-        "start": "5/1685",
-        "end": "7/1685"
+        "start": "4/7/1672",
+        "end": "2/19/1674"
       }
     },
     {
@@ -735,22 +735,6 @@
       "timespan": {
         "start": "11/5/1688",
         "end": "2/13/1689"
-      }
-    },
-    {
-      "name": "Williamite War in Ireland",
-      "style": "backgroundMajorRebellion",
-      "timespan": {
-        "start": "3/12/1689",
-        "end": "10/3/1691"
-      }
-    },
-    {
-      "name": "Battle of the Boyne",
-      "style": "backgroundBattle",
-      "timespan": {
-        "start": "7/11/1690",
-        "duration": "1d"
       }
     },
     {
@@ -5558,6 +5542,40 @@
         },
         {
           "name": "Stuart II",
+          "backgroundEvents": [
+            {
+              "name": "Rye House Plot",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "3/1683",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Monmouth Rebellion",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "5/1685",
+                "end": "7/1685"
+              }
+            },
+            {
+              "name": "Williamite War in Ireland",
+              "style": "backgroundMajorRebellion",
+              "timespan": {
+                "start": "3/12/1689",
+                "end": "10/3/1691"
+              }
+            },
+            {
+              "name": "Battle of the Boyne",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/11/1690",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Charles II",
