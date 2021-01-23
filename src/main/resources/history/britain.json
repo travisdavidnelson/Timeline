@@ -771,7 +771,7 @@
               "style": "angloSaxon",
               "timespan": {
                 "start": "12/25/597",
-                "end": "800"
+                "end": "825"
               }
             },
             {
@@ -783,6 +783,86 @@
                 "end": "497"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/804",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/811",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/835",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/841",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/842",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "7/851",
+                "duration": "10m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/853",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "7/854",
+                "duration": "10m"
+              }
+            },
+            {
+              "name": "Vikings raids",
+              "style": "backgroundRaid",
+              "timespan": {
+                "start": "5/885",
+                "duration": "6m"
+              }
+            },
+            {
+              "name": "Danelaw",
+              "style": "viking",
+              "timespan": {
+                "start": "879",
+                "end": "1067"
+              }
             }
           ],
           "people": [
@@ -1441,19 +1521,19 @@
               }
             },
             {
+              "name": "Danish kingdom of East Anglia",
+              "style": "viking",
+              "timespan": {
+                "start": "879",
+                "end": "1067"
+              }
+            },
+            {
               "name": "Vikings raids",
               "style": "backgroundNationalCalamity",
               "timespan": {
                 "start": "869",
                 "duration": "1y"
-              }
-            },
-            {
-              "name": "Danish kingdom of East Anglia",
-              "style": "viking",
-              "timespan": {
-                "start": "879",
-                "end": "918"
               }
             }
           ],
@@ -3754,8 +3834,8 @@
               "name": "Viking rule",
               "style": "viking",
               "timespan": {
-                "start": "867",
-                "end": "954"
+                "start": "878",
+                "end": "1067"
               }
             }
           ],
