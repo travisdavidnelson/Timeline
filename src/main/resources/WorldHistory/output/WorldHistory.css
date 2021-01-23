@@ -91,15 +91,15 @@
 .backgroundPlague {fill:black; fill-opacity:0.5}
 .backgroundReignOfTerror {fill:red; fill-opacity:0.8}
 .backgroundRevolution {fill:#C00000; fill-opacity:0.7}
-.backgroundUnionVictory {stroke:#C00000; stroke-width:1.5; fill:blue; fill-opacity:0.8}
-.backgroundConfederateVictory {stroke:#C00000; stroke-width:1.5; fill:red; fill-opacity:0.8}
+.backgroundUnionVictory {fill:blue; fill-opacity:0.8}
+.backgroundConfederateVictory {fill:red; fill-opacity:0.8}
 .backgroundWar {fill:red; fill-opacity:0.5}
 .neolithic {fill:grey;fill-opacity:0.3}
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}
-.conflict {fill:red; stroke:red; stroke-width:1; fill-opacity:1.0}
+.conflict {fill:red; stroke:red; stroke-width:0.1; fill-opacity:1.0}
 .roman {fill:#718d99; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
-.romanNewMan {fill:#718d99; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.romanNewMan {fill:#718d99; stroke:blue; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .achaemenid {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .amorite {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .assyrian {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
@@ -123,7 +123,7 @@
 .ur {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
 .sanctified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
-.barbarian {fill:purple; stroke:black; stroke-width:1; fill-opacity:0.8}
+.barbarian {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.8}
 .american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .colonist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
 .patriot {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
@@ -216,20 +216,20 @@
 .justice   	 		{fill:purple;	fill-opacity:0.6}
 .judge   	 		{fill:purple;	fill-opacity:0.4}
 
-.parthian	        {fill:#abf6f6;	stroke:black; stroke-width:1; fill-opacity:0.3}
-.sabines 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.samnites 			{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.etruscans 			{fill:grey;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.carthage 			{fill:orange;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.gauls 				{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.islamicCaliphate	{fill:green;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.macedonianEmpire 	{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.6}
-.alamanni 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.vandals 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.franks 			{fill:blue;		stroke:black; stroke-width:1; fill-opacity:0.7}
-.visigoths 			{fill:black;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.ostrogoths 		{fill:black;	stroke:black; stroke-width:1; fill-opacity:0.7}
-.huns 				{fill:yellow;	stroke:black; stroke-width:1; fill-opacity:0.7}
+.parthian	        {fill:#abf6f6;	stroke:black; stroke-width:0.1; fill-opacity:0.3}
+.sabines 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.samnites 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.etruscans 			{fill:grey;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.carthage 			{fill:orange;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.gauls 				{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.islamicCaliphate	{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.macedonianEmpire 	{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.6}
+.alamanni 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.vandals 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.franks 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.visigoths 			{fill:black;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.ostrogoths 		{fill:black;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.huns 				{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 
