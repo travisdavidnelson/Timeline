@@ -674,11 +674,19 @@
       }
     },
     {
-      "name": "Glorious Revolution",
-      "style": "backgroundRevolution",
+      "name": "First Anglo-Dutch War",
+      "style": "backgroundWar",
       "timespan": {
-        "start": "11/5/1688",
-        "end": "2/13/1689"
+        "start": "1652",
+        "end": "1654"
+      }
+    },
+    {
+      "name": "Second Anglo-Dutch War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "3/4/1665",
+        "end": "7/31/1667"
       }
     },
     {
@@ -703,6 +711,14 @@
       "timespan": {
         "start": "9/27/1688",
         "end": "9/20/1697"
+      }
+    },
+    {
+      "name": "Glorious Revolution",
+      "style": "backgroundRevolution",
+      "timespan": {
+        "start": "11/5/1688",
+        "end": "2/13/1689"
       }
     },
     {
