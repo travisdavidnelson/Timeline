@@ -5699,7 +5699,7 @@
             {
               "name": "Mary II&#9792;",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "4/30/1662",
                 "end": "12/28/1694"
@@ -5717,7 +5717,7 @@
             {
               "name": "Anne&#9792;",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "2/6/1665",
                 "end": "9/1/1714"
@@ -5728,6 +5728,25 @@
                   "timespan": {
                     "start": "3/8/1702",
                     "end": "9/1/1714"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sarah Churchill&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "annotation": "Duchess of Marlborough",
+              "timespan": {
+                "start": "6/5/1660",
+                "end": "10/18/1744"
+              },
+              "titles": [
+                {
+                  "name": "keeperOfPrivyPurse",
+                  "timespan": {
+                    "start": "1702",
+                    "end": "1711"
                   }
                 }
               ]
