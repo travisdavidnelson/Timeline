@@ -753,6 +753,14 @@
       }
     },
     {
+      "name": "Anglo-Spanish War of 1727-1729",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1727",
+        "end": "1729"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
@@ -5743,6 +5751,16 @@
       "dynasties": [
         {
           "name": "Hanover",
+          "backgroundEvents": [
+            {
+              "name": "Jacobite Rising of 1715",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "8/27/1715",
+                "end": "2/4/1715"
+              }
+            }
+          ],
           "people": [
             {
               "name": "George I",
