@@ -769,6 +769,22 @@
       }
     },
     {
+      "name": "Battle of Oudenaarde",
+      "style": "backgroundForeignWarMajorVictory",
+      "timespan": {
+        "start": "7/11/1708",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Malplaquet",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/11/1709",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Anglo-Spanish War of 1727-1729",
       "style": "backgroundWar",
       "timespan": {
@@ -5797,6 +5813,22 @@
                   "style": "triumph",
                   "timespan": {
                     "start": "5/23/1706",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Oudenaarde",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "7/11/1708",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Malplaquet",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "9/11/1709",
                     "duration": "1d"
                   }
                 }
