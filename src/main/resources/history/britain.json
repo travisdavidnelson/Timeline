@@ -753,6 +753,22 @@
       }
     },
     {
+      "name": "Battle of Blenheim",
+      "style": "backgroundForeignWarMajorVictory",
+      "timespan": {
+        "start": "8/13/1704",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Ramillies",
+      "style": "backgroundForeignWarMajorVictory",
+      "timespan": {
+        "start": "5/23/1706",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Anglo-Spanish War of 1727-1729",
       "style": "backgroundWar",
       "timespan": {
@@ -5633,6 +5649,7 @@
               "name": "James II",
               "style": "english",
               "importance": "semimajor",
+              "annotation": "Duke of York",
               "timespan": {
                 "start": "10/14/1633",
                 "end": "9/16/1701"
@@ -5718,7 +5735,8 @@
             {
               "name": "John Churchill",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
+              "annotation": "1st Duke of Marlborough",
               "timespan": {
                 "start": "5/26/1650",
                 "end": "6/16/1722"
@@ -5736,6 +5754,31 @@
                   "timespan": {
                     "start": "1703",
                     "end": "6/16/1722"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1701",
+                    "end": "1/1712"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Blemhein",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "8/13/1704",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Ramillies",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "5/23/1706",
+                    "duration": "1d"
                   }
                 }
               ]
