@@ -11499,10 +11499,13 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="23980" y="9269" width="15" height="25" class="exploration"/><title>Circumnavigation (1577 - 1580)</title></g>
 
 <text x="23748" y="9288" class="semimajor">FRANCIS DRAKE</text><title>Francis Drake (c. 1540 - 1/28/1596)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/William_Shakespeare" target="_blank"><rect id="William_Shakespeare" x="23916" y="9304" width="260" height="50" class="english"/>
-<text x="23922" y="9344" class="transformational">WILLIAM SHAKESPEARE</text><title>William Shakespeare (4/26/1564 - 4/23/1616)</title></a></g>
 
-<text x="23523" y="9021" class="dynasty">TUDORS</text><g><a xlink:href="http://en.wikipedia.org/wiki/James_VI_and_I" target="_blank"><rect id="James_VI_and_I" x="23927" y="8544" width="294" height="25" class="english"/><g><rect x="24111" y="8544" width="110" height="25" class="king"/><title>king (3/24/1603 - 3/27/1625)</title></g>
+<text x="23523" y="9021" class="dynasty">TUDORS</text><g><a xlink:href="http://en.wikipedia.org/wiki/William_Shakespeare" target="_blank"><rect id="William_Shakespeare" x="23916" y="9376" width="260" height="50" class="english"/>
+<text x="23922" y="9416" class="transformational">WILLIAM SHAKESPEARE</text><title>William Shakespeare (4/26/1564 - 4/23/1616)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Isaac_Newton" target="_blank"><rect id="Isaac_Newton" x="24310" y="9436" width="421" height="50" class="english"/>
+<text x="24316" y="9476" class="transformational">ISAAC NEWTON</text><title>Isaac Newton (1/4/1643 - 3/31/1727)</title></a></g>
+
+<text x="23916" y="9366" class="dynasty">CULTURAL</text><g><a xlink:href="http://en.wikipedia.org/wiki/James_VI_and_I" target="_blank"><rect id="James_VI_and_I" x="23927" y="8544" width="294" height="25" class="english"/><g><rect x="24111" y="8544" width="110" height="25" class="king"/><title>king (3/24/1603 - 3/27/1625)</title></g>
 
 <text x="23929" y="8563" class="semimajor">JAMES VI AND I</text><title>James VI and I (6/19/1566 - 3/27/1625)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Charles_I" target="_blank"><rect id="Charles_I" x="24099" y="8579" width="241" height="40" class="english"/><g><rect x="24221" y="8579" width="119" height="40" class="king"/><title>king (3/27/1625 - 1/30/1649)</title></g>

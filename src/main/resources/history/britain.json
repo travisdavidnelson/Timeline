@@ -5430,7 +5430,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Cultural",
+          "people": [
             {
               "name": "William Shakespeare",
               "style": "english",
@@ -5438,6 +5443,17 @@
               "timespan": {
                 "start": "4/26/1564",
                 "end": "4/23/1616"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Isaac Newton",
+              "style": "english",
+              "importance": "transformational",
+              "timespan": {
+                "start": "1/4/1643",
+                "end": "3/31/1727"
               },
               "titles": [
               ]
