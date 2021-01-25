@@ -809,6 +809,14 @@
       }
     },
     {
+      "name": "American War of Independence",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "4/19/1775",
+        "end": "9/3/1783"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
