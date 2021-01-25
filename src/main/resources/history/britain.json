@@ -666,6 +666,30 @@
       }
     },
     {
+      "name": "War with France",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "4/1512",
+        "end": "1518"
+      }
+    },
+    {
+      "name": "Rough Wooing",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "12/1543",
+        "end": "4/1551"
+      }
+    },
+    {
+      "name": "Anglo-Spanish War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1585",
+        "end": "1604"
+      }
+    },
+    {
       "name": "Spanish Armada",
       "style": "backgroundBattle",
       "timespan": {
@@ -5344,6 +5368,7 @@
               "name": "Mary I&#9792;",
               "style": "english",
               "importance": "semimajor",
+              "annotation": "Bloody Mary",
               "timespan": {
                 "start": "2/18/1516",
                 "end": "11/17/1558"
@@ -5362,6 +5387,7 @@
               "name": "Elizabeth I&#9792;",
               "style": "english",
               "importance": "major",
+              "annotation": "The Virgin Queen",
               "timespan": {
                 "start": "9/7/1533",
                 "end": "3/24/1603"
@@ -5475,6 +5501,16 @@
       "dynasties": [
         {
           "name": "Stuart I",
+          "backgroundEvents": [
+            {
+              "name": "Gunpowder Plot",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "11/1605",
+                "duration": "1m"
+              }
+            }
+          ],
           "people": [
             {
               "name": "James VI and I",
