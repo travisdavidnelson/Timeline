@@ -793,6 +793,22 @@
       }
     },
     {
+      "name": "War of Austrian Succession",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "12/16/1740",
+        "end": "10/18/1748"
+      }
+    },
+    {
+      "name": "Seven Years' War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/17/1756",
+        "end": "2/15/1763"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {

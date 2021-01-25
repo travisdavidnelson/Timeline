@@ -73,6 +73,22 @@
       "style": "americanRepublicStrong"
     },
     {
+      "name": "King George's War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1744",
+        "end": "1748"
+      }
+    },
+    {
+      "name": "French and Indian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1754",
+        "end": "2/15/1763"
+      }
+    },
+    {
       "name": "American Revolutionary War",
       "timespan": {
         "start": "4/19/1775",
