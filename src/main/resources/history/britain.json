@@ -841,11 +841,27 @@
       }
     },
     {
+      "name": "Napoleonic Wars",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1803",
+        "end": "1814"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
         "start": "7/28/1914",
         "end": "11/11/1918"
+      }
+    },
+    {
+      "name": "Battle of the Somme",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "7/1/1916",
+        "end": "11/18/1916"
       }
     },
     {
