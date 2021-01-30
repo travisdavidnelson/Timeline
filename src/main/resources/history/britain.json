@@ -770,7 +770,7 @@
     },
     {
       "name": "War of the Spanish Succession",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "7/1701",
         "end": "9/11/1714"
@@ -834,7 +834,7 @@
     },
     {
       "name": "War of Austrian Succession",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "12/16/1740",
         "end": "10/18/1748"
@@ -842,7 +842,7 @@
     },
     {
       "name": "Seven Years' War",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "5/17/1756",
         "end": "2/15/1763"
@@ -897,8 +897,24 @@
       }
     },
     {
+      "name": "War of the First Coalition",
+      "style": "backgroundForeignWarMajor",
+      "timespan": {
+        "start": "1793",
+        "end": "1797"
+      }
+    },
+    {
+      "name": "War of the Second Coalition",
+      "style": "backgroundForeignWarMajor",
+      "timespan": {
+        "start": "1798",
+        "end": "1801"
+      }
+    },
+    {
       "name": "Napoleonic Wars",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "1803",
         "end": "1814"
@@ -954,7 +970,7 @@
     },
     {
       "name": "World War I",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "7/28/1914",
         "end": "11/11/1918"
@@ -978,7 +994,7 @@
     },
     {
       "name": "World War II",
-      "style": "backgroundWar",
+      "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "9/1/1939",
         "end": "9/2/1945"
