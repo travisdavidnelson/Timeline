@@ -89,6 +89,14 @@
       }
     },
     {
+      "name": "Pontiac's Rebellion",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1763",
+        "end": "1766"
+      }
+    },
+    {
       "name": "American Revolutionary War",
       "timespan": {
         "start": "4/19/1775",

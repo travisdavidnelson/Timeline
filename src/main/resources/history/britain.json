@@ -809,11 +809,27 @@
       }
     },
     {
+      "name": "War of the Quadruple Alliance",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "8/2/1718",
+        "end": "2/17/1720"
+      }
+    },
+    {
       "name": "Anglo-Spanish War of 1727-1729",
       "style": "backgroundWar",
       "timespan": {
         "start": "1727",
         "end": "1729"
+      }
+    },
+    {
+      "name": "War of Jenkins' Ear",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/22/1739",
+        "end": "10/18/1748"
       }
     },
     {
@@ -833,11 +849,51 @@
       }
     },
     {
+      "name": "First Anglo-Mysore War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1766",
+        "end": "1769"
+      }
+    },
+    {
+      "name": "First Anglo-Maratha War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1775",
+        "end": "1782"
+      }
+    },
+    {
       "name": "American War of Independence",
       "style": "backgroundRebellion",
       "timespan": {
         "start": "4/19/1775",
         "end": "9/3/1783"
+      }
+    },
+    {
+      "name": "Second Anglo-Mysore War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1780",
+        "end": "1784"
+      }
+    },
+    {
+      "name": "Fourth Anglo-Dutch War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1780",
+        "end": "1784"
+      }
+    },
+    {
+      "name": "Third Anglo-Mysore War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1789",
+        "end": "1792"
       }
     },
     {
