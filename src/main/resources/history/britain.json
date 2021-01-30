@@ -849,11 +849,35 @@
       }
     },
     {
+      "name": "First Anglo-Afghan War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "7/1839",
+        "end": "10/1842"
+      }
+    },
+    {
+      "name": "First Opium War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "9/4/1839",
+        "end": "8/2/1842"
+      }
+    },
+    {
       "name": "Crimean War",
       "style": "backgroundForeignWar",
       "timespan": {
         "start": "10/16/1853",
         "end": "3/30/1856"
+      }
+    },
+    {
+      "name": "Indian Rebellion of 1857",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "5/10/1857",
+        "end": "11/1/1858"
       }
     },
     {
