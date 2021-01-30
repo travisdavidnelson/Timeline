@@ -881,6 +881,14 @@
       }
     },
     {
+      "name": "Mahdist War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1881",
+        "end": "1899"
+      }
+    },
+    {
       "name": "Second Boer War",
       "style": "backgroundForeignWar",
       "timespan": {
