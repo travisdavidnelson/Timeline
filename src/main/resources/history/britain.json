@@ -849,6 +849,22 @@
       }
     },
     {
+      "name": "Crimean War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/16/1853",
+        "end": "3/30/1856"
+      }
+    },
+    {
+      "name": "Second Boer War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/11/1899",
+        "end": "5/31/1902"
+      }
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
