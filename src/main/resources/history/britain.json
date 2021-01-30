@@ -913,11 +913,27 @@
       }
     },
     {
+      "name": "Irish War of Independence",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "1/21/1919",
+        "end": "7/11/1921"
+      }
+    },
+    {
       "name": "World War II",
       "style": "backgroundWar",
       "timespan": {
         "start": "9/1/1939",
         "end": "9/2/1945"
+      }
+    },
+    {
+      "name": "Fall of Singapore",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "2/8/1942",
+        "end": "2/15/1942"
       }
     }
   ],
@@ -5988,10 +6004,34 @@
           "backgroundEvents": [
             {
               "name": "Jacobite Rising of 1715",
-              "style": "backgroundRebellion",
+              "style": "backgroundRebellionMinor",
               "timespan": {
                 "start": "8/27/1715",
-                "end": "2/4/1715"
+                "end": "2/4/1716"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1719",
+              "style": "backgroundRebellionMinor",
+              "timespan": {
+                "start": "5/10/1719",
+                "end": "6/10/1719"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1745",
+              "style": "backgroundRebellionMinor",
+              "timespan": {
+                "start": "8/19/1745",
+                "end": "4/20/1746"
+              }
+            },
+            {
+              "name": "Battle of Culloden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/16/1746",
+                "duration": "1d"
               }
             }
           ],
