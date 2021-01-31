@@ -423,6 +423,46 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Athens Philosophers",
+          "people": [
+            {
+              "name": "Socrates",
+              "style": "greek",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "470 BC",
+                "end": "399 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Plato",
+              "style": "greek",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "428 BC",
+                "end": "348 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Aristotle",
+              "style": "greek",
+              "importance": "transformational",
+              "timespan": {
+                "start": "384 BC",
+                "end": "322 BC"
+              },
+              "titles": [
+              ]
+            }
+          ]
         }
       ]
     },

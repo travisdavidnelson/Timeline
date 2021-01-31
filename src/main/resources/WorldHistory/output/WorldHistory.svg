@@ -9903,7 +9903,14 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="13317" y="5741" class="minor">HIPPIAS</text><title>Hippias (c. 547 BC - 510 BC)</title></a></g>
 
-<text x="13295" y="5645" class="dynasty">ATHENS PEISISTRATIDS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyntas_III" target="_blank"><rect id="Amyntas_III" x="14135" y="5498" width="115" height="15" class="macedon"/><g><rect x="14135" y="5498" width="115" height="15" class="king"/><title>king (393 BC - 370 BC)</title></g>
+<text x="13295" y="5645" class="dynasty">ATHENS PEISISTRATIDS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Socrates" target="_blank"><rect id="Socrates" x="13700" y="5827" width="405" height="50" class="greek"  mask="url(#fadeInMask)"/>
+<text x="13712" y="5867" class="transformational">SOCRATES</text><title>Socrates (c. 470 BC - 399 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Plato" target="_blank"><rect id="Plato" x="13910" y="5887" width="450" height="50" class="greek"  mask="url(#fadeInMask)"/>
+<text x="13922" y="5927" class="transformational">PLATO</text><title>Plato (c. 428 BC - 348 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aristotle" target="_blank"><rect id="Aristotle" x="14180" y="5947" width="310" height="50" class="greek"/>
+<text x="14186" y="5987" class="transformational">ARISTOTLE</text><title>Aristotle (384 BC - 322 BC)</title></a></g>
+
+<text x="13750" y="5817" class="dynasty">ATHENS PHILOSOPHERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyntas_III" target="_blank"><rect id="Amyntas_III" x="14135" y="5498" width="115" height="15" class="macedon"/><g><rect x="14135" y="5498" width="115" height="15" class="king"/><title>king (393 BC - 370 BC)</title></g>
 
 <text x="14136" y="5509" class="minor">AMYNTAS III</text><title>Amyntas III (393 BC - 370 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Alexander_II" target="_blank"><rect id="Alexander_II" x="14255" y="5523" width="10" height="8" class="macedon"/><g><rect x="14255" y="5523" width="10" height="8" class="king"/><title>king (369 BC - 367 BC)</title></g>
