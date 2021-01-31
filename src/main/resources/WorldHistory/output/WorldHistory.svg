@@ -9910,7 +9910,21 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Aristotle" target="_blank"><rect id="Aristotle" x="14180" y="5947" width="310" height="50" class="greek"/>
 <text x="14186" y="5987" class="transformational">ARISTOTLE</text><title>Aristotle (384 BC - 322 BC)</title></a></g>
 
-<text x="13750" y="5817" class="dynasty">ATHENS PHILOSOPHERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyntas_III" target="_blank"><rect id="Amyntas_III" x="14135" y="5498" width="115" height="15" class="macedon"/><g><rect x="14135" y="5498" width="115" height="15" class="king"/><title>king (393 BC - 370 BC)</title></g>
+<text x="13750" y="5817" class="dynasty">ATHENS PHILOSOPHERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Aeschylus" target="_blank"><rect id="Aeschylus" x="13425" y="6079" width="450" height="40" class="greek"  mask="url(#fadeInOutMask)"/><g><rect x="13653" y="6079" width="1" height="40" class="backgroundBattle"/><title>Battle Of Marathon (8/490 BC - 9/490 BC)</title></g>
+
+<text x="13431" y="6109" class="major">AESCHYLUS</text><title>Aeschylus (c. 525 BC - c. 455 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sophacles" target="_blank"><rect id="Sophacles" x="13565" y="6129" width="555" height="40" class="greek"  mask="url(#fadeInOutMask)"/>
+<text x="13571" y="6159" class="major">SOPHACLES</text><title>Sophacles (c. 497 BC - c. 406 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Euripides" target="_blank"><rect id="Euripides" x="13650" y="6179" width="470" height="40" class="greek"  mask="url(#fadeInOutMask)"/>
+<text x="13656" y="6209" class="major">EURIPIDES</text><title>Euripides (c. 480 BC - c. 406 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Thucydides" target="_blank"><rect id="Thucydides" x="13750" y="6229" width="400" height="25" class="greek"  mask="url(#fadeInOutMask)"/>
+<text x="13754" y="6248" class="semimajor">THUCYDIDES</text><title>Thucydides (c. 460 BC - c. 400 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aristophanes" target="_blank"><rect id="Aristophanes" x="13820" y="6264" width="400" height="25" class="greek"  mask="url(#fadeInOutMask)"/>
+<text x="13824" y="6283" class="semimajor">ARISTOPHANES</text><title>Aristophanes (c. 446 BC - c. 386 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Xenophon" target="_blank"><rect id="Xenophon" x="13900" y="6299" width="430" height="25" class="greek"  mask="url(#fadeInMask)"/>
+<text x="13904" y="6318" class="semimajor">XENOPHON</text><title>Xenophon (c. 430 BC - 354 BC)</title></a></g>
+
+<text x="13475" y="6069" class="dynasty">ATHENS CULTURAL</text><g><a xlink:href="http://en.wikipedia.org/wiki/Amyntas_III" target="_blank"><rect id="Amyntas_III" x="14135" y="5498" width="115" height="15" class="macedon"/><g><rect x="14135" y="5498" width="115" height="15" class="king"/><title>king (393 BC - 370 BC)</title></g>
 
 <text x="14136" y="5509" class="minor">AMYNTAS III</text><title>Amyntas III (393 BC - 370 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Alexander_II" target="_blank"><rect id="Alexander_II" x="14255" y="5523" width="10" height="8" class="macedon"/><g><rect x="14255" y="5523" width="10" height="8" class="king"/><title>king (369 BC - 367 BC)</title></g>

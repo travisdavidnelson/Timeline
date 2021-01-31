@@ -463,6 +463,98 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Athens Cultural",
+          "people": [
+            {
+              "name": "Aeschylus",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "525 BC",
+                "endApproximate": "true",
+                "end": "455 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of Marathon",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sophacles",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "497 BC",
+                "endApproximate": "true",
+                "end": "406 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Euripides",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "480 BC",
+                "endApproximate": "true",
+                "end": "406 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Thucydides",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "460 BC",
+                "endApproximate": "true",
+                "end": "400 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Aristophanes",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "446 BC",
+                "endApproximate": "true",
+                "end": "386 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Xenophon",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "430 BC",
+                "end": "354 BC"
+              },
+              "titles": [
+              ]
+            }
+          ]
         }
       ]
     },
