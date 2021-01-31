@@ -1,0 +1,388 @@
+{
+  "name": "France",
+  "backgroundEvents": [
+    {
+      "name": "Bronze Age",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "4000 BC",
+        "endApproximate": "true",
+        "end": "400 BC"
+      },
+      "style": "bronzeAge"
+    },
+    {
+      "name": "Iron Age",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "400 BC",
+        "endApproximate": "true",
+        "end": "100"
+      },
+      "style": "ironAge"
+    },
+    {
+      "name": "Celtic France",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "200 BC",
+        "endApproximate": "true",
+        "end": "100"
+      },
+      "style": "celt"
+    },
+    {
+      "name": "Gallic Wars",
+      "timespan": {
+        "start": "58",
+        "end": "51"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Roman Principate",
+      "timespan": {
+        "start": "51",
+        "end": "235"
+      },
+      "style": "romanPrincipate"
+    },
+    {
+      "name": "Roman Dominate",
+      "timespan": {
+        "start": "235",
+        "end": "476"
+      },
+      "style": "romanDominate"
+    },
+    {
+      "name": "Black Death",
+      "style": "backgroundPlague",
+      "timespan": {
+        "start": "1349",
+        "end": "1351"
+      }
+    },
+    {
+      "name": "Battle of Crecy",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "8/26/1346",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Crecy",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "9/19/1356",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Agincourt",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "10/25/1415",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "War with England",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "4/1512",
+        "end": "1518"
+      }
+    },
+    {
+      "name": "War of the Spanish Succession",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/1701",
+        "end": "9/11/1714"
+      }
+    },
+    {
+      "name": "Battle of Blenheim",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "8/13/1704",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Ramillies",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "5/23/1706",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Oudenaarde",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "7/11/1708",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Malplaquet",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/11/1709",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "War of the Quadruple Alliance",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "8/2/1718",
+        "end": "2/17/1720"
+      }
+    },
+    {
+      "name": "War of Austrian Succession",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "12/16/1740",
+        "end": "10/18/1748"
+      }
+    },
+    {
+      "name": "Seven Years' War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/17/1756",
+        "end": "2/15/1763"
+      }
+    },
+    {
+      "name": "French Monarchy",
+      "timespan": {
+        "start": "1700",
+        "end": "1789"
+      },
+      "style": "frenchMonarchy"
+    },
+    {
+      "name": "French Republic",
+      "timespan": {
+        "start": "1789",
+        "end": "1795"
+      },
+      "style": "frenchRepublic"
+    },
+    {
+      "name": "French Directorate",
+      "timespan": {
+        "start": "1795",
+        "end": "1798"
+      },
+      "style": "frenchDirectorate"
+    },
+    {
+      "name": "French Napoleonic Empire",
+      "timespan": {
+        "start": "1798",
+        "end": "1813"
+      },
+      "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "World War I",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/28/1914",
+        "end": "11/11/1918"
+      }
+    },
+    {
+      "name": "Battle of the Somme",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "7/1/1916",
+        "end": "11/18/1916"
+      }
+    },
+    {
+      "name": "World War II",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "9/1/1939",
+        "end": "9/2/1945"
+      }
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "French Revolution",
+      "dynasties": [
+        {
+          "name": "Ancien Regime",
+          "people": [
+            {
+              "name": "Louis XV",
+              "style": "frenchMonarchy",
+              "timespan": {
+                "start": "1710",
+                "end": "1774"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1715",
+                    "end": "1774"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jacques Necker",
+              "style": "frenchMonarchy",
+              "timespan": {
+                "start": "1732",
+                "end": "1804"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "financeMinister",
+                  "timespan": {
+                    "start": "1777",
+                    "end": "1781"
+                  }
+                },
+                {
+                  "name": "financeMinister",
+                  "timespan": {
+                    "start": "1788",
+                    "end": "1789"
+                  }
+                },
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "1788",
+                    "end": "1789"
+                  }
+                },
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "1789",
+                    "end": "1790"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XVI",
+              "style": "frenchMonarchy",
+              "timespan": {
+                "start": "1754",
+                "end": "1793"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1774",
+                    "end": "1791"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marie Antoinette",
+              "style": "frenchMonarchy",
+              "timespan": {
+                "start": "1755",
+                "end": "1793"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "1774",
+                    "end": "1791"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jacobins",
+          "people": [
+            {
+              "name": "Georges Danton",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "1759",
+                "end": "1794"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "director",
+                  "timespan": {
+                    "start": "1793",
+                    "end": "1794"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Maximilien Robespierre",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "1758",
+                "end": "1794"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "director",
+                  "timespan": {
+                    "start": "1793",
+                    "end": "1794"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Directory",
+          "people": [
+            {
+              "name": "Napoleon Bonaparte",
+              "style": "frenchNapoleonicEmpire",
+              "timespan": {
+                "start": "1769",
+                "end": "1821"
+              },
+              "importance": "transformational",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1804",
+                    "end": "1814"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

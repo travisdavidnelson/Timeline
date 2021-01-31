@@ -102,6 +102,10 @@
       "resources": "ancient-rome"
     },
     {
+      "name": "France",
+      "resources": "france"
+    },
+    {
       "name": "Britain",
       "resources": "britain"
     },
