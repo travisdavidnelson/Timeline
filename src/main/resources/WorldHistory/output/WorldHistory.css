@@ -28,11 +28,11 @@
 .english {fill:red;fill-opacity:0.2}
 .englishCommonwealth {fill:brown;fill-opacity:0.7}
 .englishProtecturate {fill:brown;fill-opacity:0.8}
-.greek {fill:blue;fill-opacity:0.5}
+.greek {fill:blue;fill-opacity:0.2}
 .hittiteWeak {fill:brown;fill-opacity:0.2}
 .kish {fill:green;fill-opacity:0.4}
 .lagash {fill:blue;fill-opacity:0.4}
-.macedon {fill:blue;fill-opacity:0.7}
+.macedon {fill:#577ce0;fill-opacity:0.5}
 .mari {fill:green;fill-opacity:0.3}
 .mitanni {fill:green;fill-opacity:0.3}
 .mycenae {fill:blue;fill-opacity:0.2}
@@ -226,8 +226,8 @@
 .gauls 				{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .islamicCaliphate	{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.macedonianEmpire 	{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.6}
+.macedonianEmpire 	{fill:#577ce0;	stroke:black; stroke-width:0.1; fill-opacity:0.5}
+.hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .alamanni 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .vandals 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .franks 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
