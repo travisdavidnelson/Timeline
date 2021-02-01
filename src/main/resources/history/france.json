@@ -256,18 +256,18 @@
       }
     },
     {
-      "name": "Occupied France",
+      "name": "Vicchy France",
       "timespan": {
-        "start": "1940",
-        "end": "1945"
+        "start": "7/10/1940",
+        "end": "6/5/1944"
       },
       "style": "backgroundOccupation"
     },
     {
       "name": "Fourth Republic",
       "timespan": {
-        "start": "1945",
-        "end": "1958"
+        "start": "6/5/1944",
+        "end": "10/4/1958"
       },
       "style": "frenchRepublic"
     },
@@ -291,16 +291,16 @@
               "name": "Louis XV",
               "style": "frenchMonarchy",
               "timespan": {
-                "start": "1710",
-                "end": "1774"
+                "start": "2/15/1710",
+                "end": "5/10/1774"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "1715",
-                    "end": "1774"
+                    "start": "9/1/1715",
+                    "end": "5/10/1774"
                   }
                 }
               ]
@@ -309,37 +309,37 @@
               "name": "Jacques Necker",
               "style": "frenchMonarchy",
               "timespan": {
-                "start": "1732",
-                "end": "1804"
+                "start": "9/30/1732",
+                "end": "4/9/1804"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "financeMinister",
                   "timespan": {
-                    "start": "1777",
-                    "end": "1781"
+                    "start": "6/29/1777",
+                    "end": "5/19/1781"
                   }
                 },
                 {
                   "name": "financeMinister",
                   "timespan": {
-                    "start": "1788",
-                    "end": "1789"
+                    "start": "8/25/1788",
+                    "end": "7/11/1789"
                   }
                 },
                 {
                   "name": "chiefMinister",
                   "timespan": {
-                    "start": "1788",
-                    "end": "1789"
+                    "start": "8/25/1788",
+                    "end": "7/11/1789"
                   }
                 },
                 {
                   "name": "chiefMinister",
                   "timespan": {
-                    "start": "1789",
-                    "end": "1790"
+                    "start": "7/29/1789",
+                    "end": "9/3/1790"
                   }
                 }
               ]
@@ -348,16 +348,23 @@
               "name": "Louis XVI",
               "style": "frenchMonarchy",
               "timespan": {
-                "start": "1754",
-                "end": "1793"
+                "start": "8/23/1754",
+                "end": "1/21/1793"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "1774",
-                    "end": "1791"
+                    "start": "5/10/1774",
+                    "end": "9/21/1792"
+                  }
+                },
+                {
+                  "name": "deposed",
+                  "timespan": {
+                    "start": "9/21/1792",
+                    "end": "1/21/1793"
                   }
                 }
               ]
@@ -366,16 +373,16 @@
               "name": "Marie Antoinette",
               "style": "frenchMonarchy",
               "timespan": {
-                "start": "1755",
-                "end": "1793"
+                "start": "11/1755",
+                "end": "10/16/1793"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "queen",
                   "timespan": {
-                    "start": "1774",
-                    "end": "1791"
+                    "start": "5/10/1774",
+                    "end": "9/21/1792"
                   }
                 }
               ]
@@ -389,16 +396,30 @@
               "name": "Georges Danton",
               "style": "frenchRepublic",
               "timespan": {
-                "start": "1759",
-                "end": "1794"
+                "start": "10/26/1759",
+                "end": "4/5/1794"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
-                  "name": "director",
+                  "name": "committeeOfSafety",
                   "timespan": {
-                    "start": "1793",
-                    "end": "1794"
+                    "start": "4/6/1793",
+                    "end": "7/10/1793"
+                  }
+                },
+                {
+                  "name": "justiceMinister",
+                  "timespan": {
+                    "start": "8/10/1792",
+                    "end": "10/9/1792"
+                  }
+                },
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "4/5/1794"
                   }
                 }
               ]
@@ -407,16 +428,44 @@
               "name": "Maximilien Robespierre",
               "style": "frenchRepublic",
               "timespan": {
-                "start": "1758",
-                "end": "1794"
+                "start": "5/6/1758",
+                "end": "7/28/1794"
               },
               "importance": "major",
               "titles": [
                 {
-                  "name": "director",
+                  "name": "frenchThirdEstate",
                   "timespan": {
-                    "start": "1793",
-                    "end": "1794"
+                    "start": "5/6/1789",
+                    "end": "6/16/1789"
+                  }
+                },
+                {
+                  "name": "frenchNationalAssembly",
+                  "timespan": {
+                    "start": "6/17/1789",
+                    "end": "7/9/1789"
+                  }
+                },
+                {
+                  "name": "frenchNationalConstituentAssembly",
+                  "timespan": {
+                    "start": "7/9/1789",
+                    "end": "9/30/1791"
+                  }
+                },
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "7/27/1794"
+                  }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "7/27/1793",
+                    "end": "7/28/1794"
                   }
                 }
               ]
@@ -430,16 +479,23 @@
               "name": "Napoleon Bonaparte",
               "style": "frenchNapoleonicEmpire",
               "timespan": {
-                "start": "1769",
-                "end": "1821"
+                "start": "8/15/1769",
+                "end": "5/5/1821"
               },
-              "importance": "transformational",
+              "importance": "major",
               "titles": [
                 {
-                  "name": "emperor",
+                  "name": "frenchFirstConsul",
                   "timespan": {
-                    "start": "1804",
-                    "end": "1814"
+                    "start": "11/10/1799",
+                    "end": "5/18/1804"
+                  }
+                },
+                {
+                  "name": "frenchEmperor",
+                  "timespan": {
+                    "start": "5/18/1804",
+                    "end": "4/6/1814"
                   }
                 }
               ]
