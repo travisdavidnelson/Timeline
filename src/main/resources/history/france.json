@@ -176,28 +176,60 @@
       }
     },
     {
-      "name": "French Republic",
+      "name": "Revolutionary France",
       "timespan": {
         "start": "1789",
-        "end": "1795"
+        "end": "1799"
+      },
+      "style": "backgroundRevolution"
+    },
+    {
+      "name": "Napoleonic France",
+      "timespan": {
+        "start": "1799",
+        "end": "1815"
+      },
+      "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "Bourbon Restoration",
+      "timespan": {
+        "start": "1815",
+        "end": "1830"
+      },
+      "style": "frenchMonarchy"
+    },
+    {
+      "name": "July Monarchy",
+      "timespan": {
+        "start": "1830",
+        "end": "1848"
+      },
+      "style": "frenchMonarchy"
+    },
+    {
+      "name": "Second Republic",
+      "timespan": {
+        "start": "1848",
+        "end": "1852"
       },
       "style": "frenchRepublic"
     },
     {
-      "name": "French Directorate",
+      "name": "Second Napoleonic Empire",
       "timespan": {
-        "start": "1795",
-        "end": "1798"
-      },
-      "style": "frenchDirectorate"
-    },
-    {
-      "name": "French Napoleonic Empire",
-      "timespan": {
-        "start": "1798",
-        "end": "1813"
+        "start": "1852",
+        "end": "1871"
       },
       "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "Third Republic",
+      "timespan": {
+        "start": "1871",
+        "end": "1940"
+      },
+      "style": "frenchRepublic"
     },
     {
       "name": "World War I",
@@ -222,6 +254,30 @@
         "start": "9/1/1939",
         "end": "9/2/1945"
       }
+    },
+    {
+      "name": "Occupied France",
+      "timespan": {
+        "start": "1940",
+        "end": "1945"
+      },
+      "style": "backgroundOccupation"
+    },
+    {
+      "name": "Fourth Republic",
+      "timespan": {
+        "start": "1945",
+        "end": "1958"
+      },
+      "style": "frenchRepublic"
+    },
+    {
+      "name": "Fifth Republic",
+      "timespan": {
+        "start": "10/4/1958",
+        "end": ""
+      },
+      "style": "frenchRepublic"
     }
   ],
   "dynastyGroups": [
