@@ -51,9 +51,25 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "235",
-        "end": "476"
+        "end": "486"
       },
       "style": "romanDominate"
+    },
+    {
+      "name": "Frankish Kingdoms",
+      "timespan": {
+        "start": "486",
+        "end": "987"
+      },
+      "style": "franks"
+    },
+    {
+      "name": "Kingdom of France",
+      "timespan": {
+        "start": "987",
+        "end": "1789"
+      },
+      "style": "frenchMonarchy"
     },
     {
       "name": "Black Death",
@@ -158,14 +174,6 @@
         "start": "5/17/1756",
         "end": "2/15/1763"
       }
-    },
-    {
-      "name": "French Monarchy",
-      "timespan": {
-        "start": "1700",
-        "end": "1789"
-      },
-      "style": "frenchMonarchy"
     },
     {
       "name": "French Republic",

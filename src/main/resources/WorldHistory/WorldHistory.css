@@ -29,7 +29,7 @@
 .englishCommonwealth {fill:brown;fill-opacity:0.7}
 .englishProtecturate {fill:brown;fill-opacity:0.8}
 .frenchDirectorate {fill:#26246d;fill-opacity:0.8}
-.frenchMonarchy {fill:#ccb3b3;fill-opacity:0.8}
+.frenchMonarchy {fill:#f4ebeb;fill-opacity:0.8}
 .frenchNapoleonicEmpire {fill:#070363;fill-opacity:0.8}
 .frenchRepublic {fill:#090496;fill-opacity:0.8}
 .greek {fill:blue;fill-opacity:0.2}
@@ -167,6 +167,7 @@
 .decemvir 			{fill:blue;		fill-opacity:0.8}
 .defendant 			{fill:black;	fill-opacity:0.3}
 .dictator 			{fill:blue;		fill-opacity:1.0}
+.director 			{fill:blue;		fill-opacity:1.0}
 .duke 				{fill:purple;	fill-opacity:0.4}
 .earl 				{fill:purple;	fill-opacity:0.2}
 .emperor		    {fill:purple;	fill-opacity:1.0}
@@ -187,6 +188,8 @@
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}
 .memberParliament   {fill:blue;		fill-opacity:0.2}
 .mercenary 			{fill:#C00000;	fill-opacity:0.4}
+.chiefMinister 	    {fill:#077707;	fill-opacity:0.3}
+.financeMinister 	{fill:#0aaf0a;	fill-opacity:0.3}
 .monk 				{fill:brown;	fill-opacity:0.5}
 .pharaoh			{fill:purple;	fill-opacity:0.6}
 .pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
@@ -229,7 +232,6 @@
 .carthage 			{fill:orange;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .gauls 				{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .islamicCaliphate	{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.kingdomOfFrance	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .macedonianEmpire 	{fill:#577ce0;	stroke:black; stroke-width:0.1; fill-opacity:0.5}
 .hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .alamanni 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
