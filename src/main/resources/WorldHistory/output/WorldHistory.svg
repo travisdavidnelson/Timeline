@@ -12402,6 +12402,15 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="24667" y="9843" class="dynasty">HANOVER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Robert_Walpole" target="_blank"><rect id="Robert_Walpole" x="24478" y="9102" width="343" height="25" class="whig"/><g><rect x="24701" y="9102" width="104" height="25" class="primeMinister"/><title>primeMinister (4/3/1721 - 2/11/1742)</title></g>
 
 <text x="24480" y="9121" class="semimajor">ROBERT WALPOLE</text><title>1st Earl of Orford</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Henry_Pelham" target="_blank"><rect id="Henry_Pelham" x="24568" y="9137" width="297" height="15" class="whig"/><g><rect x="24813" y="9137" width="53" height="15" class="primeMinister"/><title>primeMinister (8/27/1743 - 3/6/1754)</title></g>
+
+<text x="24569" y="9148" class="minor">HENRY PELHAM</text><title>Henry Pelham (9/25/1694 - 3/6/1754)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Pitt_the_Elder" target="_blank"><rect id="William_Pitt_the_Elder" x="24639" y="9162" width="347" height="40" class="whig"/><g><rect x="24927" y="9162" width="11" height="40" class="primeMinister"/><title>primeMinister (7/30/1766 - 10/14/1768)</title></g>
+
+<text x="24642" y="9192" class="major">WILLIAM PITT THE ELDER</text><title>1st Earl of Chatham</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Frederick_North" target="_blank"><rect id="Frederick_North" x="24754" y="9212" width="300" height="15" class="tory"/><g><rect x="24945" y="9212" width="61" height="15" class="primeMinister"/><title>primeMinister (1/28/1770 - 3/27/1782)</title></g>
+
+<text x="24755" y="9223" class="minor">FREDERICK NORTH</text><title>Lord North</title></a></g>
 
 <text x="24701" y="9092" class="dynasty">BRITAIN POLITICAL</text>
 <text x="150" y="10619" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10803" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>

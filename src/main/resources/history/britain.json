@@ -6331,6 +6331,62 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Henry Pelham",
+              "style": "whig",
+              "importance": "minor",
+              "timespan": {
+                "start": "9/25/1694",
+                "end": "3/6/1754"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "8/27/1743",
+                    "end": "3/6/1754"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Pitt the Elder",
+              "style": "whig",
+              "importance": "major",
+              "annotation": "1st Earl of Chatham",
+              "timespan": {
+                "start": "11/15/1708",
+                "end": "5/11/1778"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/30/1766",
+                    "end": "10/14/1768"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Frederick North",
+              "style": "tory",
+              "importance": "minor",
+              "annotation": "Lord North",
+              "timespan": {
+                "start": "1732",
+                "end": "1792"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/28/1770",
+                    "end": "3/27/1782"
+                  }
+                }
+              ]
             }
           ]
         }
