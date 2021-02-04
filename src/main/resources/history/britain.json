@@ -5615,7 +5615,7 @@
       ]
     },
     {
-      "name": "Stuarts",
+      "name": "British Monarchs",
       "backgroundEvents": [
         {
           "name": "First English Civil War",
@@ -6063,14 +6063,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Great Britain",
-      "backgroundEvents": [
-      ],
-      "dynasties": [
+        },
         {
           "name": "Hanover",
           "backgroundEvents": [
@@ -6302,6 +6295,39 @@
                   "timespan": {
                     "start": "2/6/1952",
                     "end": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "backgroundEvents": [
+      ],
+      "dynasties": [
+        {
+          "name": "Britain Political",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Robert Walpole",
+              "style": "whig",
+              "importance": "semimajor",
+              "annotation": "1st Earl of Orford",
+              "timespan": {
+                "start": "8/26/1676",
+                "end": "3/18/1745"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/3/1721",
+                    "end": "2/11/1742"
                   }
                 }
               ]
