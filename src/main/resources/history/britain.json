@@ -1317,6 +1317,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Eorcenberht",
               "style": "angloSaxon",
               "importance": "minor",
@@ -1487,6 +1488,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ecgberht II",
               "style": "angloSaxon",
               "importance": "minor",
@@ -1891,6 +1893,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Raedwald",
               "style": "angloSaxon",
               "importance": "semimajor",
@@ -2186,6 +2189,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Eoric",
               "style": "viking",
               "importance": "minor",
@@ -3266,6 +3270,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Cenwalh",
               "style": "angloSaxon",
               "importance": "minor",
@@ -3332,7 +3337,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Caedwalla",
               "style": "angloSaxon",
               "importance": "minor",
@@ -4305,6 +4309,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Eadwulf",
               "style": "angloSaxon",
               "importance": "petty",
@@ -4518,6 +4523,7 @@
             },
             {
               "name": "Eardwulf",
+              "pageBreak": true,
               "style": "angloSaxon",
               "importance": "minor",
               "titles": [
