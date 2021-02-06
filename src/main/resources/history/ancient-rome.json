@@ -38,7 +38,7 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "476"
+        "end": "9/4/476"
       },
       "style": "romanDominate"
     },
@@ -5166,16 +5166,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "405",
-                "end": "472"
+                "start": "418",
+                "end": "8/18/472"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "magisterMilitum",
                   "timespan": {
-                    "start": "456",
-                    "end": "472"
+                    "start": "461",
+                    "end": "8/18/472"
                   }
                 }
               ]
@@ -5185,16 +5185,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "396",
-                "end": "455"
+                "start": "397",
+                "end": "5/31/455"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "455",
-                    "end": "455"
+                    "start": "3/17/455",
+                    "end": "5/31/455"
                   }
                 }
               ]
@@ -5206,15 +5206,15 @@
                 "startApproximate": true,
                 "start": "380",
                 "endApproximate": true,
-                "end": "456"
+                "end": "457"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "455",
-                    "end": "456"
+                    "start": "7/455",
+                    "end": "10/17/456"
                   }
                 }
               ]
@@ -5225,15 +5225,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
-                "end": "461"
+                "end": "8/7/461"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "457",
-                    "end": "461"
+                    "start": "4/1/457",
+                    "end": "8/2/461"
                   }
                 }
               ]
@@ -5244,15 +5244,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
-                "end": "465"
+                "end": "8/15/465"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "461",
-                    "end": "465"
+                    "start": "11/19/461",
+                    "end": "8/15/465"
                   }
                 }
               ]
@@ -5263,15 +5263,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
-                "end": "472"
+                "end": "7/11/472"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "467",
-                    "end": "472"
+                    "start": "4/12/467",
+                    "end": "7/11/472"
                   }
                 }
               ]
@@ -5282,15 +5282,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "420",
-                "end": "472"
+                "end": "11/2/472"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "472",
-                    "end": "472"
+                    "start": "7/11/472",
+                    "end": "11/2/472"
                   }
                 }
               ]
@@ -5298,19 +5298,13 @@
             {
               "name": "Glycerius",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "420",
-                "endApproximate": true,
-                "end": "480"
-              },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "473",
-                    "end": "474"
+                    "start": "3/3/473",
+                    "end": "6/24/474"
                   }
                 }
               ]
@@ -5323,13 +5317,13 @@
                 "start": "430",
                 "end": "480"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "474",
-                    "end": "475"
+                    "start": "6/474",
+                    "end": "8/28/475"
                   }
                 }
               ]
@@ -5341,15 +5335,15 @@
                 "startApproximate": true,
                 "start": "460",
                 "endApproximate": true,
-                "end": "500"
+                "end": "507"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "475",
-                    "end": "476"
+                    "start": "10/31/475",
+                    "end": "9/4/476"
                   }
                 }
               ]

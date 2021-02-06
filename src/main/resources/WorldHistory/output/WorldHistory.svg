@@ -197,7 +197,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Republic" target="_blank"><rect id="Roman_Republic" x="13555" y="6740" width="2410" height="1738" class="footprint"/><rect id="Roman_Republic" x="13555" y="6740" width="2410" height="1738" class="romanRepublic"/><title>Roman Republic (509 BC - 27 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Principate" target="_blank"><rect id="Roman_Principate" x="15950" y="6740" width="1320" height="1738" class="footprint"/><rect id="Roman_Principate" x="15950" y="6740" width="1320" height="1738" class="romanPrincipate"/><title>Roman Principate (30 BC - 235)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Crisis_of_the_Third_Century" target="_blank"><rect id="Crisis_of_the_Third_Century" x="17270" y="6740" width="245" height="1738" class="footprint"/><rect id="Crisis_of_the_Third_Century" x="17270" y="6740" width="245" height="1738" class="romanCrisis"/><title>Crisis of the Third Century (235 - 284)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Dominate" target="_blank"><rect id="Roman_Dominate" x="17515" y="6740" width="960" height="1738" class="footprint"/><rect id="Roman_Dominate" x="17515" y="6740" width="960" height="1738" class="romanDominate"/><title>Roman Dominate (284 - 476)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Dominate" target="_blank"><rect id="Roman_Dominate" x="17515" y="6740" width="963" height="1738" class="footprint"/><rect id="Roman_Dominate" x="17515" y="6740" width="963" height="1738" class="romanDominate"/><title>Roman Dominate (284 - 9/4/476)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_Samnite_War" target="_blank"><rect id="First_Samnite_War" x="14385" y="6740" width="10" height="1738" class="footprint"/><rect id="First_Samnite_War" x="14385" y="6740" width="10" height="1738" class="backgroundForeignWarVictory"/><title>First Samnite War (343 BC - 341 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Overthrow_of_the_Roman_monarchy" target="_blank"><rect id="Overthrow_of_the_Roman_monarchy" x="13550" y="6740" width="5" height="1738" class="footprint"/><rect id="Overthrow_of_the_Roman_monarchy" x="13550" y="6740" width="5" height="1738" class="backgroundCivilWar"/><title>Overthrow of the Roman monarchy (510 BC - 509 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Etruscan_War" target="_blank"><rect id="Etruscan_War" x="13555" y="6740" width="5" height="1738" class="footprint"/><rect id="Etruscan_War" x="13555" y="6740" width="5" height="1738" class="backgroundForeignWar"/><title>Etruscan War (509 BC - 508 BC)</title></a></g>
@@ -11688,38 +11688,38 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Augustine_of_Hippo" target="_blank"><rect id="Augustine_of_Hippo" x="17865" y="7479" width="380" height="40" class="sanctified"/>
 <text x="17868" y="7509" class="major">AUGUSTINE OF HIPPO</text><title>Augustine of Hippo (354 - 430)</title></a></g>
 
-<text x="17935" y="6984" class="dynasty">THEODOSIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ricimer" target="_blank"><rect id="Ricimer" x="18070" y="7601" width="385" height="40" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18375" y="7601" width="80" height="40" class="magisterMilitum"/><title>magisterMilitum (456 - 472)</title></g>
+<text x="17935" y="6984" class="dynasty">THEODOSIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ricimer" target="_blank"><rect id="Ricimer" x="18135" y="7601" width="323" height="40" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18400" y="7601" width="58" height="40" class="magisterMilitum"/><title>magisterMilitum (461 - 8/18/472)</title></g>
 
-<text x="18076" y="7631" class="major">RICIMER</text><title>Ricimer (c. 405 - 472)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Petronius_Maximus" target="_blank"><rect id="Petronius_Maximus" x="18025" y="7651" width="345" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18370" y="7651" width="1" height="15" class="augustus"/><title>augustus (455 - 455)</title></g>
+<text x="18141" y="7631" class="major">RICIMER</text><title>Ricimer (c. 418 - 8/18/472)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Petronius_Maximus" target="_blank"><rect id="Petronius_Maximus" x="18030" y="7651" width="342" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18371" y="7651" width="1" height="15" class="augustus"/><title>augustus (3/17/455 - 5/31/455)</title></g>
 
-<text x="18027" y="7662" class="minor">PETRONIUS MAXIMUS</text><title>Petronius Maximus (c. 396 - 455)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Avitus" target="_blank"><rect id="Avitus" x="17945" y="7676" width="480" height="15" class="roman"  mask="url(#fadeInOutMask)"/><g><rect x="18370" y="7676" width="5" height="15" class="augustus"/><title>augustus (455 - 456)</title></g>
+<text x="18032" y="7662" class="minor">PETRONIUS MAXIMUS</text><title>Petronius Maximus (c. 397 - 5/31/455)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Avitus" target="_blank"><rect id="Avitus" x="17945" y="7676" width="485" height="15" class="roman"  mask="url(#fadeInOutMask)"/><g><rect x="18372" y="7676" width="6" height="15" class="augustus"/><title>augustus (7/455 - 10/17/456)</title></g>
 
-<text x="17947" y="7687" class="minor">AVITUS</text><title>Avitus (c. 380 - c. 456)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Majorian" target="_blank"><rect id="Majorian" x="18145" y="7701" width="255" height="25" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18380" y="7701" width="20" height="25" class="augustus"/><title>augustus (457 - 461)</title></g>
+<text x="17947" y="7687" class="minor">AVITUS</text><title>Avitus (c. 380 - c. 457)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Majorian" target="_blank"><rect id="Majorian" x="18145" y="7701" width="258" height="25" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18381" y="7701" width="22" height="25" class="augustus"/><title>augustus (4/1/457 - 8/2/461)</title></g>
 
-<text x="18149" y="7720" class="semimajor">MAJORIAN</text><title>Majorian (c. 420 - 461)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Libius_Severus" target="_blank"><rect id="Libius_Severus" x="18145" y="7736" width="275" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18400" y="7736" width="20" height="15" class="augustus"/><title>augustus (461 - 465)</title></g>
+<text x="18149" y="7720" class="semimajor">MAJORIAN</text><title>Majorian (c. 420 - 8/7/461)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Libius_Severus" target="_blank"><rect id="Libius_Severus" x="18145" y="7736" width="278" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18404" y="7736" width="19" height="15" class="augustus"/><title>augustus (11/19/461 - 8/15/465)</title></g>
 
-<text x="18147" y="7747" class="minor">LIBIUS SEVERUS</text><title>Libius Severus (c. 420 - 465)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Anthemius" target="_blank"><rect id="Anthemius" x="18145" y="7761" width="310" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18430" y="7761" width="25" height="15" class="augustus"/><title>augustus (467 - 472)</title></g>
+<text x="18147" y="7747" class="minor">LIBIUS SEVERUS</text><title>Libius Severus (c. 420 - 8/15/465)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Anthemius" target="_blank"><rect id="Anthemius" x="18145" y="7761" width="313" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18431" y="7761" width="26" height="15" class="augustus"/><title>augustus (4/12/467 - 7/11/472)</title></g>
 
-<text x="18147" y="7772" class="minor">ANTHEMIUS</text><title>Anthemius (c. 420 - 472)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Olybrius" target="_blank"><rect id="Olybrius" x="18145" y="7786" width="310" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18455" y="7786" width="1" height="15" class="augustus"/><title>augustus (472 - 472)</title></g>
+<text x="18147" y="7772" class="minor">ANTHEMIUS</text><title>Anthemius (c. 420 - 7/11/472)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Olybrius" target="_blank"><rect id="Olybrius" x="18145" y="7786" width="314" height="8" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18457" y="7786" width="2" height="8" class="augustus"/><title>augustus (7/11/472 - 11/2/472)</title></g>
 
-<text x="18147" y="7797" class="minor">OLYBRIUS</text><title>Olybrius (c. 420 - 472)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Glycerius" target="_blank"><rect id="Glycerius" x="18145" y="7811" width="400" height="15" class="roman"  mask="url(#fadeInOutMask)"/><g><rect x="18460" y="7811" width="5" height="15" class="augustus"/><title>augustus (473 - 474)</title></g>
+<text x="18145" y="7792" class="petty">OLYBRIUS</text><title>Olybrius (c. 420 - 11/2/472)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Glycerius" target="_blank"><rect id="Glycerius" x="18460" y="7804" width="7" height="8" class="roman"/><g><rect x="18460" y="7804" width="7" height="8" class="augustus"/><title>augustus (3/3/473 - 6/24/474)</title></g>
 
-<text x="18147" y="7822" class="minor">GLYCERIUS</text><title>Glycerius (c. 420 - c. 480)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Julius_Nepos" target="_blank"><rect id="Julius_Nepos" x="18195" y="7836" width="300" height="15" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18465" y="7836" width="5" height="15" class="augustus"/><title>augustus (474 - 475)</title></g>
+<text x="18460" y="7810" class="petty">GLYCERIUS</text><title>Glycerius (3/3/473 - 6/24/474)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Julius_Nepos" target="_blank"><rect id="Julius_Nepos" x="18195" y="7822" width="300" height="8" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18467" y="7822" width="6" height="8" class="augustus"/><title>augustus (6/474 - 8/28/475)</title></g>
 
-<text x="18197" y="7847" class="minor">JULIUS NEPOS</text><title>Julius Nepos (c. 430 - 480)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Romulus_Augustulus" target="_blank"><rect id="Romulus_Augustulus" x="18345" y="7861" width="300" height="15" class="roman"  mask="url(#fadeInOutMask)"/><g><rect x="18470" y="7861" width="5" height="15" class="augustus"/><title>augustus (475 - 476)</title></g>
+<text x="18195" y="7828" class="petty">JULIUS NEPOS</text><title>Julius Nepos (c. 430 - 480)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Romulus_Augustulus" target="_blank"><rect id="Romulus_Augustulus" x="18345" y="7840" width="335" height="8" class="roman"  mask="url(#fadeInOutMask)"/><g><rect x="18474" y="7840" width="4" height="8" class="augustus"/><title>augustus (10/31/475 - 9/4/476)</title></g>
 
-<text x="18347" y="7872" class="minor">ROMULUS AUGUSTULUS</text><title>Romulus Augustulus (c. 460 - c. 500)</title></a></g>
+<text x="18345" y="7846" class="petty">ROMULUS AUGUSTULUS</text><title>Romulus Augustulus (c. 460 - c. 507)</title></a></g>
 
-<text x="18375" y="7591" class="dynasty">LAST WESTERN EMPERORS</text>
+<text x="18400" y="7591" class="dynasty">LAST WESTERN EMPERORS</text>
 <text x="150" y="8366" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XV" target="_blank"><rect id="Louis_XV" x="24645" y="8550" width="321" height="25" class="frenchMonarchy"/><g><rect x="24673" y="8550" width="293" height="25" class="king"/><title>king (9/1/1715 - 5/10/1774)</title></g>
 
 <text x="24647" y="8569" class="semimajor">LOUIS XV</text><title>Louis XV (2/15/1710 - 5/10/1774)</title></a></g>
