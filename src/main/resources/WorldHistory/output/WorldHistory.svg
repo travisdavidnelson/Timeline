@@ -12450,8 +12450,18 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="24991" y="9584" class="minor">WILLIAM LAMB</text><title>William Lamb (3/15/1779 - 11/24/1848) 2nd Viscount Melbourne</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/John_Russell" target="_blank"><rect id="John_Russell" x="25058" y="9598" width="429" height="15" class="whig"/><g><rect x="25327" y="9598" width="28" height="15" class="primeMinister"/><title>primeMinister (6/30/1846 - 2/21/1852)</title></g>
+<g><rect x="25424" y="9598" width="3" height="15" class="primeMinister"/><title>primeMinister (10/29/1865 - 6/26/1866)</title></g>
 
 <text x="25059" y="9609" class="minor">JOHN RUSSELL</text><title>John Russell (8/18/1792 - 5/28/1878)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edward_Smith-Stanley" target="_blank"><rect id="Edward_Smith-Stanley" x="25091" y="9623" width="353" height="15" class="conservative"/><g><rect x="25355" y="9623" width="4" height="15" class="primeMinister"/><title>primeMinister (2/23/1852 - 12/17/1852)</title></g>
+<g><rect x="25385" y="9623" width="7" height="15" class="primeMinister"/><title>primeMinister (2/20/1858 - 6/11/1859)</title></g>
+<g><rect x="25427" y="9623" width="8" height="15" class="primeMinister"/><title>primeMinister (6/28/1866 - 2/25/1868)</title></g>
+
+<text x="25092" y="9634" class="minor">EDWARD SMITH-STANLEY</text><title>Edward Smith-Stanley (3/29/1799 - 10/23/1869) 14th Earl of Derby</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Henry_John_Temple" target="_blank"><rect id="Henry_John_Temple" x="25018" y="9648" width="405" height="15" class="whig"/><g><rect x="25370" y="9648" width="15" height="15" class="primeMinister"/><title>primeMinister (2/6/1855 - 2/19/1858)</title></g>
+<g><rect x="25392" y="9648" width="32" height="15" class="primeMinister"/><title>primeMinister (6/12/1859 - 10/18/1865)</title></g>
+
+<text x="25019" y="9659" class="minor">HENRY JOHN TEMPLE</text><title>Henry John Temple (10/20/1784 - 10/18/1865) 3rd Viscount Palmerston</title></a></g>
 
 <text x="24701" y="9098" class="dynasty">BRITAIN POLITICAL</text>
 <text x="150" y="10367" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10551" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>

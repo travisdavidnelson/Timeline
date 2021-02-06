@@ -6642,6 +6642,72 @@
                     "start": "6/30/1846",
                     "end": "2/21/1852"
                   }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/29/1865",
+                    "end": "6/26/1866"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward Smith-Stanley",
+              "style": "conservative",
+              "importance": "minor",
+              "annotation": "14th Earl of Derby",
+              "timespan": {
+                "start": "3/29/1799",
+                "end": "10/23/1869"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "2/23/1852",
+                    "end": "12/17/1852"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "2/20/1858",
+                    "end": "6/11/1859"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/28/1866",
+                    "end": "2/25/1868"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry John Temple",
+              "style": "whig",
+              "importance": "minor",
+              "annotation": "3rd Viscount Palmerston",
+              "timespan": {
+                "start": "10/20/1784",
+                "end": "10/18/1865"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "2/6/1855",
+                    "end": "2/19/1858"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/12/1859",
+                    "end": "10/18/1865"
+                  }
                 }
               ]
             }
