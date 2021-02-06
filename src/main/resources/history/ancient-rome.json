@@ -5162,25 +5162,6 @@
           "name": "Last Western Emperors",
           "people": [
             {
-              "name": "Ricimer",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "418",
-                "end": "8/18/472"
-              },
-              "importance": "major",
-              "titles": [
-                {
-                  "name": "magisterMilitum",
-                  "timespan": {
-                    "start": "461",
-                    "end": "8/18/472"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Petronius Maximus",
               "style": "roman",
               "timespan": {
@@ -5239,13 +5220,27 @@
               ]
             },
             {
-              "name": "Libius Severus",
-              "style": "roman",
+              "name": "Ricimer",
+              "style": "german",
               "timespan": {
                 "startApproximate": true,
-                "start": "420",
-                "end": "8/15/465"
+                "start": "418",
+                "end": "8/18/472"
               },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "magisterMilitum",
+                  "timespan": {
+                    "start": "461",
+                    "end": "8/18/472"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Libius Severus",
+              "style": "roman",
               "importance": "minor",
               "titles": [
                 {
@@ -5279,11 +5274,6 @@
             {
               "name": "Olybrius",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "420",
-                "end": "11/2/472"
-              },
               "importance": "petty",
               "titles": [
                 {
