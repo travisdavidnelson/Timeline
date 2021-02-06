@@ -6351,6 +6351,50 @@
               ]
             },
             {
+              "name": "Thomas Pelham-Holles",
+              "style": "whig",
+              "importance": "minor",
+              "annotation": "1st Duke of Newcastle",
+              "timespan": {
+                "start": "7/21/1693",
+                "end": "11/17/1768"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "3/16/1754",
+                    "end": "11/11/1756"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/29/1757",
+                    "end": "5/26/1762"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George Grenville",
+              "style": "whig",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/14/1712",
+                "end": "11/13/1770"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/15/1763",
+                    "end": "7/10/1765"
+                  }
+                }
+              ]
+            },
+            {
               "name": "William Pitt the Elder",
               "style": "whig",
               "importance": "major",
