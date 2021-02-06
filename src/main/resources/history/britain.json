@@ -6523,7 +6523,7 @@
             {
               "name": "Arthur Wellesley",
               "style": "tory",
-              "importance": "semimajor",
+              "importance": "major",
               "annotation": "1st Duke of Wellington",
               "timespan": {
                 "start": "5/1/1769",
@@ -6559,6 +6559,88 @@
                   "timespan": {
                     "start": "6/18/1815",
                     "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles Grey",
+              "style": "whig",
+              "importance": "semimajor",
+              "annotation": "2nd Earl Grey",
+              "timespan": {
+                "start": "3/13/1764",
+                "end": "7/17/1845"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "11/22/1830",
+                    "end": "7/9/1834"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Robert Peel",
+              "style": "conservative",
+              "importance": "minor",
+              "annotation": "2nd Earl Grey",
+              "timespan": {
+                "start": "2/5/1788",
+                "end": "7/2/1850"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "12/10/1834",
+                    "end": "4/8/1835"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "8/30/1841",
+                    "end": "6/29/1846"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Lamb",
+              "style": "whig",
+              "importance": "minor",
+              "annotation": "2nd Viscount Melbourne",
+              "timespan": {
+                "start": "3/15/1779",
+                "end": "11/24/1848"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/18/1835",
+                    "end": "8/30/1841"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Russell",
+              "style": "whig",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/18/1792",
+                "end": "5/28/1878"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/30/1846",
+                    "end": "2/21/1852"
                   }
                 }
               ]

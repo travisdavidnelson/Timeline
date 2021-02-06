@@ -12433,12 +12433,25 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Robert_Jenkinson" target="_blank"><rect id="Robert_Jenkinson" x="24947" y="9438" width="292" height="15" class="tory"/><g><rect x="25157" y="9438" width="74" height="15" class="primeMinister"/><title>primeMinister (6/8/1812 - 4/9/1827)</title></g>
 
 <text x="24948" y="9449" class="minor">ROBERT JENKINSON</text><title>Robert Jenkinson (6/7/1770 - 12/4/1828) 2nd Earl of Liverpool</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Arthur_Wellesley" target="_blank"><rect id="Arthur_Wellesley" x="24941" y="9463" width="417" height="25" class="tory"/><g><rect x="25137" y="9463" width="97" height="25" class="general"/><title>general (7/12/1808 - 1828)</title></g>
-<g><rect x="25235" y="9463" width="14" height="25" class="primeMinister"/><title>primeMinister (1/22/1828 - 11/16/1830)</title></g>
-<g><rect x="25269" y="9463" width="1" height="25" class="primeMinister"/><title>primeMinister (11/17/1834 - 12/9/1834)</title></g>
-<g><rect x="25172" y="9463" width="1" height="25" class="triumph"/><title>Battle of Waterloo (6/18/1815)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Arthur_Wellesley" target="_blank"><rect id="Arthur_Wellesley" x="24941" y="9463" width="417" height="40" class="tory"/><g><rect x="25137" y="9463" width="97" height="40" class="general"/><title>general (7/12/1808 - 1828)</title></g>
+<g><rect x="25235" y="9463" width="14" height="40" class="primeMinister"/><title>primeMinister (1/22/1828 - 11/16/1830)</title></g>
+<g><rect x="25269" y="9463" width="1" height="40" class="primeMinister"/><title>primeMinister (11/17/1834 - 12/9/1834)</title></g>
+<g><rect x="25172" y="9463" width="1" height="40" class="triumph"/><title>Battle of Waterloo (6/18/1815)</title></g>
 
-<text x="24943" y="9482" class="semimajor">ARTHUR WELLESLEY</text><title>Arthur Wellesley (5/1/1769 - 9/14/1852) 1st Duke of Wellington</title></a></g>
+<text x="24944" y="9493" class="major">ARTHUR WELLESLEY</text><title>Arthur Wellesley (5/1/1769 - 9/14/1852) 1st Duke of Wellington</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_Grey" target="_blank"><rect id="Charles_Grey" x="24915" y="9513" width="407" height="25" class="whig"/><g><rect x="25249" y="9513" width="18" height="25" class="primeMinister"/><title>primeMinister (11/22/1830 - 7/9/1834)</title></g>
+
+<text x="24917" y="9532" class="semimajor">CHARLES GREY</text><title>Charles Grey (3/13/1764 - 7/17/1845) 2nd Earl Grey</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Robert_Peel" target="_blank"><rect id="Robert_Peel" x="25035" y="9548" width="312" height="15" class="conservative"/><g><rect x="25269" y="9548" width="2" height="15" class="primeMinister"/><title>primeMinister (12/10/1834 - 4/8/1835)</title></g>
+<g><rect x="25303" y="9548" width="24" height="15" class="primeMinister"/><title>primeMinister (8/30/1841 - 6/29/1846)</title></g>
+
+<text x="25036" y="9559" class="minor">ROBERT PEEL</text><title>Robert Peel (2/5/1788 - 7/2/1850) 2nd Earl Grey</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Lamb" target="_blank"><rect id="William_Lamb" x="24990" y="9573" width="348" height="15" class="whig"/><g><rect x="25271" y="9573" width="32" height="15" class="primeMinister"/><title>primeMinister (4/18/1835 - 8/30/1841)</title></g>
+
+<text x="24991" y="9584" class="minor">WILLIAM LAMB</text><title>William Lamb (3/15/1779 - 11/24/1848) 2nd Viscount Melbourne</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/John_Russell" target="_blank"><rect id="John_Russell" x="25058" y="9598" width="429" height="15" class="whig"/><g><rect x="25327" y="9598" width="28" height="15" class="primeMinister"/><title>primeMinister (6/30/1846 - 2/21/1852)</title></g>
+
+<text x="25059" y="9609" class="minor">JOHN RUSSELL</text><title>John Russell (8/18/1792 - 5/28/1878)</title></a></g>
 
 <text x="24701" y="9098" class="dynasty">BRITAIN POLITICAL</text>
 <text x="150" y="10367" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10551" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>

@@ -144,6 +144,7 @@
 .whig {fill:white; stroke:black; stroke-width:0.1; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
 .republican {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .tory {fill:#7c77f4; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+.conservative {fill:#302c82; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .human {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 
 .fate {fill-opacity:0.0}
