@@ -6140,7 +6140,7 @@
             {
               "name": "George III",
               "style": "british",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "6/4/1738",
                 "end": "1/29/1820"
@@ -6194,7 +6194,7 @@
             {
               "name": "Victoria&#9792;",
               "style": "british",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "5/24/1819",
                 "end": "1/22/1901"
@@ -6284,7 +6284,7 @@
             {
               "name": "Elizabeth II&#9792;",
               "style": "british",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "4/21/1926",
                 "end": ""
