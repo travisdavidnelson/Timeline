@@ -37,7 +37,7 @@ public class TimelineEvent {
 	}
 
 	public String getAnnotation() {
-		return annotation != null ? annotation : toString();
+		return annotation != null ? toString() + " " + annotation : toString();
 	}
 	public void setAnnotation(String annotation) {
 		this.annotation = annotation;
