@@ -3591,7 +3591,7 @@
                 "start": "32",
                 "end": "69"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -3707,7 +3707,7 @@
                 "endApproximate": true,
                 "end": "117"
               },
-              "importance": "minor"
+              "importance": "semimajor"
             },
             {
               "name": "Seutonius",
@@ -3718,7 +3718,7 @@
                 "endApproximate": true,
                 "end": "122"
               },
-              "importance": "minor"
+              "importance": "semimajor"
             }
           ]
         },
@@ -3903,7 +3903,7 @@
                 "start": "133",
                 "end": "193"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4128,7 +4128,7 @@
                 "start": "192",
                 "end": "238"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4147,7 +4147,7 @@
                 "start": "178",
                 "end": "238"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4166,7 +4166,7 @@
                 "start": "165",
                 "end": "238"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4184,7 +4184,7 @@
                 "start": "225",
                 "end": "244"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4355,7 +4355,7 @@
                 "start": "235",
                 "end": "261"
               },
-              "importance": "minor",
+              "importance": "petty",
               "annotation": "Usurper in the east with his father and brother.",
               "fate": "Defeated by Gallienus' general Aureolus in Thrace AD 261.",
               "titles": [
@@ -4376,7 +4376,7 @@
                 "start": "237",
                 "end": "261"
               },
-              "importance": "minor",
+              "importance": "petty",
               "annotation": "Usurper in the east with his father and brother.",
               "fate": "After his father Macrianus and brother were defeated by Gallienus, Odenathus beseiged Quietus at Emesa and killed by its inhabitants.",
               "titles": [
@@ -4436,7 +4436,7 @@
                 "start": "220",
                 "end": "270"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4476,7 +4476,7 @@
                 "start": "200",
                 "end": "276"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4514,7 +4514,7 @@
                 "start": "224",
                 "end": "283"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4533,7 +4533,7 @@
                 "start": "250",
                 "end": "285"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "caesar",
@@ -4559,7 +4559,7 @@
                 "start": "255",
                 "end": "284"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "caesar",
@@ -4648,27 +4648,27 @@
               ]
             },
             {
-              "name": "Severus II",
+              "name": "Valerius Severus",
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
                 "start": "260",
-                "end": "307"
+                "end": "9/307"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "305",
-                    "end": "306"
+                    "start": "5/1/305",
+                    "end": "7/25/306"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "306",
-                    "end": "307"
+                    "start": "7/25/306",
+                    "end": "4/307"
                   }
                 }
               ]
