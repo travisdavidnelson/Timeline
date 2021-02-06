@@ -187,14 +187,22 @@
       "name": "Napoleonic France",
       "timespan": {
         "start": "1799",
-        "end": "1815"
+        "end": "11/20/1815"
       },
       "style": "frenchNapoleonicEmpire"
     },
     {
+      "name": "Battle of Waterloo",
+      "style": "defeat",
+      "timespan": {
+        "start": "6/18/1815",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Bourbon Restoration",
       "timespan": {
-        "start": "1815",
+        "start": "11/20/1815",
         "end": "1830"
       },
       "style": "frenchMonarchy"
@@ -496,6 +504,16 @@
                   "timespan": {
                     "start": "5/18/1804",
                     "end": "4/6/1814"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Waterloo",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/18/1815",
+                    "duration": "1d"
                   }
                 }
               ]

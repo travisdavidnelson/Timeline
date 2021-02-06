@@ -916,8 +916,8 @@
       "name": "Napoleonic Wars",
       "style": "backgroundForeignWarMajor",
       "timespan": {
-        "start": "1803",
-        "end": "1814"
+        "start": "5/18/1803",
+        "end": "11/20/1815"
       }
     },
     {
@@ -6497,6 +6497,68 @@
                   "timespan": {
                     "start": "10/31/1780",
                     "end": "2/1825"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Robert Jenkinson",
+              "style": "tory",
+              "importance": "minor",
+              "annotation": "2nd Earl of Liverpool",
+              "timespan": {
+                "start": "6/7/1770",
+                "end": "12/4/1828"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/8/1812",
+                    "end": "4/9/1827"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arthur Wellesley",
+              "style": "tory",
+              "importance": "semimajor",
+              "annotation": "1st Duke of Wellington",
+              "timespan": {
+                "start": "5/1/1769",
+                "end": "9/14/1852"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "7/12/1808",
+                    "end": "1828"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/22/1828",
+                    "end": "11/16/1830"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "11/17/1834",
+                    "end": "12/9/1834"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Waterloo",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/18/1815",
+                    "duration": "1d"
                   }
                 }
               ]
