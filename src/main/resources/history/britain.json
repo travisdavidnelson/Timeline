@@ -6414,6 +6414,24 @@
               ]
             },
             {
+              "name": "Edmund Burke",
+              "style": "whig",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/12/1729",
+                "end": "7/9/1797"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1766",
+                    "end": "1794"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Frederick North",
               "style": "tory",
               "importance": "minor",
@@ -6428,6 +6446,51 @@
                   "timespan": {
                     "start": "1/28/1770",
                     "end": "3/27/1782"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Pitt the Younger",
+              "style": "tory",
+              "importance": "major",
+              "annotation": "Youngest Prime Minister of Great Britain",
+              "timespan": {
+                "start": "5/28/1759",
+                "end": "1/23/1806"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "12/19/1783",
+                    "end": "3/14/1801"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/10/1804",
+                    "end": "1/23/1806"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Wilberforce",
+              "style": "tory",
+              "importance": "transformational",
+              "annotation": "Evengelical emancipator",
+              "timespan": {
+                "start": "8/24/1759",
+                "end": "7/29/1833"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "10/31/1780",
+                    "end": "2/1825"
                   }
                 }
               ]

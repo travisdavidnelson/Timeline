@@ -12415,9 +12415,19 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/William_Pitt_the_Elder" target="_blank"><rect id="William_Pitt_the_Elder" x="24639" y="9218" width="347" height="40" class="whig"/><g><rect x="24927" y="9218" width="11" height="40" class="primeMinister"/><title>primeMinister (7/30/1766 - 10/14/1768)</title></g>
 
 <text x="24642" y="9248" class="major">WILLIAM PITT THE ELDER</text><title>William Pitt the Elder (11/15/1708 - 5/11/1778) 1st Earl of Chatham</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Frederick_North" target="_blank"><rect id="Frederick_North" x="24754" y="9268" width="300" height="15" class="tory"/><g><rect x="24945" y="9268" width="61" height="15" class="primeMinister"/><title>primeMinister (1/28/1770 - 3/27/1782)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Edmund_Burke" target="_blank"><rect id="Edmund_Burke" x="24740" y="9268" width="342" height="25" class="whig"/><g><rect x="24924" y="9268" width="140" height="25" class="memberParliament"/><title>memberParliament (1766 - 1794)</title></g>
 
-<text x="24755" y="9279" class="minor">FREDERICK NORTH</text><title>Frederick North (1732 - 1792) Lord North</title></a></g>
+<text x="24742" y="9287" class="semimajor">EDMUND BURKE</text><title>Edmund Burke (1/12/1729 - 7/9/1797)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Frederick_North" target="_blank"><rect id="Frederick_North" x="24754" y="9303" width="300" height="15" class="tory"/><g><rect x="24945" y="9303" width="61" height="15" class="primeMinister"/><title>primeMinister (1/28/1770 - 3/27/1782)</title></g>
+
+<text x="24755" y="9314" class="minor">FREDERICK NORTH</text><title>Frederick North (1732 - 1792) Lord North</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Pitt_the_Younger" target="_blank"><rect id="William_Pitt_the_Younger" x="24891" y="9328" width="233" height="40" class="tory"/><g><rect x="25014" y="9328" width="86" height="40" class="primeMinister"/><title>primeMinister (12/19/1783 - 3/14/1801)</title></g>
+<g><rect x="25116" y="9328" width="9" height="40" class="primeMinister"/><title>primeMinister (5/10/1804 - 1/23/1806)</title></g>
+
+<text x="24894" y="9358" class="major">WILLIAM PITT THE YOUNGER</text><title>William Pitt the Younger (5/28/1759 - 1/23/1806) Youngest Prime Minister of Great Britain</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/William_Wilberforce" target="_blank"><rect id="William_Wilberforce" x="24893" y="9378" width="370" height="50" class="tory"/><g><rect x="24999" y="9378" width="221" height="50" class="memberParliament"/><title>memberParliament (10/31/1780 - 2/1825)</title></g>
+
+<text x="24899" y="9418" class="transformational">WILLIAM WILBERFORCE</text><title>William Wilberforce (8/24/1759 - 7/29/1833) Evengelical emancipator</title></a></g>
 
 <text x="24701" y="9098" class="dynasty">BRITAIN POLITICAL</text>
 <text x="150" y="10625" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="10809" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/>
