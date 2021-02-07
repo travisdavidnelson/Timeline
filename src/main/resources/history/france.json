@@ -178,18 +178,74 @@
     {
       "name": "Revolutionary France",
       "timespan": {
-        "start": "1789",
-        "end": "1799"
+        "start": "5/5/1789",
+        "end": "11/9/1799"
       },
       "style": "backgroundRevolution"
     },
     {
       "name": "Napoleonic France",
       "timespan": {
-        "start": "1799",
+        "start": "11/9/1799",
         "end": "11/20/1815"
       },
       "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "War of the First Coalition",
+      "timespan": {
+        "start": "4/20/1792",
+        "end": "10/18/1797"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "War of the Second Coalition",
+      "timespan": {
+        "start": "11/29/1798",
+        "end": "3/25/1802"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "War of the Third Coalition",
+      "timespan": {
+        "start": "5/18/1803",
+        "end": "7/18/1806"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "War of the Fourth Coalition",
+      "timespan": {
+        "start": "10/1806",
+        "end": "7/1807"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "War of the Fifth Coalition",
+      "timespan": {
+        "start": "4/10/1809",
+        "end": "10/14/1809"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "War of the Sixth Coalition",
+      "timespan": {
+        "start": "3/3/1813",
+        "end": "5/30/1814"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Hundred Days",
+      "timespan": {
+        "start": "3/20/1815",
+        "end": "7/8/1815"
+      },
+      "style": "backgroundWar"
     },
     {
       "name": "Battle of Waterloo",
