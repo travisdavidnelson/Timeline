@@ -200,6 +200,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "War in the Vendee",
+      "timespan": {
+        "start": "3/1793",
+        "end": "3/1796"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
       "name": "War of the Second Coalition",
       "timespan": {
         "start": "11/29/1798",
@@ -294,6 +302,46 @@
         "end": "7/28/1794"
       },
       "style": "backgroundReignOfTerror"
+    },
+    {
+      "name": "Battle of Marengo",
+      "timespan": {
+        "start": "6/14/1800",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Trafalgar",
+      "timespan": {
+        "start": "10/21/1805",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Austerlitz",
+      "timespan": {
+        "start": "12/2/1805",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Jena",
+      "timespan": {
+        "start": "10/14/1806",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Leipzig",
+      "timespan": {
+        "start": "10/16/1813",
+        "end": "10/19/1813"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Battle of Waterloo",
