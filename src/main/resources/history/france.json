@@ -550,6 +550,58 @@
           ]
         },
         {
+          "name": "Girondins",
+          "people": [
+            {
+              "name": "Jacques Pierre Brissot",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "1/15/1754",
+                "end": "10/31/1793"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "10/30/1793"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pierre Vergniaud",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "5/31/1753",
+                "end": "10/31/1793"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "1/10/1793",
+                    "end": "1/24/1793"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Madame Roland&#9792;",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "3/17/1754",
+                "end": "11/8/1793"
+              },
+              "importance": "minor",
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Jacobins",
           "people": [
             {
