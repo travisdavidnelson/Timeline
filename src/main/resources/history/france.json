@@ -280,6 +280,14 @@
       "style": "backgroundReignOfTerror"
     },
     {
+      "name": "Battle of Valmy",
+      "timespan": {
+        "start": "9/20/1792",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Reign of Terror",
       "timespan": {
         "start": "9/5/1793",
@@ -570,6 +578,31 @@
                   "timespan": {
                     "start": "7/27/1793",
                     "end": "7/28/1794"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis Saint-Just",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "8/25/1767",
+                "end": "7/28/1794"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "7/27/1794"
+                  }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "5/30/1793",
+                    "end": "7/27/1794"
                   }
                 }
               ]
