@@ -67,7 +67,7 @@
       "name": "Kingdom of France",
       "timespan": {
         "start": "987",
-        "end": "1789"
+        "end": "5/5/1789"
       },
       "style": "frenchMonarchy"
     },
@@ -246,6 +246,46 @@
         "end": "7/8/1815"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Day of the Tiles",
+      "timespan": {
+        "start": "6/7/1788",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Storming of the Bastille",
+      "timespan": {
+        "start": "7/14/1789",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Insurrection of 10 August 1792",
+      "timespan": {
+        "start": "8/10/1792",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "September Massacres",
+      "timespan": {
+        "start": "9/2/1792",
+        "end": "9/6/1792"
+      },
+      "style": "backgroundReignOfTerror"
+    },
+    {
+      "name": "Reign of Terror",
+      "timespan": {
+        "start": "9/5/1793",
+        "end": "7/28/1794"
+      },
+      "style": "backgroundReignOfTerror"
     },
     {
       "name": "Battle of Waterloo",
