@@ -176,17 +176,25 @@
       }
     },
     {
-      "name": "Revolutionary France",
+      "name": "Constitutional Monarchy",
       "timespan": {
-        "start": "5/5/1789",
-        "end": "11/9/1799"
+        "start": "7/1789",
+        "end": "9/22/1792"
       },
-      "style": "backgroundRevolution"
+      "style": "frenchConstitutionalMonarchy"
     },
     {
-      "name": "Napoleonic France",
+      "name": "First Republic",
       "timespan": {
-        "start": "11/9/1799",
+        "start": "9/22/1792",
+        "end": "5/18/1804"
+      },
+      "style": "frenchRepublic"
+    },
+    {
+      "name": "First French Empire",
+      "timespan": {
+        "start": "5/18/1804",
         "end": "11/20/1815"
       },
       "style": "frenchNapoleonicEmpire"
