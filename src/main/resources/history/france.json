@@ -538,7 +538,7 @@
               ]
             },
             {
-              "name": "Marie Antoinette",
+              "name": "Marie Antoinette&#9792;",
               "style": "frenchMonarchy",
               "timespan": {
                 "start": "11/1755",
@@ -551,6 +551,13 @@
                   "timespan": {
                     "start": "5/10/1774",
                     "end": "9/21/1792"
+                  }
+                },
+                {
+                  "name": "deposed",
+                  "timespan": {
+                    "start": "9/21/1792",
+                    "end": "10/16/1793"
                   }
                 }
               ]

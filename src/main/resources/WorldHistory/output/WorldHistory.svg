@@ -11754,9 +11754,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25058" y="8610" width="2" height="40" class="deposed"/><title>deposed (9/21/1792 - 1/21/1793)</title></g>
 
 <text x="24871" y="8640" class="major">LOUIS XVI</text><title>Louis XVI (8/23/1754 - 1/21/1793)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marie_Antoinette" target="_blank"><rect id="Marie_Antoinette" x="24874" y="8660" width="190" height="25" class="frenchMonarchy"/><g><rect x="24966" y="8660" width="92" height="25" class="queen"/><title>queen (5/10/1774 - 9/21/1792)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marie_Antoinette&#9792;" target="_blank"><rect id="Marie_Antoinette&#9792;" x="24874" y="8660" width="190" height="25" class="frenchMonarchy"/><g><rect x="24966" y="8660" width="92" height="25" class="queen"/><title>queen (5/10/1774 - 9/21/1792)</title></g>
+<g><rect x="25058" y="8660" width="5" height="25" class="deposed"/><title>deposed (9/21/1792 - 10/16/1793)</title></g>
 
-<text x="24876" y="8679" class="semimajor">MARIE ANTOINETTE</text><title>Marie Antoinette (11/1755 - 10/16/1793)</title></a></g>
+<text x="24876" y="8679" class="semimajor">MARIE ANTOINETTE&#9792;</text><title>Marie Antoinette&#9792; (11/1755 - 10/16/1793)</title></a></g>
 
 <text x="24673" y="8540" class="dynasty">ANCIEN REGIME</text><g><a xlink:href="http://en.wikipedia.org/wiki/Jacques_Pierre_Brissot" target="_blank"><rect id="Jacques_Pierre_Brissot" x="24865" y="8767" width="199" height="15" class="frenchRepublic"/><g><rect x="25058" y="8767" width="6" height="15" class="frenchNationalConvention"/><title>frenchNationalConvention (9/20/1792 - 10/30/1793)</title></g>
 
