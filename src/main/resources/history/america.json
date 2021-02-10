@@ -404,7 +404,7 @@
                 "start": "1550",
                 "end": "1631"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "colonist",
               "titles": [
                 {
@@ -447,7 +447,7 @@
                 "start": "1/12/1587",
                 "end": "3/26/1649"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "colonist",
               "titles": [
                 {
@@ -486,7 +486,7 @@
                 "start": "3/19/1590",
                 "end": "5/9/1657"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "colonist",
               "titles": [
                 {
@@ -504,7 +504,7 @@
                 "start": "7/1591",
                 "end": "8/1643"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "colonist"
             },
             {
@@ -513,7 +513,7 @@
                 "start": "1600",
                 "end": "3/15/1664"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "colonist",
               "titles": [
                 {
@@ -552,7 +552,7 @@
                 "start": "12/21/1603",
                 "end": "3/15/1683"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "colonist",
               "titles": [
                 {
@@ -632,7 +632,7 @@
                 "start": "1/23/1737",
                 "end": "10/8/1793"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "patriot",
               "titles": [
                 {
@@ -777,7 +777,7 @@
                 "start": "1/11/1755",
                 "end": "7/12/1804"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "federalist",
               "titles": [
                 {
@@ -816,7 +816,7 @@
                 "start": "4/13/1743",
                 "end": "7/4/1826"
               },
-              "importance": "transformational",
+              "importance": "major",
               "style": "democrat",
               "titles": [
                 {
@@ -883,7 +883,7 @@
                 "start": "3/16/1751",
                 "end": "6/28/1836"
               },
-              "importance": "transformational",
+              "importance": "major",
               "style": "democrat",
               "titles": [
                 {
@@ -1075,7 +1075,7 @@
                 "start": "4/12/1777",
                 "end": "6/29/1852"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "whig",
               "titles": [
                 {
@@ -1188,7 +1188,7 @@
                 "start": "12/5/1782",
                 "end": "7/24/1862"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "democrat",
               "titles": [
                 {
@@ -1241,7 +1241,7 @@
                 "start": "1/18/1782",
                 "end": "10/24/1852"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "whig",
               "titles": [{
                 "name": "secretaryOfState",
@@ -1324,7 +1324,7 @@
                 "start": "3/29/1790",
                 "end": "1/18/1862"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "democrat",
               "titles": [
                 {
@@ -1370,7 +1370,7 @@
                 "start": "11/2/1795",
                 "end": "6/15/1849"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "democrat",
               "titles": [
                 {
@@ -1434,7 +1434,7 @@
                 "start": "1/7/1800",
                 "end": "3/8/1874"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "whig",
               "titles": [
                 {
@@ -1466,7 +1466,7 @@
                 "start": "11/23/1804",
                 "end": "10/8/1869"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "democrat",
               "titles": [
                 {
@@ -1498,7 +1498,7 @@
                 "start": "4/23/1791",
                 "end": "6/1/1868"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "democrat",
               "titles": [
                 {
@@ -1581,7 +1581,7 @@
                 "start": "12/29/1808",
                 "end": "7/31/1875"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "democrat",
               "titles": [
                 {
@@ -1712,7 +1712,7 @@
                 "start": "11/19/1831",
                 "end": "9/19/1881"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "republican",
               "titles": [
                 {
@@ -1737,7 +1737,7 @@
                 "start": "10/5/1829",
                 "end": "11/18/1886"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "republican",
               "titles": [
                 {
@@ -1794,7 +1794,7 @@
                 "start": "8/20/1833",
                 "end": "3/13/1901"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "republican",
               "titles": [
                 {
@@ -1819,7 +1819,7 @@
                 "start": "12/29/1843",
                 "end": "9/14/1901"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "republican",
               "titles": [
                 {
@@ -1967,7 +1967,7 @@
                 "start": "11/2/1865",
                 "end": "8/2/1923"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "republican",
               "titles": [
                 {
@@ -1992,7 +1992,7 @@
                 "start": "7/4/1872",
                 "end": "1/5/1933"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "republican",
               "titles": [
                 {
@@ -2049,7 +2049,7 @@
                 "start": "1/30/1882",
                 "end": "4/12/1945"
               },
-              "importance": "transformational",
+              "importance": "major",
               "style": "democrat",
               "titles": [
                 {
@@ -2074,7 +2074,7 @@
                 "start": "5/8/1884",
                 "end": "12/26/1972"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "democrat",
               "titles": [
                 {
@@ -2177,7 +2177,7 @@
                 "start": "8/27/1908",
                 "end": "1/22/1973"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "democrat",
               "titles": [
                 {
@@ -2255,7 +2255,7 @@
                 "start": "7/14/1913",
                 "end": "12/26/2006"
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "republican",
               "titles": [
                 {
@@ -2381,7 +2381,7 @@
                 "start": "8/19/1946",
                 "end": ""
               },
-              "importance": "minor",
+              "importance": "petty",
               "style": "democrat",
               "titles": [
                 {
@@ -2413,7 +2413,7 @@
                 "start": "7/6/1946",
                 "end": ""
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "republican",
               "titles": [
                 {
@@ -2438,7 +2438,7 @@
                 "start": "8/4/1961",
                 "end": ""
               },
-              "importance": "major",
+              "importance": "semimajor",
               "style": "democrat",
               "titles": [
                 {
@@ -2470,7 +2470,7 @@
                 "start": "6/14/1946",
                 "end": ""
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "republican",
               "titles": [{
                 "name": "president",
