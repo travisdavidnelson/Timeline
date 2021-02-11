@@ -221,6 +221,7 @@
 .vizier 			{fill:purple;	fill-opacity:0.5}
 .triumph 			{fill:gold;		fill-opacity:1.0}
 .defeat 			{fill:red;		fill-opacity:1.0}
+.victory 			{fill:gold;		fill-opacity:0.8}
 
 .president 			{fill:blue;		fill-opacity:0.8}
 .presidentElect 	{fill:blue;		fill-opacity:0.5}

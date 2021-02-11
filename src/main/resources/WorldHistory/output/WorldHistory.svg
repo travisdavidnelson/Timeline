@@ -336,6 +336,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="_blank"><rect id="Battle_of_Trafalgar" x="25123" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Trafalgar" x="25123" y="8478" width="1" height="733" class="backgroundBattle"/><title>Battle of Trafalgar (10/21/1805)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Austerlitz" target="_blank"><rect id="Battle_of_Austerlitz" x="25124" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Austerlitz" x="25124" y="8478" width="1" height="733" class="backgroundBattle"/><title>Battle of Austerlitz (12/2/1805)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Jena" target="_blank"><rect id="Battle_of_Jena" x="25128" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Jena" x="25128" y="8478" width="1" height="733" class="backgroundBattle"/><title>Battle of Jena (10/14/1806)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Wagram" target="_blank"><rect id="Battle_of_Wagram" x="25142" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Wagram" x="25142" y="8478" width="1" height="733" class="backgroundBattle"/><title>Battle of Wagram (7/5/1809)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Leipzig" target="_blank"><rect id="Battle_of_Leipzig" x="25163" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Leipzig" x="25163" y="8478" width="1" height="733" class="backgroundBattle"/><title>Battle of Leipzig (10/16/1813 - 10/19/1813)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Waterloo" target="_blank"><rect id="Battle_of_Waterloo" x="25172" y="8478" width="1" height="733" class="footprint"/><rect id="Battle_of_Waterloo" x="25172" y="8478" width="1" height="733" class="defeat"/><title>Battle of Waterloo (6/18/1815)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bourbon_Restoration" target="_blank"><rect id="Bourbon_Restoration" x="25174" y="8478" width="71" height="733" class="footprint"/><rect id="Bourbon_Restoration" x="25174" y="8478" width="71" height="733" class="frenchMonarchy"/><title>Bourbon Restoration (11/20/1815 - 1830)</title></a></g>
@@ -11786,7 +11787,15 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="24935" y="9011" class="semimajor">LOUIS SAINT-JUST</text><title>Louis Saint-Just (8/25/1767 - 7/28/1794)</title></a></g>
 
 <text x="25061" y="8897" class="dynasty">JACOBINS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Napoleon_Bonaparte" target="_blank"><rect id="Napoleon_Bonaparte" x="24943" y="9099" width="259" height="40" class="frenchNapoleonicEmpire"/><g><rect x="25094" y="9099" width="23" height="40" class="frenchFirstConsul"/><title>frenchFirstConsul (11/10/1799 - 5/18/1804)</title></g>
-<g><rect x="25116" y="9099" width="49" height="40" class="frenchEmperor"/><title>frenchEmperor (5/18/1804 - 4/6/1814)</title></g>
+<g><rect x="25116" y="9099" width="49" height="40" class="frenchEmperor"/><title>frenchEmperor (5/18/1804 - 4/4/1814)</title></g>
+<g><rect x="25166" y="9099" width="5" height="40" class="exile"/><title>exile (4/4/1814 - 3/20/1815)</title></g>
+<g><rect x="25171" y="9099" width="2" height="40" class="frenchEmperor"/><title>frenchEmperor (3/20/1815 - 7/8/1815)</title></g>
+<g><rect x="25172" y="9099" width="29" height="40" class="exile"/><title>exile (7/8/1815 - 5/5/1821)</title></g>
+<g><rect x="25097" y="9099" width="1" height="40" class="victory"/><title>Battle of Marengo (6/14/1800)</title></g>
+<g><rect x="25124" y="9099" width="1" height="40" class="victory"/><title>Battle of Austerlitz (12/2/1805)</title></g>
+<g><rect x="25128" y="9099" width="1" height="40" class="victory"/><title>Battle of Jena (10/14/1806)</title></g>
+<g><rect x="25142" y="9099" width="1" height="40" class="victory"/><title>Battle of Wagram (7/5/1809)</title></g>
+<g><rect x="25163" y="9099" width="1" height="40" class="victory"/><title>Battle of Leipzig (10/16/1813 - 10/19/1813)</title></g>
 <g><rect x="25172" y="9099" width="1" height="40" class="defeat"/><title>Battle of Waterloo (6/18/1815)</title></g>
 
 <text x="24946" y="9129" class="major">NAPOLEON BONAPARTE</text><title>Napoleon Bonaparte (8/15/1769 - 5/5/1821)</title></a></g>

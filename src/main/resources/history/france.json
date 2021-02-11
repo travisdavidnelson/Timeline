@@ -344,6 +344,14 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Battle of Wagram",
+      "timespan": {
+        "start": "7/5/1809",
+        "duration": "2d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Battle of Leipzig",
       "timespan": {
         "start": "10/16/1813",
@@ -747,11 +755,72 @@
                   "name": "frenchEmperor",
                   "timespan": {
                     "start": "5/18/1804",
-                    "end": "4/6/1814"
+                    "end": "4/4/1814"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "4/4/1814",
+                    "end": "3/20/1815"
+                  }
+                },
+                {
+                  "name": "frenchEmperor",
+                  "timespan": {
+                    "start": "3/20/1815",
+                    "end": "7/8/1815"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "7/8/1815",
+                    "end": "5/5/1821"
                   }
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Marengo",
+                  "timespan": {
+                    "start": "6/14/1800",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Austerlitz",
+                  "timespan": {
+                    "start": "12/2/1805",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Jena",
+                  "timespan": {
+                    "start": "10/14/1806",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Wagram",
+                  "timespan": {
+                    "start": "7/5/1809",
+                    "duration": "2d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Leipzig",
+                  "timespan": {
+                    "start": "10/16/1813",
+                    "end": "10/19/1813"
+                  },
+                  "style": "victory"
+                },
                 {
                   "name": "Battle of Waterloo",
                   "style": "defeat",
