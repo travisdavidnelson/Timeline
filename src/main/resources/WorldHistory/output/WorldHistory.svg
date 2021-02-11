@@ -497,6 +497,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/American_Revolutionary_War" target="_blank"><rect id="American_Revolutionary_War" x="24971" y="10654" width="42" height="2117" class="footprint"/><rect id="American_Revolutionary_War" x="24971" y="10654" width="42" height="2117" class="backgroundCivilWar"/><title>American Revolutionary War (4/19/1775 - 9/3/1783)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/War_of_1812" target="_blank"><rect id="War_of_1812" x="25157" y="10654" width="13" height="2117" class="footprint"/><rect id="War_of_1812" x="25157" y="10654" width="13" height="2117" class="backgroundWar"/><title>War of 1812 (6/18/1812 - 2/17/1815)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Washington" target="_blank"><rect id="Sack_of_Washington" x="25168" y="10654" width="1" height="2117" class="footprint"/><rect id="Sack_of_Washington" x="25168" y="10654" width="1" height="2117" class="backgroundNationalCalamity"/><title>Sack of Washington (8/24/1814)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_New_Orleans" target="_blank"><rect id="Battle_of_New_Orleans" x="25170" y="10654" width="1" height="2117" class="footprint"/><rect id="Battle_of_New_Orleans" x="25170" y="10654" width="1" height="2117" class="backgroundBattleVictory"/><title>Battle of New Orleans (1/8/1815)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mexican-American_War" target="_blank"><rect id="Mexican-American_War" x="25326" y="10654" width="9" height="2117" class="footprint"/><rect id="Mexican-American_War" x="25326" y="10654" width="9" height="2117" class="backgroundForeignWarMajorVictory"/><title>Mexican-American War (4/25/1846 - 2/3/1848)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bleeding_Kansas" target="_blank"><rect id="Bleeding_Kansas" x="25364" y="10654" width="37" height="2117" class="footprint"/><rect id="Bleeding_Kansas" x="25364" y="10654" width="37" height="2117" class="backgroundCivilWarRegional"/><title>Bleeding Kansas (1854 - 5/1861)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/American_Civil_War" target="_blank"><rect id="American_Civil_War" x="25401" y="10654" width="20" height="2117" class="footprint"/><rect id="American_Civil_War" x="25401" y="10654" width="20" height="2117" class="backgroundCivilWar"/><title>American Civil War (4/12/1861 - 5/9/1865)</title></a></g>
@@ -12628,6 +12629,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25200" y="11258" width="4" height="40" class="militaryGovernor"/><title>militaryGovernor (3/10/1821 - 12/31/1821)</title></g>
 <g><rect x="25210" y="11258" width="13" height="40" class="senator"/><title>senator (3/4/1823 - 10/14/1825)</title></g>
 <g><rect x="25240" y="11258" width="40" height="40" class="president"/><title>president (3/4/1829 - 3/4/1837)</title></g>
+<g><rect x="25170" y="11258" width="1" height="40" class="victory"/><title>Battle of New Orleans (1/8/1815)</title></g>
 
 <text x="24933" y="11288" class="major">ANDREW JACKSON</text><title>Andrew Jackson (3/15/1767 - 6/8/1845)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Martin_Van_Buren" target="_blank"><rect id="Martin_Van_Buren" x="25009" y="11308" width="398" height="15" class="democrat"/><g><rect x="25200" y="11308" width="39" height="15" class="senator"/><title>senator (3/4/1821 - 12/20/1828)</title></g>
@@ -12703,6 +12705,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ulysses_S._Grant" target="_blank"><rect id="Ulysses_S._Grant" x="25206" y="11672" width="316" height="40" class="republican"/><g><rect x="25402" y="11672" width="38" height="40" class="general"/><title>general (8/5/1861 - 3/4/1869)</title></g>
 <g><rect x="25433" y="11672" width="2" height="40" class="secretaryOfWar"/><title>secretaryOfWar (8/12/1867 - 1/14/1868)</title></g>
 <g><rect x="25440" y="11672" width="40" height="40" class="president"/><title>president (3/4/1869 - 3/4/1877)</title></g>
+<g><rect x="25405" y="11672" width="1" height="40" class="victory"/><title>Forts Henry and Donelson (2/8/1862 - 2/16/1862)</title></g>
+<g><rect x="25406" y="11672" width="1" height="40" class="victory"/><title>Battle of Shiloh (4/6/1862)</title></g>
+<g><rect x="25411" y="11672" width="1" height="40" class="victory"/><title>Siege of Vicksburg (5/18/1863 - 7/4/1863)</title></g>
+<g><rect x="25414" y="11672" width="1" height="40" class="victory"/><title>Battle of Missionary Ridge (11/23/1863)</title></g>
+<g><rect x="25421" y="11672" width="1" height="40" class="victory"/><title>Battle of Appomattox Court House (4/9/1865)</title></g>
 
 <text x="25209" y="11702" class="major">ULYSSES S. GRANT</text><title>Ulysses S. Grant (4/27/1822 - 7/23/1885)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Rutherford_Hayes" target="_blank"><rect id="Rutherford_Hayes" x="25208" y="11722" width="351" height="15" class="republican"/><g><rect x="25420" y="11722" width="12" height="15" class="legislator"/><title>legislator (3/4/1865 - 7/20/1867)</title></g>

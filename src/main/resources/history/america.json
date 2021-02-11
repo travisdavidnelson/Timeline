@@ -121,6 +121,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Battle of New Orleans",
+      "timespan": {
+        "start": "1/8/1815",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
       "name": "Mexican-American War",
       "timespan": {
         "start": "4/25/1846",
@@ -1180,6 +1188,16 @@
                     "end": "3/4/1837"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of New Orleans",
+                  "timespan": {
+                    "start": "1/8/1815",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -1664,6 +1682,48 @@
                     "start": "3/4/1869",
                     "end": "3/4/1877"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Forts Henry and Donelson",
+                  "timespan": {
+                    "start": "2/8/1862",
+                    "end": "2/16/1862"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Shiloh",
+                  "timespan": {
+                    "start": "4/6/1862",
+                    "duration": "2d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Siege of Vicksburg",
+                  "timespan": {
+                    "start": "5/18/1863",
+                    "end": "7/4/1863"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Missionary Ridge",
+                  "timespan": {
+                    "start": "11/23/1863",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Appomattox Court House",
+                  "timespan": {
+                    "start": "4/9/1865",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
