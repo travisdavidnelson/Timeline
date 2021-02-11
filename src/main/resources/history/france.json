@@ -344,10 +344,26 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Battle of Friedland",
+      "timespan": {
+        "start": "6/14/1807",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Battle of Wagram",
       "timespan": {
         "start": "7/5/1809",
         "duration": "2d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Borodino",
+      "timespan": {
+        "start": "9/7/1812",
+        "duration": "1d"
       },
       "style": "backgroundBattle"
     },
@@ -806,10 +822,26 @@
                   "style": "victory"
                 },
                 {
+                  "name": "Battle of Friedland",
+                  "timespan": {
+                    "start": "6/14/1807",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
                   "name": "Battle of Wagram",
                   "timespan": {
                     "start": "7/5/1809",
                     "duration": "2d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Borodino",
+                  "timespan": {
+                    "start": "9/7/1812",
+                    "duration": "1d"
                   },
                   "style": "victory"
                 },
