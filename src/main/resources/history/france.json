@@ -474,14 +474,243 @@
   ],
   "dynastyGroups": [
     {
-      "name": "French Revolution",
+      "name": "Ancien Regime",
       "dynasties": [
         {
-          "name": "Ancien Regime",
+          "name": "Valois",
           "people": [
             {
+              "name": "Charles VII",
+              "style": "french",
+              "timespan": {
+                "start": "2/22/1403",
+                "end": "7/22/1461"
+              },
+              "importance": "major",
+              "annotation": "The Victorious or The Well-Served",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/21/1422",
+                    "end": "7/22/1461"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XI",
+              "style": "french",
+              "timespan": {
+                "start": "7/3/1423",
+                "end": "8/30/1483"
+              },
+              "importance": "semimajor",
+              "annotation": "The Prudent",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/22/1461",
+                    "end": "8/30/1483"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles VIII",
+              "style": "french",
+              "timespan": {
+                "start": "6/30/1470",
+                "end": "4/7/1498"
+              },
+              "importance": "minor",
+              "annotation": "The Affable",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/30/1483",
+                    "end": "4/7/1498"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XII",
+              "style": "french",
+              "timespan": {
+                "start": "6/27/1462",
+                "end": "1/1/1515"
+              },
+              "importance": "major",
+              "annotation": "Father of the People",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/7/1498",
+                    "end": "1/1/1515"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Francis I",
+              "style": "french",
+              "timespan": {
+                "start": "9/12/1494",
+                "end": "3/31/1547"
+              },
+              "importance": "semimajor",
+              "annotation": "The Father and Restorer of Letters",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1/1515",
+                    "end": "3/31/1547"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry II",
+              "style": "french",
+              "timespan": {
+                "start": "3/31/1519",
+                "end": "7/10/1559"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/31/1547",
+                    "end": "7/10/1559"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Francis II",
+              "style": "french",
+              "timespan": {
+                "start": "1/19/1544",
+                "end": "12/5/1560"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/10/1559",
+                    "end": "12/5/1560"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles IX",
+              "style": "french",
+              "timespan": {
+                "start": "6/27/1550",
+                "end": "5/30/1574"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/5/1560",
+                    "end": "5/30/1574"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Henry III",
+              "style": "french",
+              "timespan": {
+                "start": "9/19/1551",
+                "end": "8/2/1589"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/30/1574",
+                    "end": "8/2/1589"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bourbon",
+          "people": [
+            {
+              "name": "Henry IV",
+              "style": "french",
+              "timespan": {
+                "start": "12/13/1553",
+                "end": "5/14/1610"
+              },
+              "importance": "major",
+              "annotation": "Paris is well worth a mass",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/2/1589",
+                    "end": "5/14/1610"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XIII",
+              "style": "french",
+              "timespan": {
+                "start": "9/27/1601",
+                "end": "5/14/1643"
+              },
+              "importance": "semimajor",
+              "annotation": "The Just",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/14/1610",
+                    "end": "5/14/1643"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XIV",
+              "style": "french",
+              "timespan": {
+                "start": "9/5/1638",
+                "end": "9/1/1715"
+              },
+              "importance": "major",
+              "annotation": "The Sun King",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/14/1643",
+                    "end": "9/1/1715"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Louis XV",
-              "style": "frenchMonarchy",
+              "style": "french",
               "timespan": {
                 "start": "2/15/1710",
                 "end": "5/10/1774"
@@ -499,7 +728,7 @@
             },
             {
               "name": "Jacques Necker",
-              "style": "frenchMonarchy",
+              "style": "french",
               "timespan": {
                 "start": "9/30/1732",
                 "end": "4/9/1804"
@@ -538,7 +767,7 @@
             },
             {
               "name": "Louis XVI",
-              "style": "frenchMonarchy",
+              "style": "french",
               "timespan": {
                 "start": "8/23/1754",
                 "end": "1/21/1793"
@@ -563,7 +792,7 @@
             },
             {
               "name": "Marie Antoinette&#9792;",
-              "style": "frenchMonarchy",
+              "style": "french",
               "timespan": {
                 "start": "11/1755",
                 "end": "10/16/1793"
@@ -587,7 +816,12 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "French Revolution",
+      "dynasties": [
         {
           "name": "Girondins",
           "people": [
