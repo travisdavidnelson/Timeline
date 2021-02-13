@@ -72,6 +72,14 @@
       "style": "frenchMonarchy"
     },
     {
+      "name": "Edwardian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/24/1337",
+        "end": "1360"
+      }
+    },
+    {
       "name": "Black Death",
       "style": "backgroundPlague",
       "timespan": {
@@ -88,11 +96,27 @@
       }
     },
     {
-      "name": "Battle of Crecy",
+      "name": "Battle of Poiters",
       "style": "backgroundBattleDefeat",
       "timespan": {
         "start": "9/19/1356",
         "duration": "1d"
+      }
+    },
+    {
+      "name": "Caroline War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1369",
+        "end": "1389"
+      }
+    },
+    {
+      "name": "Lancastrian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1415",
+        "end": "10/19/1453"
       }
     },
     {
@@ -109,6 +133,30 @@
       "timespan": {
         "start": "4/1512",
         "end": "1518"
+      }
+    },
+    {
+      "name": "Rough Wooing",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "11/24/1542",
+        "end": "4/1551"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "3/1562",
+        "end": "4/1598"
+      }
+    },
+    {
+      "name": "Nine Years' War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "9/27/1688",
+        "end": "9/20/1697"
       }
     },
     {
