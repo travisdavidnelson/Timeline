@@ -10778,9 +10778,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="18730" y="5795" width="190" height="50" class="augustus"/><title>augustus (527 - 565)</title></g>
 
 <text x="18467" y="5835" class="transformational">JUSTINIAN I</text><title>Justinian I (c. 482 - 565)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theodora_I" target="_blank"><rect id="Theodora_I" x="18545" y="5855" width="290" height="40" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18720" y="5855" width="115" height="40" class="augusta"/><title>augusta (525 - 548)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theodora_I&#9792;" target="_blank"><rect id="Theodora_I&#9792;" x="18545" y="5855" width="290" height="40" class="roman"  mask="url(#fadeInMask)"/><g><rect x="18720" y="5855" width="115" height="40" class="augusta"/><title>augusta (525 - 548)</title></g>
 
-<text x="18551" y="5885" class="major">THEODORA I</text><title>Theodora I (c. 500 - 548)</title></a></g>
+<text x="18551" y="5885" class="major">THEODORA I&#9792;</text><title>Theodora I&#9792; (c. 500 - 548)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Narses" target="_blank"><rect id="Narses" x="18485" y="5905" width="475" height="25" class="roman"/><g><rect x="18755" y="5905" width="170" height="25" class="magisterMilitum"/><title>magisterMilitum (532 - 566)</title></g>
 
 <text x="18487" y="5924" class="semimajor">NARSES</text><title>Narses (478 - 573)</title></a></g>
@@ -11383,32 +11383,32 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="15794" y="6852" class="transformational">AUGUSTUS</text><title>Augustus (9/23/63 BC - 8/19/14) Caesar's nephew and heir, the first Emperor of Rome.</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Augustus" target="_blank"><rect id="Augustus" x="16163" y="6812" width="5" height="50" class="fate"/><title>Died 19 August AD 14, aged 75, perhaps poisoned by Livia. Afterwards Deified.</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Livia&#9792;" target="_blank"><rect id="Livia&#9792;" x="15810" y="6872" width="430" height="25" class="deified"/><g><rect x="15965" y="6872" width="275" height="25" class="augusta"/><title>augusta (27 BC - 29)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Maecenas" target="_blank"><rect id="Gaius_Maecenas" x="15750" y="6872" width="310" height="25" class="roman"/>
+<text x="15752" y="6891" class="semimajor">GAIUS MAECENAS</text><title>Gaius Maecenas (70 BC - 8 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="15730" y="6907" width="310" height="25" class="roman"  mask="url(#fadeInMask)"/><g><rect x="15895" y="6907" width="20" height="25" class="general"/><title>general (41 BC - 37 BC)</title></g>
+<g><rect x="15915" y="6907" width="5" height="25" class="consul"/><title>consul (37 BC)</title></g>
+<g><rect x="15915" y="6907" width="15" height="25" class="general"/><title>general (37 BC - 34 BC)</title></g>
+<g><rect x="15940" y="6907" width="5" height="25" class="aedile"/><title>aedile (32 BC)</title></g>
+<g><rect x="15940" y="6907" width="5" height="25" class="general"/><title>general (32 BC - 31 BC)</title></g>
+<g><rect x="16005" y="6907" width="10" height="25" class="general"/><title>general (19 BC - 17 BC)</title></g>
+<g><rect x="16015" y="6907" width="20" height="25" class="governor"/><title>governor (17 BC - 13 BC)</title></g>
+<g><rect x="16035" y="6907" width="5" height="25" class="general"/><title>general (13 BC - 12 BC)</title></g>
 
-<text x="15812" y="6891" class="semimajor">LIVIA&#9792;</text><title>Livia&#9792; (58 BC - 29)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Caesar" target="_blank"><rect id="Gaius_Caesar" x="16000" y="6907" width="115" height="15" class="roman"/>
-<text x="16001" y="6918" class="minor">GAIUS CAESAR</text><title>Gaius Caesar (20 BC - 4)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Lucius_Caesar" target="_blank"><rect id="Lucius_Caesar" x="16015" y="6932" width="90" height="15" class="roman"/>
-<text x="16016" y="6943" class="minor">LUCIUS CAESAR</text><title>Lucius Caesar (17 BC - 2)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Maecenas" target="_blank"><rect id="Gaius_Maecenas" x="15750" y="6957" width="310" height="25" class="roman"/>
-<text x="15752" y="6976" class="semimajor">GAIUS MAECENAS</text><title>Gaius Maecenas (70 BC - 8 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="15730" y="6992" width="310" height="25" class="roman"  mask="url(#fadeInMask)"/><g><rect x="15895" y="6992" width="20" height="25" class="general"/><title>general (41 BC - 37 BC)</title></g>
-<g><rect x="15915" y="6992" width="5" height="25" class="consul"/><title>consul (37 BC)</title></g>
-<g><rect x="15915" y="6992" width="15" height="25" class="general"/><title>general (37 BC - 34 BC)</title></g>
-<g><rect x="15940" y="6992" width="5" height="25" class="aedile"/><title>aedile (32 BC)</title></g>
-<g><rect x="15940" y="6992" width="5" height="25" class="general"/><title>general (32 BC - 31 BC)</title></g>
-<g><rect x="16005" y="6992" width="10" height="25" class="general"/><title>general (19 BC - 17 BC)</title></g>
-<g><rect x="16015" y="6992" width="20" height="25" class="governor"/><title>governor (17 BC - 13 BC)</title></g>
-<g><rect x="16035" y="6992" width="5" height="25" class="general"/><title>general (13 BC - 12 BC)</title></g>
+<text x="15734" y="6926" class="semimajor">MARCUS VIPSANIUS AGRIPPA</text><title>Marcus Vipsanius Agrippa (c. 64 BC - 12 BC) Trusted and faithful friend, general and heir to Augustus, Agrippa was the grandfather and great-grandfather of emperors.</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="16035" y="6907" width="5" height="25" class="fate"/><title>Died peacefully but prematurely at age 51.</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Virgil" target="_blank"><rect id="Virgil" x="15750" y="6942" width="255" height="25" class="roman"/>
+<text x="15752" y="6961" class="semimajor">VIRGIL</text><title>Virgil (70 BC - 19 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Livy" target="_blank"><rect id="Livy" x="15730" y="6977" width="500" height="25" class="roman"  mask="url(#fadeInOutMask)"/>
+<text x="15734" y="6996" class="semimajor">LIVY</text><title>Livy (c. 64 BC - c. 17)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Strabo" target="_blank"><rect id="Strabo" x="15730" y="7012" width="535" height="15" class="roman"  mask="url(#fadeInOutMask)"/>
+<text x="15732" y="7023" class="minor">STRABO</text><title>Strabo (c. 64 BC - c. 24)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Caesar" target="_blank"><rect id="Gaius_Caesar" x="16000" y="7037" width="115" height="15" class="roman"/>
+<text x="16001" y="7048" class="minor">GAIUS CAESAR</text><title>Gaius Caesar (20 BC - 4)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Lucius_Caesar" target="_blank"><rect id="Lucius_Caesar" x="16015" y="7062" width="90" height="15" class="roman"/>
+<text x="16016" y="7073" class="minor">LUCIUS CAESAR</text><title>Lucius Caesar (17 BC - 2)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Livia&#9792;" target="_blank"><rect id="Livia&#9792;" x="15810" y="7087" width="430" height="25" class="deified"/><g><rect x="15965" y="7087" width="275" height="25" class="augusta"/><title>augusta (27 BC - 29)</title></g>
 
-<text x="15734" y="7011" class="semimajor">MARCUS VIPSANIUS AGRIPPA</text><title>Marcus Vipsanius Agrippa (c. 64 BC - 12 BC) Trusted and faithful friend, general and heir to Augustus, Agrippa was the grandfather and great-grandfather of emperors.</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="16035" y="6992" width="5" height="25" class="fate"/><title>Died peacefully but prematurely at age 51.</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Virgil" target="_blank"><rect id="Virgil" x="15750" y="7027" width="255" height="25" class="roman"/>
-<text x="15752" y="7046" class="semimajor">VIRGIL</text><title>Virgil (70 BC - 19 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Livy" target="_blank"><rect id="Livy" x="15730" y="7062" width="500" height="25" class="roman"  mask="url(#fadeInOutMask)"/>
-<text x="15734" y="7081" class="semimajor">LIVY</text><title>Livy (c. 64 BC - c. 17)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Strabo" target="_blank"><rect id="Strabo" x="15730" y="7097" width="535" height="15" class="roman"  mask="url(#fadeInOutMask)"/>
-<text x="15732" y="7108" class="minor">STRABO</text><title>Strabo (c. 64 BC - c. 24)</title></a></g>
+<text x="15812" y="7106" class="semimajor">LIVIA&#9792;</text><title>Livia&#9792; (58 BC - 29)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Tiberius" target="_blank"><rect id="Tiberius" x="15890" y="7122" width="390" height="40" class="roman"/><g><rect x="16005" y="7122" width="20" height="40" class="general"/><title>general (19 BC - 15 BC)</title></g>
 <g><rect x="16040" y="7122" width="5" height="40" class="consul"/><title>consul (12 BC)</title></g>
 <g><rect x="16040" y="7122" width="25" height="40" class="general"/><title>general (12 BC - 7 BC)</title></g>

@@ -3176,42 +3176,6 @@
               ]
             },
             {
-              "name": "Livia&#9792;",
-              "timespan": {
-                "start": "58 BC",
-                "end": "29"
-              },
-              "importance": "semimajor",
-              "style": "deified",
-              "titles": [
-                {
-                  "name": "augusta",
-                  "timespan": {
-                    "start": "27 BC",
-                    "end": "29"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Gaius Caesar",
-              "style": "roman",
-              "timespan": {
-                "start": "20 BC",
-                "end": "4"
-              },
-              "importance": "minor"
-            },
-            {
-              "name": "Lucius Caesar",
-              "style": "roman",
-              "timespan": {
-                "start": "17 BC",
-                "end": "2"
-              },
-              "importance": "minor"
-            },
-            {
               "name": "Gaius Maecenas",
               "style": "roman",
               "timespan": {
@@ -3320,6 +3284,42 @@
                 "end": "24"
               },
               "importance": "minor"
+            },
+            {
+              "name": "Gaius Caesar",
+              "style": "roman",
+              "timespan": {
+                "start": "20 BC",
+                "end": "4"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Lucius Caesar",
+              "style": "roman",
+              "timespan": {
+                "start": "17 BC",
+                "end": "2"
+              },
+              "importance": "minor"
+            },
+            {
+              "name": "Livia&#9792;",
+              "timespan": {
+                "start": "58 BC",
+                "end": "29"
+              },
+              "importance": "semimajor",
+              "style": "deified",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "27 BC",
+                    "end": "29"
+                  }
+                }
+              ]
             },
             {
               "name": "Tiberius",
