@@ -459,6 +459,14 @@
       "style": "backgroundRebellion"
     },
     {
+      "name": "Year of the Five Emperors",
+      "timespan": {
+        "start": "193",
+        "duration": "1y"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
       "name": "Sack of Rome (387 BC)",
       "timespan": {
         "start": "7/18/387 BC",
@@ -3730,8 +3738,8 @@
               "name": "Nerva",
               "style": "roman",
               "timespan": {
-                "start": "27",
-                "end": "98"
+                "start": "11/8/20",
+                "end": "1/27/98"
               },
               "importance": "semimajor",
               "style": "deified",
@@ -3739,8 +3747,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "96",
-                    "end": "98"
+                    "start": "9/18/96",
+                    "end": "1/27/98"
                   }
                 }
               ]
@@ -3748,8 +3756,8 @@
             {
               "name": "Trajan",
               "timespan": {
-                "start": "53",
-                "end": "117"
+                "start": "9/18/53",
+                "end": "8/8/117"
               },
               "importance": "major",
               "style": "deified",
@@ -3757,8 +3765,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "98",
-                    "end": "117"
+                    "start": "1/27/98",
+                    "end": "8/8/117"
                   }
                 }
               ]
@@ -3784,8 +3792,8 @@
             {
               "name": "Hadrian",
               "timespan": {
-                "start": "76",
-                "end": "138"
+                "start": "1/24/76",
+                "end": "7/10/138"
               },
               "importance": "major",
               "style": "deified",
@@ -3793,8 +3801,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "117",
-                    "end": "138"
+                    "start": "8/11/117",
+                    "end": "7/10/138"
                   }
                 }
               ]
@@ -3813,8 +3821,8 @@
             {
               "name": "Antoninus Pius",
               "timespan": {
-                "start": "86",
-                "end": "161"
+                "start": "9/19/86",
+                "end": "3/7/161"
               },
               "importance": "major",
               "style": "deified",
@@ -3822,8 +3830,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "138",
-                    "end": "161"
+                    "start": "7/11/138",
+                    "end": "3/7/161"
                   }
                 }
               ]
@@ -3831,17 +3839,18 @@
             {
               "name": "Marcus Aurelius",
               "timespan": {
-                "start": "121",
-                "end": "180"
+                "start": "4/26/121",
+                "end": "3/17/180"
               },
               "importance": "major",
+              "annotation": "The Philosopher Emperor",
               "style": "deified",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "161",
-                    "end": "180"
+                    "start": "3/7/161",
+                    "end": "3/17/180"
                   }
                 }
               ]
@@ -3850,8 +3859,8 @@
               "name": "Commodus",
               "style": "roman",
               "timespan": {
-                "start": "161",
-                "end": "192"
+                "start": "8/31/161",
+                "end": "12/31/192"
               },
               "importance": "semimajor",
               "titles": [
@@ -3866,7 +3875,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "180",
-                    "end": "192"
+                    "end": "12/31/192"
                   }
                 }
               ]

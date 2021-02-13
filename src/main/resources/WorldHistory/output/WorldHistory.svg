@@ -250,6 +250,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Year_of_the_Four_Emperors" target="_blank"><rect id="Year_of_the_Four_Emperors" x="16440" y="6740" width="5" height="1738" class="footprint"/><rect id="Year_of_the_Four_Emperors" x="16440" y="6740" width="5" height="1738" class="backgroundCivilWar"/><title>Year of the Four Emperors (69)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kitos_War" target="_blank"><rect id="Kitos_War" x="16670" y="6740" width="10" height="1738" class="footprint"/><rect id="Kitos_War" x="16670" y="6740" width="10" height="1738" class="backgroundRebellion"/><title>Kitos War (115 - 117)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bar_Kokhba_Revolt" target="_blank"><rect id="Bar_Kokhba_Revolt" x="16755" y="6740" width="15" height="1738" class="footprint"/><rect id="Bar_Kokhba_Revolt" x="16755" y="6740" width="15" height="1738" class="backgroundRebellion"/><title>Bar Kokhba Revolt (132 - 135)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Year_of_the_Five_Emperors" target="_blank"><rect id="Year_of_the_Five_Emperors" x="17060" y="6740" width="5" height="1738" class="footprint"/><rect id="Year_of_the_Five_Emperors" x="17060" y="6740" width="5" height="1738" class="backgroundCivilWar"/><title>Year of the Five Emperors (193)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Rome_(387_BC)" target="_blank"><rect id="Sack_of_Rome_(387_BC)" x="14167" y="6740" width="1" height="1738" class="footprint"/><rect id="Sack_of_Rome_(387_BC)" x="14167" y="6740" width="1" height="1738" class="backgroundNationalCalamity"/><title>Sack of Rome (387 BC) (7/18/387 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Lake_Trasimene" target="_blank"><rect id="Battle_of_Lake_Trasimene" x="15017" y="6740" width="1" height="1738" class="footprint"/><rect id="Battle_of_Lake_Trasimene" x="15017" y="6740" width="1" height="1738" class="backgroundNationalCalamity"/><title>Battle of Lake Trasimene (6/21/217 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hannibal_Invades_Italy" target="_blank"><rect id="Hannibal_Invades_Italy" x="15010" y="6740" width="75" height="1738" class="footprint"/><rect id="Hannibal_Invades_Italy" x="15010" y="6740" width="75" height="1738" class="backgroundInvasion"/><title>Hannibal Invades Italy (218 BC - 203 BC)</title></a></g>
@@ -11484,32 +11485,32 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Seutonius" target="_blank"><rect id="Seutonius" x="16390" y="7864" width="365" height="25" class="roman"  mask="url(#fadeInOutMask)"/>
 <text x="16394" y="7883" class="semimajor">SEUTONIUS</text><title>Seutonius (c. 69 - c. 122)</title></a></g>
 
-<text x="16440" y="7649" class="dynasty">FLAVIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Nerva" target="_blank"><rect id="Nerva" x="16230" y="7971" width="355" height="25" class="deified"/><g><rect x="16575" y="7971" width="10" height="25" class="augustus"/><title>augustus (96 - 98)</title></g>
+<text x="16440" y="7649" class="dynasty">FLAVIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Nerva" target="_blank"><rect id="Nerva" x="16199" y="7971" width="386" height="25" class="deified"/><g><rect x="16578" y="7971" width="7" height="25" class="augustus"/><title>augustus (9/18/96 - 1/27/98)</title></g>
 
-<text x="16232" y="7990" class="semimajor">NERVA</text><title>Nerva (27 - 98)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Trajan" target="_blank"><rect id="Trajan" x="16360" y="8006" width="320" height="40" class="deified"/><g><rect x="16585" y="8006" width="95" height="40" class="augustus"/><title>augustus (98 - 117)</title></g>
+<text x="16201" y="7990" class="semimajor">NERVA</text><title>Nerva (11/8/20 - 1/27/98)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Trajan" target="_blank"><rect id="Trajan" x="16363" y="8006" width="319" height="40" class="deified"/><g><rect x="16585" y="8006" width="98" height="40" class="augustus"/><title>augustus (1/27/98 - 8/8/117)</title></g>
 
-<text x="16363" y="8036" class="major">TRAJAN</text><title>Trajan (53 - 117)</title></a></g>
+<text x="16366" y="8036" class="major">TRAJAN</text><title>Trajan (9/18/53 - 8/8/117)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Pompeia_Plotina&#9792;" target="_blank"><rect id="Pompeia_Plotina&#9792;" x="16395" y="8056" width="310" height="25" class="roman"/><g><rect x="16595" y="8056" width="110" height="25" class="augusta"/><title>augusta (100 - 122)</title></g>
 
 <text x="16397" y="8075" class="semimajor">POMPEIA PLOTINA&#9792;</text><title>Pompeia Plotina&#9792; (60 - 122)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hadrian" target="_blank"><rect id="Hadrian" x="16475" y="8091" width="310" height="40" class="deified"/><g><rect x="16680" y="8091" width="105" height="40" class="augustus"/><title>augustus (117 - 138)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hadrian" target="_blank"><rect id="Hadrian" x="16475" y="8091" width="312" height="40" class="deified"/><g><rect x="16683" y="8091" width="105" height="40" class="augustus"/><title>augustus (8/11/117 - 7/10/138)</title></g>
 
-<text x="16478" y="8121" class="major">HADRIAN</text><title>Hadrian (76 - 138)</title></a></g>
+<text x="16478" y="8121" class="major">HADRIAN</text><title>Hadrian (1/24/76 - 7/10/138)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Antinous" target="_blank"><rect id="Antinous" x="16600" y="8141" width="195" height="15" class="roman"  mask="url(#fadeInOutMask)"/>
 <text x="16602" y="8152" class="minor">ANTINOUS</text><title>Antinous (c. 111 - c. 130)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Antoninus_Pius" target="_blank"><rect id="Antoninus_Pius" x="16525" y="8166" width="375" height="40" class="deified"/><g><rect x="16785" y="8166" width="115" height="40" class="augustus"/><title>augustus (138 - 161)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Antoninus_Pius" target="_blank"><rect id="Antoninus_Pius" x="16528" y="8166" width="372" height="40" class="deified"/><g><rect x="16787" y="8166" width="113" height="40" class="augustus"/><title>augustus (7/11/138 - 3/7/161)</title></g>
 
-<text x="16528" y="8196" class="major">ANTONINUS PIUS</text><title>Antoninus Pius (86 - 161)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Aurelius" target="_blank"><rect id="Marcus_Aurelius" x="16700" y="8216" width="295" height="40" class="deified"/><g><rect x="16900" y="8216" width="95" height="40" class="augustus"/><title>augustus (161 - 180)</title></g>
+<text x="16531" y="8196" class="major">ANTONINUS PIUS</text><title>Antoninus Pius (9/19/86 - 3/7/161)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Aurelius" target="_blank"><rect id="Marcus_Aurelius" x="16701" y="8216" width="294" height="40" class="deified"/><g><rect x="16901" y="8216" width="95" height="40" class="augustus"/><title>augustus (3/7/161 - 3/17/180)</title></g>
 
-<text x="16703" y="8246" class="major">MARCUS AURELIUS</text><title>Marcus Aurelius (121 - 180)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Commodus" target="_blank"><rect id="Commodus" x="16900" y="8266" width="155" height="25" class="roman"/><g><rect x="16980" y="8266" width="15" height="25" class="caesar"/><title>caesar (177 - 180)</title></g>
-<g><rect x="16995" y="8266" width="60" height="25" class="augustus"/><title>augustus (180 - 192)</title></g>
+<text x="16704" y="8246" class="major">MARCUS AURELIUS</text><title>Marcus Aurelius (4/26/121 - 3/17/180) The Philosopher Emperor</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Commodus" target="_blank"><rect id="Commodus" x="16903" y="8266" width="157" height="25" class="roman"/><g><rect x="16980" y="8266" width="15" height="25" class="caesar"/><title>caesar (177 - 180)</title></g>
+<g><rect x="16995" y="8266" width="65" height="25" class="augustus"/><title>augustus (180 - 12/31/192)</title></g>
 
-<text x="16902" y="8285" class="semimajor">COMMODUS</text><title>Commodus (161 - 192)</title></a></g>
+<text x="16905" y="8285" class="semimajor">COMMODUS</text><title>Commodus (8/31/161 - 12/31/192)</title></a></g>
 
-<text x="16575" y="7961" class="dynasty">ANTONINES</text><g><a xlink:href="http://en.wikipedia.org/wiki/Pertinax" target="_blank"><rect id="Pertinax" x="16725" y="8373" width="335" height="15" class="deified"/><g><rect x="17060" y="8373" width="1" height="15" class="augustus"/><title>augustus (193 - 193)</title></g>
+<text x="16578" y="7961" class="dynasty">ANTONINES</text><g><a xlink:href="http://en.wikipedia.org/wiki/Pertinax" target="_blank"><rect id="Pertinax" x="16725" y="8373" width="335" height="15" class="deified"/><g><rect x="17060" y="8373" width="1" height="15" class="augustus"/><title>augustus (193 - 193)</title></g>
 
 <text x="16726" y="8384" class="minor">PERTINAX</text><title>Pertinax (126 - 193)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Didus_Julianus" target="_blank"><rect id="Didus_Julianus" x="16710" y="8398" width="350" height="8" class="roman"  mask="url(#fadeInMask)"/><g><rect x="17060" y="8398" width="1" height="8" class="augustus"/><title>augustus (193 - 193)</title></g>
