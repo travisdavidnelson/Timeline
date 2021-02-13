@@ -562,7 +562,7 @@
       }
     },
     {
-      "name": "Battle of Crecy",
+      "name": "Battle of Poitiers",
       "style": "backgroundBattleVictory",
       "timespan": {
         "start": "9/19/1356",
@@ -5195,6 +5195,16 @@
                     "end": "6/21/1377"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Crecy",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/26/1346",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -5211,6 +5221,16 @@
                   "timespan": {
                     "start": "1343",
                     "end": "6/8/1376"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Poitiers",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/19/1356",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5278,6 +5298,16 @@
                   "timespan": {
                     "start": "3/21/1413",
                     "end": "8/31/1422"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Agincourt",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/25/1415",
+                    "duration": "1d"
                   }
                 }
               ]

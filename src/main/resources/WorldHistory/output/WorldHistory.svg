@@ -421,7 +421,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edwardian_War" target="_blank"><rect id="Edwardian_War" x="22781" y="9211" width="113" height="1443" class="footprint"/><rect id="Edwardian_War" x="22781" y="9211" width="113" height="1443" class="backgroundWar"/><title>Edwardian War (5/24/1337 - 1360)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Black_Death" target="_blank"><rect id="Black_Death" x="22840" y="9211" width="10" height="1443" class="footprint"/><rect id="Black_Death" x="22840" y="9211" width="10" height="1443" class="backgroundPlague"/><title>Black Death (1349 - 1351)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Crecy" target="_blank"><rect id="Battle_of_Crecy" x="22828" y="9211" width="1" height="1443" class="footprint"/><rect id="Battle_of_Crecy" x="22828" y="9211" width="1" height="1443" class="backgroundBattleVictory"/><title>Battle of Crecy (8/26/1346)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Crecy" target="_blank"><rect id="Battle_of_Crecy" x="22878" y="9211" width="1" height="1443" class="footprint"/><rect id="Battle_of_Crecy" x="22878" y="9211" width="1" height="1443" class="backgroundBattleVictory"/><title>Battle of Crecy (9/19/1356)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Poitiers" target="_blank"><rect id="Battle_of_Poitiers" x="22878" y="9211" width="1" height="1443" class="footprint"/><rect id="Battle_of_Poitiers" x="22878" y="9211" width="1" height="1443" class="backgroundBattleVictory"/><title>Battle of Poitiers (9/19/1356)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Caroline_War" target="_blank"><rect id="Caroline_War" x="22940" y="9211" width="100" height="1443" class="footprint"/><rect id="Caroline_War" x="22940" y="9211" width="100" height="1443" class="backgroundWar"/><title>Caroline War (1369 - 1389)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Lancastrian_War" target="_blank"><rect id="Lancastrian_War" x="23170" y="9211" width="194" height="1443" class="footprint"/><rect id="Lancastrian_War" x="23170" y="9211" width="194" height="1443" class="backgroundWar"/><title>Lancastrian War (1415 - 10/19/1453)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Agincourt" target="_blank"><rect id="Battle_of_Agincourt" x="23174" y="9211" width="1" height="1443" class="footprint"/><rect id="Battle_of_Agincourt" x="23174" y="9211" width="1" height="1443" class="backgroundBattleVictory"/><title>Battle of Agincourt (10/25/1415)</title></a></g>
@@ -12289,9 +12289,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="22517" y="9489" class="minor">EDWARD II</text><title>Edward II (4/25/1284 - 9/21/1327)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_III" target="_blank"><rect id="Edward_III" x="22659" y="9503" width="323" height="40" class="english"/><g><rect x="22730" y="9503" width="252" height="40" class="king"/><title>king (1/25/1327 - 6/21/1377)</title></g>
+<g><rect x="22828" y="9503" width="1" height="40" class="victory"/><title>Battle of Crecy (8/26/1346)</title></g>
 
 <text x="22662" y="9533" class="major">EDWARD III</text><title>Edward III (11/13/1312 - 6/21/1377)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_the_Black_Prince" target="_blank"><rect id="Edward_the_Black_Prince" x="22747" y="9553" width="230" height="15" class="english"/><g><rect x="22810" y="9553" width="167" height="15" class="prince"/><title>prince (1343 - 6/8/1376)</title></g>
+<g><rect x="22878" y="9553" width="1" height="15" class="victory"/><title>Battle of Poitiers (9/19/1356)</title></g>
 
 <text x="22748" y="9564" class="minor">EDWARD THE BLACK PRINCE</text><title>Edward the Black Prince (6/15/1330 - 6/8/1376)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Richard_II" target="_blank"><rect id="Richard_II" x="22930" y="9578" width="215" height="15" class="english"  mask="url(#fadeOutMask)"/><g><rect x="22982" y="9578" width="111" height="15" class="king"/><title>king (6/22/1377 - 9/29/1399)</title></g>
@@ -12302,6 +12304,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="22933" y="9302" class="semimajor">HENRY IV</text><title>Henry IV (4/1367 - 3/20/1413)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Henry_V" target="_blank"><rect id="Henry_V" x="23028" y="9318" width="180" height="15" class="english"/><g><rect x="23161" y="9318" width="47" height="15" class="king"/><title>king (3/21/1413 - 8/31/1422)</title></g>
+<g><rect x="23174" y="9318" width="1" height="15" class="victory"/><title>Battle of Agincourt (10/25/1415)</title></g>
 
 <text x="23029" y="9329" class="minor">HENRY V</text><title>Henry V (9/16/1386 - 8/31/1422)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edmund_Beaufort" target="_blank"><rect id="Edmund_Beaufort" x="23075" y="9343" width="297" height="25" class="english"  mask="url(#fadeInMask)"/><g><rect x="23336" y="9343" width="36" height="25" class="duke"/><title>duke (3/31/1448 - 5/22/1455)</title></g>
