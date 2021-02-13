@@ -292,12 +292,6 @@ public class TimelineSvgBuilder {
 		person.setWidth(width);
 		person.setHeight(height);
 
-		for (TimelineEvent title : person.getTitles()) {
-			getTitleSVG(person, title, title.getName(), stringBuilder);
-		}
-		for (TimelineEvent event : person.getForegroundEvents()) {
-			getTitleSVG(person, event, event.getStyle(), stringBuilder);
-		}
 		int xOffset = timeline.getConfig().getXOffset(person.getImportance());
 		int textX = x + xOffset;
 		if (person.getTimespan().getStartApproximate()) {
@@ -308,6 +302,12 @@ public class TimelineSvgBuilder {
 		stringBuilder.append("<title>");
 		stringBuilder.append(person.getAnnotation());
 		stringBuilder.append("</title>");
+		for (TimelineEvent title : person.getTitles()) {
+			getTitleSVG(person, title, title.getName(), stringBuilder);
+		}
+		for (TimelineEvent event : person.getForegroundEvents()) {
+			getTitleSVG(person, event, event.getStyle(), stringBuilder);
+		}
 		stringBuilder.append("</a></g>\n");
 		if (person.getFate() != null) {
 			stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
