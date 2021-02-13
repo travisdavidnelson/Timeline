@@ -105,6 +105,118 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Battles of Lexington and Concord",
+      "timespan": {
+        "start": "4/19/1775",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of Bunker Hill",
+      "timespan": {
+        "start": "7/17/1775",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Long Island",
+      "timespan": {
+        "start": "8/27/1776",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
+      "name": "Battle of White Plains",
+      "timespan": {
+        "start": "10/28/1776",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
+      "name": "Battle of Fort Washington",
+      "timespan": {
+        "start": "11/16/1776",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
+      "name": "Battle of Trenton",
+      "timespan": {
+        "start": "12/26/1776",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of Princeton",
+      "timespan": {
+        "start": "1/3//1776",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of Brandywine",
+      "timespan": {
+        "start": "9/11/1777",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
+      "name": "Battle of Saratoga",
+      "timespan": {
+        "start": "9/19/1777",
+        "end": "10/7/1777"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of Germantown",
+      "timespan": {
+        "start": "10/4/1777",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
+      "name": "Battle of Monmouth",
+      "timespan": {
+        "start": "6/28/1778",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Cowpens",
+      "timespan": {
+        "start": "1/17/1781",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of the Chesapeake",
+      "timespan": {
+        "start": "9/1/1781",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Siege of Yorktown",
+      "timespan": {
+        "start": "9/28/1781",
+        "end": "10/19/1781"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
       "name": "War of 1812",
       "timespan": {
         "start": "6/18/1812",
@@ -374,7 +486,7 @@
         "start": "3/20/2003",
         "end": "12/18/2011"
       },
-      "style": "backgroundForeignWarMinor"
+      "style": "backgroundWar"
     }
   ],
   "dynastyGroups": [
@@ -592,12 +704,156 @@
               "style": "colonialAmerica"
             },
             {
+              "name": "Queen Anne's War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1702",
+                "end": "1713"
+              }
+            },
+            {
+              "name": "King George's War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1744",
+                "end": "1748"
+              }
+            },
+            {
+              "name": "French and Indian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1754",
+                "end": "2/15/1763"
+              }
+            },
+            {
+              "name": "Pontiac's Rebellion",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1763",
+                "end": "1766"
+              }
+            },
+            {
               "name": "American Revolutionary War",
               "timespan": {
                 "start": "4/19/1775",
                 "end": "9/3/1783"
               },
               "style": "backgroundCivilWar"
+            },
+            {
+              "name": "Battles of Lexington and Concord",
+              "timespan": {
+                "start": "4/19/1775",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Battle of Bunker Hill",
+              "timespan": {
+                "start": "7/17/1775",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Long Island",
+              "timespan": {
+                "start": "8/27/1776",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleDefeat"
+            },
+            {
+              "name": "Battle of White Plains",
+              "timespan": {
+                "start": "10/28/1776",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleDefeat"
+            },
+            {
+              "name": "Battle of Fort Washington",
+              "timespan": {
+                "start": "11/16/1776",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleDefeat"
+            },
+            {
+              "name": "Battle of Trenton",
+              "timespan": {
+                "start": "12/26/1776",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Battle of Princeton",
+              "timespan": {
+                "start": "1/3//1776",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Battle of Brandywine",
+              "timespan": {
+                "start": "9/11/1777",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleDefeat"
+            },
+            {
+              "name": "Battle of Saratoga",
+              "timespan": {
+                "start": "9/19/1777",
+                "end": "10/7/1777"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Battle of Germantown",
+              "timespan": {
+                "start": "10/4/1777",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleDefeat"
+            },
+            {
+              "name": "Battle of Monmouth",
+              "timespan": {
+                "start": "6/28/1778",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Cowpens",
+              "timespan": {
+                "start": "1/17/1781",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Battle of the Chesapeake",
+              "timespan": {
+                "start": "9/1/1781",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Siege of Yorktown",
+              "timespan": {
+                "start": "9/28/1781",
+                "end": "10/19/1781"
+              },
+              "style": "backgroundBattleVictory"
             }
           ],
           "people": [
@@ -723,6 +979,80 @@
                     "start": "7/13/1798",
                     "end": "12/14/1799"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Long Island",
+                  "timespan": {
+                    "start": "8/27/1776",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Battle of White Plains",
+                  "timespan": {
+                    "start": "10/28/1776",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Battle of Fort Washington",
+                  "timespan": {
+                    "start": "11/16/1776",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Battle of Trenton",
+                  "timespan": {
+                    "start": "12/26/1776",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Princeton",
+                  "timespan": {
+                    "start": "1/3//1776",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Brandywine",
+                  "timespan": {
+                    "start": "9/11/1777",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Battle of Germantown",
+                  "timespan": {
+                    "start": "10/4/1777",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Battle of Monmouth",
+                  "timespan": {
+                    "start": "6/28/1778",
+                    "duration": "1d"
+                  },
+                  "style": "backgroundBattle"
+                },
+                {
+                  "name": "Siege of Yorktown",
+                  "timespan": {
+                    "start": "9/28/1781",
+                    "end": "10/19/1781"
+                  },
+                  "style": "victory"
                 }
               ]
             },
