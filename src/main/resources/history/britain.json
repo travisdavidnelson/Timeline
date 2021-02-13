@@ -6905,6 +6905,274 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Neville Chamberlain",
+              "style": "conservative",
+              "importance": "minor",
+              "annotation": "Peace in our time.",
+              "timespan": {
+                "start": "3/18/1869",
+                "end": "11/9/1940"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/28/1937",
+                    "end": "5/10/1940"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Winston Churchill",
+              "style": "conservative",
+              "importance": "major",
+              "annotation": "",
+              "timespan": {
+                "start": "11/30/1874",
+                "end": "1/24/1965"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/10/1940",
+                    "end": "7/26/1945"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/26/1951",
+                    "end": "5/5/1955"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Clement Attlee",
+              "style": "labour",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/3/1883",
+                "end": "10/8/1967"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/26/1945",
+                    "end": "10/26/1951"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harold Macmillan",
+              "style": "labour",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/10/1894",
+                "end": "12/29/1986"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/10/1957",
+                    "end": "10/18/1963"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Harold Wilson",
+              "style": "labour",
+              "importance": "minor",
+              "timespan": {
+                "start": "3/11/1916",
+                "end": "5/24/1995"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/16/1964",
+                    "end": "6/19/1970"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "3/4/1974",
+                    "end": "4/5/1976"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward Heath",
+              "style": "conservative",
+              "importance": "petty",
+              "timespan": {
+                "start": "7/9/1916",
+                "end": "7/17/2005"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/19/1970",
+                    "end": "3/4/1974"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "James Callaghan",
+              "style": "labour",
+              "importance": "petty",
+              "timespan": {
+                "start": "3/27/1912",
+                "end": "3/26/2005"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/5/1976",
+                    "end": "5/4/1979"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Margaret Thatcher&#9792;",
+              "style": "conservative",
+              "importance": "major",
+              "timespan": {
+                "start": "10/13/1925",
+                "end": "4/8/2013"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/4/1979",
+                    "end": "11/28/1990"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Major",
+              "style": "conservative",
+              "importance": "minor",
+              "timespan": {
+                "start": "3/29/1943",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "11/28/1990",
+                    "end": "5/2/1997"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Tony Blair",
+              "style": "labour",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "5/6/1953",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/2/1997",
+                    "end": "6/27/2007"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gordon Brown",
+              "style": "labour",
+              "importance": "petty",
+              "timespan": {
+                "start": "2/20/1951",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "6/27/2007",
+                    "end": "5/11/2010"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "David Cameron",
+              "style": "conservative",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/9/1966",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/11/2010",
+                    "end": "7/13/2016"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theresa May&#9792;",
+              "style": "conservative",
+              "importance": "petty",
+              "timespan": {
+                "start": "10/1/1956",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/13/2016",
+                    "end": "7/24/2019"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Boris Johnson",
+              "style": "conservative",
+              "importance": "minor",
+              "timespan": {
+                "start": "6/19/1964",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/24/2019",
+                    "end": ""
+                  }
+                }
+              ]
             }
           ]
         }
