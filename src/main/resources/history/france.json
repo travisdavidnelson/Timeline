@@ -1268,6 +1268,23 @@
       "name": "French Revolution",
       "dynasties": [
         {
+          "name": "Revolution",
+          "people": [
+            {
+              "name": "Gilbert du Motier",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "9/6/1757",
+                "end": "5/20/1834"
+              },
+              "importance": "semimajor",
+              "annotation": "Marquis de Lafayette",
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Girondins",
           "people": [
             {
