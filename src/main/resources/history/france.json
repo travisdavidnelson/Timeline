@@ -344,6 +344,14 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Tennis Court Oath",
+      "timespan": {
+        "start": "6/20/1789",
+        "duration": "1d"
+      },
+      "style": "backgroundRevolution"
+    },
+    {
       "name": "Storming of the Bastille",
       "timespan": {
         "start": "7/14/1789",
@@ -1270,6 +1278,18 @@
         {
           "name": "Revolution",
           "people": [
+            {
+              "name": "Gabriel Riqueti",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "3/9/1749",
+                "end": "4/2/1791"
+              },
+              "importance": "minor",
+              "annotation": "Count of Mirabeau",
+              "titles": [
+              ]
+            },
             {
               "name": "Gilbert du Motier",
               "style": "frenchRepublic",
