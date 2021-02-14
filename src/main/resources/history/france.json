@@ -72,6 +72,22 @@
       "style": "frenchMonarchy"
     },
     {
+      "name": "First Norman Rebellion against William",
+      "style": "backgroundCivilWarRegional",
+      "timespan": {
+        "start": "6/1047",
+        "end": "8/1048"
+      }
+    },
+    {
+      "name": "Second Norman Rebellion against William",
+      "style": "backgroundCivilWarRegional",
+      "timespan": {
+        "start": "1052",
+        "end": "1054"
+      }
+    },
+    {
       "name": "First Crusade",
       "style": "backgroundForeignWar",
       "timespan": {
