@@ -298,7 +298,6 @@ public class TimelineSvgBuilder {
 			textX += xOffset;
 		}
 		int yOffset = timeline.getConfig().getYOffset(person.getImportance());
-		addTextSVG(person.getName().toUpperCase(), textX, nextPersonYStart+yOffset, person.getImportance(), stringBuilder);
 		stringBuilder.append("<title>");
 		stringBuilder.append(person.getAnnotation());
 		stringBuilder.append("</title>");
@@ -308,6 +307,7 @@ public class TimelineSvgBuilder {
 		for (TimelineEvent event : person.getForegroundEvents()) {
 			getTitleSVG(person, event, event.getStyle(), stringBuilder);
 		}
+		addTextSVG(person.getName().toUpperCase(), textX, nextPersonYStart+yOffset, person.getImportance(), stringBuilder);
 		stringBuilder.append("</a></g>\n");
 		if (person.getFate() != null) {
 			stringBuilder.append("<g><a xlink:href=\""+referencePage+"\" target=\"_blank\">");
