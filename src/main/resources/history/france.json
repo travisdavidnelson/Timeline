@@ -528,6 +528,83 @@
           "name": "Valois",
           "people": [
             {
+              "name": "Philip VI",
+              "style": "french",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1293",
+                "end": "8/22/1350"
+              },
+              "importance": "minor",
+              "annotation": "The Fortunate",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/1/1328",
+                    "end": "8/22/1350"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John II",
+              "style": "french",
+              "timespan": {
+                "start": "4/26/1319",
+                "end": "4/8/1364"
+              },
+              "importance": "minor",
+              "annotation": "The Good",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/22/1350",
+                    "end": "4/8/1364"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles V",
+              "style": "french",
+              "timespan": {
+                "start": "1/21/1338",
+                "end": "9/16/1380"
+              },
+              "importance": "semimajor",
+              "annotation": "The Wise",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/8/1364",
+                    "end": "9/16/1380"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles VI",
+              "style": "french",
+              "timespan": {
+                "start": "12/3/1368",
+                "end": "10/21/1422"
+              },
+              "importance": "minor",
+              "annotation": "The Beloved or The Mad",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/16/1380",
+                    "end": "10/21/1422"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Charles VII",
               "style": "french",
               "timespan": {
