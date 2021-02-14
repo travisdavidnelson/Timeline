@@ -1271,6 +1271,28 @@
           "name": "Girondins",
           "people": [
             {
+              "name": "Jean-Marie Roland",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "2/18/1734",
+                "end": "11/10/1793"
+              },
+              "importance": "petty",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Madame Roland&#9792;",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "3/17/1754",
+                "end": "11/8/1793"
+              },
+              "importance": "minor",
+              "titles": [
+              ]
+            },
+            {
               "name": "Jacques Pierre Brissot",
               "style": "frenchRepublic",
               "timespan": {
@@ -1307,11 +1329,11 @@
               ]
             },
             {
-              "name": "Madame Roland&#9792;",
+              "name": "Jerome Petioan de Villeneuve",
               "style": "frenchRepublic",
               "timespan": {
-                "start": "3/17/1754",
-                "end": "11/8/1793"
+                "start": "1/3/1756",
+                "end": "6/18/1794"
               },
               "importance": "minor",
               "titles": [
