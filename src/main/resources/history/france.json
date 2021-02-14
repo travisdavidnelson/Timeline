@@ -72,6 +72,182 @@
       "style": "frenchMonarchy"
     },
     {
+      "name": "First Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "8/15/1096",
+        "end": "7/15/1099"
+      }
+    },
+    {
+      "name": "Anglo-French War 1109-13",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1109",
+        "end": "1113"
+      }
+    },
+    {
+      "name": "Anglo-French War 1116-19",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1116",
+        "end": "1119"
+      }
+    },
+    {
+      "name": "Anglo-French War 1123-35",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1123",
+        "end": "1135"
+      }
+    },
+    {
+      "name": "Second Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1147",
+        "end": "1150"
+      }
+    },
+    {
+      "name": "Anglo-French War 1158-89",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1158",
+        "end": "1189"
+      }
+    },
+    {
+      "name": "Anglo-French War 1193-99",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1193",
+        "end": "1199"
+      }
+    },
+    {
+      "name": "Third Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1189",
+        "end": "1192"
+      }
+    },
+    {
+      "name": "Fourth Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1202",
+        "end": "1204"
+      }
+    },
+    {
+      "name": "Albigensian Crusade",
+      "style": "backgroundCivilWarRegional",
+      "timespan": {
+        "start": "7/1209",
+        "end": "4/12/1229"
+      }
+    },
+    {
+      "name": "Anglo-French War 1213-14",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1213",
+        "end": "8/1214"
+      }
+    },
+    {
+      "name": "Battle of Bouvines",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/27/1214",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "First Barons War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1215",
+        "end": "1217"
+      }
+    },
+    {
+      "name": "Fifth Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1217",
+        "end": "1221"
+      }
+    },
+    {
+      "name": "Siege of La Rochelle",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/15/1224",
+        "end": "8/3/1224"
+      }
+    },
+    {
+      "name": "Saintonge War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1242",
+        "end": "1243"
+      }
+    },
+    {
+      "name": "Seventh Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1248",
+        "end": "1254"
+      }
+    },
+    {
+      "name": "Eighth Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "1270",
+        "end": "1271"
+      }
+    },
+    {
+      "name": "Anglo-French War of 1294-1303",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1294",
+        "end": "1303"
+      }
+    },
+    {
+      "name": "Franco-Flemish War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1297",
+        "end": "1305"
+      }
+    },
+    {
+      "name": "Peasant revolt in Flanders",
+      "style": "backgroundCivilWarRegional",
+      "timespan": {
+        "start": "1323",
+        "end": "1328"
+      }
+    },
+    {
+      "name": "War of Saint-Sardos",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1324",
+        "end": "1325"
+      }
+    },
+    {
       "name": "Edwardian War",
       "style": "backgroundWar",
       "timespan": {
