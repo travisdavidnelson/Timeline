@@ -490,6 +490,30 @@
       }
     },
     {
+      "name": "Anglo-French War 1109-13",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1109",
+        "end": "1113"
+      }
+    },
+    {
+      "name": "Anglo-French War 1116-19",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1116",
+        "end": "1119"
+      }
+    },
+    {
+      "name": "Anglo-French War 1123-35",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1123",
+        "end": "1135"
+      }
+    },
+    {
       "name": "The Anarchy",
       "style": "backgroundCivilWar",
       "timespan": {
@@ -498,7 +522,39 @@
       }
     },
     {
-      "name": "First Barons' War",
+      "name": "Anglo-French War 1158-89",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1158",
+        "end": "1189"
+      }
+    },
+    {
+      "name": "Anglo-French War 1193-99",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1193",
+        "end": "1199"
+      }
+    },
+    {
+      "name": "Anglo-French War 1213-14",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1213",
+        "end": "8/1214"
+      }
+    },
+    {
+      "name": "Battle of Bouvines",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/27/1214",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "First Barons War",
       "style": "backgroundCivilWar",
       "timespan": {
         "start": "1215",
@@ -506,7 +562,7 @@
       }
     },
     {
-      "name": "Second Barons' War",
+      "name": "Second Barons War",
       "style": "backgroundCivilWar",
       "timespan": {
         "start": "4/1263",
@@ -527,6 +583,14 @@
       "timespan": {
         "start": "6/1282",
         "end": "6/1283"
+      }
+    },
+    {
+      "name": "Anglo-French War of 1294-1303",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1294",
+        "end": "1303"
       }
     },
     {
