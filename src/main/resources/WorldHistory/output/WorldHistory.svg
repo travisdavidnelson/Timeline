@@ -11826,7 +11826,12 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="18345" y="7846" class="petty">ROMULUS AUGUSTULUS</text></a></g>
 
 <text x="18371" y="7591" class="dynasty">LAST WESTERN EMPERORS</text>
-<text x="150" y="8366" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hugh_Capet" target="_blank"><rect id="Hugh_Capet" x="20740" y="8550" width="339" height="25" class="french"  mask="url(#fadeInMask)"/><title>Hugh Capet (c. 939 - 10/24/996)</title><g><rect x="21032" y="8550" width="47" height="25" class="king"/><title>king (7/3/987 - 10/24/996)</title></g>
+<text x="150" y="8366" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_I" target="_blank"><rect id="Clovis_I" x="18375" y="8550" width="279" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Clovis I (c. 466 - 11/27/511)</title><g><rect x="18500" y="8550" width="150" height="40" class="minorKing"  mask="url(#fadeOutMask)"/><title>minorKing (481 - c. 509)</title></g>
+<g><rect x="18630" y="8550" width="25" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 509 - 11/27/511)</title></g>
+
+<text x="18381" y="8580" class="major">CLOVIS I</text></a></g>
+
+<text x="18500" y="8540" class="dynasty">MEROVINGIAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hugh_Capet" target="_blank"><rect id="Hugh_Capet" x="20740" y="8550" width="339" height="25" class="french"  mask="url(#fadeInMask)"/><title>Hugh Capet (c. 939 - 10/24/996)</title><g><rect x="21032" y="8550" width="47" height="25" class="king"/><title>king (7/3/987 - 10/24/996)</title></g>
 
 <text x="20744" y="8569" class="semimajor">HUGH CAPET</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Robert_II" target="_blank"><rect id="Robert_II" x="20906" y="8585" width="347" height="15" class="french"  mask="url(#fadeInMask)"/><title>Robert II (c. 3/27/972 - 7/20/1031) The Pious or the Wise</title><g><rect x="21079" y="8585" width="174" height="15" class="king"/><title>king (10/24/996 - 7/20/1031)</title></g>

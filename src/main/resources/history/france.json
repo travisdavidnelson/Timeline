@@ -746,6 +746,44 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Franks",
+      "dynasties": [
+        {
+          "name": "Merovingian",
+          "people": [
+            {
+              "name": "Clovis I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "466",
+                "end": "11/27/511"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "481",
+                    "endApproximate": "true",
+                    "end": "509"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "509",
+                    "end": "11/27/511"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "House of Capet",
       "dynasties": [
         {
