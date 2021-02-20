@@ -585,8 +585,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Spanish-American_War" target="_blank"><rect id="Spanish-American_War" x="25586" y="10815" width="2" height="2117" class="footprint"/><rect id="Spanish-American_War" x="25586" y="10815" width="2" height="2117" class="backgroundForeignWarMinorVictory"/><title>Spanish-American War (4/21/1898 - 8/13/1898)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Philippine-American_War" target="_blank"><rect id="Philippine-American_War" x="25590" y="10815" width="17" height="2117" class="footprint"/><rect id="Philippine-American_War" x="25590" y="10815" width="17" height="2117" class="backgroundForeignWarMinorVictory"/><title>Philippine-American War (2/4/1899 - 7/2/1902)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_I" target="_blank"><rect id="World_War_I" x="25681" y="10815" width="8" height="2117" class="footprint"/><rect id="World_War_I" x="25681" y="10815" width="8" height="2117" class="backgroundForeignWarMajorVictory"/><title>World War I (4/6/1917 - 11/11/1918)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Japanese_Attack_on_Pearl_Harbor" target="_blank"><rect id="Japanese_Attack_on_Pearl_Harbor" x="25804" y="10815" width="1" height="2117" class="footprint"/><rect id="Japanese_Attack_on_Pearl_Harbor" x="25804" y="10815" width="1" height="2117" class="backgroundNationalCalamity"/><title>Japanese Attack on Pearl Harbor (12/7/1941)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_II" target="_blank"><rect id="World_War_II" x="25804" y="10815" width="19" height="2117" class="footprint"/><rect id="World_War_II" x="25804" y="10815" width="19" height="2117" class="backgroundForeignWarMajorVictory"/><title>World War II (12/7/1941 - 9/1945)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Japanese_Attack_on_Pearl_Harbor" target="_blank"><rect id="Japanese_Attack_on_Pearl_Harbor" x="25804" y="10815" width="1" height="2117" class="footprint"/><rect id="Japanese_Attack_on_Pearl_Harbor" x="25804" y="10815" width="1" height="2117" class="backgroundNationalCalamity"/><title>Japanese Attack on Pearl Harbor (12/7/1941)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Midway" target="_blank"><rect id="Battle_of_Midway" x="25807" y="10815" width="1" height="2117" class="footprint"/><rect id="Battle_of_Midway" x="25807" y="10815" width="1" height="2117" class="backgroundBattleVictory"/><title>Battle of Midway (6/4/1942 - 6/7/1942)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Normandy" target="_blank"><rect id="Battle_of_Normandy" x="25817" y="10815" width="1" height="2117" class="footprint"/><rect id="Battle_of_Normandy" x="25817" y="10815" width="1" height="2117" class="backgroundBattle"/><title>Battle of Normandy (6/6/1944 - 8/30/1944)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf" target="_blank"><rect id="Battle_of_Leyte_Gulf" x="25819" y="10815" width="1" height="2117" class="footprint"/><rect id="Battle_of_Leyte_Gulf" x="25819" y="10815" width="1" height="2117" class="backgroundBattleVictory"/><title>Battle of Leyte Gulf (10/23/1944 - 10/26/1944)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Korean_War" target="_blank"><rect id="Korean_War" x="25847" y="10815" width="15" height="2117" class="footprint"/><rect id="Korean_War" x="25847" y="10815" width="15" height="2117" class="backgroundForeignWarMinor"/><title>Korean War (6/25/1950 - 7/27/1953)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Vietnam_War" target="_blank"><rect id="Vietnam_War" x="25874" y="10815" width="97" height="2117" class="footprint"/><rect id="Vietnam_War" x="25874" y="10815" width="97" height="2117" class="backgroundForeignWarMinor"/><title>Vietnam War (11/1/1955 - 4/30/1975)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Gulf_War" target="_blank"><rect id="Gulf_War" x="26047" y="10815" width="3" height="2117" class="footprint"/><rect id="Gulf_War" x="26047" y="10815" width="3" height="2117" class="backgroundForeignWarMinorVictory"/><title>Gulf War (8/2/1990 - 2/28/1991)</title></a></g>
@@ -12817,7 +12820,12 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="24116" y="11173" class="semimajor">ROGER WILLIAMS</text></a></g>
 
-<text x="24245" y="11034" class="dynasty">NEW ENGLAND</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ben_Franklin" target="_blank"><rect id="Ben_Franklin" x="24625" y="10887" width="421" height="40" class="human"/><title>Ben Franklin (1/17/1706 - 4/17/1790)</title>
+<text x="24245" y="11034" class="dynasty">NEW ENGLAND</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ben_Franklin" target="_blank"><rect id="Ben_Franklin" x="24625" y="10887" width="421" height="40" class="human"/><title>Ben Franklin (1/17/1706 - 4/17/1790)</title><g><rect x="24916" y="10887" width="2" height="40" class="legislator"/><title>legislator (5/1764 - 10/1764)</title></g>
+<g><rect x="24863" y="10887" width="102" height="40" class="postmasterGeneral"/><title>postmasterGeneral (8/10/1753 - 1/31/1774)</title></g>
+<g><rect x="24972" y="10887" width="6" height="40" class="postmasterGeneral"/><title>postmasterGeneral (7/26/1775 - 11/7/1776)</title></g>
+<g><rect x="24991" y="10887" width="31" height="40" class="diplomat"/><title>diplomat (3/23/1779 - 5/17/1785)</title></g>
+<g><rect x="25008" y="10887" width="3" height="40" class="diplomat"/><title>diplomat (9/28/1782 - 4/3/1783)</title></g>
+
 <text x="24628" y="10917" class="major">BEN FRANKLIN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Samuel_Adams" target="_blank"><rect id="Samuel_Adams" x="24708" y="10937" width="405" height="25" class="patriot"/><title>Samuel Adams (9/27/1722 - 10/2/1803)</title><g><rect x="24964" y="10937" width="35" height="25" class="legislator"/><title>legislator (1774 - 1781)</title></g>
 <g><rect x="25068" y="10937" width="13" height="25" class="governor"/><title>governor (10/8/1794 - 6/2/1797)</title></g>
@@ -12899,7 +12907,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="24934" y="11296" class="semimajor">JOHN QUINCY ADAMS</text></a></g>
 
-<text x="24625" y="10877" class="dynasty">FOUNDERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_Clay" target="_blank"><rect id="Henry_Clay" x="24981" y="11384" width="376" height="25" class="whig"/><title>Henry Clay (4/12/1777 - 6/29/1852)</title><g><rect x="25129" y="11384" width="1" height="25" class="senator"/><title>senator (12/29/1806 - 3/3/1807)</title></g>
+<text x="24916" y="10877" class="dynasty">FOUNDERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_Clay" target="_blank"><rect id="Henry_Clay" x="24981" y="11384" width="376" height="25" class="whig"/><title>Henry Clay (4/12/1777 - 6/29/1852)</title><g><rect x="25129" y="11384" width="1" height="25" class="senator"/><title>senator (12/29/1806 - 3/3/1807)</title></g>
 <g><rect x="25145" y="11384" width="6" height="25" class="senator"/><title>senator (1/4/1810 - 3/3/1811)</title></g>
 <g><rect x="25150" y="11384" width="16" height="25" class="legislator"/><title>legislator (1/19/1811 - 3/3/1814)</title></g>
 <g><rect x="25170" y="11384" width="28" height="25" class="legislator"/><title>legislator (3/4/1815 - 10/28/1820)</title></g>
@@ -12936,6 +12944,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25220" y="11519" width="16" height="15" class="senator"/><title>senator (3/4/1825 - 5/20/1828)</title></g>
 <g><rect x="25236" y="11519" width="7" height="15" class="diplomat"/><title>diplomat (5/24/1828 - 9/26/1829)</title></g>
 <g><rect x="25300" y="11519" width="1" height="15" class="president"/><title>president (3/4/1841 - 4/4/1841)</title></g>
+<g><rect x="25154" y="11519" width="1" height="15" class="victory"/><title>Battle of Tippecanoe (11/7/1811)</title></g>
 
 <text x="24961" y="11530" class="minor">WILLIAM HENRY HARRISON</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/John_Tyler" target="_blank"><rect id="John_Tyler" x="25046" y="11544" width="359" height="15" class="democrat"/><title>John Tyler (3/29/1790 - 1/18/1862)</title><g><rect x="25179" y="11544" width="21" height="15" class="legislator"/><title>legislator (12/17/1816 - 3/3/1821)</title></g>
@@ -12976,6 +12985,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25129" y="11374" class="dynasty">DEMOCRATS AND WHIGS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Abraham_Lincoln" target="_blank"><rect id="Abraham_Lincoln" x="25140" y="11755" width="281" height="50" class="republican"/><title>Abraham Lincoln (2/12/1809 - 4/15/1865)</title><g><rect x="25330" y="11755" width="10" height="50" class="legislator"/><title>legislator (3/4/1847 - 3/3/1849)</title></g>
 <g><rect x="25400" y="11755" width="21" height="50" class="president"/><title>president (3/4/1861 - 4/15/1865)</title></g>
+<g><rect x="25421" y="11755" width="1" height="50" class="victory"/><title>Fall of Richmond (4/2/1865)</title></g>
 
 <text x="25146" y="11795" class="transformational">ABRAHAM LINCOLN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Andrew_Johnson" target="_blank"><rect id="Andrew_Johnson" x="25139" y="11815" width="333" height="8" class="democrat"/><title>Andrew Johnson (12/29/1808 - 7/31/1875)</title><g><rect x="25310" y="11815" width="50" height="8" class="legislator"/><title>legislator (3/4/1843 - 3/3/1853)</title></g>
@@ -13067,10 +13077,12 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25769" y="12362" width="50" height="25" class="senator"/><title>senator (1/3/1935 - 1/17/1945)</title></g>
 <g><rect x="25820" y="12362" width="1" height="25" class="vicePresident"/><title>vicePresident (1/20/1945 - 4/12/1945)</title></g>
 <g><rect x="25821" y="12362" width="39" height="25" class="president"/><title>president (4/12/1945 - 1/20/1953)</title></g>
+<g><rect x="25822" y="12362" width="1" height="25" class="victory"/><title>Atomic bombings of Hiroshima and Nagasaki (8/6/1945 - 8/9/1945)</title></g>
 
 <text x="25518" y="12381" class="semimajor">HARRY TRUMAN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Dwight_Eisenhower" target="_blank"><rect id="Dwight_Eisenhower" x="25548" y="12397" width="392" height="40" class="republican"/><title>Dwight Eisenhower (10/14/1890 - 3/28/1969)</title><g><rect x="25803" y="12397" width="32" height="40" class="general"/><title>general (10/3/1941 - 2/6/1948)</title></g>
 <g><rect x="25860" y="12397" width="40" height="40" class="president"/><title>president (1/20/1953 - 1/20/1961)</title></g>
+<g><rect x="25821" y="12397" width="1" height="40" class="victory"/><title>Victory in Europe Day (5/8/1945)</title></g>
 
 <text x="25551" y="12427" class="major">DWIGHT EISENHOWER</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/John_F._Kennedy" target="_blank"><rect id="John_F._Kennedy" x="25681" y="12447" width="232" height="25" class="democrat"/><title>John F. Kennedy (5/29/1917 - 11/22/1963)</title><g><rect x="25829" y="12447" width="30" height="25" class="legislator"/><title>legislator (1/3/1947 - 1/3/1953)</title></g>
@@ -13103,6 +13115,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25580" y="12124" class="dynasty">PROGRESSIVES</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ronald_Reagan" target="_blank"><rect id="Ronald_Reagan" x="25650" y="12667" width="467" height="40" class="republican"/><title>Ronald Reagan (2/6/1911 - 6/5/2004)</title><g><rect x="25929" y="12667" width="40" height="40" class="governor"/><title>governor (1/2/1967 - 1/6/1975)</title></g>
 <g><rect x="26000" y="12667" width="40" height="40" class="president"/><title>president (1/20/1981 - 1/20/1989)</title></g>
+<g><rect x="26054" y="12667" width="1" height="40" class="victory"/><title>Dissolution of the Soviet Union (12/25/1991)</title></g>
 
 <text x="25653" y="12697" class="major">RONALD REAGAN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/George_H._W._Bush" target="_blank"><rect id="George_H._W._Bush" x="25717" y="12717" width="472" height="15" class="republican"/><title>George H. W. Bush (6/12/1924 - 11/30/2018)</title><g><rect x="25929" y="12717" width="20" height="15" class="legislator"/><title>legislator (1/3/1967 - 1/3/1971)</title></g>

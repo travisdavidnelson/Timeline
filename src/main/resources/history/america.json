@@ -425,6 +425,14 @@
       "style": "backgroundForeignWarMajorVictory"
     },
     {
+      "name": "World War II",
+      "timespan": {
+        "start": "12/7/1941",
+        "end": "9/1945"
+      },
+      "style": "backgroundForeignWarMajorVictory"
+    },
+    {
       "name": "Japanese Attack on Pearl Harbor",
       "timespan": {
         "start": "12/7/1941",
@@ -433,12 +441,28 @@
       "style": "backgroundNationalCalamity"
     },
     {
-      "name": "World War II",
+      "name": "Battle of Midway",
       "timespan": {
-        "start": "12/7/1941",
-        "end": "9/1945"
+        "start": "6/4/1942",
+        "end": "6/7/1942"
       },
-      "style": "backgroundForeignWarMajorVictory"
+      "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Battle of Normandy",
+      "timespan": {
+        "start": "6/6/1944",
+        "end": "8/30/1944"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Leyte Gulf",
+      "timespan": {
+        "start": "10/23/1944",
+        "end": "10/26/1944"
+      },
+      "style": "backgroundBattleVictory"
     },
     {
       "name": "Korean War",
@@ -879,7 +903,44 @@
                 "start": "1/17/1706",
                 "end": "4/17/1790"
               },
-              "importance": "major"
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "5/1764",
+                    "end": "10/1764"
+                  }
+                },
+                {
+                  "name": "postmasterGeneral",
+                  "timespan": {
+                    "start": "8/10/1753",
+                    "end": "1/31/1774"
+                  }
+                },
+                {
+                  "name": "postmasterGeneral",
+                  "timespan": {
+                    "start": "7/26/1775",
+                    "end": "11/7/1776"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "3/23/1779",
+                    "end": "5/17/1785"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "9/28/1782",
+                    "end": "4/3/1783"
+                  }
+                }
+              ]
             },
             {
               "name": "Samuel Adams",
@@ -1680,6 +1741,16 @@
                     "end": "4/4/1841"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Tippecanoe",
+                  "timespan": {
+                    "start": "11/7/1811",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -1936,6 +2007,16 @@
                     "start": "3/4/1861",
                     "end": "4/15/1865"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Richmond",
+                  "timespan": {
+                    "start": "4/2/1865",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
@@ -2528,6 +2609,16 @@
                     "end": "1/20/1953"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Atomic bombings of Hiroshima and Nagasaki",
+                  "timespan": {
+                    "start": "8/6/1945",
+                    "end": "8/9/1945"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -2552,6 +2643,16 @@
                     "start": "1/20/1953",
                     "end": "1/20/1961"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory in Europe Day",
+                  "timespan": {
+                    "start": "5/8/1945",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
@@ -2759,6 +2860,16 @@
                     "start": "1/20/1981",
                     "end": "1/20/1989"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Dissolution of the Soviet Union",
+                  "timespan": {
+                    "start": "12/25/1991",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },

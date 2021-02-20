@@ -247,6 +247,8 @@
 .chiefJustice   	{fill:purple;	fill-opacity:0.6}
 .justice   	 		{fill:purple;	fill-opacity:0.4}
 .judge   	 		{fill:purple;	fill-opacity:0.3}
+.postmasterGeneral  {fill:blue;		fill-opacity:0.2}
+.attorneyGeneral    {fill:blue;		fill-opacity:0.2}
 
 .parthian	        {fill:#abf6f6;	stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .sabines 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
