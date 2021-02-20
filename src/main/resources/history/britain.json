@@ -985,6 +985,14 @@
       }
     },
     {
+      "name": "Peterloo Massacre",
+      "style": "backgroundRiot",
+      "timespan": {
+        "start": "8/16/1819",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "First Anglo-Afghan War",
       "style": "backgroundForeignWar",
       "timespan": {
