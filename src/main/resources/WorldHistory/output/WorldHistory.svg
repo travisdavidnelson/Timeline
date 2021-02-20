@@ -593,6 +593,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Attacks_of_September_11,_2001" target="_blank"><rect id="Attacks_of_September_11,_2001" x="26103" y="10815" width="1" height="2117" class="footprint"/><rect id="Attacks_of_September_11,_2001" x="26103" y="10815" width="1" height="2117" class="backgroundNationalCalamity"/><title>Attacks of September 11, 2001 (9/11/2001)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Afghan_War" target="_blank"><rect id="Afghan_War" x="26103" y="10815" width="97" height="2117" class="footprint"/><rect id="Afghan_War" x="26103" y="10815" width="97" height="2117" class="backgroundForeignWarMinor"/><title>Afghan War (9/11/2001)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Iraq_War" target="_blank"><rect id="Iraq_War" x="26111" y="10815" width="44" height="2117" class="footprint"/><rect id="Iraq_War" x="26111" y="10815" width="44" height="2117" class="backgroundWar"/><title>Iraq War (3/20/2003 - 12/18/2011)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/COVID-19" target="_blank"><rect id="COVID-19" x="26194" y="10815" width="6" height="2117" class="footprint"/><rect id="COVID-19" x="26194" y="10815" width="6" height="2117" class="backgroundPlague"/><title>COVID-19 (2020)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Capitol_Riot" target="_blank"><rect id="Capitol_Riot" x="26200" y="10815" width="1" height="2117" class="footprint"/><rect id="Capitol_Riot" x="26200" y="10815" width="1" height="2117" class="backgroundRiot"/><title>Capitol Riot (1/6/2021)</title></a></g>
 
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hyksos" target="_blank"><rect id="Hyksos" x="7550" y="320" width="875" height="197" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Hyksos" x="7550" y="320" width="875" height="197" class="hyksos"  mask="url(#fadeInOutMask)"/><title>Hyksos (c. 1705 BC - c. 1540 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/High_Priests_of_Amun_at_Thebes" target="_blank"><rect id="High_Priests_of_Amun_at_Thebes" x="10625" y="651" width="1700" height="322" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="High_Priests_of_Amun_at_Thebes" x="10625" y="651" width="1700" height="322" class="egyptThebes"  mask="url(#fadeInOutMask)"/><title>High Priests of Amun at Thebes (c. 1090 BC - c. 760 BC)</title></a></g>
@@ -12983,6 +12985,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25405" y="11815" width="15" height="8" class="militaryGovernor"/><title>militaryGovernor (3/12/1862 - 3/4/1865)</title></g>
 <g><rect x="25420" y="11815" width="1" height="8" class="vicePresident"/><title>vicePresident (3/4/1865 - 4/15/1865)</title></g>
 <g><rect x="25421" y="11815" width="19" height="8" class="president"/><title>president (4/15/1865 - 3/4/1869)</title></g>
+<g><rect x="25435" y="11815" width="1" height="8" class="foregroundReputationalStain"/><title>Impeachment of Andrew Johnson (2/24/1868 - 5/26/1868)</title></g>
 
 <text x="25139" y="11821" class="petty">ANDREW JOHNSON</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ulysses_S._Grant" target="_blank"><rect id="Ulysses_S._Grant" x="25206" y="11833" width="316" height="40" class="republican"/><title>Ulysses S. Grant (4/27/1822 - 7/23/1885)</title><g><rect x="25402" y="11833" width="38" height="40" class="general"/><title>general (8/5/1861 - 3/4/1869)</title></g>
@@ -13085,6 +13088,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25849" y="12517" width="10" height="25" class="senator"/><title>senator (12/1/1950 - 1/1/1953)</title></g>
 <g><rect x="25860" y="12517" width="40" height="25" class="vicePresident"/><title>vicePresident (1/20/1953 - 1/20/1961)</title></g>
 <g><rect x="25940" y="12517" width="28" height="25" class="president"/><title>president (1/20/1969 - 8/9/1974)</title></g>
+<g><rect x="25967" y="12517" width="1" height="25" class="foregroundReputationalStain"/><title>Resignation (8/9/1974)</title></g>
 
 <text x="25662" y="12536" class="semimajor">RICHARD NIXON</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Gerald_Ford" target="_blank"><rect id="Gerald_Ford" x="25662" y="12552" width="467" height="8" class="republican"/><title>Gerald Ford (7/14/1913 - 12/26/2006)</title><g><rect x="25839" y="12552" width="125" height="8" class="legislator"/><title>legislator (1/3/1949 - 12/6/1973)</title></g>
@@ -13110,6 +13114,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bill_Clinton" target="_blank"><rect id="Bill_Clinton" x="25828" y="12742" width="373" height="8" class="democrat"/><title>Bill Clinton (8/19/1946)</title><g><rect x="25990" y="12742" width="10" height="8" class="governor"/><title>governor (1/9/1979 - 1/19/1981)</title></g>
 <g><rect x="26010" y="12742" width="50" height="8" class="governor"/><title>governor (1/11/1983 - 12/12/1992)</title></g>
 <g><rect x="26060" y="12742" width="40" height="8" class="president"/><title>president (1/20/1993 - 1/20/2001)</title></g>
+<g><rect x="26085" y="12742" width="5" height="8" class="foregroundReputationalStain"/><title>Clinton impeachment (1/19/1998 - 2/12/1999)</title></g>
 
 <text x="25828" y="12748" class="petty">BILL CLINTON</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/George_W._Bush" target="_blank"><rect id="George_W._Bush" x="25827" y="12760" width="373" height="15" class="republican"/><title>George W. Bush (7/6/1946)</title><g><rect x="26070" y="12760" width="30" height="15" class="governor"/><title>governor (1/17/1995 - 12/21/2000)</title></g>
@@ -13122,6 +13127,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25904" y="12804" class="semimajor">BARACK OBAMA</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Donald_Trump" target="_blank"><rect id="Donald_Trump" x="25827" y="12820" width="373" height="15" class="republican"/><title>Donald Trump (6/14/1946)</title><g><rect x="26180" y="12820" width="20" height="15" class="president"/><title>president (1/20/2017 - 1/20/2021)</title></g>
+<g><rect x="26200" y="12820" width="1" height="15" class="foregroundReputationalStain"/><title>2nd impeachment (1/13/2021 - 2/13/2021)</title></g>
 
 <text x="25828" y="12831" class="minor">DONALD TRUMP</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Joe_Biden" target="_blank"><rect id="Joe_Biden" x="25809" y="12845" width="391" height="15" class="democrat"/><title>Joe Biden (11/20/1942)</title><g><rect x="25959" y="12845" width="180" height="15" class="senator"/><title>senator (1/3/1973 - 1/15/2009)</title></g>

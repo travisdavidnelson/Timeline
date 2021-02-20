@@ -99,7 +99,7 @@
 .backgroundForeignWarVictory {fill:blue; fill-opacity:0.4}
 .backgroundRaid {fill:red; fill-opacity:0.7}
 .backgroundRebellion {fill:red; fill-opacity:0.6}
-.backgroundRiot {fill:red; fill-opacity:0.5}
+.backgroundRiot {fill:red; fill-opacity:0.9}
 .backgroundMinorRebellion {fill:red; fill-opacity:0.3}
 .backgroundMajorRebellion {fill:red; fill-opacity:0.7}
 .backgroundNationalCalamity {fill:#C00000; fill-opacity:1.0}
@@ -109,6 +109,7 @@
 .backgroundUnionVictory {fill:blue; fill-opacity:0.8}
 .backgroundConfederateVictory {fill:red; fill-opacity:0.8}
 .backgroundWar {fill:red; fill-opacity:0.5}
+.foregroundReputationalStain {fill:black; fill-opacity:1.0}
 .neolithic {fill:grey;fill-opacity:0.3}
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}

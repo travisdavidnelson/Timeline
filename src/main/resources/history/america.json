@@ -487,6 +487,22 @@
         "end": "12/18/2011"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "COVID-19",
+      "timespan": {
+        "start": "2020",
+        "end": ""
+      },
+      "style": "backgroundPlague"
+    },
+    {
+      "name": "Capitol Riot",
+      "timespan": {
+        "start": "1/6/2021",
+        "end": ""
+      },
+      "style": "backgroundRiot"
     }
   ],
   "dynastyGroups": [
@@ -1981,6 +1997,16 @@
                     "end": "3/4/1869"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Impeachment of Andrew Johnson",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "2/24/1868",
+                    "end": "5/26/1868"
+                  }
+                }
               ]
             },
             {
@@ -2637,6 +2663,16 @@
                     "end": "8/9/1974"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Resignation",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "8/9/1974",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -2795,6 +2831,16 @@
                     "end": "1/20/2001"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Clinton impeachment",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "1/19/1998",
+                    "end": "2/12/1999"
+                  }
+                }
               ]
             },
             {
@@ -2862,13 +2908,25 @@
               },
               "importance": "minor",
               "style": "republican",
-              "titles": [{
-                "name": "president",
-                "timespan": {
-                  "start": "1/20/2017",
-                  "end": "1/20/2021"
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "1/20/2017",
+                    "end": "1/20/2021"
+                  }
                 }
-              }]
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "2nd impeachment",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "1/13/2021",
+                    "end": "2/13/2021"
+                  }
+                }
+              ]
             },
             {
               "name": "Joe Biden",
