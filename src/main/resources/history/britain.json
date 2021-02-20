@@ -6644,6 +6644,40 @@
               ]
             },
             {
+              "name": "Robert Stewert",
+              "style": "tory",
+              "importance": "major",
+              "annotation": "Viscount Castlereagh",
+              "fate": "Cut his throat amid nervous breakdown amid overwork and threats of homosexual blackmail",
+              "timespan": {
+                "start": "6/18/1769",
+                "end": "8/12/1822"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1794",
+                    "end": "8/12/1822"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "6/14/1798",
+                    "end": "4/27/1801"
+                  }
+                },
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "1812",
+                    "end": "8/12/1822"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Robert Jenkinson",
               "style": "tory",
               "importance": "minor",
