@@ -75,6 +75,7 @@
 .americanRepublicMid {fill:lightblue;fill-opacity:0.5}
 .americanRepublicStrong {fill:lightblue;fill-opacity:0.7}
 .americanRepublic {fill:blue;fill-opacity:0.4}
+.americanRepublic {fill:blue;fill-opacity:0.4}
 
 .backgroundBattle {fill:red; fill-opacity:0.8}
 .backgroundBattleVictory {fill:blue; fill-opacity:0.8}
@@ -143,10 +144,10 @@
 .american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .colonist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
 .patriot {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
-.federalist {fill:blue; fill-opacity:0.3;}
-.democrat {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
-.whig {fill:white; stroke:black; stroke-width:0.1; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
-.republican {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.federalist {fill:blue; fill-opacity:0.2;}
+.democrat {fill:red; fill-opacity:0.2;}
+.whig {fill:white; fill-opacity:0.4;}
+.republican {fill:blue; fill-opacity:0.2;}
 .tory {fill:#7c77f4; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .conservative {fill:#797887; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .labour {fill:#a80a2f; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
@@ -230,22 +231,22 @@
 .defeat 			{fill:red;		fill-opacity:1.0}
 .victory 			{fill:gold;		fill-opacity:0.8}
 
-.president 			{fill:blue;		fill-opacity:0.8}
-.presidentElect 	{fill:blue;		fill-opacity:0.5}
-.vicePresident 		{fill:blue;		fill-opacity:0.6}
+.president 			{fill:blue;		fill-opacity:0.7}
+.presidentElect 	{fill:blue;		fill-opacity:0.4}
+.vicePresident 		{fill:blue;		fill-opacity:0.5}
 .speakerOfHouse     {fill:blue;		fill-opacity:0.6}
-.secretaryOfState   {fill:blue;		fill-opacity:0.6}
-.secretaryOfWar     {fill:#C00000;	fill-opacity:0.8}
-.secretaryOfTreasury     {fill:green;	fill-opacity:0.8}
+.secretaryOfState   {fill:blue;		fill-opacity:0.4}
+.secretaryOfWar     {fill:#C00000;	fill-opacity:0.4}
+.secretaryOfTreasury     {fill:green;	fill-opacity:0.5}
 .secretaryOfCommerce     {fill:green;	fill-opacity:0.4}
 .senator 			{fill:blue;		fill-opacity:0.3}
 .legislator     	{fill:blue;		fill-opacity:0.2}
 .militaryGovernor 	{fill:#C00000;	fill-opacity:0.5}
 .diplomat           {fill:blue;		fill-opacity:0.4}
 .statesman          {fill:blue;		fill-opacity:0.4}
-.chiefJustice   	{fill:purple;	fill-opacity:0.8}
-.justice   	 		{fill:purple;	fill-opacity:0.6}
-.judge   	 		{fill:purple;	fill-opacity:0.4}
+.chiefJustice   	{fill:purple;	fill-opacity:0.6}
+.justice   	 		{fill:purple;	fill-opacity:0.4}
+.judge   	 		{fill:purple;	fill-opacity:0.3}
 
 .parthian	        {fill:#abf6f6;	stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .sabines 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
