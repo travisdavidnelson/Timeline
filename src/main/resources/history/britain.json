@@ -2776,6 +2776,32 @@
                     "end": "11/15/655"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Hatfield Chase",
+                  "timespan": {
+                    "start": "10/12/633",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Maserfield",
+                  "timespan": {
+                    "start": "8/5/642",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Winwaed",
+                  "timespan": {
+                    "start": "11/15/655",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                }
               ]
             },
             {
@@ -4376,6 +4402,24 @@
                     "end": "8/5/642"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Heavenfield",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/634",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Battle of Maserfield",
+                  "timespan": {
+                    "start": "8/5/642",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                }
               ]
             },
             {
@@ -4902,6 +4946,16 @@
                   }
                 }
               ]
+//              "foregroundEvents": [
+//                {
+//                  "name": "Battle of Heavenfield",
+//                  "style": "defeat",
+//                  "timespan": {
+//                    "start": "12/634",
+//                    "duration": "1m"
+//                  }
+//                }
+//              ]
             }
           ]
         }
@@ -5027,6 +5081,16 @@
                     "end": "9/9/1087"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Hastings",
+                  "timespan": {
+                    "start": "10/14/1066",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -5064,6 +5128,32 @@
                     "start": "8/2/1100",
                     "end": "12/1/1135"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Tinchebray",
+                  "timespan": {
+                    "start": "9/28/1106",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Tinchebray",
+                  "timespan": {
+                    "start": "9/28/1106",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Bremule",
+                  "timespan": {
+                    "start": "8/20/1119",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
@@ -5229,6 +5319,24 @@
                   "timespan": {
                     "start": "11/20/1272",
                     "end": "7/7/1307"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Evesham",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/4/1265",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Falkirk",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/22/1298",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5498,6 +5606,7 @@
               "name": "Richard Plantagenet",
               "style": "english",
               "importance": "semimajor",
+              "annotation": "3rd Duke of York",
               "timespan": {
                 "start": "9/22/1411",
                 "end": "12/30/1460"
@@ -5531,6 +5640,16 @@
                     "end": "12/30/1460"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Wakefield",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/30/1460",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -5554,6 +5673,40 @@
                   "timespan": {
                     "start": "4/11/1471",
                     "end": "4/9/1483"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Mortimers Cross",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "2/2/1461",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Towton",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "3/29/1461",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Barnet",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/14/1471",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Tewkesbury",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/4/1471",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5592,6 +5745,16 @@
                     "end": "8/22/1485"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Bosworth Field",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/22/1485",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]
@@ -5613,6 +5776,16 @@
                   "timespan": {
                     "start": "8/22/1485",
                     "end": "4/21/1509"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Bosworth Field",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/22/1485",
+                    "duration": "1d"
                   }
                 }
               ]

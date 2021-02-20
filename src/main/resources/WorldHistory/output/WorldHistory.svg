@@ -12169,6 +12169,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="19170" y="9992" class="petty">CEARL</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Penda" target="_blank"><rect id="Penda" x="19075" y="9855" width="299" height="40" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Penda (c. 606 - 11/15/655)</title><g><rect x="19215" y="9855" width="159" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 626 - 11/15/655)</title></g>
+<g><rect x="19263" y="9855" width="1" height="40" class="victory"/><title>Battle of Hatfield Chase (10/12/633)</title></g>
+<g><rect x="19308" y="9855" width="1" height="40" class="victory"/><title>Battle of Maserfield (8/5/642)</title></g>
+<g><rect x="19374" y="9855" width="1" height="40" class="defeat"/><title>Battle of Winwaed (11/15/655)</title></g>
 
 <text x="19081" y="9885" class="major">PENDA</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Wulfhere" target="_blank"><rect id="Wulfhere" x="19245" y="9905" width="225" height="25" class="angloSaxon"  mask="url(#fadeInMask)"/><title>Wulfhere (c. 640 - 675)</title><g><rect x="19385" y="9905" width="85" height="25" class="king"/><title>king (658 - 675)</title></g>
@@ -12339,6 +12342,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="19263" y="10499" class="petty">EANFRITH</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Oswald" target="_blank"><rect id="Oswald" x="19065" y="10511" width="243" height="25" class="sanctified"  mask="url(#fadeInMask)"/><title>Oswald (c. 604 - 8/5/642)</title><g><rect x="19267" y="10511" width="41" height="25" class="king"/><title>king (6/634 - 8/5/642)</title></g>
+<g><rect x="19269" y="10511" width="1" height="25" class="victory"/><title>Battle of Heavenfield (12/634)</title></g>
+<g><rect x="19308" y="10511" width="1" height="25" class="defeat"/><title>Battle of Maserfield (8/5/642)</title></g>
 
 <text x="19069" y="10530" class="semimajor">OSWALD</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Oswiu" target="_blank"><rect id="Oswiu" x="19308" y="10362" width="81" height="25" class="angloSaxon"/><title>Oswiu (8/5/642 - 2/15/670)</title><g><rect x="19308" y="10362" width="57" height="25" class="king"/><title>king (8/5/642 - 654)</title></g>
@@ -12440,12 +12445,16 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="21025" y="9434" class="dynasty">DENMARK</text><g><a xlink:href="http://en.wikipedia.org/wiki/William_I" target="_blank"><rect id="William_I" x="21185" y="9651" width="348" height="50" class="norman"  mask="url(#fadeInMask)"/><title>William I (c. 1028 - 9/9/1087)</title><g><rect x="21272" y="9651" width="261" height="50" class="duke"/><title>duke (7/3/1035 - 9/9/1087)</title></g>
 <g><rect x="21429" y="9651" width="104" height="50" class="king"/><title>king (12/25/1066 - 9/9/1087)</title></g>
+<g><rect x="21428" y="9651" width="1" height="50" class="victory"/><title>Battle of Hastings (10/14/1066)</title></g>
 
 <text x="21197" y="9691" class="transformational">WILLIAM I</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/William_II" target="_blank"><rect id="William_II" x="21325" y="9711" width="273" height="25" class="norman"  mask="url(#fadeInMask)"/><title>William II (c. 1056 - 8/2/1100)</title><g><rect x="21533" y="9711" width="64" height="25" class="king"/><title>king (9/9/1087 - 8/2/1100)</title></g>
 
 <text x="21329" y="9730" class="semimajor">WILLIAM II</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Henry_I" target="_blank"><rect id="Henry_I" x="21385" y="9746" width="390" height="40" class="norman"  mask="url(#fadeInMask)"/><title>Henry I (c. 1068 - 12/1/1135)</title><g><rect x="21597" y="9746" width="177" height="40" class="king"/><title>king (8/2/1100 - 12/1/1135)</title></g>
+<g><rect x="21628" y="9746" width="1" height="40" class="victory"/><title>Battle of Tinchebray (9/28/1106)</title></g>
+<g><rect x="21628" y="9746" width="1" height="40" class="victory"/><title>Battle of Tinchebray (9/28/1106)</title></g>
+<g><rect x="21693" y="9746" width="1" height="40" class="victory"/><title>Battle of Bremule (8/20/1119)</title></g>
 
 <text x="21391" y="9776" class="major">HENRY I</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/William_Adelin" target="_blank"><rect id="William_Adelin" x="21612" y="9796" width="87" height="15" class="norman"/><title>William Adelin (8/5/1103 - 11/25/1120)</title>
@@ -12472,6 +12481,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="22135" y="9573" class="semimajor">HENRY III</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_I_Longshanks" target="_blank"><rect id="Edward_I_Longshanks" x="22292" y="9589" width="340" height="40" class="english"/><title>Edward I Longshanks (6/17/1239 - 7/7/1307)</title><g><rect x="22459" y="9589" width="173" height="40" class="king"/><title>king (11/20/1272 - 7/7/1307)</title></g>
+<g><rect x="22423" y="9589" width="1" height="40" class="victory"/><title>Battle of Evesham (9/4/1265)</title></g>
+<g><rect x="22587" y="9589" width="1" height="40" class="victory"/><title>Battle of Falkirk (7/22/1298)</title></g>
 
 <text x="22295" y="9619" class="major">EDWARD I LONGSHANKS</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_II" target="_blank"><rect id="Edward_II" x="22516" y="9639" width="217" height="15" class="english"/><title>Edward II (4/25/1284 - 9/21/1327)</title><g><rect x="22632" y="9639" width="98" height="15" class="king"/><title>king (7/8/1307 - 1/20/1327)</title></g>
@@ -12514,24 +12525,31 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="23241" y="9658" class="semimajor">RICHARD NEVILLE</text></a></g>
 
-<text x="23093" y="9434" class="dynasty">PLANTAGENET LANCASTER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Richard_Plantagenet" target="_blank"><rect id="Richard_Plantagenet" x="23153" y="9746" width="246" height="25" class="english"/><title>Richard Plantagenet (9/22/1411 - 12/30/1460)</title><g><rect x="23174" y="9746" width="226" height="25" class="duke"/><title>duke (10/25/1415 - 12/30/1460)</title></g>
+<text x="23093" y="9434" class="dynasty">PLANTAGENET LANCASTER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Richard_Plantagenet" target="_blank"><rect id="Richard_Plantagenet" x="23153" y="9746" width="246" height="25" class="english"/><title>Richard Plantagenet (9/22/1411 - 12/30/1460) 3rd Duke of York</title><g><rect x="23174" y="9746" width="226" height="25" class="duke"/><title>duke (10/25/1415 - 12/30/1460)</title></g>
 <g><rect x="23366" y="9746" width="4" height="25" class="lordProtector"/><title>lordProtector (4/3/1454 - 2/1455)</title></g>
 <g><rect x="23374" y="9746" width="1" height="25" class="lordProtector"/><title>lordProtector (11/19/1455 - 2/25/1456)</title></g>
 <g><rect x="23399" y="9746" width="1" height="25" class="lordProtector"/><title>lordProtector (10/31/1460 - 12/30/1460)</title></g>
+<g><rect x="23399" y="9746" width="1" height="25" class="defeat"/><title>Battle of Wakefield (12/30/1460)</title></g>
 
 <text x="23155" y="9765" class="semimajor">RICHARD PLANTAGENET</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_IV" target="_blank"><rect id="Edward_IV" x="23306" y="9781" width="205" height="15" class="english"/><title>Edward IV (4/28/1442 - 4/9/1483)</title><g><rect x="23400" y="9781" width="48" height="15" class="king"/><title>king (3/4/1461 - 10/3/1470)</title></g>
 <g><rect x="23451" y="9781" width="60" height="15" class="king"/><title>king (4/11/1471 - 4/9/1483)</title></g>
+<g><rect x="23400" y="9781" width="1" height="15" class="victory"/><title>Battle of Mortimers Cross (2/2/1461)</title></g>
+<g><rect x="23401" y="9781" width="1" height="15" class="victory"/><title>Battle of Towton (3/29/1461)</title></g>
+<g><rect x="23451" y="9781" width="1" height="15" class="victory"/><title>Battle of Barnet (4/14/1471)</title></g>
+<g><rect x="23451" y="9781" width="1" height="15" class="victory"/><title>Battle of Tewkesbury (5/4/1471)</title></g>
 
 <text x="23307" y="9792" class="minor">EDWARD IV</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_V" target="_blank"><rect id="Edward_V" x="23449" y="9806" width="63" height="8" class="english"/><title>Edward V (11/2/1470 - 7/1483)</title><g><rect x="23511" y="9806" width="1" height="8" class="king"/><title>king (4/9/1483 - 6/25/1483)</title></g>
 
 <text x="23449" y="9812" class="petty">EDWARD V</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Richard_III" target="_blank"><rect id="Richard_III" x="23358" y="9824" width="164" height="25" class="english"/><title>Richard III (10/2/1452 - 8/22/1485)</title><g><rect x="23512" y="9824" width="11" height="25" class="king"/><title>king (6/25/1483 - 8/22/1485)</title></g>
+<g><rect x="23523" y="9824" width="1" height="25" class="defeat"/><title>Battle of Bosworth Field (8/22/1485)</title></g>
 
 <text x="23360" y="9843" class="semimajor">RICHARD III</text></a></g>
 
 <text x="23174" y="9736" class="dynasty">PLANTAGENET YORK</text><g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VII" target="_blank"><rect id="Henry_VII" x="23380" y="9931" width="261" height="40" class="english"/><title>Henry VII (1/28/1457 - 4/21/1509)</title><g><rect x="23523" y="9931" width="118" height="40" class="king"/><title>king (8/22/1485 - 4/21/1509)</title></g>
+<g><rect x="23523" y="9931" width="1" height="40" class="victory"/><title>Battle of Bosworth Field (8/22/1485)</title></g>
 
 <text x="23383" y="9961" class="major">HENRY VII</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Henry_VIII" target="_blank"><rect id="Henry_VIII" x="23552" y="9981" width="278" height="50" class="english"/><title>Henry VIII (6/28/1491 - 1/28/1547)</title><g><rect x="23643" y="9981" width="187" height="50" class="king"/><title>king (8/22/1509 - 1/28/1547)</title></g>
