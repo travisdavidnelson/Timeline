@@ -295,6 +295,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hunnic_Invasion" target="_blank"><rect id="Hunnic_Invasion" x="18330" y="6740" width="10" height="1738" class="footprint"/><rect id="Hunnic_Invasion" x="18330" y="6740" width="10" height="1738" class="backgroundInvasion"/><title>Hunnic Invasion (447 - 449)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hunnic_Invasion" target="_blank"><rect id="Hunnic_Invasion" x="18350" y="6740" width="15" height="1738" class="footprint"/><rect id="Hunnic_Invasion" x="18350" y="6740" width="15" height="1738" class="backgroundInvasion"/><title>Hunnic Invasion (451 - 454)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Rome_(455)" target="_blank"><rect id="Sack_of_Rome_(455)" x="18370" y="6740" width="1" height="1738" class="footprint"/><rect id="Sack_of_Rome_(455)" x="18370" y="6740" width="1" height="1738" class="backgroundNationalCalamity"/><title>Sack of Rome (455) (455 - 455)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Actium" target="_blank"><rect id="Battle_of_Actium" x="15948" y="6740" width="1" height="1738" class="footprint"/><rect id="Battle_of_Actium" x="15948" y="6740" width="1" height="1738" class="backgroundBattle"/><title>Battle of Actium (9/2/31 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age" target="_blank"><rect id="Bronze_Age" x="75" y="8478" width="14050" height="894" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Bronze_Age" x="75" y="8478" width="14050" height="894" class="bronzeAge"  mask="url(#fadeInOutMask)"/><title>Bronze Age (c. 4000 BC - c. 400 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Iron_Age" target="_blank"><rect id="Iron_Age" x="14075" y="8478" width="2545" height="894" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Iron_Age" x="14075" y="8478" width="2545" height="894" class="ironAge"  mask="url(#fadeInOutMask)"/><title>Iron Age (c. 400 BC - c. 100)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Celtic_France" target="_blank"><rect id="Celtic_France" x="15075" y="8478" width="1545" height="894" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Celtic_France" x="15075" y="8478" width="1545" height="894" class="celt"  mask="url(#fadeInOutMask)"/><title>Celtic France (c. 200 BC - c. 100)</title></a></g>
@@ -11470,19 +11471,20 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="15794" y="6852" class="transformational">AUGUSTUS</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Augustus" target="_blank"><rect id="Augustus" x="16163" y="6812" width="5" height="50" class="fate"/><title>Died 19 August AD 14, aged 75, perhaps poisoned by Livia. Afterwards Deified.</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Maecenas" target="_blank"><rect id="Gaius_Maecenas" x="15750" y="6872" width="310" height="25" class="roman"/><title>Gaius Maecenas (70 BC - 8 BC)</title>
-<text x="15752" y="6891" class="semimajor">GAIUS MAECENAS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="15730" y="6907" width="310" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Marcus Vipsanius Agrippa (c. 64 BC - 12 BC) Trusted and faithful friend, general and heir to Augustus, Agrippa was the grandfather and great-grandfather of emperors.</title><g><rect x="15895" y="6907" width="20" height="25" class="general"/><title>general (41 BC - 37 BC)</title></g>
-<g><rect x="15915" y="6907" width="5" height="25" class="consul"/><title>consul (37 BC)</title></g>
-<g><rect x="15915" y="6907" width="15" height="25" class="general"/><title>general (37 BC - 34 BC)</title></g>
-<g><rect x="15940" y="6907" width="5" height="25" class="aedile"/><title>aedile (32 BC)</title></g>
-<g><rect x="15940" y="6907" width="5" height="25" class="general"/><title>general (32 BC - 31 BC)</title></g>
-<g><rect x="16005" y="6907" width="10" height="25" class="general"/><title>general (19 BC - 17 BC)</title></g>
-<g><rect x="16015" y="6907" width="20" height="25" class="governor"/><title>governor (17 BC - 13 BC)</title></g>
-<g><rect x="16035" y="6907" width="5" height="25" class="general"/><title>general (13 BC - 12 BC)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="15730" y="6872" width="310" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Marcus Vipsanius Agrippa (c. 64 BC - 12 BC) Trusted and faithful friend, general and heir to Augustus, Agrippa was the grandfather and great-grandfather of emperors.</title><g><rect x="15895" y="6872" width="20" height="25" class="general"/><title>general (41 BC - 37 BC)</title></g>
+<g><rect x="15915" y="6872" width="5" height="25" class="consul"/><title>consul (37 BC)</title></g>
+<g><rect x="15915" y="6872" width="15" height="25" class="general"/><title>general (37 BC - 34 BC)</title></g>
+<g><rect x="15940" y="6872" width="5" height="25" class="aedile"/><title>aedile (32 BC)</title></g>
+<g><rect x="15940" y="6872" width="5" height="25" class="general"/><title>general (32 BC - 31 BC)</title></g>
+<g><rect x="16005" y="6872" width="10" height="25" class="general"/><title>general (19 BC - 17 BC)</title></g>
+<g><rect x="16015" y="6872" width="20" height="25" class="governor"/><title>governor (17 BC - 13 BC)</title></g>
+<g><rect x="16035" y="6872" width="5" height="25" class="general"/><title>general (13 BC - 12 BC)</title></g>
+<g><rect x="15948" y="6872" width="1" height="25" class="victory"/><title>Battle of Actium (9/2/31 BC)</title></g>
 
-<text x="15734" y="6926" class="semimajor">MARCUS VIPSANIUS AGRIPPA</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="16035" y="6907" width="5" height="25" class="fate"/><title>Died peacefully but prematurely at age 51.</title></a></g>
+<text x="15734" y="6891" class="semimajor">MARCUS VIPSANIUS AGRIPPA</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa" target="_blank"><rect id="Marcus_Vipsanius_Agrippa" x="16035" y="6872" width="5" height="25" class="fate"/><title>Died peacefully but prematurely at age 51.</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gaius_Maecenas" target="_blank"><rect id="Gaius_Maecenas" x="15750" y="6907" width="310" height="25" class="roman"/><title>Gaius Maecenas (70 BC - 8 BC)</title>
+<text x="15752" y="6926" class="semimajor">GAIUS MAECENAS</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Virgil" target="_blank"><rect id="Virgil" x="15750" y="6942" width="255" height="25" class="roman"/><title>Virgil (70 BC - 19 BC)</title>
 <text x="15752" y="6961" class="semimajor">VIRGIL</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Livy" target="_blank"><rect id="Livy" x="15730" y="6977" width="500" height="25" class="roman"  mask="url(#fadeInOutMask)"/><title>Livy (c. 64 BC - c. 17)</title>

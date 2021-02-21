@@ -3138,6 +3138,16 @@
     {
       "name": "Principate",
       "yStart": 0,
+      "backgroundEvents": [
+        {
+          "name": "Battle of Actium",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "9/2/31 BC",
+            "duration": "1d"
+          }
+        }
+      ],
       "dynasties": [
         {
           "name": "Julio-Claudians",
@@ -3182,15 +3192,6 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "Gaius Maecenas",
-              "style": "roman",
-              "timespan": {
-                "start": "70 BC",
-                "end": "8 BC"
-              },
-              "importance": "semimajor"
             },
             {
               "name": "Marcus Vipsanius Agrippa",
@@ -3260,7 +3261,26 @@
                     "end": "12 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Actium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/2/31 BC",
+                    "duration": "1d"
+                  }
+                }
               ]
+            },
+            {
+              "name": "Gaius Maecenas",
+              "style": "roman",
+              "timespan": {
+                "start": "70 BC",
+                "end": "8 BC"
+              },
+              "importance": "semimajor"
             },
             {
               "name": "Virgil",
