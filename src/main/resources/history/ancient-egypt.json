@@ -3661,6 +3661,16 @@
     },
     {
       "name": "Ptolemaic Kingdom",
+      "backgroungEvents": [
+        {
+          "name": "Battle of Actium",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "9/2/31 BC",
+            "duration": "1d"
+          }
+        }
+      ],
       "dynasties": [
         {
           "name": "Ptolemaic Kingdom",
@@ -3934,6 +3944,16 @@
                   "timespan": {
                     "start": "51 BC",
                     "end": "30 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Actium",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/2/31 BC",
+                    "duration": "1d"
                   }
                 }
               ]

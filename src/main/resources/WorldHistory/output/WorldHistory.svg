@@ -8622,7 +8622,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="1476" y="333" class="minor">QA'A</text></a></g>
 
-<text x="350" y="112" class="dynasty">EGYPT I</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hotepsekhemwy" target="_blank"><rect id="Hotepsekhemwy" x="1650" y="122" width="190" height="25" class="egyptian"/><title>Hotepsekhemwy (2890 BC)</title><g><rect x="1640" y="122" width="210" height="25" class="pharaoh"  mask="url(#fadeInOutMask)"/><title>pharaoh (c. 2890 BC)</title></g>
+<text x="350" y="112" class="dynasty">EGYPT I</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hotepsekhemwy" target="_blank"><rect id="Hotepsekhemwy" x="1650" y="122" width="190" height="25" class="egyptian"/><title>Hotepsekhemwy (2890 BC - 13880d)</title><g><rect x="1640" y="122" width="210" height="25" class="pharaoh"  mask="url(#fadeInOutMask)"/><title>pharaoh (c. 2890 BC - c. 13880d)</title></g>
 
 <text x="1652" y="141" class="semimajor">HOTEPSEKHEMWY</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Nebra" target="_blank"><rect id="Nebra" x="1840" y="157" width="70" height="15" class="egyptian"/><title>Nebra ()</title><g><rect x="1830" y="157" width="90" height="15" class="pharaoh"  mask="url(#fadeInOutMask)"/><title>pharaoh ()</title></g>
@@ -9324,6 +9324,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="15810" y="528" class="petty">BERENICE IV</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Cleopatra&#9792;" target="_blank"><rect id="Cleopatra&#9792;" x="15845" y="540" width="105" height="40" class="ptolemaicKingdom"/><title>Cleopatra&#9792; (51 BC - 30 BC)</title><g><rect x="15845" y="540" width="105" height="40" class="king"/><title>king (51 BC - 30 BC)</title></g>
+<g><rect x="15948" y="540" width="1" height="40" class="defeat"/><title>Battle of Actium (9/2/31 BC - 1d)</title></g>
 
 <text x="15848" y="570" class="major">CLEOPATRA&#9792;</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ptolemy_XIII" target="_blank"><rect id="Ptolemy_XIII" x="15845" y="590" width="20" height="8" class="ptolemaicKingdom"/><title>Ptolemy XIII (51 BC - 47 BC)</title><g><rect x="15845" y="590" width="20" height="8" class="king"/><title>king (51 BC - 47 BC)</title></g>
@@ -10068,7 +10069,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="3171" y="4001" class="minor">LUGAL-KITUN</text></a></g>
 
-<text x="2250" y="3798" class="dynasty">URUK I</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kubaba&#9792;" target="_blank"><rect id="Kubaba&#9792;" x="4100" y="3701" width="400" height="25" class="kish"/><title>Kubaba&#9792; (2400 BC)</title><g><rect x="4090" y="3701" width="420" height="25" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 2400 BC)</title></g>
+<text x="2250" y="3798" class="dynasty">URUK I</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kubaba&#9792;" target="_blank"><rect id="Kubaba&#9792;" x="4100" y="3701" width="400" height="25" class="kish"/><title>Kubaba&#9792; (2400 BC - 29220d)</title><g><rect x="4090" y="3701" width="420" height="25" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 2400 BC - c. 29220d)</title></g>
 
 <text x="4102" y="3720" class="semimajor">KUBABA&#9792;</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Puzur-Suen" target="_blank"><rect id="Puzur-Suen" x="4500" y="3736" width="125" height="15" class="kish"/><title>Puzur-Suen ()</title><g><rect x="4490" y="3736" width="145" height="15" class="king"  mask="url(#fadeInOutMask)"/><title>king ()</title></g>
@@ -11461,6 +11462,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mark_Antony" target="_blank"><rect id="Mark_Antony" x="15685" y="7493" width="265" height="40" class="roman"/><title>Mark Antony (83 BC - 30 BC)</title><g><rect x="15860" y="7493" width="20" height="40" class="masterOfHorse"/><title>masterOfHorse (48 BC - 44 BC)</title></g>
 <g><rect x="15885" y="7493" width="50" height="40" class="triumvir"/><title>triumvir (43 BC - 33 BC)</title></g>
 <g><rect x="15935" y="7493" width="15" height="40" class="exile"/><title>exile (33 BC - 30 BC)</title></g>
+<g><rect x="15948" y="7493" width="1" height="40" class="defeat"/><title>Battle of Actium (9/2/31 BC)</title></g>
 
 <text x="15688" y="7523" class="major">MARK ANTONY</text></a></g>
 
@@ -12428,7 +12430,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="18498" y="10708" class="major">ARTHUR</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Gildas" target="_blank"><rect id="Gildas" x="18545" y="10728" width="450" height="15" class="briton"  mask="url(#fadeInOutMask)"/><title>Gildas (c. 500 - c. 570)</title>
 <text x="18547" y="10739" class="minor">GILDAS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Cadwallon_ap_Cadfan" target="_blank"><rect id="Cadwallon_ap_Cadfan" x="19220" y="10608" width="50" height="25" class="briton"/><title>Cadwallon ap Cadfan (625 - 12/634)</title><g><rect x="19210" y="10608" width="60" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 625 - 12/634)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Cadwallon_ap_Cadfan" target="_blank"><rect id="Cadwallon_ap_Cadfan" x="19220" y="10608" width="50" height="25" class="briton"/><title>Cadwallon ap Cadfan (625 - 1d)</title><g><rect x="19210" y="10608" width="60" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 625 - 12/634)</title></g>
+<g><rect x="19269" y="10608" width="1" height="25" class="defeat"/><title>Battle of Heavenfield (12/634 - 1d)</title></g>
 
 <text x="19222" y="10627" class="semimajor">CADWALLON AP CADFAN</text></a></g>
 

@@ -25,7 +25,12 @@ public class TimelineInstant {
 		this.instant = instant;
 		this.year = year;
 	}
-	
+
+	public TimelineInstant(String originalString, Instant instant) {
+		this.originalString = originalString;
+		this.instant = instant;
+	}
+
 	public String getOriginalString() {
 		return originalString;
 	}

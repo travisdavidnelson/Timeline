@@ -2,6 +2,10 @@ package com.tdn.timeline;
 
 import com.tdn.timeline.util.TimelineInstant;
 
+import java.time.Instant;
+import java.time.temporal.ChronoField;
+import java.time.temporal.ChronoUnit;
+
 public class Timespan {
 	private TimelineInstant start;
 	private TimelineInstant end;
@@ -35,6 +39,10 @@ public class Timespan {
 	}
 
 	public TimelineInstant getEnd() {
+		if (end == null && start != null && duration > 0l) {
+			Instant endInstant = start.getInstant().plus(duration, ChronoUnit.DAYS);
+			end = new TimelineInstant(""+duration+"d", endInstant);
+		}
 		return end;
 	}
 	public void setEnd(TimelineInstant end) {

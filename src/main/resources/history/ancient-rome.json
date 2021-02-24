@@ -3129,6 +3129,16 @@
                     "end": "30 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Actium",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/2/31 BC",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]

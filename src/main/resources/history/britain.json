@@ -4945,17 +4945,17 @@
                     "end": "12/634"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Heavenfield",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/634",
+                    "duration": "1d"
+                  }
+                }
               ]
-//              "foregroundEvents": [
-//                {
-//                  "name": "Battle of Heavenfield",
-//                  "style": "defeat",
-//                  "timespan": {
-//                    "start": "12/634",
-//                    "duration": "1m"
-//                  }
-//                }
-//              ]
             }
           ]
         }
