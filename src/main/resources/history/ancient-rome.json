@@ -3344,8 +3344,8 @@
             {
               "name": "Livia&#9792;",
               "timespan": {
-                "start": "58 BC",
-                "end": "29"
+                "start": "1/30/58 BC",
+                "end": "9/28/29"
               },
               "importance": "semimajor",
               "style": "deified",
@@ -3354,7 +3354,7 @@
                   "name": "augusta",
                   "timespan": {
                     "start": "27 BC",
-                    "end": "29"
+                    "end": "9/28/29"
                   }
                 }
               ]
@@ -3363,8 +3363,8 @@
               "name": "Tiberius",
               "style": "roman",
               "timespan": {
-                "start": "42 BC",
-                "end": "37"
+                "start": "11/16/42 BC",
+                "end": "3/16/37"
               },
               "importance": "major",
               "annotation": "Stepson of Augustus, second emperor of Rome.",
@@ -3415,8 +3415,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "14",
-                    "end": "37"
+                    "start": "9/18/14",
+                    "end": "3/16/37"
                   }
                 }
               ]
@@ -3425,8 +3425,8 @@
               "name": "Sejanus",
               "style": "roman",
               "timespan": {
-                "start": "20 BC",
-                "end": "31"
+                "start": "6/3/20 BC",
+                "end": "10/18/31"
               },
               "importance": "semimajor",
               "titles": [
@@ -3441,7 +3441,7 @@
                   "name": "consul",
                   "timespan": {
                     "start": "31",
-                    "duration": "1y"
+                    "end": "10/18/31"
                   }
                 }
               ]
@@ -3450,8 +3450,8 @@
               "name": "Germanicus",
               "style": "roman",
               "timespan": {
-                "start": "15 BC",
-                "end": "19"
+                "start": "5/24/15 BC",
+                "end": "10/10/19"
               },
               "importance": "semimajor",
               "titles": [
@@ -3466,7 +3466,7 @@
                   "name": "general",
                   "timespan": {
                     "start": "14",
-                    "end": "19"
+                    "end": "10/10/19"
                   }
                 }
               ]
@@ -3475,8 +3475,8 @@
               "name": "Caligula",
               "style": "roman",
               "timespan": {
-                "start": "12",
-                "end": "41"
+                "start": "8/31/12",
+                "end": "1/24/41"
               },
               "importance": "semimajor",
               "annotation": "\"... So much for Caligula as emperor; we must now tell of his career as a monster...\" - Suetonius",
@@ -3485,8 +3485,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "37",
-                    "end": "41"
+                    "start": "3/16/37",
+                    "end": "1/24/41"
                   }
                 }
               ]
@@ -3494,8 +3494,8 @@
             {
               "name": "Claudius",
               "timespan": {
-                "start": "10 BC",
-                "end": "54"
+                "start": "8/1/10 BC",
+                "end": "10/13/54"
               },
               "importance": "major",
               "annotation": "Uncle of Caligula, found hiding behind the curtains and declared emperor. Incorporated Britain.",
@@ -3505,8 +3505,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "41",
-                    "end": "54"
+                    "start": "1/24/41",
+                    "end": "10/13/54"
                   }
                 }
               ]
@@ -3565,16 +3565,16 @@
               "name": "Agrippina the Younger&#9792;",
               "style": "roman",
               "timespan": {
-                "start": "15",
-                "end": "59"
+                "start": "11/6/15",
+                "end": "3/23/59"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augusta",
                   "timespan": {
-                    "start": "50",
-                    "end": "59"
+                    "start": "1/1/49",
+                    "end": "3/23/59"
                   }
                 }
               ]
@@ -3583,8 +3583,8 @@
               "name": "Nero",
               "style": "roman",
               "timespan": {
-                "start": "37",
-                "end": "68"
+                "start": "12/15/37",
+                "end": "6/9/68"
               },
               "importance": "semimajor",
               "annotation": "Artist, and last of the Julio-Claudians.",
@@ -3593,8 +3593,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "54",
-                    "end": "68"
+                    "start": "10/13/54",
+                    "end": "6/9/68"
                   }
                 }
               ]
