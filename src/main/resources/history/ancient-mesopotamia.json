@@ -247,6 +247,14 @@
         "end": "224"
       },
       "style": "parthianEmpire"
+    },
+    {
+      "name": "Sassanid Empire",
+      "style": "sassanid",
+      "timespan": {
+        "start": "224",
+        "end": "651"
+      }
     }
   ],
   "dynastyGroups": [
