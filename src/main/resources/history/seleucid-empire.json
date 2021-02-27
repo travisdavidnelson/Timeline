@@ -9,14 +9,6 @@
         "end": "323 BC"
       },
       "style": "macedon"
-    },
-    {
-      "name": "Roman Empire",
-      "timespan": {
-        "start": "63 BC",
-        "end": "476"
-      },
-      "style": "romanPrincipate"
     }
   ],
   "dynastyGroups": [

@@ -26,6 +26,14 @@
         "end": "546 BC"
       },
       "style": "neobabylon"
+    },
+    {
+      "name": "Roman Empire",
+      "timespan": {
+        "start": "63 BC",
+        "end": "476"
+      },
+      "style": "romanPrincipate"
     }
   ],
   "dynastyGroups": [
@@ -994,6 +1002,32 @@
     },
     {
       "name": "Judea",
+      "backgroundEvents": [
+        {
+          "name": "First Jewish-Roman War",
+          "timespan": {
+            "start": "66",
+            "end": "73"
+          },
+          "style": "backgroundRebellion"
+        },
+        {
+          "name": "Kitos War",
+          "timespan": {
+            "start": "115",
+            "end": "117"
+          },
+          "style": "backgroundRebellion"
+        },
+        {
+          "name": "Bar Kokhba Revolt",
+          "timespan": {
+            "start": "132",
+            "end": "135"
+          },
+          "style": "backgroundRebellion"
+        }
+      ],
       "dynasties": [
         {
           "name": "Roman Judea",
