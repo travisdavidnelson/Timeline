@@ -3161,6 +3161,40 @@
       "dynasties": [
         {
           "name": "Julio-Claudians",
+          "backgroundEvents": [
+            {
+              "name": "Tiberian Reign of Terror",
+              "timespan": {
+                "start": "10/18/31",
+                "end": "3/16/37"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Caligulan Reign of Terror",
+              "timespan": {
+                "start": "6/39",
+                "end": "1/24/41"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Neronian Reign of Terror",
+              "timespan": {
+                "start": "6/62",
+                "end": "6/8/68"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Great Fire of Rome",
+              "timespan": {
+                "start": "7/18/64",
+                "duration": "1w"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
           "people": [
             {
               "name": "Augustus",
