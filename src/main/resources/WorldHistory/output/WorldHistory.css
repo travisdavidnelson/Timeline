@@ -256,7 +256,14 @@
 .etruscans 			{fill:grey;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .carthage 			{fill:orange;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .gauls 				{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.islamicCaliphate	{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.islamicCaliphate	{fill:green;	fill-opacity:0.4}
+.rashidunCaliphate	{fill:#0aad0f;	fill-opacity:0.5}
+.umayyadCaliphate	{fill:#08870c;	fill-opacity:0.5}
+.abbasidCaliphate	{fill:#26af2b;	fill-opacity:0.5}
+.fatimidCaliphate	{fill:#06840a;	fill-opacity:0.5}
+.ayyubidSultanate	{fill:#e5da06;	fill-opacity:0.5}
+.mamlukSultanate	{fill:#bfb616;	fill-opacity:0.5}
+.ottoman        	{fill:#20c925;	fill-opacity:0.5}
 .macedonianEmpire 	{fill:#577ce0;	stroke:black; stroke-width:0.1; fill-opacity:0.5}
 .hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .alamanni 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}

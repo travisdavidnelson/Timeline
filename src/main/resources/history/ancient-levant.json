@@ -34,6 +34,46 @@
         "end": "476"
       },
       "style": "romanPrincipate"
+    },
+    {
+      "name": "Byzantine Empire",
+      "timespan": {
+        "start": "476",
+        "end": "650"
+      },
+      "style": "byzantium"
+    },
+    {
+      "name": "Rashidun Caliphate",
+      "timespan": {
+        "start": "632",
+        "end": "661"
+      },
+      "style": "rashidunCaliphate"
+    },
+    {
+      "name": "Umayyad Caliphate",
+      "timespan": {
+        "start": "661",
+        "end": "750"
+      },
+      "style": "umayyadCaliphate"
+    },
+    {
+      "name": "Abbasid Caliphate",
+      "timespan": {
+        "start": "750",
+        "end": "1517"
+      },
+      "style": "abbasidCaliphate"
+    },
+    {
+      "name": "Ottoman Empire",
+      "timespan": {
+        "start": "1517",
+        "end": "1927"
+      },
+      "style": "ottoman"
     }
   ],
   "dynastyGroups": [

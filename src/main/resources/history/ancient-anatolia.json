@@ -126,12 +126,28 @@
       "style": "backgroundWar"
     },
     {
-      "name": "Byzantium",
+      "name": "Byzantine Empire",
       "timespan": {
         "start": "476",
-        "end": "1453"
+        "end": "1095"
       },
       "style": "byzantium"
+    },
+    {
+      "name": "Seljuk Sultanate",
+      "timespan": {
+        "start": "1071",
+        "end": "1240"
+      },
+      "style": "byzantium"
+    },
+    {
+      "name": "Ottoman Empire",
+      "timespan": {
+        "start": "1517",
+        "end": "1927"
+      },
+      "style": "ottoman"
     }
   ],
   "dynastyGroups": [
