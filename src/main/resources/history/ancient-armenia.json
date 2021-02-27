@@ -5,9 +5,49 @@
       "name": "Seleucid Empire",
       "timespan": {
         "start": "200 BC",
-        "end": "189 BC"
+        "end": "141 BC"
       },
       "style": "seleucid"
+    },
+    {
+      "name": "Parthian Empire",
+      "timespan": {
+        "start": "141 BC",
+        "end": "66 BC"
+      },
+      "style": "parthianEmpire"
+    },
+    {
+      "name": "Roman Republic",
+      "timespan": {
+        "start": "66 BC",
+        "end": "27 BC"
+      },
+      "style": "romanRepublic"
+    },
+    {
+      "name": "Roman Principate",
+      "timespan": {
+        "start": "27 BC",
+        "end": "235"
+      },
+      "style": "romanPrincipate"
+    },
+    {
+      "name": "Roman Dominate",
+      "timespan": {
+        "start": "235",
+        "end": "428"
+      },
+      "style": "romanDominate"
+    },
+    {
+      "name": "Sassanid Empire",
+      "style": "sassanid",
+      "timespan": {
+        "start": "428",
+        "end": "651"
+      }
     }
   ],
   "dynastyGroups": [
