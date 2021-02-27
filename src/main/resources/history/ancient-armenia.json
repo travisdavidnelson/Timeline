@@ -42,6 +42,14 @@
       "style": "romanDominate"
     },
     {
+      "name": "Roman-Sassanid War",
+      "timespan": {
+        "start": "230",
+        "end": "232"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Sassanid Empire",
       "style": "sassanid",
       "timespan": {

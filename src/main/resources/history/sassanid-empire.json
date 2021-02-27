@@ -8,6 +8,14 @@
         "start": "224",
         "end": "651"
       }
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "timespan": {
+        "start": "230",
+        "end": "232"
+      },
+      "style": "backgroundWar"
     }
   ],
   "dynastyGroups": [
