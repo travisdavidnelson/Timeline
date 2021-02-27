@@ -8,14 +8,6 @@
         "end": "189 BC"
       },
       "style": "seleucid"
-    },
-    {
-      "name": "Kingdom of Armenia",
-      "timespan": {
-        "start": "190 BC",
-        "end": "12"
-      },
-      "style": "armenia"
     }
   ],
   "dynastyGroups": [
@@ -28,7 +20,7 @@
             {
               "name": "Kingdom of Armenia",
               "timespan": {
-                "start": "321 BC",
+                "start": "380 BC",
                 "end": "200 BC"
               },
               "style": "armenia"
@@ -157,9 +149,24 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Armenia",
+      "dynasties": [
         {
           "name": "Armenia Artaxiad",
+          "backgroundEvents": [
+            {
+              "name": "Kingdom of Armenia",
+              "timespan": {
+                "start": "190 BC",
+                "end": "428"
+              },
+              "style": "armenia"
+            }
+          ],
           "people": [
             {
               "name": "Artaxias I",
