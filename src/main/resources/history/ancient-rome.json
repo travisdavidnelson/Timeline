@@ -38,7 +38,7 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "9/4/476"
+        "end": "454"
       },
       "style": "romanDominate"
     },
@@ -5233,6 +5233,48 @@
         },
         {
           "name": "Last Western Emperors",
+          "backgroundEvents": [
+            {
+              "name": "Roman Dominate",
+              "timespan": {
+                "start": "397",
+                "end": "9/4/476"
+              },
+              "style": "romanDominate"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "440",
+                "end": "443"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "447",
+                "end": "449"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "451",
+                "end": "454"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Odoacer takes over",
+              "timespan": {
+                "start": "9/476",
+                "duration": "1m"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
           "people": [
             {
               "name": "Petronius Maximus",
