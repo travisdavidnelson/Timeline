@@ -1163,13 +1163,26 @@
               ]
             },
             {
+              "name": "Joan of Arc",
+              "style": "french",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1/6/1412",
+                "end": "5/30/1431"
+              },
+              "importance": "major",
+              "annotation": "The Maid of Orleans",
+              "titles": [
+              ]
+            },
+            {
               "name": "Charles VII",
               "style": "french",
               "timespan": {
                 "start": "2/22/1403",
                 "end": "7/22/1461"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "annotation": "The Victorious or The Well-Served",
               "titles": [
                 {
