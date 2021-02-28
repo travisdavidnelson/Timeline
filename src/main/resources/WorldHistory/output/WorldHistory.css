@@ -140,7 +140,9 @@
 .ur {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
 .sanctified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
-.barbarian {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.8}
+.barbarian {fill:purple; fill-opacity:0.8}
+.germanicBarbarian {fill:#7f261f; fill-opacity:0.3}
+.foederati {fill:#991209; fill-opacity:0.4}
 .american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .colonist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
 .patriot {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
