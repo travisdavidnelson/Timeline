@@ -143,7 +143,7 @@
 .barbarian {fill:purple; fill-opacity:0.8}
 .germanicBarbarian {fill:#7f261f; fill-opacity:0.3}
 .foederati {fill:#991209; fill-opacity:0.4}
-.ostrogothicKingdom {fill:#590903; fill-opacity:0.2}
+.ostrogothicKingdom {fill:#230401; fill-opacity:0.2}
 .american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .colonist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
 .patriot {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
@@ -223,7 +223,7 @@
 .princeps 			{fill:blue;		fill-opacity:1.0}
 .quaestor 			{fill:blue;		fill-opacity:0.4}
 .rebel 			    {fill:black;	fill-opacity:0.5}
-.regent 			{fill:blue;		fill-opacity:0.8}
+.regent 			{fill:purple;		fill-opacity:0.5}
 .satrap 			{fill:blue;		fill-opacity:0.6}
 .tribune 			{fill:blue;		fill-opacity:0.5}
 .triumvir 			{fill:#551A8B;	fill-opacity:1.0}
@@ -273,6 +273,6 @@
 .vandals 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .franks 			{fill:#5894e2;		stroke:black; stroke-width:0.1; fill-opacity:0.4}
 .visigoths 			{fill:black;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.ostrogoths 		{fill:#590903;	fill-opacity:0.3}
+.ostrogoths 		{fill:#230401;	fill-opacity:0.3}
 .huns 				{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 
