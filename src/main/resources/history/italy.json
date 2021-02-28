@@ -1,0 +1,86 @@
+{
+  "name": "Political",
+  "backgroundEvents": [
+    {
+      "name": "Kingdom of Italy",
+      "timespan": {
+        "start": "476",
+        "end": "493"
+      },
+      "style": "germanicBarbarian"
+    },
+    {
+      "name": "Ostrogothic Kingdom",
+      "timespan": {
+        "start": "493",
+        "end": "553"
+      },
+      "style": "ostrogothicKingdom"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Middle Ages",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Foederati",
+          "people": [
+            {
+              "name": "Odoacer",
+              "style": "foederati",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "431",
+                "end": "493"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "476",
+                    "end": "493"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ostrogothic Kingdom",
+          "backgroundEvents": [
+            {
+              "name": "Ostrogothic Kingdom",
+              "timespan": {
+                "start": "493",
+                "end": "553"
+              },
+              "style": "ostrogoths"
+            }
+          ],
+          "people": [
+            {
+              "name": "Theodoric",
+              "style": "ostrogoths",
+              "importance": "major",
+              "timespan": {
+                "start": "453",
+                "end": "8/30/526"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "471",
+                    "end": "8/30/526"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

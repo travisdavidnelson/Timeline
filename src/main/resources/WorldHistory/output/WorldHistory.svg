@@ -321,8 +321,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hunnic_Invasion" target="_blank"><rect id="Hunnic_Invasion" x="18330" y="6699" width="10" height="1738" class="footprint"/><rect id="Hunnic_Invasion" x="18330" y="6699" width="10" height="1738" class="backgroundInvasion"/><title>Hunnic Invasion (447 - 449)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hunnic_Invasion" target="_blank"><rect id="Hunnic_Invasion" x="18350" y="6699" width="15" height="1738" class="footprint"/><rect id="Hunnic_Invasion" x="18350" y="6699" width="15" height="1738" class="backgroundInvasion"/><title>Hunnic Invasion (451 - 454)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Rome_(455)" target="_blank"><rect id="Sack_of_Rome_(455)" x="18370" y="6699" width="1" height="1738" class="footprint"/><rect id="Sack_of_Rome_(455)" x="18370" y="6699" width="1" height="1738" class="backgroundNationalCalamity"/><title>Sack of Rome (455) (455 - 455)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Italy" target="_blank"><rect id="Kingdom_of_Italy" x="18475" y="6699" width="85" height="1738" class="footprint"/><rect id="Kingdom_of_Italy" x="18475" y="6699" width="85" height="1738" class="germanicBarbarian"/><title>Kingdom of Italy (476 - 493)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Actium" target="_blank"><rect id="Battle_of_Actium" x="15948" y="6699" width="1" height="1738" class="footprint"/><rect id="Battle_of_Actium" x="15948" y="6699" width="1" height="1738" class="backgroundBattle"/><title>Battle of Actium (9/2/31 BC)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Italy" target="_blank"><rect id="Kingdom_of_Italy" x="18475" y="6699" width="85" height="1738" class="footprint"/><rect id="Kingdom_of_Italy" x="18475" y="6699" width="85" height="1738" class="germanicBarbarian"/><title>Kingdom of Italy (476 - 493)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ostrogothic_Kingdom" target="_blank"><rect id="Ostrogothic_Kingdom" x="18560" y="6699" width="300" height="1738" class="footprint"/><rect id="Ostrogothic_Kingdom" x="18560" y="6699" width="300" height="1738" class="ostrogothicKingdom"/><title>Ostrogothic Kingdom (493 - 553)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age" target="_blank"><rect id="Bronze_Age" x="75" y="8437" width="14050" height="929" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Bronze_Age" x="75" y="8437" width="14050" height="929" class="bronzeAge"  mask="url(#fadeInOutMask)"/><title>Bronze Age (c. 4000 BC - c. 400 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Iron_Age" target="_blank"><rect id="Iron_Age" x="14075" y="8437" width="2545" height="929" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Iron_Age" x="14075" y="8437" width="2545" height="929" class="ironAge"  mask="url(#fadeInOutMask)"/><title>Iron Age (c. 400 BC - c. 100)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Celtic_France" target="_blank"><rect id="Celtic_France" x="15075" y="8437" width="1545" height="929" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Celtic_France" x="15075" y="8437" width="1545" height="929" class="celt"  mask="url(#fadeInOutMask)"/><title>Celtic France (c. 200 BC - c. 100)</title></a></g>
@@ -750,6 +751,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Caligulan_Reign_of_Terror" target="_blank"><rect id="Caligulan_Reign_of_Terror" x="16292" y="6721" width="8" height="685" class="footprint"/><rect id="Caligulan_Reign_of_Terror" x="16292" y="6721" width="8" height="685" class="backgroundReignOfTerror"/><title>Caligulan Reign of Terror (6/39 - 1/24/41)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Neronian_Reign_of_Terror" target="_blank"><rect id="Neronian_Reign_of_Terror" x="16407" y="6721" width="30" height="685" class="footprint"/><rect id="Neronian_Reign_of_Terror" x="16407" y="6721" width="30" height="685" class="backgroundReignOfTerror"/><title>Neronian Reign of Terror (6/62 - 6/8/68)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Great_Fire_of_Rome" target="_blank"><rect id="Great_Fire_of_Rome" x="16417" y="6721" width="1" height="685" class="footprint"/><rect id="Great_Fire_of_Rome" x="16417" y="6721" width="1" height="685" class="backgroundNationalCalamity"/><title>Great Fire of Rome (7/18/64)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ostrogothic_Kingdom" target="_blank"><rect id="Ostrogothic_Kingdom" x="18560" y="6828" width="300" height="100" class="footprint"/><rect id="Ostrogothic_Kingdom" x="18560" y="6828" width="300" height="100" class="ostrogoths"/><title>Ostrogothic Kingdom (493 - 553)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="18345" y="9388" width="740" height="172" class="footprint"  mask="url(#fadeInMask)"/><rect id="Kent_Saxons" x="18345" y="9388" width="740" height="172" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Kent Saxons (c. 455 - 12/25/597)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="19085" y="9388" width="1135" height="172" class="footprint"/><rect id="Kent_Saxons" x="19085" y="9388" width="1135" height="172" class="angloSaxon"/><title>Kent Saxons (12/25/597 - 825)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Mons_Badonicus" target="_blank"><rect id="Battle_of_Mons_Badonicus" x="18570" y="9388" width="10" height="172" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Battle_of_Mons_Badonicus" x="18570" y="9388" width="10" height="172" class="backgroundBattle"  mask="url(#fadeInOutMask)"/><title>Battle of Mons Badonicus (c. 495 - c. 497)</title></a></g>
@@ -976,6 +978,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 		<line x1="100" y1="4516" x2="26594" y2="4516" class="timeline"/>
 		<line x1="100" y1="4516" x2="26594" y2="4516" class="timeline"/>
 		<line x1="100" y1="5385" x2="26594" y2="5385" class="timeline"/>
+		<line x1="100" y1="6699" x2="26594" y2="6699" class="timeline"/>
 		<line x1="100" y1="6699" x2="26594" y2="6699" class="timeline"/>
 		<line x1="100" y1="8437" x2="26594" y2="8437" class="timeline"/>
 		<line x1="100" y1="9366" x2="26594" y2="9366" class="timeline"/>
@@ -11871,92 +11874,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="18204" y="6790" class="semimajor">ODOACER</text></a></g>
 
-<text x="18475" y="6761" class="dynasty">FOEDERATI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Count_Theodosius" target="_blank"><rect id="Count_Theodosius" x="17645" y="6878" width="330" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Count Theodosius (c. 320 - 376)</title><g><rect x="17935" y="6878" width="35" height="25" class="general"/><title>general (368 - 375)</title></g>
+<text x="18475" y="6761" class="dynasty">FOEDERATI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theodoric" target="_blank"><rect id="Theodoric" x="18360" y="6878" width="368" height="40" class="ostrogoths"/><title>Theodoric (453 - 8/30/526)</title><g><rect x="18450" y="6878" width="278" height="40" class="king"/><title>king (471 - 8/30/526)</title></g>
 
-<text x="17649" y="6897" class="semimajor">COUNT THEODOSIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theodosius_I" target="_blank"><rect id="Theodosius_I" x="17830" y="6913" width="240" height="40" class="roman"/><title>Theodosius I (347 - 395)</title><g><rect x="17990" y="6913" width="80" height="40" class="augustus"/><title>augustus (379 - 395)</title></g>
+<text x="18363" y="6908" class="major">THEODORIC</text></a></g>
 
-<text x="17833" y="6943" class="major">THEODOSIUS I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Stilicho" target="_blank"><rect id="Stilicho" x="17840" y="6963" width="295" height="40" class="roman"  mask="url(#fadeInMask)"/><title>Stilicho (c. 359 - 408)</title><g><rect x="18010" y="6963" width="125" height="40" class="magisterMilitum"/><title>magisterMilitum (383 - 408)</title></g>
-
-<text x="17846" y="6993" class="major">STILICHO</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Arcadius" target="_blank"><rect id="Arcadius" x="17930" y="7013" width="205" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Arcadius (c. 377 - 408)</title><g><rect x="18010" y="7013" width="60" height="15" class="caesar"/><title>caesar (383 - 395)</title></g>
-<g><rect x="18070" y="7013" width="65" height="15" class="augustus"/><title>augustus (395 - 408)</title></g>
-
-<text x="17932" y="7024" class="minor">ARCADIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Pulcheria&#9792;" target="_blank"><rect id="Pulcheria&#9792;" x="18035" y="7038" width="325" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Pulcheria&#9792; (c. 398 - 453)</title><g><rect x="18165" y="7038" width="195" height="25" class="augusta"/><title>augusta (414 - 453)</title></g>
-
-<text x="18039" y="7057" class="semimajor">PULCHERIA&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theodosius_II" target="_blank"><rect id="Theodosius_II" x="18100" y="7073" width="245" height="15" class="roman"/><title>Theodosius II (401 - 450)</title><g><rect x="18105" y="7073" width="30" height="15" class="caesar"/><title>caesar (402 - 408)</title></g>
-<g><rect x="18135" y="7073" width="210" height="15" class="augustus"/><title>augustus (408 - 450)</title></g>
-
-<text x="18101" y="7084" class="minor">THEODOSIUS II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Honorius" target="_blank"><rect id="Honorius" x="18015" y="7098" width="195" height="15" class="roman"/><title>Honorius (384 - 423)</title><g><rect x="18060" y="7098" width="10" height="15" class="caesar"/><title>caesar (393 - 395)</title></g>
-<g><rect x="18070" y="7098" width="140" height="15" class="augustus"/><title>augustus (395 - 423)</title></g>
-
-<text x="18016" y="7109" class="minor">HONORIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Galla_Placidia&#9792;" target="_blank"><rect id="Galla_Placidia&#9792;" x="18070" y="7123" width="275" height="25" class="roman"/><title>Galla Placidia&#9792; (395 - 450)</title><g><rect x="18210" y="7123" width="70" height="25" class="regent"/><title>regent (423 - 437)</title></g>
-<g><rect x="18280" y="7123" width="65" height="25" class="augusta"/><title>augusta (437 - 450)</title></g>
-
-<text x="18072" y="7142" class="semimajor">GALLA PLACIDIA&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Constantius_III" target="_blank"><rect id="Constantius_III" x="17895" y="7158" width="305" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Constantius III (c. 370 - 421)</title><g><rect x="18150" y="7158" width="50" height="25" class="general"/><title>general (411 - 421)</title></g>
-<g><rect x="18155" y="7158" width="5" height="25" class="consul"/><title>consul (412 - 413)</title></g>
-<g><rect x="18175" y="7158" width="5" height="25" class="consul"/><title>consul (416 - 417)</title></g>
-<g><rect x="18190" y="7158" width="5" height="25" class="consul"/><title>consul (419 - 420)</title></g>
-<g><rect x="18200" y="7158" width="1" height="25" class="augustus"/><title>augustus (421 - 421)</title></g>
-
-<text x="17899" y="7177" class="semimajor">CONSTANTIUS III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Joannes" target="_blank"><rect id="Joannes" x="17895" y="7193" width="325" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Joannes (c. 370 - 425)</title><g><rect x="18210" y="7193" width="10" height="15" class="augustus"/><title>augustus (423 - 425)</title></g>
-
-<text x="17897" y="7204" class="minor">JOANNES</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Bonifacius" target="_blank"><rect id="Bonifacius" x="17945" y="7218" width="310" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Bonifacius (c. 380 - 432)</title><g><rect x="18210" y="7218" width="10" height="25" class="exile"/><title>exile (423 - 425)</title></g>
-<g><rect x="18220" y="7218" width="35" height="25" class="general"/><title>general (425 - 432)</title></g>
-
-<text x="17949" y="7237" class="semimajor">BONIFACIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Flavius_Aetius" target="_blank"><rect id="Flavius_Aetius" x="18025" y="7253" width="340" height="40" class="roman"  mask="url(#fadeInMask)"/><title>Flavius Aetius (c. 396 - 454)</title><g><rect x="18220" y="7253" width="145" height="40" class="magisterMilitum"/><title>magisterMilitum (425 - 454)</title></g>
-
-<text x="18031" y="7283" class="major">FLAVIUS AETIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_III" target="_blank"><rect id="Valentinian_III" x="18190" y="7303" width="180" height="15" class="roman"/><title>Valentinian III (419 - 455)</title><g><rect x="18215" y="7303" width="5" height="15" class="caesar"/><title>caesar (424 - 425)</title></g>
-<g><rect x="18220" y="7303" width="150" height="15" class="augustus"/><title>augustus (425 - 455)</title></g>
-
-<text x="18191" y="7314" class="minor">VALENTINIAN III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Jerome" target="_blank"><rect id="Jerome" x="17780" y="7328" width="415" height="25" class="sanctified"  mask="url(#fadeInMask)"/><title>Jerome (c. 347 - 420)</title>
-<text x="17784" y="7347" class="semimajor">JEROME</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Augustine_of_Hippo" target="_blank"><rect id="Augustine_of_Hippo" x="17865" y="7363" width="380" height="40" class="sanctified"/><title>Augustine of Hippo (354 - 430)</title>
-<text x="17868" y="7393" class="major">AUGUSTINE OF HIPPO</text></a></g>
-
-<text x="17935" y="6868" class="dynasty">THEODOSIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Petronius_Maximus" target="_blank"><rect id="Petronius_Maximus" x="18030" y="7485" width="342" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Petronius Maximus (c. 397 - 5/31/455)</title><g><rect x="18371" y="7485" width="1" height="15" class="augustus"/><title>augustus (3/17/455 - 5/31/455)</title></g>
-
-<text x="18032" y="7496" class="minor">PETRONIUS MAXIMUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Avitus" target="_blank"><rect id="Avitus" x="17945" y="7510" width="485" height="15" class="roman"  mask="url(#fadeInOutMask)"/><title>Avitus (c. 380 - c. 457)</title><g><rect x="18372" y="7510" width="6" height="15" class="augustus"/><title>augustus (7/455 - 10/17/456)</title></g>
-
-<text x="17947" y="7521" class="minor">AVITUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Majorian" target="_blank"><rect id="Majorian" x="18145" y="7535" width="258" height="25" class="roman"  mask="url(#fadeInMask)"/><title>Majorian (c. 420 - 8/7/461)</title><g><rect x="18381" y="7535" width="22" height="25" class="augustus"/><title>augustus (4/1/457 - 8/2/461)</title></g>
-
-<text x="18149" y="7554" class="semimajor">MAJORIAN</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ricimer" target="_blank"><rect id="Ricimer" x="18135" y="7570" width="323" height="40" class="german"  mask="url(#fadeInMask)"/><title>Ricimer (c. 418 - 8/18/472)</title><g><rect x="18400" y="7570" width="58" height="40" class="magisterMilitum"/><title>magisterMilitum (461 - 8/18/472)</title></g>
-
-<text x="18141" y="7600" class="major">RICIMER</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Libius_Severus" target="_blank"><rect id="Libius_Severus" x="18404" y="7620" width="19" height="15" class="roman"/><title>Libius Severus (11/19/461 - 8/15/465)</title><g><rect x="18404" y="7620" width="19" height="15" class="augustus"/><title>augustus (11/19/461 - 8/15/465)</title></g>
-
-<text x="18405" y="7631" class="minor">LIBIUS SEVERUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Anthemius" target="_blank"><rect id="Anthemius" x="18145" y="7645" width="313" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Anthemius (c. 420 - 7/11/472)</title><g><rect x="18431" y="7645" width="26" height="15" class="augustus"/><title>augustus (4/12/467 - 7/11/472)</title></g>
-
-<text x="18147" y="7656" class="minor">ANTHEMIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Olybrius" target="_blank"><rect id="Olybrius" x="18457" y="7670" width="2" height="8" class="roman"/><title>Olybrius (7/11/472 - 11/2/472)</title><g><rect x="18457" y="7670" width="2" height="8" class="augustus"/><title>augustus (7/11/472 - 11/2/472)</title></g>
-
-<text x="18457" y="7676" class="petty">OLYBRIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Glycerius" target="_blank"><rect id="Glycerius" x="18460" y="7688" width="7" height="8" class="roman"/><title>Glycerius (3/3/473 - 6/24/474)</title><g><rect x="18460" y="7688" width="7" height="8" class="augustus"/><title>augustus (3/3/473 - 6/24/474)</title></g>
-
-<text x="18460" y="7694" class="petty">GLYCERIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Julius_Nepos" target="_blank"><rect id="Julius_Nepos" x="18195" y="7706" width="300" height="8" class="roman"  mask="url(#fadeInMask)"/><title>Julius Nepos (c. 430 - 480)</title><g><rect x="18467" y="7706" width="6" height="8" class="augustus"/><title>augustus (6/474 - 8/28/475)</title></g>
-
-<text x="18195" y="7712" class="petty">JULIUS NEPOS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Romulus_Augustulus" target="_blank"><rect id="Romulus_Augustulus" x="18345" y="7724" width="335" height="8" class="roman"  mask="url(#fadeInOutMask)"/><title>Romulus Augustulus (c. 460 - c. 507)</title><g><rect x="18474" y="7724" width="4" height="8" class="augustus"/><title>augustus (10/31/475 - 9/4/476)</title></g>
-
-<text x="18345" y="7730" class="petty">ROMULUS AUGUSTULUS</text></a></g>
-
-<text x="18371" y="7475" class="dynasty">LAST WESTERN EMPERORS</text>
+<text x="18450" y="6868" class="dynasty">OSTROGOTHIC KINGDOM</text>
 <text x="150" y="8325" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_I" target="_blank"><rect id="Clovis_I" x="18375" y="8509" width="279" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Clovis I (c. 466 - 11/27/511)</title><g><rect x="18500" y="8509" width="150" height="40" class="minorKing"  mask="url(#fadeOutMask)"/><title>minorKing (481 - c. 509)</title></g>
 <g><rect x="18630" y="8509" width="25" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 509 - 11/27/511)</title></g>
 

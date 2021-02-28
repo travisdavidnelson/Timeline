@@ -99,7 +99,7 @@
     },
     {
       "name": "Italy",
-      "resources": "ancient-rome"
+      "resources": "ancient-rome,italy"
     },
     {
       "name": "France",
