@@ -38,7 +38,7 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "9/4/476"
+        "end": "454"
       },
       "style": "romanDominate"
     },
@@ -5233,6 +5233,16 @@
         },
         {
           "name": "Last Western Emperors",
+          "backgroundEvents": [
+            {
+              "name": "Roman Dominate",
+              "timespan": {
+                "start": "397",
+                "end": "9/4/476"
+              },
+              "style": "romanDominate"
+            }
+          ],
           "people": [
             {
               "name": "Petronius Maximus",

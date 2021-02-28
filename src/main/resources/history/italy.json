@@ -4,15 +4,15 @@
     {
       "name": "Kingdom of Italy",
       "timespan": {
-        "start": "476",
-        "end": "493"
+        "start": "454",
+        "end": "3/15/493"
       },
       "style": "germanicBarbarian"
     },
     {
       "name": "Ostrogothic Kingdom",
       "timespan": {
-        "start": "493",
+        "start": "3/15/493",
         "end": "553"
       },
       "style": "ostrogothicKingdom"
@@ -25,6 +25,16 @@
       "dynasties": [
         {
           "name": "Foederati",
+          "backgroundEvents": [
+            {
+              "name": "Massacre of Odoacer and his supporters",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "3/15/493",
+                "duration": "1m"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Odoacer",
@@ -32,7 +42,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "431",
-                "end": "493"
+                "end": "3/15/493"
               },
               "importance": "semimajor",
               "titles": [
@@ -40,7 +50,7 @@
                   "name": "king",
                   "timespan": {
                     "start": "476",
-                    "end": "493"
+                    "end": "3/15/493"
                   }
                 }
               ]
@@ -53,10 +63,18 @@
             {
               "name": "Ostrogothic Kingdom",
               "timespan": {
-                "start": "493",
+                "start": "3/15/493",
                 "end": "553"
               },
               "style": "ostrogoths"
+            },
+            {
+              "name": "Massacre of Odoacer and his supporters",
+              "style": "victory",
+              "timespan": {
+                "start": "3/15/493",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
