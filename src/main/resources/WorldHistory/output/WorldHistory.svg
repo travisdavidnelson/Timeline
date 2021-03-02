@@ -758,11 +758,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hunnic_Invasion" target="_blank"><rect id="Hunnic_Invasion" x="18350" y="7510" width="15" height="307" class="footprint"/><rect id="Hunnic_Invasion" x="18350" y="7510" width="15" height="307" class="backgroundInvasion"/><title>Hunnic Invasion (451 - 454)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Odoacer_takes_over" target="_blank"><rect id="Odoacer_takes_over" x="18478" y="7510" width="1" height="307" class="footprint"/><rect id="Odoacer_takes_over" x="18478" y="7510" width="1" height="307" class="backgroundNationalCalamity"/><title>Odoacer takes over (9/476)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Massacre_of_Odoacer_and_his_supporters" target="_blank"><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6721" width="1" height="85" class="footprint"/><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6721" width="1" height="85" class="backgroundNationalCalamity"/><title>Massacre of Odoacer and his supporters (3/15/493)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ostrogothic_Kingdom" target="_blank"><rect id="Ostrogothic_Kingdom" x="18561" y="6828" width="299" height="271" class="footprint"/><rect id="Ostrogothic_Kingdom" x="18561" y="6828" width="299" height="271" class="ostrogoths"/><title>Ostrogothic Kingdom (3/15/493 - 553)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Massacre_of_Odoacer_and_his_supporters" target="_blank"><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6828" width="1" height="271" class="footprint"/><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6828" width="1" height="271" class="victory"/><title>Massacre of Odoacer and his supporters (3/15/493)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Byzantine_invasion_of_Italy" target="_blank"><rect id="Byzantine_invasion_of_Italy" x="18777" y="6828" width="20" height="271" class="footprint"/><rect id="Byzantine_invasion_of_Italy" x="18777" y="6828" width="20" height="271" class="backgroundInvasion"/><title>Byzantine invasion of Italy (6/536 - 5/540)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Faventi" target="_blank"><rect id="Battle_of_Faventi" x="18806" y="6828" width="1" height="271" class="footprint"/><rect id="Battle_of_Faventi" x="18806" y="6828" width="1" height="271" class="victory"/><title>Battle of Faventi (5/542)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Taginae" target="_blank"><rect id="Battle_of_Taginae" x="18857" y="6828" width="1" height="271" class="footprint"/><rect id="Battle_of_Taginae" x="18857" y="6828" width="1" height="271" class="backgroundNationalCalamity"/><title>Battle of Taginae (7/552)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ostrogothic_Kingdom" target="_blank"><rect id="Ostrogothic_Kingdom" x="18561" y="6828" width="299" height="241" class="footprint"/><rect id="Ostrogothic_Kingdom" x="18561" y="6828" width="299" height="241" class="ostrogoths"/><title>Ostrogothic Kingdom (3/15/493 - 553)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Massacre_of_Odoacer_and_his_supporters" target="_blank"><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6828" width="1" height="241" class="footprint"/><rect id="Massacre_of_Odoacer_and_his_supporters" x="18561" y="6828" width="1" height="241" class="victory"/><title>Massacre of Odoacer and his supporters (3/15/493)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Byzantine_invasion_of_Italy" target="_blank"><rect id="Byzantine_invasion_of_Italy" x="18777" y="6828" width="20" height="241" class="footprint"/><rect id="Byzantine_invasion_of_Italy" x="18777" y="6828" width="20" height="241" class="backgroundInvasion"/><title>Byzantine invasion of Italy (6/536 - 5/540)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Faventi" target="_blank"><rect id="Battle_of_Faventi" x="18806" y="6828" width="1" height="241" class="footprint"/><rect id="Battle_of_Faventi" x="18806" y="6828" width="1" height="241" class="victory"/><title>Battle of Faventi (5/542)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Taginae" target="_blank"><rect id="Battle_of_Taginae" x="18857" y="6828" width="1" height="241" class="footprint"/><rect id="Battle_of_Taginae" x="18857" y="6828" width="1" height="241" class="backgroundNationalCalamity"/><title>Battle of Taginae (7/552)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="18345" y="9388" width="740" height="172" class="footprint"  mask="url(#fadeInMask)"/><rect id="Kent_Saxons" x="18345" y="9388" width="740" height="172" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Kent Saxons (c. 455 - 12/25/597)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="19085" y="9388" width="1135" height="172" class="footprint"/><rect id="Kent_Saxons" x="19085" y="9388" width="1135" height="172" class="angloSaxon"/><title>Kent Saxons (12/25/597 - 825)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Mons_Badonicus" target="_blank"><rect id="Battle_of_Mons_Badonicus" x="18570" y="9388" width="10" height="172" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Battle_of_Mons_Badonicus" x="18570" y="9388" width="10" height="172" class="backgroundBattle"  mask="url(#fadeInOutMask)"/><title>Battle of Mons Badonicus (c. 495 - c. 497)</title></a></g>
@@ -11885,28 +11885,28 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="18204" y="6790" class="semimajor">ODOACER</text></a></g>
 
-<text x="18475" y="6761" class="dynasty">FOEDERATI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theodoric" target="_blank"><rect id="Theodoric" x="18360" y="6878" width="368" height="40" class="ostrogoths"/><title>Theodoric (453 - 8/30/526)</title><g><rect x="18450" y="6878" width="278" height="40" class="king"/><title>king (471 - 8/30/526)</title></g>
+<text x="18475" y="6761" class="dynasty">FOEDERATI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theodoric" target="_blank"><rect id="Theodoric" x="18360" y="6878" width="368" height="25" class="ostrogoths"/><title>Theodoric (453 - 8/30/526)</title><g><rect x="18450" y="6878" width="278" height="25" class="king"/><title>king (471 - 8/30/526)</title></g>
 
-<text x="18363" y="6908" class="major">THEODORIC</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Amalasuintha&#9792;" target="_blank"><rect id="Amalasuintha&#9792;" x="18520" y="6928" width="252" height="25" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Amalasuintha&#9792; (c. 495 - 4/30/535)</title><g><rect x="18728" y="6928" width="43" height="25" class="regent"/><title>regent (8/30/526 - 4/30/535)</title></g>
+<text x="18362" y="6897" class="semimajor">THEODORIC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Amalasuintha&#9792;" target="_blank"><rect id="Amalasuintha&#9792;" x="18520" y="6913" width="252" height="25" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Amalasuintha&#9792; (c. 495 - 4/30/535)</title><g><rect x="18728" y="6913" width="43" height="25" class="regent"/><title>regent (8/30/526 - 4/30/535)</title></g>
 
-<text x="18524" y="6947" class="semimajor">AMALASUINTHA&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Athalaric" target="_blank"><rect id="Athalaric" x="18675" y="6963" width="94" height="8" class="ostrogoths"/><title>Athalaric (516 - 10/2/534)</title><g><rect x="18728" y="6963" width="40" height="8" class="king"/><title>king (8/30/526 - 10/2/534)</title></g>
+<text x="18524" y="6932" class="semimajor">AMALASUINTHA&#9792;</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Athalaric" target="_blank"><rect id="Athalaric" x="18675" y="6948" width="94" height="8" class="ostrogoths"/><title>Athalaric (516 - 10/2/534)</title><g><rect x="18728" y="6948" width="40" height="8" class="king"/><title>king (8/30/526 - 10/2/534)</title></g>
 
-<text x="18675" y="6969" class="petty">ATHALARIC</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theodahad" target="_blank"><rect id="Theodahad" x="18445" y="6981" width="335" height="15" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Theodahad (c. 480 - 12/536)</title><g><rect x="18768" y="6981" width="11" height="15" class="king"/><title>king (10/2/534 - 12/536)</title></g>
+<text x="18675" y="6954" class="petty">ATHALARIC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theodahad" target="_blank"><rect id="Theodahad" x="18445" y="6966" width="335" height="15" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Theodahad (c. 480 - 12/536)</title><g><rect x="18768" y="6966" width="11" height="15" class="king"/><title>king (10/2/534 - 12/536)</title></g>
 
-<text x="18447" y="6992" class="minor">THEODAHAD</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Vitiges" target="_blank"><rect id="Vitiges" x="18545" y="7006" width="260" height="15" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Vitiges (c. 500 - 542)</title><g><rect x="18775" y="7006" width="20" height="15" class="king"/><title>king (536 - 540)</title></g>
-<g><rect x="18795" y="7006" width="10" height="15" class="exile"/><title>exile (540 - 542)</title></g>
+<text x="18447" y="6977" class="minor">THEODAHAD</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Vitiges" target="_blank"><rect id="Vitiges" x="18545" y="6991" width="260" height="15" class="ostrogoths"  mask="url(#fadeInMask)"/><title>Vitiges (c. 500 - 542)</title><g><rect x="18775" y="6991" width="20" height="15" class="king"/><title>king (536 - 540)</title></g>
+<g><rect x="18795" y="6991" width="10" height="15" class="exile"/><title>exile (540 - 542)</title></g>
 
-<text x="18547" y="7017" class="minor">VITIGES</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Eraric" target="_blank"><rect id="Eraric" x="18795" y="7031" width="5" height="8" class="ostrogoths"/><title>Eraric (540 - 541)</title><g><rect x="18795" y="7031" width="5" height="8" class="king"/><title>king (540 - 541)</title></g>
+<text x="18547" y="7002" class="minor">VITIGES</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Eraric" target="_blank"><rect id="Eraric" x="18795" y="7016" width="5" height="8" class="ostrogoths"/><title>Eraric (540 - 541)</title><g><rect x="18795" y="7016" width="5" height="8" class="king"/><title>king (540 - 541)</title></g>
 
-<text x="18795" y="7037" class="petty">ERARIC</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Totila" target="_blank"><rect id="Totila" x="18800" y="7049" width="57" height="40" class="ostrogoths"/><title>Totila (541 - 7/1/552)</title><g><rect x="18800" y="7049" width="57" height="40" class="king"/><title>king (541 - 7/1/552)</title></g>
+<text x="18795" y="7022" class="petty">ERARIC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Totila" target="_blank"><rect id="Totila" x="18800" y="7034" width="57" height="25" class="ostrogoths"/><title>Totila (541 - 7/1/552)</title><g><rect x="18800" y="7034" width="57" height="25" class="king"/><title>king (541 - 7/1/552)</title></g>
 
-<text x="18803" y="7079" class="major">TOTILA</text></a></g>
+<text x="18802" y="7053" class="semimajor">TOTILA</text></a></g>
 
 <text x="18450" y="6868" class="dynasty">OSTROGOTHIC KINGDOM</text>
 <text x="150" y="8325" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_I" target="_blank"><rect id="Clovis_I" x="18375" y="8509" width="279" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Clovis I (c. 466 - 11/27/511)</title><g><rect x="18500" y="8509" width="150" height="40" class="minorKing"  mask="url(#fadeOutMask)"/><title>minorKing (481 - c. 509)</title></g>

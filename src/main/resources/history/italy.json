@@ -113,7 +113,7 @@
             {
               "name": "Theodoric",
               "style": "ostrogoths",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "453",
                 "end": "8/30/526"
@@ -227,7 +227,7 @@
             {
               "name": "Totila",
               "style": "ostrogoths",
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
