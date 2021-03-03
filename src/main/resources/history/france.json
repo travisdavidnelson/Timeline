@@ -778,6 +778,191 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Childebert I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "496",
+                "end": "12/13/558"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/27/511",
+                    "end": "12/13/558"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chlothar I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "496",
+                "end": "11/29/561"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/13/558",
+                    "end": "11/29/561"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charibert I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "517",
+                "end": "12/567"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/29/561",
+                    "end": "12/567"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chilperic I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "539",
+                "end": "9/584"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/567",
+                    "end": "9/584"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chlothar II",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "584",
+                "end": "10/18/629"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/584",
+                    "end": "10/18/629"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dagobert I",
+              "style": "franks",
+              "timespan": {
+                "start": "603",
+                "end": "1/19/639"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/18/629",
+                    "end": "1/19/639"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Clovis II",
+              "style": "franks",
+              "timespan": {
+                "start": "633",
+                "end": "11/27/657"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/19/639",
+                    "end": "11/27/657"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chlothar III",
+              "style": "franks",
+              "timespan": {
+                "start": "652",
+                "end": "5/673"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/27/657",
+                    "end": "5/673"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Childeric II",
+              "style": "franks",
+              "timespan": {
+                "start": "653",
+                "end": "9/675"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/673",
+                    "end": "9/675"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theuderic III",
+              "style": "franks",
+              "timespan": {
+                "start": "654",
+                "end": "12/23/679"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/675",
+                    "end": "12/23/679"
+                  }
+                }
+              ]
             }
           ]
         }
