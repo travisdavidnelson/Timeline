@@ -778,7 +778,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Neustrian Franks",
+          "people": [
             {
               "name": "Childebert I",
               "style": "franks",
@@ -806,7 +811,7 @@
                 "start": "496",
                 "end": "11/29/561"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -825,7 +830,7 @@
                 "start": "517",
                 "end": "12/567"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
@@ -863,7 +868,7 @@
                 "start": "584",
                 "end": "10/18/629"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -881,7 +886,7 @@
                 "start": "603",
                 "end": "1/19/639"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -917,7 +922,7 @@
                 "start": "652",
                 "end": "5/673"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -935,7 +940,7 @@
                 "start": "653",
                 "end": "9/675"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -953,12 +958,252 @@
                 "start": "654",
                 "end": "12/23/679"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "9/675",
+                    "end": "12/23/679"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Austrasian Franks",
+          "people": [
+            {
+              "name": "Theuderic I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "487",
+                "endApproximate": "true",
+                "end": "534"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/27/511",
+                    "endApproximate": "true",
+                    "end": "534"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theudebert I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "503",
+                "endApproximate": "true",
+                "end": "534"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "534",
+                    "endApproximate": "true",
+                    "end": "548"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theudebald",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "535",
+                "endApproximate": "true",
+                "end": "555"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "548",
+                    "endApproximate": "true",
+                    "end": "555"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sigebert I",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "535",
+                "endApproximate": "true",
+                "end": "575"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/29/561",
+                    "endApproximate": "true",
+                    "end": "575"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Childebert II",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "570",
+                "end": "3/595"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "575",
+                    "end": "3/595"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theudebert II",
+              "style": "franks",
+              "timespan": {
+                "start": "586",
+                "end": "612"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/595",
+                    "end": "612"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theuderic II",
+              "style": "franks",
+              "timespan": {
+                "start": "587",
+                "end": "613"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "612",
+                    "end": "613"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sigebert II",
+              "style": "franks",
+              "timespan": {
+                "start": "601",
+                "end": "12/613"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "613",
+                    "end": "12/613"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sigebert III",
+              "style": "franks",
+              "timespan": {
+                "start": "630",
+                "end": "2/1/656"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "634",
+                    "end": "2/1/656"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Childebert",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "645",
+                "end": "661"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/1/656",
+                    "end": "661"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Clovis III",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "670",
+                "end": "676"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/675",
+                    "end": "676"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dagobert II",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "650",
+                "end": "12/23/679"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "676",
                     "end": "12/23/679"
                   }
                 }
