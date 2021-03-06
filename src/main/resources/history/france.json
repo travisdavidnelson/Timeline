@@ -746,7 +746,7 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Franks",
+      "name": "Early Merovingians",
       "dynasties": [
         {
           "name": "Merovingian",
@@ -880,6 +880,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Dagobert I",
               "style": "franks",
               "timespan": {
@@ -956,15 +957,22 @@
               "style": "franks",
               "timespan": {
                 "start": "654",
-                "end": "12/23/679"
+                "end": "4/12/691"
               },
-              "importance": "petty",
+              "importance": "minor",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "minorKing",
                   "timespan": {
                     "start": "9/675",
                     "end": "12/23/679"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/23/679",
+                    "end": "4/12/691"
                   }
                 }
               ]
@@ -1081,6 +1089,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Theudebert II",
               "style": "franks",
               "timespan": {
@@ -1135,6 +1144,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Sigebert III",
               "style": "franks",
               "timespan": {

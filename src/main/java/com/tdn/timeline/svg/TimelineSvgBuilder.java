@@ -235,7 +235,7 @@ public class TimelineSvgBuilder {
 		nextPersonYStart += lifetimeYDiff;
 		for (Person lifetime : dynasty.getPeople()) {
 			if (lifetime.isPageBreak()) {
-				nextPersonYStart = textYStart;
+				nextPersonYStart = textYStart + lifetimeYDiff;
 			}
 			lifetime.setyStart(nextPersonYStart);
 			if (headerInstant == null) {
