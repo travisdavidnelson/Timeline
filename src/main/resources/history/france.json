@@ -976,6 +976,120 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Clovis IV",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "677",
+                "end": "695"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/12/691",
+                    "end": "695"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Childebert III",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "678",
+                "end": "4/23/711"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "695",
+                    "end": "4/23/711"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dagobert III",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "699",
+                "end": "12/31/715"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/23/711",
+                    "end": "12/31/715"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chilperic II",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "672",
+                "end": "2/13/721"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/31/715",
+                    "end": "2/13/721"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theuderic IV",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "712",
+                "end": "4/30/737"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/13/721",
+                    "end": "4/30/737"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Childeric III",
+              "style": "franks",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "717",
+                "end": "754"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "741",
+                    "end": "11/751"
+                  }
+                }
+              ]
             }
           ]
         },
