@@ -2113,13 +2113,6 @@
               "annotation": "The Maid of Orleans",
               "titles": [
                 {
-                  "name": "general",
-                  "timespan": {
-                    "start": "4/1429",
-                    "end": "5/23/1430"
-                  }
-                },
-                {
                   "name": "pow",
                   "timespan": {
                     "start": "5/23/1430",
