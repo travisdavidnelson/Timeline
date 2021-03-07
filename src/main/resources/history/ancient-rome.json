@@ -568,7 +568,7 @@
         "start": "165",
         "end": "180"
       },
-      "style": "backgroundPlague"
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "Parthian War",
@@ -640,7 +640,7 @@
         "start": "250",
         "end": "270"
       },
-      "style": "backgroundPlague"
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "Gothic Invasion",

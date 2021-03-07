@@ -611,7 +611,7 @@
     },
     {
       "name": "Black Death",
-      "style": "backgroundPlague",
+      "style": "backgroundPlagueMajor",
       "timespan": {
         "start": "1349",
         "end": "1351"
@@ -779,7 +779,7 @@
     },
     {
       "name": "Great Plague of London",
-      "style": "backgroundPlague",
+      "style": "backgroundPlagueMajor",
       "timespan": {
         "start": "5/1665",
         "end": "2/1666"

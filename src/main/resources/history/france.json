@@ -305,7 +305,7 @@
     },
     {
       "name": "Black Death",
-      "style": "backgroundPlague",
+      "style": "backgroundPlagueMajor",
       "timespan": {
         "start": "1349",
         "end": "1351"
