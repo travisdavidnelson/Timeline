@@ -1577,6 +1577,138 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Odo",
+              "style": "franks",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "857",
+                "end": "1/1/898"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "888",
+                    "end": "1/1/898"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles III",
+              "style": "franks",
+              "importance": "minor",
+              "annotation": "The Simple",
+              "timespan": {
+                "start": "11/17/879",
+                "end": "10/7/929"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1/898",
+                    "end": "6/29/922"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Robert I",
+              "style": "franks",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "866",
+                "end": "6/15/923"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/29/922",
+                    "end": "6/15/923"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rudolph I",
+              "style": "franks",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "890",
+                "end": "1/15/936"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/13/923",
+                    "end": "1/15/936"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis IV",
+              "style": "franks",
+              "importance": "minor",
+              "annotation": "The Transmarinus",
+              "timespan": {
+                "start": "9/920",
+                "end": "9/10/954"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/15/936",
+                    "end": "9/10/954"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lothair",
+              "style": "franks",
+              "importance": "minor",
+              "timespan": {
+                "start": "941",
+                "end": "3/2/986"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/10/954",
+                    "end": "3/2/986"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Loius V",
+              "style": "franks",
+              "importance": "petty",
+              "annotation": "The Sluggard",
+              "timespan": {
+                "start": "966",
+                "end": "5/21/987"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/2/986",
+                    "end": "5/21/987"
+                  }
+                }
+              ]
             }
           ]
         }
