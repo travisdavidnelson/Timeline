@@ -368,6 +368,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Caroline_War" target="_blank"><rect id="Caroline_War" x="22940" y="8450" width="100" height="929" class="footprint"/><rect id="Caroline_War" x="22940" y="8450" width="100" height="929" class="backgroundWar"/><title>Caroline War (1369 - 1389)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Lancastrian_War" target="_blank"><rect id="Lancastrian_War" x="23170" y="8450" width="194" height="929" class="footprint"/><rect id="Lancastrian_War" x="23170" y="8450" width="194" height="929" class="backgroundWar"/><title>Lancastrian War (1415 - 10/19/1453)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Agincourt" target="_blank"><rect id="Battle_of_Agincourt" x="23174" y="8450" width="1" height="929" class="footprint"/><rect id="Battle_of_Agincourt" x="23174" y="8450" width="1" height="929" class="backgroundBattleDefeat"/><title>Battle of Agincourt (10/25/1415)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Siege_of_Orleans" target="_blank"><rect id="Siege_of_Orleans" x="23238" y="8450" width="3" height="929" class="footprint"/><rect id="Siege_of_Orleans" x="23238" y="8450" width="3" height="929" class="backgroundBattle"/><title>Siege of Orleans (10/12/1428 - 5/8/1429)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/War_with_England" target="_blank"><rect id="War_with_England" x="23656" y="8450" width="29" height="929" class="footprint"/><rect id="War_with_England" x="23656" y="8450" width="29" height="929" class="backgroundWar"/><title>War with England (4/1512 - 1518)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Rough_Wooing" target="_blank"><rect id="Rough_Wooing" x="23809" y="8450" width="42" height="929" class="footprint"/><rect id="Rough_Wooing" x="23809" y="8450" width="42" height="929" class="backgroundForeignWar"/><title>Rough Wooing (11/24/1542 - 4/1551)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/French_Wars_of_Religion" target="_blank"><rect id="French_Wars_of_Religion" x="23905" y="8450" width="180" height="929" class="footprint"/><rect id="French_Wars_of_Religion" x="23905" y="8450" width="180" height="929" class="backgroundCivilWar"/><title>French Wars of Religion (3/1562 - 4/1598)</title></a></g>
@@ -12117,8 +12118,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Charles_VI" target="_blank"><rect id="Charles_VI" x="22939" y="8607" width="269" height="15" class="french"/><title>Charles VI (12/3/1368 - 10/21/1422) The Beloved or The Mad</title><g><rect x="22998" y="8607" width="210" height="15" class="king"/><title>king (9/16/1380 - 10/21/1422)</title></g>
 
 <text x="22940" y="8618" class="minor">CHARLES VI</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Joan_of_Arc" target="_blank"><rect id="Joan_of_Arc" x="23105" y="8632" width="147" height="40" class="french"  mask="url(#fadeInMask)"/><title>Joan of Arc (c. 1/6/1412 - 5/30/1431) The Maid of Orleans</title>
-<text x="23111" y="8662" class="major">JOAN OF ARC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Joan_of_Arc&#9792;" target="_blank"><rect id="Joan_of_Arc&#9792;" x="23105" y="8632" width="147" height="40" class="sanctified"  mask="url(#fadeInMask)"/><title>Joan of Arc&#9792; (c. 1/6/1412 - 5/30/1431) The Maid of Orleans</title><g><rect x="23241" y="8632" width="6" height="40" class="general"/><title>general (4/1429 - 5/23/1430)</title></g>
+<g><rect x="23246" y="8632" width="5" height="40" class="pow"/><title>pow (5/23/1430 - 5/30/1431)</title></g>
+<g><rect x="23241" y="8632" width="1" height="40" class="victory"/><title>Siege of Orleans (5/1429)</title></g>
+
+<text x="23111" y="8662" class="major">JOAN OF ARC&#9792;</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Charles_VII" target="_blank"><rect id="Charles_VII" x="23110" y="8682" width="292" height="25" class="french"/><title>Charles VII (2/22/1403 - 7/22/1461) The Victorious or The Well-Served</title><g><rect x="23209" y="8682" width="194" height="25" class="king"/><title>king (10/21/1422 - 7/22/1461)</title></g>
 
 <text x="23112" y="8701" class="semimajor">CHARLES VII</text></a></g>

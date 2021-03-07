@@ -352,6 +352,14 @@
       }
     },
     {
+      "name": "Siege of Orleans",
+      "timespan": {
+        "start": "10/12/1428",
+        "end": "5/8/1429"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "War with England",
       "style": "backgroundWar",
       "timespan": {
@@ -2094,8 +2102,8 @@
               ]
             },
             {
-              "name": "Joan of Arc",
-              "style": "french",
+              "name": "Joan of Arc&#9792;",
+              "style": "sanctified",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1/6/1412",
@@ -2104,6 +2112,30 @@
               "importance": "major",
               "annotation": "The Maid of Orleans",
               "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "4/1429",
+                    "end": "5/23/1430"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "5/23/1430",
+                    "end": "5/30/1431"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Siege of Orleans",
+                  "timespan": {
+                    "start": "5/1429",
+                    "duration": "1w"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
