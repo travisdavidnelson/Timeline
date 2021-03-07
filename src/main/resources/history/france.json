@@ -64,14 +64,6 @@
       "style": "franks"
     },
     {
-      "name": "Carolingian Empire",
-      "timespan": {
-        "start": "12/25/800",
-        "end": "888"
-      },
-      "style": "carolingian"
-    },
-    {
       "name": "Umayyad invasion of Gual",
       "timespan": {
         "start": "719",
@@ -86,6 +78,22 @@
         "duration": "1d"
       },
       "style": "backgroundBattleVictory"
+    },
+    {
+      "name": "Carolingian Empire",
+      "timespan": {
+        "start": "12/25/800",
+        "end": "6/20/840"
+      },
+      "style": "carolingian"
+    },
+    {
+      "name": "West Francia",
+      "timespan": {
+        "start": "6/20/840",
+        "end": "987"
+      },
+      "style": "westFrancia"
     },
     {
       "name": "Kingdom of France",
@@ -1473,6 +1481,99 @@
                   "timespan": {
                     "start": "813",
                     "end": "6/20/840"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles II",
+              "style": "franks",
+              "importance": "semimajor",
+              "annotation": "The Bald",
+              "timespan": {
+                "start": "6/13/823",
+                "end": "10/6/877"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/20/840",
+                    "end": "10/6/877"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis II",
+              "style": "franks",
+              "importance": "petty",
+              "annotation": "The Stammerer",
+              "timespan": {
+                "start": "11/1/846",
+                "end": "4/10/879"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/6/877",
+                    "end": "4/10/879"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis III",
+              "style": "franks",
+              "importance": "petty",
+              "timespan": {
+                "start": "863",
+                "end": "8/5/882"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/10/879",
+                    "end": "8/5/882"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Carloman II",
+              "style": "franks",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "866",
+                "end": "12/12/884"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/10/879",
+                    "end": "12/12/884"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles III",
+              "style": "franks",
+              "importance": "minor",
+              "timespan": {
+                "start": "6/13/839",
+                "end": "1/13/888"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/12/884",
+                    "end": "11/11/887"
                   }
                 }
               ]

@@ -332,9 +332,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Principate" target="_blank"><rect id="Roman_Principate" x="16350" y="8450" width="920" height="929" class="footprint"/><rect id="Roman_Principate" x="16350" y="8450" width="920" height="929" class="romanPrincipate"/><title>Roman Principate (51 - 235)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Dominate" target="_blank"><rect id="Roman_Dominate" x="17270" y="8450" width="1255" height="929" class="footprint"/><rect id="Roman_Dominate" x="17270" y="8450" width="1255" height="929" class="romanDominate"/><title>Roman Dominate (235 - 486)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Frankish_Kingdoms" target="_blank"><rect id="Frankish_Kingdoms" x="18525" y="8450" width="2505" height="929" class="footprint"/><rect id="Frankish_Kingdoms" x="18525" y="8450" width="2505" height="929" class="franks"/><title>Frankish Kingdoms (486 - 987)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Carolingian_Empire" target="_blank"><rect id="Carolingian_Empire" x="20099" y="8450" width="435" height="929" class="footprint"/><rect id="Carolingian_Empire" x="20099" y="8450" width="435" height="929" class="carolingian"/><title>Carolingian Empire (12/25/800 - 888)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Umayyad_invasion_of_Gual" target="_blank"><rect id="Umayyad_invasion_of_Gual" x="19690" y="8450" width="69" height="929" class="footprint"/><rect id="Umayyad_invasion_of_Gual" x="19690" y="8450" width="69" height="929" class="backgroundWar"/><title>Umayyad invasion of Gual (719 - 10/10/732)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Tours" target="_blank"><rect id="Battle_of_Tours" x="19758" y="8450" width="1" height="929" class="footprint"/><rect id="Battle_of_Tours" x="19758" y="8450" width="1" height="929" class="backgroundBattleVictory"/><title>Battle of Tours (10/10/732)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Carolingian_Empire" target="_blank"><rect id="Carolingian_Empire" x="20099" y="8450" width="197" height="929" class="footprint"/><rect id="Carolingian_Empire" x="20099" y="8450" width="197" height="929" class="carolingian"/><title>Carolingian Empire (12/25/800 - 6/20/840)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/West_Francia" target="_blank"><rect id="West_Francia" x="20297" y="8450" width="733" height="929" class="footprint"/><rect id="West_Francia" x="20297" y="8450" width="733" height="929" class="westFrancia"/><title>West Francia (6/20/840 - 987)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_France" target="_blank"><rect id="Kingdom_of_France" x="21030" y="8450" width="4012" height="929" class="footprint"/><rect id="Kingdom_of_France" x="21030" y="8450" width="4012" height="929" class="frenchMonarchy"/><title>Kingdom of France (987 - 5/5/1789)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/First_Norman_Rebellion_against_William" target="_blank"><rect id="First_Norman_Rebellion_against_William" x="21332" y="8450" width="6" height="929" class="footprint"/><rect id="First_Norman_Rebellion_against_William" x="21332" y="8450" width="6" height="929" class="backgroundCivilWarRegional"/><title>First Norman Rebellion against William (6/1047 - 8/1048)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_Norman_Rebellion_against_William" target="_blank"><rect id="Second_Norman_Rebellion_against_William" x="21355" y="8450" width="10" height="929" class="footprint"/><rect id="Second_Norman_Rebellion_against_William" x="21355" y="8450" width="10" height="929" class="backgroundCivilWarRegional"/><title>Second Norman Rebellion against William (1052 - 1054)</title></a></g>
@@ -12021,6 +12022,21 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Louis_I" target="_blank"><rect id="Louis_I" x="19985" y="8682" width="312" height="25" class="franks"/><title>Louis I (778 - 6/20/840)</title><g><rect x="20160" y="8682" width="137" height="25" class="emperor"/><title>emperor (813 - 6/20/840)</title></g>
 
 <text x="19987" y="8701" class="semimajor">LOUIS I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_II" target="_blank"><rect id="Charles_II" x="20212" y="8717" width="272" height="25" class="franks"/><title>Charles II (6/13/823 - 10/6/877) The Bald</title><g><rect x="20297" y="8717" width="186" height="25" class="king"/><title>king (6/20/840 - 10/6/877)</title></g>
+
+<text x="20214" y="8736" class="semimajor">CHARLES II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_II" target="_blank"><rect id="Louis_II" x="20329" y="8752" width="162" height="8" class="franks"/><title>Louis II (11/1/846 - 4/10/879) The Stammerer</title><g><rect x="20483" y="8752" width="8" height="8" class="king"/><title>king (10/6/877 - 4/10/879)</title></g>
+
+<text x="20329" y="8758" class="petty">LOUIS II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_III" target="_blank"><rect id="Louis_III" x="20410" y="8770" width="98" height="8" class="franks"/><title>Louis III (863 - 8/5/882)</title><g><rect x="20491" y="8770" width="17" height="8" class="king"/><title>king (4/10/879 - 8/5/882)</title></g>
+
+<text x="20410" y="8776" class="petty">LOUIS III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Carloman_II" target="_blank"><rect id="Carloman_II" x="20375" y="8788" width="145" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Carloman II (c. 866 - 12/12/884)</title><g><rect x="20491" y="8788" width="28" height="8" class="king"/><title>king (4/10/879 - 12/12/884)</title></g>
+
+<text x="20375" y="8794" class="petty">CARLOMAN II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_III" target="_blank"><rect id="Charles_III" x="20292" y="8806" width="243" height="15" class="franks"/><title>Charles III (6/13/839 - 1/13/888)</title><g><rect x="20519" y="8806" width="15" height="15" class="king"/><title>king (12/12/884 - 11/11/887)</title></g>
+
+<text x="20293" y="8817" class="minor">CHARLES III</text></a></g>
 
 <text x="19670" y="8512" class="dynasty">CAROLINGIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hugh_Capet" target="_blank"><rect id="Hugh_Capet" x="20740" y="8522" width="339" height="25" class="french"  mask="url(#fadeInMask)"/><title>Hugh Capet (c. 939 - 10/24/996)</title><g><rect x="21032" y="8522" width="47" height="25" class="king"/><title>king (7/3/987 - 10/24/996)</title></g>
 
