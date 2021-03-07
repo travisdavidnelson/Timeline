@@ -64,6 +64,30 @@
       "style": "franks"
     },
     {
+      "name": "Carolingian Empire",
+      "timespan": {
+        "start": "12/25/800",
+        "end": "888"
+      },
+      "style": "carolingian"
+    },
+    {
+      "name": "Umayyad invasion of Gual",
+      "timespan": {
+        "start": "719",
+        "end": "10/10/732"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Battle of Tours",
+      "timespan": {
+        "start": "10/10/732",
+        "duration": "1d"
+      },
+      "style": "backgroundBattleVictory"
+    },
+    {
       "name": "Kingdom of France",
       "timespan": {
         "start": "987",
@@ -1329,6 +1353,126 @@
                   "timespan": {
                     "start": "676",
                     "end": "12/23/679"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carolingians",
+      "dynasties": [
+        {
+          "name": "Carolingians",
+          "people": [
+            {
+              "name": "Charles Martel",
+              "style": "franks",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "679",
+                "end": "10/22/741"
+              },
+              "titles": [
+                {
+                  "name": "majordomo",
+                  "timespan": {
+                    "start": "715",
+                    "end": "10/22/741"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Tours",
+                  "timespan": {
+                    "start": "10/10/732",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
+              "name": "Pepin I",
+              "style": "franks",
+              "annotation": "The Short",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "714",
+                "end": "9/24/768"
+              },
+              "titles": [
+                {
+                  "name": "majordomo",
+                  "timespan": {
+                    "start": "715",
+                    "end": "9/24/768"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charlemagne",
+              "style": "franks",
+              "importance": "major",
+              "timespan": {
+                "start": "4/2/748",
+                "end": "1/28/814"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/24/768",
+                    "end": "12/25/800"
+                  }
+                },
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "12/25/800",
+                    "end": "1/28/814"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Carloman I",
+              "style": "franks",
+              "importance": "minor",
+              "timespan": {
+                "start": "6/28/751",
+                "end": "12/4/771"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/24/768",
+                    "end": "12/4/771"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis I",
+              "style": "franks",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "778",
+                "end": "6/20/840"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "813",
+                    "end": "6/20/840"
                   }
                 }
               ]
