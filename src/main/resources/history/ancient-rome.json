@@ -715,6 +715,46 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Civil War between Licinius and Constantine",
+      "timespan": {
+        "start": "314",
+        "end": "317"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Cibalae",
+      "timespan": {
+        "start": "10/8/314",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Mardia",
+      "timespan": {
+        "start": "317",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Civil War between Licinius and Constantine",
+      "timespan": {
+        "start": "323",
+        "end": "9/18/324"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Chrysopolis",
+      "timespan": {
+        "start": "9/18/324",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Massacre of the Constantinian Princes",
       "timespan": {
         "start": "5/337",
@@ -4659,8 +4699,8 @@
               "name": "Diocletian",
               "style": "deified",
               "timespan": {
-                "start": "244",
-                "end": "311"
+                "start": "12/22/244",
+                "end": "12/3/311"
               },
               "importance": "transformational",
               "annotation": "Created the Tetrarchy.",
@@ -4669,27 +4709,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "285",
-                    "end": "305"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Maximian",
-              "style": "romanNewMan",
-              "timespan": {
-                "startApproximate": true,
-                "start": "250",
-                "end": "310"
-              },
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "285",
-                    "end": "305"
+                    "start": "11/20/284",
+                    "end": "5/1/305"
                   }
                 }
               ]
@@ -4700,22 +4721,81 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "260",
-                "end": "311"
+                "end": "5/311"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "293",
-                    "end": "305"
+                    "start": "3/1/293",
+                    "end": "5/1/305"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "305",
-                    "end": "311"
+                    "start": "5/1/305",
+                    "end": "5/311"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Maximian",
+              "style": "romanNewMan",
+              "timespan": {
+                "startApproximate": true,
+                "start": "250",
+                "end": "7/310"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "7/21/285",
+                    "end": "4/2/286"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "4/2/286",
+                    "end": "5/1/305"
+                  }
+                },
+                {
+                  "name": "usurper",
+                  "timespan": {
+                    "start": "10/306",
+                    "end": "11/11/308"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Constantius I Chlorus",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "3/31/250",
+                "end": "7/25/306"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "3/1/293",
+                    "end": "5/1/305"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "5/1/305",
+                    "end": "7/25/306"
                   }
                 }
               ]
@@ -4751,16 +4831,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "278",
-                "end": "312"
+                "start": "276",
+                "end": "10/28/312"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "306",
-                    "end": "312"
+                    "start": "10/28/306",
+                    "end": "10/28/312"
                   }
                 }
               ]
@@ -4771,15 +4851,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "270",
-                "end": "313"
+                "end": "7/313"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "5/1/305",
+                    "end": "310"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "311",
-                    "end": "313"
+                    "start": "310",
+                    "end": "7/313"
                   }
                 }
               ]
@@ -4789,16 +4876,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "263",
-                "end": "325"
+                "start": "265",
+                "end": "1/325"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "308",
-                    "end": "324"
+                    "start": "11/11/308",
+                    "end": "9/18/324"
                   }
                 }
               ]

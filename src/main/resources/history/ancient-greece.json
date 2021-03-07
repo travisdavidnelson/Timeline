@@ -213,6 +213,46 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Civil War between Licinius and Constantine",
+      "timespan": {
+        "start": "314",
+        "end": "317"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Cibalae",
+      "timespan": {
+        "start": "10/8/314",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Mardia",
+      "timespan": {
+        "start": "317",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Civil War between Licinius and Constantine",
+      "timespan": {
+        "start": "323",
+        "end": "9/18/324"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Chrysopolis",
+      "timespan": {
+        "start": "9/18/324",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Massacre of the Constantinian Princes",
       "timespan": {
         "start": "5/337",
@@ -742,32 +782,6 @@
         {
           "name": "Constantinians",
           "people": [
-            {
-              "name": "Constantius I Chlorus",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "250",
-                "end": "306"
-              },
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "293",
-                    "end": "305"
-                  }
-                },
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "305",
-                    "end": "306"
-                  }
-                }
-              ]
-            },
             {
               "name": "Helena&#9792;",
               "timespan": {
