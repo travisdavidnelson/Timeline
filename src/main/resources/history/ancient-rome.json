@@ -5243,6 +5243,22 @@
               "style": "romanDominate"
             },
             {
+              "name": "Crossing of the Rhine",
+              "timespan": {
+                "start": "406",
+                "end": "406"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Sack of Rome (410)",
+              "timespan": {
+                "start": "410",
+                "end": "410"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
               "name": "Hunnic Invasion",
               "timespan": {
                 "start": "440",
@@ -5265,6 +5281,14 @@
                 "end": "454"
               },
               "style": "backgroundInvasion"
+            },
+            {
+              "name": "Sack of Rome (455)",
+              "timespan": {
+                "start": "455",
+                "end": "455"
+              },
+              "style": "backgroundNationalCalamity"
             },
             {
               "name": "Odoacer takes over",

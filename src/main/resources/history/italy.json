@@ -10,6 +10,14 @@
       "style": "germanicBarbarian"
     },
     {
+      "name": "Sack of Rome (455)",
+      "timespan": {
+        "start": "455",
+        "end": "455"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Ostrogothic Kingdom",
       "timespan": {
         "start": "3/15/493",
