@@ -5028,16 +5028,16 @@
               "name": "Theodosius I",
               "style": "roman",
               "timespan": {
-                "start": "347",
-                "end": "395"
+                "start": "1/11/347",
+                "end": "1/17/395"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "379",
-                    "end": "395"
+                    "start": "1/19/379",
+                    "end": "1/17/395"
                   }
                 }
               ]
@@ -5048,7 +5048,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "359",
-                "end": "408"
+                "end": "8/22/408"
               },
               "importance": "major",
               "titles": [
@@ -5056,7 +5056,7 @@
                   "name": "magisterMilitum",
                   "timespan": {
                     "start": "383",
-                    "end": "408"
+                    "end": "8/22/408"
                   }
                 }
               ]
@@ -5066,15 +5066,15 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "377",
-                "end": "408"
+                "start": "1/1/377",
+                "end": "5/1/408"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "383",
+                    "start": "1/383",
                     "end": "395"
                   }
                 },
@@ -5082,7 +5082,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "395",
-                    "end": "408"
+                    "end": "5/1/408"
                   }
                 }
               ]
@@ -5092,8 +5092,8 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "398",
-                "end": "453"
+                "start": "1/19/398",
+                "end": "7/453"
               },
               "importance": "semimajor",
               "titles": [
@@ -5101,7 +5101,7 @@
                   "name": "augusta",
                   "timespan": {
                     "start": "414",
-                    "end": "453"
+                    "end": "7/453"
                   }
                 }
               ]
@@ -5110,23 +5110,23 @@
               "name": "Theodosius II",
               "style": "roman",
               "timespan": {
-                "start": "401",
-                "end": "450"
+                "start": "4/10/401",
+                "end": "7/28/450"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "402",
-                    "end": "408"
+                    "start": "1/402",
+                    "end": "5/1/408"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "408",
-                    "end": "450"
+                    "start": "5/1/408",
+                    "end": "7/28/450"
                   }
                 }
               ]
@@ -5135,15 +5135,15 @@
               "name": "Honorius",
               "style": "roman",
               "timespan": {
-                "start": "384",
-                "end": "423"
+                "start": "9/9/384",
+                "end": "8/15/423"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "393",
+                    "start": "1/23/393",
                     "end": "395"
                   }
                 },
@@ -5151,7 +5151,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "395",
-                    "end": "423"
+                    "end": "8/15/423"
                   }
                 }
               ]
@@ -5160,15 +5160,15 @@
               "name": "Galla Placidia&#9792;",
               "style": "roman",
               "timespan": {
-                "start": "395",
-                "end": "450"
+                "start": "388",
+                "end": "11/27/450"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "regent",
                   "timespan": {
-                    "start": "423",
+                    "start": "8/15/423",
                     "end": "437"
                   }
                 },
@@ -5176,7 +5176,7 @@
                   "name": "augusta",
                   "timespan": {
                     "start": "437",
-                    "end": "450"
+                    "end": "11/27/450"
                   }
                 }
               ]
@@ -5187,7 +5187,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "370",
-                "end": "421"
+                "end": "9/2/421"
               },
               "importance": "semimajor",
               "titles": [
@@ -5222,8 +5222,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "421",
-                    "end": "421"
+                    "start": "2/8/421",
+                    "end": "9/2/421"
                   }
                 }
               ]
@@ -5234,15 +5234,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "370",
-                "end": "425"
+                "end": "7/425"
               },
               "importance": "minor",
               "titles": [
                 {
-                  "name": "augustus",
+                  "name": "usurper",
                   "timespan": {
-                    "start": "423",
-                    "end": "425"
+                    "start": "11/20/423",
+                    "end": "7/425"
                   }
                 }
               ]
@@ -5250,13 +5250,15 @@
             {
               "name": "Bonifacius",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "380",
-                "end": "432"
-              },
               "importance": "semimajor",
               "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "413",
+                    "end": "423"
+                  }
+                },
                 {
                   "name": "exile",
                   "timespan": {
@@ -5278,8 +5280,8 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "396",
-                "end": "454"
+                "start": "391",
+                "end": "9/21/454"
               },
               "importance": "major",
               "titles": [
@@ -5287,7 +5289,7 @@
                   "name": "magisterMilitum",
                   "timespan": {
                     "start": "425",
-                    "end": "454"
+                    "end": "9/21/454"
                   }
                 }
               ]
@@ -5296,8 +5298,8 @@
               "name": "Valentinian III",
               "style": "roman",
               "timespan": {
-                "start": "419",
-                "end": "455"
+                "start": "7/2/419",
+                "end": "3/16/455"
               },
               "importance": "minor",
               "titles": [
@@ -5305,14 +5307,14 @@
                   "name": "caesar",
                   "timespan": {
                     "start": "424",
-                    "end": "425"
+                    "end": "10/23/425"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "425",
-                    "end": "455"
+                    "start": "10/23/425",
+                    "end": "3/16/455"
                   }
                 }
               ]
@@ -5321,8 +5323,8 @@
               "name": "Jerome",
               "timespan": {
                 "startApproximate": true,
-                "start": "347",
-                "end": "420"
+                "start": "342",
+                "end": "9/30/420"
               },
               "importance": "semimajor",
               "style": "sanctified"
@@ -5330,8 +5332,8 @@
             {
               "name": "Augustine of Hippo",
               "timespan": {
-                "start": "354",
-                "end": "430"
+                "start": "11/13/354",
+                "end": "8/28/430"
               },
               "importance": "major",
               "style": "sanctified"
