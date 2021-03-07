@@ -4905,16 +4905,26 @@
               "name": "Valentinian I",
               "style": "roman",
               "timespan": {
-                "start": "321",
-                "end": "375"
+                "start": "7/3/321",
+                "end": "11/17/375"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "364",
-                    "end": "375"
+                    "start": "2/26/364",
+                    "end": "11/17/375"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Solicinium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/368",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -4924,15 +4934,25 @@
               "style": "roman",
               "timespan": {
                 "start": "328",
-                "end": "378"
+                "end": "8/9/378"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "364",
-                    "end": "378"
+                    "start": "3/28/364",
+                    "end": "8/9/378"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Adrianople",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/368",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -4941,23 +4961,23 @@
               "name": "Gratian",
               "style": "roman",
               "timespan": {
-                "start": "359",
-                "end": "383"
+                "start": "4/18/359",
+                "end": "8/25/383"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "367",
-                    "end": "375"
+                    "start": "8/24/367",
+                    "end": "11/17/375"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "375",
-                    "end": "383"
+                    "start": "11/17/375",
+                    "end": "8/25/383"
                   }
                 }
               ]
@@ -4967,15 +4987,15 @@
               "style": "roman",
               "timespan": {
                 "start": "371",
-                "end": "392"
+                "end": "5/15/392"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "375",
-                    "end": "392"
+                    "start": "11/22/375",
+                    "end": "5/15/392"
                   }
                 }
               ]

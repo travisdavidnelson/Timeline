@@ -11804,17 +11804,19 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="17374" y="8055" class="semimajor">LICINIUS I</text></a></g>
 
-<text x="17519" y="7786" class="dynasty">TETRARCHY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_I" target="_blank"><rect id="Valentinian_I" x="17700" y="6784" width="270" height="25" class="roman"/><title>Valentinian I (321 - 375)</title><g><rect x="17915" y="6784" width="55" height="25" class="augustus"/><title>augustus (364 - 375)</title></g>
+<text x="17519" y="7786" class="dynasty">TETRARCHY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_I" target="_blank"><rect id="Valentinian_I" x="17702" y="6784" width="272" height="25" class="roman"/><title>Valentinian I (7/3/321 - 11/17/375)</title><g><rect x="17915" y="6784" width="59" height="25" class="augustus"/><title>augustus (2/26/364 - 11/17/375)</title></g>
+<g><rect x="17937" y="6784" width="1" height="25" class="victory"/><title>Battle of Solicinium (6/368)</title></g>
 
-<text x="17702" y="6803" class="semimajor">VALENTINIAN I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Valens" target="_blank"><rect id="Valens" x="17735" y="6819" width="250" height="15" class="roman"/><title>Valens (328 - 378)</title><g><rect x="17915" y="6819" width="70" height="15" class="augustus"/><title>augustus (364 - 378)</title></g>
+<text x="17704" y="6803" class="semimajor">VALENTINIAN I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Valens" target="_blank"><rect id="Valens" x="17735" y="6819" width="253" height="15" class="roman"/><title>Valens (328 - 8/9/378)</title><g><rect x="17916" y="6819" width="72" height="15" class="augustus"/><title>augustus (3/28/364 - 8/9/378)</title></g>
+<g><rect x="17937" y="6819" width="1" height="15" class="defeat"/><title>Battle of Adrianople (6/368)</title></g>
 
 <text x="17736" y="6830" class="minor">VALENS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Gratian" target="_blank"><rect id="Gratian" x="17890" y="6844" width="120" height="15" class="roman"/><title>Gratian (359 - 383)</title><g><rect x="17930" y="6844" width="40" height="15" class="caesar"/><title>caesar (367 - 375)</title></g>
-<g><rect x="17970" y="6844" width="40" height="15" class="augustus"/><title>augustus (375 - 383)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gratian" target="_blank"><rect id="Gratian" x="17891" y="6844" width="122" height="15" class="roman"/><title>Gratian (4/18/359 - 8/25/383)</title><g><rect x="17933" y="6844" width="41" height="15" class="caesar"/><title>caesar (8/24/367 - 11/17/375)</title></g>
+<g><rect x="17974" y="6844" width="39" height="15" class="augustus"/><title>augustus (11/17/375 - 8/25/383)</title></g>
 
-<text x="17891" y="6855" class="minor">GRATIAN</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_II" target="_blank"><rect id="Valentinian_II" x="17950" y="6869" width="105" height="15" class="roman"/><title>Valentinian II (371 - 392)</title><g><rect x="17970" y="6869" width="85" height="15" class="augustus"/><title>augustus (375 - 392)</title></g>
+<text x="17892" y="6855" class="minor">GRATIAN</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_II" target="_blank"><rect id="Valentinian_II" x="17950" y="6869" width="107" height="15" class="roman"/><title>Valentinian II (371 - 5/15/392)</title><g><rect x="17974" y="6869" width="82" height="15" class="augustus"/><title>augustus (11/22/375 - 5/15/392)</title></g>
 
 <text x="17951" y="6880" class="minor">VALENTINIAN II</text></a></g>
 
