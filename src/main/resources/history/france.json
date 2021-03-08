@@ -2466,6 +2466,85 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Louis XVII",
+              "style": "french",
+              "timespan": {
+                "start": "3/27/1785",
+                "end": "6/8/1795"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/21/1793",
+                    "end": "6/8/1795"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis XVIII",
+              "style": "french",
+              "timespan": {
+                "start": "11/17/1755",
+                "end": "9/16/1824"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/6/1814",
+                    "end": "3/20/1815"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/8/1815",
+                    "end": "9/16/1824"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles X",
+              "style": "french",
+              "timespan": {
+                "start": "10/9/1757",
+                "end": "11/6/1836"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/16/1824",
+                    "end": "8/2/1830"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Louis Philippe I",
+              "style": "french",
+              "timespan": {
+                "start": "10/6/1773",
+                "end": "8/26/1850"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/2/1830",
+                    "end": "2/24/1848"
+                  }
+                }
+              ]
             }
           ]
         }
