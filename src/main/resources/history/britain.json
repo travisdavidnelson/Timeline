@@ -6878,6 +6878,38 @@
               ]
             },
             {
+              "name": "George Canning",
+              "style": "tory",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "4/11/1770",
+                "end": "8/8/1827"
+              },
+              "titles": [
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "3/25/1807",
+                    "end": "10/11/1809"
+                  }
+                },
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "9/13/1822",
+                    "end": "4/12/1827"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/12/1827",
+                    "end": "8/8/1827"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Arthur Wellesley",
               "style": "tory",
               "importance": "major",
@@ -6943,7 +6975,6 @@
               "name": "Robert Peel",
               "style": "conservative",
               "importance": "minor",
-              "annotation": "2nd Earl Grey",
               "timespan": {
                 "start": "2/5/1788",
                 "end": "7/2/1850"
