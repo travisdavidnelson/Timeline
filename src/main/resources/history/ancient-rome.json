@@ -240,7 +240,7 @@
         "start": "264 BC",
         "end": "241 BC"
       },
-      "style": "backgroundForeignWarVictory"
+      "style": "backgroundWar"
     },
     {
       "name": "First Illyrian War",
@@ -272,7 +272,7 @@
         "start": "218 BC",
         "end": "201 BC"
       },
-      "style": "backgroundForeignWarVictory"
+      "style": "backgroundWar"
     },
     {
       "name": "Third Punic War",
@@ -489,6 +489,14 @@
         "end": "203 BC"
       },
       "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Zama",
+      "timespan": {
+        "start": "10/19/202 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundForeignWarVictory"
     },
     {
       "name": "Battle of Cannae",
@@ -2549,6 +2557,16 @@
                     "start": "205 BC",
                     "duration": "1y"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Zama",
+                  "timespan": {
+                    "start": "10/19/202 BC",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
