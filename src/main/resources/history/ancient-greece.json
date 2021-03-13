@@ -1072,11 +1072,11 @@
       ]
     },
     {
-      "name": "Last Western Emperors",
+      "name": "Eastern Roman Empire",
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Early Byzantine Emperors",
+          "name": "Eastern Roman Empire",
           "people": [
             {
               "name": "Marcian",
@@ -1406,7 +1406,13 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Eastern Roman Empire",
+      "yStart": 0,
+      "dynasties": [
         {
           "name": "Heraclians",
           "people": [
@@ -1533,7 +1539,7 @@
           ]
         },
         {
-          "name": "Twenty Years' Anarchy",
+          "name": "Anarchy",
           "people": [
             {
               "name": "Leontios",
@@ -1635,7 +1641,7 @@
       ]
     },
     {
-      "name": "Middle Byzantine Emperors",
+      "name": "Eastern Roman Empire",
       "yStart": 0,
       "dynasties": [
         {
@@ -1899,7 +1905,13 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Eastern Roman Empire",
+      "yStart": 0,
+      "dynasties": [
         {
           "name": "Macedonians",
           "people": [
@@ -2684,7 +2696,13 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Eastern Roman Empire",
+      "yStart": 0,
+      "dynasties": [
         {
           "name": "Palaiologos",
           "people": [
