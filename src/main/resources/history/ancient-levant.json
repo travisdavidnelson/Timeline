@@ -836,6 +836,7 @@
           ]
         },
         {
+          "mark": true,
           "name": "Tyre I",
           "backgroundEvents": [
             {
@@ -909,7 +910,8 @@
           ]
         },
         {
-          "name": "Tyre II",
+          "pageBreak": true,
+          "name": "II",
           "backgroundEvents": [
             {
               "name": "Type II",
@@ -966,7 +968,8 @@
           ]
         },
         {
-          "name": "Tyre III",
+          "pageBreak": true,
+          "name": "III",
           "backgroundEvents": [
             {
               "name": "Type II",
