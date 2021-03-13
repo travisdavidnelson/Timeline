@@ -53,7 +53,7 @@
               },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "211",
                     "end": "242"
@@ -67,7 +67,7 @@
               "importance": "major",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "4/12/240",
                     "end": "5/270"
@@ -81,7 +81,7 @@
               "importance": "minor",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "5/270",
                     "end": "6/271"
@@ -95,7 +95,7 @@
               "importance": "semimajor",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "6/271",
                     "end": "9/274"
@@ -109,7 +109,7 @@
               "importance": "semimajor",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "9/274",
                     "end": "293"
@@ -123,10 +123,478 @@
               "importance": "petty",
               "titles": [
                 {
-                  "name": "king",
+                  "name": "kingOfKings",
                   "timespan": {
                     "start": "293",
                     "duration": "4m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Narseh",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "230",
+                "end": "303"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "293",
+                    "end": "303"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hormizd II",
+              "style": "sassanid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "303",
+                    "end": "309"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Adur Narseh",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "309",
+                    "duration": "3m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Adur Narseh",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "309",
+                    "duration": "3m"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Shapur II",
+              "style": "sassanid",
+              "importance": "major",
+              "timespan": {
+                "start": "309",
+                "end": "379"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "309",
+                    "end": "379"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ardashir II",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "310",
+                "end": "383"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "379",
+                    "end": "383"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shapur III",
+              "style": "sassanid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "383",
+                    "end": "388"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram IV",
+              "style": "sassanid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "388",
+                    "end": "399"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yazdegerd I",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "399",
+                    "end": "420"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shapur IV",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "415",
+                    "end": "420"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Khosrow",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "420",
+                    "duration": "3m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram V",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "400",
+                "end": "438"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "420",
+                    "end": "438"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yazdegerd II",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "438",
+                    "end": "457"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hormizd III",
+              "style": "sassanid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "457",
+                    "end": "459"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Peroz I",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "459",
+                    "end": "484"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Balash",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "484",
+                    "end": "488"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Kavad I",
+              "style": "sassanid",
+              "importance": "major",
+              "timespan": {
+                "start": "473",
+                "end": "9/13/531"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "488",
+                    "end": "496"
+                  }
+                },
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "498",
+                    "end": "9/13/531"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jamasp",
+              "style": "sassanid",
+              "importance": "minor",
+              "timespan": {
+                "start": "473",
+                "end": "9/13/531"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "496",
+                    "end": "498"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "498",
+                    "endApproximate": "true",
+                    "end": "540"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Khosrow I",
+              "style": "sassanid",
+              "importance": "major",
+              "timespan": {
+                "start": "512",
+                "end": "2/579"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "9/13/531",
+                    "end": "2/579"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hormizd IV",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "540",
+                "end": "6/590"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "2/579",
+                    "end": "6/590"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Khosrow II",
+              "style": "sassanid",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "570",
+                "end": "2/28/628"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "6/590",
+                    "end": "8/590"
+                  }
+                },
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "591",
+                    "end": "2/28/628"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram Chobin",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "550",
+                "end": "591"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "8/590",
+                    "end": "591"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kavad II",
+              "style": "sassanid",
+              "importance": "minor",
+              "timespan": {
+                "start": "590",
+                "end": "9/6/628"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "2/28/628",
+                    "end": "9/6/628"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ardashir III",
+              "style": "sassanid",
+              "importance": "petty",
+              "timespan": {
+                "start": "621",
+                "end": "4/27/630"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "9/6/628",
+                    "end": "4/27/630"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shahrbaraz",
+              "style": "sassanid",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "600",
+                "end": "6/9/630"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "4/27/630",
+                    "end": "6/9/630"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Boran&#9792;",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "590",
+                "end": "6/632"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "630",
+                    "end": "6/632"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yazdegerd III",
+              "style": "sassanid",
+              "importance": "minor",
+              "timespan": {
+                "start": "624",
+                "end": "651"
+              },
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "6/16/632",
+                    "end": "651"
                   }
                 }
               ]

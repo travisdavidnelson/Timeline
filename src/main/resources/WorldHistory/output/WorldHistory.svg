@@ -751,8 +751,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Rebellion_in_Persia" target="_blank"><rect id="Rebellion_in_Persia" x="13490" y="4783" width="1" height="271" class="footprint"/><rect id="Rebellion_in_Persia" x="13490" y="4783" width="1" height="271" class="backgroundRebellion"/><title>Rebellion in Persia (522 BC - 522 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Revolution_of_Darius" target="_blank"><rect id="Revolution_of_Darius" x="13493" y="4783" width="1" height="271" class="footprint"/><rect id="Revolution_of_Darius" x="13493" y="4783" width="1" height="271" class="backgroundRevolution"/><title>Revolution of Darius (9/522 BC - 9/522 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Revolution_of_Darius" target="_blank"><rect id="Revolution_of_Darius" x="13493" y="5076" width="1" height="260" class="footprint"/><rect id="Revolution_of_Darius" x="13493" y="5076" width="1" height="260" class="backgroundRevolution"/><title>Revolution of Darius (9/522 BC - 9/522 BC)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sassanid_Empire" target="_blank"><rect id="Sassanid_Empire" x="17150" y="4551" width="2200" height="263" class="footprint"/><rect id="Sassanid_Empire" x="17150" y="4551" width="2200" height="263" class="sassanid"/><title>Sassanid Empire (211 - 651)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Roman-Sassanid_War" target="_blank"><rect id="Roman-Sassanid_War" x="17245" y="4551" width="10" height="263" class="footprint"/><rect id="Roman-Sassanid_War" x="17245" y="4551" width="10" height="263" class="backgroundWar"/><title>Roman-Sassanid War (230 - 232)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sassanid_Empire" target="_blank"><rect id="Sassanid_Empire" x="17150" y="4551" width="2200" height="423" class="footprint"/><rect id="Sassanid_Empire" x="17150" y="4551" width="2200" height="423" class="sassanid"/><title>Sassanid Empire (211 - 651)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Roman-Sassanid_War" target="_blank"><rect id="Roman-Sassanid_War" x="17245" y="4551" width="10" height="423" class="footprint"/><rect id="Roman-Sassanid_War" x="17245" y="4551" width="10" height="423" class="backgroundWar"/><title>Roman-Sassanid War (230 - 232)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Macedon" target="_blank"><rect id="Kingdom_of_Macedon" x="14140" y="5420" width="345" height="246" class="footprint"/><rect id="Kingdom_of_Macedon" x="14140" y="5420" width="345" height="246" class="macedon"/><title>Kingdom of Macedon (392 BC - 323 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Republic" target="_blank"><rect id="Roman_Republic" x="15260" y="5420" width="110" height="85" class="footprint"/><rect id="Roman_Republic" x="15260" y="5420" width="110" height="85" class="romanRepublic"/><title>Roman Republic (168 BC - 146 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mamilian_Commision" target="_blank"><rect id="Mamilian_Commision" x="15555" y="6912" width="15" height="680" class="footprint"/><rect id="Mamilian_Commision" x="15555" y="6912" width="15" height="680" class="commission"/><title>Mamilian Commision (109 BC - 106 BC)</title></a></g>
@@ -10788,24 +10788,108 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="15917" y="5100" class="semimajor">PHRAATES IV</text></a></g>
 
-<text x="14865" y="4591" class="dynasty">PARTHIAN EMPIRE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ardashir_I" target="_blank"><rect id="Ardashir_I" x="16995" y="4601" width="310" height="40" class="sassanid"/><title>Ardashir I (180 - 242)</title><g><rect x="17150" y="4601" width="155" height="40" class="king"/><title>king (211 - 242)</title></g>
+<text x="14865" y="4591" class="dynasty">PARTHIAN EMPIRE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ardashir_I" target="_blank"><rect id="Ardashir_I" x="16995" y="4601" width="310" height="40" class="sassanid"/><title>Ardashir I (180 - 242)</title><g><rect x="17150" y="4601" width="155" height="40" class="kingOfKings"/><title>kingOfKings (211 - 242)</title></g>
 
 <text x="16998" y="4631" class="major">ARDASHIR I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Shapur_I" target="_blank"><rect id="Shapur_I" x="17296" y="4651" width="150" height="40" class="sassanid"/><title>Shapur I (4/12/240 - 5/270)</title><g><rect x="17296" y="4651" width="150" height="40" class="king"/><title>king (4/12/240 - 5/270)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shapur_I" target="_blank"><rect id="Shapur_I" x="17296" y="4651" width="150" height="40" class="sassanid"/><title>Shapur I (4/12/240 - 5/270)</title><g><rect x="17296" y="4651" width="150" height="40" class="kingOfKings"/><title>kingOfKings (4/12/240 - 5/270)</title></g>
 
 <text x="17299" y="4681" class="major">SHAPUR I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hormizd_I" target="_blank"><rect id="Hormizd_I" x="17446" y="4701" width="5" height="15" class="sassanid"/><title>Hormizd I (5/270 - 6/271)</title><g><rect x="17446" y="4701" width="5" height="15" class="king"/><title>king (5/270 - 6/271)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hormizd_I" target="_blank"><rect id="Hormizd_I" x="17446" y="4701" width="5" height="15" class="sassanid"/><title>Hormizd I (5/270 - 6/271)</title><g><rect x="17446" y="4701" width="5" height="15" class="kingOfKings"/><title>kingOfKings (5/270 - 6/271)</title></g>
 
 <text x="17447" y="4712" class="minor">HORMIZD I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_I" target="_blank"><rect id="Bahram_I" x="17452" y="4726" width="16" height="25" class="sassanid"/><title>Bahram I (6/271 - 9/274)</title><g><rect x="17452" y="4726" width="16" height="25" class="king"/><title>king (6/271 - 9/274)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_I" target="_blank"><rect id="Bahram_I" x="17452" y="4726" width="16" height="25" class="sassanid"/><title>Bahram I (6/271 - 9/274)</title><g><rect x="17452" y="4726" width="16" height="25" class="kingOfKings"/><title>kingOfKings (6/271 - 9/274)</title></g>
 
 <text x="17454" y="4745" class="semimajor">BAHRAM I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_II" target="_blank"><rect id="Bahram_II" x="17468" y="4761" width="92" height="25" class="sassanid"/><title>Bahram II (9/274 - 293)</title><g><rect x="17468" y="4761" width="92" height="25" class="king"/><title>king (9/274 - 293)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_II" target="_blank"><rect id="Bahram_II" x="17468" y="4761" width="92" height="25" class="sassanid"/><title>Bahram II (9/274 - 293)</title><g><rect x="17468" y="4761" width="92" height="25" class="kingOfKings"/><title>kingOfKings (9/274 - 293)</title></g>
 
 <text x="17470" y="4780" class="semimajor">BAHRAM II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_III" target="_blank"><rect id="Bahram_III" x="17560" y="4796" width="2" height="8" class="sassanid"/><title>Bahram III (293 - 120d)</title><g><rect x="17560" y="4796" width="2" height="8" class="king"/><title>king (293 - 120d)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_III" target="_blank"><rect id="Bahram_III" x="17560" y="4796" width="2" height="8" class="sassanid"/><title>Bahram III (293 - 120d)</title><g><rect x="17560" y="4796" width="2" height="8" class="kingOfKings"/><title>kingOfKings (293 - 120d)</title></g>
 
 <text x="17560" y="4802" class="petty">BAHRAM III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Narseh" target="_blank"><rect id="Narseh" x="17195" y="4814" width="415" height="25" class="sassanid"  mask="url(#fadeInMask)"/><title>Narseh (c. 230 - 303)</title><g><rect x="17560" y="4814" width="50" height="25" class="kingOfKings"/><title>kingOfKings (293 - 303)</title></g>
+
+<text x="17199" y="4833" class="semimajor">NARSEH</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hormizd_II" target="_blank"><rect id="Hormizd_II" x="17610" y="4849" width="30" height="15" class="sassanid"/><title>Hormizd II (303 - 309)</title><g><rect x="17610" y="4849" width="30" height="15" class="kingOfKings"/><title>kingOfKings (303 - 309)</title></g>
+
+<text x="17611" y="4860" class="minor">HORMIZD II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Adur_Narseh" target="_blank"><rect id="Adur_Narseh" x="17640" y="4874" width="1" height="8" class="sassanid"/><title>Adur Narseh (309 - 90d)</title><g><rect x="17640" y="4874" width="1" height="8" class="kingOfKings"/><title>kingOfKings (309 - 90d)</title></g>
+
+<text x="17640" y="4880" class="petty">ADUR NARSEH</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Adur_Narseh" target="_blank"><rect id="Adur_Narseh" x="17640" y="4892" width="1" height="8" class="sassanid"/><title>Adur Narseh (309 - 90d)</title><g><rect x="17640" y="4892" width="1" height="8" class="kingOfKings"/><title>kingOfKings (309 - 90d)</title></g>
+
+<text x="17640" y="4898" class="petty">ADUR NARSEH</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shapur_II" target="_blank"><rect id="Shapur_II" x="17640" y="4601" width="350" height="40" class="sassanid"/><title>Shapur II (309 - 379)</title><g><rect x="17640" y="4601" width="350" height="40" class="kingOfKings"/><title>kingOfKings (309 - 379)</title></g>
+
+<text x="17643" y="4631" class="major">SHAPUR II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ardashir_II" target="_blank"><rect id="Ardashir_II" x="17645" y="4651" width="365" height="25" class="sassanid"/><title>Ardashir II (310 - 383)</title><g><rect x="17990" y="4651" width="20" height="25" class="kingOfKings"/><title>kingOfKings (379 - 383)</title></g>
+
+<text x="17647" y="4670" class="semimajor">ARDASHIR II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shapur_III" target="_blank"><rect id="Shapur_III" x="18010" y="4686" width="25" height="15" class="sassanid"/><title>Shapur III (383 - 388)</title><g><rect x="18010" y="4686" width="25" height="15" class="kingOfKings"/><title>kingOfKings (383 - 388)</title></g>
+
+<text x="18011" y="4697" class="minor">SHAPUR III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_IV" target="_blank"><rect id="Bahram_IV" x="18035" y="4711" width="55" height="15" class="sassanid"/><title>Bahram IV (388 - 399)</title><g><rect x="18035" y="4711" width="55" height="15" class="kingOfKings"/><title>kingOfKings (388 - 399)</title></g>
+
+<text x="18036" y="4722" class="minor">BAHRAM IV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Yazdegerd_I" target="_blank"><rect id="Yazdegerd_I" x="18090" y="4736" width="105" height="25" class="sassanid"/><title>Yazdegerd I (399 - 420)</title><g><rect x="18090" y="4736" width="105" height="25" class="kingOfKings"/><title>kingOfKings (399 - 420)</title></g>
+
+<text x="18092" y="4755" class="semimajor">YAZDEGERD I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shapur_IV" target="_blank"><rect id="Shapur_IV" x="18170" y="4771" width="25" height="8" class="sassanid"/><title>Shapur IV (415 - 420)</title><g><rect x="18170" y="4771" width="25" height="8" class="kingOfKings"/><title>kingOfKings (415 - 420)</title></g>
+
+<text x="18170" y="4777" class="petty">SHAPUR IV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Khosrow" target="_blank"><rect id="Khosrow" x="18195" y="4789" width="1" height="8" class="sassanid"/><title>Khosrow (420 - 90d)</title><g><rect x="18195" y="4789" width="1" height="8" class="kingOfKings"/><title>kingOfKings (420 - 90d)</title></g>
+
+<text x="18195" y="4795" class="petty">KHOSROW</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_V" target="_blank"><rect id="Bahram_V" x="18095" y="4807" width="190" height="25" class="sassanid"/><title>Bahram V (400 - 438)</title><g><rect x="18195" y="4807" width="90" height="25" class="kingOfKings"/><title>kingOfKings (420 - 438)</title></g>
+
+<text x="18097" y="4826" class="semimajor">BAHRAM V</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Yazdegerd_II" target="_blank"><rect id="Yazdegerd_II" x="18285" y="4842" width="95" height="25" class="sassanid"/><title>Yazdegerd II (438 - 457)</title><g><rect x="18285" y="4842" width="95" height="25" class="kingOfKings"/><title>kingOfKings (438 - 457)</title></g>
+
+<text x="18287" y="4861" class="semimajor">YAZDEGERD II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hormizd_III" target="_blank"><rect id="Hormizd_III" x="18380" y="4877" width="10" height="15" class="sassanid"/><title>Hormizd III (457 - 459)</title><g><rect x="18380" y="4877" width="10" height="15" class="kingOfKings"/><title>kingOfKings (457 - 459)</title></g>
+
+<text x="18381" y="4888" class="minor">HORMIZD III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Peroz_I" target="_blank"><rect id="Peroz_I" x="18390" y="4902" width="125" height="25" class="sassanid"/><title>Peroz I (459 - 484)</title><g><rect x="18390" y="4902" width="125" height="25" class="kingOfKings"/><title>kingOfKings (459 - 484)</title></g>
+
+<text x="18392" y="4921" class="semimajor">PEROZ I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Balash" target="_blank"><rect id="Balash" x="18515" y="4937" width="20" height="8" class="sassanid"/><title>Balash (484 - 488)</title><g><rect x="18515" y="4937" width="20" height="8" class="kingOfKings"/><title>kingOfKings (484 - 488)</title></g>
+
+<text x="18515" y="4943" class="petty">BALASH</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Kavad_I" target="_blank"><rect id="Kavad_I" x="18460" y="4601" width="293" height="40" class="sassanid"/><title>Kavad I (473 - 9/13/531)</title><g><rect x="18535" y="4601" width="40" height="40" class="kingOfKings"/><title>kingOfKings (488 - 496)</title></g>
+<g><rect x="18585" y="4601" width="168" height="40" class="kingOfKings"/><title>kingOfKings (498 - 9/13/531)</title></g>
+
+<text x="18463" y="4631" class="major">KAVAD I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Jamasp" target="_blank"><rect id="Jamasp" x="18460" y="4651" width="293" height="15" class="sassanid"/><title>Jamasp (473 - 9/13/531)</title><g><rect x="18575" y="4651" width="10" height="15" class="kingOfKings"/><title>kingOfKings (496 - 498)</title></g>
+<g><rect x="18585" y="4651" width="220" height="15" class="exile"  mask="url(#fadeOutMask)"/><title>exile (498 - c. 540)</title></g>
+
+<text x="18461" y="4662" class="minor">JAMASP</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Khosrow_I" target="_blank"><rect id="Khosrow_I" x="18655" y="4676" width="335" height="40" class="sassanid"/><title>Khosrow I (512 - 2/579)</title><g><rect x="18753" y="4676" width="237" height="40" class="kingOfKings"/><title>kingOfKings (9/13/531 - 2/579)</title></g>
+
+<text x="18658" y="4706" class="major">KHOSROW I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hormizd_IV" target="_blank"><rect id="Hormizd_IV" x="18745" y="4726" width="302" height="25" class="sassanid"  mask="url(#fadeInMask)"/><title>Hormizd IV (c. 540 - 6/590)</title><g><rect x="18990" y="4726" width="57" height="25" class="kingOfKings"/><title>kingOfKings (2/579 - 6/590)</title></g>
+
+<text x="18749" y="4745" class="semimajor">HORMIZD IV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Khosrow_II" target="_blank"><rect id="Khosrow_II" x="18895" y="4761" width="341" height="40" class="sassanid"  mask="url(#fadeInMask)"/><title>Khosrow II (c. 570 - 2/28/628)</title><g><rect x="19047" y="4761" width="1" height="40" class="kingOfKings"/><title>kingOfKings (6/590 - 8/590)</title></g>
+<g><rect x="19050" y="4761" width="186" height="40" class="kingOfKings"/><title>kingOfKings (591 - 2/28/628)</title></g>
+
+<text x="18901" y="4791" class="major">KHOSROW II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Bahram_Chobin" target="_blank"><rect id="Bahram_Chobin" x="18795" y="4811" width="255" height="25" class="sassanid"  mask="url(#fadeInMask)"/><title>Bahram Chobin (c. 550 - 591)</title><g><rect x="19048" y="4811" width="2" height="25" class="kingOfKings"/><title>kingOfKings (8/590 - 591)</title></g>
+
+<text x="18799" y="4830" class="semimajor">BAHRAM CHOBIN</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Kavad_II" target="_blank"><rect id="Kavad_II" x="19045" y="4846" width="193" height="15" class="sassanid"/><title>Kavad II (590 - 9/6/628)</title><g><rect x="19235" y="4846" width="3" height="15" class="kingOfKings"/><title>kingOfKings (2/28/628 - 9/6/628)</title></g>
+
+<text x="19046" y="4857" class="minor">KAVAD II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ardashir_III" target="_blank"><rect id="Ardashir_III" x="19200" y="4871" width="47" height="8" class="sassanid"/><title>Ardashir III (621 - 4/27/630)</title><g><rect x="19238" y="4871" width="8" height="8" class="kingOfKings"/><title>kingOfKings (9/6/628 - 4/27/630)</title></g>
+
+<text x="19200" y="4877" class="petty">ARDASHIR III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Shahrbaraz" target="_blank"><rect id="Shahrbaraz" x="19045" y="4889" width="202" height="15" class="sassanid"  mask="url(#fadeInMask)"/><title>Shahrbaraz (c. 600 - 6/9/630)</title><g><rect x="19246" y="4889" width="1" height="15" class="kingOfKings"/><title>kingOfKings (4/27/630 - 6/9/630)</title></g>
+
+<text x="19047" y="4900" class="minor">SHAHRBARAZ</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Boran&#9792;" target="_blank"><rect id="Boran&#9792;" x="18995" y="4914" width="262" height="25" class="sassanid"  mask="url(#fadeInMask)"/><title>Boran&#9792; (c. 590 - 6/632)</title><g><rect x="19245" y="4914" width="12" height="25" class="queen"/><title>queen (630 - 6/632)</title></g>
+
+<text x="18999" y="4933" class="semimajor">BORAN&#9792;</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Yazdegerd_III" target="_blank"><rect id="Yazdegerd_III" x="19215" y="4949" width="135" height="15" class="sassanid"/><title>Yazdegerd III (624 - 651)</title><g><rect x="19257" y="4949" width="93" height="15" class="kingOfKings"/><title>kingOfKings (6/16/632 - 651)</title></g>
+
+<text x="19216" y="4960" class="minor">YAZDEGERD III</text></a></g>
 
 <text x="17150" y="4591" class="dynasty">SASSANID SHAHANSHAH</text>
 <text x="150" y="5286" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Solon" target="_blank"><rect id="Solon" x="12900" y="5470" width="450" height="40" class="greek"  mask="url(#fadeInOutMask)"/><title>Solon (c. 630 BC - c. 560 BC)</title>
