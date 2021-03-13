@@ -216,8 +216,12 @@ public class TimelineSvgBuilder {
 								   StringBuilder backgroundStringBuilder) {
 		lastPersonInGroup = null;
 		nextPersonYStart = dynastyStart;
+		int markYStart = nextPersonYStart;
 		for (Dynasty dynasty : dynastyGroup.getDynasties()) {
-			getDynastySVG(dynasty, foregroundStringBuilder, backgroundStringBuilder);
+			if (dynasty.isMark()) {
+				markYStart = nextPersonYStart + dynastyDiff;
+			}
+			getDynastySVG(dynasty, foregroundStringBuilder, backgroundStringBuilder, markYStart);
 			Person lastPerson = dynasty.getPeople().stream()
 					.max(Comparator.comparing(Person::getyStart))
 					.get();
@@ -225,9 +229,13 @@ public class TimelineSvgBuilder {
 		}
 	}
 	public void getDynastySVG(Dynasty dynasty, StringBuilder foregroundStringBuilder,
-							  StringBuilder backgroundStringBuilder) {
+							  StringBuilder backgroundStringBuilder, int markYStart) {
 		System.out.println("  adding dynasty "+dynasty);
-		dynastyStart = nextPersonYStart + dynastyDiff;
+		if (dynasty.isPageBreak()) {
+			dynastyStart = markYStart;
+		} else {
+			dynastyStart = nextPersonYStart + dynastyDiff;
+		}
 		dynasty.setyStart(dynastyStart);
 		nextPersonYStart = dynastyStart;
 		TimelineInstant headerInstant = dynasty.getHeaderStart();

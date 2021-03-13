@@ -10,6 +10,7 @@ public class TimelineEvent {
 	private String name;
 	private String annotation;
 	private String style;
+	private boolean mark = false;
 	private boolean pageBreak = false;
 	private Timespan timespan = null;
 
@@ -119,5 +120,13 @@ public class TimelineEvent {
 
 	public void setPageBreak(boolean pageBreak) {
 		this.pageBreak = pageBreak;
+	}
+
+	public boolean isMark() {
+		return mark;
+	}
+
+	public void setMark(boolean mark) {
+		this.mark = mark;
 	}
 }
