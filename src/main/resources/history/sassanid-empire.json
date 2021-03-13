@@ -24,6 +24,24 @@
       "dynasties": [
         {
           "name": "Sassanid Shahanshah",
+          "backgroundEvents": [
+            {
+              "name": "Sassanid Empire",
+              "style": "sassanid",
+              "timespan": {
+                "start": "211",
+                "end": "651"
+              }
+            },
+            {
+              "name": "Roman-Sassanid War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "230",
+                "end": "232"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Ardashir I",
@@ -39,6 +57,76 @@
                   "timespan": {
                     "start": "211",
                     "end": "242"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Shapur I",
+              "style": "sassanid",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/12/240",
+                    "end": "5/270"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hormizd I",
+              "style": "sassanid",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/270",
+                    "end": "6/271"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram I",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/271",
+                    "end": "9/274"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram II",
+              "style": "sassanid",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/274",
+                    "end": "293"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bahram III",
+              "style": "sassanid",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "293",
+                    "duration": "4m"
                   }
                 }
               ]
