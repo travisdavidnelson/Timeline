@@ -1069,6 +1069,54 @@
             "end": "135"
           },
           "style": "backgroundRebellion"
+        },
+        {
+          "name": "Crassus's Parthian War",
+          "timespan": {
+            "start": "53 BC",
+            "duration": "1y"
+          },
+          "style": "backgroundWar"
+        },
+        {
+          "name": "Antony's Parthian War",
+          "timespan": {
+            "start": "36 BC",
+            "duration": "1y"
+          },
+          "style": "backgroundWar"
+        },
+        {
+          "name": "Roman-Parthian War of 58-63",
+          "timespan": {
+            "start": "58",
+            "end": "63"
+          },
+          "style": "backgroundWar"
+        },
+        {
+          "name": "Parthian War",
+          "timespan": {
+            "start": "161",
+            "end": "166"
+          },
+          "style": "backgroundWar"
+        },
+        {
+          "name": "Parthian War",
+          "timespan": {
+            "start": "197",
+            "end": "198"
+          },
+          "style": "backgroundWar"
+        },
+        {
+          "name": "Parthian War",
+          "timespan": {
+            "start": "216",
+            "end": "217"
+          },
+          "style": "backgroundWar"
         }
       ],
       "dynasties": [

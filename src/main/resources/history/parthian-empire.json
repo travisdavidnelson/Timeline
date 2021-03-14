@@ -40,6 +40,30 @@
         "end": "63"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "161",
+        "end": "166"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "197",
+        "end": "198"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Parthian War",
+      "timespan": {
+        "start": "216",
+        "end": "217"
+      },
+      "style": "backgroundWar"
     }
   ],
   "dynastyGroups": [
