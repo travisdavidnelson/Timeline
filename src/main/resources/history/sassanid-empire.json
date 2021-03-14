@@ -600,6 +600,25 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Manicaeism",
+          "backgroundEvents": [
+
+          ],
+          "people": [
+            {
+              "name": "Mani",
+              "style": "deified",
+              "importance": "major",
+              "timespan": {
+                "start": "4/216",
+                "end": "3/2/274"
+              },
+              "titles": [
+              ]
+            }
+          ]
         }
       ]
     }
