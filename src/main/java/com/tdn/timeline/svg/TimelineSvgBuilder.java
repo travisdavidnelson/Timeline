@@ -216,7 +216,7 @@ public class TimelineSvgBuilder {
 								   StringBuilder backgroundStringBuilder) {
 		lastPersonInGroup = null;
 		nextPersonYStart = dynastyStart;
-		int markYStart = nextPersonYStart;
+		int markYStart = nextPersonYStart + dynastyDiff;
 		for (Dynasty dynasty : dynastyGroup.getDynasties()) {
 			if (dynasty.isMark()) {
 				markYStart = nextPersonYStart + dynastyDiff;

@@ -14,7 +14,8 @@
 .babylon {fill:green;fill-opacity:0.4}
 .babylonWeak {fill:green;fill-opacity:0.2}
 .british {fill:red;fill-opacity:0.2}
-.celt {fill:blue;fill-opacity:0.1}
+.celt {fill:#276ee8;fill-opacity:0.1}
+.guals {fill:#084ec9;fill-opacity:0.1}
 .neobabylon {fill:green;fill-opacity:0.5}
 .egyptEarlyDynastic {fill:gold;fill-opacity:0.4}
 .egyptOldKingdom {fill:gold;fill-opacity:0.7}
@@ -204,6 +205,7 @@
 .kingOfKings		{fill:purple;	fill-opacity:1.0}
 .king 				{fill:purple;	fill-opacity:0.7}
 .minorKing 			{fill:purple;	fill-opacity:0.4}
+.chieftain 			{fill:purple;	fill-opacity:0.3}
 .queen 				{fill:purple;	fill-opacity:0.6}
 .lordProtector 		{fill:brown;	fill-opacity:1.0}
 .majordomo 			{fill:brown;	fill-opacity:0.6}

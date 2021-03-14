@@ -34,15 +34,23 @@
     {
       "name": "Gallic Wars",
       "timespan": {
-        "start": "58",
-        "end": "51"
+        "start": "58 BC",
+        "end": "50 BC"
       },
-      "style": "backgroundInvasion"
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Siege of Alesia",
+      "timespan": {
+        "start": "9/52 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Roman Principate",
       "timespan": {
-        "start": "51",
+        "start": "50 BC",
         "end": "235"
       },
       "style": "romanPrincipate"
@@ -785,6 +793,62 @@
     }
   ],
   "dynastyGroups": [
+    {
+      "name": "Ancient Gual",
+      "dynasties": [
+        {
+          "name": "Gual Sennones",
+          "people": [
+            {
+              "name": "Brennus",
+              "style": "guals",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "chieftain",
+                  "timespan": {
+                    "start": "400 BC",
+                    "end": "390 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Gual Arverni",
+          "people": [
+            {
+              "name": "Vercingetorix",
+              "style": "guals",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "82 BC",
+                "end": "46 BC"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "chieftain",
+                  "timespan": {
+                    "start": "52 BC",
+                    "end": "51 BC"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "51 BC",
+                    "end": "46 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Early Merovingians",
       "dynasties": [

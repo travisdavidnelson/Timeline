@@ -371,14 +371,6 @@
       "style": "backgroundCivilWar"
     },
     {
-      "name": "Gallic Wars",
-      "timespan": {
-        "start": "58 BC",
-        "end": "50 BC"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
       "name": "First Mithridatic War",
       "timespan": {
         "start": "89 BC",
@@ -403,6 +395,14 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Gallic Wars",
+      "timespan": {
+        "start": "58 BC",
+        "end": "50 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
       "name": "Caesar's civil war",
       "timespan": {
         "start": "1/10/49 BC",
@@ -411,7 +411,7 @@
       "style": "backgroundCivilWar"
     },
     {
-      "name": "Liberators'' civil war",
+      "name": "Liberators' civil war",
       "timespan": {
         "start": "43 BC",
         "end": "42 BC"
