@@ -807,8 +807,9 @@
                 {
                   "name": "chieftain",
                   "timespan": {
+                    "startApproximate": "true",
                     "start": "400 BC",
-                    "end": "390 BC"
+                    "end": "386 BC"
                   }
                 }
               ]

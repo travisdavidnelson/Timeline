@@ -12113,7 +12113,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="18802" y="6124" class="semimajor">TOTILA</text></a></g>
 
 <text x="18450" y="5939" class="dynasty">OSTROGOTHIC KINGDOM</text>
-<text x="150" y="7396" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7580" width="50" height="40" class="guals"/><title>Brennus (400 BC - 390 BC)</title><g><rect x="14100" y="7580" width="50" height="40" class="chieftain"/><title>chieftain (400 BC - 390 BC)</title></g>
+<text x="150" y="7396" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7580" width="70" height="40" class="guals"/><title>Brennus (400 BC - 386 BC)</title><g><rect x="14090" y="7580" width="80" height="40" class="chieftain"  mask="url(#fadeInMask)"/><title>chieftain (c. 400 BC - 386 BC)</title></g>
 
 <text x="14103" y="7610" class="major">BRENNUS</text></a></g>
 
