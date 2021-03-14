@@ -148,6 +148,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Mithridates II",
               "style": "parthian",
               "importance": "major",
@@ -269,6 +270,203 @@
                   "timespan": {
                     "start": "37 BC",
                     "end": "2 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Musa&#9792;",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "2 BC",
+                    "end": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Phraates V",
+              "style": "parthian",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "2 BC",
+                    "end": "4"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Orodes III",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4",
+                    "end": "6"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vonones I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6",
+                    "end": "19"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Artabanus II",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12",
+                    "end": "41"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vardanes I",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "40",
+                    "end": "46"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gotarzes II",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "40",
+                    "end": "51"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vologases I",
+              "style": "parthian",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "51",
+                    "end": "78"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pacorus II",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "78",
+                    "end": "110"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vologases III",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "110",
+                    "end": "147"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vologases IV",
+              "style": "parthian",
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "147",
+                    "end": "191"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vologases V",
+              "style": "parthian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "191",
+                    "end": "208"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vologases VI",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "208",
+                    "end": "228"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artabanus IV",
+              "style": "parthian",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "kingOfKings",
+                  "timespan": {
+                    "start": "213",
+                    "end": "224"
                   }
                 }
               ]
