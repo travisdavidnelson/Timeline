@@ -3724,16 +3724,16 @@
               "name": "Galba",
               "style": "roman",
               "timespan": {
-                "start": "3 BC",
-                "end": "69"
+                "start": "12/24/3 BC",
+                "end": "1/15/69"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "69",
-                    "end": "69"
+                    "start": "6/8/68",
+                    "end": "1/15/69"
                   }
                 }
               ]
@@ -3742,16 +3742,16 @@
               "name": "Otho",
               "style": "roman",
               "timespan": {
-                "start": "32",
-                "end": "69"
+                "start": "4/28/32",
+                "end": "4/16/69"
               },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "69",
-                    "end": "69"
+                    "start": "1/15/69",
+                    "end": "4/16/69"
                   }
                 }
               ]
@@ -3760,16 +3760,16 @@
               "name": "Vitellius",
               "style": "roman",
               "timespan": {
-                "start": "15",
-                "end": "69"
+                "start": "9/24/15",
+                "end": "12/22/69"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "69",
-                    "end": "69"
+                    "start": "4/16/69",
+                    "end": "12/22/69"
                   }
                 }
               ]
@@ -3782,8 +3782,8 @@
             {
               "name": "Vespasian",
               "timespan": {
-                "start": "9",
-                "end": "79"
+                "start": "11/17/9",
+                "end": "6/24/79"
               },
               "importance": "major",
               "style": "deified",
@@ -3791,8 +3791,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "69",
-                    "end": "79"
+                    "start": "12/22/69",
+                    "end": "6/24/79"
                   }
                 }
               ]
@@ -3801,8 +3801,8 @@
               "name": "Gnaeus Julius Agricola",
               "style": "roman",
               "timespan": {
-                "start": "40",
-                "end": "93"
+                "start": "6/13/40",
+                "end": "8/23/93"
               },
               "importance": "semimajor",
               "titles": [
@@ -3819,8 +3819,8 @@
               "name": "Titus",
               "style": "roman",
               "timespan": {
-                "start": "39",
-                "end": "81"
+                "start": "12/30/39",
+                "end": "9/13/81"
               },
               "importance": "semimajor",
               "style": "deified",
@@ -3828,8 +3828,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "79",
-                    "end": "81"
+                    "start": "6/24/79",
+                    "end": "9/13/81"
                   }
                 }
               ]
@@ -3838,16 +3838,16 @@
               "name": "Domitian",
               "style": "roman",
               "timespan": {
-                "start": "51",
-                "end": "96"
+                "start": "10/24/51",
+                "end": "9/18/96"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "81",
-                    "end": "96"
+                    "start": "9/13/81",
+                    "end": "9/18/96"
                   }
                 }
               ]
@@ -3859,7 +3859,7 @@
                 "startApproximate": true,
                 "start": "56",
                 "endApproximate": true,
-                "end": "117"
+                "end": "120"
               },
               "importance": "semimajor"
             },
