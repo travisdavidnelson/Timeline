@@ -4247,15 +4247,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "173",
-                "end": "238"
+                "end": "5/238"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "235",
-                    "end": "238"
+                    "start": "3/20/235",
+                    "end": "5/238"
                   }
                 }
               ]
@@ -4266,15 +4266,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "159",
-                "end": "238"
+                "end": "4/12/238"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "238",
-                    "end": "238"
+                    "start": "3/22/238",
+                    "end": "4/12/238"
                   }
                 }
               ]
@@ -4285,15 +4285,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "192",
-                "end": "238"
+                "end": "4/12/238"
               },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "238",
-                    "end": "238"
+                    "start": "3/22/238",
+                    "end": "4/12/238"
                   }
                 }
               ]
@@ -4303,16 +4303,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "178",
-                "end": "238"
+                "start": "168",
+                "end": "7/29/238"
               },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "238",
-                    "end": "238"
+                    "start": "4/22/238",
+                    "end": "7/29/238"
                   }
                 }
               ]
@@ -4322,16 +4322,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "165",
-                "end": "238"
+                "start": "178",
+                "end": "7/29/238"
               },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "238",
-                    "end": "238"
+                    "start": "4/22/238",
+                    "end": "7/29/238"
                   }
                 }
               ]
@@ -4340,16 +4340,34 @@
               "name": "Gordian III",
               "style": "roman",
               "timespan": {
-                "start": "225",
-                "end": "244"
+                "start": "1/20/225",
+                "end": "2/11/244"
               },
-              "importance": "petty",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "238",
-                    "end": "244"
+                    "start": "7/29/238",
+                    "end": "2/11/244"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Timesitheus",
+              "style": "roman",
+              "timespan": {
+                "start": "190",
+                "end": "243"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "start": "240",
+                    "end": "243"
                   }
                 }
               ]
