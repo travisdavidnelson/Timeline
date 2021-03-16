@@ -4035,8 +4035,8 @@
               "name": "Pertinax",
               "style": "roman",
               "timespan": {
-                "start": "126",
-                "end": "193"
+                "start": "8/1/126",
+                "end": "3/28/193"
               },
               "importance": "minor",
               "style": "deified",
@@ -4044,8 +4044,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "193",
-                    "end": "193"
+                    "start": "1/1/193",
+                    "end": "3/28/193"
                   }
                 }
               ]
@@ -4055,16 +4055,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "133",
-                "end": "193"
+                "start": "1/29/133",
+                "end": "6/1/193"
               },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "193",
-                    "end": "193"
+                    "start": "3/28/193",
+                    "end": "6/1/193"
                   }
                 }
               ]
@@ -4083,8 +4083,8 @@
             {
               "name": "Septimus Severus",
               "timespan": {
-                "start": "145",
-                "end": "211"
+                "start": "4/9/145",
+                "end": "2/4/211"
               },
               "importance": "major",
               "style": "deified",
@@ -4092,8 +4092,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "193",
-                    "end": "211"
+                    "start": "6/1/193",
+                    "end": "2/4/211"
                   }
                 }
               ]
@@ -4101,7 +4101,8 @@
             {
               "name": "Julia Domna&#9792;",
               "timespan": {
-                "start": "170",
+                "startApproximate": "true",
+                "start": "160",
                 "end": "217"
               },
               "importance": "minor",
@@ -4111,23 +4112,23 @@
               "name": "Caracalla",
               "style": "roman",
               "timespan": {
-                "start": "188",
-                "end": "217"
+                "start": "4/4/188",
+                "end": "4/8/217"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "198",
-                    "end": "211"
+                    "start": "1/28/198",
+                    "end": "2/4/211"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "211",
-                    "end": "217"
+                    "start": "2/4/211",
+                    "end": "4/8/217"
                   }
                 }
               ]
@@ -4136,8 +4137,8 @@
               "name": "Geta",
               "style": "roman",
               "timespan": {
-                "start": "189",
-                "end": "211"
+                "start": "3/7/189",
+                "end": "12/26/211"
               },
               "importance": "minor",
               "titles": [
@@ -4145,14 +4146,14 @@
                   "name": "caesar",
                   "timespan": {
                     "start": "209",
-                    "end": "211"
+                    "end": "2/4/211"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "211",
-                    "end": "211"
+                    "start": "2/4/211",
+                    "end": "12/26/211"
                   }
                 }
               ]
@@ -4161,17 +4162,17 @@
               "name": "Macrinus",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
+                "startApproximate": "true",
                 "start": "165",
-                "end": "218"
+                "end": "6/8/218"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "217",
-                    "end": "218"
+                    "start": "4/11/217",
+                    "end": "6/8/218"
                   }
                 }
               ]
@@ -4179,8 +4180,10 @@
             {
               "name": "Julia Maesa&#9792;",
               "timespan": {
-                "start": "165",
-                "end": "226"
+                "startApproximate": "true",
+                "start": "5/7/160",
+                "endApproximate": "true",
+                "end": "224"
               },
               "importance": "semimajor",
               "style": "deified"
@@ -4189,17 +4192,17 @@
               "name": "Elagabalus",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
-                "start": "203",
-                "end": "222"
+                "startApproximate": "true",
+                "start": "204",
+                "end": "3/11/222"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "218",
-                    "end": "222"
+                    "start": "6/8/218",
+                    "end": "3/11/222"
                   }
                 }
               ]
@@ -4207,8 +4210,8 @@
             {
               "name": "Alexander Severus",
               "timespan": {
-                "start": "209",
-                "end": "235"
+                "start": "10/1/208",
+                "end": "3/19/235"
               },
               "importance": "semimajor",
               "style": "deified",
@@ -4216,8 +4219,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "222",
-                    "end": "235"
+                    "start": "3/11/222",
+                    "end": "3/19/235"
                   }
                 }
               ]
@@ -4226,8 +4229,9 @@
               "name": "Cassius Dio",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
-                "start": "150",
+                "startApproximate": "true",
+                "start": "155",
+                "endApproximate": "true",
                 "end": "235"
               },
               "importance": "minor"
