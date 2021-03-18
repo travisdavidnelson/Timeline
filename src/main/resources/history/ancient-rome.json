@@ -4378,15 +4378,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "204",
-                "end": "249"
+                "end": "9/249"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "244",
-                    "end": "249"
+                    "start": "2/244",
+                    "end": "9/249"
                   }
                 }
               ]
@@ -4397,15 +4397,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "201",
-                "end": "251"
+                "end": "6/251"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "249",
-                    "end": "251"
+                    "start": "9/249",
+                    "end": "6/251"
                   }
                 }
               ]
@@ -4415,15 +4415,15 @@
               "style": "roman",
               "timespan": {
                 "start": "206",
-                "end": "253"
+                "end": "6/253"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "251",
-                    "end": "253"
+                    "start": "6/251",
+                    "end": "6/253"
                   }
                 }
               ]
@@ -4433,16 +4433,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "207",
-                "end": "253"
+                "start": "210",
+                "end": "9/253"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "253",
-                    "end": "253"
+                    "start": "6/253",
+                    "end": "9/253"
                   }
                 }
               ]
@@ -4452,7 +4452,7 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "195",
+                "start": "199",
                 "endApproximate": true,
                 "end": "264"
               },
@@ -4463,14 +4463,14 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "253",
-                    "end": "260"
+                    "start": "10/22/253",
+                    "end": "5/260"
                   }
                 },
                 {
                   "name": "pow",
                   "timespan": {
-                    "start": "260",
+                    "start": "5/260",
                     "endApproximate": true,
                     "end": "264"
                   }
@@ -4483,22 +4483,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "218",
-                "end": "268"
+                "end": "9/268"
               },
               "importance": "semimajor",
               "titles": [
                 {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "253",
-                    "end": "260"
-                  }
-                },
-                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "260",
-                    "end": "268"
+                    "start": "9/253",
+                    "end": "9/268"
                   }
                 }
               ]
@@ -4506,11 +4499,6 @@
             {
               "name": "Macrianus Major",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "210",
-                "end": "261"
-              },
               "importance": "minor",
               "annotation": "Usurper in the east with his sons.",
               "fate": "Defeated by Gallienus' general Aureolus in Thrace AD 261.",
@@ -4527,11 +4515,6 @@
             {
               "name": "Macrianus Minor",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "235",
-                "end": "261"
-              },
               "importance": "petty",
               "annotation": "Usurper in the east with his father and brother.",
               "fate": "Defeated by Gallienus' general Aureolus in Thrace AD 261.",
@@ -4548,11 +4531,6 @@
             {
               "name": "Quietus",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "237",
-                "end": "261"
-              },
               "importance": "petty",
               "annotation": "Usurper in the east with his father and brother.",
               "fate": "After his father Macrianus and brother were defeated by Gallienus, Odenathus beseiged Quietus at Emesa and killed by its inhabitants.",
@@ -4560,7 +4538,7 @@
                 {
                   "name": "usurper",
                   "timespan": {
-                    "start": "259",
+                    "start": "260",
                     "end": "261"
                   }
                 }
@@ -4569,11 +4547,6 @@
             {
               "name": "Postumus",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "215",
-                "end": "269"
-              },
               "importance": "minor",
               "annotation": "Emperor of breakaway Gallic Empire. Defended Rhine frontier from Germanic invasions.",
               "fate": "Murdered by his troops, AD 269.",
@@ -4591,16 +4564,16 @@
               "name": "Claudius Gothicus",
               "style": "roman",
               "timespan": {
-                "start": "213",
-                "end": "270"
+                "start": "5/10/214",
+                "end": "1/270"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "268",
-                    "end": "270"
+                    "start": "9/268",
+                    "end": "1/270"
                   }
                 }
               ]
@@ -4608,18 +4581,13 @@
             {
               "name": "Quintillus",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "220",
-                "end": "270"
-              },
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "270",
-                    "end": "270"
+                    "start": "1/270",
+                    "end": "4/270"
                   }
                 }
               ]
@@ -4628,9 +4596,8 @@
               "name": "Aurelian",
               "style": "deified",
               "timespan": {
-                "startApproximate": true,
-                "start": "214",
-                "end": "275"
+                "start": "9/9/214",
+                "end": "10/275"
               },
               "importance": "major",
               "annotation": "Restituto Orbis, the Restorer of the World.",
@@ -4639,8 +4606,8 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "270",
-                    "end": "275"
+                    "start": "5/270",
+                    "end": "10/275"
                   }
                 }
               ]
@@ -4651,15 +4618,29 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "200",
-                "end": "276"
+                "end": "6/276"
               },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "9/25/275",
+                    "end": "6/276"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Florianus",
+              "style": "roman",
               "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "275",
-                    "end": "276"
+                    "start": "7/276",
+                    "end": "9/276"
                   }
                 }
               ]
@@ -4668,17 +4649,16 @@
               "name": "Marcus Aurelius Probus",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
-                "start": "232",
-                "end": "282"
+                "start": "9/19/232",
+                "end": "9/282"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "276",
-                    "end": "282"
+                    "start": "6/276",
+                    "end": "9/282"
                   }
                 }
               ]
@@ -4688,16 +4668,16 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "224",
-                "end": "283"
+                "start": "222",
+                "end": "7/283"
               },
-              "importance": "petty",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "282",
-                    "end": "283"
+                    "start": "9/282",
+                    "end": "7/283"
                   }
                 }
               ]
@@ -4705,11 +4685,6 @@
             {
               "name": "Carinus",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "250",
-                "end": "285"
-              },
               "importance": "petty",
               "titles": [
                 {
@@ -4723,7 +4698,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "283",
-                    "end": "285"
+                    "end": "7/285"
                   }
                 }
               ]
@@ -4731,25 +4706,20 @@
             {
               "name": "Numerian",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "255",
-                "end": "284"
-              },
               "importance": "petty",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
                     "start": "282",
-                    "end": "283"
+                    "end": "7/283"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "283",
-                    "end": "284"
+                    "start": "7/283",
+                    "end": "11/20/284"
                   }
                 }
               ]
