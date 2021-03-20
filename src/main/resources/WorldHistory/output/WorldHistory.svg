@@ -10968,7 +10968,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="17179" y="4718" class="major">MANI</text></a></g>
 
 <text x="17176" y="4678" class="dynasty">MANICHAEISM</text>
-<text x="150" y="4688" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Solon" target="_blank"><rect id="Solon" x="12900" y="4872" width="450" height="40" class="greek"  mask="url(#fadeInOutMask)"/><title>Solon (c. 630 BC - c. 560 BC)</title>
+<text x="150" y="4688" class="channel">PERSIA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Homer" target="_blank"><rect id="Homer" x="12050" y="4872" width="595" height="50" class="greek"  mask="url(#fadeInOutMask)"/><title>Homer (c. 800 BC - c. 701 BC)</title>
+<text x="12062" y="4912" class="transformational">HOMER</text></a></g>
+
+<text x="12100" y="4862" class="dynasty">EARLY GREECE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Solon" target="_blank"><rect id="Solon" x="12900" y="4872" width="450" height="40" class="greek"  mask="url(#fadeInOutMask)"/><title>Solon (c. 630 BC - c. 560 BC)</title>
 <text x="12906" y="4902" class="major">SOLON</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Cleisthenes" target="_blank"><rect id="Cleisthenes" x="13200" y="4922" width="450" height="25" class="greek"  mask="url(#fadeInOutMask)"/><title>Cleisthenes (c. 570 BC - c. 500 BC)</title>
 <text x="13204" y="4941" class="semimajor">CLEISTHENES</text></a></g>

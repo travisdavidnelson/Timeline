@@ -411,6 +411,23 @@
       "yStart": 0,
       "dynasties": [
         {
+          "name": "Early Greece",
+          "people": [
+            {
+              "name": "Homer",
+              "style": "greek",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "800 BC",
+                "endApproximate": "true",
+                "end": "701 BC"
+              }
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
           "name": "Athens Democrats",
           "people": [
             {
