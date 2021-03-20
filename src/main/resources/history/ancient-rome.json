@@ -837,8 +837,8 @@
     {
       "name": "Battle of Adrianople",
       "timespan": {
-        "start": "378",
-        "end": "378"
+        "start": "8/9/378",
+        "duration": "1m"
       },
       "style": "backgroundNationalCalamity"
     },
@@ -4985,7 +4985,7 @@
                   "name": "Battle of Adrianople",
                   "style": "defeat",
                   "timespan": {
-                    "start": "6/368",
+                    "start": "8/9/378",
                     "duration": "1m"
                   }
                 }
