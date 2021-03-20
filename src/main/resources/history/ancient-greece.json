@@ -327,8 +327,8 @@
     {
       "name": "Julian's Persian expedition",
       "timespan": {
-        "start": "363",
-        "end": "363"
+        "start": "4/363",
+        "end": "8/363"
       },
       "style": "backgroundNationalCalamity"
     },
@@ -834,7 +834,7 @@
               "name": "Helena&#9792;",
               "timespan": {
                 "startApproximate": true,
-                "start": "250",
+                "start": "246",
                 "endApproximate": true,
                 "end": "330"
               },
@@ -845,23 +845,16 @@
               "name": "Constantine I",
               "timespan": {
                 "startApproximate": true,
-                "start": "272",
+                "start": "2/27/272",
                 "end": "5/22/337"
               },
               "importance": "transformational",
               "style": "sanctified",
               "titles": [
                 {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "7/25/306",
-                    "end": "310"
-                  }
-                },
-                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "309",
+                    "start": "7/25/306",
                     "end": "5/22/337"
                   }
                 }
@@ -872,7 +865,7 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "299",
+                "start": "295",
                 "end": "326"
               },
               "importance": "semimajor",
@@ -880,7 +873,7 @@
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "317",
+                    "start": "3/1/317",
                     "end": "326"
                   }
                 }
@@ -890,7 +883,7 @@
               "name": "Constantine II",
               "style": "roman",
               "timespan": {
-                "start": "316",
+                "start": "2/316",
                 "end": "340"
               },
               "importance": "minor",
@@ -898,14 +891,14 @@
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "317",
-                    "end": "3/22/337"
+                    "start": "3/1/317",
+                    "end": "9/9/337"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "3/22/337",
+                    "start": "9/9/337",
                     "end": "340"
                   }
                 }
@@ -915,23 +908,23 @@
               "name": "Constantius II",
               "style": "roman",
               "timespan": {
-                "start": "317",
-                "end": "361"
+                "start": "8/7/317",
+                "end": "11/3/361"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "324",
-                    "end": "3/22/337"
+                    "start": "11/8/324",
+                    "end": "9/9/337"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "3/22/337",
-                    "end": "361"
+                    "start": "9/9/337",
+                    "end": "11/3/361"
                   }
                 }
               ]
@@ -942,15 +935,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "320",
-                "end": "350"
+                "end": "1/18/350"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "12/25/333",
+                    "end": "9/9/337"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "3/22/337",
-                    "end": "350"
+                    "start": "9/9/337",
+                    "end": "1/18/350"
                   }
                 }
               ]
@@ -961,9 +961,9 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "276",
-                "end": "4/337"
+                "end": "6/337"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "consul",
@@ -980,15 +980,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "300",
-                "end": "4/337"
+                "end": "6/337"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "335",
-                    "end": "4/337"
+                    "start": "9/18/335",
+                    "end": "6/337"
                   }
                 }
               ]
@@ -999,9 +999,9 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "305",
-                "end": "4/337"
+                "end": "6/337"
               },
-              "importance": "minor"
+              "importance": "petty"
             },
             {
               "name": "Julius Constantius",
@@ -1009,9 +1009,9 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "289",
-                "end": "4/337"
+                "end": "6/337"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "consul",
@@ -1026,7 +1026,6 @@
               "name": "Constantius Gallus",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
                 "start": "325",
                 "end": "354"
               },
@@ -1047,14 +1046,14 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "331",
-                "end": "363"
+                "end": "6/26/363"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "caesar",
                   "timespan": {
-                    "start": "355",
+                    "start": "11/6/355",
                     "end": "360"
                   }
                 },
@@ -1062,7 +1061,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "360",
-                    "end": "363"
+                    "end": "6/26/363"
                   }
                 }
               ]
@@ -1072,15 +1071,15 @@
               "style": "roman",
               "timespan": {
                 "start": "331",
-                "end": "364"
+                "end": "2/17/364"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "363",
-                    "end": "364"
+                    "start": "6/27/363",
+                    "end": "2/17/364"
                   }
                 }
               ]
@@ -1091,15 +1090,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "325",
-                "end": "366"
+                "end": "5/27/366"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "usurper",
                   "timespan": {
-                    "start": "365",
-                    "end": "366"
+                    "start": "9/26/365",
+                    "end": "5/27/366"
                   }
                 }
               ]
@@ -1109,9 +1108,9 @@
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "325",
+                "start": "330",
                 "endApproximate": true,
-                "end": "391"
+                "end": "400"
               },
               "importance": "minor"
             }
