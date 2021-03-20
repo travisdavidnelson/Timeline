@@ -592,6 +592,19 @@
               ]
             },
             {
+              "name": "Herodotus",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "484 BC",
+                "endApproximate": "true",
+                "end": "425 BC"
+              },
+              "titles": [
+              ]
+            },
+            {
               "name": "Euripides",
               "style": "greek",
               "importance": "major",
