@@ -32,6 +32,30 @@
         "end": "553"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Eastern Roman Empire",
+      "timespan": {
+        "start": "540",
+        "end": "568"
+      },
+      "style": "byzantium"
+    },
+    {
+      "name": "Lombard Kingdom of Italy",
+      "timespan": {
+        "start": "568",
+        "end": "774"
+      },
+      "style": "lombard"
+    },
+    {
+      "name": "Frankish Kingdoms",
+      "timespan": {
+        "start": "774",
+        "end": "987"
+      },
+      "style": "franks"
     }
   ],
   "dynastyGroups": [
