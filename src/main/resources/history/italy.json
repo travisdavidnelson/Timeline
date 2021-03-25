@@ -271,6 +271,56 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Lombards",
+          "backgroundEvents": [
+            {
+              "name": "Lombard Kingdom in Italy",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "560",
+                "end": "774"
+              },
+              "style": "lombard"
+            }
+          ],
+          "people": [
+            {
+              "name": "Alboin",
+              "style": "lombard",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "535",
+                "end": "6/28/572"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "560",
+                    "end": "6/28/572"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cleph",
+              "style": "lombard",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "ling",
+                  "timespan": {
+                    "start": "6/28/572",
+                    "end": "574"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
