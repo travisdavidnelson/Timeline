@@ -47,7 +47,7 @@
         "start": "568",
         "end": "774"
       },
-      "style": "lombard"
+      "style": "lombards"
     },
     {
       "name": "Frankish Kingdoms",
@@ -98,10 +98,10 @@
           ]
         },
         {
-          "name": "Ostrogothic Kingdom",
+          "name": "Ostrogoths",
           "backgroundEvents": [
             {
-              "name": "Ostrogothic Kingdom",
+              "name": "Ostrogothic Kingdom in Italy",
               "timespan": {
                 "start": "3/15/493",
                 "end": "553"
@@ -282,13 +282,13 @@
                 "start": "560",
                 "end": "774"
               },
-              "style": "lombard"
+              "style": "lombards"
             }
           ],
           "people": [
             {
               "name": "Alboin",
-              "style": "lombard",
+              "style": "lombards",
               "importance": "semimajor",
               "timespan": {
                 "startApproximate": "true",
@@ -308,11 +308,11 @@
             },
             {
               "name": "Cleph",
-              "style": "lombard",
+              "style": "lombards",
               "importance": "minor",
               "titles": [
                 {
-                  "name": "ling",
+                  "name": "king",
                   "timespan": {
                     "start": "6/28/572",
                     "end": "574"
