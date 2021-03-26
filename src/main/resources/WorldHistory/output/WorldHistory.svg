@@ -819,7 +819,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Byzantine_invasion_of_Italy" target="_blank"><rect id="Byzantine_invasion_of_Italy" x="18777" y="5949" width="20" height="241" class="footprint"/><rect id="Byzantine_invasion_of_Italy" x="18777" y="5949" width="20" height="241" class="backgroundInvasion"/><title>Byzantine invasion of Italy (6/536 - 5/540)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Faventi" target="_blank"><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="victory"/><title>Battle of Faventi (5/542)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Taginae" target="_blank"><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="backgroundNationalCalamity"/><title>Battle of Taginae (7/552)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Lombard_Kingdom_in_Italy" target="_blank"><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="110" class="footprint"  mask="url(#fadeInMask)"/><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="110" class="lombards"  mask="url(#fadeInMask)"/><title>Lombard Kingdom in Italy (c. 560 - 774)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Lombard_Kingdom_in_Italy" target="_blank"><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="266" class="footprint"  mask="url(#fadeInMask)"/><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="266" class="lombards"  mask="url(#fadeInMask)"/><title>Lombard Kingdom in Italy (c. 560 - 774)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="18345" y="8617" width="740" height="182" class="footprint"  mask="url(#fadeInMask)"/><rect id="Kent_Saxons" x="18345" y="8617" width="740" height="182" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Kent Saxons (c. 455 - 12/25/597)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="19085" y="8617" width="1135" height="182" class="footprint"/><rect id="Kent_Saxons" x="19085" y="8617" width="1135" height="182" class="angloSaxon"/><title>Kent Saxons (12/25/597 - 825)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Mons_Badonicus" target="_blank"><rect id="Battle_of_Mons_Badonicus" x="18570" y="8617" width="10" height="182" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Battle_of_Mons_Badonicus" x="18570" y="8617" width="10" height="182" class="backgroundBattle"  mask="url(#fadeInOutMask)"/><title>Battle of Mons Badonicus (c. 495 - c. 497)</title></a></g>
@@ -12132,6 +12132,25 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Cleph" target="_blank"><rect id="Cleph" x="18957" y="6297" width="8" height="15" class="lombards"/><title>Cleph (6/28/572 - 574)</title><g><rect x="18957" y="6297" width="8" height="15" class="king"/><title>king (6/28/572 - 574)</title></g>
 
 <text x="18958" y="6308" class="minor">CLEPH</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Authari" target="_blank"><rect id="Authari" x="18745" y="6322" width="303" height="15" class="lombards"  mask="url(#fadeInMask)"/><title>Authari (c. 540 - 9/5/590)</title><g><rect x="19015" y="6322" width="33" height="15" class="king"/><title>king (584 - 9/5/590)</title></g>
+
+<text x="18747" y="6333" class="minor">AUTHARI</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Agilulf" target="_blank"><rect id="Agilulf" x="18820" y="6347" width="356" height="25" class="lombards"  mask="url(#fadeInMask)"/><title>Agilulf (c. 555 - 4/616)</title><g><rect x="19048" y="6347" width="128" height="25" class="king"/><title>king (9/5/590 - 4/616)</title></g>
+
+<text x="18824" y="6366" class="semimajor">AGILULF</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Adaloald" target="_blank"><rect id="Adaloald" x="19176" y="6382" width="49" height="8" class="lombards"/><title>Adaloald (4/616 - 626)</title><g><rect x="19176" y="6382" width="49" height="8" class="king"/><title>king (4/616 - 626)</title></g>
+
+<text x="19176" y="6388" class="petty">ADALOALD</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Arioald" target="_blank"><rect id="Arioald" x="19045" y="6400" width="180" height="15" class="lombards"/><title>Arioald (590 - 636)</title><g><rect x="19045" y="6400" width="180" height="15" class="duke"/><title>duke (590 - 626)</title></g>
+<g><rect x="19225" y="6400" width="50" height="15" class="king"/><title>king (626 - 636)</title></g>
+
+<text x="19046" y="6411" class="minor">ARIOALD</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Rothari" target="_blank"><rect id="Rothari" x="19075" y="6425" width="280" height="25" class="lombards"  mask="url(#fadeInMask)"/><title>Rothari (c. 606 - 652)</title><g><rect x="19275" y="6425" width="80" height="25" class="king"/><title>king (636 - 652)</title></g>
+
+<text x="19079" y="6444" class="semimajor">ROTHARI</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Rodoald" target="_blank"><rect id="Rodoald" x="19230" y="6460" width="130" height="8" class="lombards"  mask="url(#fadeInMask)"/><title>Rodoald (c. 637 - 653)</title><g><rect x="19355" y="6460" width="5" height="8" class="king"/><title>king (652 - 653)</title></g>
+
+<text x="19230" y="6466" class="petty">RODOALD</text></a></g>
 
 <text x="18895" y="6252" class="dynasty">LOMBARDS</text>
 <text x="150" y="7461" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7645" width="70" height="40" class="guals"/><title>Brennus (400 BC - 386 BC)</title><g><rect x="14090" y="7645" width="80" height="40" class="chieftain"  mask="url(#fadeInMask)"/><title>chieftain (c. 400 BC - 386 BC)</title></g>

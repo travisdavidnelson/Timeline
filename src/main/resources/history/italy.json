@@ -319,6 +319,117 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Authari",
+              "style": "lombards",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "540",
+                "end": "9/5/590"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "584",
+                    "end": "9/5/590"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Agilulf",
+              "style": "lombards",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "555",
+                "end": "4/616"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/5/590",
+                    "end": "4/616"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Adaloald",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/616",
+                    "end": "626"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Arioald",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "590",
+                    "end": "626"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "626",
+                    "end": "636"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rothari",
+              "style": "lombards",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "606",
+                "end": "652"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "636",
+                    "end": "652"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rodoald",
+              "style": "lombards",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "637",
+                "end": "653"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "652",
+                    "end": "653"
+                  }
+                }
+              ]
             }
           ]
         }
