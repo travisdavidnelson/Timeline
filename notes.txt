@@ -1,6 +1,13 @@
 TODO
 
 
+20210326
+    Consider the Infinitely Recursive Model
+        timeline that
+        realizes the infinite zoom
+        background events are foreground events
+        lifetimes are dynasties are dynastyGroups are timelines
+        unite the clans!
 
 
 20200221
