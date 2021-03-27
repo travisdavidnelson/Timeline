@@ -2,6 +2,25 @@
   "name": "Political",
   "backgroundEvents": [
     {
+      "name": "Medieval Italy",
+      "timespan": {
+        "start": "456",
+        "endApproximate": "true",
+        "end": "1500"
+      },
+      "style": "medievalEurope"
+    },
+    {
+      "name": "Renaissance",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "1400",
+        "endApproximate": "true",
+        "end": "1600"
+      },
+      "style": "italianRenaissance"
+    },
+    {
       "name": "Kingdom of Italy",
       "timespan": {
         "start": "454",
