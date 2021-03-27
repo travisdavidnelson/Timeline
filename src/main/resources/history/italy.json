@@ -430,6 +430,276 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Aripert I",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "653",
+                    "end": "661"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Perctarit I",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "661",
+                    "end": "662"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "671",
+                    "end": "688"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Godepert",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "661",
+                    "end": "662"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Grimoald",
+              "style": "lombards",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "610",
+                "end": "671"
+              },
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "647",
+                    "end": "662"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "662",
+                    "end": "671"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Garibald",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "647",
+                    "end": "662"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "662",
+                    "end": "671"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alahis",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "688",
+                    "end": "689"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cunipert",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "688",
+                    "end": "700"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Liutpert",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "700",
+                    "end": "702"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Raginpert",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "701",
+                    "end": "702"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aripert II",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "701",
+                    "end": "712"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ansprand",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "712",
+                    "end": "713"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Liutprand",
+              "style": "lombards",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "712",
+                    "end": "744"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hildeprand",
+              "style": "lombards",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "744",
+                    "end": "745"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ratchis",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "739",
+                    "end": "744"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "744",
+                    "end": "749"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aistulf",
+              "style": "lombards",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "744",
+                    "end": "749"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "749",
+                    "end": "12/756"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Desiderius",
+              "style": "lombards",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "720",
+                "endApproximate": "true",
+                "end": "786"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "756",
+                    "end": "774"
+                  }
+                }
+              ]
             }
           ]
         }
