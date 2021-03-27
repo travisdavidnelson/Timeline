@@ -203,6 +203,14 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "Battle of the Caudine Forks",
+      "timespan": {
+        "start": "321 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattleDefeat"
+    },
+    {
       "name": "Hernici War",
       "timespan": {
         "start": "307 BC",
