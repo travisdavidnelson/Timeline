@@ -380,7 +380,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Siege_of_Alesia" target="_blank"><rect id="Siege_of_Alesia" x="15843" y="7573" width="1" height="1022" class="footprint"/><rect id="Siege_of_Alesia" x="15843" y="7573" width="1" height="1022" class="backgroundBattle"/><title>Siege of Alesia (9/52 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Principate" target="_blank"><rect id="Roman_Principate" x="15850" y="7573" width="1420" height="1022" class="footprint"/><rect id="Roman_Principate" x="15850" y="7573" width="1420" height="1022" class="romanPrincipate"/><title>Roman Principate (50 BC - 235)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Dominate" target="_blank"><rect id="Roman_Dominate" x="17270" y="7573" width="1255" height="1022" class="footprint"/><rect id="Roman_Dominate" x="17270" y="7573" width="1255" height="1022" class="romanDominate"/><title>Roman Dominate (235 - 486)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains" target="_blank"><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7573" width="1" height="1022" class="footprint"/><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7573" width="1" height="1022" class="backgroundBattle"/><title>Battle of the Catalaunian Plains (6/20/451)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Frankish_Kingdoms" target="_blank"><rect id="Frankish_Kingdoms" x="18525" y="7573" width="2505" height="1022" class="footprint"/><rect id="Frankish_Kingdoms" x="18525" y="7573" width="2505" height="1022" class="franks"/><title>Frankish Kingdoms (486 - 987)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Vouille" target="_blank"><rect id="Battle_of_Vouille" x="18633" y="7573" width="1" height="1022" class="footprint"/><rect id="Battle_of_Vouille" x="18633" y="7573" width="1" height="1022" class="backgroundBattle"/><title>Battle of Vouille (8/507)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Umayyad_invasion_of_Gual" target="_blank"><rect id="Umayyad_invasion_of_Gual" x="19690" y="7573" width="69" height="1022" class="footprint"/><rect id="Umayyad_invasion_of_Gual" x="19690" y="7573" width="69" height="1022" class="backgroundWar"/><title>Umayyad invasion of Gual (719 - 10/10/732)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Tours" target="_blank"><rect id="Battle_of_Tours" x="19758" y="7573" width="1" height="1022" class="footprint"/><rect id="Battle_of_Tours" x="19758" y="7573" width="1" height="1022" class="backgroundBattleVictory"/><title>Battle of Tours (10/10/732)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Carolingian_Empire" target="_blank"><rect id="Carolingian_Empire" x="20099" y="7573" width="197" height="1022" class="footprint"/><rect id="Carolingian_Empire" x="20099" y="7573" width="197" height="1022" class="carolingian"/><title>Carolingian Empire (12/25/800 - 6/20/840)</title></a></g>
@@ -823,6 +825,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Faventi" target="_blank"><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="victory"/><title>Battle of Faventi (5/542)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Taginae" target="_blank"><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="backgroundNationalCalamity"/><title>Battle of Taginae (7/552)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Lombard_Kingdom_in_Italy" target="_blank"><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="630" class="footprint"  mask="url(#fadeInMask)"/><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="630" class="lombards"  mask="url(#fadeInMask)"/><title>Lombard Kingdom in Italy (c. 560 - 774)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Visigothic_Foederati" target="_blank"><rect id="Visigothic_Foederati" x="18185" y="7595" width="448" height="210" class="footprint"/><rect id="Visigothic_Foederati" x="18185" y="7595" width="448" height="210" class="visigoths"/><title>Visigothic Foederati (418 - 8/507)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains" target="_blank"><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7595" width="1" height="210" class="footprint"/><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7595" width="1" height="210" class="backgroundBattle"/><title>Battle of the Catalaunian Plains (6/20/451)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Vouille" target="_blank"><rect id="Battle_of_Vouille" x="18633" y="7595" width="1" height="210" class="footprint"/><rect id="Battle_of_Vouille" x="18633" y="7595" width="1" height="210" class="backgroundBattleDefeat"/><title>Battle of Vouille (8/507)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="18345" y="8617" width="740" height="182" class="footprint"  mask="url(#fadeInMask)"/><rect id="Kent_Saxons" x="18345" y="8617" width="740" height="182" class="angloSaxonHeathen"  mask="url(#fadeInMask)"/><title>Kent Saxons (c. 455 - 12/25/597)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kent_Saxons" target="_blank"><rect id="Kent_Saxons" x="19085" y="8617" width="1135" height="182" class="footprint"/><rect id="Kent_Saxons" x="19085" y="8617" width="1135" height="182" class="angloSaxon"/><title>Kent Saxons (12/25/597 - 825)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Mons_Badonicus" target="_blank"><rect id="Battle_of_Mons_Badonicus" x="18570" y="8617" width="10" height="182" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Battle_of_Mons_Badonicus" x="18570" y="8617" width="10" height="182" class="backgroundBattle"  mask="url(#fadeInOutMask)"/><title>Battle of Mons Badonicus (c. 495 - c. 497)</title></a></g>
@@ -12060,6 +12065,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="18162" y="6433" class="semimajor">BONIFACIUS</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Flavius_Aetius" target="_blank"><rect id="Flavius_Aetius" x="18000" y="6449" width="369" height="40" class="roman"  mask="url(#fadeInMask)"/><title>Flavius Aetius (c. 391 - 9/21/454)</title><g><rect x="18220" y="6449" width="149" height="40" class="magisterMilitum"/><title>magisterMilitum (425 - 9/21/454)</title></g>
+<g><rect x="18352" y="6449" width="1" height="40" class="victory"/><title>Battle of the Catalaunian Plains (6/20/451)</title></g>
 
 <text x="18006" y="6479" class="major">FLAVIUS AETIUS</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Valentinian_III" target="_blank"><rect id="Valentinian_III" x="18192" y="6499" width="179" height="15" class="roman"/><title>Valentinian III (7/2/419 - 3/16/455)</title><g><rect x="18215" y="6499" width="9" height="15" class="caesar"/><title>caesar (424 - 10/23/425)</title></g>
@@ -12209,108 +12215,126 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="19649" y="6826" class="semimajor">DESIDERIUS</text></a></g>
 
 <text x="18895" y="6252" class="dynasty">LOMBARDS</text>
-<text x="150" y="7461" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7645" width="70" height="40" class="guals"/><title>Brennus (400 BC - 386 BC)</title><g><rect x="14090" y="7645" width="80" height="40" class="chieftain"  mask="url(#fadeInMask)"/><title>chieftain (c. 400 BC - 386 BC)</title></g>
+<text x="150" y="7461" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7645" width="70" height="40" class="gauls"/><title>Brennus (400 BC - 386 BC)</title><g><rect x="14090" y="7645" width="80" height="40" class="chieftain"  mask="url(#fadeInMask)"/><title>chieftain (c. 400 BC - 386 BC)</title></g>
 
 <text x="14103" y="7675" class="major">BRENNUS</text></a></g>
 
-<text x="14100" y="7635" class="dynasty">GUAL SENNONES</text><g><a xlink:href="http://en.wikipedia.org/wiki/Vercingetorix" target="_blank"><rect id="Vercingetorix" x="15640" y="7645" width="230" height="25" class="guals"  mask="url(#fadeInMask)"/><title>Vercingetorix (c. 82 BC - 46 BC)</title><g><rect x="15840" y="7645" width="5" height="25" class="chieftain"/><title>chieftain (52 BC - 51 BC)</title></g>
+<text x="14100" y="7635" class="dynasty">GUAL SENNONES</text><g><a xlink:href="http://en.wikipedia.org/wiki/Vercingetorix" target="_blank"><rect id="Vercingetorix" x="15640" y="7645" width="230" height="25" class="gauls"  mask="url(#fadeInMask)"/><title>Vercingetorix (c. 82 BC - 46 BC)</title><g><rect x="15840" y="7645" width="5" height="25" class="chieftain"/><title>chieftain (52 BC - 51 BC)</title></g>
 <g><rect x="15845" y="7645" width="25" height="25" class="pow"/><title>pow (51 BC - 46 BC)</title></g>
 
 <text x="15644" y="7664" class="semimajor">VERCINGETORIX</text></a></g>
 
-<text x="15840" y="7635" class="dynasty">GUAL ARVERNI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_I" target="_blank"><rect id="Clovis_I" x="18375" y="7645" width="279" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Clovis I (c. 466 - 11/27/511)</title><g><rect x="18500" y="7645" width="150" height="40" class="minorKing"  mask="url(#fadeOutMask)"/><title>minorKing (481 - c. 509)</title></g>
-<g><rect x="18630" y="7645" width="25" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 509 - 11/27/511)</title></g>
+<text x="15840" y="7635" class="dynasty">GUAL ARVERNI</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theodoric_I" target="_blank"><rect id="Theodoric_I" x="17995" y="7645" width="357" height="40" class="visigoths"  mask="url(#fadeInMask)"/><title>Theodoric I (c. 390 - 6/20/451)</title><g><rect x="18175" y="7645" width="177" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 418 - 6/20/451)</title></g>
+<g><rect x="18352" y="7645" width="1" height="40" class="victory"/><title>Battle of the Catalaunian Plains (6/20/451)</title></g>
 
-<text x="18381" y="7675" class="major">CLOVIS I</text></a></g>
+<text x="18001" y="7675" class="major">THEODORIC I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Thorismund" target="_blank"><rect id="Thorismund" x="18145" y="7695" width="215" height="15" class="visigoths"  mask="url(#fadeInMask)"/><title>Thorismund (c. 420 - 453)</title><g><rect x="18352" y="7695" width="8" height="15" class="king"/><title>king (6/20/451 - 453)</title></g>
+<g><rect x="18352" y="7695" width="1" height="15" class="victory"/><title>Battle of the Catalaunian Plains (6/20/451)</title></g>
 
-<text x="18500" y="7635" class="dynasty">MEROVINGIAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_I" target="_blank"><rect id="Childebert_I" x="18525" y="7767" width="365" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Childebert I (c. 496 - 12/13/558)</title><g><rect x="18654" y="7767" width="235" height="25" class="king"/><title>king (11/27/511 - 12/13/558)</title></g>
+<text x="18147" y="7706" class="minor">THORISMUND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theodoric_II" target="_blank"><rect id="Theodoric_II" x="18360" y="7720" width="65" height="15" class="visigoths"/><title>Theodoric II (453 - 466)</title><g><rect x="18360" y="7720" width="65" height="15" class="king"/><title>king (453 - 466)</title></g>
 
-<text x="18529" y="7786" class="semimajor">CHILDEBERT I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_I" target="_blank"><rect id="Chlothar_I" x="18525" y="7802" width="380" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Chlothar I (c. 496 - 11/29/561)</title><g><rect x="18889" y="7802" width="15" height="25" class="king"/><title>king (12/13/558 - 11/29/561)</title></g>
+<text x="18361" y="7731" class="minor">THEODORIC II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Euric" target="_blank"><rect id="Euric" x="18170" y="7745" width="350" height="25" class="visigoths"  mask="url(#fadeInMask)"/><title>Euric (c. 425 - 12/28/484)</title><g><rect x="18425" y="7745" width="95" height="25" class="king"/><title>king (466 - 12/28/484)</title></g>
 
-<text x="18529" y="7821" class="semimajor">CHLOTHAR I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Charibert_I" target="_blank"><rect id="Charibert_I" x="18630" y="7837" width="305" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Charibert I (c. 517 - 12/567)</title><g><rect x="18904" y="7837" width="30" height="8" class="king"/><title>king (11/29/561 - 12/567)</title></g>
+<text x="18174" y="7764" class="semimajor">EURIC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Alaric_II" target="_blank"><rect id="Alaric_II" x="18335" y="7780" width="298" height="15" class="visigoths"  mask="url(#fadeInMask)"/><title>Alaric II (c. 458 - 8/507)</title><g><rect x="18520" y="7780" width="113" height="15" class="king"/><title>king (12/28/484 - 8/507)</title></g>
 
-<text x="18630" y="7843" class="petty">CHARIBERT I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Chilperic_I" target="_blank"><rect id="Chilperic_I" x="18740" y="7855" width="278" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Chilperic I (c. 539 - 9/584)</title><g><rect x="18934" y="7855" width="84" height="15" class="king"/><title>king (12/567 - 9/584)</title></g>
+<text x="18337" y="7791" class="minor">ALARIC II</text></a></g>
 
-<text x="18742" y="7866" class="minor">CHILPERIC I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_II" target="_blank"><rect id="Chlothar_II" x="18965" y="7880" width="279" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Chlothar II (c. 584 - 10/18/629)</title><g><rect x="19018" y="7880" width="226" height="25" class="king"/><title>king (9/584 - 10/18/629)</title></g>
+<text x="18185" y="7635" class="dynasty">VISIGOTHS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_I" target="_blank"><rect id="Clovis_I" x="18375" y="7877" width="279" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Clovis I (c. 466 - 11/27/511)</title><g><rect x="18500" y="7877" width="150" height="40" class="minorKing"  mask="url(#fadeOutMask)"/><title>minorKing (481 - c. 509)</title></g>
+<g><rect x="18630" y="7877" width="25" height="40" class="king"  mask="url(#fadeInMask)"/><title>king (c. 509 - 11/27/511)</title></g>
 
-<text x="18969" y="7899" class="semimajor">CHLOTHAR II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_I" target="_blank"><rect id="Dagobert_I" x="19110" y="7767" width="180" height="25" class="franks"/><title>Dagobert I (603 - 1/19/639)</title><g><rect x="19244" y="7767" width="46" height="25" class="king"/><title>king (10/18/629 - 1/19/639)</title></g>
+<text x="18381" y="7907" class="major">CLOVIS I</text></a></g>
 
-<text x="19112" y="7786" class="semimajor">DAGOBERT I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_II" target="_blank"><rect id="Clovis_II" x="19260" y="7802" width="125" height="15" class="franks"/><title>Clovis II (633 - 11/27/657)</title><g><rect x="19290" y="7802" width="94" height="15" class="king"/><title>king (1/19/639 - 11/27/657)</title></g>
+<text x="18500" y="7867" class="dynasty">MEROVINGIAN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_I" target="_blank"><rect id="Childebert_I" x="18525" y="7999" width="365" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Childebert I (c. 496 - 12/13/558)</title><g><rect x="18654" y="7999" width="235" height="25" class="king"/><title>king (11/27/511 - 12/13/558)</title></g>
 
-<text x="19261" y="7813" class="minor">CLOVIS II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_III" target="_blank"><rect id="Chlothar_III" x="19355" y="7827" width="107" height="25" class="franks"/><title>Chlothar III (652 - 5/673)</title><g><rect x="19384" y="7827" width="77" height="25" class="king"/><title>king (11/27/657 - 5/673)</title></g>
+<text x="18529" y="8018" class="semimajor">CHILDEBERT I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_I" target="_blank"><rect id="Chlothar_I" x="18525" y="8034" width="380" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Chlothar I (c. 496 - 11/29/561)</title><g><rect x="18889" y="8034" width="15" height="25" class="king"/><title>king (12/13/558 - 11/29/561)</title></g>
 
-<text x="19357" y="7846" class="semimajor">CHLOTHAR III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Childeric_II" target="_blank"><rect id="Childeric_II" x="19360" y="7862" width="113" height="25" class="franks"/><title>Childeric II (653 - 9/675)</title><g><rect x="19461" y="7862" width="12" height="25" class="king"/><title>king (5/673 - 9/675)</title></g>
+<text x="18529" y="8053" class="semimajor">CHLOTHAR I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Charibert_I" target="_blank"><rect id="Charibert_I" x="18630" y="8069" width="305" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Charibert I (c. 517 - 12/567)</title><g><rect x="18904" y="8069" width="30" height="8" class="king"/><title>king (11/29/561 - 12/567)</title></g>
 
-<text x="19362" y="7881" class="semimajor">CHILDERIC II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_III" target="_blank"><rect id="Theuderic_III" x="19365" y="7897" width="186" height="15" class="franks"/><title>Theuderic III (654 - 4/12/691)</title><g><rect x="19473" y="7897" width="22" height="15" class="minorKing"/><title>minorKing (9/675 - 12/23/679)</title></g>
-<g><rect x="19494" y="7897" width="57" height="15" class="king"/><title>king (12/23/679 - 4/12/691)</title></g>
+<text x="18630" y="8075" class="petty">CHARIBERT I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chilperic_I" target="_blank"><rect id="Chilperic_I" x="18740" y="8087" width="278" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Chilperic I (c. 539 - 9/584)</title><g><rect x="18934" y="8087" width="84" height="15" class="king"/><title>king (12/567 - 9/584)</title></g>
 
-<text x="19366" y="7908" class="minor">THEUDERIC III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_IV" target="_blank"><rect id="Clovis_IV" x="19430" y="7922" width="140" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Clovis IV (c. 677 - 695)</title><g><rect x="19551" y="7922" width="19" height="8" class="king"/><title>king (4/12/691 - 695)</title></g>
+<text x="18742" y="8098" class="minor">CHILPERIC I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_II" target="_blank"><rect id="Chlothar_II" x="18965" y="8112" width="279" height="25" class="franks"  mask="url(#fadeInMask)"/><title>Chlothar II (c. 584 - 10/18/629)</title><g><rect x="19018" y="8112" width="226" height="25" class="king"/><title>king (9/584 - 10/18/629)</title></g>
 
-<text x="19430" y="7928" class="petty">CLOVIS IV</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_III" target="_blank"><rect id="Childebert_III" x="19435" y="7940" width="216" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Childebert III (c. 678 - 4/23/711)</title><g><rect x="19570" y="7940" width="82" height="8" class="king"/><title>king (695 - 4/23/711)</title></g>
+<text x="18969" y="8131" class="semimajor">CHLOTHAR II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_I" target="_blank"><rect id="Dagobert_I" x="19110" y="7999" width="180" height="25" class="franks"/><title>Dagobert I (603 - 1/19/639)</title><g><rect x="19244" y="7999" width="46" height="25" class="king"/><title>king (10/18/629 - 1/19/639)</title></g>
 
-<text x="19435" y="7946" class="petty">CHILDEBERT III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_III" target="_blank"><rect id="Dagobert_III" x="19540" y="7958" width="135" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Dagobert III (c. 699 - 12/31/715)</title><g><rect x="19651" y="7958" width="23" height="8" class="king"/><title>king (4/23/711 - 12/31/715)</title></g>
+<text x="19112" y="8018" class="semimajor">DAGOBERT I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_II" target="_blank"><rect id="Clovis_II" x="19260" y="8034" width="125" height="15" class="franks"/><title>Clovis II (633 - 11/27/657)</title><g><rect x="19290" y="8034" width="94" height="15" class="king"/><title>king (1/19/639 - 11/27/657)</title></g>
 
-<text x="19540" y="7964" class="petty">DAGOBERT III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Chilperic_II" target="_blank"><rect id="Chilperic_II" x="19405" y="7976" width="296" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Chilperic II (c. 672 - 2/13/721)</title><g><rect x="19675" y="7976" width="26" height="8" class="king"/><title>king (12/31/715 - 2/13/721)</title></g>
+<text x="19261" y="8045" class="minor">CLOVIS II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chlothar_III" target="_blank"><rect id="Chlothar_III" x="19355" y="8059" width="107" height="25" class="franks"/><title>Chlothar III (652 - 5/673)</title><g><rect x="19384" y="8059" width="77" height="25" class="king"/><title>king (11/27/657 - 5/673)</title></g>
 
-<text x="19405" y="7982" class="petty">CHILPERIC II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_IV" target="_blank"><rect id="Theuderic_IV" x="19605" y="7994" width="177" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Theuderic IV (c. 712 - 4/30/737)</title><g><rect x="19700" y="7994" width="81" height="8" class="king"/><title>king (2/13/721 - 4/30/737)</title></g>
+<text x="19357" y="8078" class="semimajor">CHLOTHAR III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Childeric_II" target="_blank"><rect id="Childeric_II" x="19360" y="8094" width="113" height="25" class="franks"/><title>Childeric II (653 - 9/675)</title><g><rect x="19461" y="8094" width="12" height="25" class="king"/><title>king (5/673 - 9/675)</title></g>
 
-<text x="19605" y="8000" class="petty">THEUDERIC IV</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Childeric_III" target="_blank"><rect id="Childeric_III" x="19630" y="8012" width="235" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Childeric III (c. 717 - 754)</title><g><rect x="19800" y="8012" width="54" height="8" class="king"/><title>king (741 - 11/751)</title></g>
+<text x="19362" y="8113" class="semimajor">CHILDERIC II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_III" target="_blank"><rect id="Theuderic_III" x="19365" y="8129" width="186" height="15" class="franks"/><title>Theuderic III (654 - 4/12/691)</title><g><rect x="19473" y="8129" width="22" height="15" class="minorKing"/><title>minorKing (9/675 - 12/23/679)</title></g>
+<g><rect x="19494" y="8129" width="57" height="15" class="king"/><title>king (12/23/679 - 4/12/691)</title></g>
 
-<text x="19630" y="8018" class="petty">CHILDERIC III</text></a></g>
+<text x="19366" y="8140" class="minor">THEUDERIC III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_IV" target="_blank"><rect id="Clovis_IV" x="19430" y="8154" width="140" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Clovis IV (c. 677 - 695)</title><g><rect x="19551" y="8154" width="19" height="8" class="king"/><title>king (4/12/691 - 695)</title></g>
 
-<text x="18654" y="7757" class="dynasty">NEUSTRIAN FRANKS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_I" target="_blank"><rect id="Theuderic_I" x="18480" y="8102" width="335" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Theuderic I (c. 487 - c. 534)</title><g><rect x="18654" y="8102" width="120" height="15" class="king"  mask="url(#fadeOutMask)"/><title>king (11/27/511 - c. 534)</title></g>
+<text x="19430" y="8160" class="petty">CLOVIS IV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_III" target="_blank"><rect id="Childebert_III" x="19435" y="8172" width="216" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Childebert III (c. 678 - 4/23/711)</title><g><rect x="19570" y="8172" width="82" height="8" class="king"/><title>king (695 - 4/23/711)</title></g>
 
-<text x="18482" y="8113" class="minor">THEUDERIC I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebert_I" target="_blank"><rect id="Theudebert_I" x="18560" y="8127" width="255" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Theudebert I (c. 503 - c. 534)</title><g><rect x="18755" y="8127" width="90" height="15" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 534 - c. 548)</title></g>
+<text x="19435" y="8178" class="petty">CHILDEBERT III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_III" target="_blank"><rect id="Dagobert_III" x="19540" y="8190" width="135" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Dagobert III (c. 699 - 12/31/715)</title><g><rect x="19651" y="8190" width="23" height="8" class="king"/><title>king (4/23/711 - 12/31/715)</title></g>
 
-<text x="18562" y="8138" class="minor">THEUDEBERT I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebald" target="_blank"><rect id="Theudebald" x="18720" y="8152" width="200" height="8" class="franks"  mask="url(#fadeInOutMask)"/><title>Theudebald (c. 535 - c. 555)</title><g><rect x="18825" y="8152" width="55" height="8" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 548 - c. 555)</title></g>
+<text x="19540" y="8196" class="petty">DAGOBERT III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chilperic_II" target="_blank"><rect id="Chilperic_II" x="19405" y="8208" width="296" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Chilperic II (c. 672 - 2/13/721)</title><g><rect x="19675" y="8208" width="26" height="8" class="king"/><title>king (12/31/715 - 2/13/721)</title></g>
 
-<text x="18720" y="8158" class="petty">THEUDEBALD</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_I" target="_blank"><rect id="Sigebert_I" x="18720" y="8170" width="300" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Sigebert I (c. 535 - c. 575)</title><g><rect x="18904" y="8170" width="75" height="15" class="king"  mask="url(#fadeOutMask)"/><title>king (11/29/561 - c. 575)</title></g>
+<text x="19405" y="8214" class="petty">CHILPERIC II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_IV" target="_blank"><rect id="Theuderic_IV" x="19605" y="8226" width="177" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Theuderic IV (c. 712 - 4/30/737)</title><g><rect x="19700" y="8226" width="81" height="8" class="king"/><title>king (2/13/721 - 4/30/737)</title></g>
 
-<text x="18722" y="8181" class="minor">SIGEBERT I</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_II" target="_blank"><rect id="Childebert_II" x="18895" y="8195" width="176" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Childebert II (c. 570 - 3/595)</title><g><rect x="18960" y="8195" width="111" height="15" class="king"  mask="url(#fadeInMask)"/><title>king (c. 575 - 3/595)</title></g>
+<text x="19605" y="8232" class="petty">THEUDERIC IV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Childeric_III" target="_blank"><rect id="Childeric_III" x="19630" y="8244" width="235" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Childeric III (c. 717 - 754)</title><g><rect x="19800" y="8244" width="54" height="8" class="king"/><title>king (741 - 11/751)</title></g>
 
-<text x="18897" y="8206" class="minor">CHILDEBERT II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebert_II" target="_blank"><rect id="Theudebert_II" x="19025" y="8102" width="130" height="15" class="franks"/><title>Theudebert II (586 - 612)</title><g><rect x="19070" y="8102" width="84" height="15" class="king"/><title>king (3/595 - 612)</title></g>
+<text x="19630" y="8250" class="petty">CHILDERIC III</text></a></g>
 
-<text x="19026" y="8113" class="minor">THEUDEBERT II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_II" target="_blank"><rect id="Theuderic_II" x="19030" y="8127" width="130" height="8" class="franks"/><title>Theuderic II (587 - 613)</title><g><rect x="19155" y="8127" width="5" height="8" class="king"/><title>king (612 - 613)</title></g>
+<text x="18654" y="7989" class="dynasty">NEUSTRIAN FRANKS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_I" target="_blank"><rect id="Theuderic_I" x="18480" y="8334" width="335" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Theuderic I (c. 487 - c. 534)</title><g><rect x="18654" y="8334" width="120" height="15" class="king"  mask="url(#fadeOutMask)"/><title>king (11/27/511 - c. 534)</title></g>
 
-<text x="19030" y="8133" class="petty">THEUDERIC II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_II" target="_blank"><rect id="Sigebert_II" x="19100" y="8145" width="65" height="8" class="franks"/><title>Sigebert II (601 - 12/613)</title><g><rect x="19160" y="8145" width="5" height="8" class="king"/><title>king (613 - 12/613)</title></g>
+<text x="18482" y="8345" class="minor">THEUDERIC I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebert_I" target="_blank"><rect id="Theudebert_I" x="18560" y="8359" width="255" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Theudebert I (c. 503 - c. 534)</title><g><rect x="18755" y="8359" width="90" height="15" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 534 - c. 548)</title></g>
 
-<text x="19100" y="8151" class="petty">SIGEBERT II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_III" target="_blank"><rect id="Sigebert_III" x="19245" y="8102" width="130" height="15" class="franks"/><title>Sigebert III (630 - 2/1/656)</title><g><rect x="19265" y="8102" width="110" height="15" class="king"/><title>king (634 - 2/1/656)</title></g>
+<text x="18562" y="8370" class="minor">THEUDEBERT I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebald" target="_blank"><rect id="Theudebald" x="18720" y="8384" width="200" height="8" class="franks"  mask="url(#fadeInOutMask)"/><title>Theudebald (c. 535 - c. 555)</title><g><rect x="18825" y="8384" width="55" height="8" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 548 - c. 555)</title></g>
 
-<text x="19246" y="8113" class="minor">SIGEBERT III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert" target="_blank"><rect id="Childebert" x="19270" y="8127" width="130" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Childebert (c. 645 - 661)</title><g><rect x="19375" y="8127" width="25" height="15" class="king"/><title>king (2/1/656 - 661)</title></g>
+<text x="18720" y="8390" class="petty">THEUDEBALD</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_I" target="_blank"><rect id="Sigebert_I" x="18720" y="8402" width="300" height="15" class="franks"  mask="url(#fadeInOutMask)"/><title>Sigebert I (c. 535 - c. 575)</title><g><rect x="18904" y="8402" width="75" height="15" class="king"  mask="url(#fadeOutMask)"/><title>king (11/29/561 - c. 575)</title></g>
 
-<text x="19272" y="8138" class="minor">CHILDEBERT</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_III" target="_blank"><rect id="Clovis_III" x="19395" y="8152" width="80" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Clovis III (c. 670 - 676)</title><g><rect x="19473" y="8152" width="2" height="8" class="king"/><title>king (9/675 - 676)</title></g>
+<text x="18722" y="8413" class="minor">SIGEBERT I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert_II" target="_blank"><rect id="Childebert_II" x="18895" y="8427" width="176" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Childebert II (c. 570 - 3/595)</title><g><rect x="18960" y="8427" width="111" height="15" class="king"  mask="url(#fadeInMask)"/><title>king (c. 575 - 3/595)</title></g>
 
-<text x="19395" y="8158" class="petty">CLOVIS III</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_II" target="_blank"><rect id="Dagobert_II" x="19295" y="8170" width="200" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Dagobert II (c. 650 - 12/23/679)</title><g><rect x="19475" y="8170" width="20" height="8" class="king"/><title>king (676 - 12/23/679)</title></g>
+<text x="18897" y="8438" class="minor">CHILDEBERT II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theudebert_II" target="_blank"><rect id="Theudebert_II" x="19025" y="8334" width="130" height="15" class="franks"/><title>Theudebert II (586 - 612)</title><g><rect x="19070" y="8334" width="84" height="15" class="king"/><title>king (3/595 - 612)</title></g>
 
-<text x="19295" y="8176" class="petty">DAGOBERT II</text></a></g>
+<text x="19026" y="8345" class="minor">THEUDEBERT II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theuderic_II" target="_blank"><rect id="Theuderic_II" x="19030" y="8359" width="130" height="8" class="franks"/><title>Theuderic II (587 - 613)</title><g><rect x="19155" y="8359" width="5" height="8" class="king"/><title>king (612 - 613)</title></g>
 
-<text x="18654" y="8092" class="dynasty">AUSTRASIAN FRANKS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Charles_Martel" target="_blank"><rect id="Charles_Martel" x="19440" y="7645" width="364" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Charles Martel (c. 679 - 10/22/741)</title><g><rect x="19670" y="7645" width="134" height="40" class="majordomo"/><title>majordomo (715 - 10/22/741)</title></g>
+<text x="19030" y="8365" class="petty">THEUDERIC II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_II" target="_blank"><rect id="Sigebert_II" x="19100" y="8377" width="65" height="8" class="franks"/><title>Sigebert II (601 - 12/613)</title><g><rect x="19160" y="8377" width="5" height="8" class="king"/><title>king (613 - 12/613)</title></g>
+
+<text x="19100" y="8383" class="petty">SIGEBERT II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Sigebert_III" target="_blank"><rect id="Sigebert_III" x="19245" y="8334" width="130" height="15" class="franks"/><title>Sigebert III (630 - 2/1/656)</title><g><rect x="19265" y="8334" width="110" height="15" class="king"/><title>king (634 - 2/1/656)</title></g>
+
+<text x="19246" y="8345" class="minor">SIGEBERT III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Childebert" target="_blank"><rect id="Childebert" x="19270" y="8359" width="130" height="15" class="franks"  mask="url(#fadeInMask)"/><title>Childebert (c. 645 - 661)</title><g><rect x="19375" y="8359" width="25" height="15" class="king"/><title>king (2/1/656 - 661)</title></g>
+
+<text x="19272" y="8370" class="minor">CHILDEBERT</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Clovis_III" target="_blank"><rect id="Clovis_III" x="19395" y="8384" width="80" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Clovis III (c. 670 - 676)</title><g><rect x="19473" y="8384" width="2" height="8" class="king"/><title>king (9/675 - 676)</title></g>
+
+<text x="19395" y="8390" class="petty">CLOVIS III</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Dagobert_II" target="_blank"><rect id="Dagobert_II" x="19295" y="8402" width="200" height="8" class="franks"  mask="url(#fadeInMask)"/><title>Dagobert II (c. 650 - 12/23/679)</title><g><rect x="19475" y="8402" width="20" height="8" class="king"/><title>king (676 - 12/23/679)</title></g>
+
+<text x="19295" y="8408" class="petty">DAGOBERT II</text></a></g>
+
+<text x="18654" y="8324" class="dynasty">AUSTRASIAN FRANKS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Charles_Martel" target="_blank"><rect id="Charles_Martel" x="19440" y="7645" width="364" height="40" class="franks"  mask="url(#fadeInMask)"/><title>Charles Martel (c. 679 - 10/22/741)</title><g><rect x="19670" y="7645" width="134" height="40" class="majordomo"/><title>majordomo (715 - 10/22/741)</title></g>
 <g><rect x="19758" y="7645" width="1" height="40" class="victory"/><title>Battle of Tours (10/10/732)</title></g>
 
 <text x="19446" y="7675" class="major">CHARLES MARTEL</text></a></g>

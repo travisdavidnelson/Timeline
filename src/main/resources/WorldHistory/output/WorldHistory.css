@@ -266,7 +266,6 @@
 .samnites 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .etruscans 			{fill:grey;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .carthage 			{fill:orange;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.gauls 				{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .islamicCaliphate	{fill:green;	fill-opacity:0.4}
 .rashidunCaliphate	{fill:#0aad0f;	fill-opacity:0.5}
 .umayyadCaliphate	{fill:#08870c;	fill-opacity:0.5}
@@ -282,7 +281,7 @@
 .franks 			{fill:#5894e2;		fill-opacity:0.4}
 .carolingian 		{fill:#075ac6;		fill-opacity:0.4}
 .westFrancia 		{fill:#3a89f2;		fill-opacity:0.4}
-.visigoths 			{fill:black;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
+.visigoths 			{fill:#8e1105;	fill-opacity:0.3}
 .ostrogoths 		{fill:#230401;	fill-opacity:0.3}
 .huns 				{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 

@@ -5336,6 +5336,16 @@
                     "end": "9/21/454"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Catalaunian Plains",
+                  "timespan": {
+                    "start": "6/20/451",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {

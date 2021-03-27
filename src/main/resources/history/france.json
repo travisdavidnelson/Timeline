@@ -64,12 +64,28 @@
       "style": "romanDominate"
     },
     {
+      "name": "Battle of the Catalaunian Plains",
+      "timespan": {
+        "start": "6/20/451",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Frankish Kingdoms",
       "timespan": {
         "start": "486",
         "end": "987"
       },
       "style": "franks"
+    },
+    {
+      "name": "Battle of Vouille",
+      "timespan": {
+        "start": "8/507",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Umayyad invasion of Gual",
@@ -794,14 +810,14 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Ancient Gual",
+      "name": "Ancient Gaul",
       "dynasties": [
         {
           "name": "Gual Sennones",
           "people": [
             {
               "name": "Brennus",
-              "style": "guals",
+              "style": "gauls",
               "importance": "major",
               "titles": [
                 {
@@ -822,7 +838,7 @@
           "people": [
             {
               "name": "Vercingetorix",
-              "style": "guals",
+              "style": "gauls",
               "timespan": {
                 "startApproximate": "true",
                 "start": "82 BC",
@@ -851,8 +867,150 @@
       ]
     },
     {
-      "name": "Early Merovingians",
+      "name": "Visigoths",
       "dynasties": [
+        {
+          "name": "Visigoths",
+          "backgroundEvents": [
+            {
+              "name": "Visigothic Foederati",
+              "timespan": {
+                "start": "418",
+                "end": "8/507"
+              },
+              "style": "visigoths"
+            },
+            {
+              "name": "Battle of the Catalaunian Plains",
+              "timespan": {
+                "start": "6/20/451",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Vouille",
+              "timespan": {
+                "start": "8/507",
+                "duration": "1m"
+              },
+              "style": "backgroundBattleDefeat"
+            }
+          ],
+          "people": [
+            {
+              "name": "Theodoric I",
+              "style": "visigoths",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "390",
+                "end": "6/20/451"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "418",
+                    "end": "6/20/451"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Catalaunian Plains",
+                  "timespan": {
+                    "start": "6/20/451",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
+              "name": "Thorismund",
+              "style": "visigoths",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "420",
+                "end": "453"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/20/451",
+                    "end": "453"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Catalaunian Plains",
+                  "timespan": {
+                    "start": "6/20/451",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
+              "name": "Theodoric II",
+              "style": "visigoths",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "453",
+                    "end": "466"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Euric",
+              "style": "visigoths",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "425",
+                "end": "12/28/484"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "466",
+                    "end": "12/28/484"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alaric II",
+              "style": "visigoths",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "458",
+                "end": "8/507"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/28/484",
+                    "end": "8/507"
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Merovingian",
           "people": [
