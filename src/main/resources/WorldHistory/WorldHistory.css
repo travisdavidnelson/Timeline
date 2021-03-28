@@ -148,7 +148,6 @@
 .barbarian {fill:purple; fill-opacity:0.8}
 .germanicBarbarian {fill:#7f261f; fill-opacity:0.3}
 .foederati {fill:#991209; fill-opacity:0.4}
-.ostrogothicKingdom {fill:#230401; fill-opacity:0.2}
 .american {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .colonist {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
 .patriot {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.1; box-shadow: -5px -5px 5px #888;}
@@ -283,5 +282,6 @@
 .westFrancia 		{fill:#3a89f2;		fill-opacity:0.4}
 .visigoths 			{fill:#231501;	fill-opacity:0.3}
 .ostrogoths 		{fill:#230401;	fill-opacity:0.3}
+.ostrogothicKingdom {fill:#230401; fill-opacity:0.2}
 .huns 				{fill:yellow;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 

@@ -827,7 +827,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Byzantine_invasion_of_Italy" target="_blank"><rect id="Byzantine_invasion_of_Italy" x="18777" y="5949" width="20" height="241" class="footprint"/><rect id="Byzantine_invasion_of_Italy" x="18777" y="5949" width="20" height="241" class="backgroundInvasion"/><title>Byzantine invasion of Italy (6/536 - 5/540)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Faventi" target="_blank"><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Faventi" x="18806" y="5949" width="1" height="241" class="victory"/><title>Battle of Faventi (5/542)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Taginae" target="_blank"><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="footprint"/><rect id="Battle_of_Taginae" x="18857" y="5949" width="1" height="241" class="backgroundNationalCalamity"/><title>Battle of Taginae (7/552)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Lombard_Kingdom_in_Italy" target="_blank"><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="630" class="footprint"  mask="url(#fadeInMask)"/><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="630" class="lombards"  mask="url(#fadeInMask)"/><title>Lombard Kingdom in Italy (c. 560 - 774)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Lombard_Kingdom_in_Italy" target="_blank"><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="377" class="footprint"  mask="url(#fadeInMask)"/><rect id="Lombard_Kingdom_in_Italy" x="18870" y="6212" width="1095" height="377" class="lombards"  mask="url(#fadeInMask)"/><title>Lombard Kingdom in Italy (c. 560 - 774)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Visigothic_Foederati" target="_blank"><rect id="Visigothic_Foederati" x="18185" y="7595" width="448" height="348" class="footprint"/><rect id="Visigothic_Foederati" x="18185" y="7595" width="448" height="348" class="visigoths"/><title>Visigothic Foederati (418 - 8/507)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains" target="_blank"><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7595" width="1" height="348" class="footprint"/><rect id="Battle_of_the_Catalaunian_Plains" x="18352" y="7595" width="1" height="348" class="backgroundBattle"/><title>Battle of the Catalaunian Plains (6/20/451)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Vouille" target="_blank"><rect id="Battle_of_Vouille" x="18633" y="7595" width="1" height="348" class="footprint"/><rect id="Battle_of_Vouille" x="18633" y="7595" width="1" height="348" class="backgroundBattleDefeat"/><title>Battle of Vouille (8/507)</title></a></g>
@@ -12181,41 +12181,41 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="19405" y="6571" width="45" height="8" class="king"/><title>king (662 - 671)</title></g>
 
 <text x="19330" y="6577" class="petty">GARIBALD</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Alahis" target="_blank"><rect id="Alahis" x="19535" y="6589" width="5" height="8" class="lombards"/><title>Alahis (688 - 689)</title><g><rect x="19535" y="6589" width="5" height="8" class="king"/><title>king (688 - 689)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Alahis" target="_blank"><rect id="Alahis" x="19535" y="6262" width="5" height="8" class="lombards"/><title>Alahis (688 - 689)</title><g><rect x="19535" y="6262" width="5" height="8" class="king"/><title>king (688 - 689)</title></g>
 
-<text x="19535" y="6595" class="petty">ALAHIS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Cunipert" target="_blank"><rect id="Cunipert" x="19535" y="6607" width="60" height="8" class="lombards"/><title>Cunipert (688 - 700)</title><g><rect x="19535" y="6607" width="60" height="8" class="king"/><title>king (688 - 700)</title></g>
+<text x="19535" y="6268" class="petty">ALAHIS</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Cunipert" target="_blank"><rect id="Cunipert" x="19535" y="6280" width="60" height="8" class="lombards"/><title>Cunipert (688 - 700)</title><g><rect x="19535" y="6280" width="60" height="8" class="king"/><title>king (688 - 700)</title></g>
 
-<text x="19535" y="6613" class="petty">CUNIPERT</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Liutpert" target="_blank"><rect id="Liutpert" x="19595" y="6625" width="10" height="8" class="lombards"/><title>Liutpert (700 - 702)</title><g><rect x="19595" y="6625" width="10" height="8" class="king"/><title>king (700 - 702)</title></g>
+<text x="19535" y="6286" class="petty">CUNIPERT</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Liutpert" target="_blank"><rect id="Liutpert" x="19595" y="6298" width="10" height="8" class="lombards"/><title>Liutpert (700 - 702)</title><g><rect x="19595" y="6298" width="10" height="8" class="king"/><title>king (700 - 702)</title></g>
 
-<text x="19595" y="6631" class="petty">LIUTPERT</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Raginpert" target="_blank"><rect id="Raginpert" x="19600" y="6643" width="5" height="8" class="lombards"/><title>Raginpert (701 - 702)</title><g><rect x="19600" y="6643" width="5" height="8" class="king"/><title>king (701 - 702)</title></g>
+<text x="19595" y="6304" class="petty">LIUTPERT</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Raginpert" target="_blank"><rect id="Raginpert" x="19600" y="6316" width="5" height="8" class="lombards"/><title>Raginpert (701 - 702)</title><g><rect x="19600" y="6316" width="5" height="8" class="king"/><title>king (701 - 702)</title></g>
 
-<text x="19600" y="6649" class="petty">RAGINPERT</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Aripert_II" target="_blank"><rect id="Aripert_II" x="19600" y="6661" width="55" height="15" class="lombards"/><title>Aripert II (701 - 712)</title><g><rect x="19600" y="6661" width="55" height="15" class="king"/><title>king (701 - 712)</title></g>
+<text x="19600" y="6322" class="petty">RAGINPERT</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aripert_II" target="_blank"><rect id="Aripert_II" x="19600" y="6334" width="55" height="15" class="lombards"/><title>Aripert II (701 - 712)</title><g><rect x="19600" y="6334" width="55" height="15" class="king"/><title>king (701 - 712)</title></g>
 
-<text x="19601" y="6672" class="minor">ARIPERT II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ansprand" target="_blank"><rect id="Ansprand" x="19655" y="6686" width="5" height="8" class="lombards"/><title>Ansprand (712 - 713)</title><g><rect x="19655" y="6686" width="5" height="8" class="king"/><title>king (712 - 713)</title></g>
+<text x="19601" y="6345" class="minor">ARIPERT II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ansprand" target="_blank"><rect id="Ansprand" x="19655" y="6359" width="5" height="8" class="lombards"/><title>Ansprand (712 - 713)</title><g><rect x="19655" y="6359" width="5" height="8" class="king"/><title>king (712 - 713)</title></g>
 
-<text x="19655" y="6692" class="petty">ANSPRAND</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Liutprand" target="_blank"><rect id="Liutprand" x="19655" y="6704" width="160" height="25" class="lombards"/><title>Liutprand (712 - 744)</title><g><rect x="19655" y="6704" width="160" height="25" class="king"/><title>king (712 - 744)</title></g>
+<text x="19655" y="6365" class="petty">ANSPRAND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Liutprand" target="_blank"><rect id="Liutprand" x="19655" y="6377" width="160" height="25" class="lombards"/><title>Liutprand (712 - 744)</title><g><rect x="19655" y="6377" width="160" height="25" class="king"/><title>king (712 - 744)</title></g>
 
-<text x="19657" y="6723" class="semimajor">LIUTPRAND</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Hildeprand" target="_blank"><rect id="Hildeprand" x="19815" y="6739" width="5" height="8" class="lombards"/><title>Hildeprand (744 - 745)</title><g><rect x="19815" y="6739" width="5" height="8" class="king"/><title>king (744 - 745)</title></g>
+<text x="19657" y="6396" class="semimajor">LIUTPRAND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hildeprand" target="_blank"><rect id="Hildeprand" x="19815" y="6412" width="5" height="8" class="lombards"/><title>Hildeprand (744 - 745)</title><g><rect x="19815" y="6412" width="5" height="8" class="king"/><title>king (744 - 745)</title></g>
 
-<text x="19815" y="6745" class="petty">HILDEPRAND</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ratchis" target="_blank"><rect id="Ratchis" x="19790" y="6757" width="25" height="15" class="lombards"/><title>Ratchis (739 - 749)</title><g><rect x="19790" y="6757" width="25" height="15" class="duke"/><title>duke (739 - 744)</title></g>
-<g><rect x="19815" y="6757" width="25" height="15" class="king"/><title>king (744 - 749)</title></g>
+<text x="19815" y="6418" class="petty">HILDEPRAND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ratchis" target="_blank"><rect id="Ratchis" x="19790" y="6430" width="25" height="15" class="lombards"/><title>Ratchis (739 - 749)</title><g><rect x="19790" y="6430" width="25" height="15" class="duke"/><title>duke (739 - 744)</title></g>
+<g><rect x="19815" y="6430" width="25" height="15" class="king"/><title>king (744 - 749)</title></g>
 
-<text x="19791" y="6768" class="minor">RATCHIS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Aistulf" target="_blank"><rect id="Aistulf" x="19815" y="6782" width="40" height="15" class="lombards"/><title>Aistulf (744 - 12/756)</title><g><rect x="19815" y="6782" width="25" height="15" class="duke"/><title>duke (744 - 749)</title></g>
-<g><rect x="19840" y="6782" width="40" height="15" class="king"/><title>king (749 - 12/756)</title></g>
+<text x="19791" y="6441" class="minor">RATCHIS</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aistulf" target="_blank"><rect id="Aistulf" x="19815" y="6455" width="40" height="15" class="lombards"/><title>Aistulf (744 - 12/756)</title><g><rect x="19815" y="6455" width="25" height="15" class="duke"/><title>duke (744 - 749)</title></g>
+<g><rect x="19840" y="6455" width="40" height="15" class="king"/><title>king (749 - 12/756)</title></g>
 
-<text x="19816" y="6793" class="minor">AISTULF</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Desiderius" target="_blank"><rect id="Desiderius" x="19645" y="6807" width="430" height="25" class="lombards"  mask="url(#fadeInOutMask)"/><title>Desiderius (c. 720 - c. 786)</title><g><rect x="19875" y="6807" width="90" height="25" class="king"/><title>king (756 - 774)</title></g>
+<text x="19816" y="6466" class="minor">AISTULF</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Desiderius" target="_blank"><rect id="Desiderius" x="19645" y="6480" width="430" height="25" class="lombards"  mask="url(#fadeInOutMask)"/><title>Desiderius (c. 720 - c. 786)</title><g><rect x="19875" y="6480" width="90" height="25" class="king"/><title>king (756 - 774)</title></g>
 
-<text x="19649" y="6826" class="semimajor">DESIDERIUS</text></a></g>
+<text x="19649" y="6499" class="semimajor">DESIDERIUS</text></a></g>
 
 <text x="18895" y="6252" class="dynasty">LOMBARDS</text>
 <text x="150" y="7461" class="channel">ITALY</text><g><a xlink:href="http://en.wikipedia.org/wiki/Brennus" target="_blank"><rect id="Brennus" x="14100" y="7645" width="70" height="40" class="gauls"/><title>Brennus (400 BC - 386 BC)</title><g><rect x="14090" y="7645" width="80" height="40" class="chieftain"  mask="url(#fadeInMask)"/><title>chieftain (c. 400 BC - 386 BC)</title></g>

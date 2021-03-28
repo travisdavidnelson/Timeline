@@ -547,6 +547,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Alahis",
               "style": "lombards",
               "importance": "petty",
