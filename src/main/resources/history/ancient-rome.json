@@ -861,8 +861,8 @@
     {
       "name": "Sack of Rome (410)",
       "timespan": {
-        "start": "410",
-        "end": "410"
+        "start": "8/24/410",
+        "duration": "3d"
       },
       "style": "backgroundNationalCalamity"
     },
@@ -5416,8 +5416,8 @@
             {
               "name": "Sack of Rome (410)",
               "timespan": {
-                "start": "410",
-                "end": "410"
+                "start": "8/24/410",
+                "duration": "3d"
               },
               "style": "backgroundNationalCalamity"
             },

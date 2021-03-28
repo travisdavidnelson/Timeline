@@ -64,6 +64,14 @@
       "style": "romanDominate"
     },
     {
+      "name": "Sack of Rome (410)",
+      "timespan": {
+        "start": "8/24/410",
+        "duration": "3d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Battle of the Catalaunian Plains",
       "timespan": {
         "start": "6/20/451",
@@ -898,6 +906,97 @@
             }
           ],
           "people": [
+            {
+              "name": "Alaric I",
+              "style": "visigoths",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "370",
+                "end": "411"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "395",
+                    "end": "411"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Rome (410)",
+                  "timespan": {
+                    "start": "8/24/410",
+                    "duration": "3d"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
+              "name": "Athaulf",
+              "style": "visigoths",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "370",
+                "end": "8/15/415"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "411",
+                    "end": "8/15/415"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Sigeric",
+              "style": "visigoths",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "8/15/415",
+                    "end": "8/22/415"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Wallia I",
+              "style": "visigoths",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "385",
+                "end": "418"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "415",
+                    "end": "418"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
             {
               "name": "Theodoric I",
               "style": "visigoths",
