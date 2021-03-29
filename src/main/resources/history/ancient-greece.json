@@ -405,6 +405,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Black Death",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "start": "1348",
+        "duration": "5y"
+      }
+    },
+    {
       "name": "Fall of Constantinople",
       "timespan": {
         "start": "1453",

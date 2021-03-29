@@ -68,6 +68,14 @@
       "style": "abbasidCaliphate"
     },
     {
+      "name": "Black Death",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "start": "1348",
+        "duration": "5y"
+      }
+    },
+    {
       "name": "Ottoman Empire",
       "timespan": {
         "start": "1517",

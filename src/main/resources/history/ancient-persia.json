@@ -177,6 +177,14 @@
         "end": "247 BC"
       },
       "style": "seleucid"
+    },
+    {
+      "name": "Black Death",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "start": "1350",
+        "duration": "5y"
+      }
     }
   ],
   "dynastyGroups": [
