@@ -373,7 +373,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Rome_(455)" target="_blank"><rect id="Sack_of_Rome_(455)" x="18370" y="5820" width="1" height="1753" class="footprint"/><rect id="Sack_of_Rome_(455)" x="18370" y="5820" width="1" height="1753" class="backgroundNationalCalamity"/><title>Sack of Rome (455) (455 - 455)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Actium" target="_blank"><rect id="Battle_of_Actium" x="15948" y="5820" width="1" height="1753" class="footprint"/><rect id="Battle_of_Actium" x="15948" y="5820" width="1" height="1753" class="backgroundBattle"/><title>Battle of Actium (9/2/31 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Medieval_Italy" target="_blank"><rect id="Medieval_Italy" x="18375" y="5820" width="5245" height="1753" class="footprint"  mask="url(#fadeOutMask)"/><rect id="Medieval_Italy" x="18375" y="5820" width="5245" height="1753" class="medievalEurope"  mask="url(#fadeOutMask)"/><title>Medieval Italy (456 - c. 1500)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Black_Death" target="_blank"><rect id="Black_Death" x="22835" y="5820" width="25" height="1753" class="footprint"/><rect id="Black_Death" x="22835" y="5820" width="25" height="1753" class="backgroundPlagueMajor"/><title>Black Death (1348)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Black_Death" target="_blank"><rect id="Black_Death" x="22830" y="5820" width="25" height="1753" class="footprint"/><rect id="Black_Death" x="22830" y="5820" width="25" height="1753" class="backgroundPlagueMajor"/><title>Black Death (1347)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Renaissance" target="_blank"><rect id="Renaissance" x="23070" y="5820" width="1050" height="1753" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Renaissance" x="23070" y="5820" width="1050" height="1753" class="italianRenaissance"  mask="url(#fadeInOutMask)"/><title>Renaissance (c. 1400 - c. 1600)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Kingdom_of_Italy" target="_blank"><rect id="Kingdom_of_Italy" x="18365" y="5820" width="196" height="1753" class="footprint"/><rect id="Kingdom_of_Italy" x="18365" y="5820" width="196" height="1753" class="germanicBarbarian"/><title>Kingdom of Italy (454 - 3/15/493)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Sack_of_Rome_(455)" target="_blank"><rect id="Sack_of_Rome_(455)" x="18370" y="5820" width="1" height="1753" class="footprint"/><rect id="Sack_of_Rome_(455)" x="18370" y="5820" width="1" height="1753" class="backgroundNationalCalamity"/><title>Sack of Rome (455) (455 - 455)</title></a></g>
@@ -11050,6 +11050,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="14193" y="4988" class="major">PHILIP II</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Alexander_III" target="_blank"><rect id="Alexander_III" x="14322" y="5008" width="164" height="50" class="macedon"/><title>Alexander III (7/20/356 BC - 6/11/323 BC)</title><g><rect x="14420" y="5008" width="67" height="50" class="king"/><title>king (336 BC - 6/11/323 BC)</title></g>
+<g><rect x="14431" y="5008" width="1" height="50" class="victory"/><title>Battle Of the Granicus (5/3/334 BC)</title></g>
+<g><rect x="14439" y="5008" width="1" height="50" class="victory"/><title>Battle Of Issus (11/5/333 BC)</title></g>
+<g><rect x="14448" y="5008" width="1" height="50" class="victory"/><title>Battle Of Gaugamela (10/1/331 BC)</title></g>
 
 <text x="14328" y="5048" class="transformational">ALEXANDER III</text></a></g>
 
@@ -13393,7 +13396,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Tony_Blair" target="_blank"><rect id="Tony_Blair" x="25861" y="9105" width="339" height="25" class="labour"/><title>Tony Blair (5/6/1953)</title><g><rect x="26081" y="9105" width="51" height="25" class="primeMinister"/><title>primeMinister (5/2/1997 - 6/27/2007)</title></g>
 
 <text x="25863" y="9124" class="semimajor">TONY BLAIR</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Gordon_Brown" target="_blank"><rect id="Gordon_Brown" x="25850" y="9140" width="350" height="8" class="labour"/><title>Gordon Brown (2/20/1951)</title><g><rect x="26132" y="9140" width="14" height="8" class="primeMinister"/><title>primeMinister (6/27/2007 - 5/11/2010)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gordon_Brown" target="_blank"><rect id="Gordon_Brown" x="25850" y="9140" width="351" height="8" class="labour"/><title>Gordon Brown (2/20/1951)</title><g><rect x="26132" y="9140" width="14" height="8" class="primeMinister"/><title>primeMinister (6/27/2007 - 5/11/2010)</title></g>
 
 <text x="25850" y="9146" class="petty">GORDON BROWN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/David_Cameron" target="_blank"><rect id="David_Cameron" x="25928" y="9158" width="272" height="15" class="conservative"/><title>David Cameron (10/9/1966)</title><g><rect x="26146" y="9158" width="31" height="15" class="primeMinister"/><title>primeMinister (5/11/2010 - 7/13/2016)</title></g>

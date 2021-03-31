@@ -809,6 +809,32 @@
                     "end": "6/11/323 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of the Granicus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/3/334 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle Of Issus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/333 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle Of Gaugamela",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/1/331 BC",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]
