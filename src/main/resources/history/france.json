@@ -88,12 +88,36 @@
       "style": "franks"
     },
     {
+      "name": "Franco-Visigothic Wars",
+      "timespan": {
+        "start": "492",
+        "end": "508"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Frankish-Burgundian War",
+      "timespan": {
+        "start": "523",
+        "end": "533"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Battle of Vouille",
       "timespan": {
         "start": "8/507",
         "duration": "1m"
       },
       "style": "backgroundBattle"
+    },
+    {
+      "name": "Frankish Civil War",
+      "timespan": {
+        "start": "715",
+        "end": "719"
+      },
+      "style": "backgroundCivilWar"
     },
     {
       "name": "Umayyad invasion of Gual",
