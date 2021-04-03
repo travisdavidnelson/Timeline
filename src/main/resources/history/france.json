@@ -2947,14 +2947,14 @@
               ]
             },
             {
-              "name": "Gilbert du Motier",
+              "name": "Lafayette",
               "style": "frenchRepublic",
               "timespan": {
                 "start": "9/6/1757",
                 "end": "5/20/1834"
               },
-              "importance": "semimajor",
-              "annotation": "Marquis de Lafayette",
+              "importance": "major",
+              "annotation": "Gilbert du Motier, Marquis de Lafayette",
               "titles": [
               ]
             }
