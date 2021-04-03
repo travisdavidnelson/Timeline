@@ -771,17 +771,33 @@
       "name": "Second Republic",
       "timespan": {
         "start": "1848",
-        "end": "1852"
+        "end": "12/2/1851"
       },
       "style": "frenchRepublic"
     },
     {
       "name": "Second Napoleonic Empire",
       "timespan": {
-        "start": "1852",
-        "end": "1871"
+        "start": "12/2/1851",
+        "end": "9/1/1870"
       },
       "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "1851 French coup d'etat",
+      "timespan": {
+        "start": "12/2/1851",
+        "duration": "1d"
+      },
+      "style": "backgroundRevolution"
+    },
+    {
+      "name": "Battle of Sedan",
+      "timespan": {
+        "start": "9/1/1870",
+        "end": "9/2/1870"
+      },
+      "style": "backgroundNationalCalamity"
     },
     {
       "name": "Third Republic",
@@ -3111,10 +3127,10 @@
           ]
         },
         {
-          "name": "Directory",
+          "name": "Bonaparte",
           "people": [
             {
-              "name": "Napoleon Bonaparte",
+              "name": "Napoleon I",
               "style": "frenchNapoleonicEmpire",
               "timespan": {
                 "start": "8/15/1769",
@@ -3222,6 +3238,48 @@
                     "start": "6/18/1815",
                     "duration": "1d"
                   }
+                }
+              ]
+            },
+            {
+              "name": "Napoleon III",
+              "style": "frenchNapoleonicEmpire",
+              "timespan": {
+                "start": "4/20/1818",
+                "end": "1/9/1873"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "12/20/1848",
+                    "end": "12/2/1852"
+                  }
+                },
+                {
+                  "name": "frenchEmperor",
+                  "timespan": {
+                    "start": "12/2/1852",
+                    "end": "9/4/1870"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "9/4/1870",
+                    "end": "1/9/1873"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Sedan",
+                  "timespan": {
+                    "start": "9/1/1870",
+                    "end": "9/2/1870"
+                  },
+                  "style": "defeat"
                 }
               ]
             }

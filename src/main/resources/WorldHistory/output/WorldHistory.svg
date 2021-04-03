@@ -477,8 +477,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Waterloo" target="_blank"><rect id="Battle_of_Waterloo" x="25172" y="7573" width="1" height="1079" class="footprint"/><rect id="Battle_of_Waterloo" x="25172" y="7573" width="1" height="1079" class="defeat"/><title>Battle of Waterloo (6/18/1815)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bourbon_Restoration" target="_blank"><rect id="Bourbon_Restoration" x="25174" y="7573" width="71" height="1079" class="footprint"/><rect id="Bourbon_Restoration" x="25174" y="7573" width="71" height="1079" class="frenchMonarchy"/><title>Bourbon Restoration (11/20/1815 - 1830)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/July_Monarchy" target="_blank"><rect id="July_Monarchy" x="25244" y="7573" width="90" height="1079" class="footprint"/><rect id="July_Monarchy" x="25244" y="7573" width="90" height="1079" class="frenchMonarchy"/><title>July Monarchy (1830 - 1848)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Second_Republic" target="_blank"><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="footprint"/><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="frenchRepublic"/><title>Second Republic (1848 - 1852)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Second_Napoleonic_Empire" target="_blank"><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="95" height="1079" class="footprint"/><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="95" height="1079" class="frenchNapoleonicEmpire"/><title>Second Napoleonic Empire (1852 - 1871)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Second_Republic" target="_blank"><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="footprint"/><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="frenchRepublic"/><title>Second Republic (1848 - 12/2/1851)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Second_Napoleonic_Empire" target="_blank"><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="94" height="1079" class="footprint"/><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="94" height="1079" class="frenchNapoleonicEmpire"/><title>Second Napoleonic Empire (12/2/1851 - 9/1/1870)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/1851_French_coup_d'etat" target="_blank"><rect id="1851_French_coup_d'etat" x="25354" y="7573" width="1" height="1079" class="footprint"/><rect id="1851_French_coup_d'etat" x="25354" y="7573" width="1" height="1079" class="backgroundRevolution"/><title>1851 French coup d'etat (12/2/1851)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Sedan" target="_blank"><rect id="Battle_of_Sedan" x="25448" y="7573" width="1" height="1079" class="footprint"/><rect id="Battle_of_Sedan" x="25448" y="7573" width="1" height="1079" class="backgroundNationalCalamity"/><title>Battle of Sedan (9/1/1870 - 9/2/1870)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Third_Republic" target="_blank"><rect id="Third_Republic" x="25449" y="7573" width="345" height="1079" class="footprint"/><rect id="Third_Republic" x="25449" y="7573" width="345" height="1079" class="frenchRepublic"/><title>Third Republic (1871 - 1940)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_I" target="_blank"><rect id="World_War_I" x="25667" y="7573" width="21" height="1079" class="footprint"/><rect id="World_War_I" x="25667" y="7573" width="21" height="1079" class="backgroundWar"/><title>World War I (7/28/1914 - 11/11/1918)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Somme" target="_blank"><rect id="Battle_of_the_Somme" x="25677" y="7573" width="2" height="1079" class="footprint"/><rect id="Battle_of_the_Somme" x="25677" y="7573" width="2" height="1079" class="backgroundNationalCalamity"/><title>Battle of the Somme (7/1/1916 - 11/18/1916)</title></a></g>
@@ -12583,7 +12585,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="24935" y="8064" class="semimajor">LOUIS SAINT-JUST</text></a></g>
 
-<text x="25061" y="7950" class="dynasty">JACOBINS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Napoleon_Bonaparte" target="_blank"><rect id="Napoleon_Bonaparte" x="24943" y="8152" width="259" height="40" class="frenchNapoleonicEmpire"/><title>Napoleon Bonaparte (8/15/1769 - 5/5/1821)</title><g><rect x="25094" y="8152" width="23" height="40" class="frenchFirstConsul"/><title>frenchFirstConsul (11/10/1799 - 5/18/1804)</title></g>
+<text x="25061" y="7950" class="dynasty">JACOBINS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Napoleon_I" target="_blank"><rect id="Napoleon_I" x="24943" y="8152" width="259" height="40" class="frenchNapoleonicEmpire"/><title>Napoleon I (8/15/1769 - 5/5/1821)</title><g><rect x="25094" y="8152" width="23" height="40" class="frenchFirstConsul"/><title>frenchFirstConsul (11/10/1799 - 5/18/1804)</title></g>
 <g><rect x="25116" y="8152" width="49" height="40" class="frenchEmperor"/><title>frenchEmperor (5/18/1804 - 4/4/1814)</title></g>
 <g><rect x="25166" y="8152" width="5" height="40" class="exile"/><title>exile (4/4/1814 - 3/20/1815)</title></g>
 <g><rect x="25171" y="8152" width="2" height="40" class="frenchEmperor"/><title>frenchEmperor (3/20/1815 - 7/8/1815)</title></g>
@@ -12597,9 +12599,15 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25163" y="8152" width="1" height="40" class="victory"/><title>Battle of Leipzig (10/16/1813 - 10/19/1813)</title></g>
 <g><rect x="25172" y="8152" width="1" height="40" class="defeat"/><title>Battle of Waterloo (6/18/1815)</title></g>
 
-<text x="24946" y="8182" class="major">NAPOLEON BONAPARTE</text></a></g>
+<text x="24946" y="8182" class="major">NAPOLEON I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Napoleon_III" target="_blank"><rect id="Napoleon_III" x="25186" y="8202" width="274" height="25" class="frenchNapoleonicEmpire"/><title>Napoleon III (4/20/1818 - 1/9/1873)</title><g><rect x="25339" y="8202" width="20" height="25" class="frenchPresident"/><title>frenchPresident (12/20/1848 - 12/2/1852)</title></g>
+<g><rect x="25359" y="8202" width="89" height="25" class="frenchEmperor"/><title>frenchEmperor (12/2/1852 - 9/4/1870)</title></g>
+<g><rect x="25448" y="8202" width="12" height="25" class="exile"/><title>exile (9/4/1870 - 1/9/1873)</title></g>
+<g><rect x="25448" y="8202" width="1" height="25" class="defeat"/><title>Battle of Sedan (9/1/1870 - 9/2/1870)</title></g>
 
-<text x="25094" y="8142" class="dynasty">DIRECTORY</text>
+<text x="25188" y="8221" class="semimajor">NAPOLEON III</text></a></g>
+
+<text x="25094" y="8142" class="dynasty">BONAPARTE</text>
 <text x="150" y="8540" class="channel">FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cassivellaunus" target="_blank"><rect id="Cassivellaunus" x="15800" y="8724" width="35" height="25" class="briton"/><title>Cassivellaunus (60 BC - 12/54 BC)</title><g><rect x="15790" y="8724" width="45" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 60 BC - 12/54 BC)</title></g>
 
 <text x="15802" y="8743" class="semimajor">CASSIVELLAUNUS</text></a></g>
@@ -13405,7 +13413,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/David_Cameron" target="_blank"><rect id="David_Cameron" x="25928" y="9158" width="272" height="15" class="conservative"/><title>David Cameron (10/9/1966)</title><g><rect x="26146" y="9158" width="31" height="15" class="primeMinister"/><title>primeMinister (5/11/2010 - 7/13/2016)</title></g>
 
 <text x="25929" y="9169" class="minor">DAVID CAMERON</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theresa_May&#9792;" target="_blank"><rect id="Theresa_May&#9792;" x="25878" y="9183" width="322" height="8" class="conservative"/><title>Theresa May&#9792; (10/1/1956)</title><g><rect x="26177" y="9183" width="15" height="8" class="primeMinister"/><title>primeMinister (7/13/2016 - 7/24/2019)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theresa_May&#9792;" target="_blank"><rect id="Theresa_May&#9792;" x="25878" y="9183" width="323" height="8" class="conservative"/><title>Theresa May&#9792; (10/1/1956)</title><g><rect x="26177" y="9183" width="15" height="8" class="primeMinister"/><title>primeMinister (7/13/2016 - 7/24/2019)</title></g>
 
 <text x="25878" y="9189" class="petty">THERESA MAY&#9792;</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Boris_Johnson" target="_blank"><rect id="Boris_Johnson" x="25917" y="9201" width="284" height="15" class="conservative"/><title>Boris Johnson (6/19/1964)</title><g><rect x="26192" y="9201" width="8" height="15" class="primeMinister"/><title>primeMinister (7/24/2019)</title></g>
@@ -13730,7 +13738,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><rect x="25967" y="11872" width="12" height="8" class="president"/><title>president (8/9/1974 - 1/20/1977)</title></g>
 
 <text x="25662" y="11878" class="petty">GERALD FORD</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Jimmy_Carter" target="_blank"><rect id="Jimmy_Carter" x="25718" y="11890" width="482" height="15" class="democrat"/><title>Jimmy Carter (10/1/1924)</title><g><rect x="25950" y="11890" width="20" height="15" class="governor"/><title>governor (1/12/1971 - 1/14/1975)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Jimmy_Carter" target="_blank"><rect id="Jimmy_Carter" x="25718" y="11890" width="483" height="15" class="democrat"/><title>Jimmy Carter (10/1/1924)</title><g><rect x="25950" y="11890" width="20" height="15" class="governor"/><title>governor (1/12/1971 - 1/14/1975)</title></g>
 <g><rect x="25980" y="11890" width="20" height="15" class="president"/><title>president (1/20/1977 - 1/20/1981)</title></g>
 
 <text x="25719" y="11901" class="minor">JIMMY CARTER</text></a></g>
