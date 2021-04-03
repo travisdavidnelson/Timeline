@@ -792,6 +792,22 @@
       "style": "backgroundRevolution"
     },
     {
+      "name": "Crimean War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/16/1853",
+        "end": "3/30/1856"
+      }
+    },
+    {
+      "name": "Franco-Prussian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/19/1870",
+        "end": "1/28/1871"
+      }
+    },
+    {
       "name": "Battle of Sedan",
       "timespan": {
         "start": "9/1/1870",
@@ -803,7 +819,7 @@
       "name": "Third Republic",
       "timespan": {
         "start": "1871",
-        "end": "1940"
+        "end": "7/10/1940"
       },
       "style": "frenchRepublic"
     },
@@ -3275,11 +3291,86 @@
               "foregroundEvents": [
                 {
                   "name": "Battle of Sedan",
+                  "style": "defeat",
                   "timespan": {
                     "start": "9/1/1870",
                     "end": "9/2/1870"
-                  },
-                  "style": "defeat"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Third Republic",
+          "people": [
+            {
+              "name": "Adolphe Thiers",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "4/15/1797",
+                "end": "9/3/1877"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "2/22/1836",
+                    "end": "9/6/1836"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "3/1/1840",
+                    "end": "10/29/1840"
+                  }
+                },
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "8/31/1871",
+                    "end": "5/24/1873"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Patrice de MacMahon",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "6/13/1808",
+                "end": "10/17/1893"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "5/24/1873",
+                    "end": "1/30/1879"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Malakoff",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/8/1855",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Sedan",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/1/1870",
+                    "end": "9/2/1870"
+                  }
                 }
               ]
             }

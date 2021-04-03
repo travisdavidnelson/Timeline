@@ -480,8 +480,10 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_Republic" target="_blank"><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="footprint"/><rect id="Second_Republic" x="25334" y="7573" width="20" height="1079" class="frenchRepublic"/><title>Second Republic (1848 - 12/2/1851)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Second_Napoleonic_Empire" target="_blank"><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="94" height="1079" class="footprint"/><rect id="Second_Napoleonic_Empire" x="25354" y="7573" width="94" height="1079" class="frenchNapoleonicEmpire"/><title>Second Napoleonic Empire (12/2/1851 - 9/1/1870)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/1851_French_coup_d'etat" target="_blank"><rect id="1851_French_coup_d'etat" x="25354" y="7573" width="1" height="1079" class="footprint"/><rect id="1851_French_coup_d'etat" x="25354" y="7573" width="1" height="1079" class="backgroundRevolution"/><title>1851 French coup d'etat (12/2/1851)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Crimean_War" target="_blank"><rect id="Crimean_War" x="25363" y="7573" width="12" height="1079" class="footprint"/><rect id="Crimean_War" x="25363" y="7573" width="12" height="1079" class="backgroundForeignWar"/><title>Crimean War (10/16/1853 - 3/30/1856)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Franco-Prussian_War" target="_blank"><rect id="Franco-Prussian_War" x="25447" y="7573" width="3" height="1079" class="footprint"/><rect id="Franco-Prussian_War" x="25447" y="7573" width="3" height="1079" class="backgroundWar"/><title>Franco-Prussian War (7/19/1870 - 1/28/1871)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Sedan" target="_blank"><rect id="Battle_of_Sedan" x="25448" y="7573" width="1" height="1079" class="footprint"/><rect id="Battle_of_Sedan" x="25448" y="7573" width="1" height="1079" class="backgroundNationalCalamity"/><title>Battle of Sedan (9/1/1870 - 9/2/1870)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Third_Republic" target="_blank"><rect id="Third_Republic" x="25449" y="7573" width="345" height="1079" class="footprint"/><rect id="Third_Republic" x="25449" y="7573" width="345" height="1079" class="frenchRepublic"/><title>Third Republic (1871 - 1940)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Third_Republic" target="_blank"><rect id="Third_Republic" x="25449" y="7573" width="348" height="1079" class="footprint"/><rect id="Third_Republic" x="25449" y="7573" width="348" height="1079" class="frenchRepublic"/><title>Third Republic (1871 - 7/10/1940)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_I" target="_blank"><rect id="World_War_I" x="25667" y="7573" width="21" height="1079" class="footprint"/><rect id="World_War_I" x="25667" y="7573" width="21" height="1079" class="backgroundWar"/><title>World War I (7/28/1914 - 11/11/1918)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Somme" target="_blank"><rect id="Battle_of_the_Somme" x="25677" y="7573" width="2" height="1079" class="footprint"/><rect id="Battle_of_the_Somme" x="25677" y="7573" width="2" height="1079" class="backgroundNationalCalamity"/><title>Battle of the Somme (7/1/1916 - 11/18/1916)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_II" target="_blank"><rect id="World_War_II" x="25793" y="7573" width="30" height="1079" class="footprint"/><rect id="World_War_II" x="25793" y="7573" width="30" height="1079" class="backgroundWar"/><title>World War II (9/1/1939 - 9/2/1945)</title></a></g>
@@ -12607,7 +12609,18 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25188" y="8221" class="semimajor">NAPOLEON III</text></a></g>
 
-<text x="25094" y="8142" class="dynasty">BONAPARTE</text>
+<text x="25094" y="8142" class="dynasty">BONAPARTE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Adolphe_Thiers" target="_blank"><rect id="Adolphe_Thiers" x="25081" y="8309" width="402" height="40" class="frenchRepublic"/><title>Adolphe Thiers (4/15/1797 - 9/3/1877)</title><g><rect x="25275" y="8309" width="3" height="40" class="primeMinister"/><title>primeMinister (2/22/1836 - 9/6/1836)</title></g>
+<g><rect x="25295" y="8309" width="3" height="40" class="primeMinister"/><title>primeMinister (3/1/1840 - 10/29/1840)</title></g>
+<g><rect x="25453" y="8309" width="9" height="40" class="frenchPresident"/><title>frenchPresident (8/31/1871 - 5/24/1873)</title></g>
+
+<text x="25084" y="8339" class="major">ADOLPHE THIERS</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Patrice_de_MacMahon" target="_blank"><rect id="Patrice_de_MacMahon" x="25137" y="8359" width="427" height="25" class="frenchRepublic"/><title>Patrice de MacMahon (6/13/1808 - 10/17/1893)</title><g><rect x="25461" y="8359" width="28" height="25" class="frenchPresident"/><title>frenchPresident (5/24/1873 - 1/30/1879)</title></g>
+<g><rect x="25373" y="8359" width="1" height="25" class="victory"/><title>Battle of Malakoff (9/8/1855)</title></g>
+<g><rect x="25448" y="8359" width="1" height="25" class="defeat"/><title>Battle of Sedan (9/1/1870 - 9/2/1870)</title></g>
+
+<text x="25139" y="8378" class="semimajor">PATRICE DE MACMAHON</text></a></g>
+
+<text x="25275" y="8299" class="dynasty">THIRD REPUBLIC</text>
 <text x="150" y="8540" class="channel">FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cassivellaunus" target="_blank"><rect id="Cassivellaunus" x="15800" y="8724" width="35" height="25" class="briton"/><title>Cassivellaunus (60 BC - 12/54 BC)</title><g><rect x="15790" y="8724" width="45" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 60 BC - 12/54 BC)</title></g>
 
 <text x="15802" y="8743" class="semimajor">CASSIVELLAUNUS</text></a></g>
