@@ -3356,22 +3356,86 @@
                 }
               ],
               "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Jules Grevy",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "9/15/1807",
+                "end": "9/9/1891"
+              },
+              "importance": "minor",
+              "titles": [
                 {
-                  "name": "Battle of Malakoff",
-                  "style": "victory",
+                  "name": "frenchPresident",
                   "timespan": {
-                    "start": "9/8/1855",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Battle of Sedan",
-                  "style": "defeat",
-                  "timespan": {
-                    "start": "9/1/1870",
-                    "end": "9/2/1870"
+                    "start": "1/30/1879",
+                    "end": "12/2/1887"
                   }
                 }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Sadi Carnot",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "8/11/1837",
+                "end": "6/25/1894"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "12/3/1887",
+                    "end": "6/25/1894"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Emile Loubet",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "12/30/1838",
+                "end": "12/20/1929"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "2/18/1899",
+                    "end": "2/18/1906"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Armand Fallieres",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "11/6/1841",
+                "end": "6/22/1931"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "frenchPresident",
+                  "timespan": {
+                    "start": "2/18/1906",
+                    "end": "2/18/1913"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             }
           ]
