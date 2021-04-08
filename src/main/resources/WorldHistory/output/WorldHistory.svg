@@ -12649,7 +12649,13 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25454" y="7756" class="minor">ALBERT LEBRUN</text></a></g>
 
-<text x="25655" y="7635" class="dynasty">THIRD REPUBLIC</text>
+<text x="25655" y="7635" class="dynasty">THIRD REPUBLIC</text><g><a xlink:href="http://en.wikipedia.org/wiki/Philippe_Petain" target="_blank"><rect id="Philippe_Petain" x="25376" y="7842" width="476" height="25" class="frenchRepublic"/><title>Philippe Petain (4/24/1856 - 7/23/1951) successively banal, then glorious, then deplorable, but never mediocre - De Gaulle</title><g><rect x="25668" y="7842" width="82" height="25" class="general"/><title>general (8/29/1914 - 1931)</title></g>
+<g><rect x="25797" y="7842" width="21" height="25" class="president"/><title>president (7/11/1940 - 8/20/1944)</title></g>
+<g><rect x="25818" y="7842" width="35" height="25" class="pow"/><title>pow (8/20/1944 - 7/23/1951)</title></g>
+
+<text x="25378" y="7861" class="semimajor">PHILIPPE PETAIN</text></a></g>
+
+<text x="25668" y="7832" class="dynasty">VICHY FRANCE</text>
 <text x="150" y="8540" class="channel">FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cassivellaunus" target="_blank"><rect id="Cassivellaunus" x="15800" y="8724" width="35" height="25" class="briton"/><title>Cassivellaunus (60 BC - 12/54 BC)</title><g><rect x="15790" y="8724" width="45" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 60 BC - 12/54 BC)</title></g>
 
 <text x="15802" y="8743" class="semimajor">CASSIVELLAUNUS</text></a></g>

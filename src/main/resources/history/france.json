@@ -3567,6 +3567,46 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Vichy France",
+          "people": [
+            {
+              "name": "Philippe Petain",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "annotation": "successively banal, then glorious, then deplorable, but never mediocre - De Gaulle",
+              "timespan": {
+                "start": "4/24/1856",
+                "end": "7/23/1951"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "8/29/1914",
+                    "end": "1931"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "7/11/1940",
+                    "end": "8/20/1944"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "8/20/1944",
+                    "end": "7/23/1951"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
         }
       ]
     }
