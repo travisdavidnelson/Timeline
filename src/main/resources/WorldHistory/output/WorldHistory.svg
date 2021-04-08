@@ -489,7 +489,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/World_War_II" target="_blank"><rect id="World_War_II" x="25793" y="7573" width="30" height="1079" class="footprint"/><rect id="World_War_II" x="25793" y="7573" width="30" height="1079" class="backgroundWar"/><title>World War II (9/1/1939 - 9/2/1945)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Vicchy_France" target="_blank"><rect id="Vicchy_France" x="25797" y="7573" width="20" height="1079" class="footprint"/><rect id="Vicchy_France" x="25797" y="7573" width="20" height="1079" class="backgroundOccupation"/><title>Vicchy France (7/10/1940 - 6/5/1944)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Fourth_Republic" target="_blank"><rect id="Fourth_Republic" x="25817" y="7573" width="72" height="1079" class="footprint"/><rect id="Fourth_Republic" x="25817" y="7573" width="72" height="1079" class="frenchRepublic"/><title>Fourth Republic (6/5/1944 - 10/4/1958)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Fifth_Republic" target="_blank"><rect id="Fifth_Republic" x="25888" y="7573" width="312" height="1079" class="footprint"/><rect id="Fifth_Republic" x="25888" y="7573" width="312" height="1079" class="frenchRepublic"/><title>Fifth Republic (10/4/1958)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Fifth_Republic" target="_blank"><rect id="Fifth_Republic" x="25888" y="7573" width="313" height="1079" class="footprint"/><rect id="Fifth_Republic" x="25888" y="7573" width="313" height="1079" class="frenchRepublic"/><title>Fifth Republic (10/4/1958)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Bronze_Age" target="_blank"><rect id="Bronze_Age" x="75" y="8652" width="14050" height="1483" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Bronze_Age" x="75" y="8652" width="14050" height="1483" class="bronzeAge"  mask="url(#fadeInOutMask)"/><title>Bronze Age (c. 4000 BC - c. 400 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Iron_Age" target="_blank"><rect id="Iron_Age" x="14075" y="8652" width="2545" height="1483" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Iron_Age" x="14075" y="8652" width="2545" height="1483" class="ironAge"  mask="url(#fadeInOutMask)"/><title>Iron Age (c. 400 BC - c. 100)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Celtic_Britain" target="_blank"><rect id="Celtic_Britain" x="15075" y="8652" width="1545" height="1483" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Celtic_Britain" x="15075" y="8652" width="1545" height="1483" class="celt"  mask="url(#fadeInOutMask)"/><title>Celtic Britain (c. 200 BC - c. 100)</title></a></g>
@@ -12630,7 +12630,26 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25305" y="8505" class="minor">ARMAND FALLIERES</text></a></g>
 
-<text x="25275" y="8314" class="dynasty">THIRD REPUBLIC</text>
+<text x="25275" y="8314" class="dynasty">THIRD REPUBLIC</text><g><a xlink:href="http://en.wikipedia.org/wiki/Raymond_Poincare" target="_blank"><rect id="Raymond_Poincare" x="25398" y="7645" width="371" height="40" class="frenchRepublic"/><title>Raymond Poincare (8/20/1860 - 10/15/1934)</title><g><rect x="25655" y="7645" width="5" height="40" class="primeMinister"/><title>primeMinister (1/21/1912 - 1/21/1913)</title></g>
+<g><rect x="25660" y="7645" width="35" height="40" class="president"/><title>president (2/18/1913 - 2/18/1920)</title></g>
+<g><rect x="25705" y="7645" width="12" height="40" class="primeMinister"/><title>primeMinister (1/15/1922 - 6/8/1924)</title></g>
+<g><rect x="25727" y="7645" width="15" height="40" class="primeMinister"/><title>primeMinister (7/23/1926 - 7/29/1929)</title></g>
+
+<text x="25401" y="7675" class="major">RAYMOND POINCARE</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Alexandre_Millerand" target="_blank"><rect id="Alexandre_Millerand" x="25390" y="7695" width="421" height="15" class="frenchRepublic"/><title>Alexandre Millerand (2/10/1859 - 4/6/1943)</title><g><rect x="25695" y="7695" width="3" height="15" class="primeMinister"/><title>primeMinister (1/20/1920 - 9/24/1920)</title></g>
+<g><rect x="25698" y="7695" width="19" height="15" class="president"/><title>president (9/23/1920 - 6/11/1924)</title></g>
+
+<text x="25391" y="7706" class="minor">ALEXANDRE MILLERAND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Gaston_Doumergue" target="_blank"><rect id="Gaston_Doumergue" x="25412" y="7720" width="369" height="15" class="frenchRepublic"/><title>Gaston Doumergue (8/1/1863 - 6/18/1937)</title><g><rect x="25664" y="7720" width="2" height="15" class="primeMinister"/><title>primeMinister (12/9/1913 - 6/9/1914)</title></g>
+<g><rect x="25717" y="7720" width="35" height="15" class="president"/><title>president (6/13/1924 - 6/13/1931)</title></g>
+<g><rect x="25765" y="7720" width="4" height="15" class="primeMinister"/><title>primeMinister (2/9/1934 - 11/8/1934)</title></g>
+
+<text x="25413" y="7731" class="minor">GASTON DOUMERGUE</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Albert_Lebrun" target="_blank"><rect id="Albert_Lebrun" x="25453" y="7745" width="393" height="15" class="frenchRepublic"/><title>Albert Lebrun (8/29/1871 - 3/6/1950)</title><g><rect x="25756" y="7745" width="41" height="15" class="president"/><title>president (5/10/1932 - 7/11/1940)</title></g>
+
+<text x="25454" y="7756" class="minor">ALBERT LEBRUN</text></a></g>
+
+<text x="25655" y="7635" class="dynasty">THIRD REPUBLIC</text>
 <text x="150" y="8540" class="channel">FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cassivellaunus" target="_blank"><rect id="Cassivellaunus" x="15800" y="8724" width="35" height="25" class="briton"/><title>Cassivellaunus (60 BC - 12/54 BC)</title><g><rect x="15790" y="8724" width="45" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 60 BC - 12/54 BC)</title></g>
 
 <text x="15802" y="8743" class="semimajor">CASSIVELLAUNUS</text></a></g>
@@ -13439,7 +13458,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Theresa_May&#9792;" target="_blank"><rect id="Theresa_May&#9792;" x="25878" y="9183" width="323" height="8" class="conservative"/><title>Theresa May&#9792; (10/1/1956)</title><g><rect x="26177" y="9183" width="15" height="8" class="primeMinister"/><title>primeMinister (7/13/2016 - 7/24/2019)</title></g>
 
 <text x="25878" y="9189" class="petty">THERESA MAY&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Boris_Johnson" target="_blank"><rect id="Boris_Johnson" x="25917" y="9201" width="284" height="15" class="conservative"/><title>Boris Johnson (6/19/1964)</title><g><rect x="26192" y="9201" width="8" height="15" class="primeMinister"/><title>primeMinister (7/24/2019)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Boris_Johnson" target="_blank"><rect id="Boris_Johnson" x="25917" y="9201" width="284" height="15" class="conservative"/><title>Boris Johnson (6/19/1964)</title><g><rect x="26192" y="9201" width="9" height="15" class="primeMinister"/><title>primeMinister (7/24/2019)</title></g>
 
 <text x="25918" y="9212" class="minor">BORIS JOHNSON</text></a></g>
 

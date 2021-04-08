@@ -3439,6 +3439,134 @@
               ]
             }
           ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Third Republic",
+          "people": [
+            {
+              "name": "Raymond Poincare",
+              "style": "frenchRepublic",
+              "importance": "major",
+              "timespan": {
+                "start": "8/20/1860",
+                "end": "10/15/1934"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/21/1912",
+                    "end": "1/21/1913"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "2/18/1913",
+                    "end": "2/18/1920"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/15/1922",
+                    "end": "6/8/1924"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/23/1926",
+                    "end": "7/29/1929"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Alexandre Millerand",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/10/1859",
+                "end": "4/6/1943"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "1/20/1920",
+                    "end": "9/24/1920"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "9/23/1920",
+                    "end": "6/11/1924"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Gaston Doumergue",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/1/1863",
+                "end": "6/18/1937"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "12/9/1913",
+                    "end": "6/9/1914"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "6/13/1924",
+                    "end": "6/13/1931"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "2/9/1934",
+                    "end": "11/8/1934"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Albert Lebrun",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/29/1871",
+                "end": "3/6/1950"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/10/1932",
+                    "end": "7/11/1940"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
         }
       ]
     }
