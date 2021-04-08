@@ -3607,6 +3607,205 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Post War",
+          "people": [
+            {
+              "name": "Charles de Gaulle",
+              "style": "frenchRepublic",
+              "importance": "major",
+              "timespan": {
+                "start": "11/22/1890",
+                "end": "11/9/1970"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "6/18/1940",
+                    "end": "1/26/1946"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "1/8/1959",
+                    "end": "4/28/1969"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Georges Pompidou",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/5/1911",
+                "end": "4/2/1974"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "4/14/1962",
+                    "end": "7/10/1968"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "6/20/1969",
+                    "end": "4/2/1974"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Valery d'Estaing",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/2/1926",
+                "end": "12/2/2020"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/27/1974",
+                    "end": "5/21/1981"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Francois Mitterrand",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/26/1916",
+                "end": "1/8/1996"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/21/1981",
+                    "end": "5/17/1995"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Jacques Chirac",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/29/1932",
+                "end": "9/26/2019"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/17/1995",
+                    "end": "5/16/2007"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Nicolas Sarkozy",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "1/28/1955",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/16/2007",
+                    "end": "5/15/2012"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Francois Hollande",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/12/1954",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/15/2012",
+                    "end": "5/14/2017"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Francois Hollande",
+              "style": "frenchRepublic",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/12/1954",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/15/2012",
+                    "end": "5/14/2017"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Emmanuel Macron",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "12/21/1977",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/14/2017",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
         }
       ]
     }

@@ -12655,7 +12655,37 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25378" y="7861" class="semimajor">PHILIPPE PETAIN</text></a></g>
 
-<text x="25668" y="7832" class="dynasty">VICHY FRANCE</text>
+<text x="25668" y="7832" class="dynasty">VICHY FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Charles_de_Gaulle" target="_blank"><rect id="Charles_de_Gaulle" x="25549" y="7949" width="400" height="40" class="frenchRepublic"/><title>Charles de Gaulle (11/22/1890 - 11/9/1970)</title><g><rect x="25797" y="7949" width="28" height="40" class="general"/><title>general (6/18/1940 - 1/26/1946)</title></g>
+<g><rect x="25890" y="7949" width="52" height="40" class="president"/><title>president (1/8/1959 - 4/28/1969)</title></g>
+
+<text x="25552" y="7979" class="major">CHARLES DE GAULLE</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Georges_Pompidou" target="_blank"><rect id="Georges_Pompidou" x="25652" y="7999" width="314" height="15" class="frenchRepublic"/><title>Georges Pompidou (7/5/1911 - 4/2/1974)</title><g><rect x="25906" y="7999" width="31" height="15" class="primeMinister"/><title>primeMinister (4/14/1962 - 7/10/1968)</title></g>
+<g><rect x="25942" y="7999" width="24" height="15" class="president"/><title>president (6/20/1969 - 4/2/1974)</title></g>
+
+<text x="25653" y="8010" class="minor">GEORGES POMPIDOU</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Valery_d'Estaing" target="_blank"><rect id="Valery_d'Estaing" x="25725" y="8024" width="474" height="15" class="frenchRepublic"/><title>Valery d'Estaing (2/2/1926 - 12/2/2020)</title><g><rect x="25966" y="8024" width="35" height="15" class="president"/><title>president (5/27/1974 - 5/21/1981)</title></g>
+
+<text x="25726" y="8035" class="minor">VALERY D'ESTAING</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Francois_Mitterrand" target="_blank"><rect id="Francois_Mitterrand" x="25679" y="8049" width="396" height="25" class="frenchRepublic"/><title>Francois Mitterrand (10/26/1916 - 1/8/1996)</title><g><rect x="26001" y="8049" width="70" height="25" class="president"/><title>president (5/21/1981 - 5/17/1995)</title></g>
+
+<text x="25681" y="8068" class="semimajor">FRANCOIS MITTERRAND</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Jacques_Chirac" target="_blank"><rect id="Jacques_Chirac" x="25759" y="8084" width="434" height="15" class="frenchRepublic"/><title>Jacques Chirac (11/29/1932 - 9/26/2019)</title><g><rect x="26071" y="8084" width="60" height="15" class="president"/><title>president (5/17/1995 - 5/16/2007)</title></g>
+
+<text x="25760" y="8095" class="minor">JACQUES CHIRAC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Nicolas_Sarkozy" target="_blank"><rect id="Nicolas_Sarkozy" x="25870" y="8109" width="331" height="15" class="frenchRepublic"/><title>Nicolas Sarkozy (1/28/1955)</title><g><rect x="26131" y="8109" width="25" height="15" class="president"/><title>president (5/16/2007 - 5/15/2012)</title></g>
+
+<text x="25871" y="8120" class="minor">NICOLAS SARKOZY</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Francois_Hollande" target="_blank"><rect id="Francois_Hollande" x="25868" y="8134" width="333" height="15" class="frenchRepublic"/><title>Francois Hollande (8/12/1954)</title><g><rect x="26156" y="8134" width="25" height="15" class="president"/><title>president (5/15/2012 - 5/14/2017)</title></g>
+
+<text x="25869" y="8145" class="minor">FRANCOIS HOLLANDE</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Francois_Hollande" target="_blank"><rect id="Francois_Hollande" x="25868" y="8159" width="333" height="15" class="frenchRepublic"/><title>Francois Hollande (8/12/1954)</title><g><rect x="26156" y="8159" width="25" height="15" class="president"/><title>president (5/15/2012 - 5/14/2017)</title></g>
+
+<text x="25869" y="8170" class="minor">FRANCOIS HOLLANDE</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Emmanuel_Macron" target="_blank"><rect id="Emmanuel_Macron" x="25984" y="8184" width="216" height="25" class="frenchRepublic"/><title>Emmanuel Macron (12/21/1977)</title><g><rect x="26181" y="8184" width="19" height="25" class="president"/><title>president (5/14/2017)</title></g>
+
+<text x="25986" y="8203" class="semimajor">EMMANUEL MACRON</text></a></g>
+
+<text x="25797" y="7939" class="dynasty">POST WAR</text>
 <text x="150" y="8540" class="channel">FRANCE</text><g><a xlink:href="http://en.wikipedia.org/wiki/Cassivellaunus" target="_blank"><rect id="Cassivellaunus" x="15800" y="8724" width="35" height="25" class="briton"/><title>Cassivellaunus (60 BC - 12/54 BC)</title><g><rect x="15790" y="8724" width="45" height="25" class="king"  mask="url(#fadeInMask)"/><title>king (c. 60 BC - 12/54 BC)</title></g>
 
 <text x="15802" y="8743" class="semimajor">CASSIVELLAUNUS</text></a></g>
