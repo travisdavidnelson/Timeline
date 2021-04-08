@@ -3766,26 +3766,6 @@
               ]
             },
             {
-              "name": "Francois Hollande",
-              "style": "frenchRepublic",
-              "importance": "minor",
-              "timespan": {
-                "start": "8/12/1954",
-                "end": ""
-              },
-              "titles": [
-                {
-                  "name": "president",
-                  "timespan": {
-                    "start": "5/15/2012",
-                    "end": "5/14/2017"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
               "name": "Emmanuel Macron",
               "style": "frenchRepublic",
               "importance": "semimajor",
