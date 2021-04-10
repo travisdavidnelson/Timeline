@@ -20,7 +20,7 @@
           ],
           "people": [
             {
-              "name": "Kemal Attaturk",
+              "name": "Kemal Ataturk",
               "importance": "transformational",
               "style": "turkishRepublic",
               "timespan": {
@@ -30,7 +30,7 @@
               },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "president",
                   "timespan": {
                     "start": "10/29/1923",
                     "end": "11/10/1938"
