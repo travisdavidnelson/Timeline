@@ -75,7 +75,7 @@
   "channels": [
     {
       "name": "Egypt",
-      "resources": "ancient-egypt"
+      "resources": "ancient-egypt,egypt"
     },
     {
       "name": "Anatolia / Levant",
