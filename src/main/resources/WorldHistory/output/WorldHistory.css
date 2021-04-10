@@ -26,8 +26,12 @@
 .egyptThirdIntermediate {fill:gold;fill-opacity:0.2}
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .egyptThebes {fill:gold;fill-opacity:0.4}
-.egyptNasserite {fill:gold;fill-opacity:0.5}
-.egyptModern {fill:gold;fill-opacity:0.3}
+.egyptOttoman {fill:#238705;fill-opacity:0.3}
+.egyptKhedivate {fill:#648705;fill-opacity:0.3}
+.egyptSultanate {fill:#058728;fill-opacity:0.3}
+.egyptKingdom {fill:#4b6603;fill-opacity:0.3}
+.egyptNasserite {fill:#51a008;fill-opacity:0.5}
+.egyptModern {fill:#9ea008;fill-opacity:0.3}
 .english {fill:red;fill-opacity:0.2}
 .englishCommonwealth {fill:brown;fill-opacity:0.7}
 .englishProtecturate {fill:brown;fill-opacity:0.8}
@@ -276,7 +280,7 @@
 .fatimidCaliphate	{fill:#06840a;	fill-opacity:0.5}
 .ayyubidSultanate	{fill:#e5da06;	fill-opacity:0.5}
 .mamlukSultanate	{fill:#bfb616;	fill-opacity:0.5}
-.ottoman        	{fill:#20c925;	fill-opacity:0.5}
+.ottoman        	{fill:#238705;	fill-opacity:0.5}
 .macedonianEmpire 	{fill:#577ce0;	stroke:black; stroke-width:0.1; fill-opacity:0.5}
 .hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.3}
 .alamanni 			{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.7}

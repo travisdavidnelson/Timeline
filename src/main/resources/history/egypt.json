@@ -2,11 +2,51 @@
   "name": "Egypt",
   "backgroundEvents": [
     {
+      "name": "Ottoman Empire",
+      "timespan": {
+        "start": "1517",
+        "end": "1867"
+      },
+      "style": "egyptOttoman"
+    },
+    {
+      "name": "Khedivate of Egypt",
+      "timespan": {
+        "start": "1867",
+        "end": "1914"
+      },
+      "style": "egyptKhedivate"
+    },
+    {
+      "name": "Sultanate of Egypt",
+      "timespan": {
+        "start": "1914",
+        "end": "1922"
+      },
+      "style": "egyptSultanate"
+    },
+    {
+      "name": "Kingdom of Egypt",
+      "timespan": {
+        "start": "1922",
+        "end": "7/23/1952"
+      },
+      "style": "egyptKingdom"
+    },
+    {
       "name": "Nasserite Egypt",
       "style": "egyptNasserite",
       "timespan": {
         "start": "7/23/1952",
         "end": "1970"
+      }
+    },
+    {
+      "name": "Modern Egypt",
+      "style": "egyptModern",
+      "timespan": {
+        "start": "1970",
+        "end": ""
       }
     },
     {
