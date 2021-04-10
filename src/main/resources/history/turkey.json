@@ -1,0 +1,46 @@
+{
+  "name": "Turkey",
+  "backgroundEvents": [
+    {
+      "name": "Republic of Turkey",
+      "timespan": {
+        "start": "11/1/1922",
+        "end": ""
+      },
+      "style": "turkishRepublic"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Republic of Turkey",
+      "dynasties": [
+        {
+          "name": "Republic of Turkey",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Kemal Attaturk",
+              "importance": "transformational",
+              "style": "turkishRepublic",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1881",
+                "end": "11/10/1938"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/29/1923",
+                    "end": "11/10/1938"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

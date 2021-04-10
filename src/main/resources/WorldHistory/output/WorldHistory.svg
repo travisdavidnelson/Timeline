@@ -90,7 +90,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Byzantine_Empire" target="_blank"><rect id="Byzantine_Empire" x="18475" y="1136" width="3095" height="1486" class="footprint"/><rect id="Byzantine_Empire" x="18475" y="1136" width="3095" height="1486" class="byzantium"/><title>Byzantine Empire (476 - 1095)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Seljuk_Sultanate" target="_blank"><rect id="Seljuk_Sultanate" x="21450" y="1136" width="845" height="1486" class="footprint"/><rect id="Seljuk_Sultanate" x="21450" y="1136" width="845" height="1486" class="byzantium"/><title>Seljuk Sultanate (1071 - 1240)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Black_Death" target="_blank"><rect id="Black_Death" x="22840" y="1136" width="25" height="1486" class="footprint"/><rect id="Black_Death" x="22840" y="1136" width="25" height="1486" class="backgroundPlagueMajor"/><title>Black Death (1349)</title></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Ottoman_Empire" target="_blank"><rect id="Ottoman_Empire" x="23680" y="1136" width="2050" height="1486" class="footprint"/><rect id="Ottoman_Empire" x="23680" y="1136" width="2050" height="1486" class="ottoman"/><title>Ottoman Empire (1517 - 1927)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ottoman_Empire" target="_blank"><rect id="Ottoman_Empire" x="23680" y="1136" width="2029" height="1486" class="footprint"/><rect id="Ottoman_Empire" x="23680" y="1136" width="2029" height="1486" class="ottoman"/><title>Ottoman Empire (1517 - 11/1/1922)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Mithridatic_Wars" target="_blank"><rect id="Mithridatic_Wars" x="15660" y="1136" width="125" height="1486" class="footprint"/><rect id="Mithridatic_Wars" x="15660" y="1136" width="125" height="1486" class="backgroundWar"/><title>Mithridatic Wars (88 BC - 63 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Macedonian_Empire" target="_blank"><rect id="Macedonian_Empire" x="14450" y="1136" width="35" height="1486" class="footprint"/><rect id="Macedonian_Empire" x="14450" y="1136" width="35" height="1486" class="macedon"/><title>Macedonian Empire (330 BC - 323 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Seleucid_Empire" target="_blank"><rect id="Seleucid_Empire" x="14485" y="1136" width="670" height="1486" class="footprint"/><rect id="Seleucid_Empire" x="14485" y="1136" width="670" height="1486" class="seleucid"/><title>Seleucid Empire (323 BC - 12/190 BC)</title></a></g>
@@ -113,6 +113,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Parthian_War" target="_blank"><rect id="Parthian_War" x="16900" y="1136" width="25" height="1486" class="footprint"/><rect id="Parthian_War" x="16900" y="1136" width="25" height="1486" class="backgroundWar"/><title>Parthian War (161 - 166)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Parthian_War" target="_blank"><rect id="Parthian_War" x="17080" y="1136" width="5" height="1486" class="footprint"/><rect id="Parthian_War" x="17080" y="1136" width="5" height="1486" class="backgroundWar"/><title>Parthian War (197 - 198)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Parthian_War" target="_blank"><rect id="Parthian_War" x="17175" y="1136" width="5" height="1486" class="footprint"/><rect id="Parthian_War" x="17175" y="1136" width="5" height="1486" class="backgroundWar"/><title>Parthian War (216 - 217)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Republic_of_Turkey" target="_blank"><rect id="Republic_of_Turkey" x="25709" y="1136" width="492" height="1486" class="footprint"/><rect id="Republic_of_Turkey" x="25709" y="1136" width="492" height="1486" class="turkishRepublic"/><title>Republic of Turkey (11/1/1922)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Akkadian_Empire" target="_blank"><rect id="Akkadian_Empire" x="4825" y="2622" width="530" height="608" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Akkadian_Empire" x="4825" y="2622" width="530" height="608" class="akkad"  mask="url(#fadeInOutMask)"/><title>Akkadian Empire (c. 2250 BC - c. 2154 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ur_III" target="_blank"><rect id="Ur_III" x="5800" y="2622" width="575" height="608" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Ur_III" x="5800" y="2622" width="575" height="608" class="neosumer"  mask="url(#fadeInOutMask)"/><title>Ur III (c. 2055 BC - c. 1950 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Old_Assyrian_Empire" target="_blank"><rect id="Old_Assyrian_Empire" x="7100" y="2622" width="345" height="608" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Old_Assyrian_Empire" x="7100" y="2622" width="345" height="608" class="assyria"  mask="url(#fadeInOutMask)"/><title>Old Assyrian Empire (c. 1795 BC - c. 1736 BC)</title></a></g>
@@ -1069,6 +1070,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 		<line x1="100" y1="50" x2="26594" y2="50" class="timeline"/>
 		<line x1="100" y1="50" x2="26594" y2="50" class="timeline"/>
 		<line x1="100" y1="50" x2="26594" y2="50" class="timeline"/>
+		<line x1="100" y1="1136" x2="26594" y2="1136" class="timeline"/>
 		<line x1="100" y1="1136" x2="26594" y2="1136" class="timeline"/>
 		<line x1="100" y1="1136" x2="26594" y2="1136" class="timeline"/>
 		<line x1="100" y1="1136" x2="26594" y2="1136" class="timeline"/>
@@ -9878,7 +9880,11 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Jesus" target="_blank"><rect id="Jesus" x="16015" y="1243" width="295" height="50" class="sanctified"  mask="url(#fadeInOutMask)"/><title>Jesus (c. 7 BC - c. 33)</title>
 <text x="16027" y="1283" class="transformational">JESUS</text></a></g>
 
-<text x="15915" y="1198" class="dynasty">ROMAN JUDEA</text>
+<text x="15915" y="1198" class="dynasty">ROMAN JUDEA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Kemal_Attaturk" target="_blank"><rect id="Kemal_Attaturk" x="25449" y="1208" width="339" height="50" class="turkishRepublic"  mask="url(#fadeInMask)"/><title>Kemal Attaturk (c. 1881 - 11/10/1938)</title><g><rect x="25714" y="1208" width="75" height="50" class="king"/><title>king (10/29/1923 - 11/10/1938)</title></g>
+
+<text x="25461" y="1248" class="transformational">KEMAL ATTATURK</text></a></g>
+
+<text x="25714" y="1198" class="dynasty">REPUBLIC OF TURKEY</text>
 <text x="150" y="2510" class="channel">ANATOLIA / LEVANT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Ididish" target="_blank"><rect id="Ididish" x="4770" y="2694" width="300" height="15" class="mari"/><title>Ididish (2266 BC - 2206 BC)</title><g><rect x="4760" y="2694" width="320" height="15" class="governor"  mask="url(#fadeInOutMask)"/><title>governor (c. 2266 BC - c. 2206 BC)</title></g>
 
 <text x="4771" y="2705" class="minor">IDIDISH</text></a></g>
