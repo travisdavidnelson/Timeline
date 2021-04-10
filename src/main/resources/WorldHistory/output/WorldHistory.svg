@@ -63,6 +63,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_the_Delta" target="_blank"><rect id="Battle_of_the_Delta" x="10225" y="50" width="1" height="1086" class="footprint"/><rect id="Battle_of_the_Delta" x="10225" y="50" width="1" height="1086" class="backgroundForeignWarVictory"/><title>Battle of the Delta (1175 BC - 1175 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Nasserite_Egypt" target="_blank"><rect id="Nasserite_Egypt" x="25857" y="50" width="87" height="1086" class="footprint"/><rect id="Nasserite_Egypt" x="25857" y="50" width="87" height="1086" class="egyptNasserite"/><title>Nasserite Egypt (7/23/1952 - 1970)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Egyptian_revolution_of_1952" target="_blank"><rect id="Egyptian_revolution_of_1952" x="25857" y="50" width="1" height="1086" class="footprint"/><rect id="Egyptian_revolution_of_1952" x="25857" y="50" width="1" height="1086" class="backgroundRevolution"/><title>Egyptian revolution of 1952 (7/23/1952)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Six_Day_War" target="_blank"><rect id="Six_Day_War" x="25932" y="50" width="1" height="1086" class="footprint"/><rect id="Six_Day_War" x="25932" y="50" width="1" height="1086" class="backgroundWar"/><title>Six Day War (6/5/1967 - 6/10/1967)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Yom_Kippur_War" target="_blank"><rect id="Yom_Kippur_War" x="25963" y="50" width="1" height="1086" class="footprint"/><rect id="Yom_Kippur_War" x="25963" y="50" width="1" height="1086" class="backgroundWar"/><title>Yom Kippur War (10/6/1973 - 10/25/1973)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Egyptian_New_Kingdom" target="_blank"><rect id="Egyptian_New_Kingdom" x="8725" y="1136" width="700" height="1486" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Egyptian_New_Kingdom" x="8725" y="1136" width="700" height="1486" class="egyptNewKingdom"  mask="url(#fadeInOutMask)"/><title>Egyptian New Kingdom (c. 1470 BC - c. 1340 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Hittite_Empire" target="_blank"><rect id="Hittite_Empire" x="9325" y="1136" width="750" height="1486" class="footprint"  mask="url(#fadeInOutMask)"/><rect id="Hittite_Empire" x="9325" y="1136" width="750" height="1486" class="hittite"  mask="url(#fadeInOutMask)"/><title>Hittite Empire (c. 1350 BC - c. 1210 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Kadesh" target="_blank"><rect id="Battle_of_Kadesh" x="9731" y="1136" width="1" height="1486" class="footprint"/><rect id="Battle_of_Kadesh" x="9731" y="1136" width="1" height="1486" class="battle"/><title>Battle of Kadesh (5/1274 BC - 6/1274 BC)</title></a></g>
@@ -9480,7 +9482,23 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 
 <text x="25688" y="187" class="major">GAMAL ABDEL NASSER</text></a></g>
 
-<text x="25754" y="112" class="dynasty">EGYPT NASSER</text>
+<text x="25754" y="112" class="dynasty">EGYPT NASSER</text><g><a xlink:href="http://en.wikipedia.org/wiki/Anwar_Sadat" target="_blank"><rect id="Anwar_Sadat" x="25689" y="279" width="314" height="40" class="egyptModern"/><title>Anwar Sadat (12/25/1918 - 10/6/1981)</title><g><rect x="25948" y="279" width="55" height="40" class="president"/><title>president (10/15/1970 - 10/6/1981)</title></g>
+<g><rect x="25963" y="279" width="1" height="40" class="defeat"/><title>Yom Kippur War (10/6/1973 - 10/25/1973)</title></g>
+
+<text x="25692" y="309" class="major">ANWAR SADAT</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Hosni_Mubarak" target="_blank"><rect id="Hosni_Mubarak" x="25736" y="329" width="459" height="25" class="egyptModern"/><title>Hosni Mubarak (5/4/1928 - 2/25/2020)</title><g><rect x="26003" y="329" width="147" height="25" class="president"/><title>president (10/14/1981 - 2/11/2011)</title></g>
+<g><rect x="26150" y="329" width="45" height="25" class="houseArrest"/><title>houseArrest (2/28/2011 - 2/25/2020)</title></g>
+
+<text x="25738" y="348" class="semimajor">HOSNI MUBARAK</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Mohamed_Morsi" target="_blank"><rect id="Mohamed_Morsi" x="25852" y="364" width="339" height="15" class="egyptModern"/><title>Mohamed Morsi (8/8/1951 - 6/17/2019)</title><g><rect x="26157" y="364" width="5" height="15" class="president"/><title>president (6/30/2012 - 7/3/2013)</title></g>
+<g><rect x="26162" y="364" width="30" height="15" class="houseArrest"/><title>houseArrest (7/3/2013 - 6/17/2019)</title></g>
+
+<text x="25853" y="375" class="minor">MOHAMED MORSI</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi" target="_blank"><rect id="Abdel_Fattah_el-Sisi" x="25869" y="389" width="332" height="15" class="egyptModern"/><title>Abdel Fattah el-Sisi (11/19/1954)</title><g><rect x="26167" y="389" width="34" height="15" class="president"/><title>president (6/8/2014)</title></g>
+
+<text x="25870" y="400" class="minor">ABDEL FATTAH EL-SISI</text></a></g>
+
+<text x="25948" y="269" class="dynasty">EGYPT MODERN</text>
 <text x="150" y="1024" class="channel">EGYPT</text><g><a xlink:href="http://en.wikipedia.org/wiki/Hattusili_I" target="_blank"><rect id="Hattusili_I" x="8170" y="1208" width="150" height="40" class="hittite"/><title>Hattusili I (1586 BC - 1556 BC)</title><g><rect x="8160" y="1208" width="170" height="40" class="king"  mask="url(#fadeInOutMask)"/><title>king (c. 1586 BC - c. 1556 BC)</title></g>
 
 <text x="8173" y="1238" class="major">HATTUSILI I</text></a></g>

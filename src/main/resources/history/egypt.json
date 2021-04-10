@@ -3,19 +3,35 @@
   "backgroundEvents": [
     {
       "name": "Nasserite Egypt",
+      "style": "egyptNasserite",
       "timespan": {
         "start": "7/23/1952",
         "end": "1970"
-      },
-      "style": "egyptNasserite"
+      }
     },
     {
       "name": "Egyptian revolution of 1952",
+      "style": "backgroundRevolution",
       "timespan": {
         "start": "7/23/1952",
         "duration": "1m"
-      },
-      "style": "backgroundRevolution"
+      }
+    },
+    {
+      "name": "Six Day War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "6/5/1967",
+        "end": "6/10/1967"
+      }
+    },
+    {
+      "name": "Yom Kippur War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/6/1973",
+        "end": "10/25/1973"
+      }
     }
   ],
   "dynastyGroups": [
@@ -92,6 +108,113 @@
                     "end": "6/10/1967"
                   }
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egypt Modern",
+          "people": [
+            {
+              "name": "Anwar Sadat",
+              "importance": "major",
+              "style": "egyptModern",
+              "timespan": {
+                "start": "12/25/1918",
+                "end": "10/6/1981"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "10/15/1970",
+                    "end": "10/6/1981"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Yom Kippur War",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/6/1973",
+                    "end": "10/25/1973"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hosni Mubarak",
+              "importance": "semimajor",
+              "style": "egyptModern",
+              "timespan": {
+                "start": "5/4/1928",
+                "end": "2/25/2020"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "10/14/1981",
+                    "end": "2/11/2011"
+                  }
+                },
+                {
+                  "name": "houseArrest",
+                  "timespan": {
+                    "start": "2/28/2011",
+                    "end": "2/25/2020"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mohamed Morsi",
+              "importance": "minor",
+              "style": "egyptModern",
+              "timespan": {
+                "start": "8/8/1951",
+                "end": "6/17/2019"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "6/30/2012",
+                    "end": "7/3/2013"
+                  }
+                },
+                {
+                  "name": "houseArrest",
+                  "timespan": {
+                    "start": "7/3/2013",
+                    "end": "6/17/2019"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Abdel Fattah el-Sisi",
+              "importance": "minor",
+              "style": "egyptModern",
+              "timespan": {
+                "start": "11/19/1954",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "6/8/2014",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             }
           ]
