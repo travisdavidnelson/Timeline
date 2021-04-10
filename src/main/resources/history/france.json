@@ -3486,6 +3486,26 @@
               ]
             },
             {
+              "name": "Georges Clemenceau",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "9/28/1848",
+                "end": "11/24/1929"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/25/1906",
+                    "end": "7/24/1909"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Alexandre Millerand",
               "style": "frenchRepublic",
               "importance": "minor",
