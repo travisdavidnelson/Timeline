@@ -3311,7 +3311,7 @@
                 "start": "4/15/1797",
                 "end": "9/3/1877"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "primeMinister",
@@ -3345,7 +3345,7 @@
                 "start": "6/13/1808",
                 "end": "10/17/1893"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "frenchPresident",
@@ -3365,7 +3365,7 @@
                 "start": "9/15/1807",
                 "end": "9/9/1891"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "frenchPresident",
@@ -3385,7 +3385,7 @@
                 "start": "8/11/1837",
                 "end": "6/25/1894"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "frenchPresident",
@@ -3405,7 +3405,7 @@
                 "start": "12/30/1838",
                 "end": "12/20/1929"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "frenchPresident",
@@ -3425,7 +3425,7 @@
                 "start": "11/6/1841",
                 "end": "6/22/1931"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "frenchPresident",
@@ -3506,9 +3506,57 @@
               ]
             },
             {
+              "name": "Joseph Joffre",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/12/1852",
+                "end": "1/3/1931"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "7/29/1911",
+                    "end": "12/14/1916"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "First Battle of the Marne",
+                  "timespan": {
+                    "start": "9/6/1914",
+                    "end": "9/12/1914"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
+              "name": "Ferdinand Foch",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/2/1851",
+                "end": "3/20/1929"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1911",
+                    "end": "1/10/1920"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Alexandre Millerand",
               "style": "frenchRepublic",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "start": "2/10/1859",
                 "end": "4/6/1943"
@@ -3535,7 +3583,7 @@
             {
               "name": "Gaston Doumergue",
               "style": "frenchRepublic",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "start": "8/1/1863",
                 "end": "6/18/1937"
@@ -3569,7 +3617,7 @@
             {
               "name": "Albert Lebrun",
               "style": "frenchRepublic",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "start": "8/29/1871",
                 "end": "3/6/1950"
@@ -3728,7 +3776,7 @@
             {
               "name": "Jacques Chirac",
               "style": "frenchRepublic",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "start": "11/29/1932",
                 "end": "9/26/2019"
