@@ -5939,6 +5939,17 @@
               ]
             },
             {
+              "name": "Christopher Marlowe",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/26/1564",
+                "end": "5/30/1593"
+              },
+              "titles": [
+              ]
+            },
+            {
               "name": "William Shakespeare",
               "style": "english",
               "importance": "transformational",
@@ -5956,6 +5967,17 @@
               "timespan": {
                 "start": "1/22/1561",
                 "end": "4/9/1626"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Benjamin Jonson",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "6/11/1572",
+                "end": "8/16/1637"
               },
               "titles": [
               ]
