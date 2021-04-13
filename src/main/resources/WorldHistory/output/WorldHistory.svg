@@ -12560,39 +12560,42 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XIII" target="_blank"><rect id="Louis_XIII" x="24103" y="8210" width="208" height="25" class="french"/><title>Louis XIII (9/27/1601 - 5/14/1643) The Just</title><g><rect x="24146" y="8210" width="165" height="25" class="king"/><title>king (5/14/1610 - 5/14/1643)</title></g>
 
 <text x="24105" y="8229" class="semimajor">LOUIS XIII</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XIV" target="_blank"><rect id="Louis_XIV" x="24288" y="8245" width="385" height="40" class="french"/><title>Louis XIV (9/5/1638 - 9/1/1715) The Sun King</title><g><rect x="24311" y="8245" width="361" height="40" class="king"/><title>king (5/14/1643 - 9/1/1715)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Jules_Mazarin" target="_blank"><rect id="Jules_Mazarin" x="24107" y="8245" width="293" height="15" class="french"/><title>Jules Mazarin (7/14/1602 - 3/9/1661)</title><g><rect x="24309" y="8245" width="91" height="15" class="chiefMinister"/><title>chiefMinister (12/4/1642 - 3/9/1661)</title></g>
 
-<text x="24291" y="8275" class="major">LOUIS XIV</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XV" target="_blank"><rect id="Louis_XV" x="24645" y="8295" width="321" height="25" class="french"/><title>Louis XV (2/15/1710 - 5/10/1774)</title><g><rect x="24673" y="8295" width="293" height="25" class="king"/><title>king (9/1/1715 - 5/10/1774)</title></g>
+<text x="24108" y="8256" class="minor">JULES MAZARIN</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XIV" target="_blank"><rect id="Louis_XIV" x="24288" y="8270" width="385" height="40" class="french"/><title>Louis XIV (9/5/1638 - 9/1/1715) The Sun King</title><g><rect x="24311" y="8270" width="361" height="40" class="king"/><title>king (5/14/1643 - 9/1/1715)</title></g>
 
-<text x="24647" y="8314" class="semimajor">LOUIS XV</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Jacques_Necker" target="_blank"><rect id="Jacques_Necker" x="24758" y="8330" width="358" height="15" class="french"/><title>Jacques Necker (9/30/1732 - 4/9/1804)</title><g><rect x="24982" y="8330" width="19" height="15" class="financeMinister"/><title>financeMinister (6/29/1777 - 5/19/1781)</title></g>
-<g><rect x="25038" y="8330" width="4" height="15" class="financeMinister"/><title>financeMinister (8/25/1788 - 7/11/1789)</title></g>
-<g><rect x="25038" y="8330" width="4" height="15" class="chiefMinister"/><title>chiefMinister (8/25/1788 - 7/11/1789)</title></g>
-<g><rect x="25042" y="8330" width="5" height="15" class="chiefMinister"/><title>chiefMinister (7/29/1789 - 9/3/1790)</title></g>
+<text x="24291" y="8300" class="major">LOUIS XIV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XV" target="_blank"><rect id="Louis_XV" x="24645" y="8320" width="321" height="25" class="french"/><title>Louis XV (2/15/1710 - 5/10/1774)</title><g><rect x="24673" y="8320" width="293" height="25" class="king"/><title>king (9/1/1715 - 5/10/1774)</title></g>
 
-<text x="24759" y="8341" class="minor">JACQUES NECKER</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVI" target="_blank"><rect id="Louis_XVI" x="24868" y="8355" width="192" height="40" class="french"/><title>Louis XVI (8/23/1754 - 1/21/1793)</title><g><rect x="24966" y="8355" width="92" height="40" class="king"/><title>king (5/10/1774 - 9/21/1792)</title></g>
-<g><rect x="25058" y="8355" width="2" height="40" class="deposed"/><title>deposed (9/21/1792 - 1/21/1793)</title></g>
+<text x="24647" y="8339" class="semimajor">LOUIS XV</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Jacques_Necker" target="_blank"><rect id="Jacques_Necker" x="24758" y="8355" width="358" height="15" class="french"/><title>Jacques Necker (9/30/1732 - 4/9/1804)</title><g><rect x="24982" y="8355" width="19" height="15" class="financeMinister"/><title>financeMinister (6/29/1777 - 5/19/1781)</title></g>
+<g><rect x="25038" y="8355" width="4" height="15" class="financeMinister"/><title>financeMinister (8/25/1788 - 7/11/1789)</title></g>
+<g><rect x="25038" y="8355" width="4" height="15" class="chiefMinister"/><title>chiefMinister (8/25/1788 - 7/11/1789)</title></g>
+<g><rect x="25042" y="8355" width="5" height="15" class="chiefMinister"/><title>chiefMinister (7/29/1789 - 9/3/1790)</title></g>
 
-<text x="24871" y="8385" class="major">LOUIS XVI</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marie_Antoinette&#9792;" target="_blank"><rect id="Marie_Antoinette&#9792;" x="24874" y="8405" width="190" height="25" class="french"/><title>Marie Antoinette&#9792; (11/1755 - 10/16/1793)</title><g><rect x="24966" y="8405" width="92" height="25" class="queen"/><title>queen (5/10/1774 - 9/21/1792)</title></g>
-<g><rect x="25058" y="8405" width="5" height="25" class="deposed"/><title>deposed (9/21/1792 - 10/16/1793)</title></g>
+<text x="24759" y="8366" class="minor">JACQUES NECKER</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVI" target="_blank"><rect id="Louis_XVI" x="24868" y="8380" width="192" height="40" class="french"/><title>Louis XVI (8/23/1754 - 1/21/1793)</title><g><rect x="24966" y="8380" width="92" height="40" class="king"/><title>king (5/10/1774 - 9/21/1792)</title></g>
+<g><rect x="25058" y="8380" width="2" height="40" class="deposed"/><title>deposed (9/21/1792 - 1/21/1793)</title></g>
 
-<text x="24876" y="8424" class="semimajor">MARIE ANTOINETTE&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVII" target="_blank"><rect id="Louis_XVII" x="25021" y="8440" width="51" height="8" class="french"/><title>Louis XVII (3/27/1785 - 6/8/1795)</title><g><rect x="25060" y="8440" width="12" height="8" class="king"/><title>king (1/21/1793 - 6/8/1795)</title></g>
+<text x="24871" y="8410" class="major">LOUIS XVI</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marie_Antoinette&#9792;" target="_blank"><rect id="Marie_Antoinette&#9792;" x="24874" y="8430" width="190" height="25" class="french"/><title>Marie Antoinette&#9792; (11/1755 - 10/16/1793)</title><g><rect x="24966" y="8430" width="92" height="25" class="queen"/><title>queen (5/10/1774 - 9/21/1792)</title></g>
+<g><rect x="25058" y="8430" width="5" height="25" class="deposed"/><title>deposed (9/21/1792 - 10/16/1793)</title></g>
 
-<text x="25021" y="8446" class="petty">LOUIS XVII</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVIII" target="_blank"><rect id="Louis_XVIII" x="24874" y="8458" width="344" height="15" class="french"/><title>Louis XVIII (11/17/1755 - 9/16/1824)</title><g><rect x="25166" y="8458" width="5" height="15" class="king"/><title>king (4/6/1814 - 3/20/1815)</title></g>
-<g><rect x="25172" y="8458" width="46" height="15" class="king"/><title>king (7/8/1815 - 9/16/1824)</title></g>
+<text x="24876" y="8449" class="semimajor">MARIE ANTOINETTE&#9792;</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVII" target="_blank"><rect id="Louis_XVII" x="25021" y="8465" width="51" height="8" class="french"/><title>Louis XVII (3/27/1785 - 6/8/1795)</title><g><rect x="25060" y="8465" width="12" height="8" class="king"/><title>king (1/21/1793 - 6/8/1795)</title></g>
 
-<text x="24875" y="8469" class="minor">LOUIS XVIII</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_X" target="_blank"><rect id="Charles_X" x="24883" y="8483" width="395" height="15" class="french"/><title>Charles X (10/9/1757 - 11/6/1836)</title><g><rect x="25218" y="8483" width="29" height="15" class="king"/><title>king (9/16/1824 - 8/2/1830)</title></g>
+<text x="25021" y="8471" class="petty">LOUIS XVII</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_XVIII" target="_blank"><rect id="Louis_XVIII" x="24874" y="8483" width="344" height="15" class="french"/><title>Louis XVIII (11/17/1755 - 9/16/1824)</title><g><rect x="25166" y="8483" width="5" height="15" class="king"/><title>king (4/6/1814 - 3/20/1815)</title></g>
+<g><rect x="25172" y="8483" width="46" height="15" class="king"/><title>king (7/8/1815 - 9/16/1824)</title></g>
 
-<text x="24884" y="8494" class="minor">CHARLES X</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_Philippe_I" target="_blank"><rect id="Louis_Philippe_I" x="24963" y="8508" width="384" height="15" class="french"/><title>Louis Philippe I (10/6/1773 - 8/26/1850)</title><g><rect x="25247" y="8508" width="88" height="15" class="king"/><title>king (8/2/1830 - 2/24/1848)</title></g>
+<text x="24875" y="8494" class="minor">LOUIS XVIII</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Charles_X" target="_blank"><rect id="Charles_X" x="24883" y="8508" width="395" height="15" class="french"/><title>Charles X (10/9/1757 - 11/6/1836)</title><g><rect x="25218" y="8508" width="29" height="15" class="king"/><title>king (9/16/1824 - 8/2/1830)</title></g>
 
-<text x="24964" y="8519" class="minor">LOUIS PHILIPPE I</text></a></g>
+<text x="24884" y="8519" class="minor">CHARLES X</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Louis_Philippe_I" target="_blank"><rect id="Louis_Philippe_I" x="24963" y="8533" width="384" height="15" class="french"/><title>Louis Philippe I (10/6/1773 - 8/26/1850)</title><g><rect x="25247" y="8533" width="88" height="15" class="king"/><title>king (8/2/1830 - 2/24/1848)</title></g>
+
+<text x="24964" y="8544" class="minor">LOUIS PHILIPPE I</text></a></g>
 
 <text x="24042" y="8150" class="dynasty">BOURBON</text><g><a xlink:href="http://en.wikipedia.org/wiki/Gabriel_Riqueti" target="_blank"><rect id="Gabriel_Riqueti" x="24840" y="7645" width="210" height="15" class="frenchRepublic"/><title>Gabriel Riqueti (3/9/1749 - 4/2/1791) Count of Mirabeau</title>
 <text x="24841" y="7656" class="minor">GABRIEL RIQUETI</text></a></g>

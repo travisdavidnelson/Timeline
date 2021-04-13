@@ -2720,6 +2720,24 @@
               ]
             },
             {
+              "name": "Jules Mazarin",
+              "style": "french",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/14/1602",
+                "end": "3/9/1661"
+              },
+              "titles": [
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "12/4/1642",
+                    "end": "3/9/1661"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Louis XIV",
               "style": "french",
               "timespan": {
