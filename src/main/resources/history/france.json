@@ -3445,6 +3445,33 @@
           "name": "Third Republic",
           "people": [
             {
+              "name": "Georges Clemenceau",
+              "style": "frenchRepublic",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "9/28/1848",
+                "end": "11/24/1929"
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/25/1906",
+                    "end": "7/24/1909"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "11/16/1917",
+                    "end": "1/20/1920"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Raymond Poincare",
               "style": "frenchRepublic",
               "importance": "major",
@@ -3479,26 +3506,6 @@
                   "timespan": {
                     "start": "7/23/1926",
                     "end": "7/29/1929"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
-              "name": "Georges Clemenceau",
-              "style": "frenchRepublic",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "9/28/1848",
-                "end": "11/24/1929"
-              },
-              "titles": [
-                {
-                  "name": "primeMinister",
-                  "timespan": {
-                    "start": "10/25/1906",
-                    "end": "7/24/1909"
                   }
                 }
               ],
