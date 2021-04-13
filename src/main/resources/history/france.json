@@ -2722,7 +2722,7 @@
             {
               "name": "Jules Mazarin",
               "style": "french",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "7/14/1602",
                 "end": "3/9/1661"
@@ -2735,6 +2735,17 @@
                     "end": "3/9/1661"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Moliere",
+              "style": "french",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/15/1622",
+                "end": "2/17/1673"
+              },
+              "titles": [
               ]
             },
             {
