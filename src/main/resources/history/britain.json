@@ -1128,7 +1128,15 @@
         "start": "10/7/2001",
         "end": ""
       },
-      "style": "backgroundForeignWar"
+      "style": "backgroundForeignWarMinor"
+    },
+    {
+      "name": "COVID-19",
+      "timespan": {
+        "start": "2020",
+        "end": ""
+      },
+      "style": "backgroundPlagueMinor"
     },
     {
       "name": "Iraq War",

@@ -870,6 +870,14 @@
         "end": ""
       },
       "style": "frenchRepublic"
+    },
+    {
+      "name": "COVID-19",
+      "timespan": {
+        "start": "2020",
+        "end": ""
+      },
+      "style": "backgroundPlagueMinor"
     }
   ],
   "dynastyGroups": [
