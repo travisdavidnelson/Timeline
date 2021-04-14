@@ -255,6 +255,7 @@
 .speakerOfHouse     {fill:blue;		fill-opacity:0.6}
 .secretaryOfState   {fill:blue;		fill-opacity:0.4}
 .secretaryOfWar     {fill:#C00000;	fill-opacity:0.4}
+.secretaryOfDefense     {fill:#C00000;	fill-opacity:0.4}
 .secretaryOfTreasury     {fill:green;	fill-opacity:0.5}
 .secretaryOfCommerce     {fill:green;	fill-opacity:0.4}
 .senator 			{fill:blue;		fill-opacity:0.3}

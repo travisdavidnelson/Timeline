@@ -2459,6 +2459,24 @@
               ]
             },
             {
+              "name": "John Pershing",
+              "importance": "semimajor",
+              "style": "american",
+              "timespan": {
+                "start": "9/13/1860",
+                "end": "7/15/1948"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1906",
+                    "end": "7/15/1948"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Warren G. Harding",
               "timespan": {
                 "start": "11/2/1865",
@@ -2546,7 +2564,7 @@
                 "start": "1/30/1882",
                 "end": "4/12/1945"
               },
-              "importance": "major",
+              "importance": "transformational",
               "style": "democrat",
               "titles": [
                 {
@@ -2566,12 +2584,69 @@
               ]
             },
             {
+              "name": "George Marshall",
+              "importance": "semimajor",
+              "style": "american",
+              "timespan": {
+                "start": "12/31/1880",
+                "end": "10/16/1959"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1936",
+                    "end": "11/18/1945"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "12/20/1945",
+                    "end": "1/6/1947"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "1/21/1947",
+                    "end": "1/20/1949"
+                  }
+                },
+                {
+                  "name": "secretaryOfDefense",
+                  "timespan": {
+                    "start": "9/21/1950",
+                    "end": "9/12/1951"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Douglas MacArthur",
+              "importance": "semimajor",
+              "style": "american",
+              "timespan": {
+                "start": "1/26/1880",
+                "end": "4/5/1964"
+              },
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1/17/1925",
+                    "end": "4/10/1951"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Harry Truman",
               "timespan": {
                 "start": "5/8/1884",
                 "end": "12/26/1972"
               },
-              "importance": "semimajor",
+              "importance": "major",
               "style": "democrat",
               "titles": [
                 {
