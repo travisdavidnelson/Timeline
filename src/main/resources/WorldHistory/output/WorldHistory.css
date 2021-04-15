@@ -177,7 +177,7 @@
 .major {font-family: serif; font-size: 35px; kerning: 1; stroke:none; fill:#000000;}
 .semimajor {font-family: serif; font-size: 22px; kerning: 1; stroke:none; fill:#000000;}
 .minor {font-family: serif; font-size: 13px; kerning: 1; stroke:none; fill:#000000;}
-.petty {font-family: serif; font-size: 6px; kerning: 1; stroke:none; fill:#000000;}
+.petty {font-family: serif; font-size: 8px; kerning: 1; stroke:none; fill:#000000;}
 
 .aedile 			{fill:blue;		fill-opacity:0.5}
 .admiral 			{fill:#000080;	fill-opacity:0.6}

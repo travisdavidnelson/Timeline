@@ -21,7 +21,7 @@
     "dynastyStart": 0,
     "dynastyBackgroundTitleOffset": 40,
     "dynastyDiff": 62,
-    "lifetimeYDiff": 10,
+    "lifetimeYDiff": 8,
     "fontSize": 10,
     "fateWidth": 5,
     "channelXOffset": 150,
@@ -34,21 +34,21 @@
       "major": 40,
       "semimajor": 25,
       "minor": 15,
-      "petty": 8
+      "petty": 10
     },
     "importanceYOffsets": {
       "transformational": 40,
       "major": 30,
       "semimajor": 19,
       "minor": 11,
-      "petty": 6
+      "petty": 7
     },
     "importanceXOffsets": {
       "transformational": 6,
-      "major": 3,
-      "semimajor": 2,
-      "minor": 1,
-      "petty": 0
+      "major": 4,
+      "semimajor": 3,
+      "minor": 2,
+      "petty": 1
     }
   },
   "backgroundEvents": [
