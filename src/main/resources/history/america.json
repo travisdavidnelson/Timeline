@@ -2165,6 +2165,42 @@
               ]
             },
             {
+              "name": "William Tecumseh Sherman",
+              "timespan": {
+                "start": "2/8/1820",
+                "end": "2//14/1891"
+              },
+              "importance": "semimajor",
+              "style": "american",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "5/17/1861",
+                    "end": "11/1/1883"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Atlanta",
+                  "timespan": {
+                    "start": "9/2/1864",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Fall of Savanah",
+                  "timespan": {
+                    "start": "12/21/1864",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                }
+              ]
+            },
+            {
               "name": "Rutherford Hayes",
               "timespan": {
                 "start": "10/4/1822",
