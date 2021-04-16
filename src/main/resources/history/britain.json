@@ -6011,6 +6011,28 @@
               },
               "titles": [
               ]
+            },
+            {
+              "name": "Jane Austen&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "12/16/1775",
+                "end": "7/18/1817"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Charles Dickens",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "2/7/1812",
+                "end": "6/9/1870"
+              },
+              "titles": [
+              ]
             }
           ]
         }
