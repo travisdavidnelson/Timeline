@@ -273,7 +273,9 @@ public class TimelineSvgBuilder {
 //				nextPersonYStart = dynastyStart;
 //			}
 		}
-		String id = person.getName().replaceAll(" ", "_");
+		String id = person.getName()
+				.replaceAll(" ", "_")
+				.replaceAll("&#9792;", "");
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = lastPersonX;
 		TimelineInstant start = person.getTimespan().getStart();
