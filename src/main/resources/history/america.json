@@ -2168,7 +2168,7 @@
               "name": "William Tecumseh Sherman",
               "timespan": {
                 "start": "2/8/1820",
-                "end": "2//14/1891"
+                "end": "2/14/1891"
               },
               "importance": "semimajor",
               "style": "american",
@@ -2387,11 +2387,12 @@
             },
             {
               "name": "Thomas Edison",
+              "style": "american",
+              "importance": "major",
               "timespan": {
                 "start": "2/11/1847",
                 "end": "10/18/1931"
-              },
-              "importance": "major"
+              }
             }
           ]
         },
