@@ -6015,7 +6015,7 @@
             {
               "name": "Jane Austen&#9792;",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "12/16/1775",
                 "end": "7/18/1817"
@@ -6026,7 +6026,7 @@
             {
               "name": "Charles Dickens",
               "style": "english",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "2/7/1812",
                 "end": "6/9/1870"
@@ -6564,7 +6564,7 @@
             {
               "name": "George III",
               "style": "british",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "6/4/1738",
                 "end": "1/29/1820"
@@ -6618,7 +6618,7 @@
             {
               "name": "Victoria&#9792;",
               "style": "british",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "5/24/1819",
                 "end": "1/22/1901"
@@ -6708,7 +6708,7 @@
             {
               "name": "Elizabeth II&#9792;",
               "style": "british",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "4/21/1926",
                 "end": ""
