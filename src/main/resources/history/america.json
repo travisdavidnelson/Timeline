@@ -3121,6 +3121,16 @@
                     "end": "1/20/2017"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Killing of Osama Bin Laden",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/2/2011",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
