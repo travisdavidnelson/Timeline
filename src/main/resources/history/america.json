@@ -489,20 +489,20 @@
       "style": "backgroundForeignWarMinorVictory"
     },
     {
+      "name": "Afghan War",
+      "timespan": {
+        "start": "10/7/2001",
+        "end": ""
+      },
+      "style": "backgroundForeignWarMinor"
+    },
+    {
       "name": "Attacks of September 11, 2001",
       "timespan": {
         "start": "9/11/2001",
         "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Afghan War",
-      "timespan": {
-        "start": "9/11/2001",
-        "end": ""
-      },
-      "style": "backgroundForeignWarMinor"
     },
     {
       "name": "Iraq War",
@@ -524,7 +524,7 @@
       "name": "Capitol Riot",
       "timespan": {
         "start": "1/6/2021",
-        "end": ""
+        "duration": "1d"
       },
       "style": "backgroundRiot"
     }
