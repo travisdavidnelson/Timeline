@@ -489,6 +489,14 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Kosovo War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "2/1998",
+        "end": "6/1/1999"
+      }
+    },
+    {
       "name": "Afghan War",
       "timespan": {
         "start": "10/7/2001",

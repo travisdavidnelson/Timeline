@@ -844,21 +844,37 @@
       "style": "backgroundWar",
       "timespan": {
         "start": "9/1/1939",
-        "end": "9/2/1945"
+        "end": "5/8/1945"
+      }
+    },
+    {
+      "name": "Battle of France",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "5/10/1940",
+        "end": "6/25/1940"
       }
     },
     {
       "name": "Vicchy France",
       "timespan": {
         "start": "7/10/1940",
-        "end": "6/5/1944"
+        "end": "5/8/1945"
       },
       "style": "backgroundOccupation"
     },
     {
+      "name": "Liberation of France",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "6/6/1944",
+        "end": "5/8/1945"
+      }
+    },
+    {
       "name": "Fourth Republic",
       "timespan": {
-        "start": "6/5/1944",
+        "start": "5/8/1945",
         "end": "10/4/1958"
       },
       "style": "frenchRepublic"
@@ -870,6 +886,38 @@
         "end": ""
       },
       "style": "frenchRepublic"
+    },
+    {
+      "name": "First Indochina War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "12/19/1946",
+        "end": "8/1/1954"
+      }
+    },
+    {
+      "name": "Battle of Dien Bien Phu",
+      "style": "backgroundBattleDefeat",
+      "timespan": {
+        "start": "3/13/1954",
+        "end": "5/7/1954"
+      }
+    },
+    {
+      "name": "Algerian War",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "11/1/1954",
+        "end": "3/19/1962"
+      }
+    },
+    {
+      "name": "Suez Crisis",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/29/1956",
+        "end": "11/7/1956"
+      }
     },
     {
       "name": "COVID-19",

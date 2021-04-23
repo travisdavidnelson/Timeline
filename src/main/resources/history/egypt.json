@@ -50,11 +50,27 @@
       }
     },
     {
+      "name": "1948 Arab-Israeli War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/15/1948",
+        "end": "3/10/1949"
+      }
+    },
+    {
       "name": "Egyptian revolution of 1952",
       "style": "backgroundRevolution",
       "timespan": {
         "start": "7/23/1952",
         "duration": "1m"
+      }
+    },
+    {
+      "name": "Suez Crisis",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/29/1956",
+        "end": "11/7/1956"
       }
     },
     {
