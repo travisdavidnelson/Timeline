@@ -95,17 +95,17 @@
 .backgroundDarkAge {fill:black; fill-opacity:0.5}
 .backgroundInvasion {fill:red; fill-opacity:0.6}
 .backgroundOccupation {fill:#4C0000; fill-opacity:0.3}
-.backgroundDomesticWarVictory {fill:blue; fill-opacity:0.5}
+.backgroundDomesticWarVictory {fill:#ad0126; fill-opacity:0.5}
 .backgroundFamine {fill:black; fill-opacity:0.5}
-.backgroundForeignWar {fill:#a5092b; fill-opacity:0.5}
-.backgroundForeignWarDefeat {fill:red; fill-opacity:0.6}
-.backgroundForeignWarMinor {fill:brown; fill-opacity:0.2}
-.backgroundForeignWarMinorDefeat {fill:red; fill-opacity:0.2}
-.backgroundForeignWarMinorVictory {fill:blue; fill-opacity:0.2}
-.backgroundForeignWarMajor {fill:brown; fill-opacity:0.5}
-.backgroundForeignWarMajorDefeat {fill:red; fill-opacity:0.5}
-.backgroundForeignWarMajorVictory {fill:blue; fill-opacity:0.4}
-.backgroundForeignWarVictory {fill:blue; fill-opacity:0.4}
+.backgroundForeignWar {fill:#ad0126; fill-opacity:0.5}
+.backgroundForeignWarDefeat {fill:#ad0126; fill-opacity:0.6}
+.backgroundForeignWarMinor {fill:#ad0126; fill-opacity:0.2}
+.backgroundForeignWarMinorDefeat {fill:#ad0126; fill-opacity:0.2}
+.backgroundForeignWarMinorVictory {fill:#ad0126; fill-opacity:0.2}
+.backgroundForeignWarMajor {fill:#ad0126; fill-opacity:0.5}
+.backgroundForeignWarMajorDefeat {fill:#ad0126; fill-opacity:0.5}
+.backgroundForeignWarMajorVictory {fill:#ad0126; fill-opacity:0.4}
+.backgroundForeignWarVictory {fill:#ad0126; fill-opacity:0.4}
 .backgroundRaid {fill:red; fill-opacity:0.5}
 .backgroundRebellion {fill:red; fill-opacity:0.4}
 .backgroundRiot {fill:red; fill-opacity:0.6}
@@ -118,7 +118,7 @@
 .backgroundRevolution {fill:#C00000; fill-opacity:0.5}
 .backgroundUnionVictory {fill:blue; fill-opacity:0.8}
 .backgroundConfederateVictory {fill:red; fill-opacity:0.8}
-.backgroundWar {fill:red; fill-opacity:0.5}
+.backgroundWar {fill:#ad0126; fill-opacity:0.5}
 .foregroundReputationalStain {fill:black; fill-opacity:1.0}
 .neolithic {fill:grey;fill-opacity:0.3}
 .bronzeAge {fill:#CD7F32;fill-opacity:0.3}
