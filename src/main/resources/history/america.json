@@ -1435,7 +1435,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Expansionists",
+          "people": [
             {
               "name": "John Quincy Adams",
               "timespan": {
@@ -1502,12 +1507,7 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Democrats and Whigs",
-          "people": [
+            },
             {
               "name": "Henry Clay",
               "timespan": {
@@ -2007,7 +2007,7 @@
           ]
         },
         {
-          "name": "Republicans",
+          "name": "Unionist",
           "people": [
             {
               "name": "Abraham Lincoln",
@@ -2369,7 +2369,54 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Visionaries",
+          "people": [
+            {
+              "name": "Thomas Edison",
+              "style": "american",
+              "importance": "major",
+              "timespan": {
+                "start": "2/11/1847",
+                "end": "10/18/1931"
+              }
             },
+            {
+              "name": "Henry Ford",
+              "style": "american",
+              "importance": "major",
+              "timespan": {
+                "start": "7/30/1863",
+                "end": "4/7/1947"
+              }
+            },
+            {
+              "name": "Wilbur Wright",
+              "style": "american",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "4/16/1867",
+                "end": "5/30/1912"
+              }
+            },
+            {
+              "name": "Orville Wright",
+              "style": "american",
+              "importance": "major",
+              "timespan": {
+                "start": "8/19/1871",
+                "end": "1/30/1948"
+              }
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Emergent power",
+          "people": [
             {
               "name": "William McKinley",
               "timespan": {
@@ -2409,20 +2456,6 @@
                 }
               ]
             },
-            {
-              "name": "Thomas Edison",
-              "style": "american",
-              "importance": "major",
-              "timespan": {
-                "start": "2/11/1847",
-                "end": "10/18/1931"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Progressives",
-          "people": [
             {
               "name": "Theodore Roosevelt",
               "timespan": {
@@ -2618,7 +2651,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Superpower",
+          "people": [
             {
               "name": "Franklin Roosevelt",
               "timespan": {
@@ -2968,12 +3006,7 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Modern",
-          "people": [
+            },
             {
               "name": "Ronald Reagan",
               "timespan": {
@@ -3047,7 +3080,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Hegemon",
+          "people": [
             {
               "name": "Bill Clinton",
               "timespan": {
