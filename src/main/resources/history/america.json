@@ -2405,7 +2405,7 @@
             {
               "name": "Orville Wright",
               "style": "american",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "8/19/1871",
                 "end": "1/30/1948"
