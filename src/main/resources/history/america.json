@@ -2414,6 +2414,56 @@
           ]
         },
         {
+          "name": "Adventurers",
+          "people": [
+            {
+              "name": "William Clark",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/1/1770",
+                "end": "9/1/1838"
+              }
+            },
+            {
+              "name": "Meriwether Lewis",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/18/1774",
+                "end": "10/11/1809"
+              }
+            },
+            {
+              "name": "John Fremont",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/21/1813",
+                "end": "7/13/1890"
+              }
+            },
+            {
+              "name": "Chuck Yeager",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "2/13/1923",
+                "end": "12/7/2020"
+              }
+            },
+            {
+              "name": "Neil Armstrong",
+              "style": "american",
+              "importance": "major",
+              "timespan": {
+                "start": "8/5/1930",
+                "end": "8/25/2012"
+              }
+            }
+          ]
+        },
+        {
           "pageBreak": true,
           "name": "Emergent power",
           "people": [
