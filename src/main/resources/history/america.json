@@ -2435,12 +2435,41 @@
               }
             },
             {
-              "name": "John Fremont",
+              "name": "Zebulon Pike",
               "style": "american",
               "importance": "petty",
               "timespan": {
+                "start": "1/5/1779",
+                "end": "4/27/1813"
+              }
+            },
+            {
+              "name": "John Fremont",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
                 "start": "1/21/1813",
                 "end": "7/13/1890"
+              }
+            },
+            {
+              "pageBreak": true,
+              "name": "Charles Lindberg",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/4/1902",
+                "end": "8/26/1974"
+              }
+            },
+            {
+              "name": "Amerlia Earhart&#9792;",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "7/24/1897",
+                "endApproximate": "true",
+                "end": "7/2/1937"
               }
             },
             {
@@ -2451,6 +2480,35 @@
                 "start": "2/13/1923",
                 "end": "12/7/2020"
               }
+            },
+            {
+              "name": "Alan Shepard",
+              "style": "american",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "11/18/1923",
+                "end": "7/21/1998"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "John Glenn",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/18/1921",
+                "end": "12/8/2016"
+              },
+              "titles": [
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "12/24/1974",
+                    "end": "1/3/1999"
+                  }
+                }
+              ]
             },
             {
               "name": "Neil Armstrong",
