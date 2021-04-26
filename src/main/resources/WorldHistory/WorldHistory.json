@@ -111,7 +111,7 @@
     },
     {
       "name": "North America",
-      "resources": "america"
+      "resources": "mexico,america"
     }
   ]
 }

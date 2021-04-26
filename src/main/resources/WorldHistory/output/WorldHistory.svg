@@ -1058,6 +1058,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Jacobite_Rising_of_1719" target="_blank"><rect id="Jacobite_Rising_of_1719" x="24691" y="9020" width="1" height="401" class="footprint"/><rect id="Jacobite_Rising_of_1719" x="24691" y="9020" width="1" height="401" class="backgroundRebellionMinor"/><title>Jacobite Rising of 1719 (5/10/1719 - 6/10/1719)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Jacobite_Rising_of_1745" target="_blank"><rect id="Jacobite_Rising_of_1745" x="24823" y="9020" width="3" height="401" class="footprint"/><rect id="Jacobite_Rising_of_1745" x="24823" y="9020" width="3" height="401" class="backgroundRebellionMinor"/><title>Jacobite Rising of 1745 (8/19/1745 - 4/20/1746)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Battle_of_Culloden" target="_blank"><rect id="Battle_of_Culloden" x="24826" y="9020" width="1" height="401" class="footprint"/><rect id="Battle_of_Culloden" x="24826" y="9020" width="1" height="401" class="backgroundBattle"/><title>Battle of Culloden (4/16/1746)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aztec" target="_blank"><rect id="Aztec" x="22975" y="9728" width="725" height="366" class="footprint"/><rect id="Aztec" x="22975" y="9728" width="725" height="366" class="aztec"/><title>Aztec (1376 - 1521)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Spanish_conquest" target="_blank"><rect id="Spanish_conquest" x="23690" y="9728" width="10" height="366" class="footprint"/><rect id="Spanish_conquest" x="23690" y="9728" width="10" height="366" class="backgroundNationalCalamity"/><title>Spanish conquest (1519 - 1521)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24130" y="9728" width="848" height="127" class="footprint"/><rect id="Colonial_America" x="24130" y="9728" width="848" height="127" class="colonialAmerica"/><title>Colonial America (1607 - 7/4/1776)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/King_William's_War" target="_blank"><rect id="King_William's_War" x="24534" y="9728" width="45" height="127" class="footprint"/><rect id="King_William's_War" x="24534" y="9728" width="45" height="127" class="backgroundWar"/><title>King William's War (1688 - 1697)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Colonial_America" target="_blank"><rect id="Colonial_America" x="24199" y="9877" width="778" height="183" class="footprint"/><rect id="Colonial_America" x="24199" y="9877" width="778" height="183" class="colonialAmerica"/><title>Colonial America (12/1620 - 7/4/1776)</title></a></g>
@@ -1103,6 +1105,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 		<line x1="100" y1="5570" x2="26594" y2="5570" class="timeline"/>
 		<line x1="100" y1="7243" x2="26594" y2="7243" class="timeline"/>
 		<line x1="100" y1="8281" x2="26594" y2="8281" class="timeline"/>
+		<line x1="100" y1="9706" x2="26594" y2="9706" class="timeline"/>
 		<line x1="100" y1="9706" x2="26594" y2="9706" class="timeline"/>
 		<line x1="100" y1="11388" x2="26594" y2="11388" class="timeline"/>
 		<line x1="100" y1="11388" x2="26594" y2="11388" class="timeline"/>
@@ -12749,7 +12752,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Nicolas_Sarkozy" target="_blank"><rect id="Nicolas_Sarkozy" x="25870" y="7832" width="331" height="15" class="frenchRepublic"/><title>Nicolas Sarkozy (1/28/1955)</title><g><rect x="26131" y="7832" width="25" height="15" class="president"/><title>president (5/16/2007 - 5/15/2012)</title></g>
 
 <text x="25872" y="7843" class="minor">NICOLAS SARKOZY</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Francois_Hollande" target="_blank"><rect id="Francois_Hollande" x="25868" y="7855" width="333" height="15" class="frenchRepublic"/><title>Francois Hollande (8/12/1954)</title><g><rect x="26156" y="7855" width="25" height="15" class="president"/><title>president (5/15/2012 - 5/14/2017)</title></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Francois_Hollande" target="_blank"><rect id="Francois_Hollande" x="25868" y="7855" width="334" height="15" class="frenchRepublic"/><title>Francois Hollande (8/12/1954)</title><g><rect x="26156" y="7855" width="25" height="15" class="president"/><title>president (5/15/2012 - 5/14/2017)</title></g>
 
 <text x="25870" y="7866" class="minor">FRANCOIS HOLLANDE</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Emmanuel_Macron" target="_blank"><rect id="Emmanuel_Macron" x="25984" y="7878" width="217" height="25" class="frenchRepublic"/><title>Emmanuel Macron (12/21/1977)</title><g><rect x="26181" y="7878" width="20" height="25" class="president"/><title>president (5/14/2017)</title></g>
@@ -13584,7 +13587,41 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <text x="25919" y="8813" class="minor">BORIS JOHNSON</text></a></g>
 
 <text x="24701" y="8343" class="dynasty">BRITAIN POLITICAL</text>
-<text x="150" y="9594" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="9776" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/><title>Virginia Dare (8/18/1587 - c. 1600)</title>
+<text x="150" y="9594" class="channel">BRITAIN</text><g><a xlink:href="http://en.wikipedia.org/wiki/Acamapichtli" target="_blank"><rect id="Acamapichtli" x="22975" y="9776" width="95" height="25" class="aztec"/><title>Acamapichtli (1376 - 1395)</title><g><rect x="22975" y="9776" width="95" height="25" class="king"/><title>king (1376 - 1395)</title></g>
+
+<text x="22978" y="9795" class="semimajor">ACAMAPICHTLI</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Huitzilihuitl" target="_blank"><rect id="Huitzilihuitl" x="22940" y="9809" width="240" height="15" class="aztec"  mask="url(#fadeInMask)"/><title>Huitzilihuitl (c. 1379 - 1417)</title><g><rect x="23075" y="9809" width="105" height="15" class="king"/><title>king (1396 - 1417)</title></g>
+
+<text x="22944" y="9820" class="minor">HUITZILIHUITL</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Chimalpopoca" target="_blank"><rect id="Chimalpopoca" x="23030" y="9832" width="200" height="15" class="aztec"  mask="url(#fadeInMask)"/><title>Chimalpopoca (c. 1397 - 1427)</title><g><rect x="23180" y="9832" width="50" height="15" class="king"/><title>king (1417 - 1427)</title></g>
+
+<text x="23034" y="9843" class="minor">CHIMALPOPOCA</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Itzcoatl" target="_blank"><rect id="Itzcoatl" x="22995" y="9855" width="300" height="25" class="aztec"/><title>Itzcoatl (1380 - 1440)</title><g><rect x="23230" y="9855" width="65" height="25" class="emperor"/><title>emperor (1427 - 1440)</title></g>
+
+<text x="22998" y="9874" class="semimajor">ITZCOATL</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Moctezuma_I" target="_blank"><rect id="Moctezuma_I" x="23035" y="9888" width="405" height="40" class="aztec"  mask="url(#fadeInMask)"/><title>Moctezuma I (c. 1398 - 1469)</title><g><rect x="23295" y="9888" width="145" height="40" class="emperor"/><title>emperor (1440 - 1469)</title></g>
+
+<text x="23043" y="9918" class="major">MOCTEZUMA I</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Axayacatl" target="_blank"><rect id="Axayacatl" x="23290" y="9936" width="210" height="15" class="aztec"  mask="url(#fadeInMask)"/><title>Axayacatl (c. 1449 - 1481)</title><g><rect x="23440" y="9936" width="60" height="15" class="emperor"/><title>emperor (1469 - 1481)</title></g>
+
+<text x="23294" y="9947" class="minor">AXAYACATL</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Tizoc" target="_blank"><rect id="Tizoc" x="23500" y="9959" width="25" height="15" class="aztec"/><title>Tizoc (1481 - 1486)</title><g><rect x="23500" y="9959" width="25" height="15" class="emperor"/><title>emperor (1481 - 1486)</title></g>
+
+<text x="23502" y="9970" class="minor">TIZOC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Ahuitzotl" target="_blank"><rect id="Ahuitzotl" x="23525" y="9982" width="80" height="15" class="aztec"/><title>Ahuitzotl (1486 - 1502)</title><g><rect x="23525" y="9982" width="80" height="15" class="emperor"/><title>emperor (1486 - 1502)</title></g>
+
+<text x="23527" y="9993" class="minor">AHUITZOTL</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Moctezuma_II" target="_blank"><rect id="Moctezuma_II" x="23375" y="10005" width="322" height="40" class="aztec"  mask="url(#fadeInMask)"/><title>Moctezuma II (c. 1466 - 7/1/1520)</title><g><rect x="23605" y="10005" width="92" height="40" class="emperor"/><title>emperor (1502 - 7/1/1520)</title></g>
+
+<text x="23383" y="10035" class="major">MOCTEZUMA II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Cuitlahuac" target="_blank"><rect id="Cuitlahuac" x="23425" y="10053" width="273" height="10" class="aztec"  mask="url(#fadeInMask)"/><title>Cuitlahuac (c. 1476 - 9/1520)</title><g><rect x="23697" y="10053" width="1" height="10" class="emperor"/><title>emperor (6/29/1520 - 9/1520)</title></g>
+
+<text x="23427" y="10060" class="petty">CUITLAHUAC</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Cuauhtemoc" target="_blank"><rect id="Cuauhtemoc" x="23530" y="10071" width="240" height="15" class="aztec"  mask="url(#fadeInOutMask)"/><title>Cuauhtemoc (c. 1497 - c. 1525)</title><g><rect x="23698" y="10071" width="4" height="15" class="emperor"/><title>emperor (9/1520 - 6/1521)</title></g>
+
+<text x="23534" y="10082" class="minor">CUAUHTEMOC</text></a></g>
+
+<text x="22975" y="9768" class="dynasty">AZTEC MEXICA</text><g><a xlink:href="http://en.wikipedia.org/wiki/Virginia_Dare" target="_blank"><rect id="Virginia_Dare" x="24033" y="9776" width="112" height="15" class="colonist"  mask="url(#fadeOutMask)"/><title>Virginia Dare (8/18/1587 - c. 1600)</title>
 <text x="24035" y="9787" class="minor">VIRGINIA DARE</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Edward_Maria_Wingfield" target="_blank"><rect id="Edward_Maria_Wingfield" x="23795" y="9799" width="455" height="15" class="colonist"  mask="url(#fadeInMask)"/><title>Edward Maria Wingfield (c. 1550 - 1631)</title><g><rect x="24131" y="9799" width="5" height="15" class="governor"/><title>governor (5/13/1607)</title></g>
 
