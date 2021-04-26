@@ -15,15 +15,31 @@
               "style": "aztec",
               "timespan": {
                 "start": "1376",
-                "end": "1521"
+                "end": "8/13/1521"
               }
             },
             {
               "name": "Spanish conquest",
-              "style": "backgroundNationalCalamity",
+              "style": "backgroundInvasion",
               "timespan": {
                 "start": "1519",
-                "end": "1521"
+                "end": "8/1521"
+              }
+            },
+            {
+              "name": "La Nocke Triste",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/30/1520",
+                "end": "7/1/1520"
+              }
+            },
+            {
+              "name": "Fall of Tenochtitlan",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "8/1521",
+                "end": "8/13/1521"
               }
             }
           ],
