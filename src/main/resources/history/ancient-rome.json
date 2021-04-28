@@ -38,9 +38,17 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "454"
+        "end": "8/24/410"
       },
       "style": "romanDominate"
+    },
+    {
+      "name": "Barbarian Italy",
+      "timespan": {
+        "start": "8/24/410",
+        "end": "553"
+      },
+      "style": "germanicBarbarian"
     },
     {
       "name": "First Samnite War",
@@ -5047,6 +5055,38 @@
         {
           "name": "Theodosians",
           "backgroundEvents": [
+            {
+              "name": "Roman Dominate",
+              "timespan": {
+                "start": "397",
+                "end": "455"
+              },
+              "style": "romanDominate"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "440",
+                "end": "443"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "447",
+                "end": "449"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Hunnic Invasion",
+              "timespan": {
+                "start": "451",
+                "end": "454"
+              },
+              "style": "backgroundInvasion"
+            }
           ],
           "people": [
             {
@@ -5106,76 +5146,6 @@
               ]
             },
             {
-              "name": "Arcadius",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1/1/377",
-                "end": "5/1/408"
-              },
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "1/383",
-                    "end": "395"
-                  }
-                },
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "395",
-                    "end": "5/1/408"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Pulcheria&#9792;",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1/19/398",
-                "end": "7/453"
-              },
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "augusta",
-                  "timespan": {
-                    "start": "414",
-                    "end": "7/453"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Theodosius II",
-              "style": "roman",
-              "timespan": {
-                "start": "4/10/401",
-                "end": "7/28/450"
-              },
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "1/402",
-                    "end": "5/1/408"
-                  }
-                },
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "5/1/408",
-                    "end": "7/28/450"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Honorius",
               "style": "roman",
               "timespan": {
@@ -5228,12 +5198,7 @@
             {
               "name": "Constantius III",
               "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "370",
-                "end": "9/2/421"
-              },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "general",

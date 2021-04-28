@@ -1187,6 +1187,114 @@
               "importance": "minor"
             }
           ]
+        },
+        {
+          "name": "Theodosians",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Arcadius",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1/1/377",
+                "end": "5/1/408"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "1/383",
+                    "end": "395"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "395",
+                    "end": "5/1/408"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aelia Eudoxia&#9792;",
+              "style": "roman",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "395",
+                    "end": "10/6/404"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Theodosius II",
+              "style": "roman",
+              "timespan": {
+                "start": "4/10/401",
+                "end": "7/28/450"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "1/402",
+                    "end": "5/1/408"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "5/1/408",
+                    "end": "7/28/450"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pulcheria&#9792;",
+              "style": "roman",
+              "timespan": {
+                "start": "1/19/398",
+                "end": "7/453"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "414",
+                    "end": "7/453"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marcian",
+              "timespan": {
+                "start": "396",
+                "end": "457"
+              },
+              "importance": "semimajor",
+              "style": "roman",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "450",
+                    "end": "457"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1197,24 +1305,6 @@
         {
           "name": "Eastern Roman Empire",
           "people": [
-            {
-              "name": "Marcian",
-              "timespan": {
-                "start": "396",
-                "end": "457"
-              },
-              "importance": "semimajor",
-              "style": "sanctified",
-              "titles": [
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "450",
-                    "end": "457"
-                  }
-                }
-              ]
-            },
             {
               "name": "Leo I the Thracian",
               "timespan": {
