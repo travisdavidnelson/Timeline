@@ -72,6 +72,14 @@
       "style": "germanicBarbarian"
     },
     {
+      "name": "Crossing of the Rhine",
+      "timespan": {
+        "start": "406",
+        "end": "406"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Sack of Rome (410)",
       "timespan": {
         "start": "8/24/410",
