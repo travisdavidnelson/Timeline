@@ -59,9 +59,17 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "235",
-        "end": "486"
+        "end": "8/24/410"
       },
       "style": "romanDominate"
+    },
+    {
+      "name": "Barbarian Italy",
+      "timespan": {
+        "start": "8/24/410",
+        "end": "508"
+      },
+      "style": "germanicBarbarian"
     },
     {
       "name": "Sack of Rome (410)",
@@ -82,7 +90,7 @@
     {
       "name": "Frankish Kingdoms",
       "timespan": {
-        "start": "486",
+        "start": "508",
         "end": "987"
       },
       "style": "franks"

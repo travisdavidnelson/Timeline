@@ -83,16 +83,14 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "235",
-        "endApproximate": "true",
-        "end": "410"
+        "end": "8/24/410"
       },
       "style": "romanDominate"
     },
     {
       "name": "Christian Roman Remnant",
       "timespan": {
-        "startApproximate": "true",
-        "start": "410",
+        "start": "8/24/410",
         "endApproximate": "true",
         "end": "550"
       },
