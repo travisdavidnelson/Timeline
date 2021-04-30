@@ -898,6 +898,16 @@
     {
       "name": "Late Empire",
       "yStart": 0,
+      "backgroundEvents": [
+        {
+          "name": "Destruction of the Temple of Artemis",
+          "style": "backgroundNationalCalamity",
+          "timespan": {
+            "start": "407",
+            "duration": "1m"
+          }
+        }
+      ],
       "dynasties": [
         {
           "name": "Constantinians",
@@ -1185,6 +1195,41 @@
                 "end": "400"
               },
               "importance": "minor"
+            }
+          ]
+        },
+        {
+          "name": "Church Fathers",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "John Chrysostom",
+              "style": "sanctified",
+              "timespan": {
+                "startApproximate": true,
+                "start": "347",
+                "end": "9/14/407"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "archbishop",
+                  "timespan": {
+                    "start": "10/397",
+                    "end": "404"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "404",
+                    "end": "9/14/407"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
             }
           ]
         },

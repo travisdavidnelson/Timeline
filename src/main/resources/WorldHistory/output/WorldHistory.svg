@@ -270,6 +270,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Fourth_Crusade" target="_blank"><rect id="Fourth_Crusade" x="22115" y="4588" width="1" height="982" class="footprint"/><rect id="Fourth_Crusade" x="22115" y="4588" width="1" height="982" class="backgroundNationalCalamity"/><title>Fourth Crusade (1204 - 1204)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Black_Death" target="_blank"><rect id="Black_Death" x="22835" y="4588" width="25" height="982" class="footprint"/><rect id="Black_Death" x="22835" y="4588" width="25" height="982" class="backgroundPlagueMajor"/><title>Black Death (1348)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Fall_of_Constantinople" target="_blank"><rect id="Fall_of_Constantinople" x="23360" y="4588" width="1" height="982" class="footprint"/><rect id="Fall_of_Constantinople" x="23360" y="4588" width="1" height="982" class="backgroundNationalCalamity"/><title>Fall of Constantinople (1453 - 1453)</title></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Destruction_of_the_Temple_of_Artemis" target="_blank"><rect id="Destruction_of_the_Temple_of_Artemis" x="18130" y="4588" width="1" height="982" class="footprint"/><rect id="Destruction_of_the_Temple_of_Artemis" x="18130" y="4588" width="1" height="982" class="backgroundNationalCalamity"/><title>Destruction of the Temple of Artemis (407)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Kingdom" target="_blank"><rect id="Roman_Kingdom" x="12310" y="5570" width="1245" height="1673" class="footprint"  mask="url(#fadeInMask)"/><rect id="Roman_Kingdom" x="12310" y="5570" width="1245" height="1673" class="romanKingdom"  mask="url(#fadeInMask)"/><title>Roman Kingdom (c. 753 BC - 509 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Republic" target="_blank"><rect id="Roman_Republic" x="13555" y="5570" width="2410" height="1673" class="footprint"/><rect id="Roman_Republic" x="13555" y="5570" width="2410" height="1673" class="romanRepublic"/><title>Roman Republic (509 BC - 27 BC)</title></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Roman_Principate" target="_blank"><rect id="Roman_Principate" x="15950" y="5570" width="1320" height="1673" class="footprint"/><rect id="Roman_Principate" x="15950" y="5570" width="1320" height="1673" class="romanPrincipate"/><title>Roman Principate (30 BC - 235)</title></a></g>
@@ -11187,25 +11188,30 @@ xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26694px" heigh
 <g><a xlink:href="http://en.wikipedia.org/wiki/Ammianus_Marcellinus" target="_blank"><rect id="Ammianus_Marcellinus" x="17695" y="5065" width="450" height="15" class="roman"  mask="url(#fadeInOutMask)"/><title>Ammianus Marcellinus (c. 330 - c. 400)</title>
 <text x="17699" y="5076" class="minor">AMMIANUS MARCELLINUS</text></a></g>
 
-<text x="17325" y="4650" class="dynasty">CONSTANTINIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Arcadius" target="_blank"><rect id="Arcadius" x="17930" y="5158" width="207" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Arcadius (c. 1/1/377 - 5/1/408)</title><g><rect x="18010" y="5158" width="60" height="15" class="caesar"/><title>caesar (1/383 - 395)</title></g>
-<g><rect x="18070" y="5158" width="67" height="15" class="augustus"/><title>augustus (395 - 5/1/408)</title></g>
+<text x="17325" y="4650" class="dynasty">CONSTANTINIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/John_Chrysostom" target="_blank"><rect id="John_Chrysostom" x="17780" y="5158" width="353" height="40" class="sanctified"  mask="url(#fadeInMask)"/><title>John Chrysostom (c. 347 - 9/14/407)</title><g><rect x="18083" y="5158" width="31" height="40" class="archbishop"/><title>archbishop (10/397 - 404)</title></g>
+<g><rect x="18115" y="5158" width="19" height="40" class="exile"/><title>exile (404 - 9/14/407)</title></g>
 
-<text x="17934" y="5169" class="minor">ARCADIUS</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Aelia_Eudoxia" target="_blank"><rect id="Aelia_Eudoxia" x="18070" y="5181" width="49" height="15" class="roman"/><title>Aelia Eudoxia&#9792; (395 - 10/6/404)</title><g><rect x="18070" y="5181" width="49" height="15" class="augusta"/><title>augusta (395 - 10/6/404)</title></g>
+<text x="17788" y="5188" class="major">JOHN CHRYSOSTOM</text></a></g>
 
-<text x="18072" y="5192" class="minor">AELIA EUDOXIA&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Theodosius_II" target="_blank"><rect id="Theodosius_II" x="18101" y="5204" width="246" height="15" class="roman"/><title>Theodosius II (4/10/401 - 7/28/450)</title><g><rect x="18105" y="5204" width="32" height="15" class="caesar"/><title>caesar (1/402 - 5/1/408)</title></g>
-<g><rect x="18136" y="5204" width="211" height="15" class="augustus"/><title>augustus (5/1/408 - 7/28/450)</title></g>
+<text x="18083" y="5150" class="dynasty">CHURCH FATHERS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Arcadius" target="_blank"><rect id="Arcadius" x="17930" y="5276" width="207" height="15" class="roman"  mask="url(#fadeInMask)"/><title>Arcadius (c. 1/1/377 - 5/1/408)</title><g><rect x="18010" y="5276" width="60" height="15" class="caesar"/><title>caesar (1/383 - 395)</title></g>
+<g><rect x="18070" y="5276" width="67" height="15" class="augustus"/><title>augustus (395 - 5/1/408)</title></g>
 
-<text x="18103" y="5215" class="minor">THEODOSIUS II</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Pulcheria" target="_blank"><rect id="Pulcheria" x="18085" y="5227" width="277" height="25" class="roman"/><title>Pulcheria&#9792; (1/19/398 - 7/453)</title><g><rect x="18165" y="5227" width="197" height="25" class="augusta"/><title>augusta (414 - 7/453)</title></g>
+<text x="17934" y="5287" class="minor">ARCADIUS</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Aelia_Eudoxia" target="_blank"><rect id="Aelia_Eudoxia" x="18070" y="5299" width="49" height="15" class="roman"/><title>Aelia Eudoxia&#9792; (395 - 10/6/404)</title><g><rect x="18070" y="5299" width="49" height="15" class="augusta"/><title>augusta (395 - 10/6/404)</title></g>
 
-<text x="18088" y="5246" class="semimajor">PULCHERIA&#9792;</text></a></g>
-<g><a xlink:href="http://en.wikipedia.org/wiki/Marcian" target="_blank"><rect id="Marcian" x="18075" y="5260" width="305" height="25" class="roman"/><title>Marcian (396 - 457)</title><g><rect x="18345" y="5260" width="35" height="25" class="augustus"/><title>augustus (450 - 457)</title></g>
+<text x="18072" y="5310" class="minor">AELIA EUDOXIA&#9792;</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Theodosius_II" target="_blank"><rect id="Theodosius_II" x="18101" y="5322" width="246" height="15" class="roman"/><title>Theodosius II (4/10/401 - 7/28/450)</title><g><rect x="18105" y="5322" width="32" height="15" class="caesar"/><title>caesar (1/402 - 5/1/408)</title></g>
+<g><rect x="18136" y="5322" width="211" height="15" class="augustus"/><title>augustus (5/1/408 - 7/28/450)</title></g>
 
-<text x="18078" y="5279" class="semimajor">MARCIAN</text></a></g>
+<text x="18103" y="5333" class="minor">THEODOSIUS II</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Pulcheria" target="_blank"><rect id="Pulcheria" x="18085" y="5345" width="277" height="25" class="roman"/><title>Pulcheria&#9792; (1/19/398 - 7/453)</title><g><rect x="18165" y="5345" width="197" height="25" class="augusta"/><title>augusta (414 - 7/453)</title></g>
 
-<text x="18010" y="5150" class="dynasty">THEODOSIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Leo_I_the_Thracian" target="_blank"><rect id="Leo_I_the_Thracian" x="18100" y="4658" width="365" height="25" class="sanctified"/><title>Leo I the Thracian (401 - 474)</title><g><rect x="18380" y="4658" width="85" height="25" class="augustus"/><title>augustus (457 - 474)</title></g>
+<text x="18088" y="5364" class="semimajor">PULCHERIA&#9792;</text></a></g>
+<g><a xlink:href="http://en.wikipedia.org/wiki/Marcian" target="_blank"><rect id="Marcian" x="18075" y="5378" width="305" height="25" class="roman"/><title>Marcian (396 - 457)</title><g><rect x="18345" y="5378" width="35" height="25" class="augustus"/><title>augustus (450 - 457)</title></g>
+
+<text x="18078" y="5397" class="semimajor">MARCIAN</text></a></g>
+
+<text x="18010" y="5268" class="dynasty">THEODOSIANS</text><g><a xlink:href="http://en.wikipedia.org/wiki/Leo_I_the_Thracian" target="_blank"><rect id="Leo_I_the_Thracian" x="18100" y="4658" width="365" height="25" class="sanctified"/><title>Leo I the Thracian (401 - 474)</title><g><rect x="18380" y="4658" width="85" height="25" class="augustus"/><title>augustus (457 - 474)</title></g>
 
 <text x="18103" y="4677" class="semimajor">LEO I THE THRACIAN</text></a></g>
 <g><a xlink:href="http://en.wikipedia.org/wiki/Leo_II_the_Little" target="_blank"><rect id="Leo_II_the_Little" x="18430" y="4691" width="35" height="15" class="roman"/><title>Leo II the Little (467 - 474)</title><g><rect x="18465" y="4691" width="1" height="15" class="augustus"/><title>augustus (474 - 474)</title></g>
