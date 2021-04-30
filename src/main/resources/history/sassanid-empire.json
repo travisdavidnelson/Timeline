@@ -179,20 +179,6 @@
               ]
             },
             {
-              "name": "Adur Narseh",
-              "style": "sassanid",
-              "importance": "petty",
-              "titles": [
-                {
-                  "name": "kingOfKings",
-                  "timespan": {
-                    "start": "309",
-                    "duration": "3m"
-                  }
-                }
-              ]
-            },
-            {
               "pageBreak": true,
               "name": "Shapur II",
               "style": "sassanid",
