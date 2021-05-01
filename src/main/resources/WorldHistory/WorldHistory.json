@@ -27,7 +27,7 @@
     "channelXOffset": 150,
     "channelYOffset": 50,
     "approximateYearBackgroundAdjustment": 5,
-    "approximateYearPersonAdjustment": 10,
+    "approximateYearPersonAdjustment": 2,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
       "transformational": 50,
