@@ -112,6 +112,14 @@
         "start": "428",
         "end": "651"
       }
+    },
+    {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "5/260",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
     }
   ],
   "dynastyGroups": [

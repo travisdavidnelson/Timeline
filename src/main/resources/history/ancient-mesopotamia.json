@@ -313,6 +313,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "5/260",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Black Death",
       "style": "backgroundPlagueMajor",
       "timespan": {

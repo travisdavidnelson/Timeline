@@ -16,6 +16,14 @@
         "end": "232"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "5/260",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
     }
   ],
   "dynastyGroups": [
@@ -40,6 +48,14 @@
                 "start": "230",
                 "end": "232"
               }
+            },
+            {
+              "name": "Battle of Edessa",
+              "timespan": {
+                "start": "5/260",
+                "duration": "1w"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -71,6 +87,16 @@
                   "timespan": {
                     "start": "4/12/240",
                     "end": "5/270"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Edessa",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/260",
+                    "duration": "1w"
                   }
                 }
               ]
