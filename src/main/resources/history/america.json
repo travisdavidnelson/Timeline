@@ -273,126 +273,6 @@
       "style": "backgroundConfederateVictory"
     },
     {
-      "name": "First Battle of Bull Run",
-      "timespan": {
-        "start": "7/21/1861",
-        "duration": "1d"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "Battle of Fort Donelson",
-      "timespan": {
-        "start": "2/11/1862",
-        "end": "2/16/1862"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Battle of Shiloh",
-      "timespan": {
-        "start": "4/6/1862",
-        "duration": "2d"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "2nd Bull Run",
-      "timespan": {
-        "start": "8/29/1862",
-        "end": "8/30/1862"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "Battle of Antietam",
-      "timespan": {
-        "start": "9/17/1862",
-        "duration": "1d"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Fredericksburg",
-      "timespan": {
-        "start": "12/11/1862",
-        "end": "12/15/1862"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "Stones River",
-      "timespan": {
-        "start": "12/31/1862",
-        "end": "1/2/1863"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Chancellorsville",
-      "timespan": {
-        "start": "5/1/1863",
-        "end": "5/4/1863"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "Battle of Gettysburg",
-      "timespan": {
-        "start": "7/1/1863",
-        "duration": "3d"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Battle of Chickamauga",
-      "timespan": {
-        "start": "9/19/1863",
-        "duration": "2d"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "Missionary Ridge",
-      "timespan": {
-        "start": "11/25/1863",
-        "duration": "1d"
-      },
-      "style": "backgroundConfederateVictory"
-    },
-    {
-      "name": "The Wilderness",
-      "timespan": {
-        "start": "5/5/1864",
-        "end": "5/7/1864"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Spotsylvania Court House",
-      "timespan": {
-        "start": "5/8/1864",
-        "end": "5/21/1864"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Cold Harbor",
-      "timespan": {
-        "start": "5/31/1864",
-        "end": "6/12/1864"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
-      "name": "Appomattox Campaign",
-      "timespan": {
-        "start": "3/29/1865",
-        "end": "4/9/1865"
-      },
-      "style": "backgroundUnionVictory"
-    },
-    {
       "name": "Assassination of Abraham Lincoln",
       "timespan": {
         "start": "4/14/1865",
@@ -2007,7 +1887,129 @@
           ]
         },
         {
-          "name": "Unionist",
+          "name": "Federals",
+          "backgroundEvents": [
+            {
+              "name": "First Battle of Bull Run",
+              "timespan": {
+                "start": "7/21/1861",
+                "duration": "1d"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "Battle of Fort Donelson",
+              "timespan": {
+                "start": "2/11/1862",
+                "end": "2/16/1862"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Battle of Shiloh",
+              "timespan": {
+                "start": "4/6/1862",
+                "duration": "2d"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "2nd Bull Run",
+              "timespan": {
+                "start": "8/29/1862",
+                "end": "8/30/1862"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "Battle of Antietam",
+              "timespan": {
+                "start": "9/17/1862",
+                "duration": "1d"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Fredericksburg",
+              "timespan": {
+                "start": "12/11/1862",
+                "end": "12/15/1862"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "Stones River",
+              "timespan": {
+                "start": "12/31/1862",
+                "end": "1/2/1863"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Chancellorsville",
+              "timespan": {
+                "start": "5/1/1863",
+                "end": "5/4/1863"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "Battle of Gettysburg",
+              "timespan": {
+                "start": "7/1/1863",
+                "duration": "3d"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Battle of Chickamauga",
+              "timespan": {
+                "start": "9/19/1863",
+                "duration": "2d"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "Missionary Ridge",
+              "timespan": {
+                "start": "11/25/1863",
+                "duration": "1d"
+              },
+              "style": "backgroundConfederateVictory"
+            },
+            {
+              "name": "The Wilderness",
+              "timespan": {
+                "start": "5/5/1864",
+                "end": "5/7/1864"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Spotsylvania Court House",
+              "timespan": {
+                "start": "5/8/1864",
+                "end": "5/21/1864"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Cold Harbor",
+              "timespan": {
+                "start": "5/31/1864",
+                "end": "6/12/1864"
+              },
+              "style": "backgroundUnionVictory"
+            },
+            {
+              "name": "Appomattox Campaign",
+              "timespan": {
+                "start": "3/29/1865",
+                "end": "4/9/1865"
+              },
+              "style": "backgroundUnionVictory"
+            }
+          ],
           "people": [
             {
               "name": "Abraham Lincoln",
