@@ -182,6 +182,14 @@
       "style": "romanDominate"
     },
     {
+      "name": "Palmyrene Empire",
+      "style": "palmyra",
+      "timespan": {
+        "start": "270",
+        "end": "6/272"
+      }
+    },
+    {
       "name": "Abbasid Caliphate",
       "timespan": {
         "start": "641",

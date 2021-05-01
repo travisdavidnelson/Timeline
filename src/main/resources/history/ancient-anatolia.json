@@ -126,6 +126,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Palmyrene Empire",
+      "style": "palmyra",
+      "timespan": {
+        "start": "270",
+        "end": "6/272"
+      }
+    },
+    {
       "name": "Byzantine Empire",
       "timespan": {
         "start": "476",

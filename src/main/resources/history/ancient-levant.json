@@ -36,6 +36,22 @@
       "style": "romanPrincipate"
     },
     {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "5/260",
+        "duration": "1w"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Palmyrene Empire",
+      "style": "palmyra",
+      "timespan": {
+        "start": "270",
+        "end": "6/272"
+      }
+    },
+    {
       "name": "Byzantine Empire",
       "timespan": {
         "start": "476",
@@ -1174,6 +1190,87 @@
               },
               "importance": "transformational",
               "style": "sanctified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palmyra",
+      "backgroundEvents": [
+      ],
+      "dynasties": [
+        {
+          "name": "Palmyra",
+          "backgroundEvents": [
+            {
+              "name": "Palmyrene Empire",
+              "style": "palmyra",
+              "timespan": {
+                "start": "9/260",
+                "end": "6/272"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Odaenathus",
+              "style": "palmyra",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "220",
+                "end": "267"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/260",
+                    "end": "267"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Zenobia&#9792;",
+              "style": "palmyra",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": true,
+                "start": "240",
+                "endApproximate": true,
+                "end": "274"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "9/260",
+                    "end": "6/272"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vaballathus",
+              "style": "palmyra",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "259",
+                "endApproximate": true,
+                "end": "274"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "267",
+                    "end": "6/272"
+                  }
+                }
+              ]
             }
           ]
         }

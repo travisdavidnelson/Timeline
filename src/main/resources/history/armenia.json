@@ -90,6 +90,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Palmyrene Empire",
+      "style": "palmyra",
+      "timespan": {
+        "start": "270",
+        "end": "6/272"
+      }
+    },
+    {
       "name": "Roman-Sassanid War",
       "timespan": {
         "start": "230",
