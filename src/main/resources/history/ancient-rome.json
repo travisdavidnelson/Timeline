@@ -1519,6 +1519,60 @@
               ]
             },
             {
+              "name": "Manius Curius Dentatur",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "340 BC",
+                "end": "270 BC"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "tribune",
+                  "timespan": {
+                    "start": "295 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "290 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "start": "283 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "275 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "start": "272 BC",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emergent power",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
               "name": "Marcus Atilius Regulus",
               "style": "roman",
               "timespan": {
