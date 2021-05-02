@@ -185,8 +185,16 @@
       "name": "Palmyrene Empire",
       "style": "palmyra",
       "timespan": {
-        "start": "270",
+        "start": "10/270",
         "end": "6/272"
+      }
+    },
+    {
+      "name": "Zenobia's invasion of Egypt",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/270",
+        "duration": "6m"
       }
     },
     {

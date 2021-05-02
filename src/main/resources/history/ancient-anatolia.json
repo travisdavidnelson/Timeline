@@ -129,8 +129,24 @@
       "name": "Palmyrene Empire",
       "style": "palmyra",
       "timespan": {
-        "start": "270",
+        "start": "263",
         "end": "6/272"
+      }
+    },
+    {
+      "name": "Odaenathus' campaigns against Persia",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "262",
+        "duration": "1y"
+      }
+    },
+    {
+      "name": "Zabbai's invasion of Anatolia",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "271",
+        "duration": "6m"
       }
     },
     {

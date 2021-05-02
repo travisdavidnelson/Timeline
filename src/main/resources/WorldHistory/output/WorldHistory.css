@@ -69,7 +69,7 @@
 .romanBreakaway {fill:purple;fill-opacity:0.2}
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
-.palmyra {fill:#9e0393;fill-opacity:0.5}
+.palmyra {fill:#e570dd;fill-opacity:0.4}
 .phoenicia {fill:orange;fill-opacity:0.6}
 .pontus {fill:purple;fill-opacity:0.6}
 .sassanid {fill:#28efef;fill-opacity:0.4}
@@ -216,6 +216,7 @@
 .keeperOfPrivyPurse	{fill:brown;	fill-opacity:0.3}
 .kingOfKings		{fill:purple;	fill-opacity:1.0}
 .king 				{fill:purple;	fill-opacity:0.7}
+.lord 			    {fill:purple;	fill-opacity:0.3}
 .minorKing 			{fill:purple;	fill-opacity:0.4}
 .chieftain 			{fill:purple;	fill-opacity:0.3}
 .queen 				{fill:purple;	fill-opacity:0.6}

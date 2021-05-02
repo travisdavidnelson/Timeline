@@ -47,8 +47,48 @@
       "name": "Palmyrene Empire",
       "style": "palmyra",
       "timespan": {
-        "start": "270",
+        "start": "263",
         "end": "6/272"
+      }
+    },
+    {
+      "name": "Odaenathus' campaigns against Persia",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "262",
+        "duration": "1y"
+      }
+    },
+    {
+      "name": "Zenobia's invasion of Egypt",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/270",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Zabbai's invasion of Anatolia",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "271",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Battle of Immae",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "6/272",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Battle of Emessa",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/272",
+        "duration": "1w"
       }
     },
     {
@@ -1207,8 +1247,64 @@
               "name": "Palmyrene Empire",
               "style": "palmyra",
               "timespan": {
-                "start": "9/260",
-                "end": "6/272"
+                "start": "7/260",
+                "end": "8/272"
+              }
+            },
+            {
+              "name": "Defeat of Persians after Edessa",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/260",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Odaenathus' campaigns against Persia",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "262",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Zenobia's invasion of Egypt",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "10/270",
+                "duration": "6m"
+              }
+            },
+            {
+              "name": "Zabbai's invasion of Anatolia",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "271",
+                "duration": "6m"
+              }
+            },
+            {
+              "name": "Battle of Immae",
+              "style": "defeat",
+              "timespan": {
+                "start": "6/272",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Battle of Emessa",
+              "style": "defeat",
+              "timespan": {
+                "start": "8/272",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Revolt of Palmyra",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/273",
+                "duration": "1w"
               }
             }
           ],
@@ -1224,10 +1320,28 @@
               },
               "titles": [
                 {
+                  "name": "lord",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "245",
+                    "end": "7/260"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
-                    "start": "9/260",
+                    "start": "7/260",
                     "end": "267"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Defeat of Persians after Edessa",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/260",
+                    "duration": "1w"
                   }
                 }
               ]
@@ -1255,7 +1369,7 @@
             {
               "name": "Vaballathus",
               "style": "palmyra",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "startApproximate": true,
                 "start": "259",
@@ -1268,6 +1382,32 @@
                   "timespan": {
                     "start": "267",
                     "end": "6/272"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cassius Longinus",
+              "style": "palmyra",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "213",
+                "end": "6/273"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Zabdas",
+              "style": "palmyra",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "270",
+                    "end": "6/273"
                   }
                 }
               ]
