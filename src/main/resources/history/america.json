@@ -18,25 +18,10 @@
       "style": "ironAge"
     },
     {
-      "name": "King William's War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1688",
-        "end": "1697"
-      }
-    },
-    {
-      "name": "Queen Anne's War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1702",
-        "end": "1713"
-      }
-    },
-    {
       "name": "United States",
       "timespan": {
-        "start": "7/4/1776"
+        "start": "7/4/1776",
+        "end": ""
       },
       "style": "american"
     },
@@ -73,30 +58,6 @@
       "style": "americanRepublicStrong"
     },
     {
-      "name": "King George's War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1744",
-        "end": "1748"
-      }
-    },
-    {
-      "name": "French and Indian War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1754",
-        "end": "2/15/1763"
-      }
-    },
-    {
-      "name": "Pontiac's Rebellion",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1763",
-        "end": "1766"
-      }
-    },
-    {
       "name": "American Revolutionary War",
       "timespan": {
         "start": "4/19/1775",
@@ -121,36 +82,12 @@
       "style": "backgroundForeignWar"
     },
     {
-      "name": "Bleeding Kansas",
-      "timespan": {
-        "start": "1854",
-        "end": "5/1861"
-      },
-      "style": "backgroundCivilWarRegional"
-    },
-    {
       "name": "American Civil War",
       "timespan": {
         "start": "4/12/1861",
         "end": "5/9/1865"
       },
       "style": "backgroundCivilWar"
-    },
-    {
-      "name": "Spanish-American War",
-      "timespan": {
-        "start": "4/21/1898",
-        "end": "8/13/1898"
-      },
-      "style": "backgroundForeignWar"
-    },
-    {
-      "name": "Philippine-American War",
-      "timespan": {
-        "start": "2/4/1899",
-        "end": "7/2/1902"
-      },
-      "style": "backgroundForeignWar"
     },
     {
       "name": "World War I",
@@ -167,54 +104,6 @@
         "end": "9/1945"
       },
       "style": "backgroundForeignWarMajor"
-    },
-    {
-      "name": "Korean War",
-      "timespan": {
-        "start": "6/25/1950",
-        "end": "7/27/1953"
-      },
-      "style": "backgroundForeignWar"
-    },
-    {
-      "name": "Vietnam War",
-      "timespan": {
-        "start": "11/1/1955",
-        "end": "4/30/1975"
-      },
-      "style": "backgroundForeignWar"
-    },
-    {
-      "name": "Gulf War",
-      "timespan": {
-        "start": "8/2/1990",
-        "end": "2/28/1991"
-      },
-      "style": "backgroundForeignWar"
-    },
-    {
-      "name": "Kosovo War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "2/1998",
-        "end": "6/1/1999"
-      }
-    },
-    {
-      "name": "Afghan War",
-      "timespan": {
-        "start": "10/7/2001",
-        "end": ""
-      },
-      "style": "backgroundForeignWar"
-    },
-    {
-      "name": "Iraq War",
-      "timespan": {
-        "start": "3/20/2003",
-        "end": "12/18/2011"
-      },
-      "style": "backgroundForeignWar"
     },
     {
       "name": "COVID-19",
@@ -1176,6 +1065,14 @@
                 "duration": "1d"
               },
               "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Bleeding Kansas",
+              "timespan": {
+                "start": "1854",
+                "end": "5/1861"
+              },
+              "style": "backgroundCivilWarRegional"
             }
           ],
           "people": [
@@ -1748,6 +1645,14 @@
           "name": "Confederates",
           "backgroundEvents": [
             {
+              "name": "Bleeding Kansas",
+              "timespan": {
+                "start": "1854",
+                "end": "5/1861"
+              },
+              "style": "backgroundCivilWarRegional"
+            },
+            {
               "name": "First Battle of Bull Run",
               "timespan": {
                 "start": "7/21/1861",
@@ -2083,6 +1988,14 @@
         {
           "name": "Federals",
           "backgroundEvents": [
+            {
+              "name": "Bleeding Kansas",
+              "timespan": {
+                "start": "1854",
+                "end": "5/1861"
+              },
+              "style": "backgroundCivilWarRegional"
+            },
             {
               "name": "First Battle of Bull Run",
               "timespan": {
@@ -2728,6 +2641,24 @@
         {
           "pageBreak": true,
           "name": "Emergent power",
+          "backgroundEvents": [
+            {
+              "name": "Spanish-American War",
+              "timespan": {
+                "start": "4/21/1898",
+                "end": "8/13/1898"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Philippine-American War",
+              "timespan": {
+                "start": "2/4/1899",
+                "end": "7/2/1902"
+              },
+              "style": "backgroundForeignWar"
+            }
+          ],
           "people": [
             {
               "name": "William McKinley",
@@ -2970,6 +2901,14 @@
           "name": "Superpower",
           "backgroundEvents": [
             {
+              "name": "World War II",
+              "timespan": {
+                "start": "12/7/1941",
+                "end": "9/1945"
+              },
+              "style": "backgroundForeignWarMajor"
+            },
+            {
               "name": "Japanese Attack on Pearl Harbor",
               "timespan": {
                 "start": "12/7/1941",
@@ -3000,6 +2939,30 @@
                 "end": "10/26/1944"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Korean War",
+              "timespan": {
+                "start": "6/25/1950",
+                "end": "7/27/1953"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "11/1/1955",
+                "end": "4/30/1975"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Gulf War",
+              "timespan": {
+                "start": "8/2/1990",
+                "end": "2/28/1991"
+              },
+              "style": "backgroundForeignWar"
             }
           ],
           "people": [
@@ -3432,6 +3395,38 @@
         {
           "name": "Hegemon",
           "backgroundEvents": [
+            {
+              "name": "Gulf War",
+              "timespan": {
+                "start": "8/2/1990",
+                "end": "2/28/1991"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Kosovo War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "2/1998",
+                "end": "6/1/1999"
+              }
+            },
+            {
+              "name": "Afghan War",
+              "timespan": {
+                "start": "10/7/2001",
+                "end": ""
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Iraq War",
+              "timespan": {
+                "start": "3/20/2003",
+                "end": "12/18/2011"
+              },
+              "style": "backgroundForeignWar"
+            },
             {
               "name": "Attacks of September 11, 2001",
               "timespan": {
