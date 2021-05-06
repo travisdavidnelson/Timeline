@@ -113,22 +113,6 @@
       "style": "backgroundWar"
     },
     {
-      "name": "Sack of Washington",
-      "timespan": {
-        "start": "8/24/1814",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of New Orleans",
-      "timespan": {
-        "start": "1/8/1815",
-        "duration": "1d"
-      },
-      "style": "backgroundBattleVictory"
-    },
-    {
       "name": "Mexican-American War",
       "timespan": {
         "start": "4/25/1846",
@@ -151,22 +135,6 @@
         "end": "5/9/1865"
       },
       "style": "backgroundCivilWar"
-    },
-    {
-      "name": "Fort Sumpter",
-      "timespan": {
-        "start": "4/12/1861",
-        "end": "4/13/1861"
-      },
-      "style": "backgroundBattle"
-    },
-    {
-      "name": "Assassination of Abraham Lincoln",
-      "timespan": {
-        "start": "4/14/1865",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
     },
     {
       "name": "Spanish-American War",
@@ -199,38 +167,6 @@
         "end": "9/1945"
       },
       "style": "backgroundForeignWarMajor"
-    },
-    {
-      "name": "Japanese Attack on Pearl Harbor",
-      "timespan": {
-        "start": "12/7/1941",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of Midway",
-      "timespan": {
-        "start": "6/4/1942",
-        "end": "6/7/1942"
-      },
-      "style": "backgroundBattleVictory"
-    },
-    {
-      "name": "Battle of Normandy",
-      "timespan": {
-        "start": "6/6/1944",
-        "end": "8/30/1944"
-      },
-      "style": "backgroundBattle"
-    },
-    {
-      "name": "Battle of Leyte Gulf",
-      "timespan": {
-        "start": "10/23/1944",
-        "end": "10/26/1944"
-      },
-      "style": "backgroundBattleVictory"
     },
     {
       "name": "Korean War",
@@ -273,14 +209,6 @@
       "style": "backgroundForeignWar"
     },
     {
-      "name": "Attacks of September 11, 2001",
-      "timespan": {
-        "start": "9/11/2001",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
       "name": "Iraq War",
       "timespan": {
         "start": "3/20/2003",
@@ -295,14 +223,6 @@
         "end": ""
       },
       "style": "backgroundPlagueMinor"
-    },
-    {
-      "name": "Capitol Riot",
-      "timespan": {
-        "start": "1/6/2021",
-        "duration": "1d"
-      },
-      "style": "backgroundRiot"
     }
   ],
   "dynastyGroups": [
@@ -684,6 +604,30 @@
               "timespan": {
                 "start": "9/28/1781",
                 "end": "10/19/1781"
+              },
+              "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "War of 1812",
+              "timespan": {
+                "start": "6/18/1812",
+                "end": "2/17/1815"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Sack of Washington",
+              "timespan": {
+                "start": "8/24/1814",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of New Orleans",
+              "timespan": {
+                "start": "1/8/1815",
+                "duration": "1d"
               },
               "style": "backgroundBattleVictory"
             }
@@ -1208,6 +1152,32 @@
         },
         {
           "name": "Expansionists",
+          "backgroundEvents": [
+            {
+              "name": "War of 1812",
+              "timespan": {
+                "start": "6/18/1812",
+                "end": "2/17/1815"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Sack of Washington",
+              "timespan": {
+                "start": "8/24/1814",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of New Orleans",
+              "timespan": {
+                "start": "1/8/1815",
+                "duration": "1d"
+              },
+              "style": "backgroundBattleVictory"
+            }
+          ],
           "people": [
             {
               "name": "John Quincy Adams",
@@ -1896,6 +1866,14 @@
                 "end": "4/9/1865"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Assassination of Abraham Lincoln",
+              "timespan": {
+                "start": "4/14/1865",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -2224,6 +2202,14 @@
                 "end": "4/9/1865"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Assassination of Abraham Lincoln",
+              "timespan": {
+                "start": "4/14/1865",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -2982,6 +2968,40 @@
         },
         {
           "name": "Superpower",
+          "backgroundEvents": [
+            {
+              "name": "Japanese Attack on Pearl Harbor",
+              "timespan": {
+                "start": "12/7/1941",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Midway",
+              "timespan": {
+                "start": "6/4/1942",
+                "end": "6/7/1942"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Normandy",
+              "timespan": {
+                "start": "6/6/1944",
+                "end": "8/30/1944"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Leyte Gulf",
+              "timespan": {
+                "start": "10/23/1944",
+                "end": "10/26/1944"
+              },
+              "style": "backgroundBattle"
+            }
+          ],
           "people": [
             {
               "name": "Franklin Roosevelt",
@@ -3411,6 +3431,32 @@
         },
         {
           "name": "Hegemon",
+          "backgroundEvents": [
+            {
+              "name": "Attacks of September 11, 2001",
+              "timespan": {
+                "start": "9/11/2001",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "COVID-19",
+              "timespan": {
+                "start": "2020",
+                "end": ""
+              },
+              "style": "backgroundPlagueMinor"
+            },
+            {
+              "name": "Capitol Riot",
+              "timespan": {
+                "start": "1/6/2021",
+                "duration": "1d"
+              },
+              "style": "backgroundRiot"
+            }
+          ],
           "people": [
             {
               "name": "Bill Clinton",
