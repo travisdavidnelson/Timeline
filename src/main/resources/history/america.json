@@ -114,6 +114,22 @@
       "style": "backgroundForeignWarMajor"
     },
     {
+      "name": "1957-1958 influenza pandemic",
+      "timespan": {
+        "start": "1957",
+        "end": "1958"
+      },
+      "style": "backgroundPlagueMinor"
+    },
+    {
+      "name": "Hong King Flu",
+      "timespan": {
+        "start": "7/13/1968",
+        "end": "1970"
+      },
+      "style": "backgroundPlagueMinor"
+    },
+    {
       "name": "COVID-19",
       "timespan": {
         "start": "2020",
