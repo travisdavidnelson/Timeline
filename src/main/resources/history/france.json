@@ -840,6 +840,14 @@
       "style": "frenchRepublic"
     },
     {
+      "name": "Spanish flu",
+      "timespan": {
+        "start": "2/1918",
+        "end": "4/1920"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "World War I",
       "style": "backgroundWar",
       "timespan": {
