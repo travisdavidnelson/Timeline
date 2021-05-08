@@ -2551,6 +2551,25 @@
                 "start": "8/19/1871",
                 "end": "1/30/1948"
               }
+            },
+            {
+              "name": "Norman Borlaug",
+              "style": "american",
+              "importance": "major",
+              "timespan": {
+                "start": "3/25/1914",
+                "end": "9/12/2009"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Nobel Prize",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/10/1970",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
