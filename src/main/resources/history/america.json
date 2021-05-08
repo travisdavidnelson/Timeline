@@ -130,6 +130,14 @@
       "style": "backgroundPlagueMinor"
     },
     {
+      "name": "First human on the moon",
+      "style": "astronaut",
+      "timespan": {
+        "start": "7/21/1969",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "COVID-19",
       "timespan": {
         "start": "2020",
@@ -2614,13 +2622,23 @@
             },
             {
               "pageBreak": true,
-              "name": "Charles Lindberg",
+              "name": "Charles Lindbergh",
               "style": "american",
               "importance": "minor",
               "timespan": {
                 "start": "2/4/1902",
                 "end": "8/26/1974"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "First non-stop transatlantic flight",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/20/1927",
+                    "duration": "2d"
+                  }
+                }
+              ]
             },
             {
               "name": "Amelia Earhart&#9792;",
@@ -2639,17 +2657,45 @@
               "timespan": {
                 "start": "2/13/1923",
                 "end": "12/7/2020"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Ace in a day",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/12/1944",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "First supersonic flight",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/14/1947",
+                    "duration": "1d"
+                  }
+                }
+              ]
             },
             {
               "name": "Alan Shepard",
               "style": "american",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "11/18/1923",
                 "end": "7/21/1998"
               },
               "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Freedom 7",
+                  "style": "astronaut",
+                  "timespan": {
+                    "start": "5/5/1961",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -2668,16 +2714,36 @@
                     "end": "1/3/1999"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Friendship 7",
+                  "style": "astronaut",
+                  "timespan": {
+                    "start": "2/20/1962",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
               "name": "Neil Armstrong",
               "style": "american",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "8/5/1930",
                 "end": "8/25/2012"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Apollo 11",
+                  "style": "astronaut",
+                  "timespan": {
+                    "start": "7/16/1969",
+                    "end": "7/24/1969"
+                  }
+                }
+              ]
             }
           ]
         },
