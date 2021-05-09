@@ -137,8 +137,10 @@ public class TimelineSvgBuilder {
 									yEnd = lastPerson.getyStart() + lastPerson.getHeight() + lifetimeYDiff;
 								}
 
+								int backgroundYStart = yStart - lifetimeYDiff;
+								int backgroundYEnd = yEnd + lifetimeYDiff*2;
 								for (TimelineEvent backgroundEvent : dynasty.getBackgroundEvents()) {
-									getBackgroundSVG(backgroundEvent, yStart, yEnd, true, backgroundStringBuilderMin);
+									getBackgroundSVG(backgroundEvent, backgroundYStart, backgroundYEnd, true, backgroundStringBuilderMin);
 								}
 							}
 						}
