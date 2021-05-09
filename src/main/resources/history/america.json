@@ -3066,6 +3066,14 @@
               "style": "backgroundForeignWar"
             },
             {
+              "name": "First human on the moon",
+              "style": "astronaut",
+              "timespan": {
+                "start": "7/21/1969",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Gulf War",
               "timespan": {
                 "start": "8/2/1990",
@@ -3543,14 +3551,6 @@
                 "duration": "1d"
               },
               "style": "backgroundNationalCalamity"
-            },
-            {
-              "name": "COVID-19",
-              "timespan": {
-                "start": "2020",
-                "end": ""
-              },
-              "style": "backgroundPlagueMinor"
             },
             {
               "name": "Capitol Riot",
