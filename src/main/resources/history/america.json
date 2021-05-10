@@ -114,6 +114,14 @@
       "style": "backgroundForeignWarMajor"
     },
     {
+      "name": "Japanese Attack on Pearl Harbor",
+      "timespan": {
+        "start": "12/7/1941",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "1957-1958 influenza pandemic",
       "timespan": {
         "start": "1957",
@@ -136,6 +144,14 @@
         "start": "7/21/1969",
         "duration": "1d"
       }
+    },
+    {
+      "name": "Attacks of September 11, 2001",
+      "timespan": {
+        "start": "9/11/2001",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
     },
     {
       "name": "COVID-19",
@@ -3512,6 +3528,22 @@
         {
           "name": "Hegemon",
           "backgroundEvents": [
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "11/1/1955",
+                "end": "4/30/1975"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "First human on the moon",
+              "style": "astronaut",
+              "timespan": {
+                "start": "7/21/1969",
+                "duration": "1d"
+              }
+            },
             {
               "name": "Gulf War",
               "timespan": {
