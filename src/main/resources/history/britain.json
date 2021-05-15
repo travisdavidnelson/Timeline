@@ -889,30 +889,6 @@
       }
     },
     {
-      "name": "Anglo-Spanish War of 1727-1729",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1727",
-        "end": "1729"
-      }
-    },
-    {
-      "name": "War of Jenkins' Ear",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "10/22/1739",
-        "end": "10/18/1748"
-      }
-    },
-    {
-      "name": "War of Austrian Succession",
-      "style": "backgroundForeignWarMajor",
-      "timespan": {
-        "start": "12/16/1740",
-        "end": "10/18/1748"
-      }
-    },
-    {
       "name": "Seven Years' War",
       "style": "backgroundForeignWarMajor",
       "timespan": {
@@ -921,51 +897,11 @@
       }
     },
     {
-      "name": "First Anglo-Mysore War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "1766",
-        "end": "1769"
-      }
-    },
-    {
-      "name": "First Anglo-Maratha War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "1775",
-        "end": "1782"
-      }
-    },
-    {
       "name": "American War of Independence",
       "style": "backgroundRebellion",
       "timespan": {
         "start": "4/19/1775",
         "end": "9/3/1783"
-      }
-    },
-    {
-      "name": "Second Anglo-Mysore War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "1780",
-        "end": "1784"
-      }
-    },
-    {
-      "name": "Fourth Anglo-Dutch War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "1780",
-        "end": "1784"
-      }
-    },
-    {
-      "name": "Third Anglo-Mysore War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "1789",
-        "end": "1792"
       }
     },
     {
@@ -993,59 +929,11 @@
       }
     },
     {
-      "name": "Peterloo Massacre",
-      "style": "backgroundRiot",
-      "timespan": {
-        "start": "8/16/1819",
-        "duration": "1d"
-      }
-    },
-    {
-      "name": "First Anglo-Afghan War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "7/1839",
-        "end": "10/1842"
-      }
-    },
-    {
-      "name": "First Opium War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "9/4/1839",
-        "end": "8/2/1842"
-      }
-    },
-    {
       "name": "Crimean War",
       "style": "backgroundForeignWar",
       "timespan": {
         "start": "10/16/1853",
         "end": "3/30/1856"
-      }
-    },
-    {
-      "name": "Indian Rebellion of 1857",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "5/10/1857",
-        "end": "11/1/1858"
-      }
-    },
-    {
-      "name": "Mahdist War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "1881",
-        "end": "1899"
-      }
-    },
-    {
-      "name": "Second Boer War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "10/11/1899",
-        "end": "5/31/1902"
       }
     },
     {
@@ -1073,59 +961,11 @@
       }
     },
     {
-      "name": "Irish War of Independence",
-      "style": "backgroundRebellion",
-      "timespan": {
-        "start": "1/21/1919",
-        "end": "7/11/1921"
-      }
-    },
-    {
       "name": "World War II",
       "style": "backgroundForeignWarMajor",
       "timespan": {
         "start": "9/1/1939",
         "end": "9/2/1945"
-      }
-    },
-    {
-      "name": "Fall of Singapore",
-      "style": "backgroundNationalCalamity",
-      "timespan": {
-        "start": "2/8/1942",
-        "end": "2/15/1942"
-      }
-    },
-    {
-      "name": "Malayan Emergency",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "6/16/1948",
-        "end": "7/12/1960"
-      }
-    },
-    {
-      "name": "Korean War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "6/25/1950",
-        "end": "7/27/1953"
-      }
-    },
-    {
-      "name": "Cyprus Emergency",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "4/1/1955",
-        "end": "2/19/1959"
-      }
-    },
-    {
-      "name": "Suez Crisis",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "10/29/1956",
-        "end": "11/7/1956"
       }
     },
     {
@@ -1145,52 +985,12 @@
       "style": "backgroundPlagueMinor"
     },
     {
-      "name": "Falklands War",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "4/2/1982",
-        "end": "6/14/1982"
-      }
-    },
-    {
-      "name": "Gulf War",
-      "timespan": {
-        "start": "8/2/1990",
-        "end": "2/28/1991"
-      },
-      "style": "backgroundWar"
-    },
-    {
-      "name": "Kosovo War",
-      "style": "backgroundForeignWar",
-      "timespan": {
-        "start": "2/1998",
-        "end": "6/1/1999"
-      }
-    },
-    {
-      "name": "Afghanistan War",
-      "timespan": {
-        "start": "10/7/2001",
-        "end": ""
-      },
-      "style": "backgroundForeignWarMinor"
-    },
-    {
       "name": "COVID-19",
       "timespan": {
         "start": "2020",
         "end": ""
       },
       "style": "backgroundPlagueMinor"
-    },
-    {
-      "name": "Iraq War",
-      "timespan": {
-        "start": "3/20/2003",
-        "end": "12/18/2011"
-      },
-      "style": "backgroundWar"
     }
   ],
   "dynastyGroups": [
@@ -6781,6 +6581,310 @@
         {
           "name": "Britain Political",
           "backgroundEvents": [
+            {
+              "name": "Anglo-Spanish War of 1727-1729",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1727",
+                "end": "1729"
+              }
+            },
+            {
+              "name": "War of Jenkins' Ear",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "10/22/1739",
+                "end": "10/18/1748"
+              }
+            },
+            {
+              "name": "War of Austrian Succession",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "12/16/1740",
+                "end": "10/18/1748"
+              }
+            },
+            {
+              "name": "Seven Years' War",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "5/17/1756",
+                "end": "2/15/1763"
+              }
+            },
+            {
+              "name": "First Anglo-Mysore War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "1766",
+                "end": "1769"
+              }
+            },
+            {
+              "name": "First Anglo-Maratha War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "1775",
+                "end": "1782"
+              }
+            },
+            {
+              "name": "American War of Independence",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "4/19/1775",
+                "end": "9/3/1783"
+              }
+            },
+            {
+              "name": "Second Anglo-Mysore War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "1780",
+                "end": "1784"
+              }
+            },
+            {
+              "name": "Fourth Anglo-Dutch War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1780",
+                "end": "1784"
+              }
+            },
+            {
+              "name": "Third Anglo-Mysore War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "1789",
+                "end": "1792"
+              }
+            },
+            {
+              "name": "War of the First Coalition",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "1793",
+                "end": "1797"
+              }
+            },
+            {
+              "name": "War of the Second Coalition",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "1798",
+                "end": "1801"
+              }
+            },
+            {
+              "name": "Napoleonic Wars",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "5/18/1803",
+                "end": "11/20/1815"
+              }
+            },
+            {
+              "name": "Peterloo Massacre",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "8/16/1819",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "First Anglo-Afghan War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "7/1839",
+                "end": "10/1842"
+              }
+            },
+            {
+              "name": "First Opium War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "9/4/1839",
+                "end": "8/2/1842"
+              }
+            },
+            {
+              "name": "Crimean War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "10/16/1853",
+                "end": "3/30/1856"
+              }
+            },
+            {
+              "name": "Indian Rebellion of 1857",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "5/10/1857",
+                "end": "11/1/1858"
+              }
+            },
+            {
+              "name": "Mahdist War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "1881",
+                "end": "1899"
+              }
+            },
+            {
+              "name": "Second Boer War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "10/11/1899",
+                "end": "5/31/1902"
+              }
+            },
+            {
+              "name": "Spanish flu",
+              "timespan": {
+                "start": "2/1918",
+                "end": "4/1920"
+              },
+              "style": "backgroundPlagueMajor"
+            },
+            {
+              "name": "World War I",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "7/28/1914",
+                "end": "11/11/1918"
+              }
+            },
+            {
+              "name": "Battle of the Somme",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "7/1/1916",
+                "end": "11/18/1916"
+              }
+            },
+            {
+              "name": "Irish War of Independence",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "1/21/1919",
+                "end": "7/11/1921"
+              }
+            },
+            {
+              "name": "World War II",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "9/1/1939",
+                "end": "9/2/1945"
+              }
+            },
+            {
+              "name": "Fall of Singapore",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "2/8/1942",
+                "end": "2/15/1942"
+              }
+            },
+            {
+              "name": "Malayan Emergency",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "6/16/1948",
+                "end": "7/12/1960"
+              }
+            },
+            {
+              "name": "Korean War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "6/25/1950",
+                "end": "7/27/1953"
+              }
+            },
+            {
+              "name": "Cyprus Emergency",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "4/1/1955",
+                "end": "2/19/1959"
+              }
+            },
+            {
+              "name": "Suez Crisis",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "10/29/1956",
+                "end": "11/7/1956"
+              }
+            },
+            {
+              "name": "1957-1958 influenza pandemic",
+              "timespan": {
+                "start": "1957",
+                "end": "1958"
+              },
+              "style": "backgroundPlagueMinor"
+            },
+            {
+              "name": "Hong King Flu",
+              "timespan": {
+                "start": "7/13/1968",
+                "end": "1970"
+              },
+              "style": "backgroundPlagueMinor"
+            },
+            {
+              "name": "Falklands War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "4/2/1982",
+                "end": "6/14/1982"
+              }
+            },
+            {
+              "name": "Gulf War",
+              "timespan": {
+                "start": "8/2/1990",
+                "end": "2/28/1991"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Kosovo War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "2/1998",
+                "end": "6/1/1999"
+              }
+            },
+            {
+              "name": "Afghanistan War",
+              "timespan": {
+                "start": "10/7/2001",
+                "end": ""
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "COVID-19",
+              "timespan": {
+                "start": "2020",
+                "end": ""
+              },
+              "style": "backgroundPlagueMinor"
+            },
+            {
+              "name": "Iraq War",
+              "timespan": {
+                "start": "3/20/2003",
+                "end": "12/18/2011"
+              },
+              "style": "backgroundWar"
+            }
           ],
           "people": [
             {
