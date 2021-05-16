@@ -176,7 +176,7 @@
       "name": "Byzantine Empire",
       "timespan": {
         "start": "476",
-        "end": "1453"
+        "end": "8/26/1071"
       },
       "style": "byzantium"
     },
@@ -391,8 +391,8 @@
     {
       "name": "Battle of Manzikert",
       "timespan": {
-        "start": "1071",
-        "end": "1071"
+        "start": "8/26/1071",
+        "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
     },
@@ -2522,6 +2522,24 @@
       "dynasties": [
         {
           "name": "Komnenid-Doukids",
+          "backgroundEvents": [
+            {
+              "name": "Byzantine Empire",
+              "timespan": {
+                "start": "476",
+                "end": "5/29/1453"
+              },
+              "style": "byzantium"
+            },
+            {
+              "name": "Battle of Manzikert",
+              "timespan": {
+                "start": "8/26/1071",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
           "people": [
             {
               "name": "Isaac I Komnenos",
@@ -2721,6 +2739,24 @@
         },
         {
           "name": "Angelids",
+          "backgroundEvents": [
+            {
+              "name": "Byzantine Empire",
+              "timespan": {
+                "start": "476",
+                "end": "5/29/1453"
+              },
+              "style": "byzantium"
+            },
+            {
+              "name": "Battle of Manzikert",
+              "timespan": {
+                "start": "8/26/1071",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            }
+          ],
           "people": [
             {
               "name": "Isaac II Angelos",
@@ -2815,6 +2851,32 @@
         },
         {
           "name": "Latin Empire",
+          "backgroundEvents": [
+            {
+              "name": "Byzantine Empire",
+              "timespan": {
+                "start": "476",
+                "end": "1204"
+              },
+              "style": "byzantium"
+            },
+            {
+              "name": "Battle of Manzikert",
+              "timespan": {
+                "start": "8/26/1071",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Latin Empire",
+              "timespan": {
+                "start": "1204",
+                "end": "1261"
+              },
+              "style": "french"
+            }
+          ],
           "people": [
             {
               "name": "Baldwin I",
