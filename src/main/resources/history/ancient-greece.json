@@ -2535,7 +2535,7 @@
               "name": "Byzantine Empire",
               "timespan": {
                 "start": "476",
-                "end": "1261"
+                "end": "7/25/1261"
               },
               "style": "byzantium"
             },
@@ -2554,6 +2554,22 @@
                 "end": "1204"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Pelagonia",
+              "timespan": {
+                "start": "7/1259",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Reconquest of Constantinople",
+              "timespan": {
+                "start": "7/24/1261",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -2760,7 +2776,7 @@
               "name": "Byzantine Empire",
               "timespan": {
                 "start": "476",
-                "end": "1261"
+                "end": "7/25/1261"
               },
               "style": "byzantium"
             },
@@ -2779,6 +2795,22 @@
                 "end": "1204"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Pelagonia",
+              "timespan": {
+                "start": "7/1259",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Reconquest of Constantinople",
+              "timespan": {
+                "start": "7/24/1261",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -2896,7 +2928,7 @@
               "name": "Latin Empire",
               "timespan": {
                 "start": "1204",
-                "end": "1261"
+                "end": "7/25/1261"
               },
               "style": "french"
             },
@@ -2907,6 +2939,22 @@
                 "end": "1204"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Pelagonia",
+              "timespan": {
+                "start": "7/1259",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Reconquest of Constantinople",
+              "timespan": {
+                "start": "7/24/1261",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -3061,6 +3109,22 @@
                 "end": "5/29/1453"
               },
               "style": "byzantium"
+            },
+            {
+              "name": "Battle of Pelagonia",
+              "timespan": {
+                "start": "7/1259",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Reconquest of Constantinople",
+              "timespan": {
+                "start": "7/24/1261",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
             },
             {
               "name": "Black Death",
@@ -3254,7 +3318,7 @@
               "style": "roman",
               "timespan": {
                 "start": "1404",
-                "end": "1453"
+                "end": "5/29/1453"
               },
               "importance": "semimajor",
               "titles": [
@@ -3262,7 +3326,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "1448",
-                    "end": "1453"
+                    "end": "5/29/1453"
                   }
                 }
               ]
