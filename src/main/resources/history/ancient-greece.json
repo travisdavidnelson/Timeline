@@ -408,8 +408,8 @@
       "name": "Black Death",
       "style": "backgroundPlagueMajor",
       "timespan": {
-        "start": "1348",
-        "duration": "5y"
+        "start": "1346",
+        "end": "1349"
       }
     },
     {
@@ -3130,8 +3130,16 @@
               "name": "Black Death",
               "style": "backgroundPlagueMajor",
               "timespan": {
-                "start": "1348",
-                "duration": "5y"
+                "start": "1346",
+                "end": "1349"
+              }
+            },
+            {
+              "name": "Siege of Constantinople",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "1394",
+                "end": "1402"
               }
             },
             {
@@ -3149,15 +3157,15 @@
               "style": "roman",
               "timespan": {
                 "start": "1223",
-                "end": "1283"
+                "end": "12/11/1282"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1261",
-                    "end": "1282"
+                    "start": "8/15/1261",
+                    "end": "12/11/1282"
                   }
                 }
               ]
@@ -3166,16 +3174,23 @@
               "name": "Andronikos II Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1259",
-                "end": "1332"
+                "start": "3/25/1259",
+                "end": "2/13/1332"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1282",
-                    "end": "1328"
+                    "start": "12/11/1282",
+                    "end": "5/24/1328"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "5/24/1328",
+                    "end": "2/13/1332"
                   }
                 }
               ]
@@ -3184,16 +3199,16 @@
               "name": "Andronikos III Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1297",
-                "end": "1341"
+                "start": "3/25/1297",
+                "end": "6/15/1341"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1328",
-                    "end": "1341"
+                    "start": "5/24/1328",
+                    "end": "6/15/1341"
                   }
                 }
               ]
@@ -3202,23 +3217,30 @@
               "name": "John V Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1332",
-                "end": "1391"
+                "start": "6/18/1332",
+                "end": "2/16/1391"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1341",
-                    "end": "1376"
+                    "start": "6/15/1341",
+                    "end": "8/12/1376"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1379",
-                    "end": "1391"
+                    "start": "7/1/1379",
+                    "end": "4/19/1390"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "9/17/1390",
+                    "end": "2/16/1391"
                   }
                 }
               ]
@@ -3227,16 +3249,24 @@
               "name": "John VI Kantakouzenos",
               "style": "roman",
               "timespan": {
+                "startApproximate": "true",
                 "start": "1292",
-                "end": "1383"
+                "end": "6/15/1383"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1347",
-                    "end": "1354"
+                    "start": "5/21/1347",
+                    "end": "12/10/1354"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "12/10/1354",
+                    "end": "6/15/1383"
                   }
                 }
               ]
@@ -3245,16 +3275,23 @@
               "name": "Andronikos IV Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1348",
-                "end": "1385"
+                "start": "4/11/1348",
+                "end": "6/25/1385"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1376",
-                    "end": "1379"
+                    "start": "8/12/1376",
+                    "end": "7/1/1379"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "7/1/1379",
+                    "end": "6/25/1385"
                   }
                 }
               ]
@@ -3264,15 +3301,15 @@
               "style": "roman",
               "timespan": {
                 "start": "1370",
-                "end": "1408"
+                "end": "9/22/1408"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1390",
-                    "end": "1390"
+                    "start": "4/14/1390",
+                    "end": "9/17/1390"
                   }
                 }
               ]
@@ -3281,16 +3318,16 @@
               "name": "Manuel II Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1350",
-                "end": "1425"
+                "start": "6/27/1350",
+                "end": "7/21/1425"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1391",
-                    "end": "1425"
+                    "start": "2/16/1391",
+                    "end": "7/25/1425"
                   }
                 }
               ]
@@ -3299,16 +3336,16 @@
               "name": "John VIII Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1392",
-                "end": "1448"
+                "start": "12/18/1392",
+                "end": "10/31/1448"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1425",
-                    "end": "1448"
+                    "start": "7/21/1425",
+                    "end": "10/31/1448"
                   }
                 }
               ]
@@ -3317,7 +3354,7 @@
               "name": "Constantine XI Palaiologos",
               "style": "roman",
               "timespan": {
-                "start": "1404",
+                "start": "2/8/1405",
                 "end": "5/29/1453"
               },
               "importance": "semimajor",
@@ -3325,7 +3362,7 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1448",
+                    "start": "1/6/1449",
                     "end": "5/29/1453"
                   }
                 }
