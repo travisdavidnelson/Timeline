@@ -415,10 +415,18 @@
     {
       "name": "Fall of Constantinople",
       "timespan": {
-        "start": "1453",
-        "end": "1453"
+        "start": "4/6/1453",
+        "end": "5/29/1453"
       },
       "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Ottoman Empire",
+      "timespan": {
+        "start": "5/29/1453",
+        "end": "2/21/1821"
+      },
+      "style": "ottoman"
     }
   ],
   "dynastyGroups": [
@@ -2527,7 +2535,7 @@
               "name": "Byzantine Empire",
               "timespan": {
                 "start": "476",
-                "end": "5/29/1453"
+                "end": "1261"
               },
               "style": "byzantium"
             },
@@ -2540,12 +2548,12 @@
               "style": "backgroundNationalCalamity"
             },
             {
-              "name": "Black Death",
-              "style": "backgroundPlagueMajor",
+              "name": "Fourth Crusade",
               "timespan": {
-                "start": "1348",
-                "duration": "5y"
-              }
+                "start": "1204",
+                "end": "1204"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -2752,7 +2760,7 @@
               "name": "Byzantine Empire",
               "timespan": {
                 "start": "476",
-                "end": "5/29/1453"
+                "end": "1261"
               },
               "style": "byzantium"
             },
@@ -2765,12 +2773,12 @@
               "style": "backgroundNationalCalamity"
             },
             {
-              "name": "Black Death",
-              "style": "backgroundPlagueMajor",
+              "name": "Fourth Crusade",
               "timespan": {
-                "start": "1348",
-                "duration": "5y"
-              }
+                "start": "1204",
+                "end": "1204"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -2891,6 +2899,14 @@
                 "end": "1261"
               },
               "style": "french"
+            },
+            {
+              "name": "Fourth Crusade",
+              "timespan": {
+                "start": "1204",
+                "end": "1204"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
@@ -3039,12 +3055,28 @@
           "name": "Palaiologos",
           "backgroundEvents": [
             {
+              "name": "Byzantine Empire",
+              "timespan": {
+                "start": "1223",
+                "end": "5/29/1453"
+              },
+              "style": "byzantium"
+            },
+            {
               "name": "Black Death",
               "style": "backgroundPlagueMajor",
               "timespan": {
                 "start": "1348",
                 "duration": "5y"
               }
+            },
+            {
+              "name": "Fall of Constantinople",
+              "timespan": {
+                "start": "4/6/1453",
+                "end": "5/29/1453"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
