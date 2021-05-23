@@ -36,15 +36,16 @@ public class TimelineBuilder {
 			if (timeline != null) {
 				timeline.setId(id);
 				System.out.println(timeline);
-				TimelineSvgBuilder svgBuilder = new TimelineSvgBuilder(timeline);
+				File originalCssFile = new File(projectRoot, id + ".css");
+				String cssContents = FileUtilities.getFileContents(originalCssFile);
+
+				TimelineSvgBuilder svgBuilder = new TimelineSvgBuilder(timeline, cssContents);
 	
 				File outputFolder = new File(projectRoot, "output");
 				if (!outputFolder.exists()) {
 					outputFolder.mkdirs();
 				}
 	
-				File originalCssFile = new File(projectRoot, id + ".css");
-				String cssContents = FileUtilities.getFileContents(originalCssFile);
 				File cssFile = new File(outputFolder, "" + id + ".css");
 				System.out.println("Writing CSS file " + cssFile);
 				FileWriter fileWriter = new FileWriter(cssFile);

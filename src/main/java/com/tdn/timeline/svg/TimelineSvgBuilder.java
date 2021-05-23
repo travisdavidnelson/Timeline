@@ -1,5 +1,6 @@
 package com.tdn.timeline.svg;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -54,10 +55,14 @@ public class TimelineSvgBuilder {
 	private int dynastyCount = 0;
 	private int peopleCount = 0;
 
-	public TimelineSvgBuilder(Timeline timeline) {
+	private String cssContents = null;
+
+	public TimelineSvgBuilder(Timeline timeline, String cssContents) {
 		this.timeline = timeline;
 		this.minDisplayInstant = timeline.getTimespan().getStart();
 		this.maxDisplayInstant = timeline.getTimespan().getEnd();
+
+		this.cssContents = cssContents;
 
 		xStart = timeline.getConfig().getxStart();
 		this.width = 2 * xStart + getWidth( (minDisplayInstant.getDifferenceInDays(maxDisplayInstant)));
@@ -180,9 +185,9 @@ public class TimelineSvgBuilder {
 			}
 
 			StringBuilder result = new StringBuilder();
-			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./");
-			result.append(timeline.getId());
-			result.append(".css\" ?>\n");
+//			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./");
+//			result.append(timeline.getId());
+//			result.append(".css\" ?>\n");
 			addNameplate(result);
 			result.append("<svg ");
 			result.append("xmlns=\"http://www.w3.org/2000/svg\"\n");
@@ -193,6 +198,9 @@ public class TimelineSvgBuilder {
 			result.append(" "+yMax+"\" enable-background=\"new 0 0 ");
 			result.append(width);
 			result.append(" "+yMax+"\" xml:space=\"preserve\">\n");
+			result.append("<style>\n");
+			result.append(cssContents);
+			result.append("</style>\n");
 			result.append(" " + getGradientDefs() + "\n");
 			result.append(backgroundStringBuilderMax);
 			result.append("\n");
