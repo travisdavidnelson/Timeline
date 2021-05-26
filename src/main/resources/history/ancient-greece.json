@@ -2550,10 +2550,10 @@
             {
               "name": "Fourth Crusade",
               "timespan": {
-                "start": "1204",
+                "start": "6/23/1203",
                 "end": "1204"
               },
-              "style": "backgroundNationalCalamity"
+              "style": "backgroundWar"
             },
             {
               "name": "Battle of Pelagonia",
@@ -2579,16 +2579,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1007",
-                "endApproximate": true,
-                "end": "1061"
+                "end": "12/1060"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1057",
-                    "end": "1059"
+                    "start": "6/8/1057",
+                    "end": "11/22/1059"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "11/22/1059",
+                    "end": "12/1060"
                   }
                 }
               ]
@@ -2598,15 +2604,15 @@
               "style": "roman",
               "timespan": {
                 "start": "1006",
-                "end": "1067"
+                "end": "5/22/1067"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1059",
-                    "end": "1067"
+                    "start": "11/24/1059",
+                    "end": "5/22/1067"
                   }
                 }
               ]
@@ -2650,8 +2656,34 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1068",
-                    "end": "1071"
+                    "start": "1/1/1068",
+                    "end": "10/24/1071"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "10/24/1071",
+                    "end": "1072"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Michael VII Doukas",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1050",
+                "end": "3/31/1078"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "10/24/1071",
+                    "end": "3/31/1078"
                   }
                 }
               ]
@@ -2660,17 +2692,23 @@
               "name": "Nikephoros III Botaneiates",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
                 "start": "1002",
-                "end": "1081"
+                "end": "12/10/1081"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1078",
-                    "end": "1081"
+                    "start": "1/7/1078",
+                    "end": "4/1/1081"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "4/1/1081",
+                    "end": "12/10/1081"
                   }
                 }
               ]
@@ -2679,17 +2717,16 @@
               "name": "Alexios I Komnenos",
               "style": "roman",
               "timespan": {
-                "startApproximate": true,
-                "start": "1048",
-                "end": "1118"
+                "start": "1056",
+                "end": "8/15/1118"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1081",
-                    "end": "1118"
+                    "start": "4/1/1081",
+                    "end": "8/15/1118"
                   }
                 }
               ]
@@ -2698,16 +2735,16 @@
               "name": "John II Komnenos",
               "style": "roman",
               "timespan": {
-                "start": "1087",
-                "end": "1143"
+                "start": "9/13/1087",
+                "end": "4/8/1143"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1118",
-                    "end": "1143"
+                    "start": "8/15/1118",
+                    "end": "4/8/1143"
                   }
                 }
               ]
@@ -2716,16 +2753,16 @@
               "name": "Manuel I Komnenos",
               "style": "roman",
               "timespan": {
-                "start": "1118",
-                "end": "1180"
+                "start": "11/28/1118",
+                "end": "9/24/1180"
               },
               "importance": "major",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1143",
-                    "end": "1180"
+                    "start": "4/8/1143",
+                    "end": "9/24/1180"
                   }
                 }
               ]
@@ -2734,16 +2771,16 @@
               "name": "Alexios II Komnenos",
               "style": "roman",
               "timespan": {
-                "start": "1169",
-                "end": "1183"
+                "start": "9/14/1169",
+                "end": "9/1183"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1180",
-                    "end": "1183"
+                    "start": "9/24/1180",
+                    "end": "9/1183"
                   }
                 }
               ]
@@ -2754,15 +2791,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1118",
-                "end": "1185"
+                "end": "9/12/1185"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1183",
-                    "end": "1185"
+                    "start": "9/24/1183",
+                    "end": "9/12/1185"
                   }
                 }
               ]
@@ -2791,10 +2828,10 @@
             {
               "name": "Fourth Crusade",
               "timespan": {
-                "start": "1204",
+                "start": "6/23/1203",
                 "end": "1204"
               },
-              "style": "backgroundNationalCalamity"
+              "style": "backgroundWar"
             },
             {
               "name": "Battle of Pelagonia",
