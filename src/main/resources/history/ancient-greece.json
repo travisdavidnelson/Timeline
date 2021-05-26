@@ -2930,7 +2930,7 @@
                 "start": "1204",
                 "end": "7/25/1261"
               },
-              "style": "french"
+              "style": "frenchBackground"
             },
             {
               "name": "Fourth Crusade",
@@ -2976,73 +2976,75 @@
           "people": [
             {
               "name": "Baldwin I",
-              "style": "roman",
+              "style": "french",
               "timespan": {
-                "start": "1172",
+                "start": "7/1172",
                 "endApproximate": true,
-                "end": "1205"
+                "end": "8/1205"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "6/23/1203",
+                    "end": "5/9/1204"
+                  }
+                },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1204",
-                    "endApproximate": true,
-                    "end": "1205"
+                    "start": "5/9/1204",
+                    "end": "4/14/1205"
                   }
                 }
               ]
             },
             {
               "name": "Henry of Flanders",
-              "style": "roman",
+              "style": "french",
               "timespan": {
                 "startApproximate": true,
-                "start": "1174",
-                "end": "1216"
+                "start": "1176",
+                "end": "6/11/1216"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "6/23/1203",
+                    "end": "6/1204"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1204",
-                    "end": "1205"
+                    "start": "6/1204",
+                    "end": "6/11/1216"
                   }
                 }
               ]
             },
             {
               "name": "Peter II of Courtenay",
-              "style": "roman",
+              "style": "french",
               "timespan": {
                 "startApproximate": true,
-                "start": "1155",
+                "start": "1160",
                 "end": "1219"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1216",
+                    "start": "7/1216",
                     "end": "1217"
                   }
-                }
-              ]
-            },
-            {
-              "name": "Yolanda of Flanders",
-              "style": "roman",
-              "timespan": {
-                "start": "1175",
-                "end": "1219"
-              },
-              "importance": "minor",
-              "titles": [
+                },
                 {
-                  "name": "augusta",
+                  "name": "pow",
                   "timespan": {
                     "start": "1217",
                     "end": "1219"
@@ -3051,19 +3053,37 @@
               ]
             },
             {
-              "name": "Robert of Courtenay",
-              "style": "roman",
+              "name": "Yolanda of Flanders&#9792;",
+              "style": "french",
               "timespan": {
-                "startApproximate": true,
-                "start": "1180",
-                "end": "1228"
+                "start": "1175",
+                "end": "8/1219"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "7/1216",
+                    "end": "8/1219"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Robert of Courtenay",
+              "style": "french",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1200",
+                "end": "1228"
+              },
+              "titles": [
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1221",
+                    "start": "3/25/1221",
                     "end": "1228"
                   }
                 }
@@ -3071,30 +3091,30 @@
             },
             {
               "name": "John of Brienne",
-              "style": "roman",
+              "style": "french",
               "timespan": {
                 "startApproximate": true,
-                "start": "1155",
-                "end": "1237"
+                "start": "1170",
+                "end": "3/27/1237"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
                     "start": "1229",
-                    "end": "1237"
+                    "end": "3/27/1237"
                   }
                 }
               ]
             },
             {
               "name": "Baldwin II",
-              "style": "roman",
+              "style": "french",
               "timespan": {
                 "startApproximate": true,
                 "start": "1217",
-                "end": "1273"
+                "end": "10/1273"
               },
               "importance": "minor",
               "titles": [
@@ -3102,7 +3122,14 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "1228",
-                    "end": "1261"
+                    "end": "7/24/1261"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "7/24/1261",
+                    "end": "10/1273"
                   }
                 }
               ]
