@@ -185,9 +185,6 @@ public class TimelineSvgBuilder {
 			}
 
 			StringBuilder result = new StringBuilder();
-//			result.append("	<?xml-stylesheet type=\"text/css\" href=\"./");
-//			result.append(timeline.getId());
-//			result.append(".css\" ?>\n");
 			addNameplate(result);
 			result.append("<svg ");
 			result.append("xmlns=\"http://www.w3.org/2000/svg\"\n");
