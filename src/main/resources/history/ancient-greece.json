@@ -2818,23 +2818,30 @@
               "name": "Isaac II Angelos",
               "style": "roman",
               "timespan": {
-                "start": "1156",
-                "end": "1204"
+                "start": "9/1156",
+                "end": "1/25/1204"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1185",
-                    "end": "1195"
+                    "start": "9/12/1185",
+                    "end": "4/8/1195"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "4/8/1195",
+                    "end": "8/1/1203"
                   }
                 },
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1203",
-                    "end": "1204"
+                    "start": "8/1/1203",
+                    "end": "1/25/1204"
                   }
                 }
               ]
@@ -2852,14 +2859,14 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1195",
-                    "end": "1203"
+                    "start": "4/8/1195",
+                    "end": "7/18/1203"
                   }
                 },
                 {
                   "name": "exile",
                   "timespan": {
-                    "start": "1203",
+                    "start": "7/18/1203",
                     "end": "1211"
                   }
                 }
@@ -2871,15 +2878,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1182",
-                "end": "1204"
+                "end": "2/8/1204"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1203",
-                    "end": "1204"
+                    "start": "8/1/1203",
+                    "end": "2/5/1204"
                   }
                 }
               ]
@@ -2890,15 +2897,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1140",
-                "end": "1205"
+                "end": "12/1204"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1204",
-                    "end": "1204"
+                    "start": "2/5/1204",
+                    "end": "4/12/1204"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "4/12/1204",
+                    "end": "12/1204"
                   }
                 }
               ]
