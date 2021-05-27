@@ -2183,15 +2183,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "811",
-                "end": "886"
+                "end": "8/29/886"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "867",
-                    "end": "886"
+                    "start": "9/23/867",
+                    "end": "8/29/886"
                   }
                 }
               ]
@@ -2200,16 +2200,16 @@
               "name": "Leo VI the Wise",
               "style": "roman",
               "timespan": {
-                "start": "866",
-                "end": "912"
+                "start": "9/19/866",
+                "end": "5/11/912"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "886",
-                    "end": "912"
+                    "start": "8/29/886",
+                    "end": "5/11/912"
                   }
                 }
               ]
@@ -2219,15 +2219,15 @@
               "style": "roman",
               "timespan": {
                 "start": "866",
-                "end": "913"
+                "end": "6/6/913"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "912",
-                    "end": "913"
+                    "start": "5/11/912",
+                    "end": "6/6/913"
                   }
                 }
               ]
@@ -2236,8 +2236,8 @@
               "name": "Constantine VII",
               "style": "roman",
               "timespan": {
-                "start": "905",
-                "end": "959"
+                "start": "5/17/905",
+                "end": "11/9/959"
               },
               "importance": "minor",
               "titles": [
@@ -2266,7 +2266,7 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "945",
-                    "end": "959"
+                    "end": "11/9/959"
                   }
                 }
               ]
@@ -2277,15 +2277,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "870",
-                "end": "958"
+                "end": "6/15/958"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "920",
-                    "end": "944"
+                    "start": "12/17/919",
+                    "end": "12/944"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "12/944",
+                    "end": "6/15/958"
                   }
                 }
               ]
@@ -2296,15 +2303,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "938",
-                "end": "963"
+                "end": "3/15/963"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "4/6/945",
+                    "end": "11/9/959"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "959",
-                    "end": "963"
+                    "start": "11/9/959",
+                    "end": "3/15/963"
                   }
                 }
               ]
@@ -2315,15 +2329,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "912",
-                "end": "969"
+                "end": "12/11/969"
               },
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "955",
+                    "end": "8/16/963"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "963",
-                    "end": "969"
+                    "start": "8/16/963",
+                    "end": "12/11/969"
                   }
                 }
               ]
@@ -2334,15 +2355,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "925",
-                "end": "976"
+                "end": "1/10/976"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "969",
-                    "end": "976"
+                    "start": "12/11/969",
+                    "end": "1/10/976"
                   }
                 }
               ]
@@ -2351,16 +2372,24 @@
               "name": "Basil II",
               "style": "roman",
               "timespan": {
+                "startApproximate": "true",
                 "start": "958",
-                "end": "1025"
+                "end": "12/15/1025"
               },
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "4/22/960",
+                    "end": "1/10/976"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "976",
-                    "end": "1025"
+                    "start": "1/10/976",
+                    "end": "12/15/1025"
                   }
                 }
               ]
@@ -2370,15 +2399,22 @@
               "style": "roman",
               "timespan": {
                 "start": "960",
-                "end": "1028"
+                "end": "11/11/1028"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "962",
+                    "end": "12/15/1025"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1025",
-                    "end": "1028"
+                    "start": "12/15/1025",
+                    "end": "11/11/1028"
                   }
                 }
               ]
@@ -2389,15 +2425,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "978",
-                "end": "1050"
+                "end": "6/11/1050"
               },
               "importance": "semimajor",
               "titles": [
                 {
                   "name": "augusta",
                   "timespan": {
-                    "start": "1028",
-                    "end": "1050"
+                    "start": "11/11/1028",
+                    "end": "6/11/1050"
                   }
                 }
               ]
@@ -2407,15 +2443,15 @@
               "style": "roman",
               "timespan": {
                 "start": "968",
-                "end": "1034"
+                "end": "4/11/1034"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1028",
-                    "end": "1034"
+                    "start": "11/15/1028",
+                    "end": "4/11/1034"
                   }
                 }
               ]
@@ -2426,15 +2462,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1010",
-                "end": "1041"
+                "end": "12/10/1041"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1034",
-                    "end": "1041"
+                    "start": "4/11/1034",
+                    "end": "12/10/1041"
                   }
                 }
               ]
@@ -2445,7 +2481,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1015",
-                "end": "1042"
+                "end": "8/24/1042"
               },
               "importance": "minor",
               "titles": [
@@ -2453,7 +2489,14 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "1041",
-                    "end": "1042"
+                    "end": "4/21/1042"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "4/21/1042",
+                    "end": "8/24/1042"
                   }
                 }
               ]
@@ -2464,15 +2507,15 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "980",
-                "end": "1056"
+                "end": "8/31/1056"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augusta",
                   "timespan": {
-                    "start": "1042",
-                    "end": "1056"
+                    "start": "4/21/1042",
+                    "end": "8/31/1056"
                   }
                 }
               ]
@@ -2483,39 +2526,43 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1000",
-                "end": "1055"
+                "end": "1/11/1055"
               },
               "importance": "minor",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1042",
-                    "end": "1055"
+                    "start": "6/11/1042",
+                    "end": "1/11/1055"
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Non-dynastic",
-          "people": [
+            },
             {
               "name": "Michael VI Bringas",
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
-                "start": "990",
+                "start": "980",
+                "endApproximate": true,
                 "end": "1059"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "1056",
-                    "end": "1057"
+                    "start": "8/31/1056",
+                    "end": "8/31/1057"
+                  }
+                },
+                {
+                  "name": "monk",
+                  "timespan": {
+                    "start": "8/31/1057",
+                    "endApproximate": true,
+                    "end": "1059"
                   }
                 }
               ]
