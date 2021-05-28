@@ -51,14 +51,6 @@
       "style": "germanicBarbarian"
     },
     {
-      "name": "First Samnite War",
-      "timespan": {
-        "start": "343 BC",
-        "end": "341 BC"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
       "name": "Overthrow of the Roman monarchy",
       "timespan": {
         "start": "510 BC",
@@ -147,6 +139,30 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Senones War",
+      "timespan": {
+        "start": "390 BC",
+        "duration": "4y"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Battle of the Allia",
+      "timespan": {
+        "start": "6/387 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Sack of Rome (387 BC)",
+      "timespan": {
+        "start": "7/18/387 BC",
+        "duration": "3m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Praeneste War",
       "timespan": {
         "start": "383 BC",
@@ -185,6 +201,14 @@
         "end": "351 BC"
       },
       "style": "backgroundForeignWar"
+    },
+    {
+      "name": "First Samnite War",
+      "timespan": {
+        "start": "343 BC",
+        "end": "341 BC"
+      },
+      "style": "backgroundForeignWarVictory"
     },
     {
       "name": "Secessio plebis",
@@ -227,6 +251,14 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Roman-Gallic Wars",
+      "timespan": {
+        "start": "302 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Third Samnite War",
       "timespan": {
         "start": "298 BC",
@@ -238,9 +270,25 @@
       "name": "Secessio plebis",
       "timespan": {
         "start": "287 BC",
-        "end": "287 BC"
+        "duration": "4m"
       },
       "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Roman-Gallic Wars",
+      "timespan": {
+        "start": "284 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Battle of Lake Vadimo",
+      "timespan": {
+        "start": "283 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Pyrrhic War",
@@ -267,18 +315,34 @@
       "style": "backgroundForeignWarVictory"
     },
     {
+      "name": "Roman-Gallic Wars",
+      "timespan": {
+        "start": "225 BC",
+        "duration": "1y"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Battle of Faesula",
+      "timespan": {
+        "start": "3/225 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Faesula",
+      "timespan": {
+        "start": "12/225 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Second Illyrian War",
       "timespan": {
         "start": "220 BC",
         "end": "219 BC"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
-      "name": "Third Illyrian War",
-      "timespan": {
-        "start": "168 BC",
-        "end": "167 BC"
       },
       "style": "backgroundForeignWarVictory"
     },
@@ -291,10 +355,66 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Third Illyrian War",
+      "timespan": {
+        "start": "168 BC",
+        "end": "167 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
       "name": "Third Punic War",
       "timespan": {
         "start": "149 BC",
         "end": "146 BC"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Battle of Lake Trasimene",
+      "timespan": {
+        "start": "6/21/217 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Hannibal Invades Italy",
+      "timespan": {
+        "start": "218 BC",
+        "end": "203 BC"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Zama",
+      "timespan": {
+        "start": "10/19/202 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Battle of Cannae",
+      "timespan": {
+        "start": "8/2/216 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Arausio",
+      "timespan": {
+        "start": "10/6/105 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Aquae Sextiae",
+      "timespan": {
+        "start": "102 BC",
+        "duration": "1d"
       },
       "style": "backgroundForeignWarVictory"
     },
@@ -481,62 +601,6 @@
         "duration": "1y"
       },
       "style": "backgroundCivilWar"
-    },
-    {
-      "name": "Sack of Rome (387 BC)",
-      "timespan": {
-        "start": "7/18/387 BC",
-        "duration": "3m"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of Lake Trasimene",
-      "timespan": {
-        "start": "6/21/217 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Hannibal Invades Italy",
-      "timespan": {
-        "start": "218 BC",
-        "end": "203 BC"
-      },
-      "style": "backgroundInvasion"
-    },
-    {
-      "name": "Battle of Zama",
-      "timespan": {
-        "start": "10/19/202 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundForeignWarVictory"
-    },
-    {
-      "name": "Battle of Cannae",
-      "timespan": {
-        "start": "8/2/216 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of Arausio",
-      "timespan": {
-        "start": "10/6/105 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
-      "name": "Battle of Aquae Sextiae",
-      "timespan": {
-        "start": "102 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundForeignWarVictory"
     },
     {
       "name": "Crassus's Parthian War",
@@ -1768,6 +1832,16 @@
                   "timespan": {
                     "start": "208 BC",
                     "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Clastidium",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "222 BC",
+                    "duration": "1m"
                   }
                 }
               ]
