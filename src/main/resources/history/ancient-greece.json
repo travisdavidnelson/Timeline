@@ -76,12 +76,27 @@
       }
     },
     {
-      "name": "Peloponnesian War",
-      "style": "backgroundCivilWar",
+      "name": "First Peloponnesian War",
+      "style": "backgroundWar",
       "timespan": {
         "start": "431 BC",
-        "end": "4/25/404 BC",
-        "startApproximate": true
+        "end": "421 BC"
+      }
+    },
+    {
+      "name": "Sicilian Expedition",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "415 BC",
+        "end": "413 BC"
+      }
+    },
+    {
+      "name": "Second Peloponnesian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "413 BC",
+        "end": "404 BC"
       }
     },
     {
