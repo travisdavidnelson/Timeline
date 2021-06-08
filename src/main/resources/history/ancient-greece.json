@@ -1367,6 +1367,32 @@
               ]
             },
             {
+              "name": "Aelia Eudocia&#9792;",
+              "style": "sanctified",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "401",
+                "end": "10/20/460"
+              },
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "6/7/421",
+                    "end": "443"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "443",
+                    "end": "10/20/460"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Pulcheria&#9792;",
               "style": "roman",
               "timespan": {
