@@ -185,6 +185,14 @@
       "style": "angloSaxonHeathen"
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "544",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Battle of Hatfield Chase",
       "style": "backgroundBattle",
       "timespan": {
@@ -650,6 +658,30 @@
       }
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "1361",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "1369",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "1375",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
@@ -1053,6 +1085,14 @@
                 "start": "455",
                 "end": "12/25/597"
               }
+            },
+            {
+              "name": "Bubonic Plague",
+              "timespan": {
+                "start": "544",
+                "duration": "1y"
+              },
+              "style": "backgroundPlagueMajor"
             },
             {
               "name": "Kent Saxons",
@@ -2216,6 +2256,14 @@
               }
             },
             {
+              "name": "Bubonic Plague",
+              "timespan": {
+                "start": "544",
+                "duration": "1y"
+              },
+              "style": "backgroundPlagueMajor"
+            },
+            {
               "name": "Battle of Hatfield Chase",
               "style": "backgroundBattle",
               "timespan": {
@@ -2891,6 +2939,14 @@
                 "endApproximate": "true",
                 "end": "645"
               }
+            },
+            {
+              "name": "Bubonic Plague",
+              "timespan": {
+                "start": "544",
+                "duration": "1y"
+              },
+              "style": "backgroundPlagueMajor"
             },
             {
               "name": "Christian West Saxons",

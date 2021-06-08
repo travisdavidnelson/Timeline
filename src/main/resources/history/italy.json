@@ -11,14 +11,6 @@
       "style": "medievalEurope"
     },
     {
-      "name": "Black Death",
-      "style": "backgroundPlagueMajor",
-      "timespan": {
-        "start": "1347",
-        "duration": "5y"
-      }
-    },
-    {
       "name": "Renaissance",
       "timespan": {
         "startApproximate": "true",
@@ -61,6 +53,14 @@
       "style": "byzantium"
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "543",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Lombard Kingdom of Italy",
       "timespan": {
         "start": "568",
@@ -75,6 +75,22 @@
         "end": "987"
       },
       "style": "frankishKingdom"
+    },
+    {
+      "name": "Black Death",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "start": "1347",
+        "duration": "5y"
+      }
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "1629",
+        "duration": "2y"
+      },
+      "style": "backgroundPlagueMajor"
     }
   ],
   "dynastyGroups": [

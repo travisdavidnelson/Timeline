@@ -198,6 +198,14 @@
       }
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "541",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Abbasid Caliphate",
       "timespan": {
         "start": "641",

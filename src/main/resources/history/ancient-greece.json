@@ -100,6 +100,14 @@
       }
     },
     {
+      "name": "Plague",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "start": "430 BC",
+        "end": "426 BC"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
@@ -402,6 +410,38 @@
         "end": "532"
       },
       "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "542",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "558",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "573",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "586",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "Battle of Manzikert",
@@ -2596,7 +2636,7 @@
             {
               "name": "Byzantine Empire",
               "timespan": {
-                "start": "476",
+                "start": "1007",
                 "end": "7/25/1261"
               },
               "style": "byzantium"
@@ -2874,7 +2914,7 @@
             {
               "name": "Byzantine Empire",
               "timespan": {
-                "start": "476",
+                "start": "1070",
                 "end": "7/25/1261"
               },
               "style": "byzantium"
@@ -3024,7 +3064,7 @@
             {
               "name": "Byzantine Empire",
               "timespan": {
-                "start": "476",
+                "start": "1070",
                 "end": "1204"
               },
               "style": "byzantium"
