@@ -182,6 +182,54 @@
       "style": "romanDominate"
     },
     {
+      "name": "Crisis of the Third Century",
+      "timespan": {
+        "start": "235",
+        "end": "284"
+      },
+      "style": "romanCrisis"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "238",
+        "end": "239"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Carpi and Persian Wars",
+      "timespan": {
+        "start": "245",
+        "end": "247"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Plague of Cyprian",
+      "timespan": {
+        "start": "249",
+        "end": "270"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Palmyrene War",
+      "timespan": {
+        "start": "272",
+        "end": "273"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Edessa",
+      "timespan": {
+        "start": "4/260",
+        "duration": "1m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
       "name": "Palmyrene Empire",
       "style": "palmyra",
       "timespan": {

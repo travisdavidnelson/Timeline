@@ -36,10 +36,98 @@
       "style": "romanPrincipate"
     },
     {
+      "name": "Crisis of the Third Century",
+      "timespan": {
+        "start": "235",
+        "end": "284"
+      },
+      "style": "romanCrisis"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "238",
+        "end": "239"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Carpi and Persian Wars",
+      "timespan": {
+        "start": "245",
+        "end": "247"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Plague of Cyprian",
+      "timespan": {
+        "start": "249",
+        "end": "270"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "248",
+        "end": "251"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Abritus",
+      "timespan": {
+        "start": "7/251",
+        "duration": "1m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "255",
+        "end": "257"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
+        "start": "268",
+        "end": "269"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Gothic Invasion",
+      "timespan": {
+        "start": "268",
+        "end": "271"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Palmyrene War",
+      "timespan": {
+        "start": "272",
+        "end": "273"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Gallic War",
+      "timespan": {
+        "start": "273",
+        "end": "274"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
       "name": "Battle of Edessa",
       "timespan": {
-        "start": "5/260",
-        "duration": "1w"
+        "start": "4/260",
+        "duration": "1m"
       },
       "style": "backgroundNationalCalamity"
     },
