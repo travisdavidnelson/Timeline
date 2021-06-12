@@ -403,14 +403,6 @@
       "style": "backgroundNationalCalamity"
     },
     {
-      "name": "Battle of Arausio",
-      "timespan": {
-        "start": "10/6/105 BC",
-        "duration": "1d"
-      },
-      "style": "backgroundNationalCalamity"
-    },
-    {
       "name": "Battle of Aquae Sextiae",
       "timespan": {
         "start": "102 BC",
@@ -489,6 +481,14 @@
         "end": "104 BC"
       },
       "style": "backgroundForeignWarVictory"
+    },
+    {
+      "name": "Battle of Arausio",
+      "timespan": {
+        "start": "10/6/105 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundNationalCalamity"
     },
     {
       "name": "Social War",
@@ -1482,7 +1482,7 @@
             },
             {
               "name": "Publius Decius Mus",
-              "style": "roman",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": true,
                 "start": "380 BC",
@@ -1903,7 +1903,7 @@
           "people": [
             {
               "name": "Cato the Elder",
-              "style": "roman",
+              "style": "romanNewMan",
               "timespan": {
                 "start": "234 BC",
                 "end": "149 BC"
