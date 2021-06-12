@@ -129,7 +129,7 @@
 .ironAge {fill:#CBCDCD;fill-opacity:0.5}
 .conflict {fill:red; stroke:red; stroke-width:0.1; fill-opacity:1.0}
 .roman {fill:#718d99; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
-.romanNewMan {fill:#718d99; stroke:blue; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
+.romanNewMan {fill:#718d99; stroke:blue; stroke-width:1.0; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .achaemenid {fill:purple; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .amorite {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .assyrian {fill:red; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}

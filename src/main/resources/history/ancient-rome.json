@@ -2328,6 +2328,41 @@
               ]
             },
             {
+              "name": "Pompey Strabo",
+              "style": "romanNewMan",
+              "timespan": {
+                "start": "135 BC",
+                "end": "87 BC"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "89 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "88 BC",
+                    "end": "87 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "triumph",
+                  "timespan": {
+                    "start": "12/29/89 BC",
+                    "duration": "1d"
+                  },
+                  "style": "triumph"
+                }
+              ]
+            },
+            {
               "name": "Pompey Magnus",
               "style": "roman",
               "timespan": {
