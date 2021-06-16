@@ -1631,6 +1631,11 @@
               "name": "Sargon II",
               "style": "assyrian",
               "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "762 BC",
+                "end": "705 BC"
+              },
               "titles": [
                 {
                   "name": "king",
@@ -1646,12 +1651,17 @@
               "name": "Sennacherib",
               "style": "assyrian",
               "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "745 BC",
+                "end": "11/1/669 BC"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "705 BC",
-                    "end": "681 BC"
+                    "end": "10/20/681 BC"
                   }
                 }
               ]
@@ -1660,12 +1670,17 @@
               "name": "Esarhaddon",
               "style": "assyrian",
               "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "713 BC",
+                "end": "11/1/669 BC"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "681 BC",
-                    "end": "669 BC"
+                    "start": "10/20/681 BC",
+                    "end": "11/1/669 BC"
                   }
                 }
               ]
@@ -1674,11 +1689,15 @@
               "name": "Ashurbanipal",
               "style": "assyrian",
               "importance": "transformational",
+              "timespan": {
+                "start": "685 BC",
+                "end": "631 BC"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "668 BC",
+                    "start": "11/1/669 BC",
                     "end": "631 BC"
                   }
                 }
