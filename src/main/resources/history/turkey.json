@@ -12,6 +12,37 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Ottoman Empire",
+      "dynasties": [
+        {
+          "name": "Republic of Turkey",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Kemal Ataturk",
+              "importance": "transformational",
+              "style": "turkishRepublic",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1881",
+                "end": "11/10/1938"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "10/29/1923",
+                    "end": "11/10/1938"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Republic of Turkey",
       "dynasties": [
         {

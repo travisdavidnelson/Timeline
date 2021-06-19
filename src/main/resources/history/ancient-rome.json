@@ -1898,6 +1898,14 @@
                 "duration": "3m"
               },
               "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Catilinarian conspiracy",
+              "timespan": {
+                "start": "11/8/63 BC",
+                "duration": "1m"
+              },
+              "style": "backgroundConspiracy"
             }
           ],
           "people": [
@@ -2475,6 +2483,16 @@
                     "end": "12/31/48 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Catilinarian conspiracy",
+                  "timespan": {
+                    "start": "11/8/63 BC",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -2674,6 +2692,14 @@
                 "duration": "3m"
               },
               "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Catilinarian conspiracy",
+              "timespan": {
+                "start": "11/8/63 BC",
+                "duration": "1m"
+              },
+              "style": "backgroundConspiracy"
             }
           ],
           "people": [
@@ -3152,6 +3178,16 @@
                     "start": "64 BC",
                     "end": "62 BC"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Catilinarian conspiracy",
+                  "timespan": {
+                    "start": "11/8/63 BC",
+                    "duration": "1m"
+                  },
+                  "style": "foregroundReputationalStain"
                 }
               ]
             },
