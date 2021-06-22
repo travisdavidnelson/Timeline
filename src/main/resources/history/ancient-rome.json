@@ -478,7 +478,7 @@
       "name": "Jugurthine War",
       "timespan": {
         "start": "111 BC",
-        "end": "104 BC"
+        "end": "106 BC"
       },
       "style": "backgroundForeignWarVictory"
     },
@@ -2239,6 +2239,24 @@
                     "duration": "1y"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture of Jugurtha",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "106 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Grass crown",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "10/89 BC",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
@@ -3055,8 +3073,8 @@
                 {
                   "name": "consul",
                   "timespan": {
-                    "start": "1/1/104 BC",
-                    "end": "12/31/100 BC"
+                    "start": "104 BC",
+                    "duration": "5y"
                   }
                 },
                 {
@@ -3071,6 +3089,24 @@
                   "timespan": {
                     "start": "1/1/86 BC",
                     "end": "1/13/86 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "104 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Capture of Jugurtha",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "106 BC",
+                    "duration": "1m"
                   }
                 }
               ]
