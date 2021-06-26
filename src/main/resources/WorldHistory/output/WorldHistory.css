@@ -65,7 +65,7 @@
 .romanKingdom {fill:yellow;fill-opacity:0.2}
 .romanRepublic {fill:blue;fill-opacity:0.2}
 .romanPrincipate {fill:purple;fill-opacity:0.3}
-.romanCrisis {fill:grey;fill-opacity:0.6}
+.romanCrisis {fill:grey;fill-opacity:0.5}
 .romanDominate {fill:purple;fill-opacity:0.3}
 .romanBreakaway {fill:purple;fill-opacity:0.2}
 .seleucid {fill:blue;fill-opacity:0.4}
@@ -93,6 +93,7 @@
 .backgroundBattleDefeat {fill:red; fill-opacity:0.9}
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundCivilWarRegional {fill:#C00000; fill-opacity:0.3}
+.backgroundColdWar {fill:red; fill-opacity:0.1}
 .backgroundConspiracy {fill:red; fill-opacity:0.6}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
 .backgroundCrisis {fill:red; fill-opacity:0.7}
