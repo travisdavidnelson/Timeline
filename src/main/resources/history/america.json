@@ -90,20 +90,20 @@
       "style": "backgroundCivilWar"
     },
     {
-      "name": "Spanish flu",
-      "timespan": {
-        "start": "2/1918",
-        "end": "4/1920"
-      },
-      "style": "backgroundPlagueMajor"
-    },
-    {
       "name": "World War I",
       "timespan": {
         "start": "4/6/1917",
         "end": "11/11/1918"
       },
       "style": "backgroundForeignWarMajor"
+    },
+    {
+      "name": "Spanish flu",
+      "timespan": {
+        "start": "2/1918",
+        "end": "4/1920"
+      },
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "World War II",
@@ -2782,6 +2782,14 @@
                 "end": "7/2/1902"
               },
               "style": "backgroundForeignWar"
+            },
+            {
+              "name": "World War I",
+              "timespan": {
+                "start": "4/6/1917",
+                "end": "11/11/1918"
+              },
+              "style": "backgroundForeignWarMajor"
             }
           ],
           "people": [
