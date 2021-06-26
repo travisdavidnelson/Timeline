@@ -95,6 +95,7 @@
 .backgroundCivilWarRegional {fill:#C00000; fill-opacity:0.3}
 .backgroundConspiracy {fill:red; fill-opacity:0.6}
 .backgroundConstitutionalConvention {fill:blue; fill-opacity:0.6}
+.backgroundCrisis {fill:red; fill-opacity:0.7}
 .backgroundDarkAge {fill:black; fill-opacity:0.5}
 .backgroundInvasion {fill:red; fill-opacity:0.6}
 .backgroundOccupation {fill:#4C0000; fill-opacity:0.3}
@@ -102,7 +103,7 @@
 .backgroundFamine {fill:black; fill-opacity:0.5}
 .backgroundForeignWar {fill:#ad0126; fill-opacity:0.4}
 .backgroundForeignWarDefeat {fill:#ad0126; fill-opacity:0.6}
-.backgroundForeignWarMinor {fill:#ad0126; fill-opacity:0.2}
+.backgroundForeignWarMinor {fill:#ad0126; fill-opacity:0.3}
 .backgroundForeignWarMinorDefeat {fill:#ad0126; fill-opacity:0.2}
 .backgroundForeignWarMinorVictory {fill:#ad0126; fill-opacity:0.2}
 .backgroundForeignWarMajor {fill:#ad0126; fill-opacity:0.5}

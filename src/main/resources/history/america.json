@@ -138,6 +138,14 @@
       "style": "backgroundPlagueMinor"
     },
     {
+      "name": "Cuban Missle Crisis",
+      "timespan": {
+        "start": "10/16/1962",
+        "end": "10/29/1962"
+      },
+      "style": "backgroundCrisis"
+    },
+    {
       "name": "First human on the moon",
       "style": "astronaut",
       "timespan": {
@@ -3146,6 +3154,14 @@
               "style": "backgroundBattle"
             },
             {
+              "name": "Berlin Blockade",
+              "timespan": {
+                "start": "6/24/1948",
+                "end": "5/12/1949"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
               "name": "Korean War",
               "timespan": {
                 "start": "6/25/1950",
@@ -3156,10 +3172,51 @@
             {
               "name": "Vietnam War",
               "timespan": {
-                "start": "11/1/1955",
-                "end": "4/30/1975"
+                "startApproximate": "true",
+                "start": "1963",
+                "end": "8/7/1964"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "8/7/1964",
+                "end": "1/13/1973"
               },
               "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "1/1973",
+                "end": "4/30/1975"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Bay of Pigs Invasion",
+              "timespan": {
+                "start": "4/17/1961",
+                "end": "4/20/1961"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Berlin Crisis of 1961",
+              "timespan": {
+                "start": "8/13/1961",
+                "end": "10/29/1961"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Cuban Missle Crisis",
+              "timespan": {
+                "start": "10/16/1962",
+                "end": "10/29/1962"
+              },
+              "style": "backgroundCrisis"
             },
             {
               "name": "First human on the moon",
@@ -3633,12 +3690,45 @@
           "name": "Hegemon",
           "backgroundEvents": [
             {
+              "name": "Bay of Pigs Invasion",
+              "timespan": {
+                "start": "4/17/1961",
+                "end": "4/20/1961"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Berlin Crisis of 1961",
+              "timespan": {
+                "start": "8/13/1961",
+                "end": "10/29/1961"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
               "name": "Vietnam War",
               "timespan": {
-                "start": "11/1/1955",
-                "end": "4/30/1975"
+                "startApproximate": "true",
+                "start": "1963",
+                "end": "8/7/1964"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "8/7/1964",
+                "end": "1/13/1973"
               },
               "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "1/1973",
+                "end": "4/30/1975"
+              },
+              "style": "backgroundForeignWarMinor"
             },
             {
               "name": "First human on the moon",
