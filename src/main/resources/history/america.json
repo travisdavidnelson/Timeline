@@ -3034,6 +3034,14 @@
           "name": "Superpower",
           "backgroundEvents": [
             {
+              "name": "World War I",
+              "timespan": {
+                "start": "4/6/1917",
+                "end": "11/11/1918"
+              },
+              "style": "backgroundForeignWarMajor"
+            },
+            {
               "name": "World War II",
               "timespan": {
                 "start": "12/7/1941",
@@ -3050,10 +3058,42 @@
               "style": "backgroundNationalCalamity"
             },
             {
+              "name": "Battle of Coral Sea",
+              "timespan": {
+                "start": "5/4/1942",
+                "end": "5/8/1942"
+              },
+              "style": "backgroundBattle"
+            },
+            {
               "name": "Battle of Midway",
               "timespan": {
                 "start": "6/4/1942",
                 "end": "6/7/1942"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Guadalcanal Campaign",
+              "timespan": {
+                "start": "8/7/1942",
+                "end": "2/3/1943"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Allied invasion of Sicily",
+              "timespan": {
+                "start": "7/9/1943",
+                "end": "8/17/1943"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Allied invasion of Italy",
+              "timespan": {
+                "start": "9/3/1943",
+                "end": "9/17/1943"
               },
               "style": "backgroundBattle"
             },
@@ -3070,6 +3110,38 @@
               "timespan": {
                 "start": "10/23/1944",
                 "end": "10/26/1944"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of the Bulge",
+              "timespan": {
+                "start": "12/16/1944",
+                "end": "1/25/1945"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Iwo Jima",
+              "timespan": {
+                "start": "2/19/1945",
+                "end": "3/26/1945"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Okinawa",
+              "timespan": {
+                "start": "3/26/1945",
+                "end": "7/2/1945"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Atomic bombings of Hiroshima and Nagasaki",
+              "timespan": {
+                "start": "8/6/1945",
+                "end": "8/9/1945"
               },
               "style": "backgroundBattle"
             },
@@ -3096,6 +3168,30 @@
                 "start": "7/21/1969",
                 "duration": "1d"
               }
+            },
+            {
+              "name": "Invasion of Grenada",
+              "timespan": {
+                "start": "10/25/1983",
+                "end": "10/29/1983"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "1986 bombing of Libya",
+              "timespan": {
+                "start": "4/15/1986",
+                "duration": "1d"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Invasion of Panama",
+              "timespan": {
+                "start": "12/20/1989",
+                "end": "1/31/1990"
+              },
+              "style": "backgroundForeignWar"
             },
             {
               "name": "Gulf War",
@@ -3553,6 +3649,30 @@
               }
             },
             {
+              "name": "Invasion of Grenada",
+              "timespan": {
+                "start": "10/25/1983",
+                "end": "10/29/1983"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "1986 bombing of Libya",
+              "timespan": {
+                "start": "4/15/1986",
+                "duration": "1d"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Invasion of Panama",
+              "timespan": {
+                "start": "12/20/1989",
+                "end": "1/31/1990"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
               "name": "Gulf War",
               "timespan": {
                 "start": "8/2/1990",
@@ -3593,6 +3713,22 @@
               "style": "backgroundNationalCalamity"
             },
             {
+              "name": "Invasion of Iraq",
+              "timespan": {
+                "start": "3/20/2003",
+                "end": "5/1/2003"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "2011 military intervention in Libya",
+              "timespan": {
+                "start": "3/19/2011",
+                "end": "10/31/2011"
+              },
+              "style": "backgroundBattle"
+            },
+            {
               "name": "Capitol Riot",
               "timespan": {
                 "start": "1/6/2021",
@@ -3608,7 +3744,7 @@
                 "start": "8/19/1946",
                 "end": ""
               },
-              "importance": "petty",
+              "importance": "minor",
               "style": "democrat",
               "titles": [
                 {
