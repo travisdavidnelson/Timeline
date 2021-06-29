@@ -186,6 +186,7 @@
 .petty {font-family: serif; font-size: 8px; kerning: 1; stroke:none; fill:#000000;}
 
 .aedile 			{fill:blue;		fill-opacity:0.5}
+.activist 			{fill:red;		fill-opacity:0.5}
 .admiral 			{fill:#000080;	fill-opacity:0.6}
 .archbishop			{fill:purple;	fill-opacity:0.7}
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}
