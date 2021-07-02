@@ -5995,12 +5995,12 @@
               ]
             },
             {
-              "name": "Jane Austen&#9792;",
+              "name": "Isambard Kingdom Brunel",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
-                "start": "12/16/1775",
-                "end": "7/18/1817"
+                "start": "4/9/1806",
+                "end": "9/15/1859"
               },
               "titles": [
               ]
