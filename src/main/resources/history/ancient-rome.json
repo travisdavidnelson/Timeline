@@ -827,14 +827,6 @@
       "style": "backgroundForeignWar"
     },
     {
-      "name": "Civil War between Licinius and Constantine",
-      "timespan": {
-        "start": "314",
-        "end": "317"
-      },
-      "style": "backgroundCivilWar"
-    },
-    {
       "name": "Battle of Cibalae",
       "timespan": {
         "start": "10/8/314",
@@ -854,14 +846,14 @@
       "name": "Civil War between Licinius and Constantine",
       "timespan": {
         "start": "323",
-        "end": "9/18/324"
+        "end": "7/3/324"
       },
       "style": "backgroundCivilWar"
     },
     {
       "name": "Battle of Chrysopolis",
       "timespan": {
-        "start": "9/18/324",
+        "start": "7/3/324",
         "duration": "1d"
       },
       "style": "backgroundBattle"
@@ -5170,7 +5162,24 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "11/11/308",
-                    "end": "9/18/324"
+                    "end": "7/3/324"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "7/3/324",
+                    "end": "1/325"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Chrysopolis",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/3/324",
+                    "duration": "1d"
                   }
                 }
               ]

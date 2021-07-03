@@ -5995,12 +5995,12 @@
               ]
             },
             {
-              "name": "Isambard Kingdom Brunel",
+              "name": "Jane Austen&#9792;",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "petty",
               "timespan": {
-                "start": "4/9/1806",
-                "end": "9/15/1859"
+                "start": "12/16/1775",
+                "end": "7/18/1817"
               },
               "titles": [
               ]
@@ -6008,10 +6008,37 @@
             {
               "name": "Charles Dickens",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "2/7/1812",
                 "end": "6/9/1870"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Visionaries",
+          "people": [
+            {
+              "name": "James Watt",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/30/1736",
+                "end": "8/25/1819"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Isambard Kingdom Brunel",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "4/9/1806",
+                "end": "9/15/1859"
               },
               "titles": [
               ]
