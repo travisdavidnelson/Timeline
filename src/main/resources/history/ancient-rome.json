@@ -38,14 +38,14 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
-        "end": "8/24/410"
+        "end": "6/2/455"
       },
       "style": "romanDominate"
     },
     {
       "name": "Barbarian Italy",
       "timespan": {
-        "start": "8/24/410",
+        "start": "6/2/455",
         "end": "553"
       },
       "style": "germanicBarbarian"
@@ -955,10 +955,18 @@
       "style": "backgroundInvasion"
     },
     {
+      "name": "Battle of the Catalaunian Plains",
+      "timespan": {
+        "start": "6/20/451",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Sack of Rome (455)",
       "timespan": {
-        "start": "455",
-        "end": "455"
+        "start": "6/2/455",
+        "end": "6/16/455"
       },
       "style": "backgroundNationalCalamity"
     }
@@ -5303,7 +5311,7 @@
               "name": "Roman Dominate",
               "timespan": {
                 "start": "397",
-                "end": "455"
+                "end": "6/2/455"
               },
               "style": "romanDominate"
             },
@@ -5346,6 +5354,14 @@
                 "end": "454"
               },
               "style": "backgroundInvasion"
+            },
+            {
+              "name": "Battle of the Catalaunian Plains",
+              "timespan": {
+                "start": "6/20/451",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -5671,10 +5687,18 @@
               "style": "backgroundInvasion"
             },
             {
+              "name": "Battle of the Catalaunian Plains",
+              "timespan": {
+                "start": "6/20/451",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
               "name": "Sack of Rome (455)",
               "timespan": {
-                "start": "455",
-                "end": "455"
+                "start": "6/2/455",
+                "end": "6/16/455"
               },
               "style": "backgroundNationalCalamity"
             },

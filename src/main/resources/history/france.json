@@ -59,7 +59,7 @@
       "name": "Roman Dominate",
       "timespan": {
         "start": "235",
-        "end": "8/24/410"
+        "end": "6/2/455"
       },
       "style": "romanDominate"
     },
@@ -160,12 +160,36 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Hunnic Invasion",
+      "timespan": {
+        "start": "451",
+        "end": "454"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
       "name": "Battle of the Catalaunian Plains",
       "timespan": {
         "start": "6/20/451",
         "duration": "1d"
       },
       "style": "backgroundBattle"
+    },
+    {
+      "name": "Sack of Rome (455)",
+      "timespan": {
+        "start": "6/2/455",
+        "end": "6/16/455"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Barbarian Gaul",
+      "timespan": {
+        "start": "6/16/455",
+        "end": "508"
+      },
+      "style": "germanicBarbarian"
     },
     {
       "name": "Frankish Kingdoms",
