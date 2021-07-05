@@ -1267,6 +1267,16 @@
                     "end": "6/26/363"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of Strasbourg",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/357",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
