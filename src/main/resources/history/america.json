@@ -66,6 +66,14 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Lewis and Clark Expedition",
+      "timespan": {
+        "start": "8/31/1803",
+        "end": "9/25/1806"
+      },
+      "style": "expedition"
+    },
+    {
       "name": "War of 1812",
       "timespan": {
         "start": "6/18/1812",
@@ -575,6 +583,14 @@
                 "end": "10/19/1781"
               },
               "style": "backgroundBattleVictory"
+            },
+            {
+              "name": "Lewis and Clark Expedition",
+              "timespan": {
+                "start": "8/31/1803",
+                "end": "9/25/1806"
+              },
+              "style": "expedition"
             },
             {
               "name": "War of 1812",
@@ -2639,7 +2655,17 @@
               "timespan": {
                 "start": "8/1/1770",
                 "end": "9/1/1838"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Lewis and Clark Expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "8/31/1803",
+                    "end": "9/25/1806"
+                  }
+                }
+              ]
             },
             {
               "name": "Meriwether Lewis",
@@ -2648,7 +2674,17 @@
               "timespan": {
                 "start": "8/18/1774",
                 "end": "10/11/1809"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Lewis and Clark Expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "8/31/1803",
+                    "end": "9/25/1806"
+                  }
+                }
+              ]
             },
             {
               "name": "Zebulon Pike",
