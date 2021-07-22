@@ -74,6 +74,14 @@
       "style": "expedition"
     },
     {
+      "name": "Pike Expedition",
+      "timespan": {
+        "start": "7/15/1806",
+        "end": "7/1/1807"
+      },
+      "style": "expedition"
+    },
+    {
       "name": "War of 1812",
       "timespan": {
         "start": "6/18/1812",
@@ -589,6 +597,14 @@
               "timespan": {
                 "start": "8/31/1803",
                 "end": "9/25/1806"
+              },
+              "style": "expedition"
+            },
+            {
+              "name": "Pike Expedition",
+              "timespan": {
+                "start": "7/15/1806",
+                "end": "7/1/1807"
               },
               "style": "expedition"
             },
@@ -2646,7 +2662,7 @@
           ]
         },
         {
-          "name": "Adventurers",
+          "name": "Explorers",
           "people": [
             {
               "name": "William Clark",
@@ -2693,7 +2709,36 @@
               "timespan": {
                 "start": "1/5/1779",
                 "end": "4/27/1813"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Pike Expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/15/1806",
+                    "end": "7/1/1807"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Stephen Harriman Long",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "12/30/1784",
+                "end": "8/4/1864"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Stephen Harriman Long expeditions",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "1818",
+                    "end": "1823"
+                  }
+                }
+              ]
             },
             {
               "name": "John Fremont",
@@ -2702,7 +2747,41 @@
               "timespan": {
                 "start": "1/21/1813",
                 "end": "7/13/1890"
-              }
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Fremont first expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/1842",
+                    "end": "11/1842"
+                  }
+                },
+                {
+                  "name": "Fremont second expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/1843",
+                    "end": "8/1844"
+                  }
+                },
+                {
+                  "name": "Fremont third expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "6/1/1845",
+                    "end": "1847"
+                  }
+                },
+                {
+                  "name": "Fremont fourth expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "10/1848",
+                    "end": "3/1849"
+                  }
+                }
+              ]
             },
             {
               "pageBreak": true,
