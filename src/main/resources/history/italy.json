@@ -11,14 +11,14 @@
       "style": "medievalEurope"
     },
     {
-      "name": "Renaissance",
+      "name": "Italian Renaissance",
+      "style": "italianRenaissance",
       "timespan": {
         "startApproximate": "true",
-        "start": "1400",
+        "start": "1300",
         "endApproximate": "true",
-        "end": "1600"
-      },
-      "style": "italianRenaissance"
+        "end": "1700"
+      }
     },
     {
       "name": "Kingdom of Italy",
@@ -735,6 +735,30 @@
                     "end": "774"
                   }
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Renaissance",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Renaissance",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Galileo",
+              "style": "italian",
+              "timespan": {
+                "start": "2/15/1564",
+                "end": "1/6/1642"
+              },
+              "importance": "transformational",
+              "titles": [
               ]
             }
           ]
