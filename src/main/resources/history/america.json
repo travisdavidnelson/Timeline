@@ -593,6 +593,14 @@
               "style": "backgroundBattleVictory"
             },
             {
+              "name": "Whiskey Rebellion",
+              "timespan": {
+                "start": "1791",
+                "end": "1794"
+              },
+              "style": "backgroundMinorRebellion"
+            },
+            {
               "name": "Lewis and Clark Expedition",
               "timespan": {
                 "start": "8/31/1803",
