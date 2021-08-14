@@ -15,25 +15,37 @@
       "name": "Ottoman Empire",
       "dynasties": [
         {
-          "name": "Republic of Turkey",
+          "name": "Ottoman",
           "backgroundEvents": [
           ],
           "people": [
             {
-              "name": "Kemal Ataturk",
-              "importance": "transformational",
-              "style": "turkishRepublic",
+              "name": "Osman I",
+              "importance": "minor",
+              "style": "ottoman",
               "timespan": {
                 "startApproximate": true,
-                "start": "1881",
-                "end": "11/10/1938"
+                "start": "1254",
+                "endApproximate": true,
+                "end": "1324"
               },
               "titles": [
                 {
-                  "name": "president",
+                  "name": "governor",
                   "timespan": {
-                    "start": "10/29/1923",
-                    "end": "11/10/1938"
+                    "startApproximate": true,
+                    "start": "1280",
+                    "endApproximate": true,
+                    "end": "1299"
+                  }
+                },
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1299",
+                    "endApproximate": true,
+                    "end": "1324"
                   }
                 }
               ]
