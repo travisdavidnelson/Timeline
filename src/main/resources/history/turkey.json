@@ -4,7 +4,7 @@
     {
       "name": "Ottoman Empire",
       "timespan": {
-        "start": "1517",
+        "start": "5/29/1453",
         "end": "1927"
       },
       "style": "ottoman"
@@ -257,8 +257,9 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Mehmed II",
-              "importance": "transformational",
+              "importance": "major",
               "style": "ottoman",
               "timespan": {
                 "start": "3/30/1432",
