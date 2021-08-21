@@ -2,6 +2,22 @@
   "name": "Turkey",
   "backgroundEvents": [
     {
+      "name": "Ottoman Empire",
+      "timespan": {
+        "start": "1517",
+        "end": "1927"
+      },
+      "style": "ottoman"
+    },
+    {
+      "name": "Fall of Constantinople",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "4/6/1453",
+        "end": "5/29/1453"
+      }
+    },
+    {
       "name": "Republic of Turkey",
       "timespan": {
         "start": "11/1/1922",
@@ -17,11 +33,59 @@
         {
           "name": "Ottoman",
           "backgroundEvents": [
+            {
+              "name": "Ottoman Empire",
+              "timespan": {
+                "start": "1299",
+                "end": "1927"
+              },
+              "style": "ottoman"
+            },
+            {
+              "name": "Battle of Bapheus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/27/1302",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Kosovo",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/15/1389",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Ankara",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/20/1402",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Ottoman Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "7/20/1402",
+                "end": "7/5/1413"
+              }
+            },
+            {
+              "name": "Fall of Constantinople",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "4/6/1453",
+                "end": "5/29/1453"
+              }
+            }
           ],
           "people": [
             {
               "name": "Osman I",
-              "importance": "minor",
+              "importance": "major",
               "style": "ottoman",
               "timespan": {
                 "startApproximate": true,
@@ -46,6 +110,183 @@
                     "start": "1299",
                     "endApproximate": true,
                     "end": "1324"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Bapheus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/27/1302",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Orhan Ghazi",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1281",
+                "end": "3/1362"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "1324",
+                    "end": "3/1362"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Murad I",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "6/29/1326",
+                "end": "6/15/1389"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "3/1362",
+                    "end": "6/15/1389"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Kosovo",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/15/1389",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bayezid I",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1360",
+                "end": "3/8/1403"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "6/16/1389",
+                    "end": "7/20/1402"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Ankara",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/20/1402",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mehmed I",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "1389",
+                "end": "5/26/1421"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "7/5/1413",
+                    "end": "5/26/1421"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Ankara",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/20/1402",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Murad II",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "6/16/1404",
+                "end": "2/3/1451"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "5/26/1421",
+                    "end": "8/1444"
+                  }
+                },
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "9/1446",
+                    "end": "2/3/1451"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mehmed II",
+              "importance": "major",
+              "style": "ottoman",
+              "timespan": {
+                "start": "3/30/1432",
+                "end": "5/3/1481"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "8/1444",
+                    "end": "9/1446"
+                  }
+                },
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/3/1451",
+                    "end": "5/3/1481"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Constantinople",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/6/1453",
+                    "end": "5/29/1453"
                   }
                 }
               ]
