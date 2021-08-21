@@ -74,11 +74,99 @@
               }
             },
             {
+              "name": "Siege of Thessalonica",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "6/1422",
+                "end": "3/29/1430"
+              }
+            },
+            {
               "name": "Fall of Constantinople",
               "style": "backgroundSiege",
               "timespan": {
                 "start": "4/6/1453",
                 "end": "5/29/1453"
+              }
+            },
+            {
+              "name": "First Ottoman-Venetian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1463",
+                "end": "1/25/1479"
+              }
+            },
+            {
+              "name": "Second Ottoman-Venetian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1499",
+                "end": "1503"
+              }
+            },
+            {
+              "name": "Third Ottoman-Venetian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1537",
+                "end": "10/2/1540"
+              }
+            },
+            {
+              "name": "Fourth Ottoman-Venetian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "6/27/1570",
+                "end": "3/7/1573"
+              }
+            },
+            {
+              "name": "Battle of Lepanto",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/7/1571",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Cretan War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1645",
+                "end": "1669"
+              }
+            },
+            {
+              "name": "Morean War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "4/25/1684",
+                "end": "1/26/1699"
+              }
+            },
+            {
+              "name": "Battle of Vienna",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/12/1683",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Siege of Buda",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/18/1686",
+                "end": "9/9/1686"
+              }
+            },
+            {
+              "name": "Seventh Ottoman-Venetian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "12/9/1714",
+                "end": "7/21/1718"
               }
             }
           ],
@@ -333,7 +421,7 @@
               ]
             },
             {
-              "name": "Suleiman I I",
+              "name": "Suleiman I",
               "importance": "transformational",
               "style": "ottoman",
               "timespan": {
