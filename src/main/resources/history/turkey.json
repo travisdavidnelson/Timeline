@@ -258,7 +258,7 @@
             },
             {
               "name": "Mehmed II",
-              "importance": "major",
+              "importance": "transformational",
               "style": "ottoman",
               "timespan": {
                 "start": "3/30/1432",
@@ -289,6 +289,66 @@
                     "end": "5/29/1453"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Bayezid II",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "12/1447",
+                "end": "5/26/1512"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "5/22/1481",
+                    "end": "4/24/1512"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Selim I",
+              "importance": "major",
+              "style": "ottoman",
+              "timespan": {
+                "start": "10/10/1470",
+                "end": "9/22/1520"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "4/24/1512",
+                    "end": "9/22/1520"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Suleiman I I",
+              "importance": "transformational",
+              "style": "ottoman",
+              "timespan": {
+                "start": "11/6/1494",
+                "end": "9/6/1566"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "9/30/1520",
+                    "end": "9/6/1566"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             }
           ]
