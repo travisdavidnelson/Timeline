@@ -439,6 +439,274 @@
               ],
               "foregroundEvents": [
               ]
+            },
+            {
+              "name": "Selim II",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "5/30/1524",
+                "end": "12/15/1574"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "9/7/1566",
+                    "end": "12/15/1574"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Murad III",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "7/4/1546",
+                "end": "1/16/1595"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "12/15/1574",
+                    "end": "1/16/1595"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mehmed III",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "5/26/1566",
+                "end": "12/22/1603"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "1/16/1595",
+                    "end": "12/22/1603"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ahmed I",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "4/1590",
+                "end": "11/22/1617"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "12/22/1603",
+                    "end": "11/22/1617"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mustafa I",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1591",
+                "end": "1/20/1639"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "11/22/1617",
+                    "end": "2/26/1618"
+                  }
+                },
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/20/1622",
+                    "end": "9/10/1623"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Osman II",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "11/3/1604",
+                "end": "5/20/1622"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/26/1618",
+                    "end": "5/20/1622"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Murad IV",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "7/27/1612",
+                "end": "2/8/1640"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "9/10/1623",
+                    "end": "2/8/1640"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ibrahim",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "11/5/1615",
+                "end": "8/18/1648"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/8/1640",
+                    "end": "8/18/1648"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mehmed IV",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "1/2/1642",
+                "end": "1/6/1693"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/8/1640",
+                    "end": "11/8/1687"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Suleiman II",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "4/15/1642",
+                "end": "6/22/1691"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "11/8/1687",
+                    "end": "6/22/1691"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ahmed II",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "2/25/1643",
+                "end": "2/6/1695"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "6/22/1691",
+                    "end": "2/6/1695"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mustafa II",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "2/6/1664",
+                "end": "12/29/1703"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "2/6/1695",
+                    "end": "8/22/1703"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ahmed III",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "12/30/1673",
+                "end": "7/1/1736"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "8/22/1703",
+                    "end": "9/20/1730"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
             }
           ]
         }
