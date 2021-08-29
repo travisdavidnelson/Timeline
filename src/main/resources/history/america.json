@@ -593,6 +593,14 @@
               "style": "backgroundBattleVictory"
             },
             {
+              "name": "Shays Rebellion",
+              "timespan": {
+                "start": "8/29/1786",
+                "end": "2/1787"
+              },
+              "style": "backgroundMinorRebellion"
+            },
+            {
               "name": "Whiskey Rebellion",
               "timespan": {
                 "start": "1791",
