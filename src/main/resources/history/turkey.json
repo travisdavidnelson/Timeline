@@ -10,6 +10,14 @@
       "style": "ottoman"
     },
     {
+      "name": "Battle of Chaldiran",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/23/1514",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Fall of Constantinople",
       "style": "backgroundBattle",
       "timespan": {
@@ -106,6 +114,22 @@
               }
             },
             {
+              "name": "Battle of Chaldiran",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/23/1514",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Ottoman-Safavid War of 1532-1555",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1532",
+                "end": "1555"
+              }
+            },
+            {
               "name": "Third Ottoman-Venetian War",
               "style": "backgroundWar",
               "timespan": {
@@ -127,6 +151,30 @@
               "timespan": {
                 "start": "10/7/1571",
                 "duration": "1d"
+              }
+            },
+            {
+              "name": "Ottoman-Safavid War of 1578-1590",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1578",
+                "end": "1590"
+              }
+            },
+            {
+              "name": "Ottoman-Safavid War of 1603-1618",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1603",
+                "end": "1618"
+              }
+            },
+            {
+              "name": "Ottoman-Safavid War of 1623-1639",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1623",
+                "end": "1639"
               }
             },
             {
@@ -167,6 +215,38 @@
               "timespan": {
                 "start": "12/9/1714",
                 "end": "7/21/1718"
+              }
+            },
+            {
+              "name": "Ottoman-Persian War of 1730-1735",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1730",
+                "end": "1735"
+              }
+            },
+            {
+              "name": "Ottoman-Persian War of 1743-1746",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1743",
+                "end": "1746"
+              }
+            },
+            {
+              "name": "Ottoman-Persian War of 1775-1776",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1775",
+                "end": "1776"
+              }
+            },
+            {
+              "name": "Ottoman-Persian War of 1821-1823",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "9/10/1821",
+                "end": "7/23/1823"
               }
             }
           ],
