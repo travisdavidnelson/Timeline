@@ -707,6 +707,266 @@
               ],
               "foregroundEvents": [
               ]
+            },
+            {
+              "name": "Mahmud I",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "8/2/1696",
+                "end": "12/13/1754"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "9/20/1730",
+                    "end": "12/13/1754"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Osman III",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "1/2/1699",
+                "end": "10/30/1757"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "12/13/1754",
+                    "end": "10/30/1757"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mustafa III",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "1/28/1717",
+                "end": "1/21/1774"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "10/30/1757",
+                    "end": "1/21/1774"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Abdul Hamid I",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "3/20/1725",
+                "end": "4/7/1789"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "1/21/1774",
+                    "end": "4/7/1789"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Selim III",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "12/24/1761",
+                "end": "7/28/1808"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "4/7/1789",
+                    "end": "5/29/1807"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mustafa IV",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "9/8/1779",
+                "end": "11/16/1808"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "5/29/1807",
+                    "end": "7/28/1808"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mahmud II",
+              "importance": "semimajor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "7/20/1785",
+                "end": "7/1/1839"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "7/28/1808",
+                    "end": "7/1/1839"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Abdulmejid I",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "4/25/1823",
+                "end": "6/25/1861"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "7/2/1839",
+                    "end": "6/25/1861"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Abdulaziz",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "2/8/1830",
+                "end": "6/4/1876"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "6/25/1861",
+                    "end": "5/30/1876"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Murad V",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "9/21/1840",
+                "end": "8/29/1904"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "5/30/1876",
+                    "end": "8/31/1876"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Abdul Hamid II",
+              "importance": "minor",
+              "style": "ottoman",
+              "timespan": {
+                "start": "9/21/1842",
+                "end": "2/10/1918"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "8/31/1876",
+                    "end": "4/27/1909"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mahmed V Resad",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "11/2/1844",
+                "end": "7/3/1918"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "4/27/1909",
+                    "end": "7/3/1918"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mehmed VI Vahideddin",
+              "importance": "petty",
+              "style": "ottoman",
+              "timespan": {
+                "start": "1/14/1861",
+                "end": "5/16/1926"
+              },
+              "titles": [
+                {
+                  "name": "sultan",
+                  "timespan": {
+                    "start": "7/4/1918",
+                    "end": "11/1/1922"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
             }
           ]
         }
