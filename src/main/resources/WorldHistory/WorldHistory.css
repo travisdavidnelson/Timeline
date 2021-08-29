@@ -27,7 +27,7 @@
 .egyptThirdIntermediate {fill:gold;fill-opacity:0.2}
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .egyptThebes {fill:gold;fill-opacity:0.4}
-.egyptOttoman {fill:#238705;fill-opacity:0.3}
+.egyptOttoman {fill:#238705;fill-opacity:0.5}
 .egyptKhedivate {fill:#648705;fill-opacity:0.3}
 .egyptSultanate {fill:#058728;fill-opacity:0.3}
 .egyptKingdom {fill:#4b6603;fill-opacity:0.3}
@@ -124,6 +124,7 @@
 .backgroundUnionVictory {fill:blue; fill-opacity:0.8}
 .backgroundConfederateVictory {fill:red; fill-opacity:0.8}
 .backgroundWar {fill:#ad0126; fill-opacity:0.5}
+.backgroundOttomanWar {fill:#ad0126; fill-opacity:0.8}
 .backgroundSiege {fill:#ad0126; fill-opacity:0.4}
 .foregroundReputationalStain {fill:black; fill-opacity:1.0}
 .neolithic {fill:grey;fill-opacity:0.3}

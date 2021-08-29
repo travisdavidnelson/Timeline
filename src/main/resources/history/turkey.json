@@ -26,6 +26,14 @@
       }
     },
     {
+      "name": "Ottoman-Mamluk War of 1516-1517",
+      "style": "backgroundOttomanWar",
+      "timespan": {
+        "start": "1516",
+        "end": "1/22/1517"
+      }
+    },
+    {
       "name": "Republic of Turkey",
       "timespan": {
         "start": "11/1/1922",
@@ -75,7 +83,7 @@
             },
             {
               "name": "Ottoman Civil War",
-              "style": "backgroundCivilWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "7/20/1402",
                 "end": "7/5/1413"
@@ -83,7 +91,7 @@
             },
             {
               "name": "Siege of Thessalonica",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "6/1422",
                 "end": "3/29/1430"
@@ -99,15 +107,23 @@
             },
             {
               "name": "First Ottoman-Venetian War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1463",
                 "end": "1/25/1479"
               }
             },
             {
+              "name": "Ottoman-Mamluk War of 1485-1491",
+              "style": "backgroundOttomanWar",
+              "timespan": {
+                "start": "1485",
+                "end": "1491"
+              }
+            },
+            {
               "name": "Second Ottoman-Venetian War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1499",
                 "end": "1503"
@@ -122,8 +138,16 @@
               }
             },
             {
+              "name": "Ottoman-Mamluk War of 1516-1517",
+              "style": "backgroundOttomanWar",
+              "timespan": {
+                "start": "1516",
+                "end": "1/22/1517"
+              }
+            },
+            {
               "name": "Ottoman-Safavid War of 1532-1555",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1532",
                 "end": "1555"
@@ -131,7 +155,7 @@
             },
             {
               "name": "Third Ottoman-Venetian War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1537",
                 "end": "10/2/1540"
@@ -139,7 +163,7 @@
             },
             {
               "name": "Fourth Ottoman-Venetian War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "6/27/1570",
                 "end": "3/7/1573"
@@ -155,7 +179,7 @@
             },
             {
               "name": "Ottoman-Safavid War of 1578-1590",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1578",
                 "end": "1590"
@@ -163,7 +187,7 @@
             },
             {
               "name": "Ottoman-Safavid War of 1603-1618",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1603",
                 "end": "1618"
@@ -171,7 +195,7 @@
             },
             {
               "name": "Ottoman-Safavid War of 1623-1639",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1623",
                 "end": "1639"
@@ -179,7 +203,7 @@
             },
             {
               "name": "Cretan War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1645",
                 "end": "1669"
@@ -187,7 +211,7 @@
             },
             {
               "name": "Morean War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "4/25/1684",
                 "end": "1/26/1699"
@@ -211,7 +235,7 @@
             },
             {
               "name": "Seventh Ottoman-Venetian War",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "12/9/1714",
                 "end": "7/21/1718"
@@ -219,7 +243,7 @@
             },
             {
               "name": "Ottoman-Persian War of 1730-1735",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1730",
                 "end": "1735"
@@ -227,7 +251,7 @@
             },
             {
               "name": "Ottoman-Persian War of 1743-1746",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1743",
                 "end": "1746"
@@ -235,7 +259,7 @@
             },
             {
               "name": "Ottoman-Persian War of 1775-1776",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "1775",
                 "end": "1776"
@@ -243,7 +267,7 @@
             },
             {
               "name": "Ottoman-Persian War of 1821-1823",
-              "style": "backgroundWar",
+              "style": "backgroundOttomanWar",
               "timespan": {
                 "start": "9/10/1821",
                 "end": "7/23/1823"

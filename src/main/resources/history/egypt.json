@@ -4,10 +4,26 @@
     {
       "name": "Ottoman Empire",
       "timespan": {
-        "start": "1517",
+        "start": "1516",
         "end": "1867"
       },
       "style": "egyptOttoman"
+    },
+    {
+      "name": "Ottoman-Mamluk War of 1485-1491",
+      "style": "backgroundOttomanWar",
+      "timespan": {
+        "start": "1485",
+        "end": "1491"
+      }
+    },
+    {
+      "name": "Ottoman-Mamluk War of 1516-1517",
+      "style": "backgroundOttomanWar",
+      "timespan": {
+        "start": "1516",
+        "end": "1/22/1517"
+      }
     },
     {
       "name": "Khedivate of Egypt",
