@@ -10,14 +10,6 @@
       "style": "ottoman"
     },
     {
-      "name": "Battle of Chaldiran",
-      "style": "backgroundBattle",
-      "timespan": {
-        "start": "8/23/1514",
-        "duration": "1d"
-      }
-    },
-    {
       "name": "Fall of Constantinople",
       "style": "backgroundBattle",
       "timespan": {
@@ -26,11 +18,27 @@
       }
     },
     {
+      "name": "Battle of Chaldiran",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/23/1514",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Ottoman-Mamluk War of 1516-1517",
       "style": "backgroundOttomanWar",
       "timespan": {
         "start": "1516",
         "end": "1/22/1517"
+      }
+    },
+    {
+      "name": "Battle of Mohacs",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/29/1526",
+        "duration": "1d"
       }
     },
     {
@@ -99,7 +107,7 @@
             },
             {
               "name": "Fall of Constantinople",
-              "style": "backgroundSiege",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "4/6/1453",
                 "end": "5/29/1453"
@@ -143,6 +151,14 @@
               "timespan": {
                 "start": "1516",
                 "end": "1/22/1517"
+              }
+            },
+            {
+              "name": "Battle of Mohacs",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/29/1526",
+                "duration": "1d"
               }
             },
             {
@@ -542,6 +558,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Mohacs",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/29/1526",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
