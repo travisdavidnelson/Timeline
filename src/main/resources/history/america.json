@@ -4131,10 +4131,10 @@
               }
             },
             {
-              "name": "Afghan War",
+              "name": "Afghanistan War",
               "timespan": {
                 "start": "10/7/2001",
-                "end": ""
+                "end": "8/30/2020"
               },
               "style": "backgroundForeignWarMinor"
             },
