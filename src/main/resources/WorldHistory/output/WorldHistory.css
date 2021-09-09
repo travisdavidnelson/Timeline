@@ -27,7 +27,7 @@
 .egyptThirdIntermediate {fill:gold;fill-opacity:0.2}
 .egyptLatePeriod {fill:gold;fill-opacity:0.8}
 .egyptThebes {fill:gold;fill-opacity:0.4}
-.egyptOttoman {fill:#238705;fill-opacity:0.5}
+.egyptOttoman {fill:#238705;fill-opacity:0.2}
 .egyptKhedivate {fill:#648705;fill-opacity:0.3}
 .egyptSultanate {fill:#058728;fill-opacity:0.3}
 .egyptKingdom {fill:#4b6603;fill-opacity:0.3}
@@ -124,7 +124,7 @@
 .backgroundUnionVictory {fill:blue; fill-opacity:0.8}
 .backgroundConfederateVictory {fill:red; fill-opacity:0.8}
 .backgroundWar {fill:#ad0126; fill-opacity:0.5}
-.backgroundOttomanWar {fill:#ad0126; fill-opacity:0.8}
+.backgroundOttomanWar {fill:#ad0126; fill-opacity:0.6}
 .backgroundSiege {fill:#ad0126; fill-opacity:0.4}
 .foregroundReputationalStain {fill:black; fill-opacity:1.0}
 .neolithic {fill:grey;fill-opacity:0.3}
@@ -290,14 +290,14 @@
 .samnites 			{fill:green;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .etruscans 			{fill:grey;		stroke:black; stroke-width:0.1; fill-opacity:0.7}
 .carthage 			{fill:orange;	stroke:black; stroke-width:0.1; fill-opacity:0.7}
-.islamicCaliphate	{fill:green;	fill-opacity:0.4}
-.rashidunCaliphate	{fill:#0aad0f;	fill-opacity:0.5}
-.umayyadCaliphate	{fill:#08870c;	fill-opacity:0.5}
-.abbasidCaliphate	{fill:#26af2b;	fill-opacity:0.5}
-.fatimidCaliphate	{fill:#06840a;	fill-opacity:0.5}
+.islamicCaliphate	{fill:green;	fill-opacity:0.3}
+.rashidunCaliphate	{fill:#0aad0f;	fill-opacity:0.3}
+.umayyadCaliphate	{fill:#08870c;	fill-opacity:0.3}
+.abbasidCaliphate	{fill:#26af2b;	fill-opacity:0.4}
+.fatimidCaliphate	{fill:#06840a;	fill-opacity:0.4}
 .ayyubidSultanate	{fill:#e5da06;	fill-opacity:0.5}
 .mamlukSultanate	{fill:#bfb616;	fill-opacity:0.5}
-.ottoman        	{fill:#238705;	fill-opacity:0.5}
+.ottoman        	{fill:#238705;	fill-opacity:0.4}
 .turkishRepublic    {fill:#336d21;fill-opacity:0.3}
 .macedonianEmpire 	{fill:#577ce0;	stroke:black; stroke-width:0.1; fill-opacity:0.5}
 .hellenisticGreece 	{fill:blue;		stroke:black; stroke-width:0.1; fill-opacity:0.3}
