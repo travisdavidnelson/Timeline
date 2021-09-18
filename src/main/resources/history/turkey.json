@@ -106,11 +106,27 @@
               }
             },
             {
+              "name": "Battle of Varna",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/10/1444",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Fall of Constantinople",
               "style": "backgroundBattle",
               "timespan": {
                 "start": "4/6/1453",
                 "end": "5/29/1453"
+              }
+            },
+            {
+              "name": "Battle of Belgrade",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/4/1456",
+                "end": "7/22/1456"
               }
             },
             {
