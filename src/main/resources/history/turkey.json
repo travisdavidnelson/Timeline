@@ -42,6 +42,22 @@
       }
     },
     {
+      "name": "Crimean War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/16/1853",
+        "end": "3/30/1856"
+      }
+    },
+    {
+      "name": "World War I",
+      "style": "backgroundOttomanWar",
+      "timespan": {
+        "start": "10/29/1914",
+        "end": "10/20/1918"
+      }
+    },
+    {
       "name": "Republic of Turkey",
       "timespan": {
         "start": "11/1/1922",
@@ -303,6 +319,46 @@
               "timespan": {
                 "start": "9/10/1821",
                 "end": "7/23/1823"
+              }
+            },
+            {
+              "name": "Crimean War",
+              "style": "backgroundOttomanWar",
+              "timespan": {
+                "start": "10/16/1853",
+                "end": "3/30/1856"
+              }
+            },
+            {
+              "name": "Ottoman Public Debt Administration",
+              "style": "backgroundOttomanPDA",
+              "timespan": {
+                "start": "1881",
+                "end": "1918"
+              }
+            },
+            {
+              "name": "Young Turks Revolution",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "7/1908",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "First Balkan War",
+              "style": "backgroundOttomanWar",
+              "timespan": {
+                "start": "10/18/1912",
+                "end": "5/30/1913"
+              }
+            },
+            {
+              "name": "World War I",
+              "style": "backgroundOttomanWar",
+              "timespan": {
+                "start": "10/29/1914",
+                "end": "10/20/1918"
               }
             }
           ],
