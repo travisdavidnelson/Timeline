@@ -212,6 +212,28 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Conquistadores",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Conquistadores",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Christopher Columbus",
+              "style": "spanish",
+              "timespan": {
+                "start": "8/25/1451",
+                "end": "5/20/1506"
+              },
+              "importance": "transformational"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Colonists",
       "yStart": 0,
       "dynasties": [
