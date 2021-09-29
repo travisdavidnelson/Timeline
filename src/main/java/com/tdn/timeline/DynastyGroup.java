@@ -9,6 +9,7 @@ public class DynastyGroup extends TimelineEvent {
 	
 	public DynastyGroup() {
 		dynasties = new ArrayList<Dynasty>();
+		setPageBreak(true);
 	}
 
 	public int getyStart() {

@@ -124,7 +124,11 @@ public class TimelineSvgBuilder {
 
 						for (DynastyGroup series : history.getDynastyGroups()) {
 							if (!history.isStackable()) {
-								dynastyStart = channelStart;
+								if (!series.isPageBreak()) {
+									dynastyStart = nextPersonYStart;
+								} else {
+									dynastyStart = channelStart;
+								}
 							}
 							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilderMin);
 						}
