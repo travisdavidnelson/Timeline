@@ -10,12 +10,36 @@
       "style": "neolithic"
     },
     {
+      "name": "Discovery of the New World",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "10/12/1492",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Post-Columbian",
       "timespan": {
         "start": "1500",
         "end": "7/4/1776"
       },
       "style": "ironAge"
+    },
+    {
+      "name": "Fall of Tenochtitlan",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "8/1521",
+        "end": "8/13/1521"
+      }
+    },
+    {
+      "name": "Conquest of Peru",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "11/1533",
+        "end": "11/15/1533"
+      }
     },
     {
       "name": "United States",
@@ -214,6 +238,7 @@
     {
       "name": "Conquistadores",
       "yStart": 0,
+      "pageBreak": false,
       "dynasties": [
         {
           "name": "Conquistadores",
@@ -223,11 +248,140 @@
             {
               "name": "Christopher Columbus",
               "style": "spanish",
+              "importance": "transformational",
               "timespan": {
                 "start": "8/25/1451",
                 "end": "5/20/1506"
               },
-              "importance": "transformational"
+              "foregroundEvents": [
+                {
+                  "name": "First voyage to the New World",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "8/3/1492",
+                    "end": "3/15/1493"
+                  }
+                },
+                {
+                  "name": "Discovery of the New World",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "10/12/1492",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Second voyage",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "9/24/1493",
+                    "end": "6/8/1496"
+                  }
+                },
+                {
+                  "name": "Third voyage",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "5/30/1498",
+                    "end": "10/1500"
+                  }
+                },
+                {
+                  "name": "Fourth voyage",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "5/11/1502",
+                    "end": "11/7/1504"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1492",
+                    "end": "1499"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "10/1500",
+                    "end": "1/1501"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Hernan Cortes",
+              "style": "spanish",
+              "importance": "major",
+              "timespan": {
+                "start": "1485",
+                "end": "12/2/1547"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Spanish conquest of Mexico",
+                  "style": "general",
+                  "timespan": {
+                    "start": "2/1519",
+                    "end": "8/13/1521"
+                  }
+                },
+                {
+                  "name": "Fall of Tenochtitlan",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "8/1521",
+                    "end": "8/13/1521"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "8/13/1521",
+                    "end": "12/24/1521"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "12/13/1521",
+                    "end": "10/12/1524"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Francisco Pizarro",
+              "style": "spanish",
+              "importance": "major",
+              "timespan": {
+                "start": "3/16/1478",
+                "end": "6/26/1541"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Conquest of Peru",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "11/1533",
+                    "end": "11/15/1533"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "7/26/1529",
+                    "end": "6/26/1541"
+                  }
+                }
+              ]
             }
           ]
         }

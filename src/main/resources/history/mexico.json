@@ -19,6 +19,14 @@
               }
             },
             {
+              "name": "Discovery of the New World",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "10/12/1492",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Spanish conquest",
               "style": "backgroundInvasion",
               "timespan": {
