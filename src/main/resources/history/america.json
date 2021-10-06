@@ -406,6 +406,36 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Cabeza de Vaca",
+              "style": "spanish",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1490",
+                "endApproximate": "true",
+                "end": "1559"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Narvaez expedition",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "11/1528",
+                    "end": "1536"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1540",
+                    "end": "1544"
+                  }
+                }
+              ]
             }
           ]
         }
