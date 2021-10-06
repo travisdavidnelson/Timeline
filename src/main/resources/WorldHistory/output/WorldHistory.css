@@ -156,7 +156,7 @@
 .larsa {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .lydian {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.5; box-shadow: -5px -5px 5px #888;}
 .phoenician {fill:orange; stroke:black; stroke-width:0.4; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
-.spanish {fill:#249e50; fill-opacity:0.5;}
+.spanish {fill:#249e50; fill-opacity:0.4;}
 .sumerian {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .ur {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .deified {fill:gold; stroke:gold; stroke-width:0.1; fill-opacity:0.8; box-shadow: -5px -5px 5px #888;}
@@ -217,6 +217,7 @@
 .exile 				{fill:grey;	    fill-opacity:0.5}
 .expedition 		{fill:green;	fill-opacity:0.2}
 .exploration 		{fill:gold;		fill-opacity:0.5}
+.entrada 		    {fill:gold;		fill-opacity:0.6}
 .pow 				{fill:black;	fill-opacity:0.75}
 .prisoner 			{fill:grey;	    fill-opacity:0.5}
 .general 			{fill:#C00000;	fill-opacity:0.6}

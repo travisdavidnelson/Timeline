@@ -256,7 +256,7 @@
               "foregroundEvents": [
                 {
                   "name": "First voyage to the New World",
-                  "style": "exploration",
+                  "style": "entrada",
                   "timespan": {
                     "start": "8/3/1492",
                     "end": "3/15/1493"
@@ -272,7 +272,7 @@
                 },
                 {
                   "name": "Second voyage",
-                  "style": "exploration",
+                  "style": "entrada",
                   "timespan": {
                     "start": "9/24/1493",
                     "end": "6/8/1496"
@@ -280,7 +280,7 @@
                 },
                 {
                   "name": "Third voyage",
-                  "style": "exploration",
+                  "style": "entrada",
                   "timespan": {
                     "start": "5/30/1498",
                     "end": "10/1500"
@@ -288,7 +288,7 @@
                 },
                 {
                   "name": "Fourth voyage",
-                  "style": "exploration",
+                  "style": "entrada",
                   "timespan": {
                     "start": "5/11/1502",
                     "end": "11/7/1504"
@@ -323,7 +323,7 @@
               "foregroundEvents": [
                 {
                   "name": "Spanish conquest of Mexico",
-                  "style": "general",
+                  "style": "entrada",
                   "timespan": {
                     "start": "2/1519",
                     "end": "8/13/1521"
