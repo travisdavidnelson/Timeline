@@ -760,6 +760,38 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Fete de la Federation",
+      "timespan": {
+        "start": "7/14/1790",
+        "duration": "1d"
+      },
+      "style": "victory"
+    },
+    {
+      "name": "Women's March on Versailles",
+      "timespan": {
+        "start": "10/5/1789",
+        "duration": "2d"
+      },
+      "style": "backgroundRiot"
+    },
+    {
+      "name": "Flight to Varennes",
+      "timespan": {
+        "start": "6/20/1791",
+        "duration": "2d"
+      },
+      "style": "backgroundConspiracy"
+    },
+    {
+      "name": "Champ de Mars massacre",
+      "timespan": {
+        "start": "7/17/1791",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Insurrection of 10 August 1792",
       "timespan": {
         "start": "8/10/1792",
@@ -3201,6 +3233,30 @@
               "importance": "major",
               "annotation": "Gilbert du Motier, Marquis de Lafayette",
               "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "7/31/1777",
+                    "end": "12/18/1781"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "7/15/1789",
+                    "end": "10/1791"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Champ de Mars massacre",
+                  "timespan": {
+                    "start": "7/17/1791",
+                    "duration": "1d"
+                  },
+                  "style": "foregroundReputationalStain"
+                }
               ]
             }
           ]
