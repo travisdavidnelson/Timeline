@@ -3244,11 +3244,50 @@
                   "name": "general",
                   "timespan": {
                     "start": "7/15/1789",
-                    "end": "10/1791"
+                    "end": "8/14/1792"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "8/15/1792",
+                    "end": "9/19/1797"
                   }
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Brandywine",
+                  "timespan": {
+                    "start": "9/11/1777",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Goucester",
+                  "timespan": {
+                    "start": "11/25/1777",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Yorktown",
+                  "timespan": {
+                    "start": "10/14/1781",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Declaration of the Rights of Man and of the Citizen",
+                  "timespan": {
+                    "start": "7/11/1789",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
                 {
                   "name": "Champ de Mars massacre",
                   "timespan": {
