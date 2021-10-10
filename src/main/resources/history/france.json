@@ -760,7 +760,7 @@
       "style": "backgroundBattle"
     },
     {
-      "name": "Fete de la Federation",
+      "name": "Fètè de la Fèderation",
       "timespan": {
         "start": "7/14/1790",
         "duration": "1d"
@@ -899,22 +899,30 @@
       "name": "Bourbon Restoration",
       "timespan": {
         "start": "11/20/1815",
-        "end": "1830"
+        "end": "3/1848"
       },
       "style": "frenchMonarchy"
     },
     {
-      "name": "July Monarchy",
+      "name": "July Revolution",
       "timespan": {
-        "start": "1830",
-        "end": "1848"
+        "start": "7/26/1830",
+        "end": "7/29/1830"
       },
-      "style": "frenchMonarchy"
+      "style": "backgroundRevolution"
+    },
+    {
+      "name": "French Revolution of 1848",
+      "timespan": {
+        "start": "2/22/1848",
+        "end": "12/2/1848"
+      },
+      "style": "backgroundRevolution"
     },
     {
       "name": "Second Republic",
       "timespan": {
-        "start": "1848",
+        "start": "12/2/1848",
         "end": "12/2/1851"
       },
       "style": "frenchRepublic"
@@ -3284,6 +3292,14 @@
                   "name": "Declaration of the Rights of Man and of the Citizen",
                   "timespan": {
                     "start": "7/11/1789",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Fètè de la Fèderation",
+                  "timespan": {
+                    "start": "7/14/1790",
                     "duration": "1d"
                   },
                   "style": "victory"
