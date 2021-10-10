@@ -3517,8 +3517,90 @@
           ]
         },
         {
-          "name": "Bonaparte",
+          "name": "French Empire",
           "people": [
+            {
+              "name": "Charles Talleyrand",
+              "style": "frenchNapoleonicEmpire",
+              "timespan": {
+                "start": "2/2/1754",
+                "end": "5/17/1838"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "frenchNationalConstituentAssembly",
+                  "timespan": {
+                    "start": "7/9/1789",
+                    "end": "9/30/1791"
+                  }
+                },
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "7/15/1797",
+                    "end": "7/20/1799"
+                  }
+                },
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "11/22/1799",
+                    "end": "5/9/1809"
+                  }
+                },
+                {
+                  "name": "foreignMinister",
+                  "timespan": {
+                    "start": "5/13/1814",
+                    "end": "3/19/1815"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/9/1815",
+                    "end": "9/26/1815"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "9/6/1830",
+                    "end": "11/13/1834"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Paul Barras",
+              "style": "frenchNapoleonicEmpire",
+              "timespan": {
+                "start": "6/30/1755",
+                "end": "1/29/1829"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "11/10/1795"
+                  }
+                },
+                {
+                  "name": "director",
+                  "timespan": {
+                    "start": "11/26/1798",
+                    "end": "5/26/1799"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
             {
               "name": "Napoleon I",
               "style": "frenchNapoleonicEmpire",
