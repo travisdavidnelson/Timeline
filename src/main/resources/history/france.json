@@ -3156,14 +3156,38 @@
           "name": "Revolution",
           "people": [
             {
-              "name": "Gabriel Riqueti",
+              "name": "Jean Sylvain Bailly",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "9/15/1736",
+                "end": "11/12/1793"
+              },
+              "importance": "minor",
+              "annotation": "",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Abbè Sieyès",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "5/3/1748",
+                "end": "6/20/1836"
+              },
+              "importance": "semimajor",
+              "annotation": "Emmanuel-Joseph Sieyès. Author of What Is The Third Estate?",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Comte de Mirabeau",
               "style": "frenchRepublic",
               "timespan": {
                 "start": "3/9/1749",
                 "end": "4/2/1791"
               },
               "importance": "minor",
-              "annotation": "Count of Mirabeau",
+              "annotation": "Gabriel Riqueti, Count of Mirabeau",
               "titles": [
               ]
             },
@@ -3258,6 +3282,24 @@
         {
           "name": "Jacobins",
           "people": [
+            {
+              "name": "Jean-Paul Marat",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "5/24/1743",
+                "end": "7/13/1793"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/9/1792",
+                    "end": "7/13/1793"
+                  }
+                }
+              ]
+            },
             {
               "name": "Georges Danton",
               "style": "frenchRepublic",
