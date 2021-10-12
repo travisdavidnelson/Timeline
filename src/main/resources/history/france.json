@@ -2911,6 +2911,7 @@
           ]
         },
         {
+          "pageBreak": true,
           "name": "Bourbon",
           "people": [
             {
@@ -3190,6 +3191,7 @@
       ]
     },
     {
+      "pageBreak": false,
       "name": "French Revolution",
       "dynasties": [
         {
@@ -3517,7 +3519,7 @@
           ]
         },
         {
-          "name": "French Empire",
+          "name": "Thermidor",
           "people": [
             {
               "name": "Charles Talleyrand",
@@ -3756,7 +3758,12 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Third Republic",
+      "dynasties": [
         {
           "name": "Third Republic",
           "people": [
@@ -3893,13 +3900,7 @@
               ],
               "foregroundEvents": [
               ]
-            }
-          ]
-        },
-        {
-          "pageBreak": true,
-          "name": "Third Republic",
-          "people": [
+            },
             {
               "name": "Georges Clemenceau",
               "style": "frenchRepublic",
