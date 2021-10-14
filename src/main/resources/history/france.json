@@ -3207,6 +3207,20 @@
               "importance": "minor",
               "annotation": "",
               "titles": [
+                {
+                  "name": "frenchNationalAssembly",
+                  "timespan": {
+                    "start": "5/5/1789",
+                    "end": "7/9/1789"
+                  }
+                },
+                {
+                  "name": "mayor",
+                  "timespan": {
+                    "start": "7/15/1789",
+                    "end": "11/18/1791"
+                  }
+                }
               ]
             },
             {
@@ -3330,6 +3344,13 @@
               },
               "importance": "petty",
               "titles": [
+                {
+                  "name": "interiorMinister",
+                  "timespan": {
+                    "start": "3/23/1792",
+                    "end": "1/21/1793"
+                  }
+                }
               ]
             },
             {

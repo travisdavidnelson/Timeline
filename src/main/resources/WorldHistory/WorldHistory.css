@@ -237,6 +237,7 @@
 .majordomo 			{fill:brown;	fill-opacity:0.6}
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}
+.mayor 			    {fill:blue;		fill-opacity:0.4}
 .memberParliament   {fill:blue;		fill-opacity:0.2}
 .mercenary 			{fill:#C00000;	fill-opacity:0.4}
 .militaryOfficer 	{fill:#e50202;	fill-opacity:0.4}
@@ -246,6 +247,7 @@
 .foreignMinister 	{fill:#4741ea;	fill-opacity:0.5}
 .justiceMinister 	{fill:#077707;	fill-opacity:0.3}
 .financeMinister 	{fill:green;	fill-opacity:0.3}
+.interiorMinister 	{fill:green;	fill-opacity:0.3}
 .monk 				{fill:brown;	fill-opacity:0.5}
 .pharaoh			{fill:purple;	fill-opacity:0.6}
 .pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
