@@ -792,12 +792,20 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Battle of Valmy",
+      "timespan": {
+        "start": "9/20/1792",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Insurrection of 10 August 1792",
       "timespan": {
         "start": "8/10/1792",
         "duration": "1m"
       },
-      "style": "backgroundBattle"
+      "style": "backgroundInsurrection"
     },
     {
       "name": "September Massacres",
@@ -808,12 +816,12 @@
       "style": "backgroundReignOfTerror"
     },
     {
-      "name": "Battle of Valmy",
+      "name": "Insurrection of 31 May - 2 June 1793",
       "timespan": {
-        "start": "9/20/1792",
-        "duration": "1d"
+        "start": "5/31/1793",
+        "end": "6/2/1793"
       },
-      "style": "backgroundBattle"
+      "style": "backgroundInsurrection"
     },
     {
       "name": "Reign of Terror",
