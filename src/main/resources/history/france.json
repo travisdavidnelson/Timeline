@@ -795,7 +795,7 @@
       "name": "Insurrection of 10 August 1792",
       "timespan": {
         "start": "8/10/1792",
-        "duration": "1d"
+        "duration": "1m"
       },
       "style": "backgroundBattle"
     },
@@ -3457,6 +3457,24 @@
                     "end": "10/9/1792"
                   }
                 },
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "4/5/1794"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Camille Desmoulins",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "3/2/1760",
+                "end": "4/5/1794"
+              },
+              "importance": "petty",
+              "titles": [
                 {
                   "name": "frenchNationalConvention",
                   "timespan": {
