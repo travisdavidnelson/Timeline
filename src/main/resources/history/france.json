@@ -3475,6 +3475,31 @@
               ]
             },
             {
+              "name": "Georges Couthon",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "12/22/1755",
+                "end": "7/28/1794"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "frenchNationalConvention",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "7/10/1794"
+                  }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "7/10/1793",
+                    "end": "7/28/1794"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Maximilien Robespierre",
               "style": "frenchRepublic",
               "timespan": {
