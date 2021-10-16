@@ -757,7 +757,7 @@
         "start": "7/14/1789",
         "duration": "1d"
       },
-      "style": "backgroundBattle"
+      "style": "backgroundInsurrection"
     },
     {
       "name": "Fètè de la Fèderation",
@@ -789,7 +789,7 @@
         "start": "7/17/1791",
         "duration": "1d"
       },
-      "style": "backgroundBattle"
+      "style": "backgroundInsurrection"
     },
     {
       "name": "Battle of Valmy",
