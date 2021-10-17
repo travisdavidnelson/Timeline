@@ -832,6 +832,14 @@
       "style": "backgroundReignOfTerror"
     },
     {
+      "name": "Coup of 18 Brumaire",
+      "timespan": {
+        "start": "11/9/1799",
+        "duration": "1d"
+      },
+      "style": "backgroundCoup"
+    },
+    {
       "name": "Battle of Marengo",
       "timespan": {
         "start": "6/14/1800",
