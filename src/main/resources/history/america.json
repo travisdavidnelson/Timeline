@@ -236,12 +236,12 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Conquistadores",
+      "name": "Conquistadors",
       "yStart": 0,
       "pageBreak": false,
       "dynasties": [
         {
-          "name": "Conquistadores",
+          "name": "Conquistadors",
           "backgroundEvents": [
           ],
           "people": [
