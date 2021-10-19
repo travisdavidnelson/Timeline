@@ -7510,7 +7510,7 @@
             {
               "name": "Benjamin Disraeli",
               "style": "conservative",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "12/21/1804",
                 "end": "4/19/1881"
@@ -7535,7 +7535,7 @@
             {
               "name": "William Gladstone",
               "style": "liberal",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "12/29/1809",
                 "end": "5/19/1898"
