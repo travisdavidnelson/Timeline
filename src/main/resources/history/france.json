@@ -3185,6 +3185,25 @@
               ]
             },
             {
+              "name": "Philippe Égalité",
+              "style": "french",
+              "timespan": {
+                "start": "4/13/1747",
+                "end": "11/6/1793"
+              },
+              "importance": "semimajor",
+              "annotation": "Louis Phillipe II, Duke of Orléans",
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "11/18/1785",
+                    "end": "11/6/1793"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Louis Philippe I",
               "style": "french",
               "timespan": {
