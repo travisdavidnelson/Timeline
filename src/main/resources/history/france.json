@@ -667,7 +667,23 @@
       "name": "First French Empire",
       "timespan": {
         "start": "5/18/1804",
-        "end": "11/20/1815"
+        "end": "5/3/1814"
+      },
+      "style": "frenchNapoleonicEmpire"
+    },
+    {
+      "name": "Bourbon Restoration",
+      "timespan": {
+        "start": "5/3/1814",
+        "end": "3/1848"
+      },
+      "style": "frenchMonarchy"
+    },
+    {
+      "name": "Hundred Days",
+      "timespan": {
+        "start": "3/20/1815",
+        "end": "7/8/1815"
       },
       "style": "frenchNapoleonicEmpire"
     },
@@ -723,15 +739,7 @@
       "name": "War of the Sixth Coalition",
       "timespan": {
         "start": "3/3/1813",
-        "end": "5/30/1814"
-      },
-      "style": "backgroundWar"
-    },
-    {
-      "name": "Hundred Days",
-      "timespan": {
-        "start": "3/20/1815",
-        "end": "7/8/1815"
+        "end": "5/3/1814"
       },
       "style": "backgroundWar"
     },
@@ -905,19 +913,11 @@
     },
     {
       "name": "Battle of Waterloo",
-      "style": "defeat",
+      "style": "backgroundBattle",
       "timespan": {
         "start": "6/18/1815",
         "duration": "1d"
       }
-    },
-    {
-      "name": "Bourbon Restoration",
-      "timespan": {
-        "start": "11/20/1815",
-        "end": "3/1848"
-      },
-      "style": "frenchMonarchy"
     },
     {
       "name": "July Revolution",
