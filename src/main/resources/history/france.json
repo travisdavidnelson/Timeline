@@ -3312,6 +3312,20 @@
                     "start": "8/15/1792",
                     "end": "9/19/1797"
                   }
+                },
+                {
+                  "name": "frenchChamberOfDeputies",
+                  "timespan": {
+                    "start": "7/1814",
+                    "end": "1823"
+                  }
+                },
+                {
+                  "name": "frenchChamberOfDeputies",
+                  "timespan": {
+                    "start": "1827",
+                    "end": "1830"
+                  }
                 }
               ],
               "foregroundEvents": [
@@ -3362,6 +3376,22 @@
                     "duration": "1d"
                   },
                   "style": "foregroundReputationalStain"
+                },
+                {
+                  "name": "Belfort Plot",
+                  "timespan": {
+                    "start": "1/1823",
+                    "duration": "1d"
+                  },
+                  "style": "backgroundConspiracy"
+                },
+                {
+                  "name": "Visit of the Marquis de Lafayette to the United States",
+                  "timespan": {
+                    "start": "7/1824",
+                    "end": "9/1825"
+                  },
+                  "style": "triumph"
                 }
               ]
             }
