@@ -13,7 +13,7 @@
     "defaultPersonStyle": "human",
     "pixelsPerYear": 10,
     "heightInPixels": 25000,
-    "xStart": 100,
+    "xStart": 200,
     "yTimelineStart": 100,
     "majorTickHalfLength": 40,
     "tickHalfLength": 30,
