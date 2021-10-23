@@ -7233,7 +7233,7 @@
             {
               "name": "William Wilberforce",
               "style": "tory",
-              "importance": "major",
+              "importance": "semimajor",
               "annotation": "Evengelical emancipator",
               "timespan": {
                 "start": "8/24/1759",
@@ -7252,7 +7252,7 @@
             {
               "name": "Robert Stewert",
               "style": "tory",
-              "importance": "major",
+              "importance": "semimajor",
               "annotation": "Viscount Castlereagh",
               "fate": "Cut his throat amid nervous breakdown amid overwork and threats of homosexual blackmail",
               "timespan": {
