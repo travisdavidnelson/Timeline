@@ -1,7 +1,21 @@
-.year {font-family: serif; font-size: 40px; kerning: 0; stroke:none; fill:#000000;}
-.yearMajor {font-family: serif; font-size: 50px; kerning: 0; stroke:none; fill:#000000;}
-.yearMinor {font-family: serif; font-size: 25px; kerning: 0; stroke:none; fill:#000000;}
+.year {font-family: serif; font-size: 80px; kerning: 0; stroke:none; fill:#000000;}
+.yearMajor {font-family: serif; font-size: 100px; kerning: 0; stroke:none; fill:#000000;}
+.yearMinor {font-family: serif; font-size: 50px; kerning: 0; stroke:none; fill:#000000;}
 .timeline {stroke-width: 1.0; stroke: black}
+
+.human {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
+
+.fate {fill-opacity:0.0}
+
+.channel {font-family: serif; font-size: 800px; fill:#000000; fill-opacity:0.3 }
+.dynasty {font-family: serif; font-size: 100px; fill:#000000; fill-opacity:0.6}
+
+.footprint {fill:white; fill-opacity:1.0; font-family: serif; stroke:none;}
+.transformational {font-family: serif; font-size: 100px; kerning: 2; stroke:none; fill:#000000;}
+.major {font-family: serif; font-size: 74px; kerning: 1; stroke:none; fill:#000000;}
+.semimajor {font-family: serif; font-size: 44px; kerning: 1; stroke:none; fill:#000000;}
+.minor {font-family: serif; font-size: 26px; kerning: 1; stroke:none; fill:#000000;}
+.petty {font-family: serif; font-size: 16px; kerning: 1; stroke:none; fill:#000000;}
 
 .achaemenid {fill:purple;fill-opacity:0.5}
 .achaemenidClient {fill:purple;fill-opacity:0.3}
@@ -178,19 +192,6 @@
 .conservative {fill:#797887; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .labour {fill:#a80a2f; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 .liberal {fill:#db627e; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
-.human {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
-
-.fate {fill-opacity:0.0}
-
-.channel {font-family: serif; font-size: 400px; fill:#000000; fill-opacity:0.3 }
-.dynasty {font-family: serif; font-size: 50px; fill:#000000; fill-opacity:0.6}
-
-.footprint {fill:white; fill-opacity:1.0; font-family: serif; stroke:none;}
-.transformational {font-family: serif; font-size: 50px; kerning: 2; stroke:none; fill:#000000;}
-.major {font-family: serif; font-size: 37px; kerning: 1; stroke:none; fill:#000000;}
-.semimajor {font-family: serif; font-size: 22px; kerning: 1; stroke:none; fill:#000000;}
-.minor {font-family: serif; font-size: 13px; kerning: 1; stroke:none; fill:#000000;}
-.petty {font-family: serif; font-size: 8px; kerning: 1; stroke:none; fill:#000000;}
 
 .aedile 			{fill:blue;		fill-opacity:0.5}
 .activist 			{fill:red;		fill-opacity:0.3}
