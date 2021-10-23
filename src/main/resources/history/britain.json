@@ -5867,7 +5867,7 @@
             {
               "name": "Elizabeth I&#9792;",
               "style": "english",
-              "importance": "major",
+              "importance": "transformational",
               "annotation": "The Virgin Queen",
               "timespan": {
                 "start": "9/7/1533",
@@ -5886,7 +5886,7 @@
             {
               "name": "Francis Drake",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1540",
