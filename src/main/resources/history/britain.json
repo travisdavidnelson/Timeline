@@ -5881,8 +5881,17 @@
                     "end": "3/24/1603"
                   }
                 }
-              ]
-            },
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Spanish Armada",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/1588",
+                    "duration": "2m"
+                  }
+                }
+              ]            },
             {
               "name": "Francis Drake",
               "style": "english",
@@ -5908,6 +5917,14 @@
                   "timespan": {
                     "start": "1577",
                     "end": "1580"
+                  }
+                },
+                {
+                  "name": "Spanish Armada",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/1588",
+                    "duration": "2m"
                   }
                 }
               ]
