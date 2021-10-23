@@ -30,8 +30,8 @@
     "approximateYearPersonAdjustment": 2,
     "approximateYearTitleAdjustment": 2,
     "importanceHeights": {
-      "transformational": 48,
-      "major": 35,
+      "transformational": 45,
+      "major": 33,
       "semimajor": 22,
       "minor": 13,
       "petty": 9
@@ -39,8 +39,8 @@
     "importanceYOffsets": {
       "transformational": 38,
       "major": 28,
-      "semimajor": 17,
-      "minor": 10,
+      "semimajor": 18,
+      "minor": 11,
       "petty": 7
     },
     "importanceXOffsets": {
