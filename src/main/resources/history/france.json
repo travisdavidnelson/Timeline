@@ -2928,6 +2928,60 @@
         },
         {
           "pageBreak": true,
+          "name": "Enlightenment",
+          "people": [
+            {
+              "name": "René Descartes",
+              "style": "french",
+              "timespan": {
+                "start": "3/31/1596",
+                "end": "2/11/1650"
+              },
+              "importance": "major",
+              "annotation": "I think, therefore I am",
+              "titles": [
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Montesquieu",
+              "style": "french",
+              "timespan": {
+                "start": "1/18/1689",
+                "end": "2/10/1755"
+              },
+              "importance": "major",
+              "annotation": "",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Voltaire",
+              "style": "french",
+              "timespan": {
+                "start": "11/21/1694",
+                "end": "5/30/1778"
+              },
+              "importance": "major",
+              "annotation": "",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Jean-Jacques Rouseau",
+              "style": "french",
+              "timespan": {
+                "start": "6/28/1712",
+                "end": "7/2/1778"
+              },
+              "importance": "major",
+              "annotation": "",
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Bourbon",
           "people": [
             {
