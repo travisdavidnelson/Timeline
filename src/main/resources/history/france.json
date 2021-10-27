@@ -3230,10 +3230,24 @@
               "importance": "minor",
               "titles": [
                 {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "7/17/1789",
+                    "end": "4/12/1814"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "start": "9/16/1824",
                     "end": "8/2/1830"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "8/16/1830",
+                    "end": "11/6/1836"
                   }
                 }
               ]
@@ -3267,10 +3281,24 @@
               "importance": "minor",
               "titles": [
                 {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "3/1793",
+                    "end": "1815"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "start": "8/2/1830",
                     "end": "2/24/1848"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "2/24/1848",
+                    "end": "8/26/1850"
                   }
                 }
               ]
