@@ -557,22 +557,6 @@
               ]
             },
             {
-              "name": "Sekhemkhet",
-              "style": "egyptian",
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "pharaoh",
-                  "timespan": {
-                    "startApproximate": true,
-                    "start": "2649 BC",
-                    "endApproximate": true,
-                    "end": "2643 BC"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Sanakht",
               "style": "egyptian",
               "importance": "minor",
@@ -584,6 +568,22 @@
                     "start": "2660 BC",
                     "endApproximate": true,
                     "end": "2640 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sekhemkhet",
+              "style": "egyptian",
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "pharaoh",
+                  "timespan": {
+                    "startApproximate": true,
+                    "start": "2649 BC",
+                    "endApproximate": true,
+                    "end": "2643 BC"
                   }
                 }
               ]
