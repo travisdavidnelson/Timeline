@@ -386,7 +386,7 @@
               ],
               "titles": [
                 {
-                  "name": "prisoner of Cortes",
+                  "name": "prisoner",
                   "style": "prisoner",
                   "timespan": {
                     "start": "8/1519",
@@ -394,8 +394,7 @@
                   }
                 },
                 {
-                  "name": "adelantado of Florida",
-                  "style": "governor",
+                  "name": "governor",
                   "timespan": {
                     "start": "1/1527",
                     "end": "1528"
