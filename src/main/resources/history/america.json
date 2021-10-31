@@ -313,6 +313,97 @@
               ]
             },
             {
+              "name": "Diego Velázquez de Cuéllar",
+              "style": "spanish",
+              "importance": "minor",
+              "timespan": {
+                "start": "1465",
+                "end": "6/12/1524"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Spanish conquest of Cuba",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "1/1511",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1512",
+                    "end": "6/12/1524"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pánfilo de Narváez",
+              "style": "spanish",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1475",
+                "endApproximate": "true",
+                "end": "1528"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Spanish conquest of Jamaica",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "1509",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Spanish conquest of Cuba",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "1511",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Spanish conquest of Mexico",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "2/1519",
+                    "end": "8/1519"
+                  }
+                },
+                {
+                  "name": "Narvaez expedition",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "6/17/1527",
+                    "end": "1528"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "prisoner of Cortes",
+                  "style": "prisoner",
+                  "timespan": {
+                    "start": "8/1519",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "adelantado of Florida",
+                  "style": "governor",
+                  "timespan": {
+                    "start": "1/1527",
+                    "end": "1528"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Hernan Cortes",
               "style": "spanish",
               "importance": "major",
@@ -351,6 +442,44 @@
                   "timespan": {
                     "start": "12/13/1521",
                     "end": "10/12/1524"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cabeza de Vaca",
+              "style": "spanish",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1490",
+                "endApproximate": "true",
+                "end": "1559"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Narvaez expedition",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "6/17/1527",
+                    "end": "7/1528"
+                  }
+                },
+                {
+                  "name": "Narvaez expedition extraction",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/1528",
+                    "end": "1536"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1540",
+                    "end": "1544"
                   }
                 }
               ]
@@ -403,36 +532,6 @@
                   "timespan": {
                     "start": "7/26/1529",
                     "end": "6/26/1541"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Cabeza de Vaca",
-              "style": "spanish",
-              "importance": "semimajor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1490",
-                "endApproximate": "true",
-                "end": "1559"
-              },
-              "foregroundEvents": [
-                {
-                  "name": "Narvaez expedition",
-                  "style": "entrada",
-                  "timespan": {
-                    "start": "11/1528",
-                    "end": "1536"
-                  }
-                }
-              ],
-              "titles": [
-                {
-                  "name": "governor",
-                  "timespan": {
-                    "start": "1540",
-                    "end": "1544"
                   }
                 }
               ]
