@@ -285,9 +285,7 @@ public class TimelineSvgBuilder {
 //				nextPersonYStart = dynastyStart;
 //			}
 		}
-		String id = person.getName()
-				.replaceAll(" ", "_")
-				.replaceAll("&#9792;", "");
+		String id = cleanForId(person.getName());
 		String referencePage = "http://en.wikipedia.org/wiki/"+id;
 		int x = lastPersonX;
 		TimelineInstant start = person.getTimespan().getStart();
@@ -347,6 +345,13 @@ public class TimelineSvgBuilder {
 		lastPersonX = x + width;
 
 		peopleCount++;
+	}
+	private String cleanForId(String input) {
+		return input
+				.replaceAll(" ", "_")
+				.replaceAll("á", "a")
+				.replaceAll("é", "e")
+				.replaceAll("&#9792;", "");
 	}
 	private void getTitleSVG(Person person, TimelineEvent title, String style, StringBuilder stringBuilder) {
 		TimelineInstant startInstant = title.getTimespan().getStart();
