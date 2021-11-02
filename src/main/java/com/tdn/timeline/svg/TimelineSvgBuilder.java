@@ -351,6 +351,8 @@ public class TimelineSvgBuilder {
 				.replaceAll(" ", "_")
 				.replaceAll("á", "a")
 				.replaceAll("é", "e")
+				.replaceAll("è", "e")
+				.replaceAll("É", "E")
 				.replaceAll("&#9792;", "");
 	}
 	private void getTitleSVG(Person person, TimelineEvent title, String style, StringBuilder stringBuilder) {
