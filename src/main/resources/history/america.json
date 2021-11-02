@@ -1417,6 +1417,16 @@
                     "end": "3/4/1817"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Washington",
+                  "timespan": {
+                    "start": "8/24/1814",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                }
               ]
             },
             {
