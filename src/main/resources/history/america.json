@@ -341,6 +341,56 @@
               ]
             },
             {
+              "name": "Juan Ponce de León",
+              "style": "spanish",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1474",
+                "end": "7/1521"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Spanish exploration of Florida",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "1513",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Spanish exploration of Florida",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "2/1521",
+                    "end": "7/1521"
+                  }
+                }
+              ],
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1508",
+                    "end": "1509"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1510",
+                    "end": "1511"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1515",
+                    "end": "1519"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Pánfilo de Narváez",
               "style": "spanish",
               "importance": "semimajor",
