@@ -5,9 +5,17 @@
       "name": "Pre-Columbian",
       "timespan": {
         "start": "5000 BC",
-        "end": "1500"
+        "end": "8/13/1521"
       },
       "style": "neolithic"
+    },
+    {
+      "name": "Spanish Colonial America",
+      "timespan": {
+        "start": "8/13/1521",
+        "end": "1820"
+      },
+      "style": "spanishColonial"
     },
     {
       "name": "Discovery of the New World",
@@ -16,14 +24,6 @@
         "start": "10/12/1492",
         "duration": "1d"
       }
-    },
-    {
-      "name": "Post-Columbian",
-      "timespan": {
-        "start": "1500",
-        "end": "7/4/1776"
-      },
-      "style": "ironAge"
     },
     {
       "name": "Fall of Tenochtitlan",
@@ -243,6 +243,30 @@
         {
           "name": "Conquistadors",
           "backgroundEvents": [
+            {
+              "name": "Spanish Colonial America",
+              "timespan": {
+                "start": "10/12/1492",
+                "end": "1550"
+              },
+              "style": "spanishColonial"
+            },
+            {
+              "name": "Discovery of the New World",
+              "style": "victory",
+              "timespan": {
+                "start": "10/12/1492",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Fall of Tenochtitlan",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/1521",
+                "end": "8/13/1521"
+              }
+            }
           ],
           "people": [
             {
