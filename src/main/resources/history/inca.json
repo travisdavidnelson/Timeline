@@ -32,12 +32,231 @@
                   "timespan": {
                     "startApproximate": "true",
                     "start": "1200",
+                    "endApproximate": "true",
                     "end": "1230"
                   }
                 }
               ]
+            },
+            {
+              "name": "Sinchi Roca",
+              "importance": "semimajor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1230",
+                    "endApproximate": "true",
+                    "end": "1260"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lloque Yupanqui",
+              "importance": "minor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1260",
+                    "endApproximate": "true",
+                    "end": "1290"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mayta Cápac",
+              "importance": "minor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1290",
+                    "endApproximate": "true",
+                    "end": "1320"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cápac Yupanqui",
+              "importance": "minor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1320",
+                    "endApproximate": "true",
+                    "end": "1350"
+                  }
+                }
+              ]
             }
-
+          ]
+        },
+        {
+          "name": "Inca II",
+          "backgroundEvents": [
+            {
+              "name": "Inca",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1350",
+                "endApproximate": "true",
+                "end": "1580"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Inca Roca",
+              "importance": "major",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1350",
+                    "endApproximate": "true",
+                    "end": "1380"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yawar Waqaq",
+              "importance": "semimajor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1380",
+                    "endApproximate": "true",
+                    "end": "1410"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Viracocha Inca",
+              "importance": "minor",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1410",
+                    "end": "1438"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pachacuti",
+              "importance": "major",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1438",
+                    "end": "1472"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Topa Inca Yupanqui",
+              "importance": "semimajor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1441",
+                "endApproximate": "true",
+                "end": "1493"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1471",
+                    "end": "1493"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Huayna Capac",
+              "importance": "major",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1464",
+                "end": "1524"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1493",
+                    "end": "1524"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Huáscar",
+              "importance": "minor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1503",
+                "end": "1532"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1527",
+                    "end": "1532"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Atahualpa",
+              "importance": "minor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1502",
+                "end": "7/26/1533"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1532",
+                    "end": "7/26/1533"
+                  }
+                }
+              ]
+            }
           ]
         }
       ]
