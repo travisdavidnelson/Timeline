@@ -27,6 +27,22 @@
               }
             },
             {
+              "name": "Balboa second entrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/1/1513",
+                "end": "1/19/1514"
+              }
+            },
+            {
+              "name": "Balboa Discovery of the South Sea",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "9/25/1513",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Spanish conquest",
               "style": "backgroundInvasion",
               "timespan": {

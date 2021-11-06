@@ -124,6 +124,22 @@
               }
             },
             {
+              "name": "Balboa second entrada",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "9/1/1513",
+                "end": "1/19/1514"
+              }
+            },
+            {
+              "name": "Balboa Discovery of the South Sea",
+              "style": "victory",
+              "timespan": {
+                "start": "9/25/1513",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Spanish exploration of Florida",
               "style": "backgroundCampaign",
               "timespan": {
