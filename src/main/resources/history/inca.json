@@ -1,0 +1,46 @@
+{
+  "name": "America",
+  "backgroundEvents": [
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Inca",
+      "yStart": 0,
+      "pageBreak": false,
+      "dynasties": [
+        {
+          "name": "Inca I",
+          "backgroundEvents": [
+            {
+              "name": "Inca",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1200",
+                "end": "1572"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Manco Cápac",
+              "importance": "major",
+              "style": "inca",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1200",
+                    "end": "1230"
+                  }
+                }
+              ]
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}
