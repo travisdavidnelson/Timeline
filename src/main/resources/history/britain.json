@@ -874,6 +874,38 @@
       }
     },
     {
+      "name": "Drake raid",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "7/20/1572",
+        "end": "7/1573"
+      }
+    },
+    {
+      "name": "Drake raid",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "9/1578",
+        "end": "7/1579"
+      }
+    },
+    {
+      "name": "Drake raid",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "10/1585",
+        "end": "7/1586"
+      }
+    },
+    {
+      "name": "Singeing the King of Spain's Beard",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "4/12/1587",
+        "end": "7/6/1587"
+      }
+    },
+    {
       "name": "Spanish Armada",
       "style": "backgroundBattle",
       "timespan": {
@@ -882,6 +914,13 @@
       }
     },
     {
+      "name": "English Armada",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/4/1589",
+        "duration": "2m"
+      }
+    },    {
       "name": "First Anglo-Dutch War",
       "style": "backgroundWar",
       "timespan": {
