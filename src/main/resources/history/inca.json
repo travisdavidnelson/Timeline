@@ -106,6 +106,7 @@
         },
         {
           "name": "Inca II",
+          "pageBreak": true,
           "backgroundEvents": [
             {
               "name": "Inca",
@@ -253,6 +254,137 @@
                   "timespan": {
                     "start": "1532",
                     "end": "7/26/1533"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Inca III",
+          "pageBreak": true,
+          "backgroundEvents": [
+            {
+              "name": "Inca",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1350",
+                "endApproximate": "true",
+                "end": "1580"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Túpac Huallpa",
+              "importance": "petty",
+              "style": "inca",
+              "timespan": {
+                "start": "1510",
+                "end": "10/1533"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "7/1533",
+                    "end": "10/1533"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Manco Inca Yupanqui",
+              "importance": "minor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1515",
+                "endApproximate": "true",
+                "end": "1544"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "10/1533",
+                    "endApproximate": "true",
+                    "end": "1544"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Paullu Inca",
+              "importance": "minor",
+              "style": "inca",
+              "timespan": {
+                "start": "1518",
+                "end": "1549"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1537",
+                    "end": "1549"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sayri Túpac",
+              "importance": "semimajor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1535",
+                "end": "1561"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1545",
+                    "end": "1560"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Titu Cusi",
+              "importance": "minor",
+              "style": "inca",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1529",
+                "end": "1571"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1563",
+                    "end": "1571"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Túpac Amaru\n",
+              "importance": "semimajor",
+              "style": "inca",
+              "timespan": {
+                "start": "1545",
+                "end": "9/24/1572"
+              },
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "1571",
+                    "end": "9/24/1572"
                   }
                 }
               ]
