@@ -181,7 +181,7 @@
             },
             {
               "name": "Conquest of Peru",
-              "style": "victory",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "11/1533",
                 "end": "11/15/1533"
