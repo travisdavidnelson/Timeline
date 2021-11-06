@@ -106,6 +106,7 @@
 .backgroundBattle {fill:red; fill-opacity:0.7}
 .backgroundBattleVictory {fill:red; fill-opacity:0.8}
 .backgroundBattleDefeat {fill:red; fill-opacity:0.9}
+.backgroundCampaign {fill:red; fill-opacity:0.5}
 .backgroundCivilWar {fill:#C00000; fill-opacity:0.5}
 .backgroundCivilWarRegional {fill:#C00000; fill-opacity:0.3}
 .backgroundColdWar {fill:red; fill-opacity:0.1}
