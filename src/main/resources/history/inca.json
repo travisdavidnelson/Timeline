@@ -17,8 +17,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "1200",
-                "endApproximate": "true",
-                "end": "1350"
+                "end": "1370"
               }
             }
           ],
@@ -148,6 +147,15 @@
               "timespan": {
                 "start": "8/1521",
                 "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "Columbian Exchange",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "11/1524",
+                "endApproximate": "true",
+                "duration": "20y"
               }
             },
             {
@@ -342,11 +350,20 @@
           "backgroundEvents": [
             {
               "name": "Inca",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "start": "1524",
                 "endApproximate": "true",
                 "end": "1580"
+              }
+            },
+            {
+              "name": "Columbian Exchange",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "11/1524",
+                "endApproximate": "true",
+                "duration": "20y"
               }
             },
             {
@@ -390,6 +407,14 @@
               }
             },
             {
+              "name": "Neo-Inca",
+              "style": "incaMinor",
+              "timespan": {
+                "start": "1537",
+                "end": "1572"
+              }
+            },
+            {
               "name": "Siege of Cusco",
               "style": "backgroundRebellion",
               "timespan": {
@@ -410,7 +435,7 @@
             {
               "name": "Túpac Huallpa",
               "importance": "petty",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "start": "1510",
                 "end": "10/1533"
@@ -428,7 +453,7 @@
             {
               "name": "Manco Inca Yupanqui",
               "importance": "minor",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1515",
@@ -449,7 +474,7 @@
             {
               "name": "Paullu Inca",
               "importance": "minor",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "start": "1518",
                 "end": "1549"
@@ -467,7 +492,7 @@
             {
               "name": "Sayri Túpac",
               "importance": "minor",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1535",
@@ -486,7 +511,7 @@
             {
               "name": "Titu Cusi",
               "importance": "petty",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1529",
@@ -505,7 +530,7 @@
             {
               "name": "Túpac Amaru",
               "importance": "minor",
-              "style": "inca",
+              "style": "incaMinor",
               "timespan": {
                 "start": "1545",
                 "end": "9/24/1572"

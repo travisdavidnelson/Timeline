@@ -43,6 +43,23 @@
               }
             },
             {
+              "name": "Spanish Empire",
+              "style": "spanish",
+              "timespan": {
+                "start": "1519",
+                "end": "1815"
+              }
+            },
+            {
+              "name": "Columbian Exchange",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "1519",
+                "endApproximate": "true",
+                "duration": "20y"
+              }
+            },
+            {
               "name": "Spanish conquest",
               "style": "backgroundInvasion",
               "timespan": {

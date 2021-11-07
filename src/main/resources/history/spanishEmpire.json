@@ -5,17 +5,29 @@
       "name": "Pre-Columbian",
       "timespan": {
         "start": "5000 BC",
-        "end": "8/13/1521"
+        "endApproximate": "true",
+        "end": "1600"
       },
       "style": "neolithic"
     },
     {
       "name": "Spanish Colonial America",
       "timespan": {
-        "start": "8/13/1521",
+        "startApproximate": "true",
+        "start": "1530",
         "end": "1820"
       },
       "style": "spanishColonial"
+    },
+    {
+      "name": "Columbian Exchange",
+      "style": "backgroundPlagueMajor",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "6/17/1527",
+        "endApproximate": "true",
+        "duration": "20y"
+      }
     },
     {
       "name": "Discovery of the New World",
@@ -106,6 +118,15 @@
                 "end": "1550"
               },
               "style": "spanishColonial"
+            },
+            {
+              "name": "Columbian Exchange",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "10/12/1492",
+                "endApproximate": "true",
+                "duration": "20y"
+              }
             },
             {
               "name": "First voyage to the New World",
