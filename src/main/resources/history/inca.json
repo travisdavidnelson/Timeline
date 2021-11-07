@@ -17,7 +17,8 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "1200",
-                "end": "1572"
+                "endApproximate": "true",
+                "end": "1350"
               }
             }
           ],
@@ -465,7 +466,7 @@
             },
             {
               "name": "Sayri Túpac",
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "inca",
               "timespan": {
                 "startApproximate": "true",
@@ -484,7 +485,7 @@
             },
             {
               "name": "Titu Cusi",
-              "importance": "minor",
+              "importance": "petty",
               "style": "inca",
               "timespan": {
                 "startApproximate": "true",
@@ -502,8 +503,8 @@
               ]
             },
             {
-              "name": "Túpac Amaru\n",
-              "importance": "semimajor",
+              "name": "Túpac Amaru",
+              "importance": "minor",
               "style": "inca",
               "timespan": {
                 "start": "1545",
