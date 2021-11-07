@@ -387,6 +387,22 @@
                 "start": "11/1533",
                 "end": "11/15/1533"
               }
+            },
+            {
+              "name": "Siege of Cusco",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "5/6/1536",
+                "end": "3/1537"
+              }
+            },
+            {
+              "name": "Battle of Abancay",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/12/1537",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
