@@ -459,7 +459,7 @@ public class TimelineSvgBuilder {
 				if (year % halfMajorTicklineYears == 0 && year % majorTickineYears != 0) {
 					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
 					String yearString = getYearString(year);
-					int textXDiff = 10 * yearString.length();
+					int textXDiff = 15 * yearString.length();
 					int topYearOffset = 2 * timeline.getConfig().getTopYearOffset();
 					String yearClass = "yearMinor";
 					for (int i = 0; i < timelineYPositions.size(); i++) {
