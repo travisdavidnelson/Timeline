@@ -44,10 +44,10 @@
             },
             {
               "name": "Spanish Empire",
-              "style": "spanish",
+              "style": "spanishColonial",
               "timespan": {
                 "start": "1519",
-                "end": "1815"
+                "end": "1560"
               }
             },
             {
