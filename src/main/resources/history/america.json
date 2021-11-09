@@ -50,22 +50,6 @@
       "style": "backgroundCivilWar"
     },
     {
-      "name": "Lewis and Clark Expedition",
-      "timespan": {
-        "start": "8/31/1803",
-        "end": "9/25/1806"
-      },
-      "style": "expedition"
-    },
-    {
-      "name": "Pike Expedition",
-      "timespan": {
-        "start": "7/15/1806",
-        "end": "7/1/1807"
-      },
-      "style": "expedition"
-    },
-    {
       "name": "War of 1812",
       "timespan": {
         "start": "6/18/1812",
@@ -1164,6 +1148,22 @@
         {
           "name": "Expansionists",
           "backgroundEvents": [
+            {
+              "name": "Lewis and Clark Expedition",
+              "timespan": {
+                "start": "8/31/1803",
+                "end": "9/25/1806"
+              },
+              "style": "expedition"
+            },
+            {
+              "name": "Pike Expedition",
+              "timespan": {
+                "start": "7/15/1806",
+                "end": "7/1/1807"
+              },
+              "style": "expedition"
+            },
             {
               "name": "War of 1812",
               "timespan": {
@@ -2673,6 +2673,24 @@
         },
         {
           "name": "Explorers",
+          "backgroundEvents": [
+            {
+              "name": "Lewis and Clark Expedition",
+              "timespan": {
+                "start": "8/31/1803",
+                "end": "9/25/1806"
+              },
+              "style": "expedition"
+            },
+            {
+              "name": "Pike Expedition",
+              "timespan": {
+                "start": "7/15/1806",
+                "end": "7/1/1807"
+              },
+              "style": "expedition"
+            }
+          ],
           "people": [
             {
               "name": "William Clark",
