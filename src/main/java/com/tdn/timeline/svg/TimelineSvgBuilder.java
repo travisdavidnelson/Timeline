@@ -127,7 +127,7 @@ public class TimelineSvgBuilder {
 								if (!series.isPageBreak()) {
 									dynastyStart = nextPersonYStart;
 								} else {
-									dynastyStart = channelStart;
+									dynastyStart = channelStart + timeline.getConfig().getDynastyBackgroundTitleOffset();
 								}
 							}
 							getDynastyGroupSVG(series, foregroundStringBuilder, backgroundStringBuilderMin);
@@ -459,16 +459,20 @@ public class TimelineSvgBuilder {
 				if (year % halfMajorTicklineYears == 0 && year % majorTickineYears != 0) {
 					TimelineInstant yearInstant = TimeUtilities.getInstant(year);
 					String yearString = getYearString(year);
-					int textXDiff = 15 * yearString.length();
+					int textXDiff = 13 * yearString.length();
 					int topYearOffset = 2 * timeline.getConfig().getTopYearOffset();
+					int bottomYearOffset = 4 * timeline.getConfig().getTopYearOffset();
 					String yearClass = "yearMinor";
 					for (int i = 0; i < timelineYPositions.size(); i++) {
 						Integer yPosition = timelineYPositions.get(i);
 						boolean isFirst = i == 0;
 						boolean isLast = i == timelineYPositions.size() - 1;
 						addTickLineForYear(yearInstant, yPosition.intValue(), isFirst, isLast, stringBuilder);
-						if (!isFirst && !isLast) {
+						if (!isFirst) {
 							addTextSVG(yearString, instantToX(yearInstant) - textXDiff, yPosition - topYearOffset, yearClass, stringBuilder);
+						}
+						if (!isLast) {
+							addTextSVG(yearString, instantToX(yearInstant) - textXDiff, yPosition + bottomYearOffset, yearClass, stringBuilder);
 						}
 					}
 				}
