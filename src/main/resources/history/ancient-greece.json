@@ -172,12 +172,52 @@
       "style": "backgroundMajorRebellion"
     },
     {
+      "name": "Caesar's civil war",
+      "timespan": {
+        "start": "1/10/49 BC",
+        "end": "3/1/45 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Liberators' civil war",
+      "timespan": {
+        "start": "43 BC",
+        "end": "42 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Final War of the Roman Republic",
+      "timespan": {
+        "start": "32 BC",
+        "end": "30 BC"
+      },
+      "style": "backgroundCivilWar"
+    },
+    {
       "name": "Roman Principate",
       "timespan": {
         "start": "30 BC",
         "end": "235"
       },
       "style": "romanPrincipate"
+    },
+    {
+      "name": "Battle of Teutoburg Forest",
+      "timespan": {
+        "start": "9/1/9",
+        "duration": "1m"
+      },
+      "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Mutiny",
+      "timespan": {
+        "start": "9/14",
+        "duration": "2m"
+      },
+      "style": "backgroundMutiny"
     },
     {
       "name": "Crisis of the Third Century",

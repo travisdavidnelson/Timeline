@@ -651,6 +651,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Mutiny",
+      "timespan": {
+        "start": "9/14",
+        "duration": "2m"
+      },
+      "style": "backgroundMutiny"
+    },
+    {
       "name": "Eruption of Mt Vesuvius in AD 79",
       "timespan": {
         "start": "8/24/79",
@@ -3496,6 +3504,14 @@
           "name": "Julio-Claudians",
           "backgroundEvents": [
             {
+              "name": "Mutiny",
+              "timespan": {
+                "start": "9/14",
+                "duration": "2m"
+              },
+              "style": "backgroundMutiny"
+            },
+            {
               "name": "Tiberian Reign of Terror",
               "timespan": {
                 "start": "10/18/31",
@@ -3567,6 +3583,24 @@
                     "start": "27 BC",
                     "end": "8/19/14"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Actium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/2/31 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Teutoburg Forest",
+                  "timespan": {
+                    "start": "9/1/9",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
                 }
               ]
             },
