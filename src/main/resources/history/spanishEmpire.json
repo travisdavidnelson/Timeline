@@ -78,6 +78,14 @@
       }
     },
     {
+      "name": "Anglo-Spanish War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "1585",
+        "end": "1604"
+      }
+    },
+    {
       "name": "Drake raid",
       "style": "backgroundRaid",
       "timespan": {
@@ -107,6 +115,62 @@
       "timespan": {
         "start": "5/4/1589",
         "duration": "2m"
+      }
+    },
+    {
+      "name": "Battle of San Juan (1595)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "11/22/1595",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Islands Voyage",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/1597",
+        "end": "8/1597"
+      }
+    },
+    {
+      "name": "Battle of San Juan (1598)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/15/1598",
+        "end": "6/30/1598"
+      }
+    },
+    {
+      "name": "Raid on Tabasco (1599)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "11/2/1599",
+        "end": "11/15/1599"
+      }
+    },
+    {
+      "name": "Capture of Portobello (1601)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "1/17/1601",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Puerto Caballos (1603)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "2/17/1603",
+        "duration": "2w"
+      }
+    },
+    {
+      "name": "Raid on Santiago de Cuba (1603)",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "5/12/1603",
+        "duration": "1d"
       }
     }
   ],
