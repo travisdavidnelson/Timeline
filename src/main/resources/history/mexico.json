@@ -47,7 +47,7 @@
               "style": "spanishColonial",
               "timespan": {
                 "start": "1519",
-                "end": "1560"
+                "end": "1550"
               }
             },
             {
@@ -81,6 +81,46 @@
               "timespan": {
                 "start": "8/1521",
                 "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "Narvaez expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "6/17/1527",
+                "end": "1529"
+              }
+            },
+            {
+              "name": "Conquest of Peru",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "11/1533",
+                "end": "11/15/1533"
+              }
+            },
+            {
+              "name": "Soto Expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "5/1539",
+                "end": "5/21/1542"
+              }
+            },
+            {
+              "name": "Coronado Expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "2/23/1540",
+                "end": "3/1542"
+              }
+            },
+            {
+              "name": "Battle of San Juan de Ulúa",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/24/1568",
+                "duration": "1d"
               }
             }
           ],

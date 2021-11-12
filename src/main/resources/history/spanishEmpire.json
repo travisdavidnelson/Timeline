@@ -23,8 +23,7 @@
       "name": "Columbian Exchange",
       "style": "backgroundPlagueMajor",
       "timespan": {
-        "startApproximate": "true",
-        "start": "6/17/1527",
+        "start": "8/1527",
         "endApproximate": "true",
         "duration": "20y"
       }
@@ -46,11 +45,35 @@
       }
     },
     {
+      "name": "Narvaez expedition",
+      "style": "backgroundCampaign",
+      "timespan": {
+        "start": "6/17/1527",
+        "end": "1529"
+      }
+    },
+    {
       "name": "Conquest of Peru",
       "style": "backgroundNationalCalamity",
       "timespan": {
         "start": "11/1533",
         "end": "11/15/1533"
+      }
+    },
+    {
+      "name": "Soto Expedition",
+      "style": "backgroundCampaign",
+      "timespan": {
+        "start": "5/1539",
+        "end": "5/21/1542"
+      }
+    },
+    {
+      "name": "Coronado Expedition",
+      "style": "backgroundCampaign",
+      "timespan": {
+        "start": "2/23/1540",
+        "end": "3/1542"
       }
     },
     {
@@ -345,11 +368,19 @@
               }
             },
             {
-              "name": "Exploration of America",
+              "name": "Soto Expedition",
               "style": "backgroundCampaign",
               "timespan": {
                 "start": "5/1539",
                 "end": "5/21/1542"
+              }
+            },
+            {
+              "name": "Coronado Expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "2/23/1540",
+                "end": "3/1542"
               }
             }
           ],
@@ -797,7 +828,7 @@
                   }
                 },
                 {
-                  "name": "Exploration of America",
+                  "name": "Soto Entrada",
                   "style": "entrada",
                   "timespan": {
                     "start": "5/1539",
@@ -807,8 +838,29 @@
               ],
               "titles": [
               ]
-            }
-          ]
+            },
+            {
+              "name": "Francisco Vázquez de Coronado",
+              "style": "spanish",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1510",
+                "end": "9/22/1544"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Coronado Expedition",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "2/23/1540",
+                    "end": "3/1542"
+                  }
+                }
+              ],
+              "titles": [
+              ]
+            }          ]
         }
       ]
     }
