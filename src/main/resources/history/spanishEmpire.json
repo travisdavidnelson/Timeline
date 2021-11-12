@@ -54,6 +54,14 @@
       }
     },
     {
+      "name": "Battle of San Juan de Ulúa",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/24/1568",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Drake raid",
       "style": "backgroundRaid",
       "timespan": {
