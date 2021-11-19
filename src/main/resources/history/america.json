@@ -176,6 +176,30 @@
         "end": ""
       },
       "style": "backgroundPlagueMinor"
+    },
+    {
+      "name": "George Floyd riots",
+      "timespan": {
+        "start": "5/26/2020",
+        "duration": "1m"
+      },
+      "style": "backgroundRiot"
+    },
+    {
+      "name": "Kenosha riots",
+      "timespan": {
+        "start": "8/23/2020",
+        "end": "8/26/2020"
+      },
+      "style": "backgroundRiot"
+    },
+    {
+      "name": "Capitol Riot",
+      "timespan": {
+        "start": "1/6/2021",
+        "duration": "1d"
+      },
+      "style": "backgroundRiot"
     }
   ],
   "dynastyGroups": [
@@ -4205,6 +4229,22 @@
                 "duration": "2d"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "George Floyd riots",
+              "timespan": {
+                "start": "5/26/2020",
+                "duration": "1m"
+              },
+              "style": "backgroundRiot"
+            },
+            {
+              "name": "Kenosha riots",
+              "timespan": {
+                "start": "8/23/2020",
+                "end": "8/26/2020"
+              },
+              "style": "backgroundRiot"
             },
             {
               "name": "Capitol Riot",
