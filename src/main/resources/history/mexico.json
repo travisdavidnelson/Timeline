@@ -46,7 +46,7 @@
               "name": "Spanish Empire",
               "style": "spanishColonial",
               "timespan": {
-                "start": "1519",
+                "start": "8/1521",
                 "end": "1550"
               }
             },
@@ -54,7 +54,7 @@
               "name": "Columbian Exchange",
               "style": "backgroundPlagueMajor",
               "timespan": {
-                "start": "1519",
+                "start": "6/1519",
                 "endApproximate": "true",
                 "duration": "20y"
               }
