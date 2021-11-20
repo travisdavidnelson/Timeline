@@ -4223,6 +4223,14 @@
               "style": "backgroundForeignWarMinor"
             },
             {
+              "name": "Killing of Osama Bin Laden",
+              "style": "victory",
+              "timespan": {
+                "start": "5/2/2011",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "2012 Benghazi attack",
               "timespan": {
                 "start": "9/11/2012",
