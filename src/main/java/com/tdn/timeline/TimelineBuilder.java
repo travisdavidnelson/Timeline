@@ -28,7 +28,8 @@ public class TimelineBuilder {
 	}
 
 	public Timeline generateTimeline() {
-		System.out.println("Generating timeline " + id + " from " + inputFile);
+		long startTime = System.currentTimeMillis();
+		System.out.println("Generating timeline {} from {}" + id + " from " + inputFile);
 		Timeline timeline = null;
 		try {
 			ModelBuilder<Timeline> modelBuilder = new ModelBuilder<>();
@@ -75,6 +76,7 @@ public class TimelineBuilder {
 		catch (Exception e) {
 			e.printStackTrace();
 		}
+		System.out.println("Time elapsed: " + (System.currentTimeMillis() - startTime)/1000.0 + " seconds");
 		return timeline;
 	}
 
