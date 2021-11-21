@@ -195,6 +195,22 @@
         "start": "5/12/1603",
         "duration": "1d"
       }
+    },
+    {
+      "name": "War of Jenkins' Ear",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/22/1739",
+        "end": "10/18/1748"
+      }
+    },
+    {
+      "name": "Battle of Porto Bello 1739",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/20/1739",
+        "duration": "1d"
+      }
     }
   ],
   "dynastyGroups": [
