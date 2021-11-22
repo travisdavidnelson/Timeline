@@ -16,6 +16,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "60",
+                "endApproximate": "true",
                 "end": "880"
               }
             },
@@ -25,6 +26,14 @@
               "timespan": {
                 "start": "1/14/378",
                 "duration": "1d"
+              }
+            },
+            {
+              "name": "Calakmul War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "6/695",
+                "duration": "1m"
               }
             }
           ],
@@ -251,6 +260,280 @@
                     "start": "4/19/511",
                     "endApproximate": "true",
                     "end": "527"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Bird Claw",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "527",
+                    "end": "537"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Wak Chan Kʼawiil",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "Double Bird",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1/508",
+                "endApproximate": "true",
+                "end": "562"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/27/537",
+                    "endApproximate": "true",
+                    "end": "562"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Animal Skull",
+              "importance": "petty",
+              "style": "maya",
+              "annotation": "Lizard Head",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "562",
+                    "endApproximate": "true",
+                    "end": "593"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "23rd Ruler",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "593",
+                    "endApproximate": "true",
+                    "end": "635"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "24th Ruler",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "635",
+                    "endApproximate": "true",
+                    "end": "645"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Nuun Ujol Chaak",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "650",
+                    "endApproximate": "true",
+                    "end": "679"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Jasaw Chan Kʼawiil I",
+              "importance": "semimajor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/3/682",
+                    "end": "734"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Calakmul",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/695",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yikʼin Chan Kʼawiil",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/8/734",
+                    "endApproximate": "true",
+                    "end": "755"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Calakmul",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/736",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "28th Ruler",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "766",
+                    "endApproximate": "true",
+                    "end": "768"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Yax Nuun Ahiin II",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/25/768",
+                    "endApproximate": "true",
+                    "end": "794"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Nuun Ujol Kʼinich",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "794",
+                    "endApproximate": "true",
+                    "end": "810"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Chitham II",
+              "importance": "petty",
+              "style": "maya",
+              "annotation": "Dark Sun",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "810",
+                    "endApproximate": "true",
+                    "end": "820"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Jewel Kʼawiil",
+              "importance": "petty",
+              "style": "maya",
+              "annotation": "Dark Sun",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "820",
+                    "endApproximate": "true",
+                    "end": "849"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Jasaw Chan Kʼawiil II",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "Stela 11 Ruler",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "850",
+                    "endApproximate": "true",
+                    "end": "870"
                   }
                 }
               ],
