@@ -1,10 +1,314 @@
 {
-  "name": "America",
+  "name": "Mexico",
   "backgroundEvents": [
   ],
   "dynastyGroups": [
     {
+      "name": "Maya",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Maya Copan",
+          "backgroundEvents": [
+            {
+              "name": "Copan",
+              "style": "maya",
+              "timespan": {
+                "start": "426",
+                "endApproximate": "true",
+                "end": "830"
+              }
+            },
+            {
+              "name": "Capture of Uaxaclajuun by Kʼakʼ Tiliw Chan Yopaat",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "5/3/738",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "K'inich Yax K'uk Mo'",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/9/427",
+                    "endApproximate": "true",
+                    "end": "437"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "K'inich Yax K'uk Mo'",
+              "importance": "semimajor",
+              "style": "maya",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "410",
+                "end": "470"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "435",
+                    "end": "470"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ruler 3",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "455",
+                    "end": "465"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ku Ix",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "465",
+                    "end": "476"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ruler 5",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "476",
+                    "end": "485"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Muyal Jol",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "485",
+                    "end": "504"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "B'alam Nehn",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "504",
+                    "end": "544"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Wil Ohl K'inich",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "544",
+                    "end": "551"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sak-Lu",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "551",
+                    "end": "553"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Tzi-B'alam",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/26/553",
+                    "end": "10/26/578"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "K'ak Chan Yopaat",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/19/578",
+                    "end": "2/5/628"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chan Imix K'awiil",
+              "importance": "semimajor",
+              "style": "maya",
+              "timespan": {
+                "start": "11/14/604",
+                "end": "6/18/695"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/8/628",
+                    "end": "6/18/695"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Uaxaclajuun Ubʼaah Kʼawiil",
+              "importance": "semimajor",
+              "style": "maya",
+              "timespan": {
+                "start": "675",
+                "end": "5/3/738"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/9/695",
+                    "end": "5/3/738"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture by Kʼakʼ Tiliw Chan Yopaat",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/3/738",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼakʼ Joplaj Chan Kʼawiil",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/11/738",
+                    "end": "2/4/749"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼakʼ Yipyaj Chan Kʼawiil",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/18/749",
+                    "end": "1/763"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yax Pasaj Chan Yopaat",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "754",
+                "endApproximate": "true",
+                "end": "810"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/2/763",
+                    "endApproximate": "true",
+                    "end": "810"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ukit Took",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/6/822",
+                    "endApproximate": "true",
+                    "end": "830"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Aztec",
+      "pageBreak": true,
       "yStart": 0,
       "dynasties": [
         {
