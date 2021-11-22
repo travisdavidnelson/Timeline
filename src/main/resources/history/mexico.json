@@ -8,6 +8,258 @@
       "yStart": 0,
       "dynasties": [
         {
+          "name": "Maya Tikal",
+          "backgroundEvents": [
+            {
+              "name": "Tikal",
+              "style": "maya",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "60",
+                "end": "880"
+              }
+            },
+            {
+              "name": "Capture of Chak Tok Ichʼaak I by Siyaj Kʼakʼ",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "1/14/378",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Yax Ehb Xook",
+              "importance": "semimajor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "80",
+                    "endApproximate": "true",
+                    "end": "100"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Balam Ajaw",
+              "annotation": "Foliated Jaguar",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "190",
+                    "endApproximate": "true",
+                    "end": "210"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Animal Headdress",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "280",
+                    "endApproximate": "true",
+                    "end": "300"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sihyaj Chan Kʼawiil I",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "300",
+                    "endApproximate": "true",
+                    "end": "315"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Unen Bahlam&#9792;",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "312",
+                    "endApproximate": "true",
+                    "end": "322"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼinich Muwaan Jol",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "335",
+                    "end": "359"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chak Tok Ichʼaak I",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "359",
+                    "end": "1/14/378"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture by Siyaj Kʼakʼ",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "1/14/378",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Yax Nuun Ahiin I",
+              "importance": "semimajor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/12/379",
+                    "end": "6/17/404"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Sihyaj Chan Kʼawiil II",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/26/411",
+                    "end": "2/3/456"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Kʼan Chitam",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/8/458",
+                    "end": "9/26/485"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Chak Tok Ichʼaak II",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/26/485",
+                    "end": "7/24/508"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Lady of Tikal&#9792;",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "start": "9/1/504",
+                "endApproximate": "true",
+                "end": "534"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "4/19/511",
+                    "endApproximate": "true",
+                    "end": "534"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Kaloomteʼ Bahlam",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/19/511",
+                    "endApproximate": "true",
+                    "end": "527"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Maya Copan",
           "backgroundEvents": [
             {
@@ -298,6 +550,85 @@
                     "start": "2/6/822",
                     "endApproximate": "true",
                     "end": "830"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maya Quiriguá",
+          "backgroundEvents": [
+            {
+              "name": "Quirigua",
+              "style": "maya",
+              "timespan": {
+                "start": "426",
+                "endApproximate": "true",
+                "end": "810"
+              }
+            },
+            {
+              "name": "Capture of Uaxaclajuun by Kʼakʼ Tiliw Chan Yopaat",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/3/738",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Kʼakʼ Tiliw Chan Yopaat",
+              "importance": "semimajor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "724",
+                    "end": "786"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture by Kʼakʼ Tiliw Chan Yopaat",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/3/738",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sky Xul",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "785",
+                    "endApproximate": "true",
+                    "end": "795"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jade Sky",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "800",
+                    "endApproximate": "true",
+                    "end": "810"
                   }
                 }
               ]
