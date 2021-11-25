@@ -4,6 +4,91 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Teotihuacan",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Teotihuacan",
+          "backgroundEvents": [
+            {
+              "name": "Teotihuacan",
+              "style": "mexica",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "300",
+                "endApproximate": "true",
+                "end": "800"
+              }
+            },
+            {
+              "name": "Victory over Tikal",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1/6/378",
+                "duration": "1m"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Spearthrower Owl",
+              "importance": "major",
+              "style": "mexica",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "5/4/374",
+                    "endApproximate": "true",
+                    "end": "410"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Tikal",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1/6/378",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Siyaj K'ak",
+              "importance": "semimajor",
+              "style": "mexica",
+              "annotation": "Fire is Born aka Smoking Frog",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "375",
+                    "endApproximate": "true",
+                    "end": "390"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Tikal",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1/6/378",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pageBreak": false,
       "name": "Maya",
       "yStart": 0,
       "dynasties": [
