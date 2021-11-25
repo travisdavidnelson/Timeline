@@ -106,7 +106,7 @@
               "style": "maya",
               "timespan": {
                 "startApproximate": "true",
-                "start": "60",
+                "start": "1",
                 "endApproximate": "true",
                 "end": "880"
               }
@@ -657,7 +657,8 @@
               "name": "Copan",
               "style": "maya",
               "timespan": {
-                "start": "426",
+                "startApproximate": "true",
+                "start": "300",
                 "endApproximate": "true",
                 "end": "830"
               }
@@ -954,7 +955,8 @@
               "name": "Quirigua",
               "style": "maya",
               "timespan": {
-                "start": "426",
+                "startApproximate": "true",
+                "start": "600",
                 "endApproximate": "true",
                 "end": "810"
               }
