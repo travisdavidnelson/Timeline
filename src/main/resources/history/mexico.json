@@ -21,6 +21,14 @@
               }
             },
             {
+              "name": "War with Teotihuacan",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1/378",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Victory over Tikal",
               "style": "backgroundBattle",
               "timespan": {
@@ -38,10 +46,8 @@
                 {
                   "name": "king",
                   "timespan": {
-                    "startApproximate": "true",
                     "start": "5/4/374",
-                    "endApproximate": "true",
-                    "end": "410"
+                    "end": "439"
                   }
                 }
               ],
@@ -103,6 +109,23 @@
                 "start": "60",
                 "endApproximate": "true",
                 "end": "880"
+              }
+            },
+            {
+              "name": "Teotihuacan",
+              "style": "mexicaProxy",
+              "timespan": {
+                "start": "1/378",
+                "endApproximate": "true",
+                "duration": "126y"
+              }
+            },
+            {
+              "name": "War with Teotihuacan",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1/378",
+                "duration": "1m"
               }
             },
             {
