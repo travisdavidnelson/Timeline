@@ -24,7 +24,6 @@
 .angloSaxon {fill:red;fill-opacity:0.3}
 .armenia {fill:red;fill-opacity:0.3}
 .assyria {fill:#c90814;fill-opacity:0.4}
-.aztec {fill:#e5c019; fill-opacity:0.6}
 .neoassyria {fill:#9d0711;fill-opacity:0.6}
 .babylon {fill:green;fill-opacity:0.4}
 .babylonWeak {fill:green;fill-opacity:0.2}
@@ -74,9 +73,6 @@
 .lagash {fill:blue;fill-opacity:0.4}
 .macedon {fill:#577ce0;fill-opacity:0.5}
 .mari {fill:green;fill-opacity:0.3}
-.maya {fill:#a38f37; fill-opacity:0.6}
-.mexica {fill:#f7ca04; fill-opacity:0.7}
-.mexicaProxy {fill:#f7ca04; fill-opacity:0.6}
 .mitanni {fill:green;fill-opacity:0.3}
 .mycenae {fill:blue;fill-opacity:0.2}
 .norman {fill:blue;fill-opacity:0.2}
@@ -101,6 +97,14 @@
 .uruk {fill:blue;fill-opacity:0.4}
 .viking {fill:#2E8B57;fill-opacity:0.4}
 .welsh {fill:purple;fill-opacity:0.1}
+
+.aztec {fill:#e5c019; fill-opacity:0.6}
+.maya {fill:#a38f37; fill-opacity:0.6}
+.mexica {fill:#f7ca04; fill-opacity:0.7}
+.mexicaProxy {fill:#f7ca04; fill-opacity:0.6}
+.toltec {fill:#02fce3; fill-opacity:0.8}
+.backgroundToltec {fill:#40E0D0; fill-opacity:0.5}
+
 .colonialAmerica {fill:red;fill-opacity:0.1}
 .americanRepublicWeak {fill:lightblue;fill-opacity:0.3}
 .americanRepublicMid {fill:lightblue;fill-opacity:0.5}

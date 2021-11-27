@@ -94,6 +94,50 @@
       ]
     },
     {
+      "name": "Toltec",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Toltec",
+          "backgroundEvents": [
+            {
+              "name": "Toltec Empire",
+              "style": "backgroundToltec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "800",
+                "endApproximate": "true",
+                "end": "1100"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Tolpiltzin Quetzalcoatl",
+              "importance": "transformational",
+              "style": "toltec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "895",
+                "end": "947"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "923",
+                    "end": "947"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pageBreak": false,
       "name": "Maya",
       "yStart": 0,
