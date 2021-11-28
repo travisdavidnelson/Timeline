@@ -94,7 +94,7 @@
       ]
     },
     {
-      "name": "Toltec",
+      "name": "Toltec Tula",
       "yStart": 0,
       "dynasties": [
         {
@@ -113,6 +113,38 @@
           ],
           "people": [
             {
+              "name": "Tecpancaltzin",
+              "importance": "semimajor",
+              "style": "toltec",
+              "titles": [
+                {
+                  "name": "emperor",
+                  "timespan": {
+                    "start": "833",
+                    "end": "877"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Xochitl&#9792;",
+              "importance": "minor",
+              "style": "toltec",
+              "titles": [
+                {
+                  "name": "empress",
+                  "timespan": {
+                    "start": "877",
+                    "end": "916"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Tolpiltzin Quetzalcoatl",
               "importance": "transformational",
               "style": "toltec",
@@ -123,7 +155,7 @@
               },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "emperor",
                   "timespan": {
                     "start": "923",
                     "end": "947"
@@ -894,6 +926,316 @@
                   "timespan": {
                     "start": "2/8/628",
                     "end": "6/18/695"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Uaxaclajuun Ubʼaah Kʼawiil",
+              "importance": "semimajor",
+              "style": "maya",
+              "timespan": {
+                "start": "675",
+                "end": "5/3/738"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/9/695",
+                    "end": "5/3/738"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture by Kʼakʼ Tiliw Chan Yopaat",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/3/738",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼakʼ Joplaj Chan Kʼawiil",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/11/738",
+                    "end": "2/4/749"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼakʼ Yipyaj Chan Kʼawiil",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/18/749",
+                    "end": "1/763"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yax Pasaj Chan Yopaat",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "754",
+                "endApproximate": "true",
+                "end": "810"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/2/763",
+                    "endApproximate": "true",
+                    "end": "810"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ukit Took",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/6/822",
+                    "endApproximate": "true",
+                    "end": "830"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maya Palenque",
+          "backgroundEvents": [
+            {
+              "name": "Palenque",
+              "style": "maya",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "400",
+                "endApproximate": "true",
+                "end": "850"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Kʼukʼ Bahlam I",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/20/431",
+                    "end": "8/435"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Casper",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "start": "8/8/422",
+                "end": "487"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/9/435",
+                    "end": "487"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Bʼutz Aj Sak Chiik",
+              "importance": "petty",
+              "style": "maya",
+              "timespan": {
+                "start": "11/15/459",
+                "endApproximate": "true",
+                "end": "501"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/28/487",
+                    "end": "501"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ahkal Moʼ Nahb I",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "start": "7/5/465",
+                "end": "11/29/524"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/3/501",
+                    "end": "11/29/524"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼan Joy Chitam I",
+              "importance": "petty",
+              "style": "maya",
+              "timespan": {
+                "start": "5/3/490",
+                "end": "2/6/565"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/6/529",
+                    "end": "2/6/565"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ahkal Moʼ Nahb II",
+              "importance": "petty",
+              "style": "maya",
+              "timespan": {
+                "start": "9/3/523",
+                "end": "7/21/570"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/2/565",
+                    "end": "7/21/570"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kan Bahlam I",
+              "importance": "petty",
+              "style": "maya",
+              "timespan": {
+                "start": "9/18/524",
+                "end": "2/1/583"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/6/572",
+                    "end": "2/1/583"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yohl Ikʼnal&#9792;",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "12/23/583",
+                    "end": "11/4/604"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ajen Yohl Mat",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1/605",
+                    "end": "8/8/612"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sak Kʼukʼ&#9792;",
+              "importance": "minor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "10/19/612",
+                    "end": "615"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼinich Janaabʼ Pakal",
+              "importance": "major",
+              "style": "maya",
+              "timespan": {
+                "start": "3/603",
+                "end": "8/23/683"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/26/615",
+                    "end": "8/23/683"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼinich Kan Bahlam II",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "start": "5/635",
+                "end": "2/20/702"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/10/684",
+                    "end": "2/20/702"
                   }
                 }
               ]
