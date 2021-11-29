@@ -1205,6 +1205,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Kʼinich Janaabʼ Pakal",
               "importance": "major",
               "style": "maya",
