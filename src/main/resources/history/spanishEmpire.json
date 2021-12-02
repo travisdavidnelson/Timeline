@@ -2,15 +2,6 @@
   "name": "America",
   "backgroundEvents": [
     {
-      "name": "Pre-Columbian",
-      "timespan": {
-        "start": "5000 BC",
-        "endApproximate": "true",
-        "end": "1600"
-      },
-      "style": "neolithic"
-    },
-    {
       "name": "Spanish Colonial America",
       "timespan": {
         "startApproximate": "true",

@@ -147,6 +147,8 @@
 .backgroundMinorRebellion {fill:#C00000; fill-opacity:0.3}
 .backgroundMajorRebellion {fill:#C00000; fill-opacity:0.7}
 .backgroundNationalCalamity {fill:#C00000; fill-opacity:1.0}
+.backgroundNaturalDisaster {fill:#C00000; fill-opacity:1.0}
+.backgroundFamine {fill:black; fill-opacity:0.5}
 .backgroundPlagueMinor {fill:black; fill-opacity:0.3}
 .backgroundPlagueMajor {fill:black; fill-opacity:0.6}
 .backgroundReignOfTerror {fill:#C00000; fill-opacity:0.8}
