@@ -1404,7 +1404,7 @@
               "style": "maya",
               "timespan": {
                 "startApproximate": "true",
-                "start": "200",
+                "start": "300",
                 "endApproximate": "true",
                 "end": "925"
               }
