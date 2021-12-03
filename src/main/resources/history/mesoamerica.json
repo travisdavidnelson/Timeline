@@ -20,7 +20,7 @@
     },
     {
       "name": "Teotihuacan",
-      "style": "mexicaProxy",
+      "style": "teotihuacanProxy",
       "timespan": {
         "start": "1/6/378",
         "endApproximate": "true",
@@ -47,7 +47,7 @@
           "backgroundEvents": [
             {
               "name": "Teotihuacan",
-              "style": "mexica",
+              "style": "teotihuacan",
               "timespan": {
                 "startApproximate": "true",
                 "start": "50 BC",
@@ -85,7 +85,7 @@
             {
               "name": "Spearthrower Owl",
               "importance": "major",
-              "style": "mexica",
+              "style": "teotihuacan",
               "titles": [
                 {
                   "name": "king",
@@ -109,7 +109,7 @@
             {
               "name": "Siyaj K'ak",
               "importance": "semimajor",
-              "style": "mexica",
+              "style": "teotihuacan",
               "annotation": "Fire is Born aka Smoking Frog",
               "titles": [
                 {
@@ -241,7 +241,7 @@
             },
             {
               "name": "Teotihuacan",
-              "style": "mexicaProxy",
+              "style": "teotihuacanProxy",
               "timespan": {
                 "start": "1/6/378",
                 "endApproximate": "true",
@@ -561,7 +561,7 @@
             },
             {
               "name": "Teotihuacan",
-              "style": "mexicaProxy",
+              "style": "teotihuacanProxy",
               "timespan": {
                 "start": "1/378",
                 "endApproximate": "true",
