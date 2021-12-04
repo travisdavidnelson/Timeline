@@ -1,5 +1,5 @@
 {
-  "name": "Mexico",
+  "name": "Mesoamerica",
   "backgroundEvents": [
     {
       "name": "Pre-Columbian",
@@ -11,20 +11,20 @@
       }
     },
     {
-      "name": "Teotihuacan victory over Tikal",
-      "style": "backgroundBattle",
-      "timespan": {
-        "start": "1/6/378",
-        "duration": "1m"
-      }
-    },
-    {
       "name": "Teotihuacan",
       "style": "teotihuacanProxy",
       "timespan": {
         "start": "1/6/378",
         "endApproximate": "true",
         "end": "540"
+      }
+    },
+    {
+      "name": "Teotihuacan victory over Tikal",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "1/378",
+        "duration": "1m"
       }
     },
     {
@@ -52,7 +52,7 @@
                 "startApproximate": "true",
                 "start": "50 BC",
                 "endApproximate": "true",
-                "end": "600"
+                "end": "700"
               }
             },
             {
@@ -232,20 +232,29 @@
               }
             },
             {
-              "name": "Teotihuacan victory over Tikal",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "1/6/378",
-                "duration": "1m"
-              }
-            },
-            {
               "name": "Teotihuacan",
               "style": "teotihuacanProxy",
               "timespan": {
                 "start": "1/6/378",
                 "endApproximate": "true",
                 "end": "3/10/431"
+              }
+            },
+            {
+              "name": "Teotihuacan victory over Tikal",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1/378",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Volcanic winter of 536",
+              "style": "backgroundNaturalDisaster",
+              "timespan": {
+                "start": "536",
+                "endApproximate": "true",
+                "duration": "2y"
               }
             }
           ],
@@ -582,6 +591,15 @@
               "timespan": {
                 "start": "1/14/378",
                 "duration": "1d"
+              }
+            },
+            {
+              "name": "Volcanic winter of 536",
+              "style": "backgroundNaturalDisaster",
+              "timespan": {
+                "start": "536",
+                "endApproximate": "true",
+                "duration": "2y"
               }
             },
             {
@@ -1106,9 +1124,26 @@
               "style": "maya",
               "timespan": {
                 "startApproximate": "true",
-                "start": "300",
+                "start": "200",
                 "endApproximate": "true",
                 "end": "925"
+              }
+            },
+            {
+              "name": "Teotihuacan victory over Tikal",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1/378",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Volcanic winter of 536",
+              "style": "backgroundNaturalDisaster",
+              "timespan": {
+                "start": "536",
+                "endApproximate": "true",
+                "duration": "2y"
               }
             },
             {
@@ -1404,9 +1439,26 @@
               "style": "maya",
               "timespan": {
                 "startApproximate": "true",
-                "start": "300",
+                "start": "200",
                 "endApproximate": "true",
                 "end": "925"
+              }
+            },
+            {
+              "name": "Teotihuacan victory over Tikal",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1/378",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Volcanic winter of 536",
+              "style": "backgroundNaturalDisaster",
+              "timespan": {
+                "start": "536",
+                "endApproximate": "true",
+                "duration": "2y"
               }
             },
             {
