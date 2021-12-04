@@ -1536,7 +1536,7 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Aztec Mexica",
+          "name": "Aztec Tenochtitlan",
           "backgroundEvents": [
             {
               "name": "Aztec",
@@ -1817,7 +1817,7 @@
             },
             {
               "name": "Ahuitzotl",
-              "importance": "minor",
+              "importance": "semimajor",
               "style": "aztec",
               "titles": [
                 {
