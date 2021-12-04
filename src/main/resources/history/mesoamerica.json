@@ -462,93 +462,103 @@
               ]
             },
             {
-              "name": "Uaxaclajuun Ubʼaah Kʼawiil",
-              "importance": "semimajor",
+              "name": "Kʼinich Kʼan Joy Chitam II",
+              "importance": "petty",
               "style": "maya",
               "timespan": {
-                "start": "675",
-                "end": "5/3/738"
+                "start": "10/31/644",
+                "endApproximate": "true",
+                "end": "721"
               },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "7/9/695",
-                    "end": "5/3/738"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Capture by Kʼakʼ Tiliw Chan Yopaat",
-                  "style": "defeat",
-                  "timespan": {
-                    "start": "5/3/738",
-                    "duration": "1d"
+                    "start": "5/28/702",
+                    "endApproximate": "true",
+                    "end": "721"
                   }
                 }
               ]
             },
             {
-              "name": "Kʼakʼ Joplaj Chan Kʼawiil",
+              "name": "Kʼinich Ahkal Moʼ Nahb III",
+              "importance": "minor",
+              "style": "maya",
+              "timespan": {
+                "start": "9/13/678",
+                "endApproximate": "true",
+                "end": "736"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/30/721",
+                    "endApproximate": "true",
+                    "end": "736"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Kʼinich Janaab Pakal II",
               "importance": "petty",
               "style": "maya",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "6/11/738",
-                    "end": "2/4/749"
+                    "startApproximate": "true",
+                    "start": "742",
+                    "endApproximate": "true",
+                    "end": "751"
                   }
                 }
               ]
             },
             {
-              "name": "Kʼakʼ Yipyaj Chan Kʼawiil",
-              "importance": "minor",
+              "name": "Kʼinich Kan Bahlam III",
+              "importance": "petty",
               "style": "maya",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "2/18/749",
-                    "end": "1/763"
+                    "startApproximate": "true",
+                    "start": "751",
+                    "endApproximate": "true",
+                    "end": "764"
                   }
                 }
               ]
             },
             {
-              "name": "Yax Pasaj Chan Yopaat",
-              "importance": "minor",
+              "name": "Kʼinich Kʼukʼ Bahlam II",
+              "importance": "petty",
               "style": "maya",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "754",
-                "endApproximate": "true",
-                "end": "810"
-              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "7/2/763",
+                    "start": "3/4/764",
+                    "endApproximate": "true",
+                    "end": "783"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Janaab Pakal III",
+              "importance": "petty",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/17/799",
                     "endApproximate": "true",
                     "end": "810"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Ukit Took",
-              "importance": "petty",
-              "style": "maya",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "2/6/822",
-                    "endApproximate": "true",
-                    "end": "830"
                   }
                 }
               ]
