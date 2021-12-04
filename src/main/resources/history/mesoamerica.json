@@ -1606,6 +1606,14 @@
               }
             },
             {
+              "name": "Return of Quetzalcoatl",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/1519",
+                "duration": "1w"
+              }
+            },
+            {
               "name": "Tlaxcalteca battles",
               "style": "backgroundBattle",
               "timespan": {
@@ -1854,6 +1862,32 @@
                   "timespan": {
                     "start": "1502",
                     "end": "7/1/1520"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Return of Quetzalcoatl",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/1519",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Cholua Massacre",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/1519",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Massacre in the Great Temple of Tenochtitlan",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/22/1520",
+                    "duration": "1d"
                   }
                 }
               ]
