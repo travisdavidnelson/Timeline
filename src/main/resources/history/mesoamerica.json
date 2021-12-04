@@ -149,9 +149,9 @@
               "style": "backgroundToltec",
               "timespan": {
                 "startApproximate": "true",
-                "start": "800",
+                "start": "700",
                 "endApproximate": "true",
-                "end": "1100"
+                "end": "1200"
               }
             }
           ],
