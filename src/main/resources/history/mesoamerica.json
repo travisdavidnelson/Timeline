@@ -2,12 +2,32 @@
   "name": "Mesoamerica",
   "backgroundEvents": [
     {
-      "name": "Pre-Columbian",
+      "name": "Stone Age",
       "style": "neolithic",
       "timespan": {
         "start": "5000 BC",
         "endApproximate": "true",
         "end": "1600"
+      }
+    },
+    {
+      "name": "Classic Mesoamerica",
+      "style": "backgroundMesoamericaClassic",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "250",
+        "endApproximate": "true",
+        "end": "950"
+      }
+    },
+    {
+      "name": "Postclassic Mesoamerica",
+      "style": "backgroundMesoamericaPostclassic",
+      "timespan": {
+        "startApproximate": "true",
+        "start": "850",
+        "endApproximate": "true",
+        "end": "1521"
       }
     },
     {
