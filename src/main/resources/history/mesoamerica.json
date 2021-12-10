@@ -1752,7 +1752,7 @@
           ]
         },
         {
-          "name": "Aztec Tenochtitlan",
+          "name": "nahuatlAztec Tenochtitlan",
           "backgroundEvents": [
             {
               "name": "Aztec",
@@ -1920,7 +1920,7 @@
             {
               "name": "Acamapichtli",
               "importance": "semimajor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "titles": [
                 {
                   "name": "king",
@@ -1934,7 +1934,7 @@
             {
               "name": "Huitzilihuitl",
               "importance": "minor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1379",
@@ -1953,7 +1953,7 @@
             {
               "name": "Chimalpopoca",
               "importance": "minor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1397",
@@ -1972,7 +1972,7 @@
             {
               "name": "Itzcoatl",
               "importance": "semimajor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "start": "1380",
                 "end": "1440"
@@ -1990,7 +1990,7 @@
             {
               "name": "Moctezuma I",
               "importance": "major",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1398",
@@ -2009,7 +2009,7 @@
             {
               "name": "Axayacatl",
               "importance": "minor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1449",
@@ -2028,7 +2028,7 @@
             {
               "name": "Tizoc",
               "importance": "minor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "titles": [
                 {
                   "name": "emperor",
@@ -2042,7 +2042,7 @@
             {
               "name": "Ahuitzotl",
               "importance": "semimajor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "titles": [
                 {
                   "name": "emperor",
@@ -2056,7 +2056,7 @@
             {
               "name": "Moctezuma II",
               "importance": "major",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1466",
@@ -2101,7 +2101,7 @@
             {
               "name": "Cuitlahuac",
               "importance": "petty",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1476",
@@ -2120,7 +2120,7 @@
             {
               "name": "Cuauhtemoc",
               "importance": "minor",
-              "style": "aztec",
+              "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1497",
