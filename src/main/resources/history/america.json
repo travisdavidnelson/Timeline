@@ -2695,6 +2695,39 @@
             },
             {
               "pageBreak": true,
+              "name": "Steve Jobs",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/24/1955",
+                "end": "10/5/2011"
+              },
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Bill Gates",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/28/1955",
+                "end": ""
+              },
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Jeff Bezos",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/12/1964",
+                "end": ""
+              },
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Elon Musk",
               "style": "american",
               "importance": "petty",
