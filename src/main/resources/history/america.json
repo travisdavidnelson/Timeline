@@ -2737,6 +2737,17 @@
               },
               "foregroundEvents": [
               ]
+            },
+            {
+              "name": "Mark Zuckerberg",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "5/14/1984",
+                "end": ""
+              },
+              "foregroundEvents": [
+              ]
             }
           ]
         },
