@@ -2692,6 +2692,18 @@
                   }
                 }
               ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Elon Musk",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "6/28/1971",
+                "end": ""
+              },
+              "foregroundEvents": [
+              ]
             }
           ]
         },
