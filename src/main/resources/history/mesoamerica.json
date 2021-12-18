@@ -1570,7 +1570,7 @@
           "backgroundEvents": [
             {
               "name": "Aztec",
-              "style": "backgroundNahuatlTepanec",
+              "style": "backgroundNahuatlTexcoco",
               "timespan": {
                 "start": "1298",
                 "end": "8/13/1521"
@@ -1791,12 +1791,16 @@
               "name": "Nezahualcoyotl",
               "importance": "major",
               "style": "nahuatlTexcoco",
+              "timespan": {
+                "start": "4/28/1402",
+                "end": "6/4/1472"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "1431",
-                    "end": "1472"
+                    "start": "1429",
+                    "end": "6/4/1472"
                   }
                 }
               ]
@@ -1805,6 +1809,10 @@
               "name": "Nezahualpilli",
               "importance": "semimajor",
               "style": "nahuatlTexcoco",
+              "timespan": {
+                "start": "1464",
+                "end": "1515"
+              },
               "titles": [
                 {
                   "name": "king",
@@ -1816,15 +1824,19 @@
               ]
             },
             {
-              "name": "Cacama",
+              "name": "Cacamatzin",
               "importance": "minor",
               "style": "nahuatlTexcoco",
+              "timespan": {
+                "start": "1483",
+                "end": "7/1/1520"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "1515",
-                    "end": "1520"
+                    "end": "7/1/1520"
                   }
                 }
               ]

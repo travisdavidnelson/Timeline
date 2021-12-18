@@ -101,11 +101,12 @@
 .aztec {fill:#e5c019; fill-opacity:0.6}
 .maya {fill:#a38f37; fill-opacity:0.6}
 .nahuatlAztec {fill:#e5c019; fill-opacity:0.8}
-.backgroundNahuatlAztec {fill:#e5c019; fill-opacity:0.5}
+.nahuatlTexcoco {fill:#D4AF37; fill-opacity:0.5}
 .nahuatlTepanec {fill:#e5c019; fill-opacity:0.8}
-.backgroundNahuatlTepanec {fill:#fce146; fill-opacity:0.5}
-.backgroundNahuatlTexcoco {fill:#fce146; fill-opacity:0.5}
 .nahuatlToltec {fill:#FFD700; fill-opacity:0.8}
+.backgroundNahuatlAztec {fill:#e5c019; fill-opacity:0.5}
+.backgroundNahuatlTepanec {fill:#fce146; fill-opacity:0.5}
+.backgroundNahuatlTexcoco {fill:#D4AF37; fill-opacity:0.5}
 .backgroundNahuatlToltec {fill:#fce146; fill-opacity:0.5}
 .teotihuacan {fill:#f7ca04; fill-opacity:0.7}
 .teotihuacanProxy {fill:#f7ca04; fill-opacity:0.6}
