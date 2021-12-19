@@ -2026,6 +2026,20 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Aculnahuacatl",
+              "importance": "minor",
+              "style": "nahuatlTepanec",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1400",
+                    "end": "1430"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -2263,6 +2277,17 @@
                     "end": "1440"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Tlacaelel",
+              "importance": "major",
+              "style": "nahuatlAztec",
+              "timespan": {
+                "start": "1397",
+                "end": "1487"
+              },
+              "titles": [
               ]
             },
             {
