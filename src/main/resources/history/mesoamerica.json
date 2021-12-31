@@ -2263,7 +2263,7 @@
             },
             {
               "name": "Itzcoatl",
-              "importance": "semimajor",
+              "importance": "major",
               "style": "nahuatlAztec",
               "timespan": {
                 "start": "1380",
@@ -2281,7 +2281,7 @@
             },
             {
               "name": "Tlacaelel",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "nahuatlAztec",
               "timespan": {
                 "start": "1397",
