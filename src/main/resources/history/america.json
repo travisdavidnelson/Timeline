@@ -2860,6 +2860,33 @@
               ]
             },
             {
+              "name": "Davy Crockett",
+              "style": "american",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "8/17/1786",
+                "end": "3/6/1836"
+              },
+              "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1827",
+                    "end": "3/4/1831"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1833",
+                    "end": "3/4/1835"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "John Fremont",
               "style": "american",
               "importance": "minor",
