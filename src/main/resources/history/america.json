@@ -2773,6 +2773,17 @@
           ],
           "people": [
             {
+              "name": "Daniel Boone",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/2/1734",
+                "end": "9/26/1820"
+              },
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "William Clark",
               "style": "american",
               "importance": "minor",
