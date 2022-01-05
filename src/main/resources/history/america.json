@@ -2862,7 +2862,7 @@
             {
               "name": "Davy Crockett",
               "style": "american",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "8/17/1786",
                 "end": "3/6/1836"
@@ -2884,6 +2884,49 @@
                 }
               ],
               "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Kit Carson",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "12/24/1809",
+                "end": "5/23/1868"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Fremont first expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/1842",
+                    "end": "11/1842"
+                  }
+                },
+                {
+                  "name": "Fremont second expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "7/1843",
+                    "end": "8/1844"
+                  }
+                },
+                {
+                  "name": "Fremont third expedition",
+                  "style": "expedition",
+                  "timespan": {
+                    "start": "6/1/1845",
+                    "end": "1847"
+                  }
+                },
+                {
+                  "name": "Bear Flag Revolt",
+                  "style": "backgroundRevolt",
+                  "timespan": {
+                    "start": "6/1846",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
