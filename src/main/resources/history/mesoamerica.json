@@ -1561,10 +1561,332 @@
       ]
     },
     {
-      "name": "Aztec",
+      "name": "Nahuatl",
       "pageBreak": true,
       "yStart": 0,
       "dynasties": [
+        {
+          "name": "Chichimec",
+          "backgroundEvents": [
+            {
+              "name": "Chichimec",
+              "style": "backgroundNahuatlChichmec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1200",
+                "endApproximate": "true",
+                "end": "1300"
+              }
+            },
+            {
+              "name": "Tepanec",
+              "style": "backgroundNahuatlTepanec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1290",
+                "end": "1428"
+              }
+            },
+            {
+              "name": "Aztec",
+              "style": "backgroundNahuatlAztec",
+              "timespan": {
+                "start": "1428",
+                "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "War with Mexica",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1428",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Discovery of the New World",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "10/12/1492",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Balboa second entrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/1/1513",
+                "end": "1/19/1514"
+              }
+            },
+            {
+              "name": "Balboa Discovery of the South Sea",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "9/25/1513",
+                "duration": "1m"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Xolotl",
+              "importance": "semimajor",
+              "style": "nahuatlChichmec",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1240",
+                    "endApproximate": "true",
+                    "end": "1260"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tepanec Azcapotzalco",
+          "backgroundEvents": [
+            {
+              "name": "Tepanec",
+              "style": "backgroundNahuatlTepanec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1270",
+                "end": "1428"
+              }
+            },
+            {
+              "name": "Assassination of Ixtlilxochiti",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1418",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Aztec",
+              "style": "backgroundNahuatlAztec",
+              "timespan": {
+                "start": "1428",
+                "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "War with Mexica",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1428",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Discovery of the New World",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "10/12/1492",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Balboa second entrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/1/1513",
+                "end": "1/19/1514"
+              }
+            },
+            {
+              "name": "Balboa Discovery of the South Sea",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "9/25/1513",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Spanish Empire",
+              "style": "spanishColonial",
+              "timespan": {
+                "start": "8/1521",
+                "end": "1550"
+              }
+            },
+            {
+              "name": "Columbian Exchange",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "6/1519",
+                "endApproximate": "true",
+                "duration": "20y"
+              }
+            },
+            {
+              "name": "Spanish conquest",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "6/1519",
+                "end": "8/1521"
+              }
+            },
+            {
+              "name": "Return of Quetzalcoatl",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/1519",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Tlaxcalteca battles",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/31/1519",
+                "duration": "18d"
+              }
+            },
+            {
+              "name": "Cholua Massacre",
+              "style": "backgroundMassacre",
+              "timespan": {
+                "start": "10/1519",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Massacre in the Great Temple of Tenochtitlan",
+              "style": "backgroundMassacre",
+              "timespan": {
+                "start": "5/22/1520",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "La Nocke Triste",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/30/1520",
+                "end": "7/1/1520"
+              }
+            },
+            {
+              "name": "Battle of Otumba",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/7/1520",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Smallpox epidemic",
+              "style": "backgroundPlagueMajor",
+              "timespan": {
+                "start": "10/15/1520",
+                "end": "12/15/1520"
+              }
+            },
+            {
+              "name": "Fall of Tenochtitlan",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "8/1521",
+                "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "Narvaez expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "6/17/1527",
+                "end": "1529"
+              }
+            },
+            {
+              "name": "Conquest of Peru",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "11/1533",
+                "end": "11/15/1533"
+              }
+            },
+            {
+              "name": "Soto Expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "5/1539",
+                "end": "5/21/1542"
+              }
+            },
+            {
+              "name": "Coronado Expedition",
+              "style": "backgroundCampaign",
+              "timespan": {
+                "start": "2/23/1540",
+                "end": "3/1542"
+              }
+            },
+            {
+              "name": "Battle of San Juan de Ulúa",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/24/1568",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Acolnahuacatl",
+              "importance": "minor",
+              "style": "nahuatlTepanec",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1302",
+                    "end": "1366"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Tezozomoc",
+              "importance": "major",
+              "style": "nahuatlTepanec",
+              "timespan": {
+                "start": "1320",
+                "end": "1426"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1367",
+                    "end": "1426"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Maxtla",
+              "importance": "minor",
+              "style": "nahuatlTepanec",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1426",
+                    "end": "1428"
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Mexica Texcoco",
           "backgroundEvents": [
@@ -1572,8 +1894,42 @@
               "name": "Aztec",
               "style": "backgroundNahuatlTexcoco",
               "timespan": {
-                "start": "1298",
+                "startApproximate": "true",
+                "start": "1290",
+                "end": "1428"
+              }
+            },
+            {
+              "name": "Tepanec",
+              "style": "backgroundNahuatlTepanec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1418",
+                "end": "1428"
+              }
+            },
+            {
+              "name": "Aztec",
+              "style": "backgroundNahuatlAztec",
+              "timespan": {
+                "start": "1428",
                 "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "Assassination of Ixtlilxochiti",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1418",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "War with Tepanecs",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1428",
+                "duration": "1m"
               }
             },
             {
@@ -1733,7 +2089,7 @@
           "people": [
             {
               "name": "Quinatzin",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlTexcoco",
               "titles": [
                 {
@@ -1747,7 +2103,7 @@
             },
             {
               "name": "Techotlala",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlTexcoco",
               "titles": [
                 {
@@ -1761,28 +2117,18 @@
             },
             {
               "name": "Ixtlilxochiti",
-              "importance": "petty",
+              "importance": "minor",
               "style": "nahuatlTexcoco",
+              "timespan": {
+                "start": "1380",
+                "end": "1418"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "1409",
                     "end": "1418"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Yancuitzin",
-              "importance": "petty",
-              "style": "nahuatlTexcoco",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1418",
-                    "end": "1431"
                   }
                 }
               ]
@@ -1801,6 +2147,16 @@
                   "timespan": {
                     "start": "1429",
                     "end": "6/4/1472"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Maztla",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1428",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -1844,214 +2200,23 @@
           ]
         },
         {
-          "name": "Tepanec Azcapotzalco",
-          "backgroundEvents": [
-            {
-              "name": "Aztec",
-              "style": "backgroundNahuatlTepanec",
-              "timespan": {
-                "start": "1376",
-                "end": "8/13/1521"
-              }
-            },
-            {
-              "name": "Discovery of the New World",
-              "style": "backgroundNationalCalamity",
-              "timespan": {
-                "start": "10/12/1492",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "Balboa second entrada",
-              "style": "backgroundInvasion",
-              "timespan": {
-                "start": "9/1/1513",
-                "end": "1/19/1514"
-              }
-            },
-            {
-              "name": "Balboa Discovery of the South Sea",
-              "style": "backgroundNationalCalamity",
-              "timespan": {
-                "start": "9/25/1513",
-                "duration": "1m"
-              }
-            },
-            {
-              "name": "Spanish Empire",
-              "style": "spanishColonial",
-              "timespan": {
-                "start": "8/1521",
-                "end": "1550"
-              }
-            },
-            {
-              "name": "Columbian Exchange",
-              "style": "backgroundPlagueMajor",
-              "timespan": {
-                "start": "6/1519",
-                "endApproximate": "true",
-                "duration": "20y"
-              }
-            },
-            {
-              "name": "Spanish conquest",
-              "style": "backgroundInvasion",
-              "timespan": {
-                "start": "6/1519",
-                "end": "8/1521"
-              }
-            },
-            {
-              "name": "Return of Quetzalcoatl",
-              "style": "backgroundNationalCalamity",
-              "timespan": {
-                "start": "6/1519",
-                "duration": "1w"
-              }
-            },
-            {
-              "name": "Tlaxcalteca battles",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "8/31/1519",
-                "duration": "18d"
-              }
-            },
-            {
-              "name": "Cholua Massacre",
-              "style": "backgroundMassacre",
-              "timespan": {
-                "start": "10/1519",
-                "duration": "1w"
-              }
-            },
-            {
-              "name": "Massacre in the Great Temple of Tenochtitlan",
-              "style": "backgroundMassacre",
-              "timespan": {
-                "start": "5/22/1520",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "La Nocke Triste",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "6/30/1520",
-                "end": "7/1/1520"
-              }
-            },
-            {
-              "name": "Battle of Otumba",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "7/7/1520",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "Smallpox epidemic",
-              "style": "backgroundPlagueMajor",
-              "timespan": {
-                "start": "10/15/1520",
-                "end": "12/15/1520"
-              }
-            },
-            {
-              "name": "Fall of Tenochtitlan",
-              "style": "backgroundNationalCalamity",
-              "timespan": {
-                "start": "8/1521",
-                "end": "8/13/1521"
-              }
-            },
-            {
-              "name": "Narvaez expedition",
-              "style": "backgroundCampaign",
-              "timespan": {
-                "start": "6/17/1527",
-                "end": "1529"
-              }
-            },
-            {
-              "name": "Conquest of Peru",
-              "style": "backgroundNationalCalamity",
-              "timespan": {
-                "start": "11/1533",
-                "end": "11/15/1533"
-              }
-            },
-            {
-              "name": "Soto Expedition",
-              "style": "backgroundCampaign",
-              "timespan": {
-                "start": "5/1539",
-                "end": "5/21/1542"
-              }
-            },
-            {
-              "name": "Coronado Expedition",
-              "style": "backgroundCampaign",
-              "timespan": {
-                "start": "2/23/1540",
-                "end": "3/1542"
-              }
-            },
-            {
-              "name": "Battle of San Juan de Ulúa",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "9/24/1568",
-                "duration": "1d"
-              }
-            }
-          ],
-          "people": [
-            {
-              "name": "Tezozomoc",
-              "importance": "major",
-              "style": "nahuatlTepanec",
-              "timespan": {
-                "start": "1320",
-                "end": "1426"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1367",
-                    "end": "1426"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Aculnahuacatl",
-              "importance": "minor",
-              "style": "nahuatlTepanec",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1400",
-                    "end": "1430"
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Aztec Tenochtitlan",
+          "name": "Mexica Tenochtitlan",
           "backgroundEvents": [
             {
               "name": "Aztec",
               "style": "backgroundNahuatlAztec",
               "timespan": {
-                "start": "1376",
+                "startApproximate": "1376",
+                "start": "1350",
                 "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "War with Mexica",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1428",
+                "duration": "1m"
               }
             },
             {
@@ -2211,7 +2376,7 @@
           "people": [
             {
               "name": "Acamapichtli",
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "nahuatlAztec",
               "titles": [
                 {
@@ -2225,7 +2390,7 @@
             },
             {
               "name": "Huitzilihuitl",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
@@ -2244,7 +2409,7 @@
             },
             {
               "name": "Chimalpopoca",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
@@ -2275,6 +2440,16 @@
                   "timespan": {
                     "start": "1427",
                     "end": "1440"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Victory over Maztla",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1428",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -2311,7 +2486,7 @@
             },
             {
               "name": "Axayacatl",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
@@ -2330,8 +2505,13 @@
             },
             {
               "name": "Tizoc",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlAztec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1460",
+                "end": "1486"
+              },
               "titles": [
                 {
                   "name": "emperor",
@@ -2346,6 +2526,11 @@
               "name": "Ahuitzotl",
               "importance": "semimajor",
               "style": "nahuatlAztec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1465",
+                "end": "1502"
+              },
               "titles": [
                 {
                   "name": "emperor",
@@ -2358,7 +2543,7 @@
             },
             {
               "name": "Moctezuma II",
-              "importance": "major",
+              "importance": "minor",
               "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
@@ -2422,7 +2607,7 @@
             },
             {
               "name": "Cuauhtemoc",
-              "importance": "minor",
+              "importance": "petty",
               "style": "nahuatlAztec",
               "timespan": {
                 "startApproximate": "true",
