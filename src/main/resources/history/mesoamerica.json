@@ -1575,7 +1575,7 @@
                 "startApproximate": "true",
                 "start": "1200",
                 "endApproximate": "true",
-                "end": "1300"
+                "end": "1390"
               }
             },
             {
@@ -1583,7 +1583,7 @@
               "style": "backgroundNahuatlTepanec",
               "timespan": {
                 "startApproximate": "true",
-                "start": "1290",
+                "start": "1380",
                 "end": "1428"
               }
             },
@@ -1751,9 +1751,29 @@
                   "name": "king",
                   "timespan": {
                     "startApproximate": "true",
-                    "start": "1240",
+                    "start": "1224",
                     "endApproximate": "true",
-                    "end": "1260"
+                    "end": "1275"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nopaltzin",
+              "importance": "petty",
+              "style": "nahuatlChichmec",
+              "timespan": {
+                "start": "1244",
+                "endApproximate": "true",
+                "end": "1315"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1304",
+                    "endApproximate": "true",
+                    "end": "1315"
                   }
                 }
               ]
