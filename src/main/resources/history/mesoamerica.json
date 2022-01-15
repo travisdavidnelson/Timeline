@@ -1604,6 +1604,14 @@
               }
             },
             {
+              "name": "War on Chimalpopoca",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1427",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "War with Mexica",
               "style": "backgroundBattle",
               "timespan": {
@@ -1809,6 +1817,14 @@
               }
             },
             {
+              "name": "War on Chimalpopoca",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1427",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "War with Mexica",
               "style": "backgroundBattle",
               "timespan": {
@@ -2005,6 +2021,20 @@
               ]
             },
             {
+              "name": "Tezozomoc",
+              "importance": "petty",
+              "style": "nahuatlTepanec",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1426",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Maxtla",
               "importance": "minor",
               "style": "nahuatlTepanec",
@@ -2012,7 +2042,7 @@
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "1426",
+                    "start": "1427",
                     "end": "1428"
                   }
                 }
@@ -2055,6 +2085,30 @@
               "timespan": {
                 "start": "1418",
                 "duration": "1w"
+              }
+            },
+            {
+              "name": "War on Chimalpopoca",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1427",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "War with Tepanecs",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1428",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "War on Chimalpopoca",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1427",
+                "duration": "1m"
               }
             },
             {
@@ -2342,6 +2396,14 @@
                 "startApproximate": "1376",
                 "start": "1350",
                 "end": "8/13/1521"
+              }
+            },
+            {
+              "name": "War on Chimalpopoca",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1427",
+                "duration": "1m"
               }
             },
             {
