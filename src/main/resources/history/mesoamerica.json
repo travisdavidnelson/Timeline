@@ -2390,11 +2390,19 @@
           "name": "Mexica Tenochtitlan",
           "backgroundEvents": [
             {
+              "name": "Tepanec",
+              "style": "backgroundNahuatlTepanec",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1350",
+                "end": "1427"
+              }
+            },
+            {
               "name": "Aztec",
               "style": "backgroundNahuatlAztec",
               "timespan": {
-                "startApproximate": "1376",
-                "start": "1350",
+                "start": "1427",
                 "end": "8/13/1521"
               }
             },
