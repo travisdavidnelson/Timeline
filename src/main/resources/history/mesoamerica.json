@@ -625,11 +625,43 @@
               }
             },
             {
+              "name": "Naranjo-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "546",
+                "duration": "1y"
+              }
+            },
+            {
               "name": "Tikal-Calakmul War",
-              "style": "backgroundWar",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "562",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "564",
+                "duration": "3m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "572",
+                "duration": "6m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
               "timespan": {
                 "start": "6/695",
-                "duration": "1m"
+                "duration": "4m"
               }
             }
           ],
@@ -937,7 +969,7 @@
             },
             {
               "name": "War with Teotihuacan",
-              "style": "backgroundWar",
+              "style": "backgroundMayaWar",
               "timespan": {
                 "start": "1/378",
                 "duration": "1m"
@@ -961,11 +993,35 @@
               }
             },
             {
-              "name": "Calakmul War",
-              "style": "backgroundWar",
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "562",
+                "duration": "4m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "564",
+                "duration": "3m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
+              "timespan": {
+                "start": "572",
+                "duration": "6m"
+              }
+            },
+            {
+              "name": "Tikal-Calakmul War",
+              "style": "backgroundMayaWar",
               "timespan": {
                 "start": "6/695",
-                "duration": "1m"
+                "duration": "4m"
               }
             }
           ],
