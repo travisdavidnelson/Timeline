@@ -243,7 +243,7 @@
           "backgroundEvents": [
             {
               "name": "Palenque",
-              "style": "maya",
+              "style": "mayaPalenque",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1",
@@ -1315,7 +1315,7 @@
           "backgroundEvents": [
             {
               "name": "Tikal",
-              "style": "maya",
+              "style": "mayaTikal",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1",
@@ -2004,7 +2004,7 @@
           "backgroundEvents": [
             {
               "name": "Copan",
-              "style": "maya",
+              "style": "mayaCopan",
               "timespan": {
                 "startApproximate": "true",
                 "start": "200",
@@ -2367,7 +2367,7 @@
           "backgroundEvents": [
             {
               "name": "Quirigua",
-              "style": "maya",
+              "style": "mayaQuirigua",
               "timespan": {
                 "startApproximate": "true",
                 "start": "200",
