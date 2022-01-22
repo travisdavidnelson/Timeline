@@ -1622,7 +1622,7 @@
             {
               "pageBreak": true,
               "name": "Yax Nuun Ahiin I",
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "maya",
               "titles": [
                 {
@@ -1638,7 +1638,7 @@
             },
             {
               "name": "Sihyaj Chan Kʼawiil II",
-              "importance": "minor",
+              "importance": "petty",
               "style": "maya",
               "titles": [
                 {
@@ -1685,8 +1685,9 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Lady of Tikal&#9792;",
-              "importance": "minor",
+              "importance": "semimajor",
               "style": "maya",
               "timespan": {
                 "start": "9/1/504",
