@@ -211,12 +211,61 @@
           "name": "Virginia",
           "backgroundEvents": [
             {
-              "name": "Colonial America",
+              "name": "Roanoke Colony",
               "timespan": {
-                "start": "1607",
-                "end": "7/4/1776"
+                "start": "8/1585",
+                "endApproximate": "true",
+                "end": "1588"
               },
               "style": "colonialAmerica"
+            },
+            {
+              "name": "Virginia Company",
+              "timespan": {
+                "start": "5/14/1607",
+                "end": "1624"
+              },
+              "style": "virginiaCompany"
+            },
+            {
+              "name": "Virginia Company",
+              "timespan": {
+                "start": "1624",
+                "end": "7/4/1776"
+              },
+              "style": "virginiaColony"
+            },
+            {
+              "name": "Starving time",
+              "timespan": {
+                "start": "12/1609",
+                "end": "3/1610"
+              },
+              "style": "backgroundFamine"
+            },
+            {
+              "name": "First Anglo-Powhatan War",
+              "timespan": {
+                "start": "8/9/1610",
+                "end": "6/1614"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Second Anglo-Powhatan War",
+              "timespan": {
+                "start": "3/22/1622",
+                "end": "1632"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Indian Massacre of 1622",
+              "timespan": {
+                "start": "3/22/1622",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
             },
             {
               "name": "King William's War",
@@ -252,7 +301,26 @@
                   "name": "governor",
                   "timespan": {
                     "start": "5/13/1607",
-                    "duration": "1y"
+                    "end": "9/10/1607"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Ratcliffe",
+              "timespan": {
+                "startApproximate": true,
+                "start": "1549",
+                "end": "12/1609"
+              },
+              "importance": "petty",
+              "style": "colonist",
+              "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "9/10/1607",
+                    "end": "7/1608"
                   }
                 }
               ]
