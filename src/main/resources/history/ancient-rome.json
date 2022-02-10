@@ -3691,7 +3691,7 @@
                 "start": "70 BC",
                 "end": "8 BC"
               },
-              "importance": "semimajor"
+              "importance": "minor"
             },
             {
               "name": "Virgil",
@@ -3700,7 +3700,7 @@
                 "start": "70 BC",
                 "end": "19 BC"
               },
-              "importance": "semimajor"
+              "importance": "minor"
             },
             {
               "name": "Livy",
@@ -3711,7 +3711,7 @@
                 "endApproximate": true,
                 "end": "17"
               },
-              "importance": "semimajor"
+              "importance": "minor"
             },
             {
               "name": "Strabo",
@@ -3722,7 +3722,7 @@
                 "endApproximate": true,
                 "end": "24"
               },
-              "importance": "minor"
+              "importance": "petty"
             },
             {
               "name": "Gaius Caesar",
@@ -3829,7 +3829,7 @@
                 "start": "6/3/20 BC",
                 "end": "10/18/31"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "praetorianPrefect",
@@ -3883,6 +3883,78 @@
               ]
             },
             {
+              "name": "Agrippina the Elder&#9792;",
+              "style": "roman",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "14 BC",
+                "endApproximate": "true",
+                "end": "33"
+              },
+              "titles": [
+                {
+                  "name": "houseArrest",
+                  "timespan": {
+                    "start": "27",
+                    "duration": "3y"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "30",
+                    "endApproximate": "true",
+                    "end": "33"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Nero Julius Caesar",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "5",
+                "end": "31"
+              },
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "29",
+                    "end": "31"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Drusus Julius Caesar",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "8",
+                "end": "33"
+              },
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "29",
+                    "end": "33"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Caligula",
               "style": "roman",
               "timespan": {
@@ -3900,6 +3972,34 @@
                     "end": "1/24/41"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Julia Drusilla&#9792;",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "start": "9/16/16",
+                "end": "6/10/38"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Julia Livilla&#9792;",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "18",
+                "endApproximate": "true",
+                "end": "41"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
               ]
             },
             {
