@@ -4023,6 +4023,78 @@
               ]
             },
             {
+              "name": "Messalina&#9792;",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "17",
+                "end": "48"
+              },
+              "importance": "minor",
+              "annotation": "Mother of Claudius' son Brittanicus.",
+              "fate": "Openly married another man. Murdered by a centurian.",
+              "style": "roman",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "1/24/41",
+                    "end": "48"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Brittanicus",
+              "timespan": {
+                "start": "2/12/41",
+                "end": "2/11/55"
+              },
+              "importance": "petty",
+              "annotation": "Son of Claudius and heir to the throne.",
+              "fate": "Killed by Nero",
+              "style": "roman",
+              "titles": [
+              ]
+            },
+            {
+              "name": "Agrippina the Younger&#9792;",
+              "style": "roman",
+              "timespan": {
+                "start": "11/6/15",
+                "end": "3/23/59"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "1/1/49",
+                    "end": "3/23/59"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nero",
+              "style": "roman",
+              "timespan": {
+                "start": "12/15/37",
+                "end": "6/9/68"
+              },
+              "importance": "semimajor",
+              "annotation": "Artist, and last of the Julio-Claudians.",
+              "fate": "Declared a public enemy by the Senate, fled Rome and ordered servant to kill him, precipitating the Year of the Four Emperors. \"What an artist the world is losing!\"",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "10/13/54",
+                    "end": "6/9/68"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Gnaeus Domitius Corbulo",
               "style": "roman",
               "timespan": {
@@ -4071,44 +4143,6 @@
                 "end": "65"
               },
               "importance": "minor"
-            },
-            {
-              "name": "Agrippina the Younger&#9792;",
-              "style": "roman",
-              "timespan": {
-                "start": "11/6/15",
-                "end": "3/23/59"
-              },
-              "importance": "semimajor",
-              "titles": [
-                {
-                  "name": "augusta",
-                  "timespan": {
-                    "start": "1/1/49",
-                    "end": "3/23/59"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Nero",
-              "style": "roman",
-              "timespan": {
-                "start": "12/15/37",
-                "end": "6/9/68"
-              },
-              "importance": "semimajor",
-              "annotation": "Artist, and last of the Julio-Claudians.",
-              "fate": "Declared a public enemy by the Senate, fled Rome and ordered servant to kill him, precipitating the Year of the Four Emperors. \"What an artist the world is losing!\"",
-              "titles": [
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "10/13/54",
-                    "end": "6/9/68"
-                  }
-                }
-              ]
             }
           ]
         },
