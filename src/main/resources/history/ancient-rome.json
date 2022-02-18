@@ -3528,6 +3528,38 @@
               "style": "backgroundReignOfTerror"
             },
             {
+              "name": "Plot of the Three Daggers",
+              "timespan": {
+                "start": "39",
+                "duration": "1w"
+              },
+              "style": "backgroundConspiracy"
+            },
+            {
+              "name": "Fall of Messalina",
+              "timespan": {
+                "start": "48",
+                "duration": "1w"
+              },
+              "style": "backgroundConspiracy"
+            },
+            {
+              "name": "Murder of Britannicus",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "2/11/55",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Murder of Agrippina",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "3/23/59",
+                "duration": "1w"
+              }
+            },
+            {
               "name": "Neronian Reign of Terror",
               "timespan": {
                 "start": "6/62",
@@ -4020,6 +4052,16 @@
                     "end": "10/13/54"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Messalina",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "48",
+                    "duration": "1w"
+                  }
+                }
               ]
             },
             {
@@ -4039,6 +4081,16 @@
                   "timespan": {
                     "start": "1/24/41",
                     "end": "48"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Messalina",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "48",
+                    "duration": "1w"
                   }
                 }
               ]
@@ -4066,10 +4118,27 @@
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "39",
+                    "end": "2/41"
+                  }
+                },
+                {
                   "name": "augusta",
                   "timespan": {
                     "start": "1/1/49",
                     "end": "3/23/59"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Plot of the Three Daggers",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "39",
+                    "duration": "1w"
                   }
                 }
               ]
@@ -4090,6 +4159,24 @@
                   "timespan": {
                     "start": "10/13/54",
                     "end": "6/9/68"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Murder of Britannicus",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "2/11/55",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Murder of Agrippina",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "3/23/59",
+                    "duration": "1w"
                   }
                 }
               ]
@@ -4307,7 +4394,8 @@
         },
         {
           "name": "Antonines",
-          "yStart": 230,
+          "pageBreak": true,
+          "yStart": 0,
           "people": [
             {
               "name": "Nerva",
@@ -4499,13 +4587,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Crisis",
-      "yStart": 0,
-      "dynasties": [
+        },
         {
           "name": "Severans",
           "people": [
