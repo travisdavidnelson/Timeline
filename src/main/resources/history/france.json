@@ -753,7 +753,7 @@
     },
     {
       "name": "Seige of Paris",
-      "style": "backgroundSeige",
+      "style": "backgroundSiege",
       "timespan": {
         "start": "5/1590",
         "end": "9/1590"
