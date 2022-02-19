@@ -680,14 +680,6 @@
       }
     },
     {
-      "name": "War of Devolution",
-      "style": "backgroundWar",
-      "timespan": {
-        "start": "5/24/1667",
-        "end": "5/2/1668"
-      }
-    },
-    {
       "name": "French Wars of Religion",
       "style": "backgroundCivilWar",
       "timespan": {
@@ -724,7 +716,55 @@
       "style": "backgroundCivilWar",
       "timespan": {
         "start": "8/2/1589",
-        "end": "4/1598"
+        "end": "7/25/1593"
+      }
+    },
+    {
+      "name": "Battle of Coutras",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/20/1587",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Murder of the de Guise Brothers",
+      "style": "backgroundConspiracy",
+      "timespan": {
+        "start": "12/1588",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Arques",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/15/1589",
+        "end": "9/29/1589"
+      }
+    },
+    {
+      "name": "Battle of Ivry",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "3/14/1590",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Seige of Paris",
+      "style": "backgroundSeige",
+      "timespan": {
+        "start": "5/1590",
+        "end": "9/1590"
+      }
+    },
+    {
+      "name": "War of Devolution",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "5/24/1667",
+        "end": "5/2/1668"
       }
     },
     {
@@ -3212,6 +3252,32 @@
                   "timespan": {
                     "start": "8/2/1589",
                     "end": "5/14/1610"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Coutras",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/20/1587",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Arques",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/15/1589",
+                    "end": "9/29/1589"
+                  }
+                },
+                {
+                  "name": "Battle of Ivry",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "3/14/1590",
+                    "duration": "1d"
                   }
                 }
               ]
