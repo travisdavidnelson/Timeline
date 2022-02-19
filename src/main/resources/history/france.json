@@ -587,8 +587,96 @@
       "name": "French Wars of Religion",
       "style": "backgroundCivilWar",
       "timespan": {
-        "start": "3/1562",
-        "end": "4/1598"
+        "start": "3/1/1562",
+        "end": "3/19/1563"
+      }
+    },
+    {
+      "name": "Massacre of Vassy",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "3/1/1562",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Massacre of Sens",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "4/12/1562",
+        "duration": "2d"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "9/28/1567",
+        "end": "3/1568"
+      }
+    },
+    {
+      "name": "Surprise of Meaux",
+      "style": "backgroundCoup",
+      "timespan": {
+        "start": "9/28/1567",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Battle of Saint-Denis",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/10/1567",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "7/1568",
+        "end": "8/8/1570"
+      }
+    },
+    {
+      "name": "Battle of Jarnac",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "3/16/1569",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of La Roche-l'Abeille",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "6/25/1569",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Montcontour",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/30/1569",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "8/23/1572",
+        "end": "5/15/1573"
+      }
+    },
+    {
+      "name": "St Bartholomew's Day Massacre",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "8/23/1572",
+        "duration": "1m"
       }
     },
     {
@@ -597,6 +685,46 @@
       "timespan": {
         "start": "5/24/1667",
         "end": "5/2/1668"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "2/1574",
+        "end": "5/1576"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "12/1576",
+        "end": "9/1577"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "11/1579",
+        "end": "11/1580"
+      }
+    },
+    {
+      "name": "War of the Three Henrys",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "1587",
+        "end": "8/2/1589"
+      }
+    },
+    {
+      "name": "French Wars of Religion",
+      "style": "backgroundCivilWar",
+      "timespan": {
+        "start": "8/2/1589",
+        "end": "4/1598"
       }
     },
     {
@@ -2911,6 +3039,41 @@
               ]
             },
             {
+              "name": "Catherine de' Medici&#9792;",
+              "style": "italian",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "4/13/1519",
+                "end": "1/5/1589"
+              },
+              "titles": [
+                {
+                  "name": "queenConsort",
+                  "timespan": {
+                    "start": "3/31/1547",
+                    "end": "7/10/1559"
+                  }
+                },
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "12/5/1560",
+                    "end": "8/17/1563"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "St Bartholomew's Day Massacre",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/23/1572",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Francis II",
               "style": "french",
               "timespan": {
@@ -2942,6 +3105,16 @@
                   "timespan": {
                     "start": "12/5/1560",
                     "end": "5/30/1574"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "St Bartholomew's Day Massacre",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/23/1572",
+                    "duration": "1m"
                   }
                 }
               ]

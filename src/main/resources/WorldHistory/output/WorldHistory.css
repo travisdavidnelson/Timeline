@@ -272,6 +272,7 @@
 .minorKing 			{fill:purple;	fill-opacity:0.4}
 .chieftain 			{fill:purple;	fill-opacity:0.3}
 .queen 				{fill:purple;	fill-opacity:0.6}
+.queenConsort 		{fill:purple;	fill-opacity:0.4}
 .lordProtector 		{fill:brown;	fill-opacity:1.0}
 .majordomo 			{fill:brown;	fill-opacity:0.6}
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
@@ -296,7 +297,7 @@
 .princeps 			{fill:blue;		fill-opacity:1.0}
 .quaestor 			{fill:blue;		fill-opacity:0.4}
 .rebel 			    {fill:black;	fill-opacity:0.5}
-.regent 			{fill:purple;		fill-opacity:0.5}
+.regent 			{fill:purple;	fill-opacity:0.5}
 .satrap 			{fill:blue;		fill-opacity:0.6}
 .sultan 			{fill:purple;	fill-opacity:0.9}
 .tribune 			{fill:blue;		fill-opacity:0.5}
