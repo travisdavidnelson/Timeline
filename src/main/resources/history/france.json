@@ -608,6 +608,14 @@
       }
     },
     {
+      "name": "Battle of Dreux",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/19/1562",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "French Wars of Religion",
       "style": "backgroundCivilWar",
       "timespan": {
