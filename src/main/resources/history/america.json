@@ -204,10 +204,62 @@
   ],
   "dynastyGroups": [
     {
-      "name": "Colonists",
+      "name": "Canadians and Americans",
       "yStart": 0,
       "dynasties": [
         {
+          "name": "Canada",
+          "backgroundEvents": [
+            {
+              "name": "New France",
+              "style": "frenchColonial",
+              "timespan": {
+                "start": "7/3/1608",
+                "end": "2/10/1763"
+              }
+            },
+            {
+              "name": "Canada under British Rule",
+              "style": "colonialCanada",
+              "timespan": {
+                "start": "2/10/1763",
+                "end": "7/1/1867"
+              }
+            },
+            {
+              "name": "Dominion of Canada",
+              "style": "dominionCanada",
+              "timespan": {
+                "start": "7/1/1867",
+                "end": "3/31/1949"
+              }
+            },
+            {
+              "name": "Dominion of Canada",
+              "style": "modernCanada",
+              "timespan": {
+                "start": "3/31/1949",
+                "end": ""
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Samuel Champlain",
+              "importance": "major",
+              "style": "french",
+              "timespan": {
+                "startApproximate": true,
+                "start": "8/13/1567",
+                "end": "12/25/1635"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
+          "mark": true,
           "name": "Virginia",
           "backgroundEvents": [
             {
@@ -501,14 +553,9 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Americans",
-      "yStart": 0,
-      "dynasties": [
+        },
         {
+          "pageBreak": true,
           "name": "Founders",
           "backgroundEvents": [
             {
@@ -4773,6 +4820,12 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "name": "Canada",
+      "yStart": 0,
+      "dynasties": [
       ]
     }
   ]

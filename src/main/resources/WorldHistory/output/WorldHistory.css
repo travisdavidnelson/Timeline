@@ -51,6 +51,7 @@
 .englishProtecturate {fill:brown;fill-opacity:0.8}
 .frenchBackground    {fill:#efb3b3;fill-opacity:0.4}
 .french              {fill:#efb3b3;fill-opacity:0.5}
+.frenchColonial      {fill:#eadada;fill-opacity:0.3}
 .frenchDirectorate   {fill:#26246d;fill-opacity:0.8}
 .frenchEmperor		 {fill:purple;	fill-opacity:1.0}
 .frenchPresident	 {fill:#0d06db;	fill-opacity:1.0}
@@ -129,6 +130,10 @@
 .americanRepublicMid {fill:lightblue;fill-opacity:0.5}
 .americanRepublicStrong {fill:lightblue;fill-opacity:0.7}
 .americanRepublic {fill:blue;fill-opacity:0.4}
+
+.colonialCanada {fill:#FF0000;fill-opacity:0.1}
+.dominionCanada {fill:#FF0000;fill-opacity:0.2}
+.modernCanada {fill:#FF0000;fill-opacity:0.3}
 
 .backgroundBattle {fill:red; fill-opacity:0.7}
 .backgroundBattleVictory {fill:red; fill-opacity:0.8}
