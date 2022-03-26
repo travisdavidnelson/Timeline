@@ -3349,7 +3349,7 @@
             {
               "name": "Jules Mazarin",
               "style": "french",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "7/14/1602",
                 "end": "3/9/1661"

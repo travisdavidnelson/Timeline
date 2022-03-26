@@ -2811,7 +2811,7 @@
             {
               "name": "Norman Borlaug",
               "style": "american",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "3/25/1914",
                 "end": "9/12/2009"
