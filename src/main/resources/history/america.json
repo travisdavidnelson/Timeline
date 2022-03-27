@@ -3801,6 +3801,16 @@
                     "end": "4/12/1945"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Japanese Attack on Pearl Harbor",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/7/1941",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -4633,6 +4643,16 @@
                   "timespan": {
                     "start": "1/20/2001",
                     "end": "1/20/2009"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Attacks of September 11, 2001",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/11/2001",
+                    "duration": "1d"
                   }
                 }
               ]
