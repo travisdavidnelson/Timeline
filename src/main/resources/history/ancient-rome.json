@@ -5238,6 +5238,7 @@
           ]
         },
         {
+          "pageBreak": true,
           "name": "Tetrarchy",
           "people": [
             {
@@ -5453,13 +5454,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Late Empire",
-      "yStart": 0,
-      "dynasties": [
+        },
         {
           "name": "Valentinians",
           "people": [
