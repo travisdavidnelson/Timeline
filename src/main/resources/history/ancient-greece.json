@@ -380,6 +380,22 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Roman-Sassanid War",
+      "timespan": {
+        "start": "230",
+        "end": "232"
+      },
+      "style": "backgroundWar"
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "timespan": {
+        "start": "295",
+        "end": "299"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Battle of Cibalae",
       "timespan": {
         "start": "10/8/314",
@@ -410,6 +426,22 @@
         "duration": "1d"
       },
       "style": "backgroundBattle"
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "337",
+        "end": "350"
+      }
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "359",
+        "end": "11/361"
+      }
     },
     {
       "name": "Massacre of the Constantinian Princes",

@@ -867,6 +867,22 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "337",
+        "end": "350"
+      }
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "359",
+        "end": "11/361"
+      }
+    },
+    {
       "name": "Massacre of the Constantinian Princes",
       "timespan": {
         "start": "5/22/337",
@@ -893,8 +909,8 @@
     {
       "name": "Julian's Persian expedition",
       "timespan": {
-        "start": "363",
-        "end": "363"
+        "start": "4/363",
+        "end": "8/363"
       },
       "style": "backgroundNationalCalamity"
     },

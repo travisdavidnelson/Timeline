@@ -11,11 +11,11 @@
     },
     {
       "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
       "timespan": {
         "start": "230",
         "end": "232"
-      },
-      "style": "backgroundWar"
+      }
     },
     {
       "name": "Battle of Edessa",
@@ -24,6 +24,46 @@
         "duration": "1w"
       },
       "style": "backgroundBattle"
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "295",
+        "end": "299"
+      }
+    },
+    {
+      "name": "Arab-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "325",
+        "duration": "1y"
+      }
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "337",
+        "end": "350"
+      }
+    },
+    {
+      "name": "Roman-Sassanid War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "359",
+        "end": "11/361"
+      }
+    },
+    {
+      "name": "Julian's Persian expedition",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "4/363",
+        "end": "8/363"
+      }
     }
   ],
   "dynastyGroups": [
@@ -56,6 +96,46 @@
                 "duration": "1w"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Roman-Sassanid War",
+              "timespan": {
+                "start": "295",
+                "end": "299"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Arab-Sassanid War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "325",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Roman-Sassanid War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "337",
+                "end": "350"
+              }
+            },
+            {
+              "name": "Roman-Sassanid War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "359",
+                "end": "11/361"
+              }
+            },
+            {
+              "name": "Julian's Persian expedition",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "4/363",
+                "end": "8/363"
+              }
             }
           ],
           "people": [
@@ -219,6 +299,24 @@
                   "timespan": {
                     "start": "309",
                     "end": "379"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Arab-Sassanid War",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "325",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Julian's Persian expedition",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/363",
+                    "end": "8/363"
                   }
                 }
               ]
