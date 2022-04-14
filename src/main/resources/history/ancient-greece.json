@@ -460,7 +460,7 @@
       "style": "backgroundCivilWar"
     },
     {
-      "name": "Battle of Mursa",
+      "name": "Battle of Mursa Major",
       "timespan": {
         "start": "9/28/351",
         "duration": "1d"
@@ -1202,6 +1202,16 @@
                     "end": "11/3/361"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of Mursa Major",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/28/351",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -1293,6 +1303,35 @@
                   "timespan": {
                     "start": "335",
                     "end": "336"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Magnentius",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "303",
+                "end": "8/11/353"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "usurper",
+                  "timespan": {
+                    "start": "1/18/350",
+                    "end": "8/11/353"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of Mursa Major",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/28/351",
+                    "duration": "1d"
                   }
                 }
               ]
