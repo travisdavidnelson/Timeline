@@ -4578,6 +4578,22 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1992",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/1996",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Clinton impeachment",
                   "style": "foregroundReputationalStain",
                   "timespan": {
@@ -4619,6 +4635,14 @@
                     "start": "9/11/2012",
                     "duration": "2d"
                   }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/8/2016",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -4647,6 +4671,22 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/2000",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/2004",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Attacks of September 11, 2001",
                   "style": "defeat",
@@ -4724,6 +4764,22 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/2008",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/2012",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Killing of Osama Bin Laden",
                   "style": "victory",
                   "timespan": {
@@ -4759,6 +4815,22 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/2016",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/3/2020",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "2nd impeachment",
                   "style": "foregroundReputationalStain",
@@ -4801,6 +4873,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/2020",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Fall of Kabul",
                   "style": "defeat",
