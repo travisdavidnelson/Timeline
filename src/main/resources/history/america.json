@@ -3804,6 +3804,38 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1932",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1936",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/1940",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1944",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Japanese Attack on Pearl Harbor",
                   "style": "defeat",
                   "timespan": {
@@ -3923,6 +3955,14 @@
                     "end": "8/9/1945"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1948",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -3958,6 +3998,22 @@
                     "duration": "1d"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1952",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1956",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -3989,6 +4045,16 @@
                   "timespan": {
                     "start": "1/20/1961",
                     "end": "11/22/1963"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1960",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -4053,6 +4119,16 @@
                   "timespan": {
                     "start": "11/22/1963",
                     "end": "1/20/1969"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1964",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -4125,6 +4201,30 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/8/1960",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/1968",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1972",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Resignation",
                   "style": "foregroundReputationalStain",
                   "timespan": {
@@ -4164,6 +4264,16 @@
                     "end": "1/20/1977"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/2/1976",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -4187,6 +4297,24 @@
                   "timespan": {
                     "start": "1/20/1977",
                     "end": "1/20/1981"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1976",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/4/1980",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -4216,6 +4344,22 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1980",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1984",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Dissolution of the Soviet Union",
                   "timespan": {
@@ -4261,6 +4405,24 @@
                   "timespan": {
                     "start": "1/20/1989",
                     "end": "1/20/1993"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1988",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/3/1992",
+                    "duration": "1d"
                   }
                 }
               ]
