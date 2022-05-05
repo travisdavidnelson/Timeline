@@ -3300,6 +3300,24 @@
                     "end": "9/14/1901"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1896",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1900",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3323,6 +3341,24 @@
                   "timespan": {
                     "start": "9/14/1901",
                     "end": "3/4/1909"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1904",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/5/1912",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -3371,6 +3407,24 @@
                     "end": "2/3/1930"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1908",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/5/1912",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3386,7 +3440,7 @@
                   "name": "governor",
                   "timespan": {
                     "start": "1/17/1911",
-                    "end": "3/1/1913"
+                    "end": "3/4/1913"
                   }
                 },
                 {
@@ -3394,6 +3448,24 @@
                   "timespan": {
                     "start": "3/4/1913",
                     "end": "3/4/1921"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/1912",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1916",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -3439,6 +3511,16 @@
                     "end": "8/2/1923"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1920",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3471,6 +3553,16 @@
                     "end": "3/4/1929"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1924",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3494,6 +3586,24 @@
                   "timespan": {
                     "start": "3/4/1929",
                     "end": "3/4/1933"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1928",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/8/1932",
+                    "duration": "1d"
                   }
                 }
               ]
