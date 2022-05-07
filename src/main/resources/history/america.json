@@ -1009,6 +1009,22 @@
                     "end": "10/19/1781"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/15/1788",
+                    "end": "1/10/1789"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1792",
+                    "end": "12/5/1792"
+                  }
                 }
               ]
             },
@@ -1063,6 +1079,24 @@
                     "end": "3/4/1801"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1796",
+                    "end": "12/7/1796"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/31/1800",
+                    "end": "12/3/1800"
+                  }
+                }
               ]
             },
             {
@@ -1102,6 +1136,8 @@
                     "end": "1/31/1795"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -1169,6 +1205,24 @@
                     "end": "3/4/1809"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/31/1800",
+                    "end": "12/3/1800"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1804",
+                    "end": "12/5/1804"
+                  }
+                }
               ]
             },
             {
@@ -1217,6 +1271,22 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1808",
+                    "end": "12/7/1808"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/30/1812",
+                    "end": "12/2/1812"
+                  }
+                },
                 {
                   "name": "Sack of Washington",
                   "timespan": {
@@ -1297,6 +1367,24 @@
                   "timespan": {
                     "start": "3/4/1817",
                     "end": "3/4/1825"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/1/1816",
+                    "end": "12/4/1816"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/1/1820",
+                    "end": "12/6/1820"
                   }
                 }
               ]
@@ -1421,6 +1509,16 @@
                     "end": "2/23/1848"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/26/1824",
+                    "end": "12/1/1824"
+                  }
+                }
               ]
             },
             {
@@ -1479,6 +1577,24 @@
                   "timespan": {
                     "start": "3/4/1849",
                     "end": "6/29/1852"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/2/1832",
+                    "end": "12/5/1832"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/1/1844",
+                    "end": "12/4/1844"
                   }
                 }
               ]
@@ -1543,6 +1659,30 @@
                     "duration": "1d"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/26/1824",
+                    "end": "12/1/1824"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/31/1828",
+                    "end": "12/2/1828"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1832",
+                    "end": "12/5/1832"
+                  }
                 }
               ]
             },
@@ -1597,6 +1737,16 @@
                     "end": "3/4/1841"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1836",
+                    "end": "12/7/1836"
+                  }
+                }
               ]
             },
             {
@@ -1607,20 +1757,24 @@
               },
               "importance": "minor",
               "style": "whig",
-              "titles": [{
-                "name": "secretaryOfState",
-                "timespan": {
-                  "start": "3/6/1841",
-                  "end": "5/8/1848"
-                }
-              },
+              "titles": [
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "3/6/1841",
+                    "end": "5/8/1848"
+                  }
+                },
                 {
                   "name": "secretaryOfState",
                   "timespan": {
                     "start": "7/23/1850",
                     "end": "10/24/1852"
                   }
-                }]
+                }
+              ],
+              "foregroundEvents": [
+              ]
             },
             {
               "name": "William Henry Harrison",
@@ -1689,6 +1843,14 @@
                     "duration": "1d"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/30/1844",
+                    "end": "12/2/1844"
+                  }
                 }
               ]
             },
@@ -1736,6 +1898,8 @@
                     "end": "3/4/1845"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -1775,6 +1939,16 @@
                     "end": "3/4/1849"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/1/1844",
+                    "end": "12/4/1844"
+                  }
+                }
               ]
             },
             {
@@ -1798,6 +1972,16 @@
                   "timespan": {
                     "start": "3/4/1849",
                     "end": "7/9/1850"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1848",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -1832,6 +2016,8 @@
                     "end": "3/4/1853"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -1862,6 +2048,16 @@
                   "timespan": {
                     "start": "3/4/1853",
                     "end": "3/4/1857"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1852",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -1915,6 +2111,16 @@
                   "timespan": {
                     "start": "3/4/1857",
                     "end": "3/4/1861"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1856",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -2438,6 +2644,22 @@
                     "duration": "1d"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1860",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1864",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -2582,6 +2804,22 @@
                     "duration": "1d"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/3/1868",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/1872",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -2658,6 +2896,16 @@
                     "end": "3/4/1881"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1876",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -2681,6 +2929,16 @@
                   "timespan": {
                     "start": "3/4/1881",
                     "end": "11/19/1881"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/2/1880",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -2708,6 +2966,8 @@
                     "end": "3/4/1885"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -2740,6 +3000,32 @@
                     "end": "3/4/1897"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/4/1884",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/6/1888",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/1892",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -2763,6 +3049,24 @@
                   "timespan": {
                     "start": "3/4/1889",
                     "end": "3/4/1893"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/6/1888",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/8/1892",
+                    "duration": "1d"
                   }
                 }
               ]
