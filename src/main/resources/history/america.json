@@ -1518,6 +1518,14 @@
                     "start": "10/26/1824",
                     "end": "12/1/1824"
                   }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/31/1828",
+                    "end": "12/2/1828"
+                  }
                 }
               ]
             },
@@ -1846,10 +1854,18 @@
                 },
                 {
                   "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/3/1836",
+                    "end": "12/7/1836"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
-                    "start": "10/30/1844",
-                    "end": "12/2/1844"
+                    "start": "10/30/1840",
+                    "end": "12/2/1840"
                   }
                 }
               ]
