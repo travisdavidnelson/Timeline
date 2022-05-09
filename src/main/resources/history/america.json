@@ -1758,61 +1758,6 @@
               ]
             },
             {
-              "name": "Daniel Webster",
-              "timespan": {
-                "start": "1/18/1782",
-                "end": "10/24/1852"
-              },
-              "importance": "minor",
-              "style": "whig",
-              "titles": [
-                {
-                  "name": "legislator",
-                  "timespan": {
-                    "start": "3/4/1813",
-                    "end": "3/3/1817"
-                  }
-                },
-                {
-                  "name": "legislator",
-                  "timespan": {
-                    "start": "3/4/1823",
-                    "end": "5/30/1827"
-                  }
-                },
-                {
-                  "name": "senator",
-                  "timespan": {
-                    "start": "6/8/1827",
-                    "end": "2/2/1841"
-                  }
-                },
-                {
-                  "name": "secretaryOfState",
-                  "timespan": {
-                    "start": "3/6/1841",
-                    "end": "5/8/1843"
-                  }
-                },
-                {
-                  "name": "senator",
-                  "timespan": {
-                    "start": "3/4/1845",
-                    "end": "7/22/1850"
-                  }
-                },
-                {
-                  "name": "secretaryOfState",
-                  "timespan": {
-                    "start": "7/23/1850",
-                    "end": "10/24/1852"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
               "name": "William Henry Harrison",
               "timespan": {
                 "start": "2/9/1773",
@@ -1940,6 +1885,61 @@
                   "timespan": {
                     "start": "4/4/1841",
                     "end": "3/4/1845"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Daniel Webster",
+              "timespan": {
+                "start": "1/18/1782",
+                "end": "10/24/1852"
+              },
+              "importance": "minor",
+              "style": "whig",
+              "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1813",
+                    "end": "3/3/1817"
+                  }
+                },
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "3/4/1823",
+                    "end": "5/30/1827"
+                  }
+                },
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "6/8/1827",
+                    "end": "2/2/1841"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "3/6/1841",
+                    "end": "5/8/1843"
+                  }
+                },
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "3/4/1845",
+                    "end": "7/22/1850"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "7/23/1850",
+                    "end": "10/24/1852"
                   }
                 }
               ],
