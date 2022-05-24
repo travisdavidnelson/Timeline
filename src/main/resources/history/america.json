@@ -3582,6 +3582,35 @@
           ]
         },
         {
+          "name": "Cultural",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Edgar Allan Poe",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "1/19/1809",
+                "end": "10/7/1849"
+              },
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mark Twain",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/30/1835",
+                "end": "4/21/1910"
+              },
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        },
+        {
           "pageBreak": true,
           "name": "Emergent power",
           "backgroundEvents": [
