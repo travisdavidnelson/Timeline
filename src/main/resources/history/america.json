@@ -254,6 +254,63 @@
                 "end": "12/25/1635"
               },
               "titles": [
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "5/1633",
+                    "end": "12/25/1635"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Exploration of the Saint Lawrence River",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "3/1603",
+                    "end": "9/1603"
+                  }
+                },
+                {
+                  "name": "Exploration of Acadia",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "4/1604",
+                    "end": "7/1607"
+                  }
+                },
+                {
+                  "name": "Victory over Iroquois",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/29/1609",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Victory over Mohawks",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/19/1610",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Oneida river campaign",
+                  "style": "entrada",
+                  "timespan": {
+                    "start": "9/1/1615",
+                    "end": "10/16/1615"
+                  }
+                },
+                {
+                  "name": "Surrender of Quebec",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/19/1629",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]

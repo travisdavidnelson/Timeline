@@ -1441,45 +1441,64 @@
           ]
         },
         {
-          "name": "Church Fathers",
+          "name": "Valentinian-Theodosians",
           "backgroundEvents": [
+            {
+              "name": "Battle of Adrianople",
+              "style": "defeat",
+              "timespan": {
+                "start": "8/9/378",
+                "duration": "1m"
+              }
+            }
           ],
           "people": [
             {
-              "name": "John Chrysostom",
-              "style": "sanctified",
+              "name": "Valens",
+              "style": "roman",
               "timespan": {
-                "startApproximate": true,
-                "start": "347",
-                "end": "9/14/407"
+                "start": "328",
+                "end": "8/9/378"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
-                  "name": "archbishop",
+                  "name": "augustus",
                   "timespan": {
-                    "start": "10/397",
-                    "end": "404"
-                  }
-                },
-                {
-                  "name": "exile",
-                  "timespan": {
-                    "start": "404",
-                    "end": "9/14/407"
+                    "start": "3/28/364",
+                    "end": "8/9/378"
                   }
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Adrianople",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/9/378",
+                    "duration": "1m"
+                  }
+                }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Theodosians",
-          "backgroundEvents": [
-          ],
-          "people": [
+            },
+            {
+              "name": "Theodosius I",
+              "style": "roman",
+              "timespan": {
+                "start": "1/11/347",
+                "end": "1/17/395"
+              },
+              "importance": "major",
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "1/19/379",
+                    "end": "1/17/395"
+                  }
+                }
+              ]
+            },
             {
               "name": "Arcadius",
               "style": "roman",
@@ -1518,6 +1537,34 @@
                     "end": "10/6/404"
                   }
                 }
+              ]
+            },
+            {
+              "name": "John Chrysostom",
+              "style": "sanctified",
+              "timespan": {
+                "startApproximate": true,
+                "start": "347",
+                "end": "9/14/407"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "archbishop",
+                  "timespan": {
+                    "start": "10/397",
+                    "end": "404"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "404",
+                    "end": "9/14/407"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -2832,7 +2879,7 @@
       ]
     },
     {
-      "name": "Late Byzantine Emperors",
+      "name": "Late Eastern Roman Empire",
       "yStart": 0,
       "dynasties": [
         {
@@ -3497,7 +3544,7 @@
       ]
     },
     {
-      "name": "Eastern Roman Empire",
+      "name": "Late Eastern Roman Empire",
       "yStart": 0,
       "dynasties": [
         {
