@@ -3233,6 +3233,34 @@
               ]
             },
             {
+              "name": "Martin Luther King",
+              "timespan": {
+                "start": "1/15/1929",
+                "end": "4/4/1968"
+              },
+              "importance": "major",
+              "style": "american",
+              "titles": [
+                {
+                  "name": "activist",
+                  "timespan": {
+                    "start": "1955",
+                    "end": "4/4/1968"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "I Have a Dream",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "8/28/1963",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "pageBreak": true,
               "name": "Steve Jobs",
               "style": "american",
@@ -4672,34 +4700,6 @@
                   "style": "victory",
                   "timespan": {
                     "start": "11/3/1964",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Martin Luther King",
-              "timespan": {
-                "start": "1/15/1929",
-                "end": "4/4/1968"
-              },
-              "importance": "major",
-              "style": "american",
-              "titles": [
-                {
-                  "name": "activist",
-                  "timespan": {
-                    "start": "1955",
-                    "end": "4/4/1968"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "I Have a Dream",
-                  "style": "triumph",
-                  "timespan": {
-                    "start": "8/28/1963",
                     "duration": "1d"
                   }
                 }
