@@ -487,9 +487,17 @@
       "name": "Battle of Adrianople",
       "timespan": {
         "start": "8/9/378",
-        "duration": "1m"
+        "duration": "2w"
       },
       "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Siege of Constantinople (378)",
+      "timespan": {
+        "start": "8/15/378",
+        "duration": "1m"
+      },
+      "style": "backgroundSiege"
     },
     {
       "name": "Sack of Rome (410)",
@@ -564,6 +572,110 @@
       "style": "backgroundPlagueMajor"
     },
     {
+      "name": "Siege of Constantinople (626)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/626",
+        "duration": "2m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (654)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/654",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (674-678)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "674",
+        "end": "678"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (717-718)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "7/15/717",
+        "end": "8/15/718"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (821-822)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "11/821",
+        "end": "12/822"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (860)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/18/860",
+        "end": "8/4/860"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (907)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/907",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (913)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/913",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (921)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/921",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (923)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/923",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (941)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "6/941",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (941)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "944",
+        "end": "945"
+      }
+    },
+    {
+      "name": "Siege of Constantinople (1047)",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "9/25/1047",
+        "end": "9/28/1047"
+      }
+    },
+    {
       "name": "Battle of Manzikert",
       "timespan": {
         "start": "8/26/1071",
@@ -574,10 +686,10 @@
     {
       "name": "Fourth Crusade",
       "timespan": {
-        "start": "1204",
-        "end": "1204"
+        "start": "1202",
+        "end": "4/13/1204"
       },
-      "style": "backgroundNationalCalamity"
+      "style": "backgroundWar"
     },
     {
       "name": "Black Death",
@@ -2905,9 +3017,33 @@
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
-                "end": "1204"
+                "end": "4/13/1204"
               },
               "style": "backgroundWar"
+            },
+            {
+              "name": "Siege of Constantinople (1203)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "7/11/1203",
+                "end": "8/1/1203"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1204)",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "4/12/1204",
+                "end": "4/15/1204"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1235)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1235",
+                "end": "9/1235"
+              }
             },
             {
               "name": "Battle of Pelagonia",
@@ -2916,6 +3052,14 @@
                 "duration": "1m"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Siege of Constantinople (1260)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "1/1260",
+                "end": "8/1260"
+              }
             },
             {
               "name": "Reconquest of Constantinople",
@@ -3183,9 +3327,33 @@
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
-                "end": "1204"
+                "end": "4/13/1204"
               },
               "style": "backgroundWar"
+            },
+            {
+              "name": "Siege of Constantinople (1203)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "7/11/1203",
+                "end": "8/1/1203"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1204)",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "4/12/1204",
+                "end": "4/15/1204"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1235)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1235",
+                "end": "9/1235"
+              }
             },
             {
               "name": "Battle of Pelagonia",
@@ -3194,6 +3362,14 @@
                 "duration": "1m"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Siege of Constantinople (1260)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "1/1260",
+                "end": "8/1260"
+              }
             },
             {
               "name": "Reconquest of Constantinople",
@@ -3341,7 +3517,7 @@
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
-                "end": "1204"
+                "end": "4/13/1204"
               },
               "style": "backgroundWar"
             },
@@ -3559,12 +3735,52 @@
               "style": "byzantium"
             },
             {
+              "name": "Fourth Crusade",
+              "timespan": {
+                "start": "6/23/1203",
+                "end": "4/13/1204"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Siege of Constantinople (1203)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "7/11/1203",
+                "end": "8/1/1203"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1204)",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "4/12/1204",
+                "end": "4/15/1204"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1235)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1235",
+                "end": "9/1235"
+              }
+            },
+            {
               "name": "Battle of Pelagonia",
               "timespan": {
                 "start": "7/1259",
                 "duration": "1m"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Siege of Constantinople (1260)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "1/1260",
+                "end": "8/1260"
+              }
             },
             {
               "name": "Reconquest of Constantinople",
@@ -3583,11 +3799,43 @@
               }
             },
             {
+              "name": "Siege of Constantinople (1376)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1376",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1391)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1391",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Siege of Constantinople",
               "style": "backgroundSiege",
               "timespan": {
                 "start": "1394",
                 "end": "1402"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1411)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/1411",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Siege of Constantinople (1422)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "6/10/1422",
+                "end": "9/1422"
               }
             },
             {
