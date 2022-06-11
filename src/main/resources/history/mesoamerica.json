@@ -3,7 +3,7 @@
   "backgroundEvents": [
     {
       "name": "Stone Age",
-      "style": "neolithic",
+      "style": "stoneAge",
       "timespan": {
         "start": "5000 BC",
         "endApproximate": "true",
