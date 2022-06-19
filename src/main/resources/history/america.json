@@ -227,6 +227,30 @@
               }
             },
             {
+              "name": "French and Indian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "1754",
+                "end": "2/15/1763"
+              }
+            },
+            {
+              "name": "Conquest of New France",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "6/1758",
+                "end": "9/1760"
+              }
+            },
+            {
+              "name": "Battle of Plains of Abraham",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/13/1759",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Dominion of Canada",
               "style": "dominionCanada",
               "timespan": {
@@ -241,6 +265,38 @@
                 "start": "3/31/1949",
                 "end": ""
               }
+            },
+            {
+              "name": "World War I",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "7/28/1914",
+                "end": "11/11/1918"
+              }
+            },
+            {
+              "name": "Battle of Vimy Ridge",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/9/1917",
+                "end": "4/12/1917"
+              }
+            },
+            {
+              "name": "World War II",
+              "style": "backgroundForeignWarMajor",
+              "timespan": {
+                "start": "9/1/1939",
+                "end": "9/2/1945"
+              }
+            },
+            {
+              "name": "COVID-19",
+              "timespan": {
+                "start": "2020",
+                "end": "2/2022"
+              },
+              "style": "backgroundPlagueMinor"
             }
           ],
           "people": [
@@ -5626,12 +5682,6 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "name": "Canada",
-      "yStart": 0,
-      "dynasties": [
       ]
     }
   ]
