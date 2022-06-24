@@ -67,7 +67,6 @@
 .frenchRepublic {fill:#090496;fill-opacity:0.3}
 .german {fill:#5851d6;fill-opacity:0.3}
 .greek {fill:blue;fill-opacity:0.2}
-.hittiteWeak {fill:brown;fill-opacity:0.2}
 .inca {fill:#e55919; fill-opacity:0.5}
 .incaMinor {fill:#e55919; fill-opacity:0.3}
 .kish {fill:green;fill-opacity:0.4}
@@ -185,7 +184,7 @@
 .backgroundSiege {fill:#ad0126; fill-opacity:0.6}
 .foregroundReputationalStain {fill:black; fill-opacity:1.0}
 .stoneAge {fill:#777777;fill-opacity:0.7}
-.bronzeAge {fill:#CD7F32;fill-opacity:0.5}
+.bronzeAge {fill:#d8a068;fill-opacity:0.2}
 .ironAge {fill:#c4c4c4;fill-opacity:1.0}
 .conflict {fill:red; stroke:red; stroke-width:0.1; fill-opacity:1.0}
 .roman {fill:#718d99; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
@@ -198,8 +197,9 @@
 .gutian {fill:brown; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .egyptian {fill:gold; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .elamite {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
-.hittite {fill:brown; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
-.hurrian {fill:yellow; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
+.hittiteStrong {fill:#ba841a; stroke:black; stroke-width:0.1; fill-opacity:0.6; box-shadow: -5px -5px 5px #888;}
+.hittiteWeak {fill:#ba841a; stroke:black; stroke-width:0.1; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
+.hurrian {fill:#ea97ba; stroke:black; stroke-width:0.3; fill-opacity:0.4; box-shadow: -5px -5px 5px #888;}
 .hyksos {fill:orange; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .isin {fill:green; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}
 .israel {fill:blue; stroke:black; stroke-width:0.1; fill-opacity:0.3; box-shadow: -5px -5px 5px #888;}

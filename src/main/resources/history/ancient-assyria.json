@@ -52,12 +52,12 @@
     },
     {
       "name": "Hittite Empire",
-      "style": "hittite",
+      "style": "hittiteStrong",
       "timespan": {
         "startApproximate": true,
         "start": "1392 BC",
         "endApproximate": true,
-        "end": "1330 BC"
+        "end": "1280 BC"
       }
     },
     {

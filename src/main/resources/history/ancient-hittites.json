@@ -13,7 +13,7 @@
     },
     {
       "name": "Hittite Empire",
-      "style": "hittite",
+      "style": "hittiteStrong",
       "timespan": {
         "startApproximate": true,
         "start": "1350 BC",
@@ -39,24 +39,14 @@
           "name": "Hittite Old Kingdom",
           "backgroundEvents": [
             {
-              "name": "Hittite Early Period",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1850 BC",
-                "endApproximate": true,
-                "end": "1595 BC"
-              },
-              "style": "hittiteWeak"
-            },
-            {
               "name": "Hittite Old Kingdom",
               "timespan": {
                 "startApproximate": true,
                 "start": "1595 BC",
                 "endApproximate": true,
-                "end": "1460 BC"
+                "end": "1440 BC"
               },
-              "style": "hittite"
+              "style": "hittiteStrong"
             },
             {
               "name": "Hittite Sack of Babylon",
@@ -70,17 +60,17 @@
               "name": "Hittite Middle Kingdom",
               "timespan": {
                 "startApproximate": true,
-                "start": "1460 BC",
+                "start": "1450 BC",
                 "endApproximate": true,
-                "end": "1360 BC"
+                "end": "1350 BC"
               },
-              "style": "hittite"
+              "style": "hittiteWeak"
             }
           ],
           "people": [
             {
               "name": "Hattusili I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "major",
               "titles": [
                 {
@@ -96,7 +86,7 @@
             },
             {
               "name": "Mursili I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "major",
               "titles": [
                 {
@@ -112,7 +102,7 @@
             },
             {
               "name": "Hantili I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "semimajor",
               "titles": [
                 {
@@ -128,7 +118,7 @@
             },
             {
               "name": "Ziganta I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -144,7 +134,7 @@
             },
             {
               "name": "Ammuna",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -160,7 +150,7 @@
             },
             {
               "name": "Huzziya I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -176,7 +166,7 @@
             },
             {
               "name": "Telipinus",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -204,10 +194,10 @@
               "name": "Hittite New Kingdom",
               "timespan": {
                 "startApproximate": true,
-                "start": "1360 BC",
+                "start": "1392 BC",
                 "end": "1178 BC"
               },
-              "style": "hittite"
+              "style": "hittiteStrong"
             },
             {
               "name": "Battle of Kadesh",
@@ -230,7 +220,7 @@
           "people": [
             {
               "name": "Tudhaliya II",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -246,7 +236,7 @@
             },
             {
               "name": "Suppiluliuma I",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "major",
               "titles": [
                 {
@@ -262,7 +252,7 @@
             },
             {
               "name": "Arnuwanda II",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -278,7 +268,7 @@
             },
             {
               "name": "Mursili II",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -294,7 +284,7 @@
             },
             {
               "name": "Muwatalli II",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "major",
               "titles": [
                 {
@@ -310,7 +300,7 @@
             },
             {
               "name": "Mursili III",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -326,7 +316,7 @@
             },
             {
               "name": "Hattusili III",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "semimajor",
               "titles": [
                 {
@@ -342,7 +332,7 @@
             },
             {
               "name": "Tudhaliya IV",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "semimajor",
               "titles": [
                 {
@@ -358,7 +348,7 @@
             },
             {
               "name": "Kurunta",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -374,7 +364,7 @@
             },
             {
               "name": "Arnuwanda III",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "minor",
               "titles": [
                 {
@@ -390,7 +380,7 @@
             },
             {
               "name": "Suppiluliuma II",
-              "style": "hittite",
+              "style": "hittiteStrong",
               "importance": "semimajor",
               "titles": [
                 {
