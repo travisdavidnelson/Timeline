@@ -1602,6 +1602,11 @@
               "name": "Tiglath-Pileser III",
               "style": "assyrian",
               "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "795 BC",
+                "end": "727 BC"
+              },
               "titles": [
                 {
                   "name": "king",
