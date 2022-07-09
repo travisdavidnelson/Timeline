@@ -1615,6 +1615,32 @@
                     "end": "727 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Conquest of Urartu",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "743 BC",
+                    "duration": "3m"
+                  }
+                },
+                {
+                  "name": "Conquest of Levant",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "735 BC",
+                    "duration": "3m"
+                  }
+                },
+                {
+                  "name": "Conquest of Babylonia",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "729 BC",
+                    "duration": "3m"
+                  }
+                }
               ]
             },
             {
