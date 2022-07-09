@@ -5140,6 +5140,27 @@
               ]
             },
             {
+              "name": "Ulpia Severina&#9792;",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "220",
+                "endApproximate": "true",
+                "end": "280"
+              },
+              "importance": "minor",
+              "annotation": "Ran things durings a brif interregnum following Aurelian's murder.",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "5/270",
+                    "end": "12/275"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Marcus Claudius Tacitus",
               "style": "roman",
               "timespan": {
@@ -5147,12 +5168,12 @@
                 "start": "200",
                 "end": "6/276"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "9/25/275",
+                    "start": "12/275",
                     "end": "6/276"
                   }
                 }
