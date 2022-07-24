@@ -2821,6 +2821,64 @@
               ]
             },
             {
+              "name": "George McClellan",
+              "timespan": {
+                "start": "12/3/1826",
+                "end": "10/29/1885"
+              },
+              "importance": "minor",
+              "style": "democrat",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "11/1/1961",
+                    "end": "3/11/1862"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "9/2/1862",
+                    "end": "11/5/1862"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1/15/1878",
+                    "end": "1/18/1881"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Seven Days",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/25/1862",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Battle of Antiedam",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/17/1862",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/8/1864",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Andrew Johnson",
               "timespan": {
                 "start": "12/29/1808",
