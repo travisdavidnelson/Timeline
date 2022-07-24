@@ -2795,14 +2795,6 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Fall of Richmond",
-                  "timespan": {
-                    "start": "4/2/1865",
-                    "duration": "1d"
-                  },
-                  "style": "victory"
-                },
-                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
@@ -2811,12 +2803,36 @@
                   }
                 },
                 {
+                  "name": "Emancipation Proclamation",
+                  "timespan": {
+                    "start": "1/1/1863",
+                    "duration": "1w"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Gettysburg Address",
+                  "timespan": {
+                    "start": "11/19/1863",
+                    "duration": "1w"
+                  },
+                  "style": "victory"
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
                     "start": "11/8/1864",
                     "duration": "1d"
                   }
+                },
+                {
+                  "name": "Fall of Richmond",
+                  "timespan": {
+                    "start": "4/2/1865",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
                 }
               ]
             },
@@ -2840,7 +2856,7 @@
                   "name": "general",
                   "timespan": {
                     "start": "9/2/1862",
-                    "end": "11/5/1862"
+                    "end": "11/5--0-/1862"
                   }
                 },
                 {
