@@ -848,9 +848,17 @@
               "style": "backgroundMinorRebellion"
             },
             {
+              "name": "Louisiana Purchase",
+              "timespan": {
+                "start": "12/20/1803",
+                "end": "3/10/1804"
+              },
+              "style": "victory"
+            },
+            {
               "name": "Lewis and Clark Expedition",
               "timespan": {
-                "start": "8/31/1803",
+                "start": "5/14/1804",
                 "end": "9/25/1806"
               },
               "style": "expedition"
@@ -1329,6 +1337,14 @@
                   }
                 },
                 {
+                  "name": "Louisiana Purchase",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/20/1803",
+                    "end": "3/10/1804"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
@@ -1508,9 +1524,17 @@
           "name": "Expansionists",
           "backgroundEvents": [
             {
+              "name": "Louisiana Purchase",
+              "timespan": {
+                "start": "12/20/1803",
+                "end": "3/10/1804"
+              },
+              "style": "victory"
+            },
+            {
               "name": "Lewis and Clark Expedition",
               "timespan": {
-                "start": "8/31/1803",
+                "start": "5/14/1804",
                 "end": "9/25/1806"
               },
               "style": "expedition"
@@ -3452,9 +3476,17 @@
           "name": "Explorers",
           "backgroundEvents": [
             {
+              "name": "Louisiana Purchase",
+              "timespan": {
+                "start": "12/20/1803",
+                "end": "3/10/1804"
+              },
+              "style": "victory"
+            },
+            {
               "name": "Lewis and Clark Expedition",
               "timespan": {
-                "start": "8/31/1803",
+                "start": "5/14/1804",
                 "end": "9/25/1806"
               },
               "style": "expedition"
@@ -3493,7 +3525,7 @@
                   "name": "Lewis and Clark Expedition",
                   "style": "expedition",
                   "timespan": {
-                    "start": "8/31/1803",
+                    "start": "5/14/1804",
                     "end": "9/25/1806"
                   }
                 }
@@ -3512,7 +3544,7 @@
                   "name": "Lewis and Clark Expedition",
                   "style": "expedition",
                   "timespan": {
-                    "start": "8/31/1803",
+                    "start": "5/14/1804",
                     "end": "9/25/1806"
                   }
                 }
