@@ -2014,7 +2014,7 @@
             },
             {
               "name": "Lucius Mummius Achaicus",
-              "style": "roman",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": "true",
                 "start": "200 BC",
