@@ -1132,6 +1132,14 @@
                   "style": "victory"
                 },
                 {
+                  "name": "Resignation as commander-in-chief",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "12/1783",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
