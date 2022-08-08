@@ -1,5 +1,6 @@
 {
   "name": "Assyria / Armenia",
+  "stackable": "true",
   "backgroundEvents": [
     {
       "name": "Akkadian Empire",
