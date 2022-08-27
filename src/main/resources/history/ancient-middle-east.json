@@ -3747,6 +3747,7 @@
       "dynasties": [
         {
           "mark": true,
+          "stackable": "true",
           "name": "Assyria Puzur-Ashur",
           "backgroundEvents": [
             {
