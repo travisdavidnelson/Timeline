@@ -6777,13 +6777,31 @@
               "importance": "major",
               "timespan": {
                 "start": "4/21/1926",
-                "end": ""
+                "end": "9/8/2022"
               },
               "titles": [
                 {
                   "name": "queen",
                   "timespan": {
                     "start": "2/6/1952",
+                    "end": "9/8/2022"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles III",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/14/1948",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/8/2022",
                     "end": ""
                   }
                 }
@@ -8030,6 +8048,24 @@
                   "name": "primeMinister",
                   "timespan": {
                     "start": "7/24/2019",
+                    "end": "9/6/2022"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Liz Truss",
+              "style": "conservative",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/26/1975",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "9/6/2022",
                     "end": ""
                   }
                 }
