@@ -3861,6 +3861,33 @@
               ]
             },
             {
+              "name": "Henry David Thoreau",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/12/1817",
+                "end": "5/6/1862"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Civil Disobedience",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1849",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Walden",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "8/9/1854",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Herman Melville",
               "style": "american",
               "importance": "petty",
