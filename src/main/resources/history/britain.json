@@ -5982,10 +5982,52 @@
                 "end": "7/6/1535"
               },
               "titles": [
+                {
+                  "name": "lordChancellor",
+                  "timespan": {
+                    "start": "10/1529",
+                    "end": "5/1532"
+                  }
+                }
               ]
             },
             {
               "pageBreak": true,
+              "name": "Francis Bacon",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "1/22/1561",
+                "end": "4/9/1626"
+              },
+              "titles": [
+                {
+                  "name": "attorneyGeneral",
+                  "timespan": {
+                    "start": "10/26/1613",
+                    "end": "3/7/1617"
+                  }
+                },
+                {
+                  "name": "lordChancellor",
+                  "timespan": {
+                    "start": "3/7/1617",
+                    "end": "5/3/1621"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Utopia",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1516",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Christopher Marlowe",
               "style": "english",
               "importance": "minor",
@@ -6090,28 +6132,6 @@
               ]
             },
             {
-              "name": "Francis Bacon",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "1/22/1561",
-                "end": "4/9/1626"
-              },
-              "titles": [
-              ]
-            },
-            {
-              "name": "Benjamin Jonson",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "start": "6/11/1572",
-                "end": "8/16/1637"
-              },
-              "titles": [
-              ]
-            },
-            {
               "name": "John Milton",
               "style": "english",
               "importance": "semimajor",
@@ -6120,6 +6140,24 @@
                 "end": "11/8/1674"
               },
               "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Areopagitica",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Paradise Lost",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1667",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -6131,6 +6169,24 @@
                 "end": "3/31/1727"
               },
               "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Mathematical Principles of Natural Philosophy",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "7/5/1687",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Opticks",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1704",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]
