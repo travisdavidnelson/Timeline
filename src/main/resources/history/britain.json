@@ -6553,261 +6553,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Hanover",
-          "backgroundEvents": [
-            {
-              "name": "Jacobite Rising of 1715",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/27/1715",
-                "end": "2/4/1716"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1719",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "5/10/1719",
-                "end": "6/10/1719"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1745",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/19/1745",
-                "end": "4/20/1746"
-              }
-            },
-            {
-              "name": "Battle of Culloden",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "4/16/1746",
-                "duration": "1d"
-              }
-            }
-          ],
-          "people": [
-            {
-              "name": "George I",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "5/28/1660",
-                "end": "6/11/1727"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "8/1/1714",
-                    "end": "6/11/1727"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George II",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "10/30/1683",
-                "end": "10/25/1760"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/11/1727",
-                    "end": "10/25/1760"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George III",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "6/4/1738",
-                "end": "1/29/1820"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "10/25/1760",
-                    "end": "1/29/1820"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George IV",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "8/12/1762",
-                "end": "6/26/1830"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/29/1820",
-                    "end": "6/26/1830"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "William IV",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "8/21/1765",
-                "end": "6/20/1837"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/26/1830",
-                    "end": "6/20/1837"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Victoria&#9792;",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "5/24/1819",
-                "end": "1/22/1901"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/20/1837",
-                    "end": "1/22/1901"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Edward VII",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "11/9/1841",
-                "end": "5/6/1910"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/22/1901",
-                    "end": "5/6/1910"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George V",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "6/3/1865",
-                "end": "1/20/1936"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "5/6/1910",
-                    "end": "1/20/1936"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Edward VIII",
-              "style": "british",
-              "importance": "petty",
-              "timespan": {
-                "start": "6/23/1894",
-                "end": "5/28/1972"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/20/1936",
-                    "end": "12/11/1936"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George VI",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "12/14/1895",
-                "end": "2/6/1952"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "12/11/1936",
-                    "end": "2/6/1952"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Elizabeth II&#9792;",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "4/21/1926",
-                "end": "9/8/2022"
-              },
-              "titles": [
-                {
-                  "name": "queen",
-                  "timespan": {
-                    "start": "2/6/1952",
-                    "end": "9/8/2022"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Charles III",
-              "style": "british",
-              "importance": "petty",
-              "timespan": {
-                "start": "11/14/1948",
-                "end": ""
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "9/8/2022",
-                    "end": ""
-                  }
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -8066,6 +7811,300 @@
                   "name": "primeMinister",
                   "timespan": {
                     "start": "9/6/2022",
+                    "end": ""
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hanover",
+          "backgroundEvents": [
+            {
+              "name": "Jacobite Rising of 1715",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/27/1715",
+                "end": "2/4/1716"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1719",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "5/10/1719",
+                "end": "6/10/1719"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1745",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/19/1745",
+                "end": "4/20/1746"
+              }
+            },
+            {
+              "name": "Battle of Culloden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/16/1746",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "George I",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "5/28/1660",
+                "end": "6/11/1727"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/1/1714",
+                    "end": "6/11/1727"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George II",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/30/1683",
+                "end": "10/25/1760"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/11/1727",
+                    "end": "10/25/1760"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George III",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "6/4/1738",
+                "end": "1/29/1820"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/25/1760",
+                    "end": "1/29/1820"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George IV",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "8/12/1762",
+                "end": "6/26/1830"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/29/1820",
+                    "end": "6/26/1830"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William IV",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/21/1765",
+                "end": "6/20/1837"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/26/1830",
+                    "end": "6/20/1837"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Victoria&#9792;",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "5/24/1819",
+                "end": "1/22/1901"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/20/1837",
+                    "end": "1/22/1901"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VII",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/9/1841",
+                "end": "5/6/1910"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/22/1901",
+                    "end": "5/6/1910"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Windsor",
+          "backgroundEvents": [
+            {
+              "name": "Jacobite Rising of 1715",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/27/1715",
+                "end": "2/4/1716"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1719",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "5/10/1719",
+                "end": "6/10/1719"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1745",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/19/1745",
+                "end": "4/20/1746"
+              }
+            },
+            {
+              "name": "Battle of Culloden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/16/1746",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "George V",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "6/3/1865",
+                "end": "1/20/1936"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/6/1910",
+                    "end": "1/20/1936"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VIII",
+              "style": "british",
+              "importance": "petty",
+              "timespan": {
+                "start": "6/23/1894",
+                "end": "5/28/1972"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/20/1936",
+                    "end": "12/11/1936"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George VI",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "12/14/1895",
+                "end": "2/6/1952"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/11/1936",
+                    "end": "2/6/1952"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elizabeth II&#9792;",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "4/21/1926",
+                "end": "9/8/2022"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "2/6/1952",
+                    "end": "9/8/2022"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles III",
+              "style": "british",
+              "importance": "petty",
+              "timespan": {
+                "start": "11/14/1948",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/8/2022",
                     "end": ""
                   }
                 }
