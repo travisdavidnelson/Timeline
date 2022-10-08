@@ -6005,6 +6005,88 @@
                 "end": "4/23/1616"
               },
               "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Romeo and Juliet",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1595",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "A Midsummer Night's Dream",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1595",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Much Ado About Nothing",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1598",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Henry V",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1599",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Julius Caesar",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1599",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Hamlet",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1600",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Othello",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1603",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "King Lear",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1605",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Macbeth",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1606",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Antony and Cleopatra",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1606",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
