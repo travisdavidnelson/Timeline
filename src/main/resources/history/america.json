@@ -3844,12 +3844,39 @@
             {
               "name": "Edgar Allan Poe",
               "style": "american",
-              "importance": "minor",
+              "importance": "petty",
               "timespan": {
                 "start": "1/19/1809",
                 "end": "10/7/1849"
               },
               "foregroundEvents": [
+                {
+                  "name": "The Raven",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/29/1845",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Herman Melville",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "8/1/1819",
+                "end": "9/28/1891"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Moby-Dick",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "11/14/1851",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3861,6 +3888,22 @@
                 "end": "4/21/1910"
               },
               "foregroundEvents": [
+                {
+                  "name": "The Adventures of Tom Sawyer",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "12/1876",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Adventures of Huckleberry Finn",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1885",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3874,7 +3917,7 @@
               "foregroundEvents": [
                 {
                   "name": "The Sun Also Rises",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "10/22/1926",
                     "duration": "1d"
@@ -3882,7 +3925,7 @@
                 },
                 {
                   "name": "A Farewell to Arms",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "9/1929",
                     "duration": "1d"
@@ -3890,7 +3933,7 @@
                 },
                 {
                   "name": "For Whom the Bell Tolls",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "10/21/1940",
                     "duration": "1d"
@@ -3898,7 +3941,7 @@
                 },
                 {
                   "name": "The Old Man and the Sea",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "9/1/1952",
                     "duration": "1d"
@@ -3906,7 +3949,7 @@
                 },
                 {
                   "name": "Nobel Prize in Literature",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "1953",
                     "duration": "1y"
@@ -3925,7 +3968,7 @@
               "foregroundEvents": [
                 {
                   "name": "On The Road",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
                     "start": "9/5/1957",
                     "duration": "1d"
