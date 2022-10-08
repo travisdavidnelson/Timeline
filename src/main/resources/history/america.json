@@ -3862,6 +3862,76 @@
               },
               "foregroundEvents": [
               ]
+            },
+            {
+              "name": "Ernest Hemingway",
+              "style": "american",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/21/1899",
+                "end": "7/2/1961"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "The Sun Also Rises",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/22/1926",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "A Farewell to Arms",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/1929",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "For Whom the Bell Tolls",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/21/1940",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "The Old Man and the Sea",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/1/1952",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Nobel Prize in Literature",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1953",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jack Kerouac",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "3/12/1922",
+                "end": "10/21/1969"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "On The Road",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/5/1957",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
