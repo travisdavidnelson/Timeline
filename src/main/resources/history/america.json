@@ -3624,6 +3624,19 @@
               ]
             },
             {
+              "name": "Jedediah Smith",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/6/1799",
+                "end": "5/27/1831"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Kit Carson",
               "style": "american",
               "importance": "petty",
