@@ -7938,6 +7938,24 @@
                   "name": "primeMinister",
                   "timespan": {
                     "start": "9/6/2022",
+                    "end": "10/25/2022"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rishi Sunak",
+              "style": "conservative",
+              "importance": "petty",
+              "timespan": {
+                "start": "5/12/1980",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "10/25/2022",
                     "end": ""
                   }
                 }
