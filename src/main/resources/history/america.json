@@ -3724,6 +3724,16 @@
             },
             {
               "pageBreak": true,
+              "name": "Amelia Earhart&#9792;",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "7/24/1897",
+                "endApproximate": "true",
+                "end": "7/2/1937"
+              }
+            },
+            {
               "name": "Charles Lindbergh",
               "style": "american",
               "importance": "minor",
@@ -3741,16 +3751,6 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "Amelia Earhart&#9792;",
-              "style": "american",
-              "importance": "petty",
-              "timespan": {
-                "start": "7/24/1897",
-                "endApproximate": "true",
-                "end": "7/2/1937"
-              }
             },
             {
               "name": "Chuck Yeager",
