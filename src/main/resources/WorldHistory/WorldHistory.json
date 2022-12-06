@@ -112,6 +112,10 @@
     {
       "name": "North America",
       "resources": "mesoamerica,spanishEmpire,inca,america"
+    },
+    {
+      "name": "Russia",
+      "resources": "russia"
     }
   ]
 }

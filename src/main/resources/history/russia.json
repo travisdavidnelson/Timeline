@@ -1,0 +1,46 @@
+{
+  "name": "Russia",
+  "backgroundEvents": [
+    {
+      "name": "Imperial Russia",
+      "timespan": {
+        "start": "1721",
+        "end": "1917"
+      },
+      "style": "russian"
+    }
+  ],
+  "dynastyGroups": [
+    {
+      "name": "Romanovs",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Romanov",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Peter I",
+              "importance": "transformational",
+              "style": "russian",
+              "timespan": {
+                "start": "6/9/1627",
+                "end": "2/8/1725"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "5/7/1682",
+                    "end": "2/8/1725"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

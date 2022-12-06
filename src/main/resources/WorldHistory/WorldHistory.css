@@ -84,6 +84,7 @@
 .romanCrisis {fill:grey;fill-opacity:0.5}
 .romanDominate {fill:purple;fill-opacity:0.3}
 .romanBreakaway {fill:purple;fill-opacity:0.2}
+.russian {fill:red;fill-opacity:0.3}
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
 .palmyra {fill:#e570dd;fill-opacity:0.4}
@@ -313,6 +314,7 @@
 .usurper 			{fill:black;	fill-opacity:0.5}
 .vizier 			{fill:purple;	fill-opacity:0.5}
 .triumph 			{fill:gold;		fill-opacity:1.0}
+.tsar 				{fill:purple;	fill-opacity:0.7}
 .defeat 			{fill:black;	fill-opacity:1.0}
 .victory 			{fill:gold;		fill-opacity:0.8}
 .astronaut 			{fill:gold;		fill-opacity:1.0}
