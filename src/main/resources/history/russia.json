@@ -2,12 +2,28 @@
   "name": "Russia",
   "backgroundEvents": [
     {
+      "name": "Russia Tsardom",
+      "timespan": {
+        "start": "1547",
+        "end": "1721"
+      },
+      "style": "russianTsardom"
+    },
+    {
       "name": "Imperial Russia",
       "timespan": {
         "start": "1721",
-        "end": "1917"
+        "end": "11/7/1917"
       },
-      "style": "russian"
+      "style": "russianImperial"
+    },
+    {
+      "name": "Communist Russia",
+      "timespan": {
+        "start": "11/7/1917",
+        "end": "12/26/1991"
+      },
+      "style": "russianCommunist"
     }
   ],
   "dynastyGroups": [
@@ -23,7 +39,7 @@
             {
               "name": "Peter I",
               "importance": "transformational",
-              "style": "russian",
+              "style": "russianImperial",
               "timespan": {
                 "start": "6/9/1627",
                 "end": "2/8/1725"
