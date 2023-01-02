@@ -2,6 +2,22 @@
   "name": "Russia",
   "backgroundEvents": [
     {
+      "name": "Kievan Rus",
+      "timespan": {
+        "start": "862",
+        "end": "1283"
+      },
+      "style": "kievanRus"
+    },
+    {
+      "name": "Grand Duchy of Moscow",
+      "timespan": {
+        "start": "1283",
+        "end": "1547"
+      },
+      "style": "russianMoscow"
+    },
+    {
       "name": "Russia Tsardom",
       "timespan": {
         "start": "1547",
@@ -27,6 +43,33 @@
     }
   ],
   "dynastyGroups": [
+    {
+      "name": "Rurik",
+      "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Rurik",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Rurik",
+              "importance": "minor",
+              "style": "varangian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "862",
+                    "end": "879"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Romanovs",
       "yStart": 0,
