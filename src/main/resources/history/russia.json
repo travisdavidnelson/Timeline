@@ -242,6 +242,24 @@
               ]
             },
             {
+              "name": "Anna Leopoldovna&#9792;",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "12/18/1718",
+                "end": "3/19/1746"
+              },
+              "titles": [
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "11/20/1740",
+                    "end": "12/6/1741"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Ivan VI",
               "importance": "petty",
               "style": "russian",
