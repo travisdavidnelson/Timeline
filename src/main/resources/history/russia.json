@@ -77,6 +77,30 @@
         {
           "name": "Romanov",
           "backgroundEvents": [
+            {
+              "name": "Great Northern War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "2/22/1700",
+                "end": "9/10/1721"
+              }
+            },
+            {
+              "name": "Battle of Narva",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/30/1700",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Poltava",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/8/1709",
+                "duration": "1d"
+              }
+            }
           ],
           "people": [
             {
@@ -185,6 +209,32 @@
                     "end": "2/8/1725"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Grand Embassy of Peter the Great",
+                  "style": "diplomaticMission",
+                  "timespan": {
+                    "start": "3/9/1697",
+                    "end": "8/25/1698"
+                  }
+                },
+                {
+                  "name": "Battle of Narva",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/30/1700",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Poltava",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/8/1709",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -221,6 +271,8 @@
                     "end": "1/30/1730"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
