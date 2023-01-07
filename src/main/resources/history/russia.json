@@ -80,6 +80,42 @@
           ],
           "people": [
             {
+              "name": "Michael",
+              "importance": "major",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "7/12/1596",
+                "end": "7/12/1645"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "7/26/1613",
+                    "end": "7/12/1645"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexis",
+              "importance": "minor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "5/9/1629",
+                "end": "1/29/1676"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "7/12/1645",
+                    "end": "1/29/1676"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Peter I",
               "importance": "transformational",
               "style": "russianImperial",
