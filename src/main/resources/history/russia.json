@@ -689,6 +689,60 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Provisional",
+          "backgroundEvents": [
+            {
+              "name": "World War I",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "7/30/1914",
+                "end": "3/3/1918"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Alexander Kerensky",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "5/4/1881",
+                "end": "6/11/1970"
+              },
+              "titles": [
+                {
+                  "name": "justiceMinister",
+                  "timespan": {
+                    "start": "3/16/1917",
+                    "end": "5/1/1917"
+                  }
+                },
+                {
+                  "name": "warMinister",
+                  "timespan": {
+                    "start": "5/18/1917",
+                    "end": "9/14/1917"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "7/21/1917",
+                    "end": "11/7/1917"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "11/1917",
+                    "end": "6/11/1970"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
