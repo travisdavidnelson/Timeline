@@ -330,6 +330,132 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Paul I",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "10/1/1754",
+                "end": "3/23/1801"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "11/17/1796",
+                    "end": "3/23/1801"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexander I",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "12/23/1777",
+                "end": "12/1/1825"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "3/23/1801",
+                    "end": "12/1/1825"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Constantine",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "4/27/1779",
+                "end": "6/21/1831"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "12/1/1825",
+                    "end": "12/26/1825"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nicholas I",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "7/6/1796",
+                "end": "3/2/1855"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "12/26/1825",
+                    "end": "3/2/1855"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexander II",
+              "importance": "major",
+              "style": "russian",
+              "timespan": {
+                "start": "4/29/1818",
+                "end": "3/13/1881"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "3/2/1855",
+                    "end": "3/13/1881"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexander III",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "3/10/1845",
+                "end": "11/1/1894"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "3/13/1881",
+                    "end": "11/1/1894"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nicholas II",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "5/18/1868",
+                "end": "7/17/1918"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "11/1/1894",
+                    "end": "3/15/1917"
+                  }
+                }
+              ]
             }
           ]
         }
