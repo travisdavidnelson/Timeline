@@ -81,7 +81,7 @@
           "people": [
             {
               "name": "Michael",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "russianImperial",
               "timespan": {
                 "start": "7/12/1596",
@@ -116,11 +116,65 @@
               ]
             },
             {
+              "name": "Feodor III",
+              "importance": "petty",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "6/9/1661",
+                "end": "5/7/1682"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "1/29/1676",
+                    "end": "5/7/1682"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sophia Alekseyevna&#9792;",
+              "importance": "minor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "9/27/1657",
+                "end": "7/14/1704"
+              },
+              "titles": [
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "6/8/1682",
+                    "end": "9/22/1689"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan V",
+              "importance": "petty",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "9/6/1666",
+                "end": "2/8/1696"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "5/7/1682",
+                    "end": "2/8/1696"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Peter I",
               "importance": "transformational",
               "style": "russianImperial",
               "timespan": {
-                "start": "6/9/1627",
+                "start": "6/9/1672",
                 "end": "2/8/1725"
               },
               "titles": [
