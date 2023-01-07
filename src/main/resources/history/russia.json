@@ -82,7 +82,7 @@
             {
               "name": "Michael",
               "importance": "semimajor",
-              "style": "russianImperial",
+              "style": "russianTsardom",
               "timespan": {
                 "start": "7/12/1596",
                 "end": "7/12/1645"
@@ -100,7 +100,7 @@
             {
               "name": "Alexis",
               "importance": "minor",
-              "style": "russianImperial",
+              "style": "russianTsardom",
               "timespan": {
                 "start": "5/9/1629",
                 "end": "1/29/1676"
@@ -118,7 +118,7 @@
             {
               "name": "Feodor III",
               "importance": "petty",
-              "style": "russianImperial",
+              "style": "russianTsardom",
               "timespan": {
                 "start": "6/9/1661",
                 "end": "5/7/1682"
@@ -136,7 +136,7 @@
             {
               "name": "Sophia Alekseyevna&#9792;",
               "importance": "minor",
-              "style": "russianImperial",
+              "style": "russianTsardom",
               "timespan": {
                 "start": "9/27/1657",
                 "end": "7/14/1704"
@@ -183,6 +183,132 @@
                   "timespan": {
                     "start": "5/7/1682",
                     "end": "2/8/1725"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Catherine I&#9792;",
+              "importance": "minor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "4/15/1684",
+                "end": "5/17/1727"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "2/8/1725",
+                    "end": "5/17/1727"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Peter II",
+              "importance": "petty",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "10/23/1715",
+                "end": "1/30/1730"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "5/18/1727",
+                    "end": "1/30/1730"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anna&#9792;",
+              "importance": "semimajor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "2/7/1693",
+                "end": "10/28/1740"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "2/13/1730",
+                    "end": "10/28/1740"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan VI",
+              "importance": "petty",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "8/23/1740",
+                "end": "7/16/1764"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "10/28/1740",
+                    "end": "12/6/1741"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elizabeth&#9792;",
+              "importance": "semimajor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "12/29/1709",
+                "end": "1/5/1762"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "12/6/1741",
+                    "end": "1/5/1762"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Peter III",
+              "importance": "minor",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "2/21/1728",
+                "end": "7/17/1762"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "1/9/1762",
+                    "end": "7/9/1762"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Catharine II&#9792;",
+              "importance": "major",
+              "style": "russianImperial",
+              "timespan": {
+                "start": "5/2/1729",
+                "end": "11/17/1796"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "7/9/1762",
+                    "end": "11/17/1796"
                   }
                 }
               ]
