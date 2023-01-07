@@ -100,6 +100,78 @@
                 "start": "7/8/1709",
                 "duration": "1d"
               }
+            },
+            {
+              "name": "Russo-Turkish War of 1768-1774",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "6/1768",
+                "end": "7/21/1774"
+              }
+            },
+            {
+              "name": "Russo-Turkish War of 1787-1792",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "8/19/1787",
+                "end": "1/9/1792"
+              }
+            },
+            {
+              "name": "War of the Third Coalition",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "4/11/1805",
+                "end": "7/18/1806"
+              }
+            },
+            {
+              "name": "Battle of Austerlitz",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "12/2/1805",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "French invasion of Russia",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "6/24/1812",
+                "end": "12/14/1812"
+              }
+            },
+            {
+              "name": "Battle of Borodino",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/7/1812",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Krasnoi",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/15/1812",
+                "end": "11/18/1812"
+              }
+            },
+            {
+              "name": "War of the Sixth Coalition",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "3/3/1813",
+                "end": "5/30/1814"
+              }
+            },
+            {
+              "name": "War of the Seventh Coalition",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "3/20/1815",
+                "end": "7/8/1815"
+              }
             }
           ],
           "people": [
