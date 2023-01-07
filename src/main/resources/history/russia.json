@@ -314,6 +314,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Catharine II&#9792;",
               "importance": "major",
               "style": "russian",
@@ -387,7 +388,7 @@
             },
             {
               "name": "Nicholas I",
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "russian",
               "timespan": {
                 "start": "7/6/1796",
@@ -405,7 +406,7 @@
             },
             {
               "name": "Alexander II",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "russian",
               "timespan": {
                 "start": "4/29/1818",
@@ -423,7 +424,7 @@
             },
             {
               "name": "Alexander III",
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "russian",
               "timespan": {
                 "start": "3/10/1845",
@@ -442,7 +443,7 @@
             {
               "name": "Nicholas II",
               "importance": "semimajor",
-              "style": "russian",
+              "style": "sanctified",
               "timespan": {
                 "start": "5/18/1868",
                 "end": "7/17/1918"
@@ -452,6 +453,24 @@
                   "name": "tsar",
                   "timespan": {
                     "start": "11/1/1894",
+                    "end": "3/15/1917"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexandra Feodorvna&#9792;",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "6/6/1872",
+                "end": "7/17/1918"
+              },
+              "titles": [
+                {
+                  "name": "queenConsort",
+                  "timespan": {
+                    "start": "11/26/1894",
                     "end": "3/15/1917"
                   }
                 }
