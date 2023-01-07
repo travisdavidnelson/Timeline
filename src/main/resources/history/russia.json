@@ -166,11 +166,99 @@
               }
             },
             {
+              "name": "Battle of Leipzig",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/16/1813",
+                "end": "10/19/1813"
+              }
+            },
+            {
               "name": "War of the Seventh Coalition",
               "style": "backgroundWar",
               "timespan": {
                 "start": "3/20/1815",
                 "end": "7/8/1815"
+              }
+            },
+            {
+              "name": "Decembrist Revolt",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "12/26/1825",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Russo-Persian War of 1826-1828",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "7/19/1826",
+                "end": "2/22/1828"
+              }
+            },
+            {
+              "name": "Russo-Turkish War of 1828-1829",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "4/26/1828",
+                "end": "9/14/1829"
+              }
+            },
+            {
+              "name": "November Uprising",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "11/29/1830",
+                "end": "10/21/1831"
+              }
+            },
+            {
+              "name": "Crimean War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "10/16/1853",
+                "end": "3/30/1856"
+              }
+            },
+            {
+              "name": "January Uprising",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "1/22/1863",
+                "end": "6/18/1864"
+              }
+            },
+            {
+              "name": "Russo-Turkish War of 1877-1878",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "4/24/1877",
+                "end": "3/3/1878"
+              }
+            },
+            {
+              "name": "Russo-Japanese War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "2/8/1904",
+                "end": "9/5/1905"
+              }
+            },
+            {
+              "name": "1905 Russian Revolution",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "1/22/1905",
+                "end": "6/16/1907"
+              }
+            },
+            {
+              "name": "World War I",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "7/30/1914",
+                "end": "3/3/1918"
               }
             }
           ],
