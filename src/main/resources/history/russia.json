@@ -48,6 +48,38 @@
         "end": ""
       },
       "style": "russianFederation"
+    },
+    {
+      "name": "Russo-Japanese War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "2/8/1904",
+        "end": "9/5/1905"
+      }
+    },
+    {
+      "name": "Bloody Sunday",
+      "style": "backgroundRevolution",
+      "timespan": {
+        "start": "1/22/1905",
+        "duration": "1m"
+      }
+    },
+    {
+      "name": "Battle of Tsushima",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/27/1905",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "World War I",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/30/1914",
+        "end": "3/3/1918"
+      }
     }
   ],
   "dynastyGroups": [
@@ -254,11 +286,27 @@
               }
             },
             {
-              "name": "1905 Russian Revolution",
+              "name": "Bloody Sunday",
               "style": "backgroundRevolution",
               "timespan": {
                 "start": "1/22/1905",
-                "end": "6/16/1907"
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Battle of Mukden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "2/20/1905",
+                "end": "3/10/1905"
+              }
+            },
+            {
+              "name": "Battle of Tsushima",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/27/1905",
+                "duration": "1d"
               }
             },
             {
@@ -673,6 +721,24 @@
                   "timespan": {
                     "start": "11/1/1894",
                     "end": "3/15/1917"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Bloody Sunday",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "1/22/1905",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Tsushima",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/27/1905",
+                    "duration": "1d"
                   }
                 }
               ]
