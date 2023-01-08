@@ -40,6 +40,14 @@
         "end": "12/26/1991"
       },
       "style": "russianCommunist"
+    },
+    {
+      "name": "Russian Federation",
+      "timespan": {
+        "start": "12/26/1991",
+        "end": ""
+      },
+      "style": "russianFederation"
     }
   ],
   "dynastyGroups": [
