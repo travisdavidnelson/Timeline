@@ -526,7 +526,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Catharine II&#9792;",
               "importance": "major",
               "style": "russian",
@@ -915,6 +914,74 @@
                   "timespan": {
                     "start": "3/11/1985",
                     "end": "8/24/1991"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Russia",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Boris Yeltsin",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "2/1/1931",
+                "end": "4/23/2007"
+              },
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "7/10/1991",
+                    "end": "12/31/1999"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Vladimir Putin",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "10/7/1952",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "8/9/1999",
+                    "end": "5/7/2000"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/7/2000",
+                    "end": "5/7/2008"
+                  }
+                },
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "5/8/2008",
+                    "end": "5/7/2012"
+                  }
+                },
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "5/7/2012",
+                    "end": ""
                   }
                 }
               ],
