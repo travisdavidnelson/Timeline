@@ -1013,6 +1013,78 @@
         {
           "name": "Post-Soviet",
           "backgroundEvents": [
+            {
+              "name": "Cold War",
+              "timespan": {
+                "start": "6/24/1948",
+                "end": "12/25/1991"
+              },
+              "style": "backgroundColdWar"
+            },
+            {
+              "name": "Soviet-Afghan War",
+              "timespan": {
+                "start": "12/24/1979",
+                "end": "2/15/1989"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "First Chechen War",
+              "timespan": {
+                "start": "12/11/1994",
+                "end": "8/31/1996"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Second Chechen War",
+              "timespan": {
+                "start": "8/7/1999",
+                "end": "4/30/2000"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Chechen insurgency",
+              "timespan": {
+                "start": "5/1/2000",
+                "end": "4/16/2009"
+              },
+              "style": "backgroundInsurrection"
+            },
+            {
+              "name": "Russo-Georgian War",
+              "timespan": {
+                "start": "8/1/2008",
+                "end": "8/16/2008"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Russian annexation of Crimea",
+              "timespan": {
+                "start": "2/23/2014",
+                "end": "3/26/2014"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Russian annexation of Crimea",
+              "timespan": {
+                "start": "2/23/2014",
+                "end": "3/26/2014"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Russo-Georgian War of 2022",
+              "timespan": {
+                "start": "2/24/2022",
+                "end": ""
+              },
+              "style": "backgroundWar"
+            }
           ],
           "people": [
             {
