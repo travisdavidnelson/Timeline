@@ -89,7 +89,10 @@
 .russianMoscow {fill:#fcf4f6;fill-opacity:0.5}
 .russianTsardom {fill:#fcf4f6;fill-opacity:0.7}
 .russianImperial {fill:#fcf4f6;fill-opacity:0.9}
-.russianCommunist {fill:#ef0e4a;fill-opacity:0.7}
+.russianCommunist {fill:#ff0000;fill-opacity:0.4}
+.partyChairman 		{fill:#ff0000;	fill-opacity:1.0}
+.generalSecretary 	{fill:#ff0000;	fill-opacity:1.0}
+
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
 .palmyra {fill:#e570dd;fill-opacity:0.4}

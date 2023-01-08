@@ -743,6 +743,185 @@
               ]
             }
           ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Soviet Union",
+          "backgroundEvents": [
+            {
+              "name": "World War I",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "7/30/1914",
+                "end": "3/3/1918"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Vladimir Lenin",
+              "importance": "transformational",
+              "style": "russian",
+              "timespan": {
+                "start": "4/22/1870",
+                "end": "1/21/1924"
+              },
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "2/1897",
+                    "end": "4/1917"
+                  }
+                },
+                {
+                  "name": "partyChairman",
+                  "timespan": {
+                    "start": "11/8/1917",
+                    "end": "1/21/1924"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "October Revolution",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1917",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Joseph Stalin",
+              "importance": "major",
+              "style": "russian",
+              "timespan": {
+                "start": "12/18/1878",
+                "end": "3/5/1953"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "4/3/1922",
+                    "end": "10/16/1952"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "October Revolution",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1917",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nikita Khrushchev",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "4/15/1894",
+                "end": "9/11/1971"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "9/14/1953",
+                    "end": "10/14/1964"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Leonid Brezhnev",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "12/19/1906",
+                "end": "11/10/1982"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "10/14/1964",
+                    "end": "11/10/1982"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Yuri Andropov",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "6/15/1914",
+                "end": "2/9/1984"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "11/10/1982",
+                    "end": "2/9/1984"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Konstantin Chernenko",
+              "importance": "petty",
+              "style": "russian",
+              "timespan": {
+                "start": "9/24/1911",
+                "end": "3/10/1985"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "2/9/1984",
+                    "end": "3/10/1985"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Mikhail Gorbachevo",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "3/2/1931",
+                "end": "8/30/2022"
+              },
+              "titles": [
+                {
+                  "name": "generalSecretary",
+                  "timespan": {
+                    "start": "3/11/1985",
+                    "end": "8/24/1991"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
         }
       ]
     }
