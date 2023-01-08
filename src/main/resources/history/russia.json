@@ -762,6 +762,86 @@
                 "start": "7/30/1914",
                 "end": "3/3/1918"
               }
+            },
+            {
+              "name": "Russian Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "11/7/1917",
+                "end": "6/16/1923"
+              }
+            },
+            {
+              "name": "Great Terror",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "8/1936",
+                "end": "11/17/1938"
+              }
+            },
+            {
+              "name": "World War II",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "9/17/1939",
+                "end": "9/2/1945"
+              }
+            },
+            {
+              "name": "German invasion of Soviet Union",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "6/22/1941",
+                "end": "6/1944"
+              }
+            },
+            {
+              "name": "Cold War",
+              "timespan": {
+                "start": "6/24/1948",
+                "end": "12/25/1991"
+              },
+              "style": "backgroundColdWar"
+            },
+            {
+              "name": "Korean War",
+              "timespan": {
+                "start": "6/25/1950",
+                "end": "7/27/1953"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Hungarian Revolution",
+              "timespan": {
+                "start": "10/23/1956",
+                "end": "11/10/1956"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Berlin Crisis of 1961",
+              "timespan": {
+                "start": "8/13/1961",
+                "end": "10/29/1961"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Cuban Missile Crisis",
+              "style": "backgroundCrisis",
+              "timespan": {
+                "start": "10/16/1962",
+                "end": "10/29/1962"
+              }
+            },
+            {
+              "name": "Soviet-Afghan War",
+              "timespan": {
+                "start": "12/24/1979",
+                "end": "2/15/1989"
+              },
+              "style": "backgroundWar"
             }
           ],
           "people": [
