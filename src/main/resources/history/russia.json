@@ -82,22 +82,6 @@
       }
     },
     {
-      "name": "Russian Civil War",
-      "style": "backgroundCivilWar",
-      "timespan": {
-        "start": "11/7/1917",
-        "end": "6/16/1923"
-      }
-    },
-    {
-      "name": "Great Terror",
-      "style": "backgroundReignOfTerror",
-      "timespan": {
-        "start": "8/1936",
-        "end": "11/17/1938"
-      }
-    },
-    {
       "name": "World War II",
       "style": "backgroundWar",
       "timespan": {
@@ -387,6 +371,22 @@
               "timespan": {
                 "start": "7/30/1914",
                 "end": "3/3/1918"
+              }
+            },
+            {
+              "name": "Russian Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "11/7/1917",
+                "end": "6/16/1923"
+              }
+            },
+            {
+              "name": "Great Terror",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "8/1936",
+                "end": "11/17/1938"
               }
             }
           ],
@@ -839,11 +839,19 @@
           "name": "Provisional",
           "backgroundEvents": [
             {
-              "name": "World War I",
-              "style": "backgroundWar",
+              "name": "Russian Civil War",
+              "style": "backgroundCivilWar",
               "timespan": {
-                "start": "7/30/1914",
-                "end": "3/3/1918"
+                "start": "11/7/1917",
+                "end": "6/16/1923"
+              }
+            },
+            {
+              "name": "Great Terror",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "8/1936",
+                "end": "11/17/1938"
               }
             }
           ],
@@ -893,6 +901,22 @@
           "pageBreak": true,
           "name": "Soviet Union",
           "backgroundEvents": [
+            {
+              "name": "Russian Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "11/7/1917",
+                "end": "6/16/1923"
+              }
+            },
+            {
+              "name": "Great Terror",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "8/1936",
+                "end": "11/17/1938"
+              }
+            },
             {
               "name": "Soviet-Afghan War",
               "timespan": {
