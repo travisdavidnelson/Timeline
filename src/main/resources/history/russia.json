@@ -59,7 +59,7 @@
     },
     {
       "name": "Bloody Sunday",
-      "style": "backgroundRevolution",
+      "style": "backgroundMassacre",
       "timespan": {
         "start": "1/22/1905",
         "duration": "1m"
@@ -342,19 +342,19 @@
               }
             },
             {
-              "name": "Bloody Sunday",
+              "name": "1905 Russian Revolution",
               "style": "backgroundRevolution",
               "timespan": {
                 "start": "1/22/1905",
-                "duration": "1m"
+                "end": "6/16/1907"
               }
             },
             {
-              "name": "Battle of Mukden",
-              "style": "backgroundBattle",
+              "name": "Bloody Sunday",
+              "style": "backgroundMassacre",
               "timespan": {
-                "start": "2/20/1905",
-                "end": "3/10/1905"
+                "start": "1/22/1905",
+                "duration": "1m"
               }
             },
             {
@@ -839,6 +839,30 @@
           "name": "Provisional",
           "backgroundEvents": [
             {
+              "name": "1905 Russian Revolution",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "1/22/1905",
+                "end": "6/16/1907"
+              }
+            },
+            {
+              "name": "Bloody Sunday",
+              "style": "backgroundMassacre",
+              "timespan": {
+                "start": "1/22/1905",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Battle of Tsushima",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/27/1905",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Russian Civil War",
               "style": "backgroundCivilWar",
               "timespan": {
@@ -901,6 +925,30 @@
           "pageBreak": true,
           "name": "Soviet Union",
           "backgroundEvents": [
+            {
+              "name": "1905 Russian Revolution",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "1/22/1905",
+                "end": "6/16/1907"
+              }
+            },
+            {
+              "name": "Bloody Sunday",
+              "style": "backgroundMassacre",
+              "timespan": {
+                "start": "1/22/1905",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Battle of Tsushima",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/27/1905",
+                "duration": "1d"
+              }
+            },
             {
               "name": "Russian Civil War",
               "style": "backgroundCivilWar",
