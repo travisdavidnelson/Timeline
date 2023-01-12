@@ -34,6 +34,102 @@
       "style": "russianImperial"
     },
     {
+      "name": "Great Northern War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "2/22/1700",
+        "end": "9/10/1721"
+      }
+    },
+    {
+      "name": "Battle of Narva",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/30/1700",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Poltava",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/8/1709",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "War of the Third Coalition",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "4/11/1805",
+        "end": "7/18/1806"
+      }
+    },
+    {
+      "name": "Battle of Austerlitz",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/2/1805",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "French invasion of Russia",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "6/24/1812",
+        "end": "12/14/1812"
+      }
+    },
+    {
+      "name": "Battle of Borodino",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "9/7/1812",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Krasnoi",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/15/1812",
+        "end": "11/18/1812"
+      }
+    },
+    {
+      "name": "War of the Sixth Coalition",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "3/3/1813",
+        "end": "5/30/1814"
+      }
+    },
+    {
+      "name": "Battle of Leipzig",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/16/1813",
+        "end": "10/19/1813"
+      }
+    },
+    {
+      "name": "War of the Seventh Coalition",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "3/20/1815",
+        "end": "7/8/1815"
+      }
+    },
+    {
+      "name": "Crimean War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/16/1853",
+        "end": "3/30/1856"
+      }
+    },
+    {
       "name": "Communist Russia",
       "timespan": {
         "start": "11/7/1917",
@@ -174,30 +270,6 @@
           "name": "Romanov",
           "backgroundEvents": [
             {
-              "name": "Great Northern War",
-              "style": "backgroundWar",
-              "timespan": {
-                "start": "2/22/1700",
-                "end": "9/10/1721"
-              }
-            },
-            {
-              "name": "Battle of Narva",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "11/30/1700",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "Battle of Poltava",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "7/8/1709",
-                "duration": "1d"
-              }
-            },
-            {
               "name": "Russo-Turkish War of 1768-1774",
               "style": "backgroundWar",
               "timespan": {
@@ -211,70 +283,6 @@
               "timespan": {
                 "start": "8/19/1787",
                 "end": "1/9/1792"
-              }
-            },
-            {
-              "name": "War of the Third Coalition",
-              "style": "backgroundWar",
-              "timespan": {
-                "start": "4/11/1805",
-                "end": "7/18/1806"
-              }
-            },
-            {
-              "name": "Battle of Austerlitz",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "12/2/1805",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "French invasion of Russia",
-              "style": "backgroundInvasion",
-              "timespan": {
-                "start": "6/24/1812",
-                "end": "12/14/1812"
-              }
-            },
-            {
-              "name": "Battle of Borodino",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "9/7/1812",
-                "duration": "1d"
-              }
-            },
-            {
-              "name": "Battle of Krasnoi",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "11/15/1812",
-                "end": "11/18/1812"
-              }
-            },
-            {
-              "name": "War of the Sixth Coalition",
-              "style": "backgroundWar",
-              "timespan": {
-                "start": "3/3/1813",
-                "end": "5/30/1814"
-              }
-            },
-            {
-              "name": "Battle of Leipzig",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "10/16/1813",
-                "end": "10/19/1813"
-              }
-            },
-            {
-              "name": "War of the Seventh Coalition",
-              "style": "backgroundWar",
-              "timespan": {
-                "start": "3/20/1815",
-                "end": "7/8/1815"
               }
             },
             {
@@ -307,14 +315,6 @@
               "timespan": {
                 "start": "11/29/1830",
                 "end": "10/21/1831"
-              }
-            },
-            {
-              "name": "Crimean War",
-              "style": "backgroundWar",
-              "timespan": {
-                "start": "10/16/1853",
-                "end": "3/30/1856"
               }
             },
             {
@@ -1180,14 +1180,6 @@
               "timespan": {
                 "start": "8/1/2008",
                 "end": "8/16/2008"
-              },
-              "style": "backgroundWar"
-            },
-            {
-              "name": "Russian annexation of Crimea",
-              "timespan": {
-                "start": "2/23/2014",
-                "end": "3/26/2014"
               },
               "style": "backgroundWar"
             },
