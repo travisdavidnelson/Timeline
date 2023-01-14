@@ -1039,6 +1039,118 @@
               ]
             },
             {
+              "name": "Leon Trotsky",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "11/7/1879",
+                "end": "8/21/1940"
+              },
+              "titles": [
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "1896",
+                    "end": "1898"
+                  }
+                },
+                {
+                  "name": "conviction",
+                  "timespan": {
+                    "start": "1900",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "1898",
+                    "end": "1900"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "1900",
+                    "end": "2/1905"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "2/1905",
+                    "end": "11/26/1905"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "11/26/1905",
+                    "end": "10/4/1906"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "10/4/1906",
+                    "end": "11/8/1917"
+                  }
+                },
+                {
+                  "name": "conviction",
+                  "timespan": {
+                    "start": "10/4/1906",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "5/17/1917",
+                    "end": "11/26/1905"
+                  }
+                },
+                {
+                  "name": "commissarForeignAffairs",
+                  "timespan": {
+                    "start": "11/8/1917",
+                    "end": "3/14/1918"
+                  }
+                },
+                {
+                  "name": "commissarMilitary",
+                  "timespan": {
+                    "start": "3/14/1918",
+                    "end": "1/25/1925"
+                  }
+                },
+                {
+                  "name": "opposition",
+                  "timespan": {
+                    "start": "1/25/1925",
+                    "end": "1/31/1928"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "1/31/1928",
+                    "end": "8/21/1940"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "October Revolution",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/7/1917",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Nikita Khrushchev",
               "importance": "semimajor",
               "style": "russian",

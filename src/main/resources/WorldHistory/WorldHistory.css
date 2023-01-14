@@ -93,6 +93,10 @@
 .russianFederation {fill:#fce8ed;fill-opacity:0.9}
 .partyChairman 		{fill:#ff0000;	fill-opacity:1.0}
 .generalSecretary 	{fill:#ff0000;	fill-opacity:1.0}
+.commissarMilitary 	        {fill:#ff0000;	fill-opacity:0.8}
+.commissarForeignAffairs 	{fill:#ff0000;	fill-opacity:0.7}
+.opposition 			    {fill:black;	fill-opacity:0.4}
+.conviction 			    {fill:black;	fill-opacity:1.0}
 
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
@@ -270,12 +274,12 @@
 .earl 				{fill:purple;	fill-opacity:0.2}
 .emperor		    {fill:purple;	fill-opacity:1.0}
 .empress		    {fill:purple;	fill-opacity:0.6}
-.exile 				{fill:grey;	    fill-opacity:0.5}
+.exile 				{fill:grey;	    fill-opacity:0.7}
 .expedition 		{fill:#cafc5d;	fill-opacity:0.4}
 .exploration 		{fill:gold;		fill-opacity:0.5}
 .entrada 		    {fill:gold;		fill-opacity:0.6}
 .pow 				{fill:black;	fill-opacity:0.5}
-.prisoner 			{fill:grey;	    fill-opacity:0.5}
+.prisoner 			{fill:grey;	    fill-opacity:1.0}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .soldier 			{fill:#C00000;	fill-opacity:0.4}
 .governor 			{fill:blue;		fill-opacity:0.5}
