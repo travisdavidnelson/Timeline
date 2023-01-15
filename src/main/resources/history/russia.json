@@ -1020,6 +1020,62 @@
               },
               "titles": [
                 {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "3/1901",
+                    "end": "11/7/1917"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "4/1902",
+                    "end": "11/1903"
+                  }
+                },
+                {
+                  "name": "conviction",
+                  "timespan": {
+                    "start": "6/1903",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "11/1903",
+                    "end": "1/1904"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "3/1908",
+                    "end": "2/1909"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "2/1909",
+                    "end": "2/1912"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "8/1913",
+                    "end": "3/1917"
+                  }
+                },
+                {
+                  "name": "commissar",
+                  "timespan": {
+                    "start": "11/8/1917",
+                    "end": "7/7/1923"
+                  }
+                },
+                {
                   "name": "generalSecretary",
                   "timespan": {
                     "start": "4/3/1922",
