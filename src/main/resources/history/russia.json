@@ -178,6 +178,14 @@
       }
     },
     {
+      "name": "Soviet famine of 1930-1933",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1930",
+        "end": "1934"
+      }
+    },
+    {
       "name": "World War II",
       "style": "backgroundWar",
       "timespan": {
@@ -984,6 +992,13 @@
                 "end": "1/21/1924"
               },
               "titles": [
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "1894",
+                    "end": "11/7/1917"
+                  }
+                },
                 {
                   "name": "exile",
                   "timespan": {
