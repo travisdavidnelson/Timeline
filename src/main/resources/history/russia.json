@@ -18,12 +18,28 @@
       "style": "russianMoscow"
     },
     {
+      "name": "Great famine of 1315-1317",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1315",
+        "end": "1318"
+      }
+    },
+    {
       "name": "Russia Tsardom",
       "timespan": {
         "start": "1547",
         "end": "1721"
       },
       "style": "russianTsardom"
+    },
+    {
+      "name": "Russian famine of 1601-1603",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1601",
+        "end": "1604"
+      }
     },
     {
       "name": "Imperial Russia",
@@ -127,6 +143,14 @@
       "timespan": {
         "start": "10/16/1853",
         "end": "3/30/1856"
+      }
+    },
+    {
+      "name": "Russian famine of 1891-1892",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1891",
+        "end": "1893"
       }
     },
     {
