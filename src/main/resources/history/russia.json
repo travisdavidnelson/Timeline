@@ -272,7 +272,7 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Rurik",
+          "name": "Rurikid",
           "backgroundEvents": [
           ],
           "people": [
@@ -280,12 +280,196 @@
               "name": "Rurik",
               "importance": "minor",
               "style": "varangian",
+              "timespan": {
+                "start": "830",
+                "end": "879"
+              },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "862",
                     "end": "879"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Oleg",
+              "importance": "semimajor",
+              "style": "varangian",
+              "timespan": {
+                "start": "855",
+                "end": "912"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "879",
+                    "end": "912"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Igor I",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "878",
+                "end": "945"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "913",
+                    "end": "945"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Olga",
+              "importance": "semimajor",
+              "style": "sanctified",
+              "timespan": {
+                "start": "890",
+                "end": "969"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "945",
+                    "end": "964"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sviatoslav I",
+              "importance": "semimajor",
+              "style": "varangian",
+              "timespan": {
+                "start": "942",
+                "end": "3/972"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "964",
+                    "end": "3/972"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yaropolk I",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "950",
+                "end": "6/11/980"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/972",
+                    "end": "6/11/980"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vladimir I",
+              "importance": "major",
+              "style": "varangian",
+              "timespan": {
+                "start": "958",
+                "end": "7/15/1015"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/11/980",
+                    "end": "7/15/1015"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sviatopolk I",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "980",
+                "end": "1019"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/15/1015",
+                    "end": "9/1016"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yarslav I",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "978",
+                "end": "1054"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/1016",
+                    "end": "7/22/1018"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sviatopolk I",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "980",
+                "end": "7/27/1019"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/14/1018",
+                    "end": "7/27/1019"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yaroslav I",
+              "importance": "semimajor",
+              "style": "varangian",
+              "timespan": {
+                "start": "978",
+                "end": "2/20/1054"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/27/1019",
+                    "end": "2/20/1054"
                   }
                 }
               ]
