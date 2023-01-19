@@ -404,42 +404,6 @@
             },
             {
               "name": "Sviatopolk I",
-              "importance": "petty",
-              "style": "varangian",
-              "timespan": {
-                "start": "980",
-                "end": "1019"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "7/15/1015",
-                    "end": "9/1016"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Yarslav I",
-              "importance": "minor",
-              "style": "varangian",
-              "timespan": {
-                "start": "978",
-                "end": "1054"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "9/1016",
-                    "end": "7/22/1018"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Sviatopolk I",
               "importance": "minor",
               "style": "varangian",
               "timespan": {
@@ -450,6 +414,13 @@
                 {
                   "name": "king",
                   "timespan": {
+                    "start": "7/15/1015",
+                    "end": "9/1016"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
                     "start": "8/14/1018",
                     "end": "7/27/1019"
                   }
@@ -457,7 +428,7 @@
               ]
             },
             {
-              "name": "Yaroslav I",
+              "name": "Yarslav I",
               "importance": "semimajor",
               "style": "varangian",
               "timespan": {
@@ -465,6 +436,13 @@
                 "end": "2/20/1054"
               },
               "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/1016",
+                    "end": "7/22/1018"
+                  }
+                },
                 {
                   "name": "king",
                   "timespan": {
