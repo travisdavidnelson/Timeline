@@ -595,6 +595,191 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Yaropolk II",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "1082",
+                "end": "2/18/1139"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/17/1132",
+                    "end": "2/18/1139"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Viacheslav",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1083",
+                "end": "2/2/1154"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/22/1139",
+                    "end": "3/4/1139"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vsevolod II",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1084",
+                "end": "7/30/1146"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/5/1139",
+                    "end": "7/30/1146"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Igor II",
+              "importance": "minor",
+              "style": "sanctified",
+              "timespan": {
+                "start": "1096",
+                "end": "9/19/1146"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/1/1146",
+                    "end": "8/13/1146"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Iziaslav II",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1097",
+                "end": "1154"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/13/1146",
+                    "end": "8/23/1149"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yuri I",
+              "importance": "petty",
+              "style": "varangian",
+              "annotation": "the Long Hands",
+              "timespan": {
+                "start": "1099",
+                "end": "5/15/1157"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/20/1155",
+                    "end": "5/15/1157"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Iziaslav III",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1100",
+                "end": "3/6/1161"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/19/1157",
+                    "end": "12/1158"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/12/1161",
+                    "end": "3/6/1161"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mstislav II",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1125",
+                "end": "1170"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/22/1158",
+                    "end": "4/1159"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/19/1167",
+                    "end": "3/12/1169"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Rostislav",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1110",
+                "end": "3/14/1167"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/12/1159",
+                    "end": "2/8/1161"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/1161",
+                    "end": "3/14/1167"
+                  }
+                }
+              ]
             }
           ]
         }
