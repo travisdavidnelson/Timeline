@@ -451,6 +451,150 @@
                   }
                 }
               ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Iziaslav I",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "1024",
+                "end": "10/3/1078"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/20/1054",
+                    "end": "9/15/1068"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/2/1069",
+                    "end": "3/22/1073"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/15/1077",
+                    "end": "10/3/1078"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vseslav",
+              "importance": "petty",
+              "style": "varangian",
+              "annotation": "The Sorcerer",
+              "timespan": {
+                "start": "1039",
+                "end": "1101"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/15/1068",
+                    "end": "4/29/1069"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sviatoslav II",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "1027",
+                "end": "1076"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/22/1073",
+                    "end": "12/27/1076"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vsevolod I",
+              "importance": "petty",
+              "style": "varangian",
+              "timespan": {
+                "start": "1030",
+                "end": "1093"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1/1077",
+                    "end": "7/15/1077"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Sviatopolk II",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "1050",
+                "end": "4/16/1113"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/24/1093",
+                    "end": "4/16/1113"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vladimir II",
+              "importance": "minor",
+              "style": "varangian",
+              "annotation": "He who fights alone",
+              "timespan": {
+                "start": "1053",
+                "end": "5/19/1125"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/20/1113",
+                    "end": "5/19/1125"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mstislav I",
+              "importance": "semimajor",
+              "style": "varangian",
+              "annotation": "the Great",
+              "timespan": {
+                "start": "1076",
+                "end": "4/15/1132"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/20/1125",
+                    "end": "4/15/1132"
+                  }
+                }
+              ]
             }
           ]
         }
