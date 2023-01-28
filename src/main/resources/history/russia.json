@@ -298,6 +298,7 @@
               "name": "Oleg",
               "importance": "semimajor",
               "style": "varangian",
+              "annotation": "the Seer",
               "timespan": {
                 "start": "855",
                 "end": "912"
@@ -387,7 +388,8 @@
             {
               "name": "Vladimir I",
               "importance": "major",
-              "style": "varangian",
+              "style": "sanctified",
+              "annotation": "the Great, the Baptist",
               "timespan": {
                 "start": "958",
                 "end": "7/15/1015"
@@ -406,6 +408,7 @@
               "name": "Sviatopolk I",
               "importance": "minor",
               "style": "varangian",
+              "annotation": "the Cursed",
               "timespan": {
                 "start": "980",
                 "end": "7/27/1019"
@@ -431,6 +434,7 @@
               "name": "Yarslav I",
               "importance": "semimajor",
               "style": "varangian",
+              "annotation": "the Wise",
               "timespan": {
                 "start": "978",
                 "end": "2/20/1054"
@@ -453,7 +457,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Iziaslav I",
               "importance": "minor",
               "style": "varangian",
@@ -777,6 +780,34 @@
                   "timespan": {
                     "start": "3/1161",
                     "end": "3/14/1167"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Grand Princes of Vladimir",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Andrey I",
+              "importance": "semimajor",
+              "style": "sanctified",
+              "annotation": "the Pious",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1111",
+                "end": "6/26/1174"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/15/1157",
+                    "end": "6/26/1174"
                   }
                 }
               ]
