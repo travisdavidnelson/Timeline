@@ -1476,6 +1476,24 @@
           ]
         },
         {
+          "name": "Cultural",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Mikhail Lomonosov",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "11/19/1711",
+                "end": "4/15/1765"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
           "pageBreak": true,
           "name": "Soviet Union",
           "backgroundEvents": [
