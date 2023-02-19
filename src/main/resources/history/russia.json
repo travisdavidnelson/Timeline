@@ -811,6 +811,32 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Mikhalko",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1115",
+                "end": "6/20/1176"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/26/1174",
+                    "end": "9/1174"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/15/1175",
+                    "end": "6/20/1176"
+                  }
+                }
+              ]
             }
           ]
         }
