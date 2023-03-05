@@ -870,6 +870,50 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Yuri II",
+              "importance": "minor",
+              "style": "varangian",
+              "timespan": {
+                "start": "11/26/1188",
+                "end": "3/4/1238"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/15/1212",
+                    "end": "4/27/1216"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/2/1218",
+                    "end": "3/4/1238"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Konstantin",
+              "importance": "petty",
+              "style": "varangian",
+              "annotation": "of Rostov",
+              "timespan": {
+                "start": "5/18/1186",
+                "end": "2/2/1218"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/27/1216",
+                    "end": "2/2/1218"
+                  }
+                }
+              ]
             }
           ]
         }
