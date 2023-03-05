@@ -837,6 +837,39 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Yaropolk III",
+              "importance": "petty",
+              "style": "varangian",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/1174",
+                    "end": "6/15/1175"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mikhalko",
+              "importance": "semimajor",
+              "style": "varangian",
+              "annotation": "the Big Nest",
+              "timespan": {
+                "start": "10/19/1154",
+                "end": "4/15/1212"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/20/1176",
+                    "end": "4/15/1212"
+                  }
+                }
+              ]
             }
           ]
         }
