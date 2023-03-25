@@ -5976,7 +5976,7 @@
             {
               "name": "Thomas More",
               "style": "sanctified",
-              "importance": "major",
+              "importance": "semimajor",
               "timespan": {
                 "start": "2/7/1478",
                 "end": "7/6/1535"
@@ -5989,13 +5989,23 @@
                     "end": "5/1532"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Novum Organum",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1620",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
               "pageBreak": true,
               "name": "Francis Bacon",
               "style": "english",
-              "importance": "minor",
+              "importance": "major",
               "timespan": {
                 "start": "1/22/1561",
                 "end": "4/9/1626"
@@ -6021,7 +6031,7 @@
                   "name": "Utopia",
                   "style": "notableWork",
                   "timespan": {
-                    "start": "1516",
+                    "start": "1620",
                     "duration": "1d"
                   }
                 }
