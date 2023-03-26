@@ -5974,6 +5974,29 @@
           "name": "Cultural",
           "people": [
             {
+              "name": "Geoffrey Chaucer",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1345",
+                "end": "10/25/1400"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "The Canterbury Tales",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1400",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
               "name": "Thomas More",
               "style": "sanctified",
               "importance": "semimajor",
