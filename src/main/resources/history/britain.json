@@ -6192,7 +6192,12 @@
                   }
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Visionaries",
+          "people": [
             {
               "name": "Isaac Newton",
               "style": "english",
@@ -6221,13 +6226,9 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Visionaries",
-          "people": [
+            },
             {
+              "pageBreak": true,
               "name": "James Watt",
               "style": "english",
               "importance": "semimajor",
