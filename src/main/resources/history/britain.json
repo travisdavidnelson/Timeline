@@ -6251,6 +6251,43 @@
               ]
             },
             {
+              "name": "Charles Darwin",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "2/12/1809",
+                "end": "4/19/1882"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "The Voyage of the Beagle",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1839",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "On the Origin of Species",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "11/24/1859",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "The Descent of Man",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "2/24/1871",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Charles Dickens",
               "style": "english",
               "importance": "minor",
