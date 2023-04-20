@@ -3340,6 +3340,15 @@
           "name": "Visionaries",
           "people": [
             {
+              "name": "Alexander Graham Bell",
+              "style": "american",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "3/3/1847",
+                "end": "8/2/1922"
+              }
+            },
+            {
               "name": "Thomas Edison",
               "style": "american",
               "importance": "major",
