@@ -1241,6 +1241,14 @@
           "pageBreak": true,
           "name": "Grand Princes of Moscow",
           "backgroundEvents": [
+            {
+              "name": "Time of Troubles",
+              "style": "backgroundCrisis",
+              "timespan": {
+                "start": "1598",
+                "end": "1613"
+              }
+            }
           ],
           "people": [
             {
@@ -1372,6 +1380,115 @@
                   "timespan": {
                     "start": "2/26/1547",
                     "end": "3/28/1584"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Feodor I",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "annotation": "the Blessed",
+              "timespan": {
+                "start": "5/31/1557",
+                "end": "1/17/1598"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "3/28/1584",
+                    "end": "1/17/1598"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Boris",
+              "importance": "minor",
+              "style": "russianTsardom",
+              "timespan": {
+                "start": "1551",
+                "end": "4/13/1605"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "2/21/1598",
+                    "end": "4/13/1605"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Feodor II",
+              "importance": "petty",
+              "style": "russianTsardom",
+              "timespan": {
+                "start": "1551",
+                "end": "6/20/1605"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "4/13/1605",
+                    "end": "6/10/1605"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "False Dmitry I",
+              "importance": "petty",
+              "style": "russianTsardom",
+              "timespan": {
+                "start": "1581",
+                "end": "5/17/1606"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "6/20/1605",
+                    "end": "5/17/1606"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vasily IV",
+              "importance": "petty",
+              "style": "russianTsardom",
+              "timespan": {
+                "start": "9/22/1552",
+                "end": "9/12/1612"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "5/19/1606",
+                    "end": "7/17/1610"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vladislav",
+              "importance": "petty",
+              "style": "russianTsardom",
+              "timespan": {
+                "start": "6/9/1595",
+                "end": "5/20/1648"
+              },
+              "titles": [
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "9/6/1610",
+                    "end": "11/1612"
                   }
                 }
               ]
