@@ -1236,6 +1236,147 @@
               ]
             }
           ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Grand Princes of Moscow",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Vasily I",
+              "importance": "semimajor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "12/30/1371",
+                "end": "2/27/1425"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/19/1389",
+                    "end": "2/27/1425"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vasily II",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "annotation": "the Dark",
+              "timespan": {
+                "start": "3/10/1415",
+                "end": "3/27/1462"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/27/1425",
+                    "end": "3/30/1434"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1435",
+                    "end": "1446"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/27/1447",
+                    "end": "3/27/1462"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dmitry",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1405",
+                "end": "7/17/1453"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1446",
+                    "end": "3/26/1447"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan III",
+              "importance": "major",
+              "style": "russianRurikid",
+              "annotation": "the Great",
+              "timespan": {
+                "start": "1/22/1440",
+                "end": "11/6/1505"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/5/1462",
+                    "end": "11/6/1505"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Vasily III",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "3/25/1479",
+                "end": "12/13/1533"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/6/1505",
+                    "end": "12/13/1533"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan IV",
+              "importance": "semimajor",
+              "style": "russianRurikid",
+              "annotation": "the Terrible",
+              "timespan": {
+                "start": "8/25/1530",
+                "end": "3/28/1584"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/13/1533",
+                    "end": "2/26/1547"
+                  }
+                },
+                {
+                  "name": "tsar",
+                  "timespan": {
+                    "start": "2/26/1547",
+                    "end": "3/28/1584"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
