@@ -1022,6 +1022,218 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Dmitry",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1250",
+                "end": "1294"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1277",
+                    "end": "1281"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/1283",
+                    "end": "1293"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Andrey III",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1255",
+                "end": "7/27/1304"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1281",
+                    "end": "12/1283"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1293",
+                    "end": "7/27/1304"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mikhail",
+              "importance": "minor",
+              "style": "sanctified",
+              "timespan": {
+                "start": "1271",
+                "end": "11/22/1318"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/27/1304",
+                    "end": "11/22/1318"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Yuri III",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1281",
+                "end": "1325"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/1318",
+                    "end": "11/2/1322"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dmitry",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1299",
+                "end": "9/15/1326"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/2/1322",
+                    "end": "9/15/1326"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Alexander",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1301",
+                "end": "1339"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/1326",
+                    "end": "1327"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan I",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1288",
+                "end": "3/31/1340"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1328",
+                    "end": "3/31/1340"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Simeon",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "9/7/1317",
+                "end": "4/27/1353"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/1/1340",
+                    "end": "4/27/1353"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ivan II",
+              "importance": "minor",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "3/30/1326",
+                "end": "11/13/1359"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/25/1354",
+                    "end": "11/13/1359"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dmitry",
+              "importance": "petty",
+              "style": "russianRurikid",
+              "timespan": {
+                "start": "1322",
+                "end": "7/5/1383"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/22/1360",
+                    "end": "12/1362"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "St Dmitry",
+              "importance": "minor",
+              "style": "sanctified",
+              "timespan": {
+                "start": "10/12/1350",
+                "end": "5/19/1389"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/1363",
+                    "end": "5/19/1389"
+                  }
+                }
+              ]
             }
           ]
         }
