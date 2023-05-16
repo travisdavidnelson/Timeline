@@ -2171,6 +2171,147 @@
               },
               "titles": [
               ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Ivan Turgenev",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "11/9/1818",
+                "end": "9/3/1883"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fathers and Sons",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "2/1862",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Fyodor Dostoevsky",
+              "importance": "major",
+              "style": "russian",
+              "timespan": {
+                "start": "11/11/1821",
+                "end": "2/9/1881"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Notes from Underground",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1864",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Crime and Punishment",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1866",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "The Idiot",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1868",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "The Brothers Karamazov",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1879",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Leo Tolstoy",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "9/9/1828",
+                "end": "11/20/1910"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "War and Peace",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1869",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Anna Karenina",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1878",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pyotr Tchaikovsky",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "5/7/1840",
+                "end": "11/6/1893"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Swan Lake",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "3/4/1877",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "1812 Overture",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "8/20/1882",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "The Sleeping Beauty",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/15/1890",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "The Nutcracker",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1892",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
