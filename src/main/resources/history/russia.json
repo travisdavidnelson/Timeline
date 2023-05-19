@@ -1243,7 +1243,7 @@
           "backgroundEvents": [
             {
               "name": "Time of Troubles",
-              "style": "backgroundCrisis",
+              "style": "backgroundCrisisIsolated",
               "timespan": {
                 "start": "1598",
                 "end": "1613"
@@ -2174,6 +2174,19 @@
             },
             {
               "pageBreak": true,
+              "name": "Alexander Pushkin",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "6/6/1799",
+                "end": "2/10/1837"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Ivan Turgenev",
               "importance": "minor",
               "style": "russian",
@@ -2196,7 +2209,7 @@
             },
             {
               "name": "Fyodor Dostoevsky",
-              "importance": "major",
+              "importance": "semimajor",
               "style": "russian",
               "timespan": {
                 "start": "11/11/1821",
