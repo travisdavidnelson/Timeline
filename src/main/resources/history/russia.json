@@ -2374,6 +2374,36 @@
                   }
                 }
               ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Aleksandr Solzhenitsyn",
+              "importance": "semimajor",
+              "style": "russian",
+              "timespan": {
+                "start": "12/11/1918",
+                "end": "8/3/2008"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Nobel Prize in Literature",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "1970",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "The Gulag Archipelago",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1973",
+                    "duration": "1y"
+                  }
+                }
+              ]
             }
           ]
         },
