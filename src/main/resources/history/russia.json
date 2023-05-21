@@ -2157,6 +2157,25 @@
           ]
         },
         {
+          "name": "Explorers",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Yermak Timofeyevich",
+              "importance": "semimajor",
+              "style": "cossack",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1536",
+                "end": "8/5/1585"
+              },
+              "titles": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Cultural",
           "backgroundEvents": [
           ],
