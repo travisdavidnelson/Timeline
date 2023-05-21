@@ -250,6 +250,14 @@
       "style": "backgroundCrisis"
     },
     {
+      "name": "Vostok I",
+      "style": "triumph",
+      "timespan": {
+        "start": "4/12/1961",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Berlin Crisis of 1961",
       "timespan": {
         "start": "8/13/1961",
@@ -2172,6 +2180,28 @@
               },
               "titles": [
               ]
+            },
+            {
+              "pageBreak": true,
+              "name": "Yuri Gagarin",
+              "importance": "major",
+              "style": "russianCommunist",
+              "timespan": {
+                "start": "3/9/1934",
+                "end": "3/27/1968"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Vostok I",
+                  "style": "cosmonaut",
+                  "timespan": {
+                    "start": "4/12/1961",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -2681,6 +2711,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Yuri Andropov",
               "importance": "minor",
               "style": "russian",
