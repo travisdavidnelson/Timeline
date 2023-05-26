@@ -1457,6 +1457,39 @@
           ]
         },
         {
+          "name": "Maya Piedras Negras",
+          "backgroundEvents": [
+            {
+              "name": "Piedras Negras",
+              "style": "mayaPiedrasNegras",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "200 BC",
+                "endApproximate": "true",
+                "end": "900"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "K'inich Yo'nal Ahk I",
+              "importance": "semimajor",
+              "style": "maya",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/14/603",
+                    "end": "2/3/639"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        },
+        {
           "name": "Maya Tikal",
           "backgroundEvents": [
             {
