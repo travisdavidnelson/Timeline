@@ -1472,6 +1472,80 @@
           ],
           "people": [
             {
+              "name": "K'an Ahk I",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "aka Ruler A",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "440",
+                    "endApproximate": "true",
+                    "end": "470"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "K'an Ahk II",
+              "importance": "petty",
+              "style": "maya",
+              "annotation": "aka Ruler B",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "460",
+                    "endApproximate": "true",
+                    "end": "490"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Yat Ahk I",
+              "importance": "semimajor",
+              "style": "maya",
+              "annotation": "Turtle Tooth",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "490",
+                    "end": "6/30/514"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ruler C",
+              "importance": "petty",
+              "style": "maya",
+              "annotation": "Son of Turtle Tooth",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/30/514",
+                    "endApproximate": "true",
+                    "end": "520"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "K'inich Yo'nal Ahk I",
               "importance": "semimajor",
               "style": "maya",
