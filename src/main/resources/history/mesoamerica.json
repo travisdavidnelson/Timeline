@@ -1546,6 +1546,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "K'inich Yo'nal Ahk I",
               "importance": "semimajor",
               "style": "maya",
@@ -1555,6 +1556,129 @@
                   "timespan": {
                     "start": "11/14/603",
                     "end": "2/3/639"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Itzam K'an Ahk I",
+              "importance": "semimajor",
+              "style": "maya",
+              "annotation": "aka Ruler 2",
+              "timespan": {
+                "start": "5/22/626",
+                "end": "11/15/686"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "4/12/639",
+                    "end": "11/15/686"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "K'inich Yo'nal Ahk II",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "aka Ruler 3",
+              "timespan": {
+                "start": "12/30/664",
+                "endApproximate": "true",
+                "end": "729"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/2/687",
+                    "endApproximate": "true",
+                    "end": "729"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Itzam K'an Ahk II",
+              "importance": "semimajor",
+              "style": "maya",
+              "annotation": "aka Ruler 4",
+              "timespan": {
+                "start": "11/18/701",
+                "end": "11/26/757"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "11/9/729",
+                    "end": "11/26/757"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Yo'nal Ahk III",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "aka Ruler 5",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/10/758",
+                    "endApproximate": "true",
+                    "end": "767"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Ha' K'in Xook",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "aka Ruler 6",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "2/14/767",
+                    "end": "3/24/780"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "K'inich Yat Ahk II",
+              "importance": "minor",
+              "style": "maya",
+              "annotation": "aka Ruler 7",
+              "timespan": {
+                "start": "4/7/750",
+                "endApproximate": "true",
+                "end": "808"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/31/781",
+                    "endApproximate": "true",
+                    "end": "808"
                   }
                 }
               ],
