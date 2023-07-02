@@ -6194,6 +6194,43 @@
               ]
             },
             {
+              "name": "William Blake",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "11/28/1757",
+                "end": "8/12/1827"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Songs of Innocence and Experience",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1789",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "The Marriage of Heaven and Hell",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1790",
+                    "duration": "4y"
+                  }
+                },
+                {
+                  "name": "Jerusalem",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1804",
+                    "end": "1820"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Lord Byron",
               "style": "english",
               "importance": "petty",
@@ -6251,7 +6288,7 @@
             {
               "name": "Charles Dickens",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "2/7/1812",
                 "end": "6/9/1870"
