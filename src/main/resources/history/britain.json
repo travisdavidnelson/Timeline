@@ -8090,6 +8090,7 @@
           ]
         },
         {
+          "mark": true,
           "name": "Hanover",
           "backgroundEvents": [
             {
@@ -8255,6 +8256,7 @@
           ]
         },
         {
+          "pageBreak": true,
           "name": "Windsor",
           "backgroundEvents": [
             {
