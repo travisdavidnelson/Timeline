@@ -6247,6 +6247,65 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Charles Dickens",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "2/7/1812",
+                "end": "6/9/1870"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "The Pickwick Papers",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1836",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Oliver Twist",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1837",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "A Christmas Carol",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "12/19/1843",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "David Copperfield",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1849",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "A Tale of Two Cities",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "4/1859",
+                    "end": "11/1859"
+                  }
+                },
+                {
+                  "name": "Great Expectations",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1860",
+                    "duration": "2y"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -6340,17 +6399,6 @@
                     "duration": "1d"
                   }
                 }
-              ]
-            },
-            {
-              "name": "Charles Dickens",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "2/7/1812",
-                "end": "6/9/1870"
-              },
-              "titles": [
               ]
             }
           ]
