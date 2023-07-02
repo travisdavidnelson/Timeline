@@ -7295,6 +7295,16 @@
                     "end": "1794"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Reflections on the Revolution in France",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "11/1790",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
