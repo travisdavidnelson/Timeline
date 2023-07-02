@@ -6192,6 +6192,61 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Lord Byron",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/22/1788",
+                "end": "4/19/1824"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Percy Shelley",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/4/1792",
+                "end": "7/8/1822"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Ozymandias",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1818",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Keats",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/31/1795",
+                "end": "2/23/1821"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Odes",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1819",
+                    "duration": "1y"
+                  }
+                }
+              ]
             }
           ]
         },
