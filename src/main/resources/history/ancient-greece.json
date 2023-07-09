@@ -692,6 +692,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "First Crusade",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "8/15/1096",
+        "end": "7/15/1099"
+      }
+    },
+    {
       "name": "Black Death",
       "style": "backgroundPlagueMajor",
       "timespan": {
@@ -3014,6 +3022,14 @@
               "style": "backgroundNationalCalamity"
             },
             {
+              "name": "First Crusade",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "8/15/1096",
+                "end": "7/15/1099"
+              }
+            },
+            {
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
@@ -3324,6 +3340,14 @@
               "style": "backgroundNationalCalamity"
             },
             {
+              "name": "First Crusade",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "8/15/1096",
+                "end": "7/15/1099"
+              }
+            },
+            {
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
@@ -3504,6 +3528,14 @@
                 "duration": "1d"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "First Crusade",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "8/15/1096",
+                "end": "7/15/1099"
+              }
             },
             {
               "name": "Latin Empire",
