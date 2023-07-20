@@ -488,6 +488,14 @@
       }
     },
     {
+      "name": "Great Famine of 1315-1317",
+      "style": "backgroundFamine",
+      "timespan": {
+        "start": "1315",
+        "end": "1317"
+      }
+    },
+    {
       "name": "Peasant revolt in Flanders",
       "style": "backgroundCivilWarRegional",
       "timespan": {
