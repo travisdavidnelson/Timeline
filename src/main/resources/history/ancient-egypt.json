@@ -246,10 +246,10 @@
       }
     },
     {
-      "name": "Bubonic Plague",
+      "name": "Plague of Justinian",
       "timespan": {
         "start": "541",
-        "duration": "1y"
+        "end": "549"
       },
       "style": "backgroundPlagueMajor"
     },

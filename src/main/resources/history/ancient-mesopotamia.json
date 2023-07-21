@@ -321,6 +321,22 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "698",
+        "end": "701"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "746",
+        "end": "747"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Black Death",
       "style": "backgroundPlagueMajor",
       "timespan": {

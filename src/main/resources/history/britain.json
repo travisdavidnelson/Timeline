@@ -290,6 +290,14 @@
       "style": "angloSaxon"
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "6/664",
+        "duration": "1y"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Vikings raid Lindisfarne",
       "style": "backgroundRaid",
       "timespan": {

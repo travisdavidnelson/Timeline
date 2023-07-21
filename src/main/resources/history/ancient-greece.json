@@ -548,10 +548,10 @@
       "style": "backgroundNationalCalamity"
     },
     {
-      "name": "Bubonic Plague",
+      "name": "Plague of Justinian",
       "timespan": {
-        "start": "542",
-        "duration": "1y"
+        "start": "541",
+        "end": "549"
       },
       "style": "backgroundPlagueMajor"
     },
@@ -596,6 +596,14 @@
       }
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "698",
+        "end": "701"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Siege of Constantinople (674-678)",
       "style": "backgroundSiege",
       "timespan": {
@@ -610,6 +618,14 @@
         "start": "7/15/717",
         "end": "8/15/718"
       }
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "746",
+        "end": "747"
+      },
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "Siege of Constantinople (821-822)",

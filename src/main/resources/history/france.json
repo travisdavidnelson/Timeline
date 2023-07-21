@@ -240,6 +240,46 @@
       "style": "franks"
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "571",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "582",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "584",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "588",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "590",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
+    },
+    {
       "name": "Franco-Visigothic Wars",
       "timespan": {
         "start": "492",

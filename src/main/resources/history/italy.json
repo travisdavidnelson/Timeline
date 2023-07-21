@@ -53,10 +53,10 @@
       "style": "byzantium"
     },
     {
-      "name": "Bubonic Plague",
+      "name": "Plague of Justinian",
       "timespan": {
-        "start": "543",
-        "duration": "1y"
+        "start": "541",
+        "end": "549"
       },
       "style": "backgroundPlagueMajor"
     },
@@ -67,6 +67,14 @@
         "end": "774"
       },
       "style": "lombardKingdom"
+    },
+    {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "590",
+        "duration": "6m"
+      },
+      "style": "backgroundPlagueMajor"
     },
     {
       "name": "Frankish Kingdoms",
