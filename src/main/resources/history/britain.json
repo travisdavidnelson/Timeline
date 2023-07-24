@@ -730,6 +730,14 @@
       }
     },
     {
+      "name": "Capture of Calais",
+      "style": "backgroundBattleVictory",
+      "timespan": {
+        "start": "8/3/1347",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Battle of Poitiers",
       "style": "backgroundBattleVictory",
       "timespan": {
@@ -5429,6 +5437,14 @@
                   "style": "victory",
                   "timespan": {
                     "start": "8/26/1346",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Capture of Calais",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/3/1347",
                     "duration": "1d"
                   }
                 }

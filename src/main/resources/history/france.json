@@ -576,7 +576,15 @@
       }
     },
     {
-      "name": "Battle of Poiters",
+      "name": "Siege of Calais",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "9/4/1346",
+        "end": "8/3/1347"
+      }
+    },
+    {
+      "name": "Battle of Poitiers",
       "style": "backgroundBattleDefeat",
       "timespan": {
         "start": "9/19/1356",
@@ -2932,6 +2940,24 @@
                     "end": "8/22/1350"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Crecy",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/26/1346",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Capitulation of Calais",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/3/1347",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -2949,6 +2975,30 @@
                   "timespan": {
                     "start": "8/22/1350",
                     "end": "4/8/1364"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "9/19/1356",
+                    "end": "10/1360"
+                  }
+                },
+                {
+                  "name": "pow",
+                  "timespan": {
+                    "start": "1/1364",
+                    "end": "4/8/1364"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Poitiers",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/19/1356",
+                    "duration": "1d"
                   }
                 }
               ]
