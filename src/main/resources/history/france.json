@@ -3014,6 +3014,20 @@
               "annotation": "The Wise",
               "titles": [
                 {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "9/19/1356",
+                    "end": "10/1360"
+                  }
+                },
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "1/1364",
+                    "end": "4/8/1364"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "start": "4/8/1364",
