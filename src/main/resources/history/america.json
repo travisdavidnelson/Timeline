@@ -533,6 +533,14 @@
               "style": "colonialAmerica"
             },
             {
+              "name": "Pequot War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "7/1636",
+                "end": "9/1638"
+              }
+            },
+            {
               "name": "King William's War",
               "style": "backgroundWar",
               "timespan": {
