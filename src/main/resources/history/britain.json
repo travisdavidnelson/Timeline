@@ -756,10 +756,10 @@
     {
       "name": "Bubonic Plague",
       "timespan": {
-        "start": "1361",
-        "duration": "1y"
+        "start": "3/1361",
+        "end": "8/1361"
       },
-      "style": "backgroundPlagueMajor"
+      "style": "backgroundPlagueMinor"
     },
     {
       "name": "Bubonic Plague",

@@ -592,6 +592,14 @@
       }
     },
     {
+      "name": "Bubonic Plague",
+      "timespan": {
+        "start": "3/1361",
+        "end": "8/1361"
+      },
+      "style": "backgroundPlagueMinor"
+    },
+    {
       "name": "Caroline War",
       "style": "backgroundWar",
       "timespan": {
