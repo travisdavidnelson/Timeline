@@ -585,7 +585,7 @@
     },
     {
       "name": "Battle of Poitiers",
-      "style": "backgroundBattleDefeat",
+      "style": "backgroundNationalCalamity",
       "timespan": {
         "start": "9/19/1356",
         "duration": "1d"
