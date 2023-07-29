@@ -5453,7 +5453,7 @@
             {
               "name": "Edward the Black Prince",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "6/15/1330",
                 "end": "6/8/1376"
@@ -5530,7 +5530,7 @@
             {
               "name": "Henry V",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "9/16/1386",
                 "end": "8/31/1422"
@@ -5558,7 +5558,7 @@
             {
               "name": "Edmund Beaufort",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "1406",
