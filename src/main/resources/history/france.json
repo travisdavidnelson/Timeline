@@ -563,16 +563,8 @@
       "name": "Black Death",
       "style": "backgroundPlagueMajor",
       "timespan": {
-        "start": "1349",
+        "start": "1/1348",
         "duration": "5y"
-      }
-    },
-    {
-      "name": "Battle of Crecy",
-      "style": "backgroundBattleDefeat",
-      "timespan": {
-        "start": "8/26/1346",
-        "duration": "1d"
       }
     },
     {
@@ -584,11 +576,35 @@
       }
     },
     {
+      "name": "Battle of Crecy",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "8/26/1346",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Capitulation of Calais",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "8/3/1347",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Battle of Poitiers",
       "style": "backgroundNationalCalamity",
       "timespan": {
         "start": "9/19/1356",
         "duration": "1d"
+      }
+    },
+    {
+      "name": "Jacquerie Rebellion",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "5/28/1358",
+        "end": "8/10/1358"
       }
     },
     {
@@ -617,7 +633,7 @@
     },
     {
       "name": "Battle of Agincourt",
-      "style": "backgroundBattleDefeat",
+      "style": "backgroundNationalCalamity",
       "timespan": {
         "start": "10/25/1415",
         "duration": "1d"
