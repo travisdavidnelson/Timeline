@@ -103,6 +103,7 @@
 
 .seleucid {fill:blue;fill-opacity:0.4}
 .byzantium {fill:purple;fill-opacity:0.2}
+.byzantiumExarchate {fill:purple;fill-opacity:0.3}
 .palmyra {fill:#e570dd;fill-opacity:0.4}
 .phoenicia {fill:orange;fill-opacity:0.6}
 .pontus {fill:purple;fill-opacity:0.6}
@@ -259,6 +260,7 @@
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}
 .augustus 			{fill:#9A32CD;	fill-opacity:1.0}
 .basileus 			{fill:purple;	fill-opacity:0.8}
+.exarch 			{fill:purple;	fill-opacity:0.5}
 .battle 			{fill:red;		fill-opacity:0.7}
 .caesar 			{fill:#9A32CD;	fill-opacity:0.6}
 .captain 			{fill:#000080;	fill-opacity:0.4}

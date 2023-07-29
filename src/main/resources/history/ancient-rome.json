@@ -6131,6 +6131,35 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Exarchate of Ravenna",
+          "backgroundEvents": [
+            {
+              "name": "Exarchate of Ravenna",
+              "timespan": {
+                "start": "568",
+                "end": "761"
+              },
+              "style": "byzantiumExarchate"
+            }
+          ],
+          "people": [
+            {
+              "name": "Decius",
+              "style": "byzantiumExarchate",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "exarch",
+                  "timespan": {
+                    "start": "584",
+                    "end": "585"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
