@@ -69,6 +69,14 @@
       "style": "lombardKingdom"
     },
     {
+      "name": "Fall of Exarchate",
+      "timespan": {
+        "start": "750",
+        "duration": "2y"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Bubonic Plague",
       "timespan": {
         "start": "590",
@@ -326,6 +334,14 @@
                 "end": "774"
               },
               "style": "lombards"
+            },
+            {
+              "name": "Fall of Exarchate",
+              "timespan": {
+                "start": "750",
+                "duration": "2y"
+              },
+              "style": "backgroundWar"
             }
           ],
           "people": [
@@ -707,7 +723,7 @@
             {
               "name": "Aistulf",
               "style": "lombards",
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "duke",
@@ -721,6 +737,16 @@
                   "timespan": {
                     "start": "749",
                     "end": "12/756"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Fall of Ravenna",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "751",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -755,9 +781,25 @@
               "name": "Exarchate of Ravenna",
               "timespan": {
                 "start": "568",
-                "end": "761"
+                "end": "751"
               },
               "style": "byzantiumExarchate"
+            },
+            {
+              "name": "Fall of Exarchate",
+              "timespan": {
+                "start": "750",
+                "duration": "2y"
+              },
+              "style": "backgroundWar"
+            },
+            {
+              "name": "Fall of Ravenna",
+              "timespan": {
+                "start": "751",
+                "duration": "1m"
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
