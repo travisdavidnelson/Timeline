@@ -592,6 +592,14 @@
       }
     },
     {
+      "name": "Black Prince's chevauchée of 1355",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "10/5/1355",
+        "end": "12/2/1355"
+      }
+    },
+    {
       "name": "Battle of Poitiers",
       "style": "backgroundNationalCalamity",
       "timespan": {
@@ -621,6 +629,14 @@
       "timespan": {
         "start": "1369",
         "end": "1389"
+      }
+    },
+    {
+      "name": "John of Gaunt's chevauchée of 1373",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "8/9/1373",
+        "end": "12/1373"
       }
     },
     {

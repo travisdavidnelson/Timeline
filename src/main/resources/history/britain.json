@@ -738,6 +738,14 @@
       }
     },
     {
+      "name": "Black Prince's chevauchée of 1355",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "10/5/1355",
+        "end": "12/2/1355"
+      }
+    },
+    {
       "name": "Battle of Poitiers",
       "style": "backgroundBattleVictory",
       "timespan": {
@@ -770,12 +778,28 @@
       "style": "backgroundPlagueMajor"
     },
     {
+      "name": "John of Gaunt's chevauchée of 1373",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "8/9/1373",
+        "end": "12/1373"
+      }
+    },
+    {
       "name": "Bubonic Plague",
       "timespan": {
         "start": "1375",
         "duration": "1y"
       },
       "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Peasants Revolt",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "5/30/1381",
+        "end": "12/1381"
+      }
     },
     {
       "name": "Lancastrian War",
@@ -5469,6 +5493,14 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Black Prince's chevauchée of 1355",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/5/1355",
+                    "end": "12/2/1355"
+                  }
+                },
+                {
                   "name": "Battle of Poitiers",
                   "style": "victory",
                   "timespan": {
@@ -5509,6 +5541,34 @@
         {
           "name": "Plantagenet Lancaster",
           "people": [
+            {
+              "name": "John of Gaunt",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "3/6/1340",
+                "end": "2/3/1399"
+              },
+              "titles": [
+                {
+                  "name": "regent",
+                  "timespan": {
+                    "start": "1374",
+                    "end": "1377"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "John of Gaunt's chevauchée of 1373",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/9/1373",
+                    "end": "12/1373"
+                  }
+                }
+              ]
+            },
             {
               "name": "Henry IV",
               "style": "english",
