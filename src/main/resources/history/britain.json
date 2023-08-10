@@ -5567,10 +5567,17 @@
               },
               "titles": [
                 {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "11/13/1362",
+                    "end": "2/3/1399"
+                  }
+                },
+                {
                   "name": "regent",
                   "timespan": {
                     "start": "1374",
-                    "end": "1377"
+                    "end": "7/1377"
                   }
                 }
               ],
