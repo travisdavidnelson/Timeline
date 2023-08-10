@@ -739,7 +739,7 @@
     },
     {
       "name": "Black Prince's chevauchée of 1355",
-      "style": "backgroundWar",
+      "style": "backgroundRaid",
       "timespan": {
         "start": "10/5/1355",
         "end": "12/2/1355"
@@ -779,7 +779,7 @@
     },
     {
       "name": "John of Gaunt's chevauchée of 1373",
-      "style": "backgroundWar",
+      "style": "backgroundRaid",
       "timespan": {
         "start": "8/9/1373",
         "end": "12/1373"
