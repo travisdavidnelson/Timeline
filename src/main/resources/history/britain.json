@@ -746,6 +746,14 @@
       }
     },
     {
+      "name": "Black Prince's chevauchée of 1356",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "8/4/1356",
+        "end": "10/2/1356"
+      }
+    },
+    {
       "name": "Battle of Poitiers",
       "style": "backgroundBattleVictory",
       "timespan": {
@@ -5498,6 +5506,14 @@
                   "timespan": {
                     "start": "10/5/1355",
                     "end": "12/2/1355"
+                  }
+                },
+                {
+                  "name": "Black Prince's chevauchée of 1356",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/4/1356",
+                    "end": "10/2/1356"
                   }
                 },
                 {
