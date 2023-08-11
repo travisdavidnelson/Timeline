@@ -802,6 +802,14 @@
       "style": "backgroundPlagueMajor"
     },
     {
+      "name": "Siege of Limoges",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "9/1370",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Peasants Revolt",
       "style": "backgroundRevolt",
       "timespan": {
@@ -5522,6 +5530,14 @@
                   "timespan": {
                     "start": "9/19/1356",
                     "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Massacre of Limoges",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "9/1370",
+                    "duration": "1m"
                   }
                 }
               ]

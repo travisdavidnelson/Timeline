@@ -648,6 +648,14 @@
       }
     },
     {
+      "name": "Siege of Limoges",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "9/1370",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
