@@ -6190,6 +6190,36 @@
           "name": "Cultural",
           "people": [
             {
+              "name": "John Wycliffe",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1328",
+                "end": "12/31/1384"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "On Civil Dominion",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1377",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Wycliffe Bible",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1382",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Geoffrey Chaucer",
               "style": "english",
               "importance": "semimajor",
