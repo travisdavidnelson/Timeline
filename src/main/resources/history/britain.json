@@ -5343,7 +5343,7 @@
       ]
     },
     {
-      "name": "Plantagenets",
+      "name": "Plantagenets & Tudors",
       "backgroundEvents": [
       ],
       "dynasties": [
@@ -5602,15 +5602,80 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Tudors",
-      "backgroundEvents": [
-      ],
-      "dynasties": [
+        },
         {
+          "name": "Cultural",
+          "people": [
+            {
+              "name": "Richard FitzRalph",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1300",
+                "end": "12/16/1360"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "John Wycliffe",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1328",
+                "end": "12/31/1384"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "On Civil Dominion",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1377",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Wycliffe Bible",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1382",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Geoffrey Chaucer",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1345",
+                "end": "10/25/1400"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "The Canterbury Tales",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1400",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
           "name": "Plantagenet Lancaster",
           "people": [
             {
@@ -6190,73 +6255,6 @@
           "name": "Cultural",
           "people": [
             {
-              "name": "Richard FitzRalph",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1300",
-                "end": "12/16/1360"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
-              "name": "John Wycliffe",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1328",
-                "end": "12/31/1384"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "On Civil Dominion",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1377",
-                    "duration": "1y"
-                  }
-                },
-                {
-                  "name": "Wycliffe Bible",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1382",
-                    "duration": "1y"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Geoffrey Chaucer",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1345",
-                "end": "10/25/1400"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "The Canterbury Tales",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1400",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "pageBreak": true,
               "name": "Thomas More",
               "style": "sanctified",
               "importance": "semimajor",
