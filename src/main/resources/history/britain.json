@@ -6190,6 +6190,20 @@
           "name": "Cultural",
           "people": [
             {
+              "name": "Richard FitzRalph",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1300",
+                "end": "12/16/1360"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "John Wycliffe",
               "style": "english",
               "importance": "major",
