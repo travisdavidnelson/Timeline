@@ -834,6 +834,14 @@
       }
     },
     {
+      "name": "Henry Bolingbroke Revolt",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "6/1399",
+        "end": "10/1/1399"
+      }
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
@@ -5650,10 +5658,63 @@
               },
               "titles": [
                 {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "1387",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "1388",
+                    "end": "1399"
+                  }
+                },
+                {
+                  "name": "pilgrim",
+                  "timespan": {
+                    "start": "6/1392",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "12/1397",
+                    "end": "6/1399"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "6/1399",
+                    "end": "8/19/1399"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
-                    "start": "9/30/1399",
+                    "start": "10/13/1399",
                     "end": "3/20/1413"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Radcot Bridge",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/19/1387",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Surrender of Richard II to Henry Bolingbroke",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/19/1399",
+                    "duration": "1d"
                   }
                 }
               ]

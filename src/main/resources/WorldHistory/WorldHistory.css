@@ -288,6 +288,9 @@
 .prisoner 			{fill:grey;	    fill-opacity:1.0}
 .general 			{fill:#C00000;	fill-opacity:0.6}
 .soldier 			{fill:#C00000;	fill-opacity:0.4}
+.knight 			{fill:#C00000;	fill-opacity:0.5}
+.crusader 			{fill:#C00000;	fill-opacity:0.5}
+.pilgrim 			{fill:gold;	    fill-opacity:0.6}
 .governor 			{fill:blue;		fill-opacity:0.5}
 .highPriest			{fill:purple;	fill-opacity:0.5}
 .highPriestess 		{fill:purple;	fill-opacity:0.5}
