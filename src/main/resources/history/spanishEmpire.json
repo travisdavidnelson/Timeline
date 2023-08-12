@@ -68,6 +68,14 @@
       }
     },
     {
+      "name": "Fort Caroline Massacre",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "9/29/1565",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Battle of San Juan de Ulúa",
       "style": "backgroundBattle",
       "timespan": {
