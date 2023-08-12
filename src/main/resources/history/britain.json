@@ -818,6 +818,22 @@
       }
     },
     {
+      "name": "Lords Appellant",
+      "style": "backgroundMajorRebellion",
+      "timespan": {
+        "start": "1387",
+        "duration": "1y"
+      }
+    },
+    {
+      "name": "Battle of Radcot Bridge",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/19/1387",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
@@ -5557,6 +5573,16 @@
                   "timespan": {
                     "start": "6/22/1377",
                     "end": "9/29/1399"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Radcot Bridge",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/19/1387",
+                    "duration": "1d"
                   }
                 }
               ]
