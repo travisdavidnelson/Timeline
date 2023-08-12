@@ -5564,15 +5564,21 @@
               "importance": "minor",
               "timespan": {
                 "start": "1/6/1367",
-                "endApproximate": "true",
-                "end": "2/1400"
+                "end": "2/14/1400"
               },
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
                     "start": "6/22/1377",
-                    "end": "9/29/1399"
+                    "end": "8/19/1399"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "8/19/1399",
+                    "end": "2/14/1400"
                   }
                 }
               ],
