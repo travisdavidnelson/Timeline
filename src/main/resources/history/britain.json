@@ -5787,7 +5787,7 @@
             {
               "name": "Henry V",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "9/16/1386",
                 "end": "8/31/1422"
@@ -5807,6 +5807,14 @@
                   "style": "victory",
                   "timespan": {
                     "start": "10/25/1415",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Treaty of Troyes",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/21/1420",
                     "duration": "1d"
                   }
                 }
