@@ -664,6 +664,14 @@
       }
     },
     {
+      "name": "Henry V 1415 campaign",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "8/12/1415",
+        "end": "11/15/1415"
+      }
+    },
+    {
       "name": "Battle of Agincourt",
       "style": "backgroundNationalCalamity",
       "timespan": {
