@@ -842,6 +842,38 @@
       }
     },
     {
+      "name": "Epiphany Rising",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "1/4/1400",
+        "end": "1/16/1400"
+      }
+    },
+    {
+      "name": "Welsh Revolt",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "1403",
+        "end": "1406"
+      }
+    },
+    {
+      "name": "Battle of Shewsbury",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/21/1403",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Oldcastle Revolt",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "1/9/1414",
+        "duration": "1w"
+      }
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
