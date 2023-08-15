@@ -586,6 +586,22 @@
       }
     },
     {
+      "name": "Invasion of Harald Hardrada",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "9/8/1066",
+        "end": "9/25/1066"
+      }
+    },
+    {
+      "name": "Invasion of William the Norman",
+      "style": "backgroundInvasion",
+      "timespan": {
+        "start": "9/28/1066",
+        "end": "12/1066"
+      }
+    },
+    {
       "name": "Battle of Hastings",
       "style": "backgroundBattle",
       "timespan": {
@@ -1428,7 +1444,23 @@
               "style": "viking",
               "timespan": {
                 "start": "879",
-                "end": "1067"
+                "end": "10/14/1066"
+              }
+            },
+            {
+              "name": "Invasion of Harald Hardrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/8/1066",
+                "end": "9/25/1066"
+              }
+            },
+            {
+              "name": "Invasion of William the Norman",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/28/1066",
+                "end": "12/1066"
               }
             }
           ],
@@ -2094,7 +2126,23 @@
               "style": "viking",
               "timespan": {
                 "start": "879",
-                "end": "1067"
+                "end": "10/14/1066"
+              }
+            },
+            {
+              "name": "Invasion of Harald Hardrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/8/1066",
+                "end": "9/25/1066"
+              }
+            },
+            {
+              "name": "Invasion of William the Norman",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/28/1066",
+                "end": "12/1066"
               }
             },
             {
@@ -4448,7 +4496,23 @@
               "style": "viking",
               "timespan": {
                 "start": "878",
-                "end": "1067"
+                "end": "10/14/1066"
+              }
+            },
+            {
+              "name": "Invasion of Harald Hardrada",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/8/1066",
+                "end": "9/25/1066"
+              }
+            },
+            {
+              "name": "Invasion of William the Norman",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "9/28/1066",
+                "end": "12/1066"
               }
             }
           ],
