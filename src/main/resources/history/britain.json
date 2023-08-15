@@ -598,7 +598,7 @@
       "style": "backgroundInvasion",
       "timespan": {
         "start": "9/28/1066",
-        "end": "12/1066"
+        "end": "12/25/1066"
       }
     },
     {
@@ -607,6 +607,46 @@
       "timespan": {
         "start": "10/14/1066",
         "duration": "1d"
+      }
+    },
+    {
+      "name": "Siege of Exeter",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "3/1068",
+        "end": "6/1068"
+      }
+    },
+    {
+      "name": "Revolt of Edwin and Morcar",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "9/1068",
+        "duration": "3m"
+      }
+    },
+    {
+      "name": "Massacre of Robert de Comines",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "2/1069",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Harrying of the North",
+      "style": "backgroundRevolt",
+      "timespan": {
+        "start": "12/1069",
+        "duration": "5m"
+      }
+    },
+    {
+      "name": "Rebellions against William the Norman",
+      "style": "backgroundMajorRebellion",
+      "timespan": {
+        "start": "9/1069",
+        "end": "1072"
       }
     },
     {
@@ -1460,7 +1500,7 @@
               "style": "backgroundInvasion",
               "timespan": {
                 "start": "9/28/1066",
-                "end": "12/1066"
+                "end": "12/25/1066"
               }
             }
           ],
@@ -2142,7 +2182,7 @@
               "style": "backgroundInvasion",
               "timespan": {
                 "start": "9/28/1066",
-                "end": "12/1066"
+                "end": "12/25/1066"
               }
             },
             {
@@ -4512,7 +4552,7 @@
               "style": "backgroundInvasion",
               "timespan": {
                 "start": "9/28/1066",
-                "end": "12/1066"
+                "end": "12/25/1066"
               }
             }
           ],
