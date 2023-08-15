@@ -650,6 +650,46 @@
       }
     },
     {
+      "name": "Revolt of the Earls",
+      "style": "backgroundMinorRebellion",
+      "timespan": {
+        "start": "6/1075",
+        "duration": "2m"
+      }
+    },
+    {
+      "name": "Rebellion of 1088",
+      "style": "backgroundMajorRebellion",
+      "timespan": {
+        "start": "3/1088",
+        "duration": "6m"
+      }
+    },
+    {
+      "name": "Rebellion of Robert de Mowbray",
+      "style": "backgroundMinorRebellion",
+      "timespan": {
+        "start": "4/1095",
+        "duration": "2m"
+      }
+    },
+    {
+      "name": "War with Robert",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/20/1101",
+        "end": "6/1102"
+      }
+    },
+    {
+      "name": "War with Robert",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "7/1106",
+        "end": "11/1106"
+      }
+    },
+    {
       "name": "Anglo-French War 1109-13",
       "style": "backgroundWar",
       "timespan": {
