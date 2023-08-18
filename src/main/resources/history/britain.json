@@ -5555,9 +5555,10 @@
               ]
             },
             {
-              "name": "Richard I Lionheart",
+              "name": "Richard I",
               "style": "english",
               "importance": "semimajor",
+              "annotation": "Lionheart",
               "timespan": {
                 "start": "9/8/1157",
                 "end": "4/6/1199"
@@ -5568,6 +5569,24 @@
                   "timespan": {
                     "start": "9/3/1189",
                     "end": "4/6/1199"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Third Crusade",
+                  "style": "crusader",
+                  "timespan": {
+                    "start": "7/1190",
+                    "end": "10/9/1192"
+                  }
+                },
+                {
+                  "name": "Prisoner of Holy Roman Emperor Henry VI",
+                  "style": "prisoner",
+                  "timespan": {
+                    "start": "12/1192",
+                    "end": "2/4/1194"
                   }
                 }
               ]
@@ -5609,9 +5628,10 @@
               ]
             },
             {
-              "name": "Edward I Longshanks",
+              "name": "Edward I",
               "style": "english",
               "importance": "major",
+              "annotation": "Longshanks - the evil king in Braveheart",
               "timespan": {
                 "start": "6/17/1239",
                 "end": "7/7/1307"
