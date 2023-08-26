@@ -754,7 +754,7 @@
       }
     },
     {
-      "name": "First Barons War",
+      "name": "First Barons' War",
       "style": "backgroundCivilWar",
       "timespan": {
         "start": "1215",
@@ -762,7 +762,7 @@
       }
     },
     {
-      "name": "Second Barons War",
+      "name": "Second Barons' War",
       "style": "backgroundCivilWar",
       "timespan": {
         "start": "4/1263",
@@ -5628,6 +5628,43 @@
               ]
             },
             {
+              "name": "Simon de Montfort",
+              "style": "english",
+              "importance": "semimajor",
+              "annotation": "6th Earl of Leicester",
+              "timespan": {
+                "start": "1208",
+                "end": "8/4/1265"
+              },
+              "titles": [
+                {
+                  "name": "earl",
+                  "timespan": {
+                    "start": "1239",
+                    "end": "8/4/1265"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Lewes",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/14/1264",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Evesham",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/4/1265",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Edward I",
               "style": "english",
               "importance": "major",
@@ -5650,7 +5687,7 @@
                   "name": "Battle of Evesham",
                   "style": "victory",
                   "timespan": {
-                    "start": "9/4/1265",
+                    "start": "8/4/1265",
                     "duration": "1d"
                   }
                 },
