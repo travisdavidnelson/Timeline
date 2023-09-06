@@ -656,6 +656,22 @@
       }
     },
     {
+      "name": "French and Spanish raid on Rye",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "6/29/1379",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "French raid on Isle of Wight",
+      "style": "backgroundRaid",
+      "timespan": {
+        "start": "8/1379",
+        "duration": "1w"
+      }
+    },
+    {
       "name": "Lancastrian War",
       "style": "backgroundWar",
       "timespan": {
