@@ -5790,6 +5790,14 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Battle of Crecy",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/26/1346",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Black Prince's chevauchée of 1355",
                   "style": "victory",
                   "timespan": {
