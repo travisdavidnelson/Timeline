@@ -946,6 +946,14 @@
       }
     },
     {
+      "name": "Tyranny of Richard II",
+      "style": "backgroundTyranny",
+      "timespan": {
+        "start": "7/1397",
+        "end": "9/29/1399"
+      }
+    },
+    {
       "name": "Henry Bolingbroke Revolt",
       "style": "backgroundRevolt",
       "timespan": {
