@@ -6068,6 +6068,13 @@
               },
               "titles": [
                 {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "10/13/1399",
+                    "end": "3/20/1413"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "start": "3/21/1413",
