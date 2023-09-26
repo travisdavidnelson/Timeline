@@ -6325,9 +6325,11 @@
               "name": "Edward V",
               "style": "english",
               "importance": "petty",
+              "annotation": "At 13, the edlest of the Princes in the Tower along with his brother Richard",
               "timespan": {
                 "start": "11/2/1470",
-                "end": "7/1483"
+                "endApproximate": "true",
+                "end": "8/1483"
               },
               "titles": [
                 {
@@ -6335,6 +6337,43 @@
                   "timespan": {
                     "start": "4/9/1483",
                     "end": "6/25/1483"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "5/19/1483",
+                    "endApproximate": "true",
+                    "end": "8/1483"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Richard",
+              "style": "english",
+              "importance": "petty",
+              "annotation": "Duke of York, the youngest Prince in the Tower along with his brother Edward V",
+              "timespan": {
+                "start": "11/2/1470",
+                "endApproximate": "true",
+                "end": "8/1483"
+              },
+              "titles": [
+                {
+                  "name": "duke",
+                  "timespan": {
+                    "start": "5/1474",
+                    "endApproximate": "true",
+                    "end": "8/1483"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "6/16/1483",
+                    "endApproximate": "true",
+                    "end": "8/1483"
                   }
                 }
               ]
@@ -6357,6 +6396,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "The Princes in the Tower",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "5/19/1483",
+                    "end": "8/1483"
+                  }
+                },
                 {
                   "name": "Battle of Bosworth Field",
                   "style": "defeat",
