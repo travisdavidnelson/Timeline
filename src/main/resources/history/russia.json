@@ -272,6 +272,14 @@
         "start": "10/16/1962",
         "end": "10/29/1962"
       }
+    },
+    {
+      "name": "Ukrainian War of 2022",
+      "timespan": {
+        "start": "2/24/2022",
+        "end": ""
+      },
+      "style": "backgroundWar"
     }
   ],
   "dynastyGroups": [
@@ -2855,7 +2863,7 @@
               "style": "backgroundWar"
             },
             {
-              "name": "Russo-Georgian War of 2022",
+              "name": "Ukrainian War of 2022",
               "timespan": {
                 "start": "2/24/2022",
                 "end": ""
