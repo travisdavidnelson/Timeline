@@ -5950,6 +5950,8 @@
         {
           "pageBreak": true,
           "name": "Plantagenet Lancaster",
+          "backgroundEvents": [
+          ],
           "people": [
             {
               "name": "John of Gaunt",
@@ -6211,6 +6213,16 @@
         },
         {
           "name": "Plantagenet York",
+          "backgroundEvents": [
+            {
+              "name": "Richard III takes over",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "5/1483",
+                "duration": "3m"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Richard Plantagenet",
@@ -6288,7 +6300,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle of Mortimers Cross",
+                  "name": "Battle of Mortimer's Cross",
                   "style": "victory",
                   "timespan": {
                     "start": "2/2/1461",
@@ -6325,13 +6337,20 @@
               "name": "Edward V",
               "style": "english",
               "importance": "petty",
-              "annotation": "At 13, the edlest of the Princes in the Tower along with his brother Richard",
+              "annotation": "At 13, the eldest of the Princes in the Tower along with his brother Richard",
               "timespan": {
                 "start": "11/2/1470",
                 "endApproximate": "true",
-                "end": "8/1483"
+                "end": "10/1483"
               },
               "titles": [
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "6/1471",
+                    "end": "4/9/1483"
+                  }
+                },
                 {
                   "name": "king",
                   "timespan": {
@@ -6343,8 +6362,7 @@
                   "name": "prisoner",
                   "timespan": {
                     "start": "5/19/1483",
-                    "endApproximate": "true",
-                    "end": "8/1483"
+                    "end": "10/1483"
                   }
                 }
               ]
@@ -6357,14 +6375,13 @@
               "timespan": {
                 "start": "11/2/1470",
                 "endApproximate": "true",
-                "end": "8/1483"
+                "end": "10/1483"
               },
               "titles": [
                 {
                   "name": "duke",
                   "timespan": {
                     "start": "5/1474",
-                    "endApproximate": "true",
                     "end": "8/1483"
                   }
                 },
@@ -6372,8 +6389,7 @@
                   "name": "prisoner",
                   "timespan": {
                     "start": "6/16/1483",
-                    "endApproximate": "true",
-                    "end": "8/1483"
+                    "end": "10/1483"
                   }
                 }
               ]
