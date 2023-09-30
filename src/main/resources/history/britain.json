@@ -5948,8 +5948,7 @@
           ]
         },
         {
-          "pageBreak": true,
-          "name": "Plantagenet Lancaster",
+          "name": "Lancaster",
           "backgroundEvents": [
           ],
           "people": [
@@ -6212,7 +6211,7 @@
           ]
         },
         {
-          "name": "Plantagenet York",
+          "name": "York",
           "backgroundEvents": [
             {
               "name": "Richard III takes over",
@@ -6434,6 +6433,7 @@
         },
         {
           "name": "Tudors",
+          "pageBreak": true,
           "people": [
             {
               "name": "Henry VII",
