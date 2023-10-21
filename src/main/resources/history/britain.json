@@ -6482,19 +6482,38 @@
               ]
             },
             {
-              "name": "Edward VI",
-              "style": "english",
+              "name": "Catherine of Aragon &#9792;",
+              "style": "spanish",
               "importance": "minor",
               "timespan": {
-                "start": "10/12/1537",
-                "end": "7/6/1553"
+                "start": "12/16/1485",
+                "end": "1/7/1536"
               },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "queen",
                   "timespan": {
-                    "start": "1/28/1547",
-                    "end": "7/6/1553"
+                    "start": "6/11/1509",
+                    "end": "5/23/1533"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mary I&#9792;",
+              "style": "english",
+              "importance": "semimajor",
+              "annotation": "Bloody Mary",
+              "timespan": {
+                "start": "2/18/1516",
+                "end": "11/17/1558"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "7/19/1553",
+                    "end": "11/17/1558"
                   }
                 }
               ]
@@ -6519,20 +6538,20 @@
               ]
             },
             {
-              "name": "Mary I&#9792;",
+              "name": "Anne Boleyn&#9792;",
               "style": "english",
-              "importance": "semimajor",
-              "annotation": "Bloody Mary",
+              "importance": "minor",
               "timespan": {
-                "start": "2/18/1516",
-                "end": "11/17/1558"
+                "startApproximate": "true",
+                "start": "1501",
+                "end": "5/19/1536"
               },
               "titles": [
                 {
                   "name": "queen",
                   "timespan": {
-                    "start": "7/19/1553",
-                    "end": "11/17/1558"
+                    "start": "5/28/1533",
+                    "end": "5/17/1536"
                   }
                 }
               ]
@@ -6564,7 +6583,63 @@
                     "duration": "2m"
                   }
                 }
-              ]            },
+              ]
+            },
+            {
+              "name": "Jane Seymour&#9792;",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1508",
+                "end": "10/24/1537"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "5/30/1536",
+                    "end": "10/24/1537"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VI",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/12/1537",
+                "end": "7/6/1553"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/28/1547",
+                    "end": "7/6/1553"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anne of Cleves&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1515",
+                "end": "7/16/1557"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "1/6/1540",
+                    "end": "7/16/1557"
+                  }
+                }
+              ]
+            },
             {
               "name": "Francis Drake",
               "style": "english",
