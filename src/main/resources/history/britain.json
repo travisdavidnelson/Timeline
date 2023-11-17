@@ -7229,7 +7229,26 @@
                   }
                 }
               ]
-            }          ]
+            },
+            {
+              "name": "Henrietta Maria&#9792;",
+              "style": "french",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/25/1609",
+                "end": "9/10/1669"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "6/13/1625",
+                    "end": "1/30/1649"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Parliament",
