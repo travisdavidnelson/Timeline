@@ -204,6 +204,8 @@
 .backgroundOttomanPDA {fill:#9de069; fill-opacity:0.5}
 .backgroundSiege {fill:#ad0126; fill-opacity:0.6}
 .foregroundReputationalStain {fill:black; fill-opacity:1.0}
+.foregroundBillOfAttainder {fill:black; fill-opacity:1.0}
+
 .stoneAge {fill:#777777;fill-opacity:0.7}
 .bronzeAge {fill:#d8a068;fill-opacity:0.2}
 .ironAge {fill:#c4c4c4;fill-opacity:1.0}
@@ -258,6 +260,8 @@
 .activist 			{fill:red;		fill-opacity:0.3}
 .admiral 			{fill:#000080;	fill-opacity:0.6}
 .archbishop			{fill:purple;	fill-opacity:0.7}
+.cardinal			{fill:purple;	fill-opacity:0.5}
+.bishop			    {fill:purple;	fill-opacity:0.3}
 .augusta 			{fill:#BF3EFF;	fill-opacity:1.0}
 .augustus 			{fill:#9A32CD;	fill-opacity:1.0}
 .basileus 			{fill:purple;	fill-opacity:0.8}
@@ -313,6 +317,7 @@
 .mercenary 			{fill:#C00000;	fill-opacity:0.4}
 .militaryOfficer 	{fill:#e50202;	fill-opacity:0.4}
 .lordChancellor 	{fill:#0c06cc;	fill-opacity:0.9}
+.lordChamberlain 	{fill:#0c06cc;	fill-opacity:0.7}
 .primeMinister 	    {fill:#0c06cc;	fill-opacity:0.7}
 .chiefMinister 	    {fill:#077707;	fill-opacity:0.3}
 .warMinister 	    {fill:#e50202;	fill-opacity:0.7}

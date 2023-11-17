@@ -6490,6 +6490,95 @@
               ]
             },
             {
+              "name": "Thomas Wolsey",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "3/1473",
+                "end": "11/29/1530"
+              },
+              "titles": [
+                {
+                  "name": "lordChancellor",
+                  "timespan": {
+                    "start": "1515",
+                    "end": "1529"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Thomas More",
+              "style": "sanctified",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "2/7/1478",
+                "end": "7/6/1535"
+              },
+              "titles": [
+                {
+                  "name": "lordChancellor",
+                  "timespan": {
+                    "start": "10/1529",
+                    "end": "5/16/1532"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Novum Organum",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1620",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Fisher",
+              "style": "sanctified",
+              "importance": "petty",
+              "timespan": {
+                "start": "10/19/1469",
+                "end": "6/22/1535"
+              },
+              "titles": [
+                {
+                  "name": "bishop",
+                  "timespan": {
+                    "start": "10/14/1504",
+                    "end": "4/26/1534"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "4/26/1534",
+                    "end": "6/22/1535"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Bill of Attainder",
+                  "style": "foregroundBillOfAttainder",
+                  "timespan": {
+                    "start": "3/1534",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Bill of Attainder",
+                  "style": "foregroundBillOfAttainder",
+                  "timespan": {
+                    "start": "11/1534",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Catherine of Aragon &#9792;",
               "style": "spanish",
               "importance": "minor",
@@ -6631,6 +6720,39 @@
               ]
             },
             {
+              "name": "Thomas Cromwell",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1485",
+                "end": "7/28/1540"
+              },
+              "titles": [
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "4/1534",
+                    "end": "6/10/1540"
+                  }
+                },
+                {
+                  "name": "lordChamberlain",
+                  "timespan": {
+                    "start": "4/17/1540",
+                    "end": "6/10/1540"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "4/17/1540",
+                    "end": "6/10/1540"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Anne of Cleves&#9792;",
               "style": "english",
               "importance": "petty",
@@ -6690,34 +6812,6 @@
         {
           "name": "Cultural",
           "people": [
-            {
-              "name": "Thomas More",
-              "style": "sanctified",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "2/7/1478",
-                "end": "7/6/1535"
-              },
-              "titles": [
-                {
-                  "name": "lordChancellor",
-                  "timespan": {
-                    "start": "10/1529",
-                    "end": "5/1532"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Novum Organum",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1620",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
             {
               "pageBreak": true,
               "name": "Francis Bacon",
