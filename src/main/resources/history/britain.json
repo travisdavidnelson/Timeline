@@ -1106,6 +1106,14 @@
       }
     },
     {
+      "name": "Rising of the North",
+      "style": "backgroundRebellion",
+      "timespan": {
+        "start": "11/9/1569",
+        "end": "1/21/1570"
+      }
+    },
+    {
       "name": "Anglo-Spanish War",
       "style": "backgroundWar",
       "timespan": {
