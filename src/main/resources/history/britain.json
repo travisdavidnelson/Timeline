@@ -6472,6 +6472,24 @@
               ]
             },
             {
+              "name": "Arthur",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "9/19/1486",
+                "end": "4/2/1502"
+              },
+              "titles": [
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "11/29/1489",
+                    "end": "4/2/1502"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Henry VIII",
               "style": "english",
               "importance": "transformational",
@@ -6481,10 +6499,27 @@
               },
               "titles": [
                 {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "2/1504",
+                    "end": "8/22/1509"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
                     "start": "8/22/1509",
                     "end": "1/28/1547"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Executions of John Fisher and Thomas More",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "6/1535",
+                    "duration": "2m"
                   }
                 }
               ]
