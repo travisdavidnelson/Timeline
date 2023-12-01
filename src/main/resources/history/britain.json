@@ -6442,6 +6442,16 @@
         {
           "name": "Tudors",
           "pageBreak": true,
+          "backgroundEvents": [
+            {
+              "name": "Church of England split with Papacy",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "5/23/1533",
+                "duration": "1m"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Henry VII",
@@ -6515,11 +6525,43 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Annulment of marriage of Catharine of Aragon",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "5/23/1533",
+                    "duration": "1w"
+                  }
+                },
+                {
                   "name": "Executions of John Fisher and Thomas More",
                   "style": "foregroundReputationalStain",
                   "timespan": {
                     "start": "6/1535",
                     "duration": "2m"
+                  }
+                },
+                {
+                  "name": "Execution of Anne Boleyn",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "5/1536",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Annulment of marriage of Anne of Cleves",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "7/12/1540",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Execution of Catherine Howard",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "2/1542",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -6545,7 +6587,7 @@
             {
               "name": "Thomas More",
               "style": "sanctified",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "start": "2/7/1478",
                 "end": "7/6/1535"
@@ -6614,6 +6656,74 @@
               ]
             },
             {
+              "name": "Thomas Cromwell",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1485",
+                "end": "7/28/1540"
+              },
+              "titles": [
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "4/1534",
+                    "end": "6/10/1540"
+                  }
+                },
+                {
+                  "name": "lordChamberlain",
+                  "timespan": {
+                    "start": "4/17/1540",
+                    "end": "6/10/1540"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "4/17/1540",
+                    "end": "6/10/1540"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Thomas Cranmer",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "7/2/1489",
+                "end": "3/21/1556"
+              },
+              "titles": [
+                {
+                  "name": "archbishop",
+                  "timespan": {
+                    "start": "12/3/1533",
+                    "end": "12/4/1555"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "9/14/1553",
+                    "end": "3/21/1556"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Book of Common Prayer",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1548",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Catherine of Aragon &#9792;",
               "style": "spanish",
               "importance": "minor",
@@ -6646,6 +6756,16 @@
                   "timespan": {
                     "start": "7/19/1553",
                     "end": "11/17/1558"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Execution of Thomas Cranmer",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "3/1556",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -6718,6 +6838,43 @@
               ]
             },
             {
+              "name": "Francis Drake",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1540",
+                "end": "1/28/1596"
+              },
+              "titles": [
+                {
+                  "name": "captain",
+                  "timespan": {
+                    "start": "1563",
+                    "end": "1/28/1596"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Circumnavigation",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "1577",
+                    "end": "1580"
+                  }
+                },
+                {
+                  "name": "Spanish Armada",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/1588",
+                    "duration": "2m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Jane Seymour&#9792;",
               "style": "english",
               "importance": "minor",
@@ -6755,39 +6912,6 @@
               ]
             },
             {
-              "name": "Thomas Cromwell",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1485",
-                "end": "7/28/1540"
-              },
-              "titles": [
-                {
-                  "name": "chiefMinister",
-                  "timespan": {
-                    "start": "4/1534",
-                    "end": "6/10/1540"
-                  }
-                },
-                {
-                  "name": "lordChamberlain",
-                  "timespan": {
-                    "start": "4/17/1540",
-                    "end": "6/10/1540"
-                  }
-                },
-                {
-                  "name": "prisoner",
-                  "timespan": {
-                    "start": "4/17/1540",
-                    "end": "6/10/1540"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Anne of Cleves&#9792;",
               "style": "english",
               "importance": "petty",
@@ -6797,47 +6921,46 @@
               },
               "titles": [
                 {
-                  "name": "queen",
+                  "name": "queenConsort",
                   "timespan": {
                     "start": "1/6/1540",
-                    "end": "7/16/1557"
+                    "end": "7/12/1540"
                   }
                 }
               ]
             },
             {
-              "name": "Francis Drake",
+              "name": "Catherine Howard&#9792;",
               "style": "english",
-              "importance": "major",
+              "importance": "petty",
               "timespan": {
-                "startApproximate": "true",
-                "start": "1540",
-                "end": "1/28/1596"
+                "start": "1523",
+                "end": "2/13/1542"
               },
               "titles": [
                 {
-                  "name": "captain",
+                  "name": "queenConsort",
                   "timespan": {
-                    "start": "1563",
-                    "end": "1/28/1596"
+                    "start": "7/28/1540",
+                    "end": "11/23/1541"
                   }
                 }
-              ],
-              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Catherine Parr&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1512",
+                "end": "9/5/1548"
+              },
+              "titles": [
                 {
-                  "name": "Circumnavigation",
-                  "style": "exploration",
+                  "name": "queenConsort",
                   "timespan": {
-                    "start": "1577",
-                    "end": "1580"
-                  }
-                },
-                {
-                  "name": "Spanish Armada",
-                  "style": "victory",
-                  "timespan": {
-                    "start": "7/1588",
-                    "duration": "2m"
+                    "start": "7/12/1543",
+                    "end": "1/28/1547"
                   }
                 }
               ]
