@@ -6569,7 +6569,7 @@
             {
               "name": "Thomas Wolsey",
               "style": "english",
-              "importance": "petty",
+              "importance": "minor",
               "timespan": {
                 "start": "3/1473",
                 "end": "11/29/1530"
@@ -6691,7 +6691,7 @@
             {
               "name": "Thomas Cranmer",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "7/2/1489",
                 "end": "3/21/1556"
