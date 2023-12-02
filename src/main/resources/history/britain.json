@@ -6567,6 +6567,116 @@
               ]
             },
             {
+              "name": "Catherine of Aragon &#9792;",
+              "style": "spanish",
+              "importance": "minor",
+              "timespan": {
+                "start": "12/16/1485",
+                "end": "1/7/1536"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "6/11/1509",
+                    "end": "5/23/1533"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anne Boleyn&#9792;",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1501",
+                "end": "5/19/1536"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "5/28/1533",
+                    "end": "5/17/1536"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Jane Seymour&#9792;",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1508",
+                "end": "10/24/1537"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "5/30/1536",
+                    "end": "10/24/1537"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Anne of Cleves&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1515",
+                "end": "7/16/1557"
+              },
+              "titles": [
+                {
+                  "name": "queenConsort",
+                  "timespan": {
+                    "start": "1/6/1540",
+                    "end": "7/12/1540"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Catherine Howard&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1523",
+                "end": "2/13/1542"
+              },
+              "titles": [
+                {
+                  "name": "queenConsort",
+                  "timespan": {
+                    "start": "7/28/1540",
+                    "end": "11/23/1541"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Catherine Parr&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1512",
+                "end": "9/5/1548"
+              },
+              "titles": [
+                {
+                  "name": "queenConsort",
+                  "timespan": {
+                    "start": "7/12/1543",
+                    "end": "1/28/1547"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Thomas Wolsey",
               "style": "english",
               "importance": "minor",
@@ -6724,19 +6834,38 @@
               ]
             },
             {
-              "name": "Catherine of Aragon &#9792;",
-              "style": "spanish",
+              "name": "Edward VI",
+              "style": "english",
               "importance": "minor",
               "timespan": {
-                "start": "12/16/1485",
-                "end": "1/7/1536"
+                "start": "10/12/1537",
+                "end": "7/6/1553"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/28/1547",
+                    "end": "7/6/1553"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lady Jane Grey&#9792;",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1547",
+                "end": "2/12/1554"
               },
               "titles": [
                 {
                   "name": "queen",
                   "timespan": {
-                    "start": "6/11/1509",
-                    "end": "5/23/1533"
+                    "start": "7/10/1553",
+                    "end": "7/19/1553"
                   }
                 }
               ]
@@ -6766,44 +6895,6 @@
                   "timespan": {
                     "start": "3/1556",
                     "duration": "1m"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Lady Jane Grey&#9792;",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1547",
-                "end": "2/12/1554"
-              },
-              "titles": [
-                {
-                  "name": "queen",
-                  "timespan": {
-                    "start": "7/10/1553",
-                    "end": "7/19/1553"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Anne Boleyn&#9792;",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1501",
-                "end": "5/19/1536"
-              },
-              "titles": [
-                {
-                  "name": "queen",
-                  "timespan": {
-                    "start": "5/28/1533",
-                    "end": "5/17/1536"
                   }
                 }
               ]
@@ -6870,97 +6961,6 @@
                   "timespan": {
                     "start": "7/1588",
                     "duration": "2m"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Jane Seymour&#9792;",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1508",
-                "end": "10/24/1537"
-              },
-              "titles": [
-                {
-                  "name": "queen",
-                  "timespan": {
-                    "start": "5/30/1536",
-                    "end": "10/24/1537"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Edward VI",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "10/12/1537",
-                "end": "7/6/1553"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/28/1547",
-                    "end": "7/6/1553"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Anne of Cleves&#9792;",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "start": "1515",
-                "end": "7/16/1557"
-              },
-              "titles": [
-                {
-                  "name": "queenConsort",
-                  "timespan": {
-                    "start": "1/6/1540",
-                    "end": "7/12/1540"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Catherine Howard&#9792;",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "start": "1523",
-                "end": "2/13/1542"
-              },
-              "titles": [
-                {
-                  "name": "queenConsort",
-                  "timespan": {
-                    "start": "7/28/1540",
-                    "end": "11/23/1541"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Catherine Parr&#9792;",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "start": "1512",
-                "end": "9/5/1548"
-              },
-              "titles": [
-                {
-                  "name": "queenConsort",
-                  "timespan": {
-                    "start": "7/12/1543",
-                    "end": "1/28/1547"
                   }
                 }
               ]
