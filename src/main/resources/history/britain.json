@@ -6450,6 +6450,38 @@
                 "start": "5/23/1533",
                 "duration": "1m"
               }
+            },
+            {
+              "name": "Executions of John Fisher and Thomas More",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "6/1535",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Execution of Anne Boleyn",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "5/1536",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Execution of Catherine Howard",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "2/1542",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Execution of Thomas Cranmer",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "3/1556",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
