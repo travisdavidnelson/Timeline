@@ -3396,6 +3396,17 @@
               ]
             },
             {
+              "name": "Moliere",
+              "style": "french",
+              "importance": "minor",
+              "timespan": {
+                "start": "1/15/1622",
+                "end": "2/17/1673"
+              },
+              "titles": [
+              ]
+            },
+            {
               "pageBreak": true,
               "name": "Montesquieu",
               "style": "french",
@@ -3483,25 +3494,6 @@
               ]
             },
             {
-              "name": "Louis XIII",
-              "style": "french",
-              "timespan": {
-                "start": "9/27/1601",
-                "end": "5/14/1643"
-              },
-              "importance": "semimajor",
-              "annotation": "The Just",
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "5/14/1610",
-                    "end": "5/14/1643"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Cardinal Richelieu",
               "style": "french",
               "importance": "semimajor",
@@ -3520,20 +3512,20 @@
               ]
             },
             {
-              "name": "Louis XIV",
+              "name": "Louis XIII",
               "style": "french",
               "timespan": {
-                "start": "9/5/1638",
-                "end": "9/1/1715"
+                "start": "9/27/1601",
+                "end": "5/14/1643"
               },
-              "importance": "major",
-              "annotation": "The Sun King",
+              "importance": "semimajor",
+              "annotation": "The Just",
               "titles": [
                 {
                   "name": "king",
                   "timespan": {
-                    "start": "5/14/1643",
-                    "end": "9/1/1715"
+                    "start": "5/14/1610",
+                    "end": "5/14/1643"
                   }
                 }
               ]
@@ -3557,14 +3549,22 @@
               ]
             },
             {
-              "name": "Moliere",
+              "name": "Louis XIV",
               "style": "french",
-              "importance": "minor",
               "timespan": {
-                "start": "1/15/1622",
-                "end": "2/17/1673"
+                "start": "9/5/1638",
+                "end": "9/1/1715"
               },
+              "importance": "major",
+              "annotation": "The Sun King",
               "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/14/1643",
+                    "end": "9/1/1715"
+                  }
+                }
               ]
             },
             {
