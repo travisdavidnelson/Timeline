@@ -228,17 +228,25 @@
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
-        "end": "323 BC"
+        "end": "6/323 BC"
       },
       "style": "macedon"
     },
     {
       "name": "Seleucid Empire",
       "timespan": {
-        "start": "323 BC",
+        "start": "6/323 BC",
         "end": "141 BC"
       },
       "style": "seleucid"
+    },
+    {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
+      }
     },
     {
       "name": "Parthian Empire",

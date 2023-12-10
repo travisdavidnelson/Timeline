@@ -6,9 +6,17 @@
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
-        "end": "323 BC"
+        "end": "6/323 BC"
       },
       "style": "macedon"
+    },
+    {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
+      }
     }
   ],
   "dynastyGroups": [
@@ -18,10 +26,18 @@
         {
           "name": "Seleucid Empire",
           "timespan": {
-            "start": "323 BC",
+            "start": "6/323 BC",
             "end": "12/190 BC"
           },
           "style": "seleucid"
+        },
+        {
+          "name": "Death of Alexander",
+          "style": "backgroundNationalCalamity",
+          "timespan": {
+            "start": "6/323 BC",
+            "duration": "1m"
+          }
         }
       ],
       "dynasties": [
@@ -31,10 +47,18 @@
             {
               "name": "Seleucid Empire",
               "timespan": {
-                "start": "323 BC",
+                "start": "6/323 BC",
                 "end": "63 BC"
               },
               "style": "seleucid"
+            },
+            {
+              "name": "Death of Alexander",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/323 BC",
+                "duration": "1m"
+              }
             },
             {
               "name": "Roman-Seleucid War",

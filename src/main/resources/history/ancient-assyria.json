@@ -130,17 +130,25 @@
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
-        "end": "321 BC"
+        "end": "6/323 BC"
       },
       "style": "macedon"
     },
     {
       "name": "Seleucid Empire",
       "timespan": {
-        "start": "321 BC",
+        "start": "6/323 BC",
         "end": "189 BC"
       },
       "style": "seleucid"
+    },
+    {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
+      }
     },
     {
       "name": "Black Death",

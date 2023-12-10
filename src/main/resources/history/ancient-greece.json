@@ -111,7 +111,7 @@
       "name": "Macedonian Empire",
       "timespan": {
         "start": "330 BC",
-        "end": "323 BC"
+        "end": "6/323 BC"
       },
       "style": "macedon"
     },
@@ -119,8 +119,16 @@
       "name": "Hellenistic Greece",
       "style": "hellenisticGreece",
       "timespan": {
-        "start": "323 BC",
+        "start": "6/323 BC",
         "end": "146 BC"
+      }
+    },
+    {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
       }
     },
     {
@@ -1025,6 +1033,14 @@
                 "start": "392 BC",
                 "end": "323 BC"
               }
+            },
+            {
+              "name": "Death of Alexander",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/323 BC",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
@@ -1113,7 +1129,7 @@
               ]
             },
             {
-              "name": "Alexander III",
+              "name": "Alexander The Great",
               "style": "macedon",
               "importance": "transformational",
               "timespan": {

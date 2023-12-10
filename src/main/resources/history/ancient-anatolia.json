@@ -110,6 +110,14 @@
       }
     },
     {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Roman Republic",
       "timespan": {
         "start": "12/190 BC",

@@ -153,17 +153,25 @@
       "name": "Macedonian Empire",
       "timespan": {
         "start": "332 BC",
-        "end": "323 BC"
+        "end": "6/323 BC"
       },
       "style": "macedon"
     },
     {
       "name": "Ptolemaic Kingdom",
       "timespan": {
-        "start": "323 BC",
+        "start": "6/323 BC",
         "end": "30 BC"
       },
       "style": "ptolemaicKingdom"
+    },
+    {
+      "name": "Death of Alexander",
+      "style": "backgroundNationalCalamity",
+      "timespan": {
+        "start": "6/323 BC",
+        "duration": "1m"
+      }
     },
     {
       "name": "Roman Empire",
