@@ -4606,6 +4606,24 @@
         },
         {
           "name": "Severans",
+          "backgroundEvents": [
+            {
+              "name": "Assassination of Caracalla",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "4/8/217",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Antioch",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/8/218",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Septimus Severus",
@@ -4643,6 +4661,16 @@
                 "end": "4/8/217"
               },
               "importance": "semimajor",
+              "foregroundEvents": [
+                {
+                  "name": "Assassination of Caracalla",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/8/217",
+                    "duration": "1d"
+                  }
+                }
+              ],
               "titles": [
                 {
                   "name": "caesar",
@@ -4687,13 +4715,31 @@
             },
             {
               "name": "Macrinus",
-              "style": "roman",
+              "style": "romanNewMan",
               "timespan": {
                 "startApproximate": "true",
                 "start": "165",
                 "end": "6/8/218"
               },
               "importance": "minor",
+              "foregroundEvents": [
+                {
+                  "name": "Assassination of Caracalla",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/8/217",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Antioch",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/8/218",
+                    "duration": "1d"
+                  }
+                }
+              ],
               "titles": [
                 {
                   "name": "augustus",
@@ -4724,6 +4770,16 @@
                 "end": "3/11/222"
               },
               "importance": "minor",
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Antioch",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/8/218",
+                    "duration": "1d"
+                  }
+                }
+              ],
               "titles": [
                 {
                   "name": "augustus",
@@ -5277,6 +5333,16 @@
         {
           "pageBreak": true,
           "name": "Tetrarchy",
+          "backgroundEvents": [
+            {
+              "name": "Conference of Carnuntum",
+              "timespan": {
+                "start": "11/11/308",
+                "duration": "1w"
+              },
+              "style": "backgroundConference"
+            }
+          ],
           "people": [
             {
               "name": "Diocletian",
@@ -5384,7 +5450,7 @@
               ]
             },
             {
-              "name": "Valerius Severus",
+              "name": "Severus II",
               "style": "roman",
               "timespan": {
                 "startApproximate": true,

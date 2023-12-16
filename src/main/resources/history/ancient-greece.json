@@ -1269,9 +1269,16 @@
               "style": "sanctified",
               "titles": [
                 {
-                  "name": "augustus",
+                  "name": "caesar",
                   "timespan": {
                     "start": "7/25/306",
+                    "end": "310"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "310",
                     "end": "5/22/337"
                   }
                 }
