@@ -60,10 +60,18 @@
     {
       "name": "Parthian War",
       "timespan": {
-        "start": "197",
-        "end": "198"
+        "start": "195",
+        "end": "202"
       },
       "style": "backgroundWar"
+    },
+    {
+      "name": "Sack of Ctesiphon",
+      "timespan": {
+        "start": "199",
+        "duration": "1m"
+      },
+      "style": "backgroundNationalCalamity"
     },
     {
       "name": "Parthian War",
@@ -471,6 +479,16 @@
                   "timespan": {
                     "start": "191",
                     "end": "208"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Ctesiphon",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "199",
+                    "duration": "1m"
                   }
                 }
               ]

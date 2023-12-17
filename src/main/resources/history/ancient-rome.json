@@ -693,10 +693,18 @@
     {
       "name": "Parthian War",
       "timespan": {
-        "start": "197",
-        "end": "198"
+        "start": "195",
+        "end": "202"
       },
       "style": "backgroundForeignWar"
+    },
+    {
+      "name": "Sack of Ctesiphon",
+      "timespan": {
+        "start": "199",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "African War",
@@ -4639,6 +4647,16 @@
                   "timespan": {
                     "start": "6/1/193",
                     "end": "2/4/211"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Ctesiphon",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "199",
+                    "duration": "1m"
                   }
                 }
               ]
