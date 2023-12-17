@@ -4571,6 +4571,24 @@
         },
         {
           "name": "Transitional",
+          "backgroundEvents": [
+            {
+              "name": "Battle of Issus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/194",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Battle of Lugdunum",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "2/19/197",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Pertinax",
@@ -4592,14 +4610,14 @@
               ]
             },
             {
-              "name": "Didus Julianus",
+              "name": "Didius Julianus",
               "style": "roman",
+              "importance": "petty",
               "timespan": {
                 "startApproximate": true,
                 "start": "1/29/133",
                 "end": "6/1/193"
               },
-              "importance": "petty",
               "titles": [
                 {
                   "name": "augustus",
@@ -4609,12 +4627,93 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Pescennius Niger",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": true,
+                "start": "135",
+                "end": "5/194"
+              },
+              "titles": [
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "4/9/193",
+                    "end": "5/194"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Issus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/194",
+                    "duration": "1w"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Clodius Albinus",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": true,
+                "start": "150",
+                "end": "2/19/197"
+              },
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "194",
+                    "end": "9/196"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "9/196",
+                    "end": "2/19/197"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Lugdunum",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "2/19/197",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
         {
           "name": "Severans",
           "backgroundEvents": [
+            {
+              "name": "Battle of Issus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/194",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Battle of Lugdunum",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "2/19/197",
+                "duration": "1d"
+              }
+            },
             {
               "name": "Assassination of Caracalla",
               "style": "backgroundCoup",
@@ -4652,8 +4751,24 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Battle of Issus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/194",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Battle of Lugdunum",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "2/19/197",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Sack of Ctesiphon",
-                  "style": "triumph",
+                  "style": "victory",
                   "timespan": {
                     "start": "199",
                     "duration": "1m"
