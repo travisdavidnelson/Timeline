@@ -829,7 +829,7 @@
     {
       "name": "Battle of Edessa",
       "timespan": {
-        "start": "4/260",
+        "start": "6/260",
         "duration": "1m"
       },
       "style": "backgroundNationalCalamity"
@@ -5121,7 +5121,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "201",
-                "end": "6/251"
+                "end": "7/251"
               },
               "importance": "minor",
               "titles": [
@@ -5129,7 +5129,17 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "9/249",
-                    "end": "6/251"
+                    "end": "7/251"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Abritus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/251",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5146,7 +5156,7 @@
                 {
                   "name": "augustus",
                   "timespan": {
-                    "start": "6/251",
+                    "start": "7/251",
                     "end": "6/253"
                   }
                 }
@@ -5188,15 +5198,25 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "10/22/253",
-                    "end": "5/260"
+                    "end": "6/260"
                   }
                 },
                 {
                   "name": "pow",
                   "timespan": {
-                    "start": "5/260",
+                    "start": "6/260",
                     "endApproximate": true,
                     "end": "264"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Edessa",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/260",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5298,6 +5318,16 @@
                   "timespan": {
                     "start": "9/268",
                     "end": "1/270"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Naissus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "269",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5486,12 +5516,20 @@
           "name": "Tetrarchy",
           "backgroundEvents": [
             {
+              "name": "Carausian Revolt",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "286",
+                "end": "296"
+              }
+            },
+            {
               "name": "Conference of Carnuntum",
+              "style": "backgroundConference",
               "timespan": {
                 "start": "11/11/308",
                 "duration": "1w"
-              },
-              "style": "backgroundConference"
+              }
             }
           ],
           "people": [
@@ -5556,6 +5594,29 @@
                     "end": "11/11/308"
                   }
                 }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Carausius",
+              "style": "romanNewMan",
+              "timespan": {
+                "startApproximate": true,
+                "start": "250",
+                "end": "293"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "usurper",
+                  "timespan": {
+                    "start": "286",
+                    "end": "293"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
