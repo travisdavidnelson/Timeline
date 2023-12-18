@@ -4723,6 +4723,14 @@
               }
             },
             {
+              "name": "Assassination of Geta",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "12/211",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Assassination of Caracalla",
               "style": "backgroundCoup",
               "timespan": {
@@ -4825,6 +4833,16 @@
                   "timespan": {
                     "start": "2/4/211",
                     "end": "4/8/217"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Assassination of Geta",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "12/211",
+                    "duration": "1m"
                   }
                 }
               ]
