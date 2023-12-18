@@ -835,6 +835,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Battle of the Margus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/3/285",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Persian War",
       "timespan": {
         "start": "295",
@@ -5438,6 +5446,16 @@
                     "end": "7/285"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Margus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/3/285",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -5495,30 +5513,14 @@
                     "end": "5/1/305"
                   }
                 }
-              ]
-            },
-            {
-              "name": "Galerius",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "260",
-                "end": "5/311"
-              },
-              "importance": "semimajor",
-              "titles": [
+              ],
+              "foregroundEvents": [
                 {
-                  "name": "caesar",
+                  "name": "Battle of the Margus",
+                  "style": "victory",
                   "timespan": {
-                    "start": "3/1/293",
-                    "end": "5/1/305"
-                  }
-                },
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "5/1/305",
-                    "end": "5/311"
+                    "start": "7/3/285",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -5552,6 +5554,32 @@
                   "timespan": {
                     "start": "10/306",
                     "end": "11/11/308"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Galerius",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "260",
+                "end": "5/311"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "3/1/293",
+                    "end": "5/1/305"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "5/1/305",
+                    "end": "5/311"
                   }
                 }
               ]
