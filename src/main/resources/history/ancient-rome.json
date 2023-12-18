@@ -5599,27 +5599,6 @@
               ]
             },
             {
-              "name": "Carausius",
-              "style": "romanNewMan",
-              "timespan": {
-                "startApproximate": true,
-                "start": "250",
-                "end": "293"
-              },
-              "importance": "petty",
-              "titles": [
-                {
-                  "name": "usurper",
-                  "timespan": {
-                    "start": "286",
-                    "end": "293"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
               "name": "Galerius",
               "style": "roman",
               "timespan": {

@@ -1439,6 +1439,72 @@
       ]
     },
     {
+      "name": "Roman Britain",
+      "yStart": 0,
+      "backgroundEvents": [
+      ],
+      "dynasties": [
+        {
+          "pageBreak": true,
+          "name": "Roman Usurpurs",
+          "backgroundEvents": [
+            {
+              "name": "Carausian Revolt",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "286",
+                "end": "296"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Carausius",
+              "style": "romanNewMan",
+              "timespan": {
+                "startApproximate": true,
+                "start": "250",
+                "end": "293"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "usurper",
+                  "timespan": {
+                    "start": "286",
+                    "end": "293"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Allectus",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "255",
+                "end": "296"
+              },
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "usurper",
+                  "timespan": {
+                    "start": "293",
+                    "end": "296"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Dark Age",
       "dynasties": [
         {
