@@ -190,6 +190,14 @@
       "style": "romanDominate"
     },
     {
+      "name": "Looting of Alexandria",
+      "style": "backgroundMassacre",
+      "timespan": {
+        "start": "12/215",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Crisis of the Third Century",
       "timespan": {
         "start": "235",

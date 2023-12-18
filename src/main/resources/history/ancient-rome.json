@@ -4723,10 +4723,18 @@
               }
             },
             {
-              "name": "Assassination of Geta",
-              "style": "backgroundCoup",
+              "name": "Murder of Geta",
+              "style": "backgroundMassacre",
               "timespan": {
                 "start": "12/211",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Looting of Alexandria",
+              "style": "backgroundMassacre",
+              "timespan": {
+                "start": "12/215",
                 "duration": "1m"
               }
             },
@@ -4838,10 +4846,18 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Assassination of Geta",
+                  "name": "Murder of Geta",
                   "style": "foregroundReputationalStain",
                   "timespan": {
                     "start": "12/211",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Looting of Alexandria",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "12/215",
                     "duration": "1m"
                   }
                 }
