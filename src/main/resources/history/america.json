@@ -720,6 +720,22 @@
               }
             },
             {
+              "name": "Boston Massacre",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "5/5/1770",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Boston Tes Party",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "12/16/1773",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "American Revolutionary War",
               "timespan": {
                 "start": "4/19/1775",
@@ -1222,7 +1238,7 @@
                   "name": "Counsel for the British",
                   "style": "triumph",
                   "timespan": {
-                    "start": "10/24/1767",
+                    "start": "10/24/1770",
                     "duration": "1w"
                   }
                 },
