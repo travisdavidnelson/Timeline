@@ -1236,7 +1236,7 @@
               "foregroundEvents": [
                 {
                   "name": "Counsel for the British",
-                  "style": "triumph",
+                  "style": "goldStar",
                   "timespan": {
                     "start": "10/24/1770",
                     "duration": "1w"
