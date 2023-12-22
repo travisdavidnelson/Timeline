@@ -682,6 +682,16 @@
                     "end": "3/4/1801"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Signing of Sedition Act",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "7/14/1798",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
 			{
