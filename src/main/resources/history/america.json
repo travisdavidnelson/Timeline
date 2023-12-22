@@ -1219,6 +1219,14 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Counsel for the British",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "10/24/1767",
+                    "duration": "1w"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
