@@ -550,10 +550,10 @@
     {
       "name": "Nika Riots",
       "timespan": {
-        "start": "532",
-        "end": "532"
+        "start": "1/532",
+        "duration": "1w"
       },
-      "style": "backgroundNationalCalamity"
+      "style": "backgroundRiot"
     },
     {
       "name": "Plague of Justinian",
@@ -562,6 +562,14 @@
         "end": "549"
       },
       "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Battle of Busta Gallorum",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "7/552",
+        "duration": "1w"
+      }
     },
     {
       "name": "Bubonic Plague",
@@ -1978,6 +1986,24 @@
                     "end": "565"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Codex Justinianeus",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "4/7/529",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Nika riots",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "1/532",
+                    "duration": "1w"
+                  }
+                }
               ]
             },
             {
@@ -2013,6 +2039,16 @@
                   "timespan": {
                     "start": "532",
                     "end": "566"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Busta Gallorum",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/552",
+                    "duration": "1w"
                   }
                 }
               ]

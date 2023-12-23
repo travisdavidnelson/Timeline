@@ -61,6 +61,14 @@
       "style": "backgroundPlagueMajor"
     },
     {
+      "name": "Battle of Taginae",
+      "timespan": {
+        "start": "7/552",
+        "duration": "1w"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Lombard Kingdom of Italy",
       "timespan": {
         "start": "568",
@@ -187,7 +195,7 @@
               "name": "Battle of Taginae",
               "timespan": {
                 "start": "7/552",
-                "duration": "1d"
+                "duration": "1w"
               },
               "style": "backgroundNationalCalamity"
             }
@@ -316,7 +324,17 @@
                   "name": "king",
                   "timespan": {
                     "start": "541",
-                    "end": "7/1/552"
+                    "end": "7/552"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Taginae",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/552",
+                    "duration": "1w"
                   }
                 }
               ]
