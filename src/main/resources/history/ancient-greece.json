@@ -3868,6 +3868,22 @@
               "style": "byzantium"
             },
             {
+              "name": "Battle of Manzikert",
+              "timespan": {
+                "start": "8/26/1071",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "First Crusade",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "8/15/1096",
+                "end": "7/15/1099"
+              }
+            },
+            {
               "name": "Fourth Crusade",
               "timespan": {
                 "start": "6/23/1203",
