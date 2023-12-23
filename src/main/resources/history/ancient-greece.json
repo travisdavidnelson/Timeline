@@ -2642,6 +2642,48 @@
       "dynasties": [
         {
           "name": "Macedonians",
+          "backgroundEvents": [
+            {
+              "name": "Battle of the Gates of Trajan",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/17/986",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of the Orontes",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/15/994",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Spercheios",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/16/997",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Apamea",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/19/998",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Kleidion",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/29/1014",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Basil I the Macedonian",
@@ -2681,7 +2723,7 @@
               ]
             },
             {
-              "name": "Alexander (Byzantine emperor)",
+              "name": "Alexander",
               "style": "roman",
               "timespan": {
                 "start": "866",
@@ -2856,6 +2898,16 @@
                   "timespan": {
                     "start": "1/10/976",
                     "end": "12/15/1025"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Kleidion",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/29/1014",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -3047,7 +3099,7 @@
             {
               "name": "Byzantine Empire",
               "timespan": {
-                "start": "1007",
+                "start": "1050",
                 "end": "7/25/1261"
               },
               "style": "byzantium"
