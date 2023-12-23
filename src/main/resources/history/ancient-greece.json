@@ -3053,6 +3053,14 @@
               "style": "byzantium"
             },
             {
+              "name": "Siege of Constantinople (1047)",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "9/25/1047",
+                "end": "9/28/1047"
+              }
+            },
+            {
               "name": "Battle of Manzikert",
               "timespan": {
                 "start": "8/26/1071",
@@ -3171,32 +3179,6 @@
               ]
             },
             {
-              "name": "Michael VII Doukas",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "1050",
-                "end": "1090"
-              },
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "caesar",
-                  "timespan": {
-                    "start": "1068",
-                    "end": "1071"
-                  }
-                },
-                {
-                  "name": "augustus",
-                  "timespan": {
-                    "start": "1071",
-                    "end": "1078"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Romanos IV Diogenes",
               "style": "roman",
               "timespan": {
@@ -3220,6 +3202,16 @@
                     "end": "1072"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Manzikert",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/26/1071",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -3228,15 +3220,22 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "1050",
-                "end": "3/31/1078"
+                "end": "1090"
               },
               "importance": "minor",
               "titles": [
                 {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "1068",
+                    "end": "10/1071"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "10/24/1071",
-                    "end": "3/31/1078"
+                    "start": "10/1071",
+                    "end": "1078"
                   }
                 }
               ]
