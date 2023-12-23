@@ -1418,10 +1418,10 @@
                 },
                 {
                   "name": "Louisiana Purchase",
-                  "style": "victory",
+                  "style": "notableWork",
                   "timespan": {
-                    "start": "12/20/1803",
-                    "end": "3/10/1804"
+                    "start": "4/30/1803",
+                    "end": "12/20/1803"
                   }
                 },
                 {
@@ -1605,6 +1605,14 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Louisiana Purchase",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "4/30/1803",
+                    "end": "12/20/1803"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
@@ -1618,6 +1626,14 @@
                   "timespan": {
                     "start": "11/1/1820",
                     "end": "12/6/1820"
+                  }
+                },
+                {
+                  "name": "Monroe Doctrine",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "12/2/1823",
+                    "duration": "1m"
                   }
                 }
               ]
