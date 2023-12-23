@@ -3601,6 +3601,7 @@
           ]
         },
         {
+          "pageBreak": true,
           "name": "Latin Empire",
           "backgroundEvents": [
             {
@@ -3854,20 +3855,14 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Late Eastern Roman Empire",
-      "yStart": 0,
-      "dynasties": [
+        },
         {
           "name": "Palaiologos",
           "backgroundEvents": [
             {
               "name": "Byzantine Empire",
               "timespan": {
-                "start": "1223",
+                "start": "1070",
                 "end": "5/29/1453"
               },
               "style": "byzantium"
