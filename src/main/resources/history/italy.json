@@ -69,6 +69,14 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Battle of Mons Lactarius",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/552",
+        "duration": "1w"
+      }
+    },
+    {
       "name": "Lombard Kingdom of Italy",
       "timespan": {
         "start": "568",
@@ -198,6 +206,14 @@
                 "duration": "1w"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Battle of Mons Lactarius",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "10/552",
+                "duration": "1w"
+              }
             }
           ],
           "people": [
@@ -334,6 +350,30 @@
                   "style": "defeat",
                   "timespan": {
                     "start": "7/552",
+                    "duration": "1w"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Teia",
+              "style": "ostrogoths",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "7/552",
+                    "end": "10/552"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Mons Lactarius",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/552",
                     "duration": "1w"
                   }
                 }
