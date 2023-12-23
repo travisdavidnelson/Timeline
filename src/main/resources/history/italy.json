@@ -37,6 +37,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Odoacer takes over",
+      "timespan": {
+        "start": "9/476",
+        "duration": "1m"
+      },
+      "style": "backgroundCoup"
+    },
+    {
       "name": "Battle of Faenza",
       "style": "backgroundBattle",
       "timespan": {
@@ -202,10 +210,35 @@
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "magisterMilitum",
+                  "timespan": {
+                    "start": "475",
+                    "end": "8/23/476"
+                  }
+                },
+                {
                   "name": "king",
                   "timespan": {
-                    "start": "476",
+                    "start": "8/23/476",
                     "end": "3/15/493"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Odoacer takes over",
+                  "timespan": {
+                    "start": "8/23/476",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Massacre of Odoacer and his supporters",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/15/493",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -300,9 +333,16 @@
               },
               "titles": [
                 {
-                  "name": "king",
+                  "name": "minorKing",
                   "timespan": {
                     "start": "471",
+                    "end": "3/15/493"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "3/15/493",
                     "end": "8/30/526"
                   }
                 }
