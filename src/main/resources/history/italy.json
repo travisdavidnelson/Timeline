@@ -37,17 +37,41 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Battle of Faenza",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/490",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of the Adda River",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/11/490",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Siege of Ravenna",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "11/490",
+        "end": "3/5/493"
+      }
+    },
+    {
       "name": "Gothic War",
       "timespan": {
         "start": "4/30/535",
-        "end": "553"
+        "end": "554"
       },
       "style": "backgroundWar"
     },
     {
       "name": "Eastern Roman Empire",
       "timespan": {
-        "start": "540",
+        "start": "553",
         "end": "568"
       },
       "style": "byzantium"
@@ -59,6 +83,22 @@
         "end": "549"
       },
       "style": "backgroundPlagueMajor"
+    },
+    {
+      "name": "Battle of Faventia",
+      "timespan": {
+        "start": "5/542",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Siege of Rome",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "3/546",
+        "end": "12/17/546"
+      }
     },
     {
       "name": "Battle of Taginae",
@@ -134,6 +174,14 @@
           "name": "Foederati",
           "backgroundEvents": [
             {
+              "name": "Siege of Ravenna",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "11/490",
+                "end": "3/5/493"
+              }
+            },
+            {
               "name": "Massacre of Odoacer and his supporters",
               "style": "backgroundNationalCalamity",
               "timespan": {
@@ -176,12 +224,28 @@
               "style": "ostrogoths"
             },
             {
+              "name": "Siege of Ravenna",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "11/490",
+                "end": "3/5/493"
+              }
+            },
+            {
               "name": "Massacre of Odoacer and his supporters",
-              "style": "victory",
+              "style": "backgroundMassacre",
               "timespan": {
                 "start": "3/15/493",
                 "duration": "1m"
               }
+            },
+            {
+              "name": "Plague of Justinian",
+              "timespan": {
+                "start": "541",
+                "end": "549"
+              },
+              "style": "backgroundPlagueMajor"
             },
             {
               "name": "Byzantine invasion of Italy",
@@ -192,12 +256,20 @@
               "style": "backgroundInvasion"
             },
             {
-              "name": "Battle of Faventi",
+              "name": "Battle of Faventia",
               "timespan": {
                 "start": "5/542",
                 "duration": "1d"
               },
-              "style": "victory"
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Siege of Rome",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "3/546",
+                "end": "12/17/546"
+              }
             },
             {
               "name": "Battle of Taginae",
@@ -220,7 +292,8 @@
             {
               "name": "Theodoric",
               "style": "ostrogoths",
-              "importance": "semimajor",
+              "importance": "major",
+              "annotation": "Theodoric the Great",
               "timespan": {
                 "start": "453",
                 "end": "8/30/526"
@@ -231,6 +304,40 @@
                   "timespan": {
                     "start": "471",
                     "end": "8/30/526"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Sirmium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/489",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Faenza",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/490",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of the Adda River",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/11/490",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Massacre of Odoacer and his supporters",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "3/15/493",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -345,6 +452,22 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Faventia",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/542",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Sack of Rome",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/17/546",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Battle of Taginae",
                   "style": "defeat",
