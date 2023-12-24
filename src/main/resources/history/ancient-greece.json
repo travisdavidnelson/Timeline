@@ -212,6 +212,15 @@
       "style": "romanPrincipate"
     },
     {
+      "name": "Crucifixion of Jesus Christ",
+      "style": "victory",
+      "timespan": {
+        "start": "30",
+        "endApproximate": true,
+        "end": "33"
+      }
+    },
+    {
       "name": "Battle of Teutoburg Forest",
       "timespan": {
         "start": "9/1/9",

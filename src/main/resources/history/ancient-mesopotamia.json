@@ -257,6 +257,15 @@
       "style": "parthianEmpire"
     },
     {
+      "name": "Crucifixion of Jesus Christ",
+      "style": "victory",
+      "timespan": {
+        "start": "30",
+        "endApproximate": true,
+        "end": "33"
+      }
+    },
+    {
       "name": "Sassanid Empire",
       "style": "sassanid",
       "timespan": {

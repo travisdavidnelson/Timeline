@@ -1223,6 +1223,15 @@
       "name": "Judea",
       "backgroundEvents": [
         {
+          "name": "Crucifixion of Jesus Christ",
+          "style": "victory",
+          "timespan": {
+            "start": "30",
+            "endApproximate": true,
+            "end": "33"
+          }
+        },
+        {
           "name": "First Jewish-Roman War",
           "timespan": {
             "start": "66",
@@ -1308,6 +1317,15 @@
                 "endApproximate": true,
                 "end": "1 BC"
               }
+            },
+            {
+              "name": "Crucifixion of Jesus Christ",
+              "style": "victory",
+              "timespan": {
+                "start": "30",
+                "endApproximate": true,
+                "end": "33"
+              }
             }
           ],
           "people": [
@@ -1330,6 +1348,58 @@
                     "end": "1 BC"
                   }
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christ",
+          "backgroundEvents": [
+            {
+              "name": "Herodian Kingdom of Judea",
+              "style": "israel",
+              "timespan": {
+                "startApproximate": true,
+                "start": "72 BC",
+                "endApproximate": true,
+                "end": "1 BC"
+              }
+            },
+            {
+              "name": "Crucifixion of Jesus Christ",
+              "style": "triumph",
+              "timespan": {
+                "start": "30",
+                "endApproximate": true,
+                "end": "33"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "Joseph",
+              "style": "sanctified",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "20 BC",
+                "endApproximate": true,
+                "end": "40"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Mary",
+              "style": "sanctified",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": true,
+                "start": "15 BC",
+                "endApproximate": true,
+                "end": "45"
+              },
+              "titles": [
               ]
             },
             {

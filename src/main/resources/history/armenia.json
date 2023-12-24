@@ -34,6 +34,15 @@
       "style": "romanPrincipate"
     },
     {
+      "name": "Crucifixion of Jesus Christ",
+      "style": "victory",
+      "timespan": {
+        "start": "30",
+        "endApproximate": true,
+        "end": "33"
+      }
+    },
+    {
       "name": "Roman Dominate",
       "timespan": {
         "start": "235",
@@ -333,6 +342,15 @@
                 "end": "428"
               },
               "style": "armenia"
+            },
+            {
+              "name": "Crucifixion of Jesus Christ",
+              "style": "victory",
+              "timespan": {
+                "start": "30",
+                "endApproximate": true,
+                "end": "33"
+              }
             }
           ],
           "people": [
