@@ -1003,6 +1003,14 @@
       "style": "backgroundBattle"
     },
     {
+      "name": "Vandal Invasion of Italy",
+      "timespan": {
+        "start": "5/455",
+        "end": "12/455"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
       "name": "Sack of Rome (455)",
       "timespan": {
         "start": "6/2/455",
@@ -6427,6 +6435,90 @@
                   "timespan": {
                     "start": "10/31/475",
                     "end": "9/4/476"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vandal Kingdom",
+          "backgroundEvents": [
+            {
+              "name": "Vandal Kingdom",
+              "timespan": {
+                "start": "435",
+                "end": "534"
+              },
+              "style": "vandals"
+            },
+            {
+              "name": "Siege of Hippo",
+              "timespan": {
+                "start": "5/430",
+                "end": "7/431"
+              },
+              "style": "backgroundSiege"
+            },
+            {
+              "name": "Capture of Carthage (439)",
+              "timespan": {
+                "start": "10/19/439",
+                "duration": "1w"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Vandal Invasion of Italy",
+              "timespan": {
+                "start": "5/455",
+                "end": "12/455"
+              },
+              "style": "backgroundInvasion"
+            },
+            {
+              "name": "Sack of Rome (455)",
+              "timespan": {
+                "start": "6/2/455",
+                "end": "6/16/455"
+              },
+              "style": "backgroundBattle"
+            }
+          ],
+          "people": [
+            {
+              "name": "Gaiseric",
+              "style": "vandals",
+              "timespan": {
+                "startApproximate": true,
+                "start": "389",
+                "end": "1/25/477"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "427",
+                    "end": "1/25/477"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture of Carthage (439)",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/19/439",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Sack of Rome (455)",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/2/455",
+                    "end": "6/16/455"
                   }
                 }
               ]
