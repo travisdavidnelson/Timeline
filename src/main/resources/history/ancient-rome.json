@@ -6522,6 +6522,89 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Huneric",
+              "style": "vandals",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "410",
+                "end": "12/23/484"
+              },
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "1/25/477",
+                    "end": "12/23/484"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Gunthamund",
+              "style": "vandals",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": true,
+                "start": "450",
+                "end": "523"
+              },
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "496",
+                    "end": "523"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Hilderic",
+              "style": "vandals",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": true,
+                "start": "460",
+                "end": "534"
+              },
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "523",
+                    "end": "530"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Gelimer",
+              "style": "vandals",
+              "importance": "petty",
+              "timespan": {
+                "start": "480",
+                "end": "553"
+              },
+              "titles": [
+                {
+                  "name": "minorKing",
+                  "timespan": {
+                    "start": "530",
+                    "end": "534"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
             }
           ]
         }
