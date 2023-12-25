@@ -1395,7 +1395,7 @@
               "importance": "major",
               "timespan": {
                 "startApproximate": true,
-                "start": "15 BC",
+                "start": "18 BC",
                 "endApproximate": true,
                 "end": "45"
               },
@@ -1404,14 +1404,14 @@
             },
             {
               "name": "Jesus",
+              "style": "sanctified",
+              "importance": "transformational",
               "timespan": {
                 "startApproximate": true,
-                "start": "7 BC",
+                "start": "5 BC",
                 "endApproximate": true,
                 "end": "33"
-              },
-              "importance": "transformational",
-              "style": "sanctified"
+              }
             }
           ]
         }
