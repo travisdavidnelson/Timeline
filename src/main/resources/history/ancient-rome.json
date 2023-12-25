@@ -5792,24 +5792,12 @@
                     "start": "7/25/306",
                     "end": "4/307"
                   }
-                }
-              ]
-            },
-            {
-              "name": "Maxentius",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "276",
-                "end": "10/28/312"
-              },
-              "importance": "minor",
-              "titles": [
+                },
                 {
-                  "name": "caesar",
+                  "name": "pow",
                   "timespan": {
-                    "start": "10/28/306",
-                    "end": "10/28/312"
+                    "start": "4/307",
+                    "end": "9/307"
                   }
                 }
               ]
@@ -5836,6 +5824,25 @@
                   "timespan": {
                     "start": "310",
                     "end": "7/313"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Maxentius",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "276",
+                "end": "10/28/312"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "10/28/306",
+                    "end": "10/28/312"
                   }
                 }
               ]
