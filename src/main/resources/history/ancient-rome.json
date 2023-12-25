@@ -860,6 +860,22 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Battle of Carrhae (296)",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "297",
+        "duration": "1w"
+      }
+    },
+    {
+      "name": "Battle of Satala (298)",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/298",
+        "duration": "1w"
+      }
+    },
+    {
       "name": "Battle of Cibalae",
       "timespan": {
         "start": "10/8/314",
@@ -5571,7 +5587,23 @@
               "style": "backgroundRevolt",
               "timespan": {
                 "start": "286",
-                "end": "296"
+                "end": "12/296"
+              }
+            },
+            {
+              "name": "Battle of Carrhae (296)",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "297",
+                "duration": "1w"
+              }
+            },
+            {
+              "name": "Battle of Satala (298)",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "12/298",
+                "duration": "1w"
               }
             },
             {
@@ -5650,6 +5682,50 @@
               ]
             },
             {
+              "name": "Constantius I Chlorus",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "3/31/250",
+                "end": "7/25/306"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "3/1/293",
+                    "end": "5/1/305"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "5/1/305",
+                    "end": "7/25/306"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture of Boulogne",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/293",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Liberation of Britain",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/296",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Galerius",
               "style": "roman",
               "timespan": {
@@ -5673,30 +5749,22 @@
                     "end": "5/311"
                   }
                 }
-              ]
-            },
-            {
-              "name": "Constantius I Chlorus",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "3/31/250",
-                "end": "7/25/306"
-              },
-              "importance": "semimajor",
-              "titles": [
+              ],
+              "foregroundEvents": [
                 {
-                  "name": "caesar",
+                  "name": "Battle of Carrhae (296)",
+                  "style": "defeat",
                   "timespan": {
-                    "start": "3/1/293",
-                    "end": "5/1/305"
+                    "start": "297",
+                    "duration": "1w"
                   }
                 },
                 {
-                  "name": "augustus",
+                  "name": "Battle of Satala (298)",
+                  "style": "victory",
                   "timespan": {
-                    "start": "5/1/305",
-                    "end": "7/25/306"
+                    "start": "12/298",
+                    "duration": "1w"
                   }
                 }
               ]
