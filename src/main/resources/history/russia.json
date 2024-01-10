@@ -2384,6 +2384,35 @@
               ]
             },
             {
+              "name": "Anton Chekhov",
+              "importance": "minor",
+              "style": "russian",
+              "timespan": {
+                "start": "1/29/1860",
+                "end": "7/15/1904"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "The Seagull",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "10/17/1896",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "Three Sisters",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1901",
+                    "duration": "1w"
+                  }
+                }
+              ]
+            },
+            {
               "pageBreak": true,
               "name": "Aleksandr Solzhenitsyn",
               "importance": "semimajor",
