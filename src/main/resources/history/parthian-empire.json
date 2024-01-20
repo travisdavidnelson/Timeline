@@ -42,15 +42,6 @@
       "style": "backgroundWar"
     },
     {
-      "name": "Crucifixion of Jesus Christ",
-      "style": "victory",
-      "timespan": {
-        "start": "30",
-        "endApproximate": true,
-        "end": "33"
-      }
-    },
-    {
       "name": "Roman-Parthian War of 58-63",
       "timespan": {
         "start": "58",
