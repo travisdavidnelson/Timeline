@@ -4786,6 +4786,14 @@
                 "start": "6/8/218",
                 "duration": "1d"
               }
+            },
+            {
+              "name": "Coup against Alexander Severus",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "3/22/235",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
@@ -5014,6 +5022,16 @@
                     "end": "3/19/235"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Coup against Alexander Severus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/235",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
@@ -5031,6 +5049,16 @@
         },
         {
           "name": "Crisis",
+          "backgroundEvents": [
+            {
+              "name": "Coup against Alexander Severus",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "3/22/235",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Maximinus Thrax",
@@ -5047,6 +5075,16 @@
                   "timespan": {
                     "start": "3/20/235",
                     "end": "5/238"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Coup against Alexander Severus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "3/235",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -5180,6 +5218,8 @@
                     "end": "9/249"
                   }
                 }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
