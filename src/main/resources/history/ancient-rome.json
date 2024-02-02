@@ -44,6 +44,22 @@
       "style": "romanCrisis"
     },
     {
+      "name": "Coup against Alexander Severus",
+      "style": "backgroundCoup",
+      "timespan": {
+        "start": "3/22/235",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Siege of Aquileia",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "5/238",
+        "duration": "1w"
+      }
+    },
+    {
       "name": "Roman Dominate",
       "timespan": {
         "start": "284",
@@ -5057,6 +5073,14 @@
                 "start": "3/22/235",
                 "duration": "1d"
               }
+            },
+            {
+              "name": "Siege of Aquileia",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "5/238",
+                "duration": "1w"
+              }
             }
           ],
           "people": [
@@ -5085,6 +5109,14 @@
                   "timespan": {
                     "start": "3/235",
                     "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Siege of Aquileia",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "5/238",
+                    "duration": "1w"
                   }
                 }
               ]
