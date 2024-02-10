@@ -852,14 +852,6 @@
       "style": "backgroundInvasion"
     },
     {
-      "name": "Battle of Verona (249)",
-      "timespan": {
-        "start": "9/249",
-        "duration": "1m"
-      },
-      "style": "backgroundBattle"
-    },
-    {
       "name": "Battle of Abritus",
       "timespan": {
         "start": "7/251",
@@ -5145,6 +5137,14 @@
                 "start": "5/238",
                 "duration": "1m"
               }
+            },
+            {
+              "name": "Battle of Verona (249)",
+              "timespan": {
+                "start": "9/249",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
