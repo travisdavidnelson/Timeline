@@ -780,6 +780,22 @@
       "style": "backgroundInvasion"
     },
     {
+      "name": "Persian War",
+      "timespan": {
+        "start": "240",
+        "end": "12/243"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Resaena",
+      "timespan": {
+        "start": "243",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Carpi and Persian Wars",
       "timespan": {
         "start": "245",
@@ -5221,6 +5237,16 @@
                     "end": "2/11/244"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Resaena",
+                  "timespan": {
+                    "start": "243",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
+                }
               ]
             },
             {
@@ -5228,7 +5254,7 @@
               "style": "roman",
               "timespan": {
                 "start": "190",
-                "end": "243"
+                "end": "6/243"
               },
               "importance": "minor",
               "titles": [
@@ -5236,8 +5262,18 @@
                   "name": "praetorianPrefect",
                   "timespan": {
                     "start": "240",
-                    "end": "243"
+                    "end": "6/243"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Resaena",
+                  "timespan": {
+                    "start": "243",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
                 }
               ]
             },
