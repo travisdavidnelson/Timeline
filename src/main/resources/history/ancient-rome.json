@@ -783,7 +783,7 @@
       "name": "Persian War",
       "timespan": {
         "start": "240",
-        "end": "12/243"
+        "end": "3/244"
       },
       "style": "backgroundInvasion"
     },
@@ -791,6 +791,14 @@
       "name": "Battle of Resaena",
       "timespan": {
         "start": "243",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
+      "name": "Battle of Misiche",
+      "timespan": {
+        "start": "2/244",
         "duration": "1m"
       },
       "style": "backgroundBattle"
@@ -5246,6 +5254,14 @@
                     "duration": "1m"
                   },
                   "style": "victory"
+                },
+                {
+                  "name": "Battle of Misiche",
+                  "timespan": {
+                    "start": "2/244",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
                 }
               ]
             },
@@ -5288,9 +5304,16 @@
               "importance": "semimajor",
               "titles": [
                 {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "start": "6/243",
+                    "end": "3/244"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "2/244",
+                    "start": "3/244",
                     "end": "9/249"
                   }
                 }
