@@ -5075,6 +5075,14 @@
               }
             },
             {
+              "name": "Rebellion of the Gordians",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "3/22/238",
+                "end": "4/12/238"
+              }
+            },
+            {
               "name": "Siege of Aquileia",
               "style": "backgroundSiege",
               "timespan": {
