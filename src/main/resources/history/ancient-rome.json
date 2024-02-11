@@ -5372,6 +5372,7 @@
             {
               "name": "Decius",
               "style": "roman",
+              "annotation": "[Describing the Battle of Abritus]... In this morass the Roman army, after an ineffectual struggle, was irrecoverably lost; nor could the body of the emperor ever be found. Such was the fate of Decius, in the fiftieth year of his age; an accomplished prince, active in war and affable in peace; who, together with his son, has deserved to be compared, both in life and death, with the brightest examples of ancient virtue. - Gibbon",
               "timespan": {
                 "startApproximate": true,
                 "start": "201",
@@ -5486,6 +5487,7 @@
             {
               "name": "Gallienus",
               "style": "roman",
+              "annotation": "In every art that he attempted, his lively genius enabled him to succeed; and as his genius was destitute of judgment, he attempted every art, except the important ones of war and government. He was a master of several curious, but useless sciences, a ready orator, an elegant poet, a skilful gardener, an excellent cook, and most contemptible prince. - Gibbon",
               "timespan": {
                 "startApproximate": true,
                 "start": "218",
