@@ -870,6 +870,14 @@
     {
       "name": "Alemanni Invasion",
       "timespan": {
+        "start": "258",
+        "end": "260"
+      },
+      "style": "backgroundInvasion"
+    },
+    {
+      "name": "Alemanni Invasion",
+      "timespan": {
         "start": "268",
         "end": "269"
       },
@@ -878,7 +886,7 @@
     {
       "name": "Gothic Invasion",
       "timespan": {
-        "start": "268",
+        "start": "267",
         "end": "271"
       },
       "style": "backgroundInvasion"
