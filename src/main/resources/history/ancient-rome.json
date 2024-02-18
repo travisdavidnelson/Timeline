@@ -5397,6 +5397,20 @@
               "importance": "minor",
               "titles": [
                 {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "232",
+                    "end": "245"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "245",
+                    "end": "9/249"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "9/249",
@@ -5499,7 +5513,7 @@
                 "start": "210",
                 "end": "9/253"
               },
-              "importance": "petty",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "general",
@@ -5540,6 +5554,20 @@
               "annotation": "Crisis Emperor, captured by Persians.",
               "fate": "In AD 260, decisively defeated and captured alive by Sassanid King Sharpur I, for use as his footstool.",
               "titles": [
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "238",
+                    "end": "251"
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "start": "251",
+                    "end": "10/22/253"
+                  }
+                },
                 {
                   "name": "augustus",
                   "timespan": {
