@@ -5153,6 +5153,14 @@
                 "duration": "1m"
               },
               "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Interamna Nahars",
+              "timespan": {
+                "start": "6/253",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
             }
           ],
           "people": [
@@ -5416,11 +5424,27 @@
               ]
             },
             {
+              "name": "Hostilian",
+              "style": "roman",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "7/251",
+                    "duration": "2m"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Trebonianus Gallus",
               "style": "roman",
               "timespan": {
                 "start": "206",
-                "end": "6/253"
+                "end": "8/253"
               },
               "importance": "minor",
               "titles": [
@@ -5428,8 +5452,42 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "7/251",
-                    "end": "6/253"
+                    "end": "8/253"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Interamna Nahars",
+                  "timespan": {
+                    "start": "6/253",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
+                }
+              ]
+            },
+            {
+              "name": "Volusianus",
+              "style": "roman",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "7/251",
+                    "end": "8/253"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Interamna Nahars",
+                  "timespan": {
+                    "start": "6/253",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
                 }
               ]
             },
@@ -5444,11 +5502,28 @@
               "importance": "petty",
               "titles": [
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "252",
+                    "end": "6/253"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "6/253",
                     "end": "9/253"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Interamna Nahars",
+                  "timespan": {
+                    "start": "6/253",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
                 }
               ]
             },
