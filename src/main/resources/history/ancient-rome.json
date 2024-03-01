@@ -868,6 +868,14 @@
       "style": "backgroundInvasion"
     },
     {
+      "name": "Sack of Antioch",
+      "style": "backgroundSack",
+      "timespan": {
+        "start": "6/256",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Alemanni Invasion",
       "timespan": {
         "start": "258",
@@ -5586,6 +5594,14 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Sack of Antioch",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/256",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "Battle of Edessa",
                   "style": "defeat",
                   "timespan": {
@@ -5611,6 +5627,16 @@
                   "timespan": {
                     "start": "9/253",
                     "end": "9/268"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Antioch",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/256",
+                    "duration": "1m"
                   }
                 }
               ]
