@@ -879,9 +879,17 @@
       "name": "Alemanni Invasion",
       "timespan": {
         "start": "258",
-        "end": "260"
+        "end": "10/259"
       },
       "style": "backgroundInvasion"
+    },
+    {
+      "name": "Battle of Mediolanum",
+      "timespan": {
+        "start": "10/259",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Alemanni Invasion",
@@ -898,6 +906,14 @@
         "end": "271"
       },
       "style": "backgroundInvasion"
+    },
+    {
+      "name": "Sack of Athens",
+      "style": "backgroundSack",
+      "timespan": {
+        "start": "6/267",
+        "duration": "1m"
+      }
     },
     {
       "name": "Palmyrene War",
@@ -5636,6 +5652,30 @@
                   "style": "defeat",
                   "timespan": {
                     "start": "6/256",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Battle of Mediolanum",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/259",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Battle of Edessa",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/260",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Sack of Athens",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/267",
                     "duration": "1m"
                   }
                 }
