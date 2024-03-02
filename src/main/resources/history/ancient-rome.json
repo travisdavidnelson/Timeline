@@ -871,7 +871,7 @@
       "name": "Sack of Antioch",
       "style": "backgroundSack",
       "timespan": {
-        "start": "6/256",
+        "start": "256",
         "duration": "1m"
       }
     },
@@ -879,14 +879,14 @@
       "name": "Alemanni Invasion",
       "timespan": {
         "start": "258",
-        "end": "10/259"
+        "end": "259"
       },
       "style": "backgroundInvasion"
     },
     {
       "name": "Battle of Mediolanum",
       "timespan": {
-        "start": "10/259",
+        "start": "259",
         "duration": "1m"
       },
       "style": "backgroundBattle"
@@ -5613,7 +5613,7 @@
                   "name": "Sack of Antioch",
                   "style": "defeat",
                   "timespan": {
-                    "start": "6/256",
+                    "start": "256",
                     "duration": "1m"
                   }
                 },
@@ -5651,7 +5651,7 @@
                   "name": "Sack of Antioch",
                   "style": "defeat",
                   "timespan": {
-                    "start": "6/256",
+                    "start": "256",
                     "duration": "1m"
                   }
                 },
@@ -5659,7 +5659,7 @@
                   "name": "Battle of Mediolanum",
                   "style": "victory",
                   "timespan": {
-                    "start": "10/259",
+                    "start": "259",
                     "duration": "1m"
                   }
                 },
