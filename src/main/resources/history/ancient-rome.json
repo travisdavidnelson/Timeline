@@ -4613,6 +4613,46 @@
                 "start": "181",
                 "end": "6/182"
               }
+            },
+            {
+              "name": "Lucilla Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "182",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Fall of Perennis",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "185",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Maternus Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "187",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Famine",
+              "style": "backgroundFamine",
+              "timespan": {
+                "start": "4/190",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Riot",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "4/19/190",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
@@ -4747,6 +4787,61 @@
               ]
             },
             {
+              "name": "Lucius Verus",
+              "style": "roman",
+              "timespan": {
+                "start": "12/15/130",
+                "end": "2/169"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "caesar",
+                  "timespan": {
+                    "start": "3/7/161",
+                    "end": "2/169"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Lucilla&#9792;",
+              "style": "roman",
+              "timespan": {
+                "start": "3/7/148",
+                "end": "182"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "164",
+                    "end": "182"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "182",
+                    "endApproximate": "true",
+                    "duration": "3m"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "defeat",
+                  "timespan": {
+                    "start": "182",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Commodus",
               "style": "roman",
               "timespan": {
@@ -4783,6 +4878,110 @@
                   "timespan": {
                     "start": "10/22/180",
                     "duration": "1d"
+                  }
+                },
+                {
+                  "style": "assassinationAttempt",
+                  "timespan": {
+                    "start": "182",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "style": "assassinationAttempt",
+                  "timespan": {
+                    "start": "187",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Saoterus",
+              "style": "roman",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "palaceChamberlain",
+                  "timespan": {
+                    "start": "10/22/180",
+                    "end": "182"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "10/22/180",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "182",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Perennis",
+              "style": "roman",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "start": "177",
+                    "end": "185"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "185",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cleander",
+              "style": "roman",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "palaceChamberlain",
+                  "timespan": {
+                    "start": "182",
+                    "end": "188"
+                  }
+                },
+                {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "start": "188",
+                    "end": "4/19/190"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "style": "victory",
+                  "timespan": {
+                    "start": "185",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/190",
+                    "duration": "1m"
                   }
                 }
               ]
