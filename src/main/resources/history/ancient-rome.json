@@ -4623,6 +4623,14 @@
               }
             },
             {
+              "name": "Dacian War",
+              "timespan": {
+                "start": "183",
+                "duration": "1y"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
               "name": "Fall of Perennis",
               "style": "backgroundReignOfTerror",
               "timespan": {
@@ -4639,6 +4647,14 @@
               }
             },
             {
+              "name": "Megalomania of Commodus",
+              "timespan": {
+                "start": "190",
+                "end": "12/31/192"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
               "name": "Famine",
               "style": "backgroundFamine",
               "timespan": {
@@ -4647,7 +4663,7 @@
               }
             },
             {
-              "name": "Riot",
+              "name": "Fall of Cleander",
               "style": "backgroundRiot",
               "timespan": {
                 "start": "4/19/190",
@@ -4891,6 +4907,22 @@
                   "style": "assassinationAttempt",
                   "timespan": {
                     "start": "187",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Fall of Perennis",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "185",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Fall of Cleander",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "4/19/190",
                     "duration": "1d"
                   }
                 }
