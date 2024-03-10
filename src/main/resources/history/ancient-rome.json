@@ -5725,6 +5725,13 @@
               ],
               "titles": [
                 {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "start": "213",
+                    "end": "4/11/217"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "4/11/217",
