@@ -5293,6 +5293,20 @@
               },
               "titles": [
                 {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "188",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "191",
+                    "end": "4/9/193"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "4/9/193",
@@ -5321,6 +5335,20 @@
                 "end": "2/19/197"
               },
               "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "175",
+                    "end": "180"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "180",
+                    "end": "194"
+                  }
+                },
                 {
                   "name": "caesar",
                   "timespan": {
@@ -5531,6 +5559,20 @@
               "importance": "major",
               "style": "deified",
               "titles": [
+                {
+                  "name": "quaestor",
+                  "timespan": {
+                    "start": "170",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "185",
+                    "end": "6/1/193"
+                  }
+                },
                 {
                   "name": "augustus",
                   "timespan": {
