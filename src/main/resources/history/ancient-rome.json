@@ -5024,6 +5024,118 @@
           "name": "Transitional",
           "backgroundEvents": [
             {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "162",
+                "end": "165"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "167",
+                "end": "171"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "173",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "172",
+                "end": "175"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "173",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Quadi Rebellion",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "177",
+                "end": "10/180"
+              }
+            },
+            {
+              "name": "Third Marcomannic War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "181",
+                "end": "6/182"
+              }
+            },
+            {
+              "name": "Lucilla Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "182",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Dacian War",
+              "timespan": {
+                "start": "183",
+                "duration": "1y"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Fall of Perennis",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "185",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Maternus Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "187",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Megalomania of Commodus",
+              "timespan": {
+                "start": "190",
+                "end": "12/31/192"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Famine",
+              "style": "backgroundFamine",
+              "timespan": {
+                "start": "4/190",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Fall of Cleander",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "4/19/190",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Battle of Issus",
               "style": "backgroundBattle",
               "timespan": {
@@ -5149,6 +5261,118 @@
         {
           "name": "Severans",
           "backgroundEvents": [
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "162",
+                "end": "165"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "167",
+                "end": "171"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "173",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "172",
+                "end": "175"
+              }
+            },
+            {
+              "name": "Marcomannic Wars",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "173",
+                "duration": "1y"
+              }
+            },
+            {
+              "name": "Quadi Rebellion",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "177",
+                "end": "10/180"
+              }
+            },
+            {
+              "name": "Third Marcomannic War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "181",
+                "end": "6/182"
+              }
+            },
+            {
+              "name": "Lucilla Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "182",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Dacian War",
+              "timespan": {
+                "start": "183",
+                "duration": "1y"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Fall of Perennis",
+              "style": "backgroundReignOfTerror",
+              "timespan": {
+                "start": "185",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Maternus Conspiracy",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "187",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Megalomania of Commodus",
+              "timespan": {
+                "start": "190",
+                "end": "12/31/192"
+              },
+              "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Famine",
+              "style": "backgroundFamine",
+              "timespan": {
+                "start": "4/190",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Fall of Cleander",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "4/19/190",
+                "duration": "1d"
+              }
+            },
             {
               "name": "Battle of Issus",
               "style": "backgroundBattle",
