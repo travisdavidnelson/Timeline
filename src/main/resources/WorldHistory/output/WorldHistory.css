@@ -276,7 +276,9 @@
 .chancellor			{fill:purple;	fill-opacity:0.5}
 .commission 		{fill:brown;	fill-opacity:0.4}
 .committeeOfSafety 	{fill:brown;	fill-opacity:0.7}
-.consul 			{fill:blue;		fill-opacity:0.6}
+.consul 			{fill:blue;		fill-opacity:0.7}
+.proconsul 			{fill:blue;		fill-opacity:0.5}
+.procurator 		{fill:blue;		fill-opacity:0.3}
 .curuleAedile 		{fill:blue;		fill-opacity:0.3}
 .decemvir 			{fill:blue;		fill-opacity:0.8}
 .defendant 			{fill:black;	fill-opacity:0.3}
@@ -335,6 +337,7 @@
 .pontifexMaximus 	{fill:blue;		fill-opacity:0.4}
 .praetor 			{fill:blue;		fill-opacity:0.4}
 .praetorianPrefect 	{fill:#C00000;	fill-opacity:1.0}
+.urbanPrefect 	    {fill:#C00000;	fill-opacity:0.6}
 .prince		        {fill:purple;	fill-opacity:0.5}
 .princeps 			{fill:blue;		fill-opacity:1.0}
 .quaestor 			{fill:blue;		fill-opacity:0.4}

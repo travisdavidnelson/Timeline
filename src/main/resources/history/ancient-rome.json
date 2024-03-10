@@ -5164,6 +5164,55 @@
               "style": "deified",
               "titles": [
                 {
+                  "name": "tribune",
+                  "timespan": {
+                    "start": "165",
+                    "end": "170"
+                  }
+                },
+                {
+                  "name": "procurator",
+                  "timespan": {
+                    "start": "170",
+                    "end": "175"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "175",
+                    "duration": "6m"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "176",
+                    "end": "185"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "188",
+                    "end": "189"
+                  }
+                },
+                {
+                  "name": "urbanPrefect",
+                  "timespan": {
+                    "start": "189",
+                    "end": "1/1/193"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "191",
+                    "duration": "1y"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "1/1/193",
@@ -5182,6 +5231,48 @@
                 "end": "6/1/193"
               },
               "titles": [
+                {
+                  "name": "praetor",
+                  "timespan": {
+                    "start": "162",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "163",
+                    "end": "170"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "170",
+                    "end": "175"
+                  }
+                },
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "175",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "176",
+                    "duration": "5y"
+                  }
+                },
+                {
+                  "name": "proconsul",
+                  "timespan": {
+                    "start": "181",
+                    "duration": "5y"
+                  }
+                },
                 {
                   "name": "augustus",
                   "timespan": {
