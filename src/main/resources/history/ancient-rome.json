@@ -6422,7 +6422,55 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Recovery",
+          "backgroundEvents": [
+            {
+              "name": "Coup against Alexander Severus",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "3/22/235",
+                "duration": "1d"
+              }
             },
+            {
+              "name": "Rebellion of the Gordians",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "3/22/238",
+                "end": "4/12/238"
+              }
+            },
+            {
+              "name": "Siege of Aquileia",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "5/238",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "Battle of Verona (249)",
+              "timespan": {
+                "start": "9/249",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Battle of Interamna Nahars",
+              "timespan": {
+                "start": "6/253",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            }
+          ],
+          "people": [
             {
               "name": "Claudius Gothicus",
               "style": "roman",
@@ -6632,7 +6680,6 @@
           ]
         },
         {
-          "pageBreak": true,
           "name": "Tetrarchy",
           "backgroundEvents": [
             {
