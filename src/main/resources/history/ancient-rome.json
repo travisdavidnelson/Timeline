@@ -758,8 +758,8 @@
     {
       "name": "Sassanid War",
       "timespan": {
-        "start": "230",
-        "end": "232"
+        "start": "231",
+        "end": "233"
       },
       "style": "backgroundForeignWar"
     },
@@ -5541,6 +5541,30 @@
               }
             },
             {
+              "name": "Assassination of Caracalla",
+              "style": "backgroundCoup",
+              "timespan": {
+                "start": "4/8/217",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Riot against Elagabalus",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "3/11/222",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Riot against Ulpian",
+              "style": "backgroundRiot",
+              "timespan": {
+                "start": "228",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Coup against Alexander Severus",
               "style": "backgroundCoup",
               "timespan": {
@@ -5752,6 +5776,33 @@
               "style": "deified"
             },
             {
+              "name": "Julia Soaemias&#9792;",
+              "timespan": {
+                "start": "180",
+                "end": "3/11/222"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "6/8/218",
+                    "end": "3/11/222"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Riot against Elagabalus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/11/222",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Elagabalus",
               "style": "roman",
               "timespan": {
@@ -5768,6 +5819,14 @@
                     "start": "6/8/218",
                     "duration": "1d"
                   }
+                },
+                {
+                  "name": "Riot against Elagabalus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/11/222",
+                    "duration": "1d"
+                  }
                 }
               ],
               "titles": [
@@ -5776,6 +5835,33 @@
                   "timespan": {
                     "start": "6/8/218",
                     "end": "3/11/222"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Julia Avita Mamaea&#9792;",
+              "timespan": {
+                "start": "8/14/182",
+                "end": "3/19/235"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "augusta",
+                  "timespan": {
+                    "start": "4/222",
+                    "end": "3/19/235"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Coup against Alexander Severus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/235",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -5799,6 +5885,22 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Riot against Ulpian",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "228",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Triumph for Sassanid War",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "233",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Coup against Alexander Severus",
                   "style": "defeat",
                   "timespan": {
@@ -5806,6 +5908,28 @@
                     "duration": "1m"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Ulpian",
+              "style": "roman",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "170",
+                "end": "228"
+              },
+              "titles": [
+                {
+                  "name": "praetorianPrefect",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "224",
+                    "end": "228"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
@@ -5817,7 +5941,7 @@
                 "endApproximate": "true",
                 "end": "235"
               },
-              "importance": "minor"
+              "importance": "petty"
             }
           ]
         },
