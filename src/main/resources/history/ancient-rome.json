@@ -759,7 +759,7 @@
       "name": "Sassanid War",
       "timespan": {
         "start": "231",
-        "end": "233"
+        "end": "7/233"
       },
       "style": "backgroundForeignWar"
     },
@@ -5872,7 +5872,7 @@
                 "start": "10/1/208",
                 "end": "3/19/235"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "style": "deified",
               "titles": [
                 {
@@ -5893,10 +5893,26 @@
                   }
                 },
                 {
+                  "name": "Sassanid invasion of Roman East",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "231",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Failed invasion of Sassanid Empire",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/233",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "Triumph for Sassanid War",
                   "style": "triumph",
                   "timespan": {
-                    "start": "233",
+                    "start": "11/233",
                     "duration": "1d"
                   }
                 },
