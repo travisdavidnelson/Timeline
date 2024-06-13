@@ -7152,6 +7152,24 @@
               ]
             },
             {
+              "name": "Henry Frederick",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "2/19/1594",
+                "end": "11/6/1612"
+              },
+              "titles": [
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "1610",
+                    "end": "11/6/1612"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Charles I",
               "style": "english",
               "importance": "major",
@@ -7160,6 +7178,13 @@
                 "end": "1/30/1649"
               },
               "titles": [
+                {
+                  "name": "prince",
+                  "timespan": {
+                    "start": "11/1616",
+                    "end": "3/27/1625"
+                  }
+                },
                 {
                   "name": "king",
                   "timespan": {
