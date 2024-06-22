@@ -7130,6 +7130,14 @@
                 "start": "11/1605",
                 "duration": "1m"
               }
+            },
+            {
+              "name": "Grand Remonstrance",
+              "style": "backgroundCrisis",
+              "timespan": {
+                "start": "11/22/1641",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
@@ -7170,6 +7178,49 @@
               ]
             },
             {
+              "name": "William Laud",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/7/1573",
+                "end": "1/10/1645"
+              },
+              "titles": [
+                {
+                  "name": "archbishop",
+                  "timespan": {
+                    "start": "1633",
+                    "end": "1645"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "1642",
+                    "end": "1/10/1645"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Grand Remonstrance",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/22/1641",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Bill of Attainder",
+                  "style": "foregroundBillOfAttainder",
+                  "timespan": {
+                    "start": "1/1645",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Charles I",
               "style": "english",
               "importance": "major",
@@ -7190,6 +7241,16 @@
                   "timespan": {
                     "start": "3/27/1625",
                     "end": "1/30/1649"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Grand Remonstrance",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/22/1641",
+                    "duration": "1m"
                   }
                 }
               ]
