@@ -7124,19 +7124,19 @@
           "name": "Stuart I",
           "backgroundEvents": [
             {
-              "name": "Gunpowder Plot",
-              "style": "backgroundConspiracy",
-              "timespan": {
-                "start": "11/1605",
-                "duration": "1m"
-              }
-            },
-            {
               "name": "Blessed Parliament",
               "style": "englishParliament",
               "timespan": {
                 "start": "3/19/1604",
                 "end": "2/9/1611"
+              }
+            },
+            {
+              "name": "Gunpowder Plot",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "11/1605",
+                "duration": "1m"
               }
             },
             {
