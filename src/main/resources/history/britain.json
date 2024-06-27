@@ -7140,6 +7140,30 @@
               }
             },
             {
+              "name": "Addled Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "4/5/1614",
+                "end": "6/7/1614"
+              }
+            },
+            {
+              "name": "3rd Parliament of James I",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "1/30/1621",
+                "end": "1/6/1622"
+              }
+            },
+            {
+              "name": "4th Parliament of James I",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "2/19/1624",
+                "end": "5/29/1624"
+              }
+            },
+            {
               "name": "Grand Remonstrance",
               "style": "backgroundCrisis",
               "timespan": {
