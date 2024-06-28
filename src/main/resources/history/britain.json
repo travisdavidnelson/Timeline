@@ -7164,6 +7164,30 @@
               }
             },
             {
+              "name": "Useless Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "6/18/1625",
+                "end": "8/12/1625"
+              }
+            },
+            {
+              "name": "2nd Parliament of Charles I",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "2/6/1626",
+                "end": "6/15/1626"
+              }
+            },
+            {
+              "name": "3rd Parliament of Charles I",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "3/17/1628",
+                "end": "3/10/1629"
+              }
+            },
+            {
               "name": "Grand Remonstrance",
               "style": "backgroundCrisis",
               "timespan": {
