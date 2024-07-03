@@ -7188,6 +7188,22 @@
               }
             },
             {
+              "name": "Short Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "4/13/1640",
+                "end": "5/5/1640"
+              }
+            },
+            {
+              "name": "Long Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "4/13/1640",
+                "end": "5/5/1640"
+              }
+            },
+            {
               "name": "Grand Remonstrance",
               "style": "backgroundCrisis",
               "timespan": {
