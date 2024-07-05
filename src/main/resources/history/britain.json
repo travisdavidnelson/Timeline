@@ -9017,6 +9017,24 @@
                   "name": "primeMinister",
                   "timespan": {
                     "start": "10/25/2022",
+                    "end": "7/4/2024"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Keir Starmer",
+              "style": "labour",
+              "importance": "petty",
+              "timespan": {
+                "start": "9/2/1962",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/5/2024",
                     "end": ""
                   }
                 }
