@@ -7319,11 +7319,11 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Grand Remonstrance",
-                  "style": "defeat",
+                  "name": "Spanish Match",
+                  "style": "diplomaticMission",
                   "timespan": {
-                    "start": "11/22/1641",
-                    "duration": "1m"
+                    "start": "3/7/1623",
+                    "end": "10/1623"
                   }
                 }
               ]
@@ -7353,6 +7353,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Spanish Match",
+                  "style": "diplomaticMission",
+                  "timespan": {
+                    "start": "3/7/1623",
+                    "end": "10/1623"
+                  }
+                },
                 {
                   "name": "Grand Remonstrance",
                   "style": "defeat",
