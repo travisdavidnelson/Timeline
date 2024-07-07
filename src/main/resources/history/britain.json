@@ -1178,6 +1178,22 @@
       }
     },
     {
+      "name": "Anglo-French War (1627-1629)",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "6/1627",
+        "end": "4/1629"
+      }
+    },
+    {
+      "name": "Petition of Right",
+      "style": "backgroundConstitutionalSettlement",
+      "timespan": {
+        "start": "6/7/1628",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "First Anglo-Dutch War",
       "style": "backgroundWar",
       "timespan": {
@@ -7197,6 +7213,14 @@
               }
             },
             {
+              "name": "Petition of Right",
+              "style": "backgroundConstitutionalSettlement",
+              "timespan": {
+                "start": "6/7/1628",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Short Parliament",
               "style": "englishParliament",
               "timespan": {
@@ -7342,6 +7366,78 @@
                     "start": "10/6/1625",
                     "end": "12/1625"
                   }
+                },
+                {
+                  "name": "Siege of Saint-Martin-de-Ré",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/12/1627",
+                    "end": "11/1627"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Thomas Wentworth",
+              "style": "english",
+              "importance": "minor",
+              "annotation": "1st Earl of Strafford",
+              "timespan": {
+                "start": "4/13/1593",
+                "end": "5/12/1641"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1614",
+                    "end": "1621"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1/1624",
+                    "end": "2/1624"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1625",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "3/1628",
+                    "end": "7/1628"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1632",
+                    "end": "1640"
+                  }
+                },
+                {
+                  "name": "earl",
+                  "timespan": {
+                    "start": "1/1640",
+                    "end": "5/12/1641"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Petition of Right",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/7/1628",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -7384,6 +7480,14 @@
                   "timespan": {
                     "start": "10/6/1625",
                     "end": "12/1625"
+                  }
+                },
+                {
+                  "name": "Petition of Right",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/7/1628",
+                    "duration": "1d"
                   }
                 },
                 {
