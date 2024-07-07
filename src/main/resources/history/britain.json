@@ -1168,7 +1168,16 @@
         "start": "5/4/1589",
         "duration": "2m"
       }
-    },    {
+    },
+    {
+      "name": "Cadiz expedition (1625)",
+      "style": "backgroundForeignWar",
+      "timespan": {
+        "start": "10/6/1625",
+        "end": "12/1625"
+      }
+    },
+    {
       "name": "First Anglo-Dutch War",
       "style": "backgroundWar",
       "timespan": {
@@ -7325,6 +7334,14 @@
                     "start": "3/7/1623",
                     "end": "10/1623"
                   }
+                },
+                {
+                  "name": "Cadiz expedition (1625)",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/6/1625",
+                    "end": "12/1625"
+                  }
                 }
               ]
             },
@@ -7359,6 +7376,14 @@
                   "timespan": {
                     "start": "3/7/1623",
                     "end": "10/1623"
+                  }
+                },
+                {
+                  "name": "Cadiz expedition (1625)",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/6/1625",
+                    "end": "12/1625"
                   }
                 },
                 {
