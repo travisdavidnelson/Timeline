@@ -7120,6 +7120,14 @@
           }
         },
         {
+          "name": "Battle of Adwalton Moor",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "6/30/1643",
+            "duration": "1d"
+          }
+        },
+        {
           "name": "Battle of Roundway Down",
           "style": "backgroundBattle",
           "timespan": {
@@ -7136,11 +7144,51 @@
           }
         },
         {
+          "name": "Battle of Gainsborough",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "7/28/1643",
+            "duration": "1d"
+          }
+        },
+        {
           "name": "Siege of Gloucester",
           "style": "backgroundSiege",
           "timespan": {
             "start": "8/10/1643",
             "end": "9/5/1643"
+          }
+        },
+        {
+          "name": "Siege of Hull",
+          "style": "backgroundSiege",
+          "timespan": {
+            "start": "9/2/1643",
+            "end": "10/12/1643"
+          }
+        },
+        {
+          "name": "First Battle of Newbury",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "9/20/1643",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Winceby",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "10/11/1643",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Cheriton",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "3/29/1644",
+            "duration": "1d"
           }
         },
         {
@@ -7152,10 +7200,74 @@
           }
         },
         {
+          "name": "Storming of Bolton",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "5/28/1644",
+            "duration": "1d"
+          }
+        },
+        {
           "name": "Battle of Marston Moor",
           "style": "backgroundBattle",
           "timespan": {
             "start": "7/2/1644",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Cropredy Bridge",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "6/29/1644",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Ormskirk",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "8/20/1644",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Lostwithiel",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "8/21/1644",
+            "end": "9/2/1644"
+          }
+        },
+        {
+          "name": "Second Battle of Newbury",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "10/27/1644",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Naseby",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "6/14/1645",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Torrington",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "2/16/1646",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Stow-on-the-Wold",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "3/21/1646",
             "duration": "1d"
           }
         },
