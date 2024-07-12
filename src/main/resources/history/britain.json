@@ -7104,6 +7104,62 @@
           }
         },
         {
+          "name": "Battle of Edgehill",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "10/23/1642",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Braddock Down",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "1/19/1643",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Battle of Roundway Down",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "7/13/1643",
+            "duration": "1d"
+          }
+        },
+        {
+          "name": "Storming of Bristol",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "7/23/1643",
+            "end": "7/26/1643"
+          }
+        },
+        {
+          "name": "Siege of Gloucester",
+          "style": "backgroundSiege",
+          "timespan": {
+            "start": "8/10/1643",
+            "end": "9/5/1643"
+          }
+        },
+        {
+          "name": "Siege of York",
+          "style": "backgroundSiege",
+          "timespan": {
+            "start": "4/22/1644",
+            "end": "7/16/1644"
+          }
+        },
+        {
+          "name": "Battle of Marston Moor",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "7/2/1644",
+            "duration": "1d"
+          }
+        },
+        {
           "name": "Second English Civil War",
           "style": "backgroundCivilWar",
           "timespan": {
