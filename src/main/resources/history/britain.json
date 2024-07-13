@@ -7675,6 +7675,7 @@
                   }
                 },
                 {
+                  "name": "fugitive",
                   "style": "fugitive",
                   "timespan": {
                     "start": "4/27/1646",
@@ -7682,6 +7683,7 @@
                   }
                 },
                 {
+                  "name": "prisoner",
                   "style": "prisoner",
                   "timespan": {
                     "start": "6/3/1646",
