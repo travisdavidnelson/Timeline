@@ -5997,6 +5997,14 @@
                     "start": "1/13/2021",
                     "end": "2/13/2021"
                   }
+                },
+                {
+                  "name": "Assassination attempt",
+                  "style": "assassinationAttempt",
+                  "timespan": {
+                    "start": "7/13/2024",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
