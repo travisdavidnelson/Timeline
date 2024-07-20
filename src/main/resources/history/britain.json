@@ -7756,6 +7756,16 @@
                     "end": "1/30/1649"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Bridlington",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "3/1643",
+                    "duration": "1m"
+                  }
+                }
               ]
             }
           ]
