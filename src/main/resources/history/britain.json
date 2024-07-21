@@ -7288,6 +7288,14 @@
           }
         },
         {
+          "name": "Battle of Preston",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "8/17/1648",
+            "end": "8/19/1648"
+          }
+        },
+        {
           "name": "Commonwealth of England",
           "style": "englishCommonwealth",
           "timespan": {
@@ -7826,6 +7834,16 @@
                   "timespan": {
                     "start": "12/16/1653",
                     "end": "9/3/1658"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Preston",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/17/1648",
+                    "end": "8/19/1648"
                   }
                 }
               ]
