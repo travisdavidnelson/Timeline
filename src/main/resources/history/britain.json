@@ -7839,11 +7839,67 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Battle of Gainsborough",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "7/28/1643",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Marston Moor",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/2/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Second Battle of Newbury",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "10/27/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Naseby",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/14/1645",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Battle of Preston",
                   "style": "victory",
                   "timespan": {
                     "start": "8/17/1648",
                     "end": "8/19/1648"
+                  }
+                },
+                {
+                  "name": "Siege of Drogheda",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "9/3/1649",
+                    "end": "9/11/1649"
+                  }
+                },
+                {
+                  "name": "Sack of Wexford",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "10/2/1649",
+                    "end": "10/11/1649"
+                  }
+                },
+                {
+                  "name": "Battle of Dunbar",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "9/3/1650",
+                    "duration": "1d"
                   }
                 }
               ]
