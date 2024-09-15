@@ -8506,6 +8506,721 @@
               ]
             }
           ]
+        },
+        {
+          "mark": true,
+          "name": "Hanover",
+          "backgroundEvents": [
+            {
+              "name": "Jacobite Rising of 1715",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/27/1715",
+                "end": "2/4/1716"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1719",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "5/10/1719",
+                "end": "6/10/1719"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1745",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/19/1745",
+                "end": "4/20/1746"
+              }
+            },
+            {
+              "name": "Battle of Culloden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/16/1746",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "George I",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "5/28/1660",
+                "end": "6/11/1727"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "8/1/1714",
+                    "end": "6/11/1727"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George II",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "10/30/1683",
+                "end": "10/25/1760"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/11/1727",
+                    "end": "10/25/1760"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George III",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "6/4/1738",
+                "end": "1/29/1820"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "10/25/1760",
+                    "end": "1/29/1820"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George IV",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "8/12/1762",
+                "end": "6/26/1830"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/29/1820",
+                    "end": "6/26/1830"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William IV",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/21/1765",
+                "end": "6/20/1837"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/26/1830",
+                    "end": "6/20/1837"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Victoria&#9792;",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "5/24/1819",
+                "end": "1/22/1901"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "6/20/1837",
+                    "end": "1/22/1901"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VII",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "11/9/1841",
+                "end": "5/6/1910"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/22/1901",
+                    "end": "5/6/1910"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageBreak": true,
+          "name": "Windsor",
+          "backgroundEvents": [
+            {
+              "name": "Jacobite Rising of 1715",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/27/1715",
+                "end": "2/4/1716"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1719",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "5/10/1719",
+                "end": "6/10/1719"
+              }
+            },
+            {
+              "name": "Jacobite Rising of 1745",
+              "style": "backgroundMinorRebellion",
+              "timespan": {
+                "start": "8/19/1745",
+                "end": "4/20/1746"
+              }
+            },
+            {
+              "name": "Battle of Culloden",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "4/16/1746",
+                "duration": "1d"
+              }
+            }
+          ],
+          "people": [
+            {
+              "name": "George V",
+              "style": "british",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "6/3/1865",
+                "end": "1/20/1936"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "5/6/1910",
+                    "end": "1/20/1936"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward VIII",
+              "style": "british",
+              "importance": "petty",
+              "timespan": {
+                "start": "6/23/1894",
+                "end": "5/28/1972"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "1/20/1936",
+                    "end": "12/11/1936"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "George VI",
+              "style": "british",
+              "importance": "minor",
+              "timespan": {
+                "start": "12/14/1895",
+                "end": "2/6/1952"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "12/11/1936",
+                    "end": "2/6/1952"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elizabeth II&#9792;",
+              "style": "british",
+              "importance": "major",
+              "timespan": {
+                "start": "4/21/1926",
+                "end": "9/8/2022"
+              },
+              "titles": [
+                {
+                  "name": "queen",
+                  "timespan": {
+                    "start": "2/6/1952",
+                    "end": "9/8/2022"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles III",
+              "style": "british",
+              "importance": "petty",
+              "timespan": {
+                "start": "11/14/1948",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "9/8/2022",
+                    "end": ""
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cultural",
+          "people": [
+            {
+              "pageBreak": true,
+              "name": "Francis Bacon",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "1/22/1561",
+                "end": "4/9/1626"
+              },
+              "titles": [
+                {
+                  "name": "attorneyGeneral",
+                  "timespan": {
+                    "start": "10/26/1613",
+                    "end": "3/7/1617"
+                  }
+                },
+                {
+                  "name": "lordChancellor",
+                  "timespan": {
+                    "start": "3/7/1617",
+                    "end": "5/3/1621"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Utopia",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1620",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Christopher Marlowe",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "2/26/1564",
+                "end": "5/30/1593"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "William Shakespeare",
+              "style": "english",
+              "importance": "transformational",
+              "timespan": {
+                "start": "4/26/1564",
+                "end": "4/23/1616"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Romeo and Juliet",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1595",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "A Midsummer Night's Dream",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1595",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Much Ado About Nothing",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1598",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Henry V",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1599",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Julius Caesar",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1599",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Hamlet",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1600",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Othello",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1603",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "King Lear",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1605",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Macbeth",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1/1606",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Antony and Cleopatra",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/1606",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Milton",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "12/9/1608",
+                "end": "11/8/1674"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Areopagitica",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Paradise Lost",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1667",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "William Blake",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "11/28/1757",
+                "end": "8/12/1827"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Songs of Innocence and Experience",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1789",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "The Marriage of Heaven and Hell",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1790",
+                    "duration": "4y"
+                  }
+                },
+                {
+                  "name": "Jerusalem",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1804",
+                    "end": "1820"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Lord Byron",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/22/1788",
+                "end": "4/19/1824"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Percy Shelley",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "8/4/1792",
+                "end": "7/8/1822"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Ozymandias",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1818",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "John Keats",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "10/31/1795",
+                "end": "2/23/1821"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Odes",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1819",
+                    "duration": "1y"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charles Dickens",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "2/7/1812",
+                "end": "6/9/1870"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "The Pickwick Papers",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1836",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "Oliver Twist",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1837",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "A Christmas Carol",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "12/19/1843",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "David Copperfield",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1849",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "A Tale of Two Cities",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "4/1859",
+                    "end": "11/1859"
+                  }
+                },
+                {
+                  "name": "Great Expectations",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1860",
+                    "duration": "2y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Visionaries",
+          "people": [
+            {
+              "name": "Isaac Newton",
+              "style": "english",
+              "importance": "transformational",
+              "timespan": {
+                "start": "1/4/1643",
+                "end": "3/31/1727"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Mathematical Principles of Natural Philosophy",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "7/5/1687",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Opticks",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1704",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "pageBreak": true,
+              "name": "James Watt",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/30/1736",
+                "end": "8/25/1819"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Isambard Kingdom Brunel",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "4/9/1806",
+                "end": "9/15/1859"
+              },
+              "titles": [
+              ]
+            },
+            {
+              "name": "Charles Darwin",
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "start": "2/12/1809",
+                "end": "4/19/1882"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "The Voyage of the Beagle",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1839",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "On the Origin of Species",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "11/24/1859",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "The Descent of Man",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "2/24/1871",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -9811,721 +10526,6 @@
                   "timespan": {
                     "start": "7/5/2024",
                     "end": ""
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "mark": true,
-          "name": "Hanover",
-          "backgroundEvents": [
-            {
-              "name": "Jacobite Rising of 1715",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/27/1715",
-                "end": "2/4/1716"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1719",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "5/10/1719",
-                "end": "6/10/1719"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1745",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/19/1745",
-                "end": "4/20/1746"
-              }
-            },
-            {
-              "name": "Battle of Culloden",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "4/16/1746",
-                "duration": "1d"
-              }
-            }
-          ],
-          "people": [
-            {
-              "name": "George I",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "5/28/1660",
-                "end": "6/11/1727"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "8/1/1714",
-                    "end": "6/11/1727"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George II",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "10/30/1683",
-                "end": "10/25/1760"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/11/1727",
-                    "end": "10/25/1760"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George III",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "6/4/1738",
-                "end": "1/29/1820"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "10/25/1760",
-                    "end": "1/29/1820"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George IV",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "8/12/1762",
-                "end": "6/26/1830"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/29/1820",
-                    "end": "6/26/1830"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "William IV",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "8/21/1765",
-                "end": "6/20/1837"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/26/1830",
-                    "end": "6/20/1837"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Victoria&#9792;",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "5/24/1819",
-                "end": "1/22/1901"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "6/20/1837",
-                    "end": "1/22/1901"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Edward VII",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "11/9/1841",
-                "end": "5/6/1910"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/22/1901",
-                    "end": "5/6/1910"
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "pageBreak": true,
-          "name": "Windsor",
-          "backgroundEvents": [
-            {
-              "name": "Jacobite Rising of 1715",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/27/1715",
-                "end": "2/4/1716"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1719",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "5/10/1719",
-                "end": "6/10/1719"
-              }
-            },
-            {
-              "name": "Jacobite Rising of 1745",
-              "style": "backgroundMinorRebellion",
-              "timespan": {
-                "start": "8/19/1745",
-                "end": "4/20/1746"
-              }
-            },
-            {
-              "name": "Battle of Culloden",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "4/16/1746",
-                "duration": "1d"
-              }
-            }
-          ],
-          "people": [
-            {
-              "name": "George V",
-              "style": "british",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "6/3/1865",
-                "end": "1/20/1936"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "5/6/1910",
-                    "end": "1/20/1936"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Edward VIII",
-              "style": "british",
-              "importance": "petty",
-              "timespan": {
-                "start": "6/23/1894",
-                "end": "5/28/1972"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "1/20/1936",
-                    "end": "12/11/1936"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "George VI",
-              "style": "british",
-              "importance": "minor",
-              "timespan": {
-                "start": "12/14/1895",
-                "end": "2/6/1952"
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "12/11/1936",
-                    "end": "2/6/1952"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Elizabeth II&#9792;",
-              "style": "british",
-              "importance": "major",
-              "timespan": {
-                "start": "4/21/1926",
-                "end": "9/8/2022"
-              },
-              "titles": [
-                {
-                  "name": "queen",
-                  "timespan": {
-                    "start": "2/6/1952",
-                    "end": "9/8/2022"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Charles III",
-              "style": "british",
-              "importance": "petty",
-              "timespan": {
-                "start": "11/14/1948",
-                "end": ""
-              },
-              "titles": [
-                {
-                  "name": "king",
-                  "timespan": {
-                    "start": "9/8/2022",
-                    "end": ""
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Cultural",
-          "people": [
-            {
-              "pageBreak": true,
-              "name": "Francis Bacon",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "start": "1/22/1561",
-                "end": "4/9/1626"
-              },
-              "titles": [
-                {
-                  "name": "attorneyGeneral",
-                  "timespan": {
-                    "start": "10/26/1613",
-                    "end": "3/7/1617"
-                  }
-                },
-                {
-                  "name": "lordChancellor",
-                  "timespan": {
-                    "start": "3/7/1617",
-                    "end": "5/3/1621"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Utopia",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1620",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Christopher Marlowe",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "2/26/1564",
-                "end": "5/30/1593"
-              },
-              "titles": [
-              ]
-            },
-            {
-              "name": "William Shakespeare",
-              "style": "english",
-              "importance": "transformational",
-              "timespan": {
-                "start": "4/26/1564",
-                "end": "4/23/1616"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Romeo and Juliet",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1/1595",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "A Midsummer Night's Dream",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "6/1595",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Much Ado About Nothing",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1598",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Henry V",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1/1599",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Julius Caesar",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "6/1599",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Hamlet",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1600",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Othello",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1603",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "King Lear",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1605",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Macbeth",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1/1606",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Antony and Cleopatra",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "6/1606",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "John Milton",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "12/9/1608",
-                "end": "11/8/1674"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Areopagitica",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1644",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Paradise Lost",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1667",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "William Blake",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "11/28/1757",
-                "end": "8/12/1827"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Songs of Innocence and Experience",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1789",
-                    "duration": "1y"
-                  }
-                },
-                {
-                  "name": "The Marriage of Heaven and Hell",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1790",
-                    "duration": "4y"
-                  }
-                },
-                {
-                  "name": "Jerusalem",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1804",
-                    "end": "1820"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Lord Byron",
-              "style": "english",
-              "importance": "petty",
-              "timespan": {
-                "start": "1/22/1788",
-                "end": "4/19/1824"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-              ]
-            },
-            {
-              "name": "Percy Shelley",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "8/4/1792",
-                "end": "7/8/1822"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Ozymandias",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1818",
-                    "duration": "1y"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "John Keats",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "10/31/1795",
-                "end": "2/23/1821"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Odes",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1819",
-                    "duration": "1y"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Charles Dickens",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "start": "2/7/1812",
-                "end": "6/9/1870"
-              },
-              "foregroundEvents": [
-                {
-                  "name": "The Pickwick Papers",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1836",
-                    "duration": "1y"
-                  }
-                },
-                {
-                  "name": "Oliver Twist",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1837",
-                    "duration": "2y"
-                  }
-                },
-                {
-                  "name": "A Christmas Carol",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "12/19/1843",
-                    "duration": "1m"
-                  }
-                },
-                {
-                  "name": "David Copperfield",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1849",
-                    "duration": "2y"
-                  }
-                },
-                {
-                  "name": "A Tale of Two Cities",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "4/1859",
-                    "end": "11/1859"
-                  }
-                },
-                {
-                  "name": "Great Expectations",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1860",
-                    "duration": "2y"
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Visionaries",
-          "people": [
-            {
-              "name": "Isaac Newton",
-              "style": "english",
-              "importance": "transformational",
-              "timespan": {
-                "start": "1/4/1643",
-                "end": "3/31/1727"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Mathematical Principles of Natural Philosophy",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "7/5/1687",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "Opticks",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1704",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "pageBreak": true,
-              "name": "James Watt",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "1/30/1736",
-                "end": "8/25/1819"
-              },
-              "titles": [
-              ]
-            },
-            {
-              "name": "Isambard Kingdom Brunel",
-              "style": "english",
-              "importance": "minor",
-              "timespan": {
-                "start": "4/9/1806",
-                "end": "9/15/1859"
-              },
-              "titles": [
-              ]
-            },
-            {
-              "name": "Charles Darwin",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "start": "2/12/1809",
-                "end": "4/19/1882"
-              },
-              "titles": [
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "The Voyage of the Beagle",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "1839",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "On the Origin of Species",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "11/24/1859",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "The Descent of Man",
-                  "style": "notableWork",
-                  "timespan": {
-                    "start": "2/24/1871",
-                    "duration": "1d"
                   }
                 }
               ]
