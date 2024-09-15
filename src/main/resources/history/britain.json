@@ -8126,7 +8126,270 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "New Model Army",
+          "backgroundEvents": [
+            {
+              "name": "Long Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "4/13/1640",
+                "end": "5/5/1640"
+              }
             },
+            {
+              "name": "Long Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "11/1640",
+                "end": "12/6/1648"
+              }
+            },
+            {
+              "name": "Grand Remonstrance",
+              "style": "backgroundCrisis",
+              "timespan": {
+                "start": "11/22/1641",
+                "duration": "1m"
+              }
+            },
+            {
+              "name": "First English Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "8/1642",
+                "end": "6/1646"
+              }
+            },
+            {
+              "name": "Battle of Edgehill",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/23/1642",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Braddock Down",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "1/19/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Adwalton Moor",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/30/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Roundway Down",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/13/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Storming of Bristol",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/23/1643",
+                "end": "7/26/1643"
+              }
+            },
+            {
+              "name": "Battle of Gainsborough",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/28/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Siege of Gloucester",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "8/10/1643",
+                "end": "9/5/1643"
+              }
+            },
+            {
+              "name": "Siege of Hull",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "9/2/1643",
+                "end": "10/12/1643"
+              }
+            },
+            {
+              "name": "First Battle of Newbury",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/20/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Winceby",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/11/1643",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Cheriton",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "3/29/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Siege of York",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "4/22/1644",
+                "end": "7/16/1644"
+              }
+            },
+            {
+              "name": "Storming of Bolton",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/28/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Marston Moor",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/2/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Cropredy Bridge",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/29/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Ormskirk",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/20/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Lostwithiel",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/21/1644",
+                "end": "9/2/1644"
+              }
+            },
+            {
+              "name": "Second Battle of Newbury",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/27/1644",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Naseby",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/14/1645",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Torrington",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "2/16/1646",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Stow-on-the-Wold",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "3/21/1646",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Third Siege of Oxford",
+              "style": "backgroundSiege",
+              "timespan": {
+                "start": "5/1/1646",
+                "end": "6/25/1646"
+              }
+            },
+            {
+              "name": "Second English Civil War",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "2/1648",
+                "end": "8/1648"
+              }
+            },
+            {
+              "name": "Battle of Preston",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/17/1648",
+                "end": "8/19/1648"
+              }
+            },
+            {
+              "name": "Rump Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "12/6/1648",
+                "end": "4/20/1653"
+              }
+            },
+            {
+              "name": "Pride's Purge",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "12/6/1648",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Cromwell disbands the Rump",
+              "style": "backgroundTyranny",
+              "timespan": {
+                "start": "4/20/1653",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Rump Parliament",
+              "style": "englishParliament",
+              "timespan": {
+                "start": "5/7/1659",
+                "end": "2/20/1660"
+              }
+            }
+          ],
+          "people": [
             {
               "name": "Oliver Cromwell",
               "style": "english",
