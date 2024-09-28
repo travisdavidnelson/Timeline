@@ -8126,6 +8126,72 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Robert Devereuax",
+              "style": "english",
+              "importance": "minor",
+              "annotation": "3rd Earl of Essex",
+              "timespan": {
+                "start": "1/11/1591",
+                "end": "9/14/1646"
+              },
+              "titles": [
+                {
+                  "name": "earl",
+                  "timespan": {
+                    "start": "1604",
+                    "end": "9/14/1646"
+                  }
+                },
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "1620",
+                    "end": "1624"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "11/1640",
+                    "end": "12/8/1643"
+                  }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "7/1642",
+                    "end": "12/8/1643"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Edgehill",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "10/23/1642",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "First Battle of Newbury",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "9/20/1643",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Lostwithiel",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/21/1644",
+                    "end": "9/2/1644"
+                  }
+                }
+              ]
             }
           ]
         },
