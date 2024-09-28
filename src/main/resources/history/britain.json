@@ -8482,6 +8482,68 @@
               ]
             },
             {
+              "name": "Henry Ireton",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "1611",
+                "end": "11/26/1651"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "10/1645",
+                    "end": "11/26/1651"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1650",
+                    "end": "11/26/1651"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Edgehill",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "10/23/1642",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Second Battle of Newbury",
+                  "style": "battle",
+                  "timespan": {
+                    "start": "10/27/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Naseby",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/14/1645",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Thomas Fairfax",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "1/17/1612",
+                "end": "11/12/1671"
+              },
+              "titles": [
+              ]
+            },
+            {
               "name": "Richard Cromwell",
               "style": "english",
               "importance": "minor",
@@ -8497,17 +8559,6 @@
                     "end": "5/7/1659"
                   }
                 }
-              ]
-            },
-            {
-              "name": "Thomas Fairfax",
-              "style": "english",
-              "importance": "semimajor",
-              "timespan": {
-                "start": "1/17/1612",
-                "end": "11/12/1671"
-              },
-              "titles": [
               ]
             }
           ]
