@@ -8212,7 +8212,7 @@
             {
               "name": "Denzil Holles",
               "style": "english",
-              "importance": "petty",
+              "importance": "minor",
               "annotation": "1st Baron Holles",
               "timespan": {
                 "start": "10/31/1598",
@@ -8232,9 +8232,45 @@
                     "start": "2/1628",
                     "end": "4/1661"
                   }
+                },
+                {
+                  "name": "committeeOfSafety",
+                  "timespan": {
+                    "start": "7/4/1642",
+                    "end": "5/1643"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "1/26/1648",
+                    "end": "8/1648"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "12/6/1648",
+                    "end": "3/1654"
+                  }
+                },
+                {
+                  "name": "diplomat",
+                  "timespan": {
+                    "start": "1663",
+                    "end": "1666"
+                  }
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Edgehill",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "10/23/1642",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Pride's Purge",
                   "style": "backgroundTyranny",
@@ -8273,7 +8309,7 @@
                   "name": "memberParliament",
                   "timespan": {
                     "start": "1640",
-                    "end": "1660"
+                    "end": "4/1645"
                   }
                 },
                 {
