@@ -8190,6 +8190,131 @@
                     "start": "8/21/1644",
                     "end": "9/2/1644"
                   }
+                },
+                {
+                  "name": "Second Battle of Newbury",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "10/27/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Self-denying Ordinance",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/3/1645",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Denzil Holles",
+              "style": "english",
+              "importance": "petty",
+              "annotation": "1st Baron Holles",
+              "timespan": {
+                "start": "10/31/1598",
+                "end": "2/17/1680"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "2/1624",
+                    "end": "3/1625"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "2/1628",
+                    "end": "4/1661"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Pride's Purge",
+                  "style": "backgroundTyranny",
+                  "timespan": {
+                    "start": "12/6/1648",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Edward Montegu",
+              "style": "english",
+              "importance": "minor",
+              "annotation": "2nd Earl of Manchester",
+              "timespan": {
+                "start": "1602",
+                "end": "5/6/1671"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1623",
+                    "end": "1624"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1625",
+                    "end": "1626"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1640",
+                    "end": "1660"
+                  }
+                },
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "11/1642",
+                    "end": "8/1643"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "8/1643",
+                    "end": "4/1645"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marston Moor",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/2/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Second Battle of Newbury",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "10/27/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Self-denying Ordinance",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/3/1645",
+                    "duration": "1d"
+                  }
                 }
               ]
             }
@@ -8502,6 +8627,14 @@
                   "style": "battle",
                   "timespan": {
                     "start": "10/27/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Self-denying Ordinance",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/3/1645",
                     "duration": "1d"
                   }
                 },
