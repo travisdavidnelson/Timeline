@@ -8333,6 +8333,101 @@
               ]
             },
             {
+              "name": "Arthur Haselrig",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "start": "1601",
+                "end": "1/7/1661"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1640",
+                    "end": "1653"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "12/30/1647",
+                    "end": "1652"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1653",
+                    "end": "1659"
+                  }
+                },
+                {
+                  "name": "memberParliamentBanned",
+                  "timespan": {
+                    "start": "1655",
+                    "end": "1658"
+                  }
+                },
+                {
+                  "name": "councilOfState",
+                  "timespan": {
+                    "start": "5/1659",
+                    "end": "10/1659"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "5/1660",
+                    "end": "1/7/1661"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Edgehill",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "10/23/1642",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Lansdowne",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "7/13/1643",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Roundway Down",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "7/13/1643",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Second Cheriton",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "3/29/1644",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Self-denying Ordinance",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/3/1645",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Edward Montegu",
               "style": "english",
               "importance": "petty",

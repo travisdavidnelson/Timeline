@@ -324,7 +324,9 @@
 .magisterMilitum 	{fill:#C00000;	fill-opacity:1.0}
 .masterOfHorse 		{fill:blue;		fill-opacity:0.8}
 .mayor 			    {fill:blue;		fill-opacity:0.4}
+.councilOfState     {fill:blue;		fill-opacity:0.5}
 .memberParliament   {fill:blue;		fill-opacity:0.2}
+.memberParliamentBanned   {fill:grey;		fill-opacity:0.4}
 .mercenary 			{fill:#C00000;	fill-opacity:0.4}
 .militaryOfficer 	{fill:#e50202;	fill-opacity:0.4}
 .lordChancellor 	{fill:#0c06cc;	fill-opacity:0.9}
