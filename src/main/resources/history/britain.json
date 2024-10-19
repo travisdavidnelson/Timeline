@@ -8210,6 +8210,57 @@
               ]
             },
             {
+              "name": "William Waller",
+              "style": "english",
+              "importance": "petty",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1598",
+                "end": "9/19/1668"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "1617",
+                    "end": "1622"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "4/1640",
+                    "end": "12/1648"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1660",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Roundway Down",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/13/1643",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Pride's Purge",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/6/1648",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Denzil Holles",
               "style": "english",
               "importance": "minor",
@@ -8273,7 +8324,7 @@
                 },
                 {
                   "name": "Pride's Purge",
-                  "style": "backgroundTyranny",
+                  "style": "defeat",
                   "timespan": {
                     "start": "12/6/1648",
                     "duration": "1d"
@@ -8284,7 +8335,7 @@
             {
               "name": "Edward Montegu",
               "style": "english",
-              "importance": "minor",
+              "importance": "petty",
               "annotation": "2nd Earl of Manchester",
               "timespan": {
                 "start": "1602",
