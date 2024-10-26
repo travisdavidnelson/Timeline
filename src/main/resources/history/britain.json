@@ -7489,7 +7489,7 @@
             {
               "name": "James I",
               "style": "english",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "start": "6/19/1566",
                 "end": "3/27/1625"
@@ -7500,6 +7500,16 @@
                   "timespan": {
                     "start": "3/24/1603",
                     "end": "3/27/1625"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "King James Bible",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "1611",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -7525,7 +7535,7 @@
             {
               "name": "William Laud",
               "style": "english",
-              "importance": "minor",
+              "importance": "semimajor",
               "timespan": {
                 "start": "10/7/1573",
                 "end": "1/10/1645"
