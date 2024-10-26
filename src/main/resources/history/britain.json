@@ -8092,6 +8092,14 @@
                 "start": "5/7/1659",
                 "end": "2/20/1660"
               }
+            },
+            {
+              "name": "Stuart Restoration",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "5/1660",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
@@ -8760,6 +8768,14 @@
                 "start": "5/7/1659",
                 "end": "2/20/1660"
               }
+            },
+            {
+              "name": "Stuart Restoration",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "5/1660",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
@@ -9015,6 +9031,14 @@
           "name": "Stuart II",
           "backgroundEvents": [
             {
+              "name": "Stuart Restoration",
+              "style": "backgroundRevolution",
+              "timespan": {
+                "start": "5/1660",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Rye House Plot",
               "style": "backgroundConspiracy",
               "timespan": {
@@ -9140,6 +9164,16 @@
                   "timespan": {
                     "start": "5/29/1660",
                     "end": "2/6/1685"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Stuart Restoration",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/1660",
+                    "duration": "1m"
                   }
                 }
               ]
