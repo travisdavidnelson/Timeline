@@ -9057,6 +9057,76 @@
           ],
           "people": [
             {
+              "name": "George Monck",
+              "style": "english",
+              "importance": "minor",
+              "timespan": {
+                "start": "12/6/1608",
+                "end": "1/3/1670"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "1625",
+                    "end": "1638"
+                  }
+                },
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "1641",
+                    "end": "1/1644"
+                  }
+                },
+                {
+                  "name": "prisoner",
+                  "timespan": {
+                    "start": "1/1644",
+                    "duration": "2y"
+                  }
+                },
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "1652",
+                    "end": "2/1660"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "4/1660",
+                    "end": "7/1660"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "6/1660",
+                    "end": "2/1662"
+                  }
+                },
+                {
+                  "name": "chiefMinister",
+                  "timespan": {
+                    "start": "6/1667",
+                    "end": "1/1670"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Stuart Restoration",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/1660",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Charles II",
               "style": "english",
               "importance": "major",
