@@ -3580,13 +3580,21 @@
             {
               "name": "Elon Musk",
               "style": "american",
-              "importance": "minor",
+              "importance": "semimajor",
               "annotation": "probably underrated",
               "timespan": {
                 "start": "6/28/1971",
                 "end": ""
               },
               "foregroundEvents": [
+                {
+                  "name": "Starship flight test 5",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "10/13/2024",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
