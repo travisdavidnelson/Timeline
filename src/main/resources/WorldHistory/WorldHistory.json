@@ -82,6 +82,10 @@
       "resources": "ancient-hittites,ancient-anatolia,seleucid-empire,ancient-levant,turkey"
     },
     {
+      "name": "Middle East",
+      "resources": "ancient-mesopotamia"
+    },
+    {
       "name": "Assyria / Armenia",
       "resources": "ancient-assyria,armenia"
     },
