@@ -5965,58 +5965,6 @@
               ]
             },
             {
-              "name": "Donald Trump",
-              "timespan": {
-                "start": "6/14/1946",
-                "end": ""
-              },
-              "importance": "semimajor",
-              "style": "republican",
-              "titles": [
-                {
-                  "name": "president",
-                  "timespan": {
-                    "start": "1/20/2017",
-                    "end": "1/20/2021"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "U.S. presidential election",
-                  "style": "victory",
-                  "timespan": {
-                    "start": "11/8/2016",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "U.S. presidential election",
-                  "style": "defeat",
-                  "timespan": {
-                    "start": "11/3/2020",
-                    "duration": "1d"
-                  }
-                },
-                {
-                  "name": "2nd impeachment",
-                  "style": "foregroundReputationalStain",
-                  "timespan": {
-                    "start": "1/13/2021",
-                    "end": "2/13/2021"
-                  }
-                },
-                {
-                  "name": "Assassination attempt",
-                  "style": "assassinationAttempt",
-                  "timespan": {
-                    "start": "7/13/2024",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Joe Biden",
               "timespan": {
                 "start": "11/20/1942",
@@ -6063,6 +6011,14 @@
                     "start": "8/15/2021",
                     "end": "8/30/2021"
                   }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/5/2024",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -6091,6 +6047,362 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/5/2024",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maga",
+          "backgroundEvents": [
+            {
+              "name": "Cold War",
+              "timespan": {
+                "start": "6/24/1948",
+                "end": "12/25/1991"
+              },
+              "style": "backgroundColdWar"
+            },
+            {
+              "name": "Berlin Blockade",
+              "timespan": {
+                "start": "6/24/1948",
+                "end": "5/12/1949"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Korean War",
+              "timespan": {
+                "start": "6/25/1950",
+                "end": "7/27/1953"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "1957-1958 influenza pandemic",
+              "timespan": {
+                "start": "1957",
+                "end": "1958"
+              },
+              "style": "backgroundPlagueMinor"
+            },
+            {
+              "name": "Bay of Pigs Invasion",
+              "timespan": {
+                "start": "4/17/1961",
+                "end": "4/20/1961"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Berlin Crisis of 1961",
+              "timespan": {
+                "start": "8/13/1961",
+                "end": "10/29/1961"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Cuban Missile Crisis",
+              "timespan": {
+                "start": "10/16/1962",
+                "end": "10/29/1962"
+              },
+              "style": "backgroundCrisis"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1963",
+                "end": "8/7/1964"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "8/7/1964",
+                "end": "1/13/1973"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Vietnam War",
+              "timespan": {
+                "start": "1/1973",
+                "end": "4/30/1975"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "JFK assassination",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "11/22/1963",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "MLK assassination",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "4/4/1968",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "RFK assassination",
+              "style": "backgroundNationalCalamity",
+              "timespan": {
+                "start": "6/6/1968",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "First human on the moon",
+              "style": "astronaut",
+              "timespan": {
+                "start": "7/21/1969",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Iran hostage crisis",
+              "timespan": {
+                "start": "11/4/1979",
+                "end": "1/20/1981"
+              },
+              "style": "backgroundCrisisIsolated"
+            },
+            {
+              "name": "1983 Beirut barracks bombing",
+              "timespan": {
+                "start": "10/23/1983",
+                "duration": "1d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Invasion of Grenada",
+              "timespan": {
+                "start": "10/25/1983",
+                "end": "10/29/1983"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "1986 bombing of Libya",
+              "timespan": {
+                "start": "4/15/1986",
+                "duration": "1d"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Invasion of Panama",
+              "timespan": {
+                "start": "12/20/1989",
+                "end": "1/31/1990"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Gulf War",
+              "timespan": {
+                "start": "8/2/1990",
+                "end": "2/28/1991"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Battle of Mogadishu",
+              "timespan": {
+                "start": "10/3/1993",
+                "duration": "2d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "Kosovo War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "2/1998",
+                "end": "6/1/1999"
+              }
+            },
+            {
+              "name": "Afghanistan War",
+              "timespan": {
+                "start": "10/7/2001",
+                "end": "8/30/2021"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Fall of Kabul",
+              "style": "defeat",
+              "timespan": {
+                "start": "8/15/2021",
+                "end": "8/30/2021"
+              }
+            },
+            {
+              "name": "Iraq War",
+              "timespan": {
+                "start": "3/20/2003",
+                "end": "3/2008"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
+              "name": "Iraq War",
+              "timespan": {
+                "start": "3/2008",
+                "end": "12/18/2011"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Attacks of September 11, 2001",
+              "timespan": {
+                "start": "9/11/2001",
+                "duration": "1d"
+              },
+              "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Invasion of Iraq",
+              "timespan": {
+                "start": "3/20/2003",
+                "end": "5/1/2003"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "2011 military intervention in Libya",
+              "timespan": {
+                "start": "3/19/2011",
+                "end": "10/31/2011"
+              },
+              "style": "backgroundForeignWarMinor"
+            },
+            {
+              "name": "Killing of Osama Bin Laden",
+              "style": "victory",
+              "timespan": {
+                "start": "5/2/2011",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "2012 Benghazi attack",
+              "timespan": {
+                "start": "9/11/2012",
+                "duration": "2d"
+              },
+              "style": "backgroundBattle"
+            },
+            {
+              "name": "George Floyd riots",
+              "timespan": {
+                "start": "5/26/2020",
+                "duration": "1m"
+              },
+              "style": "backgroundRiot"
+            },
+            {
+              "name": "Kenosha riots",
+              "timespan": {
+                "start": "8/23/2020",
+                "end": "8/26/2020"
+              },
+              "style": "backgroundRiot"
+            },
+            {
+              "name": "Capitol Riot",
+              "timespan": {
+                "start": "1/6/2021",
+                "duration": "1d"
+              },
+              "style": "backgroundRiot"
+            },
+            {
+              "name": "Ukrainian War of 2022",
+              "timespan": {
+                "start": "2/24/2022",
+                "end": ""
+              },
+              "style": "backgroundForeignWarMinor"
+            }
+          ],
+          "people": [
+            {
+              "name": "Donald Trump",
+              "timespan": {
+                "start": "6/14/1946",
+                "end": ""
+              },
+              "importance": "major",
+              "style": "republican",
+              "titles": [
+                {
+                  "name": "president",
+                  "timespan": {
+                    "start": "1/20/2017",
+                    "end": "1/20/2021"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/8/2016",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/3/2020",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "2nd impeachment",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "1/13/2021",
+                    "end": "2/13/2021"
+                  }
+                },
+                {
+                  "name": "Assassination attempt",
+                  "style": "assassinationAttempt",
+                  "timespan": {
+                    "start": "7/13/2024",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/2024",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]
