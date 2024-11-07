@@ -3580,7 +3580,7 @@
             {
               "name": "Elon Musk",
               "style": "american",
-              "importance": "semimajor",
+              "importance": "major",
               "annotation": "probably underrated",
               "timespan": {
                 "start": "6/28/1971",
@@ -6352,7 +6352,8 @@
                 "end": ""
               },
               "importance": "major",
-              "style": "republican",
+              "style": "american",
+              "annotation": "Lionheart",
               "titles": [
                 {
                   "name": "president",
@@ -6392,6 +6393,57 @@
                   "style": "assassinationAttempt",
                   "timespan": {
                     "start": "7/13/2024",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "U.S. presidential election",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/2024",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Robert F Kennedy Jr",
+              "timespan": {
+                "start": "1/17/1954",
+                "end": ""
+              },
+              "importance": "petty",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "JD Vance",
+              "timespan": {
+                "start": "8/2/1984",
+                "end": ""
+              },
+              "importance": "minor",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "1/3/2023",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Hillbilly Elegy",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/2016",
                     "duration": "1d"
                   }
                 },
