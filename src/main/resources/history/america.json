@@ -6389,6 +6389,14 @@
                   }
                 },
                 {
+                  "name": "Dobbs",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/24/2022",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Assassination attempt",
                   "style": "assassinationAttempt",
                   "timespan": {
