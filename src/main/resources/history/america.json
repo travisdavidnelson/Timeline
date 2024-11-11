@@ -6356,10 +6356,24 @@
               "annotation": "Lionheart",
               "titles": [
                 {
+                  "name": "presidentElect",
+                  "timespan": {
+                    "start": "11/8/2016",
+                    "end": "1/20/2017"
+                  }
+                },
+                {
                   "name": "president",
                   "timespan": {
                     "start": "1/20/2017",
                     "end": "1/20/2021"
+                  }
+                },
+                {
+                  "name": "presidentElect",
+                  "timespan": {
+                    "start": "11/5/2024",
+                    "end": ""
                   }
                 }
               ],
