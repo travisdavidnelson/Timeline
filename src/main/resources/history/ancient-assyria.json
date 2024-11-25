@@ -162,6 +162,7 @@
   "dynastyGroups": [
     {
       "name": "Mari III",
+      "pageBreak": false,
       "backgroundEvents": [],
       "dynasties": [
         {
