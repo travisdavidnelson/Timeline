@@ -4077,6 +4077,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Ernest Hemingway",
               "style": "american",
               "importance": "minor",
