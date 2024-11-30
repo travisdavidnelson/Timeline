@@ -116,7 +116,7 @@
       "style": "macedon"
     },
     {
-      "name": "Battle Of Chaeronea",
+      "name": "Battle of Chaeronea",
       "style": "backgroundBattle",
       "timespan": {
         "start": "8/338 BC",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "name": "Battle Of the Granicus",
+      "name": "Battle of the Granicus",
       "style": "backgroundBattle",
       "timespan": {
         "start": "5/3/334 BC",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "name": "Battle Of Issus",
+      "name": "Battle of Issus",
       "style": "backgroundBattle",
       "timespan": {
         "start": "11/5/333 BC",
@@ -140,7 +140,7 @@
       }
     },
     {
-      "name": "Battle Of Gaugamela",
+      "name": "Battle of Gaugamela",
       "style": "backgroundBattle",
       "timespan": {
         "start": "10/1/331 BC",
@@ -986,7 +986,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of Marathon",
+                  "name": "Battle of Marathon",
                   "style": "backgroundBattle",
                   "timespan": {
                     "start": "8/490 BC",
@@ -1092,7 +1092,7 @@
               }
             },
             {
-              "name": "Battle Of Chaeronea",
+              "name": "Battle of Chaeronea",
               "style": "backgroundBattle",
               "timespan": {
                 "start": "8/338 BC",
@@ -1100,7 +1100,7 @@
               }
             },
             {
-              "name": "Battle Of the Granicus",
+              "name": "Battle of the Granicus",
               "style": "backgroundBattle",
               "timespan": {
                 "start": "5/3/334 BC",
@@ -1108,7 +1108,7 @@
               }
             },
             {
-              "name": "Battle Of Issus",
+              "name": "Battle of Issus",
               "style": "backgroundBattle",
               "timespan": {
                 "start": "11/5/333 BC",
@@ -1116,7 +1116,7 @@
               }
             },
             {
-              "name": "Battle Of Gaugamela",
+              "name": "Battle of Gaugamela",
               "style": "backgroundBattle",
               "timespan": {
                 "start": "10/1/331 BC",
@@ -1218,7 +1218,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of Chaeronea",
+                  "name": "Battle of Chaeronea",
                   "style": "victory",
                   "timespan": {
                     "start": "8/338 BC",
@@ -1247,7 +1247,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of the Granicus",
+                  "name": "Battle of the Granicus",
                   "style": "victory",
                   "timespan": {
                     "start": "5/3/334 BC",
@@ -1255,7 +1255,7 @@
                   }
                 },
                 {
-                  "name": "Battle Of Issus",
+                  "name": "Battle of Issus",
                   "style": "victory",
                   "timespan": {
                     "start": "11/5/333 BC",
@@ -1263,7 +1263,7 @@
                   }
                 },
                 {
-                  "name": "Battle Of Gaugamela",
+                  "name": "Battle of Gaugamela",
                   "style": "victory",
                   "timespan": {
                     "start": "10/1/331 BC",
@@ -1464,7 +1464,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of Mursa Major",
+                  "name": "Battle of Mursa Major",
                   "style": "victory",
                   "timespan": {
                     "start": "9/28/351",
@@ -1586,7 +1586,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of Mursa Major",
+                  "name": "Battle of Mursa Major",
                   "style": "defeat",
                   "timespan": {
                     "start": "9/28/351",
@@ -1640,7 +1640,7 @@
               ],
               "foregroundEvents": [
                 {
-                  "name": "Battle Of Strasbourg",
+                  "name": "Battle of Strasbourg",
                   "style": "victory",
                   "timespan": {
                     "start": "6/357",
