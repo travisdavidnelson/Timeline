@@ -225,9 +225,33 @@
       }
     },
     {
+      "name": "Battle of the Granicus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/3/334 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Issus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/5/333 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Gaugamela",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/1/331 BC",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
-        "start": "330 BC",
+        "start": "10/1/331 BC",
         "end": "6/323 BC"
       },
       "style": "macedon"

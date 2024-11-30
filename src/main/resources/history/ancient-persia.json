@@ -163,12 +163,36 @@
       }
     },
     {
+      "name": "Battle of the Granicus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/3/334 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Issus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/5/333 BC",
+        "duration": "1d"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
-        "start": "330 BC",
+        "start": "10/1/331 BC",
         "end": "6/323 BC"
       },
       "style": "macedon"
+    },
+    {
+      "name": "Battle of Gaugamela",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/1/331 BC",
+        "duration": "1d"
+      }
     },
     {
       "name": "Seleucid Empire",
@@ -596,11 +620,99 @@
           "name": "Achaemenid II",
           "backgroundEvents": [
             {
+              "name": "Achaemenid Empire",
+              "timespan": {
+                "start": "550 BC",
+                "end": "10/1/331 BC"
+              },
+              "style": "achaemenid"
+            },
+            {
+              "name": "Battle of Passargadae",
+              "style": "backgroundCivilWar",
+              "timespan": {
+                "start": "550 BC",
+                "end": "550 BC"
+              }
+            },
+            {
+              "name": "Sogdian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "546 BC",
+                "end": "539 BC"
+              }
+            },
+            {
+              "name": "Neo-Babylonian War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "540 BC",
+                "end": "10/12/539 BC"
+              }
+            },
+            {
+              "name": "Massagetae War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "530 BC",
+                "end": "12/4/530 BC"
+              }
+            },
+            {
+              "name": "Egyptian War",
+              "style": "backgroundForeignWar",
+              "timespan": {
+                "start": "526 BC",
+                "end": "5/525 BC"
+              }
+            },
+            {
+              "name": "Battle of Pelusium",
+              "style": "backgroundForeignWarVictory",
+              "timespan": {
+                "start": "525 BC",
+                "end": "5/525 BC"
+              }
+            },
+            {
+              "name": "Rebellion in Persia",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "522 BC",
+                "end": "522 BC"
+              }
+            },
+            {
               "name": "Revolution of Darius",
               "style": "backgroundRevolution",
               "timespan": {
-                "start": "9/522 BC",
-                "end": "9/522 BC"
+                "start": "522 BC",
+                "end": "522 BC"
+              }
+            },
+            {
+              "name": "Battle of the Granicus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/3/334 BC",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Issus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/5/333 BC",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle of Gaugamela",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/1/331 BC",
+                "duration": "1d"
               }
             }
           ],
@@ -771,6 +883,24 @@
                   "timespan": {
                     "start": "336 BC",
                     "end": "7/330 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Issus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/5/333 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Gaugamela",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/1/331 BC",
+                    "duration": "1d"
                   }
                 }
               ]

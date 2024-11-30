@@ -41,7 +41,7 @@
       "name": "Achaemenid Empire",
       "timespan": {
         "start": "546 BC",
-        "end": "330 BC"
+        "end": "10/1/331 BC"
       },
       "style": "achaemenid"
     },
@@ -107,6 +107,30 @@
       "timespan": {
         "start": "6/479 BC",
         "end": "6/479 BC"
+      }
+    },
+    {
+      "name": "Battle of the Granicus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/3/334 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Issus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/5/333 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle of Gaugamela",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/1/331 BC",
+        "duration": "1d"
       }
     },
     {
