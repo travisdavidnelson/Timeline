@@ -776,6 +776,26 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Avesta",
+          "backgroundEvents": [
+          ],
+          "people" : [
+            {
+              "name": "Zoroaster",
+              "style": "prophet",
+              "timespan": {
+                "startApproximate": true,
+                "start": "612 BC",
+                "endApproximate": true,
+                "end": "535 BC"
+              },
+              "importance": "major",
+              "titles": [
+              ]
+            }
+          ]
         }
       ]
     }
