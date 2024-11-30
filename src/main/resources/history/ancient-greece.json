@@ -110,10 +110,42 @@
     {
       "name": "Macedonian Empire",
       "timespan": {
-        "start": "330 BC",
+        "start": "8/338 BC",
         "end": "6/323 BC"
       },
       "style": "macedon"
+    },
+    {
+      "name": "Battle Of Chaeronea",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "8/338 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle Of the Granicus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "5/3/334 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle Of Issus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/5/333 BC",
+        "duration": "1d"
+      }
+    },
+    {
+      "name": "Battle Of Gaugamela",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "10/1/331 BC",
+        "duration": "1d"
+      }
     },
     {
       "name": "Hellenistic Greece",
@@ -1060,6 +1092,38 @@
               }
             },
             {
+              "name": "Battle Of Chaeronea",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/338 BC",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle Of the Granicus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "5/3/334 BC",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle Of Issus",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/5/333 BC",
+                "duration": "1d"
+              }
+            },
+            {
+              "name": "Battle Of Gaugamela",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "10/1/331 BC",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Death of Alexander",
               "style": "backgroundNationalCalamity",
               "timespan": {
@@ -1151,12 +1215,23 @@
                     "end": "336 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle Of Chaeronea",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/338 BC",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
-              "name": "Alexander The Great",
+              "name": "Alexander III",
               "style": "macedon",
               "importance": "transformational",
+              "annotation": "The Great",
               "timespan": {
                 "start": "7/20/356 BC",
                 "end": "6/11/323 BC"
