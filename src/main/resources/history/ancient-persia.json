@@ -692,6 +692,54 @@
               }
             },
             {
+              "name": "First Persian Invasion of Greece",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "492 BC",
+                "end": "9/490 BC"
+              }
+            },
+            {
+              "name": "Battle of Marathon",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/490 BC",
+                "end": "9/490 BC"
+              }
+            },
+            {
+              "name": "Second Persian Invasion of Greece",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "480 BC",
+                "end": "6/479 BC"
+              }
+            },
+            {
+              "name": "Battle of Thermopylae",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/480 BC",
+                "end": "8/480 BC"
+              }
+            },
+            {
+              "name": "Battle of Salamis",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/480 BC",
+                "end": "9/480 BC"
+              }
+            },
+            {
+              "name": "Battles of Plataea and Mycale",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "6/479 BC",
+                "end": "6/479 BC"
+              }
+            },
+            {
               "name": "Battle of the Granicus",
               "style": "backgroundBattle",
               "timespan": {
@@ -734,6 +782,16 @@
                     "end": "10/486 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                }
               ]
             },
             {
@@ -750,6 +808,32 @@
                   "timespan": {
                     "start": "10/486 BC",
                     "end": "8/465 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Thermopylae",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "8/480 BC",
+                    "end": "8/480 BC"
+                  }
+                },
+                {
+                  "name": "Battle of Salamis",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/480 BC",
+                    "end": "9/480 BC"
+                  }
+                },
+                {
+                  "name": "Battles of Plataea and Mycale",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/479 BC",
+                    "end": "6/479 BC"
                   }
                 }
               ]
