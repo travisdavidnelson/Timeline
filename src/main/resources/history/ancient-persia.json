@@ -19,6 +19,22 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Sack of Nineveh",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "613 BC",
+        "duration": "2m"
+      }
+    },
+    {
+      "name": "Fall Of Harran",
+      "timespan": {
+        "start": "610 BC",
+        "duration": "2m"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Median Empire",
       "timespan": {
         "start": "609 BC",
@@ -322,6 +338,24 @@
                     "end": "12/585 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sack of Nineveh",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "613 BC",
+                    "duration": "2m"
+                  }
+                },
+                {
+                  "name": "Fall Of Harran",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "610 BC",
+                    "duration": "2m"
+                  }
+                }
               ]
             },
             {
@@ -411,6 +445,22 @@
                 "end": "609 BC"
               },
               "style": "backgroundWar"
+            },
+            {
+              "name": "Sack of Nineveh",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "613 BC",
+                "duration": "2m"
+              }
+            },
+            {
+              "name": "Fall Of Harran",
+              "timespan": {
+                "start": "610 BC",
+                "duration": "2m"
+              },
+              "style": "backgroundBattle"
             },
             {
               "name": "War with Media",
