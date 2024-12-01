@@ -250,14 +250,14 @@
               "style": "backgroundBattle",
               "timespan": {
                 "start": "613 BC",
-                "end": "612 BC"
+                "duration": "2m"
               }
             },
             {
               "name": "Fall Of Harran",
               "timespan": {
                 "start": "610 BC",
-                "end": "609 BC"
+                "duration": "2m"
               },
               "style": "backgroundBattle"
             },
@@ -411,14 +411,6 @@
                 "end": "609 BC"
               },
               "style": "backgroundWar"
-            },
-            {
-              "name": "Sack of Nineveh",
-              "style": "backgroundBattle",
-              "timespan": {
-                "start": "613 BC",
-                "end": "612 BC"
-              }
             },
             {
               "name": "War with Media",
