@@ -44,10 +44,10 @@
     },
     {
       "name": "Battle of Passargadae",
-      "style": "backgroundCivilWar",
+      "style": "backgroundBattle",
       "timespan": {
         "start": "550 BC",
-        "end": "550 BC"
+        "duration": "1m"
       }
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "name": "Egyptian War",
-      "style": "backgroundForeignWar",
+      "style": "backgroundWar",
       "timespan": {
         "start": "526 BC",
         "end": "5/525 BC"
@@ -84,7 +84,7 @@
     },
     {
       "name": "Battle of Pelusium",
-      "style": "backgroundForeignWarVictory",
+      "style": "backgroundBattle",
       "timespan": {
         "start": "525 BC",
         "end": "5/525 BC"
@@ -108,7 +108,7 @@
     },
     {
       "name": "Scythian Campaign of Darius I",
-      "style": "backgroundForeignWar",
+      "style": "backgroundWar",
       "timespan": {
         "start": "514 BC",
         "end": "513 BC"
@@ -247,7 +247,7 @@
             },
             {
               "name": "Sack of Nineveh",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "613 BC",
                 "end": "612 BC"
@@ -259,7 +259,7 @@
                 "start": "610 BC",
                 "end": "609 BC"
               },
-              "style": "backgroundForeignWarVictory"
+              "style": "backgroundBattle"
             },
             {
               "name": "Persian-Lydian War",
@@ -290,7 +290,7 @@
               "style": "backgroundNationalCalamity",
               "timespan": {
                 "start": "550 BC",
-                "end": "550 BC"
+                "duration": "1w"
               }
             }
           ],
@@ -367,6 +367,16 @@
                     "end": "540 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Passargadae",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "550 BC",
+                    "duration": "1w"
+                  }
+                }
               ]
             }
           ]
@@ -404,7 +414,7 @@
             },
             {
               "name": "Sack of Nineveh",
-              "style": "backgroundForeignWarDefeat",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "613 BC",
                 "end": "612 BC"
@@ -412,7 +422,7 @@
             },
             {
               "name": "War with Media",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "553 BC",
                 "end": "550 BC"
@@ -420,15 +430,15 @@
             },
             {
               "name": "Battle of Passargadae",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "550 BC",
-                "end": "550 BC"
+                "duration": "1m"
               }
             },
             {
               "name": "Sogdian War",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "546 BC",
                 "end": "539 BC"
@@ -436,7 +446,7 @@
             },
             {
               "name": "Neo-Babylonian War",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "540 BC",
                 "end": "10/12/539 BC"
@@ -444,7 +454,7 @@
             },
             {
               "name": "Massagetae War",
-              "style": "backgroundForeignWarDefeat",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "530 BC",
                 "end": "12/4/530 BC"
@@ -452,7 +462,7 @@
             },
             {
               "name": "Egyptian War",
-              "style": "backgroundForeignWar",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "526 BC",
                 "end": "5/525 BC"
@@ -460,7 +470,7 @@
             },
             {
               "name": "Battle of Pelusium",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "525 BC",
                 "end": "5/525 BC"
@@ -565,6 +575,16 @@
                     "end": "12/4/530 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Passargadae",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "550 BC",
+                    "duration": "1w"
+                  }
+                }
               ]
             },
             {
@@ -620,19 +640,11 @@
           "name": "Achaemenid II",
           "backgroundEvents": [
             {
-              "name": "Achaemenid Empire",
-              "timespan": {
-                "start": "550 BC",
-                "end": "10/1/331 BC"
-              },
-              "style": "achaemenid"
-            },
-            {
               "name": "Battle of Passargadae",
-              "style": "backgroundCivilWar",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "550 BC",
-                "end": "550 BC"
+                "duration": "1m"
               }
             },
             {
@@ -661,7 +673,7 @@
             },
             {
               "name": "Egyptian War",
-              "style": "backgroundForeignWar",
+              "style": "backgroundWar",
               "timespan": {
                 "start": "526 BC",
                 "end": "5/525 BC"
@@ -669,7 +681,7 @@
             },
             {
               "name": "Battle of Pelusium",
-              "style": "backgroundForeignWarVictory",
+              "style": "backgroundBattle",
               "timespan": {
                 "start": "525 BC",
                 "end": "5/525 BC"
