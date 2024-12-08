@@ -12,7 +12,7 @@
     "bottomYearOffset": 80,
     "defaultPersonStyle": "human",
     "pixelsPerYear": 10,
-    "heightInPixels": 30000,
+    "heightInPixels": 35000,
     "xStart": 200,
     "yTimelineStart": 100,
     "majorTickHalfLength": 40,
