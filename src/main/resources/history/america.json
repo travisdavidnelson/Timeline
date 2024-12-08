@@ -6022,6 +6022,14 @@
                   }
                 },
                 {
+                  "name": "Indictment of Donald Trump",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "6/8/2023",
+                    "end": "8/1/2023"
+                  }
+                },
+                {
                   "name": "Withdrawal of Joe Biden from the 2024 United States presidential election",
                   "style": "defeat",
                   "timespan": {
