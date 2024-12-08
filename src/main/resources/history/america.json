@@ -5156,6 +5156,14 @@
                     "start": "11/3/1964",
                     "duration": "1d"
                   }
+                },
+                {
+                  "name": "Withdrawal of Lyndon B. Johnson from the 1968 United States presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "3/31/1968",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
