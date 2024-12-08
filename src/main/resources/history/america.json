@@ -6014,6 +6014,14 @@
                   }
                 },
                 {
+                  "name": "Withdrawal of Joe Biden from the 2024 United States presidential election",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/21/2024",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "defeat",
                   "timespan": {
