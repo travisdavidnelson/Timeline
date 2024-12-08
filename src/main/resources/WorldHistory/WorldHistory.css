@@ -1,21 +1,21 @@
-.year {font-family: serif; font-size: 80px; kerning: 0; stroke:none; fill:#000000;}
-.yearMajor {font-family: serif; font-size: 100px; kerning: 0; stroke:none; fill:#000000;}
-.yearMinor {font-family: serif; font-size: 50px; kerning: 0; stroke:none; fill:#000000;}
-.timeline {stroke-width: 1.0; stroke: black}
+.year {font-family: serif; font-size: 800px; kerning: 0; stroke:none; fill:#000000;}
+.yearMajor {font-family: serif; font-size: 1000px; kerning: 0; stroke:none; fill:#000000;}
+.yearMinor {font-family: serif; font-size: 500px; kerning: 0; stroke:none; fill:#000000;}
+.timeline {stroke-width: 10.0; stroke: black}
 
 .human {fill:#f8df6c; stroke:black; stroke-width:0.1; fill-opacity:0.2; box-shadow: -5px -5px 5px #888;}
 
 .fate {fill-opacity:0.0}
 
 .channel {font-family: serif; font-size: 800px; fill:#000000; fill-opacity:0.3 }
-.dynasty {font-family: serif; font-size: 110px; fill:#000000; fill-opacity:0.6}
+.dynasty {font-family: serif; font-size: 1100px; fill:#000000; fill-opacity:0.6}
 
 .footprint {fill:white; fill-opacity:1.0; font-family: serif; stroke:none;}
-.transformational {font-family: serif; font-size: 100px; kerning: 2; stroke:none; fill:#000000;}
-.major {font-family: serif; font-size: 74px; kerning: 1; stroke:none; fill:#000000;}
-.semimajor {font-family: serif; font-size: 44px; kerning: 1; stroke:none; fill:#000000;}
-.minor {font-family: serif; font-size: 26px; kerning: 1; stroke:none; fill:#000000;}
-.petty {font-family: serif; font-size: 16px; kerning: 1; stroke:none; fill:#000000;}
+.transformational {font-family: serif; font-size: 1000px; kerning: 2; stroke:none; fill:#000000;}
+.major {font-family: serif; font-size: 740px; kerning: 1; stroke:none; fill:#000000;}
+.semimajor {font-family: serif; font-size: 440px; kerning: 1; stroke:none; fill:#000000;}
+.minor {font-family: serif; font-size: 260px; kerning: 1; stroke:none; fill:#000000;}
+.petty {font-family: serif; font-size: 160px; kerning: 1; stroke:none; fill:#000000;}
 
 .achaemenid {fill:purple;fill-opacity:0.5}
 .achaemenidClient {fill:purple;fill-opacity:0.3}
