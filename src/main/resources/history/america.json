@@ -106,12 +106,28 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Korean War",
+      "timespan": {
+        "start": "6/25/1950",
+        "end": "7/27/1953"
+      },
+      "style": "backgroundForeignWar"
+    },
+    {
       "name": "1957-1958 influenza pandemic",
       "timespan": {
         "start": "1957",
         "end": "1958"
       },
       "style": "backgroundPlagueMinor"
+    },
+    {
+      "name": "Vietnam War",
+      "timespan": {
+        "start": "8/7/1964",
+        "end": "1/13/1973"
+      },
+      "style": "backgroundForeignWar"
     },
     {
       "name": "Hong King Flu",
@@ -4676,15 +4692,6 @@
             {
               "name": "Vietnam War",
               "timespan": {
-                "startApproximate": "true",
-                "start": "1963",
-                "end": "8/7/1964"
-              },
-              "style": "backgroundForeignWarMinor"
-            },
-            {
-              "name": "Vietnam War",
-              "timespan": {
                 "start": "8/7/1964",
                 "end": "1/13/1973"
               },
@@ -5154,6 +5161,14 @@
                   "style": "victory",
                   "timespan": {
                     "start": "11/3/1964",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Gulf of Tonkin Incident",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "8/2/1964",
                     "duration": "1d"
                   }
                 },
