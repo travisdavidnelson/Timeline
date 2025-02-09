@@ -64,6 +64,15 @@
         "start": "4/363",
         "end": "8/363"
       }
+    },
+    {
+      "name": "Byzantine–Sassanian War of 602–628",
+      "style": "backgroundWar",
+      "timespan": {
+        "startApproximate": true,
+        "start": "602",
+        "end": "628"
+      }
     }
   ],
   "dynastyGroups": [
