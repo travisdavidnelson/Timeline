@@ -807,6 +807,68 @@
   ],
   "dynastyGroups": [
     {
+      "name": "Sparta",
+      "yStart": 0,
+      "backgroundEvents": [
+
+      ],
+      "dynasties": [
+        {
+          "name": "Sparta Legelid",
+          "people": [
+            {
+              "name": "Lelex",
+              "style": "greek",
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1620 BC",
+                    "endApproximate": "true",
+                    "end": "1580 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Myles",
+              "style": "greek",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1580 BC",
+                    "endApproximate": "true",
+                    "end": "1560 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Eurotas",
+              "style": "greek",
+              "importance": "petty",
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "startApproximate": "true",
+                    "start": "1560 BC",
+                    "endApproximate": "true",
+                    "end": "1540 BC"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Athens",
       "yStart": 0,
       "dynasties": [
