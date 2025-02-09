@@ -78,6 +78,16 @@
   "dynastyGroups": [
     {
       "name": "Sassanid Empire",
+      "backgroundEvents": [
+        {
+          "name": "Sasanian civil war of 628-632",
+          "style": "backgroundWar",
+          "timespan": {
+            "start": "628",
+            "end": "632"
+          }
+        }
+      ],
       "dynasties": [
         {
           "name": "Sassanid Shahanshah",
@@ -161,6 +171,14 @@
                 "startApproximate": true,
                 "start": "602",
                 "end": "628"
+              }
+            },
+            {
+              "name": "Sasanian civil war of 628-632",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "628",
+                "end": "632"
               }
             }
           ],
