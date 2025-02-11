@@ -73,6 +73,14 @@
         "start": "602",
         "end": "628"
       }
+    },
+    {
+      "name": "Battle of Nineveh (627)",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/12/627",
+        "duration": "1d"
+      }
     }
   ],
   "dynastyGroups": [
@@ -85,6 +93,14 @@
           "timespan": {
             "start": "628",
             "end": "632"
+          }
+        },
+        {
+          "name": "Battle of Nineveh (627)",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "12/12/627",
+            "duration": "1d"
           }
         }
       ],
@@ -179,6 +195,14 @@
               "timespan": {
                 "start": "628",
                 "end": "632"
+              }
+            },
+            {
+              "name": "Battle of Nineveh (627)",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "12/12/627",
+                "duration": "1d"
               }
             }
           ],
@@ -638,6 +662,16 @@
                   "timespan": {
                     "start": "591",
                     "end": "2/28/628"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Nineveh (627)",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "12/12/627",
+                    "duration": "1d"
                   }
                 }
               ]

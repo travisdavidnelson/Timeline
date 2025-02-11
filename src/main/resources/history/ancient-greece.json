@@ -2347,6 +2347,14 @@
             "start": "602",
             "end": "628"
           }
+        },
+        {
+          "name": "Battle of Nineveh (627)",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "12/12/627",
+            "duration": "1d"
+          }
         }
       ],
       "dynasties": [
@@ -2368,6 +2376,16 @@
                   "timespan": {
                     "start": "610",
                     "end": "641"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Nineveh (627)",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/12/627",
+                    "duration": "1d"
                   }
                 }
               ]
