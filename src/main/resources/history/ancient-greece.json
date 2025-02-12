@@ -645,11 +645,20 @@
       "style": "backgroundPlagueMajor"
     },
     {
+      "name": "Byzantine–Sassanian War of 602–628",
+      "style": "backgroundWar",
+      "timespan": {
+        "startApproximate": true,
+        "start": "602",
+        "end": "628"
+      }
+    },
+    {
       "name": "Siege of Constantinople (626)",
       "style": "backgroundSiege",
       "timespan": {
-        "start": "6/626",
-        "duration": "2m"
+        "start": "6/29/626",
+        "end": "8/7/626"
       }
     },
     {
@@ -2410,15 +2419,6 @@
       "name": "Eastern Roman Empire",
       "yStart": 0,
       "backgroundEvents": [
-        {
-          "name": "Byzantine–Sassanian War of 602–628",
-          "style": "backgroundWar",
-          "timespan": {
-            "startApproximate": true,
-            "start": "602",
-            "end": "628"
-          }
-        },
         {
           "name": "Revolt against Maurice",
           "style": "backgroundRevolt",
