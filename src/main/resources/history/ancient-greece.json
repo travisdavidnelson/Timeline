@@ -2294,7 +2294,7 @@
               "style": "roman",
               "timespan": {
                 "start": "539",
-                "end": "602"
+                "end": "11/27/602"
               },
               "importance": "semimajor",
               "titles": [
@@ -2302,7 +2302,17 @@
                   "name": "augustus",
                   "timespan": {
                     "start": "582",
-                    "end": "602"
+                    "end": "11/27/602"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Revolt against Maurice",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "11/602",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -2318,15 +2328,40 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "550",
-                "end": "610"
+                "end": "10/610"
               },
               "importance": "minor",
               "titles": [
                 {
-                  "name": "augustus",
+                  "name": "rebel",
                   "timespan": {
                     "start": "602",
-                    "end": "610"
+                    "end": "11/23/602"
+                  }
+                },
+                {
+                  "name": "augustus",
+                  "timespan": {
+                    "start": "11/23/602",
+                    "end": "10/610"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Revolt against Maurice",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/602",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Heraclian revolt",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/610",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -2349,6 +2384,22 @@
           }
         },
         {
+          "name": "Revolt against Maurice",
+          "style": "backgroundRevolt",
+          "timespan": {
+            "start": "602",
+            "end": "11/27/602"
+          }
+        },
+        {
+          "name": "Heraclian Revolt",
+          "style": "backgroundRevolt",
+          "timespan": {
+            "start": "608",
+            "end": "10/3/610"
+          }
+        },
+        {
           "name": "Battle of Nineveh (627)",
           "style": "backgroundBattle",
           "timespan": {
@@ -2362,7 +2413,43 @@
           "name": "Heraclians",
           "people": [
             {
-              "name": "Heraclius",
+              "name": "Heraclius the Elder",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "555",
+                "end": "11/610"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "586",
+                    "end": "11/610"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "608",
+                    "end": "10/610"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Heraclian revolt",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/610",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Heraclius the Younger",
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
@@ -2372,14 +2459,29 @@
               "importance": "major",
               "titles": [
                 {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "608",
+                    "end": "10/610"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
-                    "start": "610",
+                    "start": "10/610",
                     "end": "641"
                   }
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Heraclian revolt",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/610",
+                    "duration": "1m"
+                  }
+                },
                 {
                   "name": "Battle of Nineveh (627)",
                   "style": "victory",
