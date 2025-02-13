@@ -1993,7 +1993,7 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Eastern Roman Empire",
+          "name": "Eastern Empire",
           "people": [
             {
               "name": "Leo I the Thracian",
@@ -2329,7 +2329,7 @@
           ]
         },
         {
-          "name": "Non-dynastic",
+          "name": "Transitional",
           "people": [
             {
               "name": "Phocas",
@@ -2368,42 +2368,6 @@
                 {
                   "name": "Heraclian revolt",
                   "style": "defeat",
-                  "timespan": {
-                    "start": "10/610",
-                    "duration": "1m"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Heraclius the Elder",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "555",
-                "end": "11/610"
-              },
-              "importance": "minor",
-              "titles": [
-                {
-                  "name": "general",
-                  "timespan": {
-                    "start": "586",
-                    "end": "11/610"
-                  }
-                },
-                {
-                  "name": "rebel",
-                  "timespan": {
-                    "start": "608",
-                    "end": "10/610"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Heraclian revolt",
-                  "style": "victory",
                   "timespan": {
                     "start": "10/610",
                     "duration": "1m"
@@ -2449,7 +2413,43 @@
           "name": "Heraclians",
           "people": [
             {
-              "name": "Heraclius the Younger",
+              "name": "Heraclius the Elder",
+              "style": "roman",
+              "timespan": {
+                "startApproximate": true,
+                "start": "555",
+                "end": "11/610"
+              },
+              "importance": "minor",
+              "titles": [
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "586",
+                    "end": "11/610"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "608",
+                    "end": "10/610"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Heraclian revolt",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/610",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Heraclius",
               "style": "roman",
               "timespan": {
                 "startApproximate": true,
@@ -2882,7 +2882,7 @@
           ]
         },
         {
-          "name": "Non-dynastic",
+          "name": "Transitional",
           "people": [
             {
               "name": "Leo V the Armenian",
