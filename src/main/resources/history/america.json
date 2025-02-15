@@ -26,6 +26,14 @@
       "style": "americanRepublicWeak"
     },
     {
+      "name": "Louisiana Purchase",
+      "timespan": {
+        "start": "3/1804",
+        "duration": "1m"
+      },
+      "style": "victory"
+    },
+    {
       "name": "Constitutional Republic",
       "timespan": {
         "start": "4/1865",
@@ -890,8 +898,8 @@
             {
               "name": "Louisiana Purchase",
               "timespan": {
-                "start": "12/20/1803",
-                "end": "3/10/1804"
+                "start": "3/1804",
+                "duration": "1m"
               },
               "style": "victory"
             },
@@ -1434,11 +1442,11 @@
                 },
                 {
                   "name": "Louisiana Purchase",
-                  "style": "notableWork",
                   "timespan": {
-                    "start": "4/30/1803",
-                    "end": "12/20/1803"
-                  }
+                    "start": "3/1804",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
                 },
                 {
                   "name": "U.S. presidential election",
@@ -1662,8 +1670,8 @@
             {
               "name": "Louisiana Purchase",
               "timespan": {
-                "start": "12/20/1803",
-                "end": "3/10/1804"
+                "start": "3/1804",
+                "duration": "1m"
               },
               "style": "victory"
             },
@@ -3640,8 +3648,8 @@
             {
               "name": "Louisiana Purchase",
               "timespan": {
-                "start": "12/20/1803",
-                "end": "3/10/1804"
+                "start": "3/1804",
+                "duration": "1m"
               },
               "style": "victory"
             },
