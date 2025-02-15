@@ -1635,7 +1635,8 @@
                 "start": "1943 BC",
                 "endApproximate": true,
                 "end": "1940 BC"
-              }
+              },
+              "style": "backgroundNationalCalamity"
             }
           ],
           "people": [
