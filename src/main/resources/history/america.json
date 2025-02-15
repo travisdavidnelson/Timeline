@@ -2627,6 +2627,14 @@
                   }
                 },
                 {
+                  "name": "Battle of Sharpsburg",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/17/1862",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Chancellorsville",
                   "style": "victory",
                   "timespan": {
