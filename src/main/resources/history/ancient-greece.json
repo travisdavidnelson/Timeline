@@ -525,6 +525,14 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Battle of Strasbourg",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "6/357",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Julian's Persian expedition",
       "timespan": {
         "start": "4/363",
