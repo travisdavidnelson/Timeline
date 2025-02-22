@@ -908,6 +908,18 @@
         {
           "pageBreak": true,
           "name": "Athens Democrats",
+          "backgroundEvents": [
+            {
+              "name": "Draconian Constitution",
+              "style": "backgroundConstitutionalSettlement",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "620 BC",
+                "endApproximate": "true",
+                "end": "625 BC"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Draco",
@@ -955,6 +967,18 @@
         },
         {
           "name": "Athens Peisistratids",
+          "backgroundEvents": [
+            {
+              "name": "Draconian Constitution",
+              "style": "backgroundConstitutionalSettlement",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "620 BC",
+                "endApproximate": "true",
+                "end": "625 BC"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Peisistratos",
