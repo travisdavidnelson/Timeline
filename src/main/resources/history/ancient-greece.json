@@ -910,6 +910,26 @@
           "name": "Athens Democrats",
           "people": [
             {
+              "name": "Draco",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "650 BC",
+                "end": "600 BC"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Draconian Constitution",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "620 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Solon",
               "style": "greek",
               "importance": "major",
