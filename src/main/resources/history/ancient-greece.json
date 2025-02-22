@@ -950,7 +950,26 @@
                 "start": "630 BC",
                 "endApproximate": "true",
                 "end": "560 BC"
-              }
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "594 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Defeat of Megara",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "595 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
             },
             {
               "name": "Cleisthenes",
