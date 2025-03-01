@@ -7050,43 +7050,6 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "Francis Drake",
-              "style": "english",
-              "importance": "major",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "1540",
-                "end": "1/28/1596"
-              },
-              "titles": [
-                {
-                  "name": "captain",
-                  "timespan": {
-                    "start": "1563",
-                    "end": "1/28/1596"
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Circumnavigation",
-                  "style": "exploration",
-                  "timespan": {
-                    "start": "1577",
-                    "end": "1580"
-                  }
-                },
-                {
-                  "name": "Spanish Armada",
-                  "style": "victory",
-                  "timespan": {
-                    "start": "7/1588",
-                    "duration": "2m"
-                  }
-                }
-              ]
             }
           ]
         }
@@ -9683,7 +9646,103 @@
           "name": "Cultural",
           "people": [
             {
+              "name": "Francis Drake",
               "pageBreak": true,
+              "style": "english",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1540",
+                "end": "1/28/1596"
+              },
+              "titles": [
+                {
+                  "name": "captain",
+                  "timespan": {
+                    "start": "1563",
+                    "end": "1/28/1596"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Circumnavigation",
+                  "style": "exploration",
+                  "timespan": {
+                    "start": "1577",
+                    "end": "1580"
+                  }
+                },
+                {
+                  "name": "Spanish Armada",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/1588",
+                    "duration": "2m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Walter Raleigh",
+              "style": "english",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "1553",
+                "end": "10/29/1618"
+              },
+              "titles": [
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1584",
+                    "end": "1587"
+                  }
+                },
+                {
+                  "name": "memberParliament",
+                  "timespan": {
+                    "start": "1597",
+                    "end": "1598"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "1600",
+                    "end": "1603"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Secret marriage to Elizabeth Throckmorton",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "10/1591",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Main Plot",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "7/1603",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Violation of treaty with Spain",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "1617",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Francis Bacon",
               "style": "english",
               "importance": "major",
