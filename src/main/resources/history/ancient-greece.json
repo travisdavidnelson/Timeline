@@ -108,6 +108,22 @@
       }
     },
     {
+      "name": "Corinthian War",
+      "style": "backgroundWar",
+      "timespan": {
+        "start": "395 BC",
+        "end": "387 BC"
+      }
+    },
+    {
+      "name": "Battle of Cnidus",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "394 BC",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Macedonian Empire",
       "timespan": {
         "start": "8/338 BC",

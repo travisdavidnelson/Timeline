@@ -254,6 +254,22 @@
             "start": "9/3/401 BC",
             "duration": "1d"
           }
+        },
+        {
+          "name": "Corinthian War",
+          "style": "backgroundWar",
+          "timespan": {
+            "start": "395 BC",
+            "end": "387 BC"
+          }
+        },
+        {
+          "name": "Battle of Cnidus",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "394 BC",
+            "duration": "1m"
+          }
         }
       ],
       "dynasties": [
