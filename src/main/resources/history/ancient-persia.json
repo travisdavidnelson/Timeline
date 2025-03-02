@@ -270,6 +270,30 @@
             "start": "394 BC",
             "duration": "1m"
           }
+        },
+        {
+          "name": "Cadusian campaign of Artaxerxes II",
+          "style": "backgroundWar",
+          "timespan": {
+            "start": "385 BC",
+            "duration": "1y"
+          }
+        },
+        {
+          "name": "Egyptian campaign",
+          "style": "backgroundWar",
+          "timespan": {
+            "start": "373 BC",
+            "duration": "1y"
+          }
+        },
+        {
+          "name": "Great Satraps Revolt",
+          "style": "backgroundRebellion",
+          "timespan": {
+            "start": "372 BC",
+            "end": "362 BC"
+          }
         }
       ],
       "dynasties": [
