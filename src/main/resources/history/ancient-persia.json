@@ -240,6 +240,14 @@
       "name": "Medes & Persians",
       "backgroundEvents": [
         {
+          "name": "Rebellion of Cyrus the Younger",
+          "style": "backgroundRebellion",
+          "timespan": {
+            "start": "4/401 BC",
+            "end": "9/3/401 BC"
+          }
+        },
+        {
           "name": "Battle of Cunaxa",
           "style": "backgroundBattle",
           "timespan": {
@@ -802,6 +810,22 @@
               }
             },
             {
+              "name": "Rebellion of Cyrus the Younger",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "4/401 BC",
+                "end": "9/3/401 BC"
+              }
+            },
+            {
+              "name": "Battle of Cunaxa",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "9/3/401 BC",
+                "duration": "1d"
+              }
+            },
+            {
               "name": "Battle of the Granicus",
               "style": "backgroundBattle",
               "timespan": {
@@ -967,6 +991,13 @@
                 "end": "358 BC"
               },
               "titles": [
+                {
+                  "name": "satrap",
+                  "timespan": {
+                    "start": "408 BC",
+                    "end": "404 BC"
+                  }
+                },
                 {
                   "name": "kingOfKings",
                   "timespan": {
