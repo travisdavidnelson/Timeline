@@ -239,6 +239,14 @@
     {
       "name": "Medes & Persians",
       "backgroundEvents": [
+        {
+          "name": "Battle of Cunaxa",
+          "style": "backgroundBattle",
+          "timespan": {
+            "start": "9/3/401 BC",
+            "duration": "1d"
+          }
+        }
       ],
       "dynasties": [
         {
@@ -950,15 +958,66 @@
             },
             {
               "pageBreak": true,
-              "name": "Artaxerxes II Mnemon",
+              "name": "Artaxerxes II",
               "style": "achaemenid",
               "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "445 BC",
+                "end": "358 BC"
+              },
               "titles": [
                 {
                   "name": "kingOfKings",
                   "timespan": {
                     "start": "404 BC",
                     "end": "358 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Cunaxa",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/3/401 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cyrus the Younger",
+              "style": "achaemenid",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "424 BC",
+                "end": "9/3/401 BC"
+              },
+              "titles": [
+                {
+                  "name": "satrap",
+                  "timespan": {
+                    "start": "408 BC",
+                    "end": "9/3/401 BC"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "4/401 BC",
+                    "end": "9/3/401 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Cunaxa",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/3/401 BC",
+                    "duration": "1d"
                   }
                 }
               ]
