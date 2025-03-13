@@ -923,7 +923,7 @@
         },
         {
           "pageBreak": true,
-          "name": "Athens Democrats",
+          "name": "Athenian Empire",
           "backgroundEvents": [
             {
               "name": "Draconian Constitution",
@@ -997,24 +997,7 @@
                 "endApproximate": "true",
                 "end": "500 BC"
               }
-            }
-          ]
-        },
-        {
-          "name": "Athens Peisistratids",
-          "backgroundEvents": [
-            {
-              "name": "Draconian Constitution",
-              "style": "backgroundConstitutionalSettlement",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "620 BC",
-                "endApproximate": "true",
-                "end": "625 BC"
-              }
-            }
-          ],
-          "people": [
+            },
             {
               "name": "Peisistratos",
               "style": "greek",
