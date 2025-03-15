@@ -660,12 +660,28 @@
       "style": "backgroundNationalCalamity"
     },
     {
+      "name": "Battle of Pharsalus",
+      "timespan": {
+        "start": "8/9/48 BC",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Assassination of Julius Caesar",
       "timespan": {
         "start": "3/15/44 BC",
         "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
+    },
+    {
+      "name": "Battle of Philippi",
+      "timespan": {
+        "start": "10/42 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Battle of Teutoburg Forest",
@@ -2610,6 +2626,16 @@
                     "end": "9/28/48 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Pharsalus",
+                  "timespan": {
+                    "start": "8/9/48 BC",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                }
               ]
             },
             {
@@ -2751,7 +2777,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "86 BC",
-                "end": "42 BC"
+                "end": "10/3/42 BC"
               },
               "importance": "semimajor",
               "titles": [
@@ -2773,8 +2799,26 @@
                   "name": "exile",
                   "timespan": {
                     "start": "44 BC",
-                    "end": "42 BC"
+                    "end": "10/3/42 BC"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Assassination of Julius Caesar",
+                  "timespan": {
+                    "start": "3/15/44 BC",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Philippi",
+                  "timespan": {
+                    "start": "10/42 BC",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
                 }
               ]
             },
@@ -2783,7 +2827,7 @@
               "style": "roman",
               "timespan": {
                 "start": "85 BC",
-                "end": "42 BC"
+                "end": "10/23/42 BC"
               },
               "importance": "semimajor",
               "titles": [
@@ -2797,9 +2841,35 @@
                 {
                   "name": "exile",
                   "timespan": {
-                    "start": "44 BC",
-                    "end": "42 BC"
+                    "start": "3/15/44 BC",
+                    "end": "10/23/42 BC"
                   }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Pharsalus",
+                  "timespan": {
+                    "start": "8/9/48 BC",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
+                {
+                  "name": "Assassination of Julius Caesar",
+                  "timespan": {
+                    "start": "3/15/44 BC",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
+                  "name": "Battle of Philippi",
+                  "timespan": {
+                    "start": "10/42 BC",
+                    "duration": "1m"
+                  },
+                  "style": "defeat"
                 }
               ]
             },
@@ -3502,6 +3572,14 @@
                   }
                 },
                 {
+                  "name": "Battle of Pharsalus",
+                  "timespan": {
+                    "start": "8/9/48 BC",
+                    "duration": "1d"
+                  },
+                  "style": "victory"
+                },
+                {
                   "name": "Procession up the Nile with Cleopatra",
                   "style": "triumph",
                   "timespan": {
@@ -3522,6 +3600,14 @@
                   "style": "triumph",
                   "timespan": {
                     "start": "6/45 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Assassination of Julius Caesar",
+                  "style": "assassination",
+                  "timespan": {
+                    "start": "3/15/44 BC",
                     "duration": "1d"
                   }
                 }
@@ -3633,6 +3719,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Philippi",
+                  "timespan": {
+                    "start": "10/42 BC",
+                    "duration": "1m"
+                  },
+                  "style": "victory"
+                },
                 {
                   "name": "Battle of Actium",
                   "style": "defeat",

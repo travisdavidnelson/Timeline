@@ -267,7 +267,8 @@
 .activist 			{fill:red;		fill-opacity:0.3}
 .admiral 			{fill:#000080;	fill-opacity:0.6}
 .archbishop			{fill:purple;	fill-opacity:0.7}
-.assassinationAttempt 	{fill:red;	    fill-opacity:1.0}
+.assassination 	{fill:red;	    fill-opacity:1.0}
+.assassinationAttempt 	{fill:red;	    fill-opacity:0.8}
 .cardinal			{fill:purple;	fill-opacity:0.5}
 .bishop			    {fill:purple;	fill-opacity:0.3}
 .archon 			{fill:blue;		fill-opacity:0.7}
