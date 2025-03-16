@@ -3962,7 +3962,7 @@
                   "name": "general",
                   "timespan": {
                     "start": "37 BC",
-                    "end": "34 BC"
+                    "end": "30 BC"
                   }
                 },
                 {
@@ -3970,13 +3970,6 @@
                   "timespan": {
                     "start": "32 BC",
                     "duration": "1y"
-                  }
-                },
-                {
-                  "name": "general",
-                  "timespan": {
-                    "start": "32 BC",
-                    "end": "31 BC"
                   }
                 },
                 {
