@@ -580,6 +580,14 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Second triumvirate reign of terror",
+      "timespan": {
+        "start": "9/43 BC",
+        "end": "3/42 BC"
+      },
+      "style": "backgroundReignOfTerror"
+    },
+    {
       "name": "Battle of Philippi",
       "timespan": {
         "start": "10/42 BC",
