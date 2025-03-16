@@ -575,9 +575,17 @@
       "name": "Liberators' civil war",
       "timespan": {
         "start": "43 BC",
-        "end": "42 BC"
+        "end": "11/42 BC"
       },
       "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Philippi",
+      "timespan": {
+        "start": "10/42 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Final War of the Roman Republic",
@@ -3664,6 +3672,16 @@
                     "end": "36 BC"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Philippi",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/42 BC",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
@@ -3719,6 +3737,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Assassination of Julius Caesar",
+                  "timespan": {
+                    "start": "3/15/44 BC",
+                    "duration": "1d"
+                  },
+                  "style": "defeat"
+                },
                 {
                   "name": "Battle of Philippi",
                   "timespan": {
@@ -3851,6 +3877,13 @@
                   }
                 },
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "33 BC",
+                    "end": "9/2/31 BC"
+                  }
+                },
+                {
                   "name": "consul",
                   "timespan": {
                     "start": "43 BC",
@@ -3873,6 +3906,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of Philippi",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/42 BC",
+                    "duration": "1m"
+                  }
+                },
                 {
                   "name": "Battle of Actium",
                   "style": "victory",

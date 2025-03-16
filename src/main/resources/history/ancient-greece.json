@@ -239,9 +239,17 @@
       "name": "Liberators' civil war",
       "timespan": {
         "start": "43 BC",
-        "end": "42 BC"
+        "end": "11/42 BC"
       },
       "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of Philippi",
+      "timespan": {
+        "start": "10/42 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundBattle"
     },
     {
       "name": "Final War of the Roman Republic",
