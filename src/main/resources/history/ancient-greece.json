@@ -12,11 +12,12 @@
       }
     },
     {
-      "name": "Persian domination",
-      "style": "achaemenidClient",
+      "name": "Ancient Greece",
+      "style": "mycenae",
       "timespan": {
-        "start": "540 BC",
-        "end": "499 BC"
+        "startApproximate": "true",
+        "start": "850 BC",
+        "end": "500 BC"
       }
     },
     {
