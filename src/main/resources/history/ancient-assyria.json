@@ -1481,6 +1481,14 @@
               "style": "backgroundNationalCalamity"
             },
             {
+              "name": "Battle of Qarqar",
+              "timespan": {
+                "start": "853 BC",
+                "duration": "1m"
+              },
+              "style": "backgroundBattle"
+            },
+            {
               "name": "Fall of Harran",
               "timespan": {
                 "start": "610 BC",
