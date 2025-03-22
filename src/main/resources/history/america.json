@@ -6501,6 +6501,13 @@
               "style": "american",
               "annotation": "",
               "titles": [
+                {
+                  "name": "cabinetSecretary",
+                  "timespan": {
+                    "start": "2/13/2025",
+                    "end": ""
+                  }
+                }
               ],
               "foregroundEvents": [
               ]

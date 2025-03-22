@@ -378,6 +378,7 @@
 .secretaryOfDefense     {fill:#C00000;	fill-opacity:0.4}
 .secretaryOfTreasury     {fill:green;	fill-opacity:0.5}
 .secretaryOfCommerce     {fill:green;	fill-opacity:0.4}
+.cabinetSecretary   {fill:blue;		fill-opacity:0.3}
 .senator 			{fill:blue;		fill-opacity:0.3}
 .legislator     	{fill:blue;		fill-opacity:0.2}
 .militaryGovernor 	{fill:#C00000;	fill-opacity:0.5}
