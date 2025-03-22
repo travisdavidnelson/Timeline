@@ -997,23 +997,13 @@
               ]
             },
             {
-              "name": "Cleisthenes",
-              "style": "greek",
-              "importance": "semimajor",
-              "timespan": {
-                "startApproximate": "true",
-                "start": "570 BC",
-                "endApproximate": "true",
-                "end": "500 BC"
-              }
-            },
-            {
-              "name": "Peisistratos",
+              "name": "Pisistratus",
               "style": "greek",
               "importance": "major",
               "timespan": {
-                "start": "608 BC",
-                "end": "528 BC"
+                "startApproximate": "true",
+                "start": "600 BC",
+                "end": "4/527 BC"
               },
               "titles": [
                 {
@@ -1034,7 +1024,7 @@
                   "name": "tyrant",
                   "timespan": {
                     "start": "545 BC",
-                    "end": "528 BC"
+                    "end": "4/527 BC"
                   }
                 }
               ]
@@ -1075,6 +1065,28 @@
                     "end": "510 BC"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Cleisthenes",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "570 BC",
+                "endApproximate": "true",
+                "end": "500 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "525 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
               ]
             },
             {
