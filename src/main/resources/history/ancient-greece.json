@@ -64,8 +64,8 @@
       "name": "Battle of Salamis",
       "style": "backgroundBattle",
       "timespan": {
-        "start": "9/480 BC",
-        "end": "9/480 BC"
+        "start": "9/27/480 BC",
+        "duration": "1d"
       }
     },
     {
@@ -73,7 +73,7 @@
       "style": "backgroundBattle",
       "timespan": {
         "start": "6/479 BC",
-        "end": "6/479 BC"
+        "duration": "1d"
       }
     },
     {
@@ -932,7 +932,7 @@
         },
         {
           "pageBreak": true,
-          "name": "Athenian Empire",
+          "name": "Athens",
           "backgroundEvents": [
             {
               "name": "Draconian Constitution",
@@ -1073,6 +1073,65 @@
                   "timespan": {
                     "start": "528 BC",
                     "end": "510 BC"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aristides",
+              "style": "greek",
+              "importance": "semimajor",
+              "annotation": "The Just",
+              "timespan": {
+                "start": "530 BC",
+                "end": "468 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "489 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "ostracized",
+                  "timespan": {
+                    "start": "482 BC",
+                    "end": "480 BC"
+                  }
+                },
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "480 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                },
+                {
+                  "name": "Battle of Salamis",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/27/480 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battles of Plataea",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/479 BC",
+                    "duration": "1d"
                   }
                 }
               ]
