@@ -1095,7 +1095,7 @@
                   }
                 },
                 {
-                  "name": "ostracized",
+                  "name": "exile",
                   "timespan": {
                     "start": "482 BC",
                     "end": "480 BC"
@@ -1119,6 +1119,13 @@
                   }
                 },
                 {
+                  "name": "ostracized",
+                  "timespan": {
+                    "start": "482 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "Battle of Salamis",
                   "style": "victory",
                   "timespan": {
@@ -1132,6 +1139,82 @@
                   "timespan": {
                     "start": "6/479 BC",
                     "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Themistocles",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "524 BC",
+                "endApproximate": "true",
+                "end": "459 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "493 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "490 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "472 BC",
+                    "endApproximate": "true",
+                    "end": "459 BC"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "465 BC",
+                    "endApproximate": "true",
+                    "end": "459 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                },
+                {
+                  "name": "Battle of Salamis",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/27/480 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battles of Artemisium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/21/480 BC",
+                    "end": "7/23/480 BC"
+                  }
+                },
+                {
+                  "name": "ostracized",
+                  "timespan": {
+                    "start": "472 BC",
+                    "duration": "1m"
                   }
                 }
               ]

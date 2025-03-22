@@ -299,7 +299,6 @@
 .emperor		    {fill:purple;	fill-opacity:1.0}
 .empress		    {fill:purple;	fill-opacity:0.6}
 .exile 				{fill:grey;	    fill-opacity:0.7}
-.ostracized 		{fill:grey;	    fill-opacity:0.7}
 .expedition 		{fill:#cafc5d;	fill-opacity:0.4}
 .exploration 		{fill:gold;		fill-opacity:0.5}
 .entrada 		    {fill:gold;		fill-opacity:0.6}
@@ -368,6 +367,8 @@
 .tsar 				{fill:purple;	fill-opacity:0.7}
 .defeat 			{fill:black;	fill-opacity:1.0}
 .victory 			{fill:gold;		fill-opacity:0.8}
+.ostracized 		{fill:black;	fill-opacity:1.0}
+
 .astronaut 			{fill:gold;		fill-opacity:1.0}
 .cosmonaut   		{fill:gold;		fill-opacity:1.0}
 
