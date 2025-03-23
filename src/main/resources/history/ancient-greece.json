@@ -1055,7 +1055,7 @@
               "timespan": {
                 "startApproximate": "true",
                 "start": "547 BC",
-                "end": "510 BC"
+                "end": "490 BC"
               },
               "titles": [
                 {
@@ -1063,6 +1063,13 @@
                   "timespan": {
                     "start": "528 BC",
                     "end": "510 BC"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "510 BC",
+                    "end": "490 BC"
                   }
                 }
               ]
