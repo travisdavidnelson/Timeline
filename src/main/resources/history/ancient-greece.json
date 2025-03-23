@@ -1090,6 +1090,42 @@
               ]
             },
             {
+              "name": "Miltiades",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "550 BC",
+                "end": "489 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "524 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "tyrant",
+                  "timespan": {
+                    "start": "516 BC",
+                    "end": "492 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Aristides",
               "style": "greek",
               "importance": "semimajor",
