@@ -1273,6 +1273,27 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Pericles",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "495 BC",
+                "end": "429 BC"
+              },
+              "titles": [
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "461 BC",
+                    "end": "429 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
             }
           ]
         },
