@@ -911,8 +911,30 @@
       ]
     },
     {
-      "name": "Athens",
+      "name": "Ionia",
       "yStart": 0,
+      "dynasties": [
+        {
+          "name": "Miletus",
+          "people": [
+            {
+              "name": "Thales",
+              "style": "greek",
+              "importance": "transformational",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "626 BC",
+                "endApproximate": "true",
+                "end": "545 BC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Athens",
+      "pageBreak": false,
       "dynasties": [
         {
           "name": "Early Greece",
