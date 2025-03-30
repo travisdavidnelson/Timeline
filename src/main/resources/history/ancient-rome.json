@@ -92,6 +92,14 @@
       "style": "backgroundForeignWar"
     },
     {
+      "name": "Battle of Silva Arsia",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "12/509 BC",
+        "duration": "1m"
+      }
+    },
+    {
       "name": "Sabine War",
       "timespan": {
         "start": "505 BC",
@@ -1390,7 +1398,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "560 BC",
-                "end": "509 BC"
+                "end": "12/509 BC"
               },
               "importance": "major",
               "titles": [
@@ -1399,6 +1407,16 @@
                   "timespan": {
                     "start": "509 BC",
                     "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Silva Arsia",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "12/509 BC",
+                    "duration": "1m"
                   }
                 }
               ]
@@ -1467,8 +1485,8 @@
                   "name": "triumph",
                   "style": "triumph",
                   "timespan": {
-                    "start": "3/1/509 BC",
-                    "end": "3/31/509 BC"
+                    "start": "3/1/508 BC",
+                    "end": "3/31/508 BC"
                   }
                 }
               ]
