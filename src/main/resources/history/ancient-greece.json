@@ -915,7 +915,50 @@
       "yStart": 0,
       "dynasties": [
         {
-          "name": "Miletus",
+          "name": "Ionia",
+          "backgroundEvents": [
+            {
+              "name": "Ionian Greek",
+              "style": "ionianGreece",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "750 BC",
+                "end": "547 BC"
+              }
+            },
+            {
+              "name": "Ionian Greek",
+              "style": "achaemenidClient",
+              "timespan": {
+                "start": "547 BC",
+                "end": "8/28/479 BC"
+              }
+            },
+            {
+              "name": "First Persian Invasion of Greece",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "492 BC",
+                "end": "9/490 BC"
+              }
+            },
+            {
+              "name": "Second Persian Invasion of Greece",
+              "style": "backgroundInvasion",
+              "timespan": {
+                "start": "480 BC",
+                "end": "8/479 BC"
+              }
+            },
+            {
+              "name": "Battle of Mycale",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/479 BC",
+                "duration": "1m"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Thales",
