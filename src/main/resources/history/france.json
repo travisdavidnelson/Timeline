@@ -4023,14 +4023,39 @@
               ]
             },
             {
-              "name": "Madame Roland&#9792;",
+              "name": "Nicolas de Condorcet",
               "style": "frenchRepublic",
               "timespan": {
-                "start": "3/17/1754",
-                "end": "11/8/1793"
+                "start": "9/17/1743",
+                "end": "3/29/1794"
               },
-              "importance": "minor",
+              "importance": "semimajor",
+              "annotation": "",
               "titles": [
+                {
+                  "name": "legislator",
+                  "timespan": {
+                    "start": "9/6/1791",
+                    "end": "9/6/1792"
+                  }
+                },
+                {
+                  "name": "frenchNationalAssembly",
+                  "timespan": {
+                    "start": "9/20/1792",
+                    "end": "7/8/1793"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Sketch for a Historical Picture of the Progress of the Human Mind",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "1794",
+                    "duration": "1m"
+                  }
+                }
               ]
             },
             {
@@ -4060,6 +4085,17 @@
                     "end": "10/30/1793"
                   }
                 }
+              ]
+            },
+            {
+              "name": "Madame Roland&#9792;",
+              "style": "frenchRepublic",
+              "timespan": {
+                "start": "3/17/1754",
+                "end": "11/8/1793"
+              },
+              "importance": "minor",
+              "titles": [
               ]
             }
           ]
