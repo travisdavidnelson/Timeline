@@ -3612,7 +3612,7 @@
             {
               "name": "Elon Musk",
               "style": "american",
-              "importance": "major",
+              "importance": "semimajor",
               "annotation": "probably underrated",
               "timespan": {
                 "start": "6/28/1971",
