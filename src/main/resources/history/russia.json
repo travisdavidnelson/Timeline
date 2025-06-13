@@ -2959,6 +2959,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Assassination of Navalny",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "2/16/2024",
+                    "duration": "1d"
+                  }
+                }
               ]
             }
           ]
