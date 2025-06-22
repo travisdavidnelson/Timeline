@@ -5805,7 +5805,7 @@
                   "style": "foregroundReputationalStain",
                   "timespan": {
                     "start": "12/19/1998",
-                    "end": "2/12/1999"
+                    "duration": "1d"
                   }
                 }
               ]
