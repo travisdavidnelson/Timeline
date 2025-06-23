@@ -5655,14 +5655,6 @@
               "style": "backgroundForeignWarMinor"
             },
             {
-              "name": "Fall of Kabul",
-              "style": "defeat",
-              "timespan": {
-                "start": "8/15/2021",
-                "end": "8/30/2021"
-              }
-            },
-            {
               "name": "Iraq War",
               "timespan": {
                 "start": "3/20/2003",
@@ -5700,7 +5692,7 @@
                 "start": "3/19/2011",
                 "end": "10/31/2011"
               },
-              "style": "backgroundForeignWarMinor"
+              "style": "backgroundWar"
             },
             {
               "name": "Killing of Osama Bin Laden",
@@ -5741,6 +5733,14 @@
                 "duration": "1d"
               },
               "style": "backgroundRiot"
+            },
+            {
+              "name": "Fall of Kabul",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/15/2021",
+                "end": "8/30/2021"
+              }
             },
             {
               "name": "Ukrainian War of 2022",
@@ -6304,14 +6304,6 @@
               "style": "backgroundForeignWarMinor"
             },
             {
-              "name": "Fall of Kabul",
-              "style": "defeat",
-              "timespan": {
-                "start": "8/15/2021",
-                "end": "8/30/2021"
-              }
-            },
-            {
               "name": "Iraq War",
               "timespan": {
                 "start": "3/20/2003",
@@ -6349,7 +6341,7 @@
                 "start": "3/19/2011",
                 "end": "10/31/2011"
               },
-              "style": "backgroundForeignWarMinor"
+              "style": "backgroundWar"
             },
             {
               "name": "Killing of Osama Bin Laden",
@@ -6390,6 +6382,14 @@
                 "duration": "1d"
               },
               "style": "backgroundRiot"
+            },
+            {
+              "name": "Fall of Kabul",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "8/15/2021",
+                "end": "8/30/2021"
+              }
             },
             {
               "name": "Ukrainian War of 2022",
