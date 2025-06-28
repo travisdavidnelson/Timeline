@@ -5751,10 +5751,10 @@
               "style": "backgroundForeignWarMinor"
             },
             {
-              "name": "Iran War",
+              "name": "Israel-Iran War of 2025",
               "timespan": {
-                "start": "6/20/2025",
-                "end": ""
+                "start": "6/13/2025",
+                "end": "6/26/2025"
               },
               "style": "backgroundWar"
             }
@@ -6408,10 +6408,10 @@
               "style": "backgroundForeignWarMinor"
             },
             {
-              "name": "Iran War",
+              "name": "Israel-Iran War of 2025",
               "timespan": {
-                "start": "6/20/2025",
-                "end": ""
+                "start": "6/13/2025",
+                "end": "6/26/2025"
               },
               "style": "backgroundWar"
             }
@@ -6502,6 +6502,14 @@
                   "style": "victory",
                   "timespan": {
                     "start": "11/5/2024",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Operation Midnight Hammer",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/22/2025",
                     "duration": "1d"
                   }
                 }
