@@ -1706,6 +1706,38 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Epirus",
+          "backgroundEvents": [
+          ],
+          "people": [
+            {
+              "name": "Pyrrhus of Epirus",
+              "style": "macedon",
+              "importance": "major",
+              "timespan": {
+                "start": "319 BC",
+                "end": "272 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "307 BC",
+                    "end": "302 BC"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "297 BC",
+                    "end": "272 BC"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
