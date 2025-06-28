@@ -3411,13 +3411,13 @@
                 "start": "127 BC",
                 "end": "84 BC"
               },
-              "importance": "minor",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "consul",
                   "timespan": {
                     "start": "87 BC",
-                    "duration": "1y"
+                    "end": "84 BC"
                   }
                 }
               ]
