@@ -1710,10 +1710,18 @@
         {
           "name": "Epirus",
           "backgroundEvents": [
+            {
+              "name": "Pyrrhic War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "280 BC",
+                "end": "275 BC"
+              }
+            }
           ],
           "people": [
             {
-              "name": "Pyrrhus of Epirus",
+              "name": "Pyrrhus I",
               "style": "macedon",
               "importance": "major",
               "timespan": {
