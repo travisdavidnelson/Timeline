@@ -4625,6 +4625,14 @@
                 "start": "1/1/89",
                 "duration": "3m"
               }
+            },
+            {
+              "name": "Assassination of Domitian",
+              "style": "backgroundConspiracy",
+              "timespan": {
+                "start": "9/96",
+                "duration": "1m"
+              }
             }
           ],
           "people": [
@@ -4697,6 +4705,15 @@
                   "timespan": {
                     "start": "9/13/81",
                     "end": "9/18/96"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "style": "assassination",
+                  "timespan": {
+                    "start": "9/18/96",
+                    "duration": "1d"
                   }
                 }
               ]
