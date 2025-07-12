@@ -4615,7 +4615,15 @@
               "style": "backgroundWar",
               "timespan": {
                 "start": "86",
-                "end": "88"
+                "end": "2/1/89"
+              }
+            },
+            {
+              "name": "Revolt of Governor Saturninus",
+              "style": "backgroundRebellion",
+              "timespan": {
+                "start": "1/1/89",
+                "duration": "3m"
               }
             }
           ],
