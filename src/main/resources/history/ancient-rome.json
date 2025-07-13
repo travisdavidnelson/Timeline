@@ -692,6 +692,14 @@
       "style": "backgroundWar"
     },
     {
+      "name": "Antony's Campaign against Armenia",
+      "timespan": {
+        "start": "9/34 BC",
+        "duration": "1m"
+      },
+      "style": "backgroundWar"
+    },
+    {
       "name": "Roman-Parthian War of 58-63",
       "timespan": {
         "start": "58",
