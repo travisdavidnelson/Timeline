@@ -3843,12 +3843,28 @@
               "style": "backgroundConspiracy"
             },
             {
+              "name": "Roman Invasion of Britain",
+              "timespan": {
+                "start": "43",
+                "end": "50"
+              },
+              "style": "backgroundForeignWar"
+            },
+            {
               "name": "Fall of Messalina",
               "timespan": {
                 "start": "48",
                 "duration": "1w"
               },
               "style": "backgroundConspiracy"
+            },
+            {
+              "name": "Boudica Uprising",
+              "timespan": {
+                "start": "1/60",
+                "end": "12/61"
+              },
+              "style": "backgroundForeignWar"
             },
             {
               "name": "Murder of Britannicus",
