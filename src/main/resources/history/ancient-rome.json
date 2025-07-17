@@ -4585,14 +4585,40 @@
               ]
             },
             {
-              "name": "Seneca the Younger",
+              "name": "Seneca",
               "style": "roman",
+              "importance": "semimajor",
               "timespan": {
                 "startApproximate": true,
                 "start": "4 BC",
-                "end": "65"
+                "end": "6/65"
               },
-              "importance": "minor"
+              "titles": [
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "41",
+                    "end": "49"
+                  }
+                },
+                {
+                  "name": "imperialAdvisor",
+                  "timespan": {
+                    "start": "54",
+                    "end": "62"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Epistulae Morales ad Lucilium",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "65",
+                    "duration": "1m"
+                  }
+                }
+              ]
             }
           ]
         },
