@@ -3929,6 +3929,14 @@
                 "duration": "1w"
               },
               "style": "backgroundNationalCalamity"
+            },
+            {
+              "name": "Pisonian Conspiracy",
+              "timespan": {
+                "start": "4/65",
+                "duration": "1m"
+              },
+              "style": "backgroundConspiracy"
             }
           ],
           "people": [
