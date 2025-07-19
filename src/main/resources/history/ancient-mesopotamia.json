@@ -161,6 +161,14 @@
       "style": "neoassyria"
     },
     {
+      "name": "Siege of Babylon",
+      "style": "backgroundSiege",
+      "timespan": {
+        "start": "689 BC",
+        "duration": "15m"
+      }
+    },
+    {
       "name": "Neo-Babylonian Empire",
       "timespan": {
         "start": "613 BC",
