@@ -88,7 +88,7 @@
     },
     {
       "name": "Siege of Babylon",
-      "style": "backgroundSiege",
+      "style": "backgroundSiegeAssyrian",
       "timespan": {
         "start": "689 BC",
         "duration": "15m"
@@ -1482,7 +1482,7 @@
             },
             {
               "name": "Siege of Babylon",
-              "style": "backgroundSiege",
+              "style": "backgroundSiegeAssyrian",
               "timespan": {
                 "start": "689 BC",
                 "duration": "15m"
