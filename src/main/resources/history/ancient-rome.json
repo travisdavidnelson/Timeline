@@ -4806,6 +4806,14 @@
           "yStart": 0,
           "backgroundEvents": [
             {
+              "name": "Praetorian Revolt",
+              "style": "backgroundRevolt",
+              "timespan": {
+                "start": "10/97",
+                "duration": "1m"
+              }
+            },
+            {
               "name": "Marcomannic Wars",
               "style": "backgroundInvasion",
               "timespan": {
@@ -4934,6 +4942,16 @@
                   "timespan": {
                     "start": "9/18/96",
                     "end": "1/27/98"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Praetorian Revolt",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "10/97",
+                    "duration": "1m"
                   }
                 }
               ]
