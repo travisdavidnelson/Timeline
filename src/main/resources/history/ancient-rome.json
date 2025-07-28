@@ -4814,6 +4814,30 @@
               }
             },
             {
+              "name": "Dacian Wars",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "101",
+                "end": "102"
+              }
+            },
+            {
+              "name": "Dacian Wars",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "105",
+                "end": "106"
+              }
+            },
+            {
+              "name": "Parthian Campaign",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "114",
+                "end": "117"
+              }
+            },
+            {
               "name": "Marcomannic Wars",
               "style": "backgroundInvasion",
               "timespan": {
