@@ -628,6 +628,14 @@
       "style": "backgroundCivilWar"
     },
     {
+      "name": "Battle of Bedriacum",
+      "timespan": {
+        "start": "4/14/69",
+        "duration": "1d"
+      },
+      "style": "backgroundBattle"
+    },
+    {
       "name": "Domitian's Dacian War",
       "style": "backgroundWar",
       "timespan": {
@@ -4667,6 +4675,16 @@
                     "end": "4/16/69"
                   }
                 }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Bedriacum",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "4/14/69",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
@@ -4683,6 +4701,16 @@
                   "timespan": {
                     "start": "4/16/69",
                     "end": "12/22/69"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Bedriacum",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "4/14/69",
+                    "duration": "1d"
                   }
                 }
               ]
