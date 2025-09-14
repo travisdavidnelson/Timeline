@@ -224,6 +224,14 @@
         "duration": "1d"
       },
       "style": "backgroundRiot"
+    },
+    {
+      "name": "Assassination of Charile Kirk",
+      "style": "assassination",
+      "timespan": {
+        "start": "9/10/2025",
+        "duration": "1d"
+      }
     }
   ],
   "dynastyGroups": [
@@ -5762,7 +5770,7 @@
               "name": "Assassination of Charile Kirk",
               "style": "assassination",
               "timespan": {
-                "start": "10/10/2025",
+                "start": "9/10/2025",
                 "duration": "1d"
               }
             }
@@ -6427,7 +6435,7 @@
               "name": "Assassination of Charile Kirk",
               "style": "assassination",
               "timespan": {
-                "start": "10/10/2025",
+                "start": "9/10/2025",
                 "duration": "1d"
               }
             }
@@ -6600,7 +6608,7 @@
               "name": "Charlie Kirk",
               "timespan": {
                 "start": "10/14/1993",
-                "end": "10/10/2025"
+                "end": "9/10/2025"
               },
               "importance": "petty",
               "style": "american",
@@ -6612,7 +6620,7 @@
                   "name": "Assassination of Charile Kirk",
                   "style": "assassination",
                   "timespan": {
-                    "start": "10/10/2025",
+                    "start": "9/10/2025",
                     "duration": "1d"
                   }
                 }
