@@ -5757,6 +5757,14 @@
                 "end": "6/26/2025"
               },
               "style": "backgroundWar"
+            },
+            {
+              "name": "Assassination of Charile Kirk",
+              "style": "assassination",
+              "timespan": {
+                "start": "10/10/2025",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
@@ -6414,6 +6422,14 @@
                 "end": "6/26/2025"
               },
               "style": "backgroundWar"
+            },
+            {
+              "name": "Assassination of Charile Kirk",
+              "style": "assassination",
+              "timespan": {
+                "start": "10/10/2025",
+                "duration": "1d"
+              }
             }
           ],
           "people": [
@@ -6575,6 +6591,28 @@
                   "style": "victory",
                   "timespan": {
                     "start": "11/5/2024",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Charlie Kirk",
+              "timespan": {
+                "start": "10/14/1993",
+                "end": "10/10/2025"
+              },
+              "importance": "petty",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Assassination of Charile Kirk",
+                  "style": "assassination",
+                  "timespan": {
+                    "start": "10/10/2025",
                     "duration": "1d"
                   }
                 }
