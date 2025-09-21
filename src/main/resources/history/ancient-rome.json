@@ -4651,6 +4651,34 @@
               "importance": "minor",
               "titles": [
                 {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "33",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "39",
+                    "end": "44"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "44",
+                    "end": "68"
+                  }
+                },
+                {
+                  "name": "rebel",
+                  "timespan": {
+                    "start": "68",
+                    "end": "6/8/68"
+                  }
+                },
+                {
                   "name": "augustus",
                   "timespan": {
                     "start": "6/8/68",
