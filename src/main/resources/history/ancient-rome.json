@@ -6019,7 +6019,7 @@
                 "start": "3/7/189",
                 "end": "12/26/211"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "caesar",
@@ -6098,7 +6098,7 @@
                 "start": "180",
                 "end": "3/11/222"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "augusta",
@@ -6127,7 +6127,7 @@
                 "start": "204",
                 "end": "3/11/222"
               },
-              "importance": "minor",
+              "importance": "petty",
               "foregroundEvents": [
                 {
                   "name": "Battle of Antioch",
@@ -6246,7 +6246,7 @@
             {
               "name": "Ulpian",
               "style": "roman",
-              "importance": "petty",
+              "importance": "minor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "170",
