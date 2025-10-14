@@ -1281,7 +1281,7 @@
                 "endApproximate": true,
                 "end": "642 BC"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -1303,7 +1303,7 @@
                 "endApproximate": true,
                 "end": "616 BC"
               },
-              "importance": "major",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "king",
@@ -1330,7 +1330,7 @@
                 "endApproximate": true,
                 "end": "579 BC"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
@@ -1352,7 +1352,7 @@
                 "endApproximate": true,
                 "end": "535 BC"
               },
-              "importance": "major",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "king",
@@ -1374,7 +1374,7 @@
                 "endApproximate": true,
                 "end": "496 BC"
               },
-              "importance": "major",
+              "importance": "semimajor",
               "titles": [
                 {
                   "name": "king",
