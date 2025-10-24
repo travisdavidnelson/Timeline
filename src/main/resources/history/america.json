@@ -26,6 +26,14 @@
       "style": "americanRepublicWeak"
     },
     {
+      "name": "Battle of the Alamo",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "2/23/1836",
+        "end": "3/6/1836"
+      }
+    },
+    {
       "name": "Louisiana Purchase",
       "timespan": {
         "start": "3/1804",
@@ -3791,6 +3799,14 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Battle of the Alamo",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "2/23/1836",
+                    "end": "3/6/1836"
+                  }
+                }
               ]
             },
             {
