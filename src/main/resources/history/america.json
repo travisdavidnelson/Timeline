@@ -4433,6 +4433,14 @@
                   }
                 },
                 {
+                  "name": "Segregation of the Federal Bureaucracy",
+                  "style": "foregroundReputationalStain",
+                  "timespan": {
+                    "start": "3/4/1913",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
