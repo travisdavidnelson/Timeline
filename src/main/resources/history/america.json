@@ -5038,6 +5038,14 @@
                   "style": "victory"
                 },
                 {
+                  "name": "Executive Order 9981",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/26/1948",
+                    "duration": "1m"
+                  }
+                },
+                {
                   "name": "U.S. presidential election",
                   "style": "victory",
                   "timespan": {
