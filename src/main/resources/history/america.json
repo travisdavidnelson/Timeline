@@ -5103,6 +5103,14 @@
                     "start": "11/6/1956",
                     "duration": "1d"
                   }
+                },
+                {
+                  "name": "Executive Order 10730",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/23/1957",
+                    "duration": "1m"
+                  }
                 }
               ]
             },
