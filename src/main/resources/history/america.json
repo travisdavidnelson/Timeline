@@ -4202,6 +4202,25 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Stevie Ray Vaughn",
+              "style": "american",
+              "importance": "petty",
+              "timespan": {
+                "start": "10/3/1954",
+                "end": "8/27/1990"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Texas Road",
+                  "style": "notableWork",
+                  "timespan": {
+                    "start": "6/13/1983",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         },
