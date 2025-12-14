@@ -2187,6 +2187,50 @@
               ]
             },
             {
+              "name": "Titus Quinctius Flamininus",
+              "style": "roman",
+              "timespan": {
+                "start": "229 BC",
+                "startApproximate": true,
+                "end": "174 BC"
+              },
+              "importance": "semimajor",
+              "titles": [
+                {
+                  "name": "consul",
+                  "timespan": {
+                    "start": "198 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "censor",
+                  "timespan": {
+                    "start": "189 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Cynoscephalae",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/197 BC",
+                    "duration": "1w"
+                  }
+                },
+                {
+                  "name": "triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/194 BC",
+                    "duration": "1w"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Lucius Aemilius Paullus Macedonicus",
               "style": "roman",
               "timespan": {
