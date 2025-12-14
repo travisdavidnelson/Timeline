@@ -2403,7 +2403,7 @@
                 "endApproximate": "true",
                 "end": "105 BC"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "general",
@@ -2463,7 +2463,7 @@
                 "start": "160 BC",
                 "end": "91 BC"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "consul",
@@ -2570,7 +2570,7 @@
                 "start": "124 BC",
                 "end": "10/91 BC"
               },
-              "importance": "semimajor",
+              "importance": "minor",
               "titles": [
                 {
                   "name": "tribune",
@@ -2588,7 +2588,7 @@
                 "start": "129 BC",
                 "end": "63 BC"
               },
-              "importance": "minor",
+              "importance": "petty",
               "titles": [
                 {
                   "name": "pontifexMaximus",
