@@ -2631,13 +2631,13 @@
                 "endApproximate": true,
                 "end": "56 BC"
               },
-              "importance": "semimajor",
+              "importance": "major",
               "titles": [
                 {
                   "name": "quaestor",
                   "timespan": {
                     "start": "88 BC",
-                    "duration": "1y"
+                    "end": "80 BC"
                   }
                 },
                 {
@@ -2652,6 +2652,32 @@
                   "timespan": {
                     "start": "73 BC",
                     "end": "66 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Tenedos",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/86 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Siege of Cyzicus",
+                  "style": "backgroundSiege",
+                  "timespan": {
+                    "start": "10/73 BC",
+                    "duration": "2m"
+                  }
+                },
+                {
+                  "name": "Battle of Tigranocerta",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/6/69 BC",
+                    "duration": "1d"
                   }
                 }
               ]
