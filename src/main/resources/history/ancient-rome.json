@@ -718,7 +718,7 @@
     {
       "name": "Battle of Carrhae",
       "timespan": {
-        "start": "53 BC",
+        "start": "6/53 BC",
         "duration": "1d"
       },
       "style": "backgroundNationalCalamity"
@@ -3548,7 +3548,7 @@
               "timespan": {
                 "startApproximate": true,
                 "start": "115 BC",
-                "end": "53 BC"
+                "end": "6/53 BC"
               },
               "importance": "semimajor",
               "titles": [
@@ -3570,14 +3570,44 @@
                   "name": "governor",
                   "timespan": {
                     "start": "54 BC",
-                    "end": "53 BC"
+                    "end": "6/53 BC"
                   }
                 },
                 {
                   "name": "triumvir",
                   "timespan": {
                     "start": "60 BC",
-                    "end": "53 BC"
+                    "end": "6/53 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Carrhae",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/53 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Publius Licinius Crassus",
+              "style": "roman",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": true,
+                "start": "86 BC",
+                "end": "6/53 BC"
+              },
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Carrhae",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/53 BC",
+                    "duration": "1d"
                   }
                 }
               ]
@@ -3819,16 +3849,6 @@
                   }
                 }
               ]
-            },
-            {
-              "name": "Publius Licinius Crassus",
-              "style": "roman",
-              "timespan": {
-                "startApproximate": true,
-                "start": "86 BC",
-                "end": "53 BC"
-              },
-              "importance": "minor"
             },
             {
               "name": "Sallust",
