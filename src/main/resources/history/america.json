@@ -232,14 +232,6 @@
         "duration": "1d"
       },
       "style": "backgroundRiot"
-    },
-    {
-      "name": "Assassination of Charile Kirk",
-      "style": "assassination",
-      "timespan": {
-        "start": "9/10/2025",
-        "duration": "1d"
-      }
     }
   ],
   "dynastyGroups": [
@@ -5824,14 +5816,6 @@
                 "end": "6/26/2025"
               },
               "style": "backgroundWar"
-            },
-            {
-              "name": "Assassination of Charile Kirk",
-              "style": "assassination",
-              "timespan": {
-                "start": "9/10/2025",
-                "duration": "1d"
-              }
             }
           ],
           "people": [
