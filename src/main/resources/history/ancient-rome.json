@@ -559,9 +559,17 @@
       "name": "Sulla's second civil war",
       "timespan": {
         "start": "83 BC",
-        "end": "82 BC"
+        "end": "11/1/82 BC"
       },
       "style": "backgroundCivilWar"
+    },
+    {
+      "name": "Battle of the Colline Gate",
+      "style": "backgroundBattle",
+      "timespan": {
+        "start": "11/1/82 BC",
+        "duration": "1d"
+      }
     },
     {
       "name": "Gallic Wars",
@@ -2559,6 +2567,14 @@
                     "start": "10/89 BC",
                     "duration": "1m"
                   }
+                },
+                {
+                  "name": "Battle of the Colline Gate",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/1/82 BC",
+                    "duration": "1d"
+                  }
                 }
               ]
             },
@@ -3116,6 +3132,14 @@
                 "duration": "1m"
               },
               "style": "backgroundReignOfTerror"
+            },
+            {
+              "name": "Battle of the Colline Gate",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "11/1/82 BC",
+                "duration": "1d"
+              }
             },
             {
               "name": "Sulla Reign of Terror",
