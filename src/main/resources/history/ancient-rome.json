@@ -2729,6 +2729,13 @@
               "fate": "Fled to Egypt after defeat by Caesar at Battle of Pharsalus and assassinated by Egyptian officials in 48 BC.",
               "titles": [
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "83 BC",
+                    "end": "62 BC"
+                  }
+                },
+                {
                   "name": "consul",
                   "timespan": {
                     "start": "52 BC",
@@ -2772,6 +2779,30 @@
                 }
               ],
               "foregroundEvents": [
+                {
+                  "name": "Triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/81 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "6/71 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Triumph",
+                  "style": "triumph",
+                  "timespan": {
+                    "start": "9/29/61 BC",
+                    "duration": "1d"
+                  }
+                },
                 {
                   "name": "Battle of Pharsalus",
                   "timespan": {
