@@ -2787,9 +2787,16 @@
                   }
                 },
                 {
+                  "name": "general",
+                  "timespan": {
+                    "start": "1/49 BC",
+                    "end": "8/9/48 BC"
+                  }
+                },
+                {
                   "name": "exile",
                   "timespan": {
-                    "start": "1/10/49 BC",
+                    "start": "8/9/48 BC",
                     "end": "9/28/48 BC"
                   }
                 }
@@ -2808,6 +2815,14 @@
                   "style": "triumph",
                   "timespan": {
                     "start": "6/71 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Pompey's campaign against the pirates",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/67 BC",
                     "duration": "1d"
                   }
                 },
@@ -2883,7 +2898,7 @@
                 {
                   "name": "exile",
                   "timespan": {
-                    "start": "1/30/49 BC",
+                    "start": "8/9/48 BC",
                     "end": "12/31/48 BC"
                   }
                 }
