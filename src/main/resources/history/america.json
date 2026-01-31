@@ -6620,6 +6620,71 @@
               ]
             },
             {
+              "name": "Howard Lutnick",
+              "timespan": {
+                "start": "7/14/1961",
+                "end": ""
+              },
+              "importance": "petty",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+                {
+                  "name": "secretaryOfCommerce",
+                  "timespan": {
+                    "start": "2/21/2025",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Attacks of September 11, 2001",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "9/11/2001",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Marco Rubio",
+              "timespan": {
+                "start": "5/28/1971",
+                "end": ""
+              },
+              "importance": "minor",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+                {
+                  "name": "senator",
+                  "timespan": {
+                    "start": "1/3/2011",
+                    "end": "1/20/2025"
+                  }
+                },
+                {
+                  "name": "secretaryOfState",
+                  "timespan": {
+                    "start": "1/21/2025",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Capture of Nicolás Maduro",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "1/3/2026",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "JD Vance",
               "timespan": {
                 "start": "8/2/1984",
@@ -6658,42 +6723,6 @@
                   "style": "victory",
                   "timespan": {
                     "start": "11/5/2024",
-                    "duration": "1d"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Marco Rubio",
-              "timespan": {
-                "start": "5/28/1971",
-                "end": ""
-              },
-              "importance": "minor",
-              "style": "american",
-              "annotation": "",
-              "titles": [
-                {
-                  "name": "senator",
-                  "timespan": {
-                    "start": "1/3/2011",
-                    "end": "1/20/2025"
-                  }
-                },
-                {
-                  "name": "secretaryOfState",
-                  "timespan": {
-                    "start": "1/21/2025",
-                    "end": ""
-                  }
-                }
-              ],
-              "foregroundEvents": [
-                {
-                  "name": "Capture of Nicolás Maduro",
-                  "style": "victory",
-                  "timespan": {
-                    "start": "1/3/2026",
                     "duration": "1d"
                   }
                 }
