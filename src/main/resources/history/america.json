@@ -6685,6 +6685,27 @@
               ]
             },
             {
+              "name": "David Sacks",
+              "timespan": {
+                "start": "5/25/1972",
+                "end": ""
+              },
+              "importance": "petty",
+              "style": "american",
+              "annotation": "",
+              "titles": [
+                {
+                  "name": "imperialAdvisor",
+                  "timespan": {
+                    "start": "1/20/2025",
+                    "end": ""
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "JD Vance",
               "timespan": {
                 "start": "8/2/1984",
