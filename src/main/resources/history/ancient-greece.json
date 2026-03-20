@@ -1506,6 +1506,39 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Plutarch",
+          "people": [
+            {
+              "name": "Aratus of Sicyon",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "271 BC",
+                "end": "213 BC"
+              },
+              "titles": [
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "245 BC",
+                    "end": "213 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Sellasia",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "7/222 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
