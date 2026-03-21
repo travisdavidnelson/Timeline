@@ -1705,6 +1705,27 @@
               ]
             },
             {
+              "name": "Agis IV",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "265 BC",
+                "end": "241 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "245 BC",
+                    "end": "241 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Cleomenes III",
               "style": "greek",
               "importance": "semimajor",
