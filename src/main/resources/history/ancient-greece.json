@@ -1509,6 +1509,24 @@
         },
         {
           "name": "Plutarch",
+          "backgroundEvents": [
+            {
+              "name": "Cleomenean War",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "229 BC",
+                "end": "7/222 BC"
+              }
+            },
+            {
+              "name": "Battle of Sellasia",
+              "style": "backgroundBattle",
+              "timespan": {
+                "start": "7/222 BC",
+                "duration": "1d"
+              }
+            }
+          ],
           "people": [
             {
               "name": "Aratus of Sicyon",
