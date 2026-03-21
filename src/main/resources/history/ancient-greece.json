@@ -1529,6 +1529,89 @@
           ],
           "people": [
             {
+              "name": "Alcibiades",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "450 BC",
+                "endApproximate": "true",
+                "end": "404 BC"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "439 BC",
+                    "end": "415 BC"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "415 BC",
+                    "end": "407 BC"
+                  }
+                },
+                {
+                  "name": "traitor",
+                  "timespan": {
+                    "start": "415 BC",
+                    "end": "412 BC"
+                  }
+                },
+                {
+                  "name": "traitor",
+                  "timespan": {
+                    "start": "412 BC",
+                    "end": "411 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Potidaea",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "7/432 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Delium",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "7/424 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Abydos",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/411 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Cyzicus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/410 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Notium",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/406 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Phocion",
               "style": "greek",
               "importance": "semimajor",
