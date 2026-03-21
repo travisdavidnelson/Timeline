@@ -1570,7 +1570,36 @@
               "foregroundEvents": [
                 {
                   "name": "Battle of Sellasia",
-                  "style": "backgroundBattle",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/222 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cleomenes III",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "265 BC",
+                "end": "219 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "235 BC",
+                    "end": "222 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Sellasia",
+                  "style": "defeat",
                   "timespan": {
                     "start": "7/222 BC",
                     "duration": "1d"
