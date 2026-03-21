@@ -1620,6 +1620,41 @@
               ]
             },
             {
+              "name": "Epaminondas",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "419 BC",
+                "end": "7/4/362 BC"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "385 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "371 BC",
+                    "end": "362 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Mantinea (362 BC)",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "7/4/362 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Phocion",
               "style": "greek",
               "importance": "semimajor",
