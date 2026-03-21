@@ -1529,6 +1529,28 @@
           ],
           "people": [
             {
+              "name": "Phocion",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "402 BC",
+                "endApproximate": "true",
+                "end": "318 BC"
+              },
+              "titles": [
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "349 BC",
+                    "end": "318 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Aratus of Sicyon",
               "style": "greek",
               "importance": "semimajor",
