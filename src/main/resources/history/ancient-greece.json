@@ -1531,7 +1531,7 @@
             {
               "name": "Alcibiades",
               "style": "greek",
-              "importance": "semimajor",
+              "importance": "major",
               "timespan": {
                 "startApproximate": "true",
                 "start": "450 BC",
@@ -1606,6 +1606,14 @@
                   "style": "defeat",
                   "timespan": {
                     "start": "6/406 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Aegospotami",
+                  "style": "backgroundBattle",
+                  "timespan": {
+                    "start": "6/405 BC",
                     "duration": "1d"
                   }
                 }
