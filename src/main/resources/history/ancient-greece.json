@@ -1655,6 +1655,20 @@
               ]
             },
             {
+              "name": "Timoleon",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "411 BC",
+                "end": "337 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Phocion",
               "style": "greek",
               "importance": "semimajor",
