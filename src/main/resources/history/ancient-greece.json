@@ -1707,7 +1707,7 @@
             {
               "name": "Agis IV",
               "style": "greek",
-              "importance": "semimajor",
+              "importance": "minor",
               "timespan": {
                 "startApproximate": "true",
                 "start": "265 BC",
