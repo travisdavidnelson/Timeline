@@ -1924,6 +1924,64 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Philopoemen",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "start": "253 BC",
+                "end": "183 BC"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "223 BC",
+                    "end": "221 BC"
+                  }
+                },
+                {
+                  "name": "mercenary",
+                  "timespan": {
+                    "start": "221 BC",
+                    "duration": "10y"
+                  }
+                },
+                {
+                  "name": "mercenary",
+                  "timespan": {
+                    "start": "209 BC",
+                    "end": "199 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Megalopolis",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/223 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Sellasia",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/222 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Mantinea",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/207 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
             }
           ]
         }
