@@ -1545,6 +1545,50 @@
           ],
           "people": [
             {
+              "name": "Lysander",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "454 BC",
+                "end": "6/395 BC"
+              },
+              "titles": [
+                {
+                  "name": "admiral",
+                  "timespan": {
+                    "start": "408 BC",
+                    "end": "404 BC"
+                  }
+                },
+                {
+                  "name": "general",
+                  "timespan": {
+                    "start": "395 BC",
+                    "end": "6/395 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Notium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/406 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Haliartus",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "6/395 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Alcibiades",
               "style": "greek",
               "importance": "major",
