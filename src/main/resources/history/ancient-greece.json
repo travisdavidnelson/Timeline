@@ -1511,6 +1511,22 @@
           "name": "Plutarch",
           "backgroundEvents": [
             {
+              "name": "First War of the Diadochi",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "321 BC",
+                "end": "319 BC"
+              }
+            },
+            {
+              "name": "Second War of the Diadochi",
+              "style": "backgroundWar",
+              "timespan": {
+                "start": "318 BC",
+                "end": "316 BC"
+              }
+            },
+            {
               "name": "Cleomenean War",
               "style": "backgroundWar",
               "timespan": {
@@ -1645,10 +1661,62 @@
               ],
               "foregroundEvents": [
                 {
+                  "name": "Battle of Leuctra",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/6/371 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
                   "name": "Battle of Mantinea (362 BC)",
                   "style": "defeat",
                   "timespan": {
                     "start": "7/4/362 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pelopidas",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "410 BC",
+                "end": "364 BC"
+              },
+              "titles": [
+                {
+                  "name": "soldier",
+                  "timespan": {
+                    "start": "385 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "boeotarch",
+                  "timespan": {
+                    "start": "379 BC",
+                    "duration": "12y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Tegyra",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/375 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Leuctra",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/6/371 BC",
                     "duration": "1d"
                   }
                 }
@@ -1688,6 +1756,51 @@
                 }
               ],
               "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Eumenes",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "361 BC",
+                "end": "315 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Hellespont (321 BC)",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/321 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of the Orkynia",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "319 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of the River Coprates",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/316 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Gabiene",
+                  "style": "defeat",
+                  "timespan": {
+                    "start": "315 BC",
+                    "duration": "1d"
+                  }
+                }
               ]
             },
             {
