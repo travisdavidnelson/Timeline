@@ -1848,6 +1848,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Aratus of Sicyon",
               "style": "greek",
               "importance": "semimajor",
