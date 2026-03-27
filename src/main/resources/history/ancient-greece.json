@@ -1545,6 +1545,199 @@
           ],
           "people": [
             {
+              "name": "Solon",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "630 BC",
+                "endApproximate": "true",
+                "end": "560 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "594 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Defeat of Megara",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "595 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aristides",
+              "style": "greek",
+              "importance": "semimajor",
+              "annotation": "The Just",
+              "timespan": {
+                "start": "530 BC",
+                "end": "468 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "489 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "482 BC",
+                    "end": "480 BC"
+                  }
+                },
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "480 BC",
+                    "duration": "1y"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                },
+                {
+                  "name": "ostracized",
+                  "timespan": {
+                    "start": "482 BC",
+                    "duration": "1m"
+                  }
+                },
+                {
+                  "name": "Battle of Salamis",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/27/480 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battles of Plataea",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "6/479 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Themistocles",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "524 BC",
+                "endApproximate": "true",
+                "end": "459 BC"
+              },
+              "titles": [
+                {
+                  "name": "archon",
+                  "timespan": {
+                    "start": "493 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "490 BC",
+                    "duration": "1y"
+                  }
+                },
+                {
+                  "name": "exile",
+                  "timespan": {
+                    "start": "472 BC",
+                    "endApproximate": "true",
+                    "end": "459 BC"
+                  }
+                },
+                {
+                  "name": "governor",
+                  "timespan": {
+                    "start": "465 BC",
+                    "endApproximate": "true",
+                    "end": "459 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of Marathon",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "8/490 BC",
+                    "end": "9/490 BC"
+                  }
+                },
+                {
+                  "name": "Battle of Salamis",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "9/27/480 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battles of Artemisium",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "7/21/480 BC",
+                    "end": "7/23/480 BC"
+                  }
+                },
+                {
+                  "name": "ostracized",
+                  "timespan": {
+                    "start": "472 BC",
+                    "duration": "1m"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pericles",
+              "style": "greek",
+              "importance": "major",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "495 BC",
+                "end": "429 BC"
+              },
+              "titles": [
+                {
+                  "name": "strategos",
+                  "timespan": {
+                    "start": "461 BC",
+                    "end": "429 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Lysander",
               "style": "greek",
               "importance": "major",
