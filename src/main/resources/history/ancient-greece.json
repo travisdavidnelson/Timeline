@@ -2051,6 +2051,19 @@
               ]
             },
             {
+              "name": "Demosthenes",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "384 BC",
+                "end": "10/12/322 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Eumenes",
               "style": "greek",
               "importance": "semimajor",
