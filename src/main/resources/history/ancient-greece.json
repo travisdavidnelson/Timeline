@@ -2041,6 +2041,76 @@
               ]
             },
             {
+              "name": "Alexander III",
+              "style": "macedon",
+              "importance": "transformational",
+              "annotation": "The Great",
+              "timespan": {
+                "start": "7/20/356 BC",
+                "end": "6/11/323 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "336 BC",
+                    "end": "6/11/323 BC"
+                  }
+                }
+              ],
+              "foregroundEvents": [
+                {
+                  "name": "Battle of the Granicus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "5/3/334 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Issus",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "11/5/333 BC",
+                    "duration": "1d"
+                  }
+                },
+                {
+                  "name": "Battle of Gaugamela",
+                  "style": "victory",
+                  "timespan": {
+                    "start": "10/1/331 BC",
+                    "duration": "1d"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pyrrhus of Epirus",
+              "style": "macedon",
+              "importance": "major",
+              "timespan": {
+                "start": "319 BC",
+                "end": "272 BC"
+              },
+              "titles": [
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "307 BC",
+                    "end": "302 BC"
+                  }
+                },
+                {
+                  "name": "king",
+                  "timespan": {
+                    "start": "297 BC",
+                    "end": "272 BC"
+                  }
+                }
+              ]
+            },
+            {
               "pageBreak": true,
               "name": "Aratus of Sicyon",
               "style": "greek",
