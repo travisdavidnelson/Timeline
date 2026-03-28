@@ -1717,6 +1717,20 @@
               ]
             },
             {
+              "name": "Cimon",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "510 BC",
+                "end": "450 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Pericles",
               "style": "greek",
               "importance": "major",
