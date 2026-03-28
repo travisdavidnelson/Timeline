@@ -2154,6 +2154,19 @@
               ]
             },
             {
+              "name": "Demetrius",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "start": "337 BC",
+                "end": "283 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Pyrrhus of Epirus",
               "style": "macedon",
               "importance": "major",
