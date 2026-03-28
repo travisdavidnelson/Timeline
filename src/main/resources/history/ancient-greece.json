@@ -1738,6 +1738,20 @@
               ]
             },
             {
+              "name": "Nicias",
+              "style": "greek",
+              "importance": "semimajor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "470 BC",
+                "end": "413 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Lysander",
               "style": "greek",
               "importance": "major",
