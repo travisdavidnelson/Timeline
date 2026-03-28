@@ -1901,6 +1901,20 @@
               ]
             },
             {
+              "name": "Agesilaus II",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "startApproximate": "true",
+                "start": "445 BC",
+                "end": "359 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
               "name": "Epaminondas",
               "style": "greek",
               "importance": "semimajor",
@@ -1995,6 +2009,19 @@
                 "startApproximate": "true",
                 "start": "411 BC",
                 "end": "337 BC"
+              },
+              "titles": [
+              ],
+              "foregroundEvents": [
+              ]
+            },
+            {
+              "name": "Dion",
+              "style": "greek",
+              "importance": "minor",
+              "timespan": {
+                "start": "408 BC",
+                "end": "354 BC"
               },
               "titles": [
               ],
