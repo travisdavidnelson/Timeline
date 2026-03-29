@@ -2030,6 +2030,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Phocion",
               "style": "greek",
               "importance": "semimajor",
@@ -2110,7 +2111,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Alexander III",
               "style": "macedon",
               "importance": "transformational",
