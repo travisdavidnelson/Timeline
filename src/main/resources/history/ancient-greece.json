@@ -1575,6 +1575,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Aristides",
               "style": "greek",
               "importance": "semimajor",
@@ -2109,6 +2110,7 @@
               ]
             },
             {
+              "pageBreak": true,
               "name": "Alexander III",
               "style": "macedon",
               "importance": "transformational",
@@ -2192,7 +2194,6 @@
               ]
             },
             {
-              "pageBreak": true,
               "name": "Aratus of Sicyon",
               "style": "greek",
               "importance": "semimajor",
