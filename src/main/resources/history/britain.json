@@ -11460,6 +11460,24 @@
                   "name": "primeMinister",
                   "timespan": {
                     "start": "7/5/2024",
+                    "end": "7/20/2026"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Andy Burnham",
+              "style": "labour",
+              "importance": "petty",
+              "timespan": {
+                "start": "1/7/1970",
+                "end": ""
+              },
+              "titles": [
+                {
+                  "name": "primeMinister",
+                  "timespan": {
+                    "start": "7/20/2026",
                     "end": ""
                   }
                 }
